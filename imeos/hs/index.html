@@ -1,29 +1,37 @@
 <!doctype html>
-<html lang="zh-CN">
+<html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>进口许可查询 · Indonesia Market Entry OS</title>
+<title data-t="p.title">Import Lookup · Indonesia Market Entry OS</title>
 <link rel="stylesheet" href="/imeos/assets/os.css">
 </head>
 <body>
 <main class="wrap">
-  <div class="hero"><div class="eyebrow">Import Licensing Lookup</div><h1>按 HS 编码查进口管制与认证</h1>
-    <p class="lede">输入 HS 编码（4–8 位，可多个），返回 Lartas 管制（PI / LS / Pertek / 消费税）、产品认证（SNI / BPOM / SDPPI / 清真）与建议 KBLI。最终以 <a href="https://insw.go.id" target="_blank" rel="noopener">INSW</a> 与贸易部现行附件为准。</p></div>
-  <div class="card"><div class="row"><input type="search" id="q" placeholder="例：2404.12, 8543.40, 3304" style="flex:1"><button class="btn" id="go">查询</button></div>
-    <div id="out" style="margin-top:14px"></div></div>
-  <div class="card" style="margin-top:16px"><h2>规则表（知识库 <span id="v"></span>）</h2><div class="tbl-wrap"><table id="all"><thead><tr><th>HS</th><th>商品</th><th>管制</th><th>认证与说明</th><th>KBLI</th></tr></thead><tbody></tbody></table></div></div>
-  <p class="disclaimer">进口管制清单变动频繁（Permendag 16/2025 及其修订、PMK 关税调整、反倾销公告），本表用于初筛。</p>
+  <div class="hero"><div class="eyebrow">Import Licensing Lookup</div><h1 data-t="p.h1"></h1><p class="lede" data-t="p.lede"></p></div>
+  <div class="card"><div class="row"><input type="search" id="q" data-t-ph="p.ph" style="flex:1"><button class="btn" id="go" data-t="p.go"></button></div><div id="out" style="margin-top:14px"></div></div>
+  <div class="card" style="margin-top:16px"><h2><span data-t="p.table"></span> <span id="v" class="mute" style="font-size:13px;font-weight:400"></span></h2><div class="tbl-wrap"><table id="all"><thead><tr><th>HS</th><th data-t="c.goods"></th><th data-t="c.controls"></th><th data-t="c.certs"></th><th>KBLI</th></tr></thead><tbody></tbody></table></div></div>
+  <p class="disclaimer" data-t="p.disc"></p>
 </main>
+<script src="/imeos/assets/i18n.js"></script>
+<script>
+addI18N({
+  "p.title": ["进口许可查询 · Indonesia Market Entry OS", "Import Lookup · Indonesia Market Entry OS", "Cek Impor · Indonesia Market Entry OS"], "p.h1": ["按 HS 编码查进口管制与认证", "Import controls & certifications by HS code", "Kendali impor & sertifikasi per kode HS"],
+  "p.lede": ["输入 HS 编码（4–8 位，可多个），返回 Lartas 管制（PI / LS / Pertek / 消费税）、产品认证（SNI / BPOM / SDPPI / 清真）与建议 KBLI。最终以 <a href=\"https://insw.go.id\" target=\"_blank\" rel=\"noopener\">INSW</a> 与贸易部现行附件为准。", "Enter HS codes (4–8 digits, several allowed) to see restrictions (PI / LS / Pertek / excise), product certifications (SNI / BPOM / SDPPI / halal) and suggested KBLI. <a href=\"https://insw.go.id\" target=\"_blank\" rel=\"noopener\">INSW</a> and the current Ministry of Trade annex prevail.", "Masukkan kode HS (4–8 digit, boleh beberapa) untuk melihat lartas (PI / LS / Pertek / cukai), sertifikasi produk (SNI / BPOM / SDPPI / halal), dan KBLI yang disarankan. <a href=\"https://insw.go.id\" target=\"_blank\" rel=\"noopener\">INSW</a> dan lampiran Kemendag terkini yang berlaku."],
+  "p.ph": ["例：2404.12, 8543.40, 3304", "e.g. 2404.12, 8543.40, 3304", "mis. 2404.12, 8543.40, 3304"], "p.go": ["查询", "Look up", "Cari"], "p.table": ["规则表（知识库", "Rule table (knowledge base", "Tabel aturan (basis pengetahuan"],
+  "c.goods": ["商品", "Goods", "Barang"], "c.controls": ["管制", "Controls", "Kendali"], "c.certs": ["认证与说明", "Certifications & notes", "Sertifikasi & catatan"], "none": ["无特别管制", "No special control", "Tanpa kendali khusus"],
+  "r.kbli": ["建议 KBLI：", "Suggested KBLI: ", "KBLI yang disarankan: "], "r.insw": ["INSW 税率与 Lartas 查询 ↗", "INSW tariff & lartas lookup ↗", "Cek tarif & lartas di INSW ↗"], "r.unknown": ["知识库暂无该编码规则，请到 INSW 查询，并把结果反馈以扩充规则表。", "No rule for this code yet; check INSW and share the result to extend the table.", "Belum ada aturan untuk kode ini; periksa INSW dan bagikan hasilnya untuk melengkapi tabel."], "r.enter": ["请输入至少一个 HS 编码。", "Enter at least one HS code.", "Masukkan minimal satu kode HS."], "r.verify": ["税率与管制以 INSW/BTKI 2022 当前版本为准", "Rates and controls per current INSW/BTKI 2022", "Tarif dan kendali sesuai INSW/BTKI 2022 terkini"],
+  "p.disc": ["进口管制清单变动频繁（Permendag 16/2025 及其修订、PMK 关税调整、反倾销公告），本表用于初筛。", "Import control lists change often (Permendag 16/2025 and amendments, PMK tariff changes, anti-dumping notices); use this table for screening only.", "Daftar kendali impor sering berubah (Permendag 16/2025 dan perubahannya, tarif PMK, pengumuman BMAD); tabel ini hanya untuk penyaringan awal."],
+});
+</script>
 <script src="/imeos/assets/common.js"></script><script src="/imeos/assets/kb.js"></script><script src="/imeos/assets/calc.js"></script><script src="/imeos/assets/engine.js"></script>
 <script>
-$("#v").textContent = KB.version;
-const lt = (ids) => ids.map((l) => KB.lartas[l] ? `<span class="chip warn" title="${esc(KB.lartas[l].zh)}">${esc(KB.lartas[l].zh.split("：")[0].split("（")[0])}</span>` : "").join(" ") || '<span class="chip ok">无特别管制</span>';
-$("#all tbody").innerHTML = KB.hs.map((r) => `<tr><td class="mono">${esc(r[0])}</td><td>${esc(r[1])}</td><td>${lt(r[2])}</td><td>${esc(r[3])}</td><td class="mono">${esc(r[4])}</td></tr>`).join("");
+applyI18N(); $("#v").textContent = KB.version + ")";
+const lt = (ids) => ids.map((l) => KB.lartas[l] ? `<span class="chip warn" title="${esc(L(KB.lartas[l].zh))}">${esc(L(KB.lartas[l].zh).split(/[:：(（]/)[0])}</span>` : "").join(" ") || `<span class="chip ok">${T("none")}</span>`;
+$("#all tbody").innerHTML = KB.hs.map((r) => `<tr><td class="mono">${esc(r[0])}</td><td>${esc(L(r[1]))}</td><td>${lt(r[2])}</td><td>${esc(L(r[3]))}</td><td class="mono">${esc(r[4])}</td></tr>`).join("");
 $("#go").onclick = () => {
-  const codes = $("#q").value.split(/[,，;\s]+/).filter(Boolean);
-  const m = ENGINE.hsMatches(codes);
-  $("#out").innerHTML = m.map((h) => h.row ? `<div class="req"><div class="req-h"><b>HS ${esc(h.code)} · ${esc(h.row[1])}</b>${verifyTag("税率与管制以 INSW/BTKI 2022 当前版本为准")}</div><div style="margin:6px 0">${lt(h.row[2])}</div><ul>${h.row[2].map((l) => KB.lartas[l] ? `<li>${esc(KB.lartas[l].zh)}${KB.lartas[l].ref ? " — " + regLink(KB.lartas[l].ref) : ""}</li>` : "").join("")}<li>${esc(h.row[3])}</li><li>建议 KBLI：<span class="mono">${esc(h.row[4])}</span></li></ul><div class="src"><a href="https://insw.go.id/intr" target="_blank" rel="noopener">INSW 税率与 Lartas 查询 ↗</a></div></div>` : `<div class="req"><b>HS ${esc(h.code)}</b><p class="mute">知识库暂无该编码规则，请到 INSW 查询，并把结果反馈以扩充规则表。</p></div>`).join("") || "<p class='mute'>请输入至少一个 HS 编码。</p>";
+  const m = ENGINE.hsMatches($("#q").value.split(/[,，;\s]+/).filter(Boolean));
+  $("#out").innerHTML = m.map((h) => h.row ? `<div class="req"><div class="req-h"><b>HS ${esc(h.code)} · ${esc(L(h.row[1]))}</b>${verifyTag(T("r.verify"))}</div><div style="margin:6px 0">${lt(h.row[2])}</div><ul>${h.row[2].map((l) => KB.lartas[l] ? `<li>${esc(L(KB.lartas[l].zh))}${KB.lartas[l].ref ? " — " + regLink(KB.lartas[l].ref) : ""}</li>` : "").join("")}<li>${esc(L(h.row[3]))}</li><li>${T("r.kbli")}<span class="mono">${esc(h.row[4])}</span></li></ul><div class="src"><a href="https://insw.go.id/intr" target="_blank" rel="noopener">${T("r.insw")}</a></div></div>` : `<div class="req"><b>HS ${esc(h.code)}</b><p class="mute">${T("r.unknown")}</p></div>`).join("") || `<p class='mute'>${T("r.enter")}</p>`;
 };
 $("#q").addEventListener("keydown", (e) => e.key === "Enter" && $("#go").click());
 const u = new URL(location.href); if (u.searchParams.get("hs")) { $("#q").value = u.searchParams.get("hs"); $("#go").click(); }

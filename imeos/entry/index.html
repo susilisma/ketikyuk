@@ -1,9 +1,9 @@
 <!doctype html>
-<html lang="zh-CN">
+<html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>落地方案生成 · Indonesia Market Entry OS</title>
+<title data-t="p.title">Entry Plan · Indonesia Market Entry OS</title>
 <link rel="stylesheet" href="/imeos/assets/os.css">
 <style>
 .wiz{display:grid;grid-template-columns:380px 1fr;gap:24px;align-items:start}
@@ -19,114 +19,120 @@
 <body>
 <main class="wrap">
   <div class="hero">
-    <div class="eyebrow">Market Entry OS · 方案生成器</div>
-    <h1>输入企业与产品信息，生成印尼落地路线图</h1>
-    <p class="lede">输出：市场准入 → 主体与 NIB/KBLI/OSS → BPOM/SNI/清真 → 进口许可 → 税务 → 用工 → KITAS → 时间表 → 风险 → 预算 → Checklist。所有结论附法规出处，标注 <span class="verify">待核实</span> 的数值须在执行前复核。</p>
+    <div class="eyebrow" data-t="p.eyebrow"></div>
+    <h1 data-t="p.h1"></h1>
+    <p class="lede" data-t="p.lede"></p>
   </div>
-
   <div class="wiz">
     <form class="card form" id="f" onsubmit="return false">
-      <div class="fld"><label class="f">公司 / 项目名称</label><input type="text" id="company" placeholder="例：JOIWAY Indonesia"></div>
-      <div class="fld"><label class="f">行业</label><select id="sector"></select></div>
-      <div class="fld"><label class="f">产品描述</label><input type="text" id="product" placeholder="例：封闭式电子烟烟弹与设备"></div>
-      <div class="fld"><label class="f">HS 编码（可多个，逗号分隔）</label><input type="text" id="hs" placeholder="2404.12, 8543.40"><div class="help">前 4–6 位即可；用于匹配进口管制与认证规则</div></div>
-      <div class="fld"><label class="f">进入模式</label><select id="mode">
-        <option value="pma">设立外资公司 PT PMA</option><option value="rep">代表处 KPPA / KP3A</option><option value="distributor">不设实体，指定本地进口商/分销商</option><option value="ecom">跨境电商 / 平台</option></select></div>
-      <div class="fld"><label class="f">计划投资额（亿印尼盾，不含土地建筑）</label><input type="number" id="investment" value="10" min="0" step="1"><div class="help">PMA 门槛：每个 KBLI、每个地点 > 10 亿</div></div>
-      <div class="fld"><label class="f">在印尼开展的活动</label><div class="chips-in" id="acts">
-        <label><input type="checkbox" value="import" checked><span>进口</span></label>
-        <label><input type="checkbox" value="wholesale" checked><span>批发分销</span></label>
-        <label><input type="checkbox" value="retail"><span>零售门店</span></label>
-        <label><input type="checkbox" value="ecommerce"><span>电商/平台</span></label>
-        <label><input type="checkbox" value="manufacture"><span>本地生产/组装</span></label>
-        <label><input type="checkbox" value="services"><span>服务/售后</span></label></div></div>
+      <div class="fld"><label class="f" data-t="f.company"></label><input type="text" id="company" data-t-ph="f.companyPh"></div>
+      <div class="fld"><label class="f" data-t="f.sector"></label><select id="sector"></select></div>
+      <div class="fld"><label class="f" data-t="f.product"></label><input type="text" id="product" data-t-ph="f.productPh"></div>
+      <div class="fld"><label class="f" data-t="f.hs"></label><input type="text" id="hs" placeholder="2404.12, 8543.40"><div class="help" data-t="f.hsHelp"></div></div>
+      <div class="fld"><label class="f" data-t="f.mode"></label><select id="mode"><option value="pma" data-t="m.pma"></option><option value="rep" data-t="m.rep"></option><option value="distributor" data-t="m.dist"></option><option value="ecom" data-t="m.ecom"></option></select></div>
+      <div class="fld"><label class="f" data-t="f.inv"></label><input type="number" id="investment" value="10" min="0" step="1"><div class="help" data-t="f.invHelp"></div></div>
+      <div class="fld"><label class="f" data-t="f.acts"></label><div class="chips-in" id="acts">
+        <label><input type="checkbox" value="import" checked><span data-t="a.import"></span></label>
+        <label><input type="checkbox" value="wholesale" checked><span data-t="a.wholesale"></span></label>
+        <label><input type="checkbox" value="retail"><span data-t="a.retail"></span></label>
+        <label><input type="checkbox" value="ecommerce"><span data-t="a.ecom"></span></label>
+        <label><input type="checkbox" value="manufacture"><span data-t="a.manu"></span></label>
+        <label><input type="checkbox" value="services"><span data-t="a.services"></span></label></div></div>
       <div class="grid" style="grid-template-columns:1fr 1fr;gap:10px">
-        <div class="fld"><label class="f">所在省/市</label><select id="province"></select></div>
-        <div class="fld"><label class="f">场地</label><select id="land"><option value="rent">租赁</option><option value="buy">购置土地/厂房</option></select></div>
-        <div class="fld"><label class="f">本地员工数</label><input type="number" id="staff" value="10" min="0"></div>
-        <div class="fld"><label class="f">常驻外籍人员</label><input type="number" id="expats" value="2" min="0"></div>
-        <div class="fld"><label class="f">启动日期</label><input type="date" id="startDate"></div>
-        <div class="fld"><label class="f">节奏</label><select id="urgency"><option value="normal">正常</option><option value="fast">加急（按最短周期）</option></select></div>
+        <div class="fld"><label class="f" data-t="f.province"></label><select id="province"></select></div>
+        <div class="fld"><label class="f" data-t="f.land"></label><select id="land"><option value="rent" data-t="f.rent"></option><option value="buy" data-t="f.buy"></option></select></div>
+        <div class="fld"><label class="f" data-t="f.staff"></label><input type="number" id="staff" value="10" min="0"></div>
+        <div class="fld"><label class="f" data-t="f.expats"></label><input type="number" id="expats" value="2" min="0"></div>
+        <div class="fld"><label class="f" data-t="f.start"></label><input type="date" id="startDate"></div>
+        <div class="fld"><label class="f" data-t="f.pace"></label><select id="urgency"><option value="normal" data-t="f.normal"></option><option value="fast" data-t="f.fast"></option></select></div>
       </div>
-      <div class="row"><button class="btn" id="go">生成方案</button><button class="btn ghost" id="demo" type="button">载入示例（电子烟）</button></div>
-      <p class="help" style="margin-top:10px">输入仅保存在本机浏览器，不上传。</p>
+      <div class="row"><button class="btn" id="go" data-t="f.go"></button><button class="btn ghost" id="demo" type="button" data-t="f.demo"></button></div>
+      <p class="help" style="margin-top:10px" data-t="f.privacy"></p>
     </form>
-
-    <div id="out"><div class="card empty">填写左侧表单后点击“生成方案”。</div></div>
+    <div id="out"><div class="card empty" data-t="p.empty"></div></div>
   </div>
-  <p class="disclaimer">本工具基于公开法规与市场经验整理（知识库版本 <span id="kbv"></span>），用于前期规划与沟通，不构成法律、税务意见。执行前请以 OSS、INSW、各部委官方公告及专业顾问意见为准。</p>
+  <p class="disclaimer"><span data-t="p.disc"></span> <span id="kbv"></span></p>
 </main>
+<script src="/imeos/assets/i18n.js"></script>
+<script>
+addI18N({
+  "p.title": ["落地方案生成 · Indonesia Market Entry OS", "Entry Plan · Indonesia Market Entry OS", "Rencana Masuk · Indonesia Market Entry OS"],
+  "p.eyebrow": ["Market Entry OS · 方案生成器", "Market Entry OS · Plan generator", "Market Entry OS · Generator rencana"],
+  "p.h1": ["输入企业与产品信息，生成印尼落地路线图", "Enter your company and product, get an Indonesia entry roadmap", "Masukkan data perusahaan dan produk, dapatkan peta jalan masuk ke Indonesia"],
+  "p.lede": ["输出：市场准入 → 主体与 NIB/KBLI/OSS → BPOM/SNI/清真 → 进口许可 → 税务 → 用工 → KITAS → 时间表 → 风险 → 预算 → Checklist。所有结论附法规出处，标注 <span class=\"verify\">待核实</span> 的数值须在执行前复核。", "Output: market access → entity & NIB/KBLI/OSS → BPOM/SNI/halal → import licensing → tax → employment → KITAS → timeline → risks → budget → checklist. Every item cites its regulation; values tagged <span class=\"verify\">verify</span> must be confirmed before acting.", "Keluaran: akses pasar → badan usaha & NIB/KBLI/OSS → BPOM/SNI/halal → perizinan impor → pajak → ketenagakerjaan → KITAS → jadwal → risiko → anggaran → daftar periksa. Setiap butir merujuk peraturan; nilai bertanda <span class=\"verify\">perlu verifikasi</span> harus dikonfirmasi sebelum bertindak."],
+  "f.company": ["公司 / 项目名称", "Company / project", "Perusahaan / proyek"], "f.companyPh": ["例：JOIWAY Indonesia", "e.g. JOIWAY Indonesia", "mis. JOIWAY Indonesia"],
+  "f.sector": ["行业", "Industry", "Industri"], "f.product": ["产品描述", "Product description", "Deskripsi produk"], "f.productPh": ["例：封闭式电子烟烟弹与设备", "e.g. closed-system e-cigarette pods and devices", "mis. pod dan perangkat rokok elektrik sistem tertutup"],
+  "f.hs": ["HS 编码（可多个，逗号分隔）", "HS codes (comma-separated)", "Kode HS (pisahkan dengan koma)"], "f.hsHelp": ["前 4–6 位即可；用于匹配进口管制与认证规则", "First 4–6 digits suffice; matches import controls and certification rules", "4–6 digit pertama cukup; untuk mencocokkan kendali impor dan sertifikasi"],
+  "f.mode": ["进入模式", "Entry mode", "Mode masuk"], "m.pma": ["设立外资公司 PT PMA", "Set up a PT PMA", "Mendirikan PT PMA"], "m.rep": ["代表处 KPPA / KP3A", "Representative office (KPPA / KP3A)", "Kantor perwakilan (KPPA / KP3A)"], "m.dist": ["不设实体，指定本地进口商/分销商", "No entity — local importer/distributor", "Tanpa entitas — importir/distributor lokal"], "m.ecom": ["跨境电商 / 平台", "Cross-border e-commerce / marketplace", "E-commerce lintas batas / marketplace"],
+  "f.inv": ["计划投资额（亿印尼盾，不含土地建筑）", "Planned investment (Rp billion, excl. land & buildings)", "Rencana investasi (miliar Rp, di luar tanah & bangunan)"], "f.invHelp": ["PMA 门槛：每个 KBLI、每个地点 > 10 亿", "PMA threshold: > Rp10bn per KBLI per location", "Ambang PMA: > Rp10 miliar per KBLI per lokasi"],
+  "f.acts": ["在印尼开展的活动", "Activities in Indonesia", "Kegiatan di Indonesia"], "a.import": ["进口", "Import", "Impor"], "a.wholesale": ["批发分销", "Wholesale", "Perdagangan besar"], "a.retail": ["零售门店", "Retail stores", "Toko ritel"], "a.ecom": ["电商/平台", "E-commerce", "E-commerce"], "a.manu": ["本地生产/组装", "Manufacturing/assembly", "Produksi/perakitan"], "a.services": ["服务/售后", "Services", "Jasa/purnajual"],
+  "f.province": ["所在省/市", "Province / city", "Provinsi / kota"], "f.land": ["场地", "Premises", "Lokasi"], "f.rent": ["租赁", "Lease", "Sewa"], "f.buy": ["购置土地/厂房", "Buy land/plant", "Beli tanah/pabrik"],
+  "f.staff": ["本地员工数", "Local staff", "Pekerja lokal"], "f.expats": ["常驻外籍人员", "Resident expats", "TKA menetap"], "f.start": ["启动日期", "Start date", "Tanggal mulai"], "f.pace": ["节奏", "Pace", "Kecepatan"], "f.normal": ["正常", "Normal", "Normal"], "f.fast": ["加急（按最短周期）", "Fast (shortest durations)", "Cepat (durasi tersingkat)"],
+  "f.go": ["生成方案", "Generate plan", "Buat rencana"], "f.demo": ["载入示例（电子烟）", "Load example (e-cigarettes)", "Muat contoh (rokok elektrik)"], "f.privacy": ["输入仅保存在本机浏览器，不上传。", "Inputs stay in your browser; nothing is uploaded.", "Data hanya tersimpan di peramban Anda; tidak diunggah."],
+  "p.empty": ["填写左侧表单后点击“生成方案”。", "Fill in the form and click “Generate plan”.", "Isi formulir lalu klik “Buat rencana”."],
+  "p.disc": ["本工具基于公开法规与市场经验整理，用于前期规划与沟通，不构成法律、税务意见。执行前请以 OSS、INSW、各部委官方公告及专业顾问意见为准。知识库版本", "Built from public regulations and market experience for planning and discussion; not legal or tax advice. Rely on OSS, INSW, official ministry notices and professional advisers before acting. Knowledge base version", "Disusun dari peraturan publik dan pengalaman pasar untuk perencanaan dan diskusi; bukan nasihat hukum atau pajak. Berpeganglah pada OSS, INSW, pengumuman resmi, dan konsultan profesional. Versi basis pengetahuan"],
+  "r.report": ["Indonesia Market Entry Report", "Indonesia Market Entry Report", "Laporan Masuk Pasar Indonesia"], "r.plan": ["印尼落地方案", "Indonesia entry plan", "Rencana masuk Indonesia"], "r.untitled": ["未命名项目", "Untitled project", "Proyek tanpa nama"],
+  "r.inv": ["投资 Rp{n} 亿", "Investment Rp{n}bn", "Investasi Rp{n} miliar"], "r.staff": ["员工 {s} / 外籍 {e}", "Staff {s} / expats {e}", "Pekerja {s} / TKA {e}"],
+  "r.weeks": ["{w} 周", "{w} weeks", "{w} minggu"], "r.weeksL": ["预计可运营周期", "Time to operational", "Waktu hingga beroperasi"], "r.oneOffL": ["一次性落地费用（不含资本金）", "One-off set-up cost (excl. capital)", "Biaya pendirian sekali (di luar modal)"], "r.certsL": ["产品认证/注册项", "Product certifications", "Sertifikasi produk"], "r.riskL": ["风险项", "Risks", "Risiko"], "r.riskHM": ["{h} 高 / {m} 中", "{h} high / {m} medium", "{h} tinggi / {m} sedang"],
+  "r.tl": ["时间表", "Timeline", "Jadwal"], "r.rk": ["风险", "Risks", "Risiko"], "r.bg": ["预算（指导价）", "Budget (indicative)", "Anggaran (indikatif)"], "r.cl": ["Checklist", "Checklist", "Daftar periksa"],
+  "r.print": ["打印 / PDF", "Print / PDF", "Cetak / PDF"], "r.json": ["导出 JSON", "Export JSON", "Ekspor JSON"], "r.basis": ["依据：", "Basis: ", "Dasar: "],
+  "r.critical": ["红色为关键路径。启动 {s} → 预计可运营 <b>{g}</b>（约 {w} 周）。", "Red = critical path. Start {s} → operational by <b>{g}</b> (~{w} weeks).", "Merah = jalur kritis. Mulai {s} → beroperasi <b>{g}</b> (±{w} minggu)."],
+  "r.high": ["高", "High", "Tinggi"], "r.medium": ["中", "Medium", "Sedang"], "r.low": ["低", "Low", "Rendah"],
+  "r.item": ["项目", "Item", "Pos"], "r.type": ["类型", "Type", "Jenis"], "r.lo": ["低", "Low", "Rendah"], "r.hi": ["高", "High", "Tinggi"], "r.setup": ["一次性", "One-off", "Sekali"], "r.annual": ["每年", "Annual", "Tahunan"], "r.perExpat": ["一次性/年", "One-off/year", "Sekali/tahun"],
+  "r.oneOffSum": ["一次性合计（含外籍人员）", "One-off total (incl. expats)", "Total sekali (termasuk TKA)"], "r.annualSum": ["年度运营固定项", "Annual fixed costs", "Biaya tetap tahunan"],
+  "r.capitalNote": ["另需实缴资本 ≥ Rp100 亿（≈ ¥{c}），为公司自有资金而非费用；人力成本见“用工”章节。", "Plus paid-up capital ≥ Rp10bn (≈ ¥{c}) — company funds, not a cost; labour cost is in the Employment section.", "Ditambah modal disetor ≥ Rp10 miliar (≈ ¥{c}) — dana perusahaan, bukan biaya; biaya tenaga kerja di bagian Ketenagakerjaan."],
+  "r.generated": ["生成时间 {d}。知识库 {v}。", "Generated {d}. Knowledge base {v}.", "Dibuat {d}. Basis pengetahuan {v}."],
+  "tag.ok": ["满足", "Met", "Terpenuhi"], "tag.bad": ["阻碍", "Blocker", "Hambatan"], "tag.warn": ["注意", "Note", "Perhatian"],
+});
+</script>
 <script src="/imeos/assets/common.js"></script>
 <script src="/imeos/assets/kb.js"></script>
 <script src="/imeos/assets/calc.js"></script>
 <script src="/imeos/assets/engine.js"></script>
 <script>
 $("#kbv").textContent = KB.version;
-$("#sector").innerHTML = KB.sectors.map((s) => `<option value="${s.id}">${s.zh}</option>`).join("");
+$("#sector").innerHTML = KB.sectors.map((s) => `<option value="${s.id}">${esc(L(s.zh))}</option>`).join("");
 $("#province").innerHTML = KB.labor.ump2025.map((u) => `<option value="${esc(u[0])}">${esc(u[0])}</option>`).join("");
 $("#startDate").value = dateISO(new Date());
+applyI18N();
 
 function readInput() {
-  return {
-    company: $("#company").value.trim(), sector: $("#sector").value, product: $("#product").value.trim(),
-    hs: $("#hs").value.split(/[,，;\s]+/).filter(Boolean), mode: $("#mode").value, investment: +$("#investment").value || 0,
-    activities: $$("#acts input:checked").map((i) => i.value), province: $("#province").value, land: $("#land").value,
-    staff: +$("#staff").value || 0, expats: +$("#expats").value || 0, startDate: $("#startDate").value, urgency: $("#urgency").value,
-  };
+  return { company: $("#company").value.trim(), sector: $("#sector").value, product: $("#product").value.trim(), hs: $("#hs").value.split(/[,，;\s]+/).filter(Boolean), mode: $("#mode").value, investment: +$("#investment").value || 0, activities: $$("#acts input:checked").map((i) => i.value), province: $("#province").value, land: $("#land").value, staff: +$("#staff").value || 0, expats: +$("#expats").value || 0, startDate: $("#startDate").value, urgency: $("#urgency").value };
 }
 function writeInput(i) {
-  $("#company").value = i.company || ""; $("#sector").value = i.sector; $("#product").value = i.product || ""; $("#hs").value = (i.hs || []).join(", ");
-  $("#mode").value = i.mode; $("#investment").value = i.investment; $$("#acts input").forEach((c) => c.checked = i.activities.includes(c.value));
-  $("#province").value = i.province; $("#land").value = i.land; $("#staff").value = i.staff; $("#expats").value = i.expats; $("#startDate").value = i.startDate || dateISO(new Date()); $("#urgency").value = i.urgency || "normal";
+  $("#company").value = i.company || ""; $("#sector").value = i.sector; $("#product").value = i.product || ""; $("#hs").value = (i.hs || []).join(", "); $("#mode").value = i.mode; $("#investment").value = i.investment;
+  $$("#acts input").forEach((c) => c.checked = i.activities.includes(c.value)); $("#province").value = i.province; $("#land").value = i.land; $("#staff").value = i.staff; $("#expats").value = i.expats; $("#startDate").value = i.startDate || dateISO(new Date()); $("#urgency").value = i.urgency || "normal";
 }
-const DEMO = { company: "JOIWAY Indonesia", sector: "hptl", product: "封闭式电子烟烟弹与雾化设备，中国生产、印尼进口分销", hs: ["2404.12", "8543.40"], mode: "pma", investment: 15, activities: ["import", "wholesale", "ecommerce"], province: "DKI Jakarta", land: "rent", staff: 12, expats: 2, startDate: dateISO(new Date()), urgency: "normal" };
+const DEMO = { company: "JOIWAY Indonesia", sector: "hptl", product: L(["封闭式电子烟烟弹与雾化设备，中国生产、印尼进口分销", "Closed-system e-cigarette pods and devices, made in China, imported and distributed in Indonesia", "Pod dan perangkat rokok elektrik sistem tertutup, produksi Tiongkok, diimpor dan didistribusikan di Indonesia"]), hs: ["2404.12", "8543.40"], mode: "pma", investment: 15, activities: ["import", "wholesale", "ecommerce"], province: "DKI Jakarta", land: "rent", staff: 12, expats: 2, startDate: dateISO(new Date()), urgency: "normal" };
 
 function item(it) {
-  const tag = it.tag ? `<span class="chip ${it.tag}">${{ ok: "满足", bad: "阻碍", warn: "注意" }[it.tag] || it.tag}</span>` : "";
-  return `<div class="req"><div class="req-h"><b>${esc(it.title)}</b>${tag}${it.v ? verifyTag(it.v) : ""}</div>
-    ${it.body?.length ? `<ul>${it.body.map((b) => `<li>${esc(b)}</li>`).join("")}</ul>` : ""}
-    ${it.refs?.length ? `<div class="src">依据：${it.refs.map(regLink).join(" · ")}</div>` : ""}</div>`;
+  const tag = it.tag ? `<span class="chip ${it.tag}">${T("tag." + it.tag)}</span>` : "";
+  return `<div class="req"><div class="req-h"><b>${esc(it.title)}</b>${tag}${it.v ? verifyTag(it.v) : ""}</div>${it.body?.length ? `<ul>${it.body.map((b) => `<li>${esc(b)}</li>`).join("")}</ul>` : ""}${it.refs?.length ? `<div class="src">${T("r.basis")}${it.refs.map(regLink).join(" · ")}</div>` : ""}</div>`;
 }
 function gantt(t) {
-  const W = t.totalWeeks || 1;
-  const ticks = []; for (let w = 0; w <= W; w += Math.max(1, Math.round(W / 8))) ticks.push(`<span style="left:${(w / W) * 100}%">${w}周</span>`);
-  return `<div class="gantt"><div class="g-scale"><div></div><div class="g-ticks">${ticks.join("")}</div></div>
-    ${t.phases.map((p) => `<div class="g-row"><div>${esc(p.name)} <small class="mute">${p.lo}–${p.hi}周</small></div><div class="g-bar"><i class="${p.crit ? "crit" : ""}" style="left:${(p.start / W) * 100}%;width:${((p.end - p.start) / W) * 100}%" title="第 ${p.start}–${p.end} 周"></i></div></div>`).join("")}
-    <p class="mute" style="margin-top:8px">红色为关键路径。启动 ${t.start} → 预计可运营 <b>${t.goLive}</b>（约 ${t.totalWeeks} 周）。</p></div>`;
+  const W = t.totalWeeks || 1, wk = T("week");
+  const ticks = []; for (let w = 0; w <= W; w += Math.max(1, Math.round(W / 8))) ticks.push(`<span style="left:${(w / W) * 100}%">${w}${wk}</span>`);
+  return `<div class="gantt"><div class="g-scale"><div></div><div class="g-ticks">${ticks.join("")}</div></div>${t.phases.map((p) => `<div class="g-row"><div>${esc(p.name)} <small class="mute">${p.lo}–${p.hi}${wk}</small></div><div class="g-bar"><i class="${p.crit ? "crit" : ""}" style="left:${(p.start / W) * 100}%;width:${((p.end - p.start) / W) * 100}%"></i></div></div>`).join("")}<p class="mute" style="margin-top:8px">${T("r.critical", { s: t.start, g: t.goLive, w: t.totalWeeks })}</p></div>`;
 }
 function render(R) {
-  const i = R.input, B = R.budget;
-  const html = `
-  <div class="card report" id="report">
-    <div class="row noprint"><div class="sec-nav">${R.sections.map((s) => `<a href="#s${s.n}">${s.n}. ${s.title}</a>`).join("")}<a href="#tl">时间表</a><a href="#rk">风险</a><a href="#bg">预算</a><a href="#cl">Checklist</a></div><div class="spacer"></div>
-      <button class="btn sm ghost" onclick="window.print()">打印 / PDF</button><button class="btn sm ghost" onclick="exportJSON()">导出 JSON</button></div>
-    <div class="eyebrow">Indonesia Market Entry Report · ${esc(KB.asOf)}</div>
-    <h1>${esc(i.company || "未命名项目")} · 印尼落地方案</h1>
-    <p class="lede">${esc(R.sector.zh)} · ${esc(R.mode.zh)} · 投资 Rp${num(i.investment)} 亿 · ${esc(i.province)} · 员工 ${i.staff} / 外籍 ${i.expats}${i.product ? " · " + esc(i.product) : ""}</p>
-    <div class="grid g4" style="margin:14px 0 6px">
-      <div class="stat"><b>${R.timeline.totalWeeks} 周</b><span>预计可运营周期</span></div>
-      <div class="stat"><b>${idr(B.oneOff.lo, { short: true })}–${idr(B.oneOff.hi, { short: true })}</b><span>一次性落地费用（不含资本金）</span></div>
-      <div class="stat"><b>${R.certIds.length}</b><span>产品认证/注册项</span></div>
-      <div class="stat"><b>${R.risks.filter((r) => r.level === "high").length} 高 / ${R.risks.filter((r) => r.level === "medium").length} 中</b><span>风险项</span></div>
-    </div>
+  const i = R.input, B = R.budget, n = R.sections.length;
+  $("#out").innerHTML = `<div class="card report" id="report">
+    <div class="row noprint"><div class="sec-nav">${R.sections.map((s) => `<a href="#s${s.n}">${s.n}. ${esc(s.title)}</a>`).join("")}<a href="#tl">${T("r.tl")}</a><a href="#rk">${T("r.rk")}</a><a href="#bg">${T("r.bg")}</a><a href="#cl">${T("r.cl")}</a></div><div class="spacer"></div><button class="btn sm ghost" onclick="window.print()">${T("r.print")}</button><button class="btn sm ghost" onclick="exportJSON()">${T("r.json")}</button></div>
+    <div class="eyebrow">${T("r.report")} · ${esc(L(KB.asOf))}</div>
+    <h1>${esc(i.company || T("r.untitled"))} · ${T("r.plan")}</h1>
+    <p class="lede">${esc(L(R.sector.zh))} · ${esc(L(R.mode.zh))} · ${T("r.inv", { n: num(i.investment) })} · ${esc(i.province)} · ${T("r.staff", { s: i.staff, e: i.expats })}${i.product ? " · " + esc(i.product) : ""}</p>
+    <div class="grid g4" style="margin:14px 0 6px"><div class="stat"><b>${T("r.weeks", { w: R.timeline.totalWeeks })}</b><span>${T("r.weeksL")}</span></div><div class="stat"><b>${idr(B.oneOff.lo, { short: true })}–${idr(B.oneOff.hi, { short: true })}</b><span>${T("r.oneOffL")}</span></div><div class="stat"><b>${R.certIds.length}</b><span>${T("r.certsL")}</span></div><div class="stat"><b>${T("r.riskHM", { h: R.risks.filter((r) => r.level === "high").length, m: R.risks.filter((r) => r.level === "medium").length })}</b><span>${T("r.riskL")}</span></div></div>
     ${R.sections.map((s) => `<h2 id="s${s.n}"><span class="n">${s.n}</span>${esc(s.title)}</h2>${s.items.map(item).join("")}`).join("")}
-    <h2 id="tl"><span class="n">${R.sections.length + 1}</span>时间表</h2>${gantt(R.timeline)}
-    <h2 id="rk"><span class="n">${R.sections.length + 2}</span>风险</h2>
-    ${R.risks.map((r) => `<div class="risk ${r.level}"><div class="lv"></div><div><b>${esc(r.zh)}</b> <span class="chip ${{ high: "bad", medium: "warn", low: "info" }[r.level]}">${{ high: "高", medium: "中", low: "低" }[r.level]}</span><div>${esc(r.detail)}</div></div></div>`).join("")}
-    <h2 id="bg"><span class="n">${R.sections.length + 3}</span>预算（指导价，${esc(KB.fxNote)}）</h2>
-    <div class="tbl-wrap"><table><thead><tr><th>项目</th><th>类型</th><th class="num">低</th><th class="num">高</th></tr></thead><tbody>
-      ${B.rows.map((r) => `<tr><td>${esc(r.zh)}${r.mult > 1 ? ` × ${r.mult}` : ""}</td><td>${{ setup: "一次性", annual: "每年", perExpat: "一次性/年" }[r.phase]}</td><td class="num">${idr(r.lo)}</td><td class="num">${idr(r.hi)}</td></tr>`).join("")}
-    </tbody><tfoot><tr><td colspan="2">一次性合计（含外籍人员）</td><td class="num">${idr(B.oneOff.lo)}<br><small>¥${num(toCNY(B.oneOff.lo))}</small></td><td class="num">${idr(B.oneOff.hi)}<br><small>¥${num(toCNY(B.oneOff.hi))}</small></td></tr>
-      <tr><td colspan="2">年度运营固定项</td><td class="num">${idr(B.annual.lo)}<br><small>¥${num(toCNY(B.annual.lo))}</small></td><td class="num">${idr(B.annual.hi)}<br><small>¥${num(toCNY(B.annual.hi))}</small></td></tr></tfoot></table></div>
-    ${i.mode === "pma" ? `<p class="note">另需实缴资本 ≥ Rp100 亿（≈ ¥${num(toCNY(10e9))}），为公司自有资金而非费用；人力成本见“用工”章节估算。</p>` : ""}
-    <h2 id="cl"><span class="n">${R.sections.length + 4}</span>Checklist</h2>
-    <div id="cl-list">${Object.entries(R.checklist.reduce((m, c) => ((m[c.group] = m[c.group] || []).push(c), m), {})).map(([g, items]) => `<h3 style="margin-top:14px">${esc(g)}</h3>${items.map((c, k) => `<label class="cl-item"><input type="checkbox" data-k="${esc(g + "|" + c.text)}"><span><span class="cl-t">${esc(c.text)}</span>${c.meta ? ` <span class="cl-m">${esc(c.meta)}</span>` : ""}</span></label>`).join("")}`).join("")}</div>
-    <p class="disclaimer">生成时间 ${new Date(R.generated).toLocaleString("zh-CN")}。知识库 ${esc(KB.version)}。</p>
-  </div>`;
-  $("#out").innerHTML = html;
+    <h2 id="tl"><span class="n">${n + 1}</span>${T("r.tl")}</h2>${gantt(R.timeline)}
+    <h2 id="rk"><span class="n">${n + 2}</span>${T("r.rk")}</h2>${R.risks.map((r) => `<div class="risk ${r.level}"><div class="lv"></div><div><b>${esc(r.zh)}</b> <span class="chip ${{ high: "bad", medium: "warn", low: "info" }[r.level]}">${T("r." + r.level)}</span><div>${esc(r.detail)}</div></div></div>`).join("")}
+    <h2 id="bg"><span class="n">${n + 3}</span>${T("r.bg")}</h2><p class="mute">${T("fx.note")}</p>
+    <div class="tbl-wrap"><table><thead><tr><th>${T("r.item")}</th><th>${T("r.type")}</th><th class="num">${T("r.lo")}</th><th class="num">${T("r.hi")}</th></tr></thead><tbody>${B.rows.map((r) => `<tr><td>${esc(L(r.zh))}${r.mult > 1 ? ` × ${r.mult}` : ""}</td><td>${T("r." + r.phase)}</td><td class="num">${idr(r.lo)}</td><td class="num">${idr(r.hi)}</td></tr>`).join("")}</tbody>
+    <tfoot><tr><td colspan="2">${T("r.oneOffSum")}</td><td class="num">${idr(B.oneOff.lo)}<br><small>¥${num(toCNY(B.oneOff.lo))} / $${num(toUSD(B.oneOff.lo))}</small></td><td class="num">${idr(B.oneOff.hi)}<br><small>¥${num(toCNY(B.oneOff.hi))} / $${num(toUSD(B.oneOff.hi))}</small></td></tr><tr><td colspan="2">${T("r.annualSum")}</td><td class="num">${idr(B.annual.lo)}<br><small>¥${num(toCNY(B.annual.lo))}</small></td><td class="num">${idr(B.annual.hi)}<br><small>¥${num(toCNY(B.annual.hi))}</small></td></tr></tfoot></table></div>
+    ${i.mode === "pma" ? `<p class="note">${T("r.capitalNote", { c: num(toCNY(10e9)) })}</p>` : ""}
+    <h2 id="cl"><span class="n">${n + 4}</span>${T("r.cl")}</h2><div id="cl-list">${Object.entries(R.checklist.reduce((m, c) => ((m[c.group] = m[c.group] || []).push(c), m), {})).map(([g, items]) => `<h3 style="margin-top:14px">${esc(g)}</h3>${items.map((c) => `<label class="cl-item"><input type="checkbox" data-k="${esc(g + "|" + c.text)}"><span><span class="cl-t">${esc(c.text)}</span>${c.meta ? ` <span class="cl-m">${esc(c.meta)}</span>` : ""}</span></label>`).join("")}`).join("")}</div>
+    <p class="disclaimer">${T("r.generated", { d: new Date(R.generated).toLocaleString(locale), v: KB.version })}</p></div>`;
   const done = store.get("cl", {});
-  $$("#cl-list input").forEach((c) => { c.checked = !!done[c.dataset.k]; c.closest(".cl-item").classList.toggle("done", c.checked);
-    c.onchange = () => { done[c.dataset.k] = c.checked; store.set("cl", done); c.closest(".cl-item").classList.toggle("done", c.checked); }; });
+  $$("#cl-list input").forEach((c) => { c.checked = !!done[c.dataset.k]; c.closest(".cl-item").classList.toggle("done", c.checked); c.onchange = () => { done[c.dataset.k] = c.checked; store.set("cl", done); c.closest(".cl-item").classList.toggle("done", c.checked); }; });
   window.__R = R;
 }
 window.exportJSON = () => download(`imeos-${(__R.input.company || "report").replace(/\s+/g, "_")}.json`, JSON.stringify(__R, null, 1), "application/json");

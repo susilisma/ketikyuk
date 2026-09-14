@@ -1,10 +1,10 @@
 <!doctype html>
-<html lang="zh-CN">
+<html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Indonesia Market Entry OS</title>
-<meta name="description" content="中国企业印尼落地操作系统：市场准入、PMA 设立、BPOM/SNI/清真、进口许可、税务、用工、KITAS、时间表、预算、法规情报库与新旧法规 Diff。">
+<meta name="description" content="Indonesia Market Entry OS — market access, PMA set-up, BPOM/SNI/halal, import licensing, tax, employment, KITAS, timeline, budget, and a regulatory intelligence library with law diffs. 中文 · English · Bahasa Indonesia.">
 <link rel="stylesheet" href="/imeos/assets/os.css">
 <style>
 .tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px}
@@ -22,37 +22,49 @@
 <body>
 <main class="wrap">
   <div class="hero">
-    <div class="eyebrow">Indonesia Market Entry OS · 中国企业印尼落地操作系统</div>
-    <h1>从“想去印尼”到“在印尼合规运营”，一套系统走完</h1>
-    <p class="lede">输入行业、产品、HS 编码、是否设 PMA、投资额与销售方式，系统输出准入、NIB/KBLI/OSS、BPOM/SNI/清真、进口许可、税务、用工、KITAS、时间表、风险、预算与 Checklist；背后是每日抓取印尼中央部委法规、自动比对新旧条文的法规情报库。</p>
-    <div class="flow" style="margin-top:14px"><span>行业</span><i>→</i><span>产品 / HS</span><i>→</i><span>PMA?</span><i>→</i><span>投资额</span><i>→</i><span>销售方式</span><i>⇒</i><span>准入</span><span>NIB/KBLI/OSS</span><span>BPOM/SNI/Halal</span><span>进口许可</span><span>税务</span><span>用工</span><span>KITAS</span><span>时间表</span><span>风险</span><span>预算</span><span>Checklist</span></div>
+    <div class="eyebrow" data-t="h.eyebrow"></div>
+    <h1 data-t="h.h1"></h1>
+    <p class="lede" data-t="h.lede"></p>
+    <div class="flow" style="margin-top:14px" id="flow"></div>
   </div>
-
   <div class="tiles">
-    <a class="tile" href="/imeos/entry/"><div class="k">01 · 方案生成</div><h3>落地方案生成器</h3><p>12 章节结构化报告，附法规出处、甘特图、预算区间与可勾选 Checklist，可打印成 PDF。</p><span class="chip dark">开始 →</span></a>
-    <a class="tile" href="/imeos/calculators/"><div class="k">02 · 计算器</div><h3>成本 · 工资/BPJS · 消费税 · 到岸成本</h3><p>PMA 设立成本、PPh 21 与 BPJS 雇主成本、电子烟/HPTL 三层税负倒算、进口到岸成本。</p><span class="chip dark">计算 →</span></a>
-    <a class="tile" href="/imeos/regintel/"><div class="k">03 · 法规情报</div><h3>Indonesia Regulatory Intelligence</h3><p>自动抓取 BPK/JDIH 法规库，标准化编号、部门与主题分类、有效/废止判断、条款拆分、新旧条文 Diff 与预警。</p><span class="chip dark" id="regcount">加载中…</span></a>
-    <a class="tile" href="/imeos/hs/"><div class="k">04 · 进口许可</div><h3>按 HS 编码查管制与认证</h3><p>输入 HS 编码，查 Lartas（PI/LS/Pertek）、消费税、SNI/BPOM/SDPPI 要求与建议 KBLI。</p><span class="chip dark">查询 →</span></a>
-    <a class="tile" href="/imeos/tools/"><div class="k">05 · 合同与模板</div><h3>劳动合同生成器 · 中印双语合同库 · 尽调模板</h3><p>PKWT/PKWTT 双语劳动合同生成；分销、保密、采购协议双语模板；印尼合作方尽调清单。</p><span class="chip dark">打开 →</span></a>
-    <a class="tile" href="/imeos/regintel/?tab=alerts"><div class="k">06 · 预警</div><h3>最近新增 / 修订 / 废止</h3><div id="alerts" class="mute">加载中…</div></a>
+    <a class="tile" href="/imeos/entry/"><div class="k" data-t="t1.k"></div><h3 data-t="t1.h"></h3><p data-t="t1.p"></p><span class="chip dark" data-t="t1.c"></span></a>
+    <a class="tile" href="/imeos/calculators/"><div class="k" data-t="t2.k"></div><h3 data-t="t2.h"></h3><p data-t="t2.p"></p><span class="chip dark" data-t="t2.c"></span></a>
+    <a class="tile" href="/imeos/regintel/"><div class="k" data-t="t3.k"></div><h3>Indonesia Regulatory Intelligence</h3><p data-t="t3.p"></p><span class="chip dark" id="regcount">…</span></a>
+    <a class="tile" href="/imeos/hs/"><div class="k" data-t="t4.k"></div><h3 data-t="t4.h"></h3><p data-t="t4.p"></p><span class="chip dark" data-t="t4.c"></span></a>
+    <a class="tile" href="/imeos/tools/"><div class="k" data-t="t5.k"></div><h3 data-t="t5.h"></h3><p data-t="t5.p"></p><span class="chip dark" data-t="t5.c"></span></a>
+    <a class="tile" href="/imeos/regintel/?tab=alerts"><div class="k" data-t="t6.k"></div><h3 data-t="t6.h"></h3><div id="alerts" class="mute">…</div></a>
   </div>
-
   <div class="card" style="margin-top:24px">
-    <h2>这套系统怎么工作</h2>
-    <div class="grid g3">
-      <div><h3>知识库（人工维护）</h3><p class="mute">准入、许可、认证、税务、用工、签证、成本与周期的规则与经验值，全部附法规编号，可核对、可更新。</p></div>
-      <div><h3>法规情报流水线（自动）</h3><p class="mute">每日抓取 → 下载 PDF → 解析/OCR → 编号标准化 → 分类 → 生效日期 → 修订关系 → 有效性 → 条款拆分 → 与旧法 Diff → 预警。</p></div>
-      <div><h3>报告与工具（浏览器端）</h3><p class="mute">纯静态页面，输入不上传；报告可打印、导出 JSON；Checklist 进度保存在本机。</p></div>
-    </div>
+    <h2 data-t="how.h"></h2>
+    <div class="grid g3"><div><h3 data-t="how.1h"></h3><p class="mute" data-t="how.1p"></p></div><div><h3 data-t="how.2h"></h3><p class="mute" data-t="how.2p"></p></div><div><h3 data-t="how.3h"></h3><p class="mute" data-t="how.3p"></p></div></div>
   </div>
-  <p class="disclaimer">Indonesia Market Entry OS 为规划与沟通工具，不构成法律或税务意见。数据来源：peraturan.bpk.go.id、各部委 JDIH、公开市场信息。</p>
+  <p class="disclaimer" data-t="h.disc"></p>
 </main>
+<script src="/imeos/assets/i18n.js"></script>
+<script>
+addI18N({
+  "h.eyebrow": ["Indonesia Market Entry OS · 中国企业印尼落地操作系统", "Indonesia Market Entry OS · for companies entering Indonesia", "Indonesia Market Entry OS · sistem masuk pasar Indonesia"],
+  "h.h1": ["从“想去印尼”到“在印尼合规运营”，一套系统走完", "From “thinking about Indonesia” to “operating compliantly in Indonesia” in one system", "Dari “ingin masuk Indonesia” hingga “beroperasi patuh di Indonesia” dalam satu sistem"],
+  "h.lede": ["输入行业、产品、HS 编码、是否设 PMA、投资额与销售方式，系统输出准入、NIB/KBLI/OSS、BPOM/SNI/清真、进口许可、税务、用工、KITAS、时间表、风险、预算与 Checklist；背后是每日抓取印尼中央部委法规、自动比对新旧条文的法规情报库。", "Enter industry, product, HS codes, PMA or not, investment and sales model; get market access, NIB/KBLI/OSS, BPOM/SNI/halal, import licensing, tax, employment, KITAS, timeline, risks, budget and checklist — backed by a regulatory intelligence library that crawls central-government regulations daily and diffs old vs new provisions.", "Masukkan industri, produk, kode HS, PMA atau tidak, nilai investasi, dan model penjualan; dapatkan akses pasar, NIB/KBLI/OSS, BPOM/SNI/halal, perizinan impor, pajak, ketenagakerjaan, KITAS, jadwal, risiko, anggaran, dan daftar periksa — didukung pustaka intelijen regulasi yang merayapi peraturan pemerintah pusat setiap hari dan membandingkan pasal lama vs baru."],
+  "t1.k": ["01 · 方案生成", "01 · Plan generator", "01 · Generator rencana"], "t1.h": ["落地方案生成器", "Entry plan generator", "Generator rencana masuk"], "t1.p": ["12 章节结构化报告，附法规出处、甘特图、预算区间与可勾选 Checklist，可打印成 PDF。", "12-section structured report with citations, Gantt chart, budget ranges and a checklist; printable to PDF.", "Laporan terstruktur 12 bagian dengan rujukan, Gantt, kisaran anggaran, dan daftar periksa; dapat dicetak PDF."], "t1.c": ["开始 →", "Start →", "Mulai →"],
+  "t2.k": ["02 · 计算器", "02 · Calculators", "02 · Kalkulator"], "t2.h": ["成本 · 工资/BPJS · 消费税 · 到岸成本", "Set-up cost · payroll/BPJS · excise · landed cost", "Biaya pendirian · gaji/BPJS · cukai · biaya impor"], "t2.p": ["PMA 设立成本、PPh 21 与 BPJS 雇主成本、电子烟/HPTL 三层税负倒算、进口到岸成本。", "PMA set-up cost, PPh 21 and employer BPJS, e-cigarette/HPTL tax stack, import landed cost.", "Biaya pendirian PMA, PPh 21 dan BPJS pemberi kerja, tiga lapis pungutan rokok elektrik/HPTL, biaya impor."], "t2.c": ["计算 →", "Calculate →", "Hitung →"],
+  "t3.k": ["03 · 法规情报", "03 · RegIntel", "03 · Intelijen regulasi"], "t3.p": ["自动抓取 BPK/JDIH 法规库，标准化编号、部门与主题分类、有效/废止判断、条款拆分、新旧条文 Diff 与预警。", "Crawls BPK/JDIH, normalises numbering, classifies by agency and topic, tracks validity, splits articles, diffs old vs new, raises alerts.", "Merayapi BPK/JDIH, menormalkan penomoran, mengklasifikasi instansi dan topik, melacak keberlakuan, memecah pasal, membandingkan lama vs baru, memberi peringatan."],
+  "t4.k": ["04 · 进口许可", "04 · Import licensing", "04 · Perizinan impor"], "t4.h": ["按 HS 编码查管制与认证", "Controls & certifications by HS code", "Kendali & sertifikasi per kode HS"], "t4.p": ["输入 HS 编码，查 Lartas（PI/LS/Pertek）、消费税、SNI/BPOM/SDPPI 要求与建议 KBLI。", "Enter an HS code to see restrictions (PI/LS/Pertek), excise, SNI/BPOM/SDPPI requirements and suggested KBLI.", "Masukkan kode HS untuk melihat lartas (PI/LS/Pertek), cukai, syarat SNI/BPOM/SDPPI, dan KBLI yang disarankan."], "t4.c": ["查询 →", "Look up →", "Cari →"],
+  "t5.k": ["05 · 合同与模板", "05 · Contracts & templates", "05 · Kontrak & templat"], "t5.h": ["劳动合同生成器 · 双语合同库 · 尽调模板", "Employment contract generator · bilingual templates · due diligence", "Generator kontrak kerja · templat dwibahasa · uji tuntas"], "t5.p": ["PKWT/PKWTT 双语劳动合同生成；分销、保密、采购协议模板；印尼合作方尽调清单。", "PKWT/PKWTT bilingual contracts; distribution, NDA and supply templates; due diligence checklist for Indonesian partners.", "Kontrak PKWT/PKWTT dwibahasa; templat distribusi, NDA, dan pasokan; daftar uji tuntas mitra Indonesia."], "t5.c": ["打开 →", "Open →", "Buka →"],
+  "t6.k": ["06 · 预警", "06 · Alerts", "06 · Peringatan"], "t6.h": ["最近新增 / 修订 / 废止", "Recent new / amended / revoked", "Baru / diubah / dicabut terkini"],
+  "how.h": ["这套系统怎么工作", "How the system works", "Cara kerja sistem"], "how.1h": ["知识库（人工维护）", "Knowledge base (curated)", "Basis pengetahuan (dikurasi)"], "how.1p": ["准入、许可、认证、税务、用工、签证、成本与周期的规则与经验值，全部附法规编号。", "Rules and benchmarks for access, licensing, certification, tax, employment, visas, cost and timing — all cited.", "Aturan dan tolok ukur akses, perizinan, sertifikasi, pajak, ketenagakerjaan, visa, biaya, dan waktu — semua dengan rujukan."], "how.2h": ["法规情报流水线（自动）", "RegIntel pipeline (automated)", "Pipeline intelijen regulasi (otomatis)"], "how.2p": ["每日抓取 → PDF → 解析/OCR → 编号标准化 → 分类 → 生效日期 → 修订关系 → 有效性 → 条款拆分 → Diff → 预警。", "Daily crawl → PDF → parse/OCR → normalise → classify → effective dates → amendment links → validity → article split → diff → alerts.", "Perayapan harian → PDF → parsing/OCR → normalisasi → klasifikasi → tanggal berlaku → relasi perubahan → keberlakuan → pemecahan pasal → diff → peringatan."], "how.3h": ["报告与工具（浏览器端）", "Reports & tools (in the browser)", "Laporan & alat (di peramban)"], "how.3p": ["纯静态页面，输入不上传；报告可打印、导出 JSON；进度保存在本机。", "Static pages; nothing uploaded; reports print or export to JSON; progress stays on your device.", "Halaman statis; tidak ada unggahan; laporan dapat dicetak atau diekspor JSON; progres tersimpan di perangkat Anda."],
+  "h.disc": ["Indonesia Market Entry OS 为规划与沟通工具，不构成法律或税务意见。数据来源：peraturan.bpk.go.id、各部委 JDIH、公开市场信息。", "Indonesia Market Entry OS is a planning and communication tool, not legal or tax advice. Sources: peraturan.bpk.go.id, ministry JDIH portals, public market data.", "Indonesia Market Entry OS adalah alat perencanaan dan komunikasi, bukan nasihat hukum atau pajak. Sumber: peraturan.bpk.go.id, JDIH kementerian, data pasar publik."],
+  "flow": [["行业", "产品 / HS", "PMA?", "投资额", "销售方式", "准入", "NIB/KBLI/OSS", "BPOM/SNI/Halal", "进口许可", "税务", "用工", "KITAS", "时间表", "风险", "预算", "Checklist"], ["Industry", "Product / HS", "PMA?", "Investment", "Sales model", "Access", "NIB/KBLI/OSS", "BPOM/SNI/Halal", "Import licensing", "Tax", "Employment", "KITAS", "Timeline", "Risks", "Budget", "Checklist"], ["Industri", "Produk / HS", "PMA?", "Investasi", "Model penjualan", "Akses", "NIB/KBLI/OSS", "BPOM/SNI/Halal", "Perizinan impor", "Pajak", "Ketenagakerjaan", "KITAS", "Jadwal", "Risiko", "Anggaran", "Daftar periksa"]],
+  "regs": ["{n} 部法规 · {d} 组 Diff →", "{n} regulations · {d} diffs →", "{n} peraturan · {d} diff →"], "open": ["打开 →", "Open →", "Buka →"], "none": ["暂无", "None", "Belum ada"], "nodata": ["数据尚未生成", "No data yet", "Data belum tersedia"],
+  "k.new": ["新增", "New", "Baru"], "k.amendment": ["修订", "Amended", "Perubahan"], "k.revocation": ["废止", "Revoked", "Pencabutan"],
+});
+</script>
 <script src="/imeos/assets/common.js"></script>
 <script>
-fetch("/imeos/data/regintel/meta.json").then((r) => r.json()).then((m) => { $("#regcount").textContent = `${m.total} 部法规 · ${m.diffs} 组 Diff →`; }).catch(() => { $("#regcount").textContent = "打开 →"; });
-fetch("/imeos/data/regintel/alerts.json").then((r) => r.json()).then((a) => {
-  $("#alerts").innerHTML = a.slice(0, 5).map((x) => `<div class="alert"><span class="mono mute">${x.date}</span><span><b>${esc(x.id)}</b> ${esc(x.title.replace(/^.*?tentang /i, ""))}</span><span class="chip ${x.status === "revoked" ? "bad" : x.kind === "amendment" ? "warn" : "info"}">${{ new: "新增", amendment: "修订", revocation: "废止" }[x.kind]}</span></div>`).join("") || "<span class='mute'>暂无</span>";
-}).catch(() => { $("#alerts").textContent = "数据尚未生成"; });
+const f = L(I18N.flow); $("#flow").innerHTML = f.slice(0, 5).map((x) => `<span>${x}</span>`).join("<i>→</i>") + "<i>⇒</i>" + f.slice(5).map((x) => `<span>${x}</span>`).join("");
+fetch("/imeos/data/regintel/meta.json").then((r) => r.json()).then((m) => { $("#regcount").textContent = T("regs", { n: m.total, d: m.diffs }); }).catch(() => { $("#regcount").textContent = T("open"); });
+fetch("/imeos/data/regintel/alerts.json").then((r) => r.json()).then((a) => { $("#alerts").innerHTML = a.slice(0, 5).map((x) => `<div class="alert"><span class="mono mute">${x.date}</span><span><b>${esc(x.id)}</b> ${esc(x.title.replace(/^.*?tentang /i, ""))}</span><span class="chip ${x.status === "revoked" ? "bad" : x.kind === "amendment" ? "warn" : "info"}">${T("k." + x.kind)}</span></div>`).join("") || `<span class="mute">${T("none")}</span>`; }).catch(() => { $("#alerts").textContent = T("nodata"); });
 </script>
 </body>
 </html>

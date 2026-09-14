@@ -17,39 +17,37 @@ HERE = Path(__file__).parent
 CACHE = HERE / "state" / "summaries"
 MODEL = os.environ.get("REGINTEL_MODEL", "claude-opus-5")
 
-SYSTEM = """你是印尼法规合规分析师，服务对象是在印尼投资或出口到印尼的中国企业（含电子烟/HPTL 企业）。
-根据提供的法规元数据、条文和（如有）新旧条文 Diff，输出严格基于原文的中文分析。
-规则：
-- 只陈述原文能支持的内容；原文没有写明的，写"原文未明确"，不要推测数字或日期。
-- 引用条款时写明 Pasal 编号；金额保留原币种和单位。
-- 印尼法律术语第一次出现时保留印尼语原词，如"营业执照（NIB）"。
-- 受影响企业和行动建议要具体到企业类型与动作，避免空泛表述。"""
+SYSTEM = """You are an Indonesian regulatory compliance analyst serving companies that invest in or export to Indonesia (including e-cigarette/HPTL businesses).
+From the regulation metadata, articles and (if present) old-vs-new diff, produce an analysis strictly grounded in the text, in THREE languages: Simplified Chinese (zh), English (en), Bahasa Indonesia (id). Every text field is an object {"zh","en","id"} with equivalent content.
+Rules:
+- State only what the text supports; where the text is silent, say so ("原文未明确" / "not specified in the text" / "tidak diatur dalam teks"). Never invent numbers or dates.
+- Cite Pasal numbers; keep amounts in the original currency and unit.
+- Keep Indonesian legal terms in Indonesian on first use, e.g. "营业执照（NIB）", "business licence (NIB)".
+- Affected businesses and actions must name concrete company types and steps."""
 
+TRI = {"type": "object", "additionalProperties": False, "required": ["zh", "en", "id"],
+       "properties": {"zh": {"type": "string"}, "en": {"type": "string"}, "id": {"type": "string"}}}
 SCHEMA = {
     "type": "object",
     "additionalProperties": False,
-    "required": ["title_zh", "summary_zh", "key_points", "what_changed", "effective_dates",
+    "required": ["title", "summary", "key_points", "what_changed", "effective_dates",
                  "affected", "actions", "risk_level", "joiway_note"],
     "properties": {
-        "title_zh": {"type": "string"},
-        "summary_zh": {"type": "string", "description": "3-5 句概述"},
+        "title": TRI,
+        "summary": {**TRI, "description": "3-5 sentence overview in each language"},
         "key_points": {"type": "array", "items": {"type": "object", "additionalProperties": False,
-                       "required": ["pasal", "point"],
-                       "properties": {"pasal": {"type": "string"}, "point": {"type": "string"}}}},
+                       "required": ["pasal", "point"], "properties": {"pasal": {"type": "string"}, "point": TRI}}},
         "what_changed": {"type": "array", "items": {"type": "object", "additionalProperties": False,
                          "required": ["pasal", "before", "after"],
-                         "properties": {"pasal": {"type": "string"}, "before": {"type": "string"},
-                                        "after": {"type": "string"}}}},
+                         "properties": {"pasal": {"type": "string"}, "before": TRI, "after": TRI}}},
         "effective_dates": {"type": "array", "items": {"type": "object", "additionalProperties": False,
-                            "required": ["date", "what"],
-                            "properties": {"date": {"type": "string"}, "what": {"type": "string"}}}},
-        "affected": {"type": "array", "items": {"type": "string"}},
+                            "required": ["date", "what"], "properties": {"date": {"type": "string"}, "what": TRI}}},
+        "affected": {"type": "array", "items": TRI},
         "actions": {"type": "array", "items": {"type": "object", "additionalProperties": False,
                     "required": ["who", "action", "deadline"],
-                    "properties": {"who": {"type": "string"}, "action": {"type": "string"},
-                                   "deadline": {"type": "string"}}}},
+                    "properties": {"who": TRI, "action": TRI, "deadline": {"type": "string"}}}},
         "risk_level": {"type": "string", "enum": ["high", "medium", "low", "info"]},
-        "joiway_note": {"type": "string", "description": "对电子烟/HPTL 中资企业的专门提示；无关则写'无直接影响'"},
+        "joiway_note": {**TRI, "description": "note for e-cigarette/HPTL companies; if irrelevant say so in each language"},
     },
 }
 
@@ -85,7 +83,7 @@ def summarize(rec, doc, diff, text_hash):
     try:
         response = client.beta.messages.create(
             model=MODEL,
-            max_tokens=16000,
+            max_tokens=32000,
             betas=["server-side-fallback-2026-07-01"],
             fallbacks="default",
             output_config={"effort": "medium", "format": {"type": "json_schema", "schema": SCHEMA}},

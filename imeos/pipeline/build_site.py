@@ -265,7 +265,7 @@ def build(max_text=40, min_relevance=55, summarize_docs=True):
                 "annex_rows_changed": sum(1 for x in (dd.get("annex") or {}).get("rows", []) if x["old"] != x["new"]),
             }
         if r["id"] in summaries:
-            a["summary_zh"] = summaries[r["id"]].get("summary_zh")
+            a["summary"] = summaries[r["id"]].get("summary") or summaries[r["id"]].get("summary_zh")
             a["risk_level"] = summaries[r["id"]].get("risk_level")
         alerts.append(a)
     alerts.sort(key=lambda a: (a["date"], a["relevance"]), reverse=True)

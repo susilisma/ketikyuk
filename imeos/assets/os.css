@@ -28,6 +28,9 @@ code,.mono{font-family:var(--mono);font-size:.92em}
 .nav{display:flex;gap:2px;margin-left:auto}
 .nav a{color:#dbe7ee;padding:7px 11px;border-radius:7px;white-space:nowrap;font-size:13.5px}
 .nav a:hover,.nav a.on{background:#ffffff1c;color:#fff;text-decoration:none}
+.lang{display:flex;gap:2px;margin-left:10px;border-left:1px solid #ffffff33;padding-left:10px;flex:0 0 auto}
+.lang button{font:inherit;font-size:12px;font-weight:600;background:none;border:1px solid transparent;color:#c9d7df;border-radius:6px;padding:4px 7px;cursor:pointer}
+.lang button.on{background:#fff;color:var(--brand)}
 
 .wrap{max-width:1240px;margin:auto;padding:28px 20px 80px}
 .narrow{max-width:900px}
