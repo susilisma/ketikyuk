@@ -1,0 +1,114 @@
+{
+ "id": "UU-1983-7",
+ "source": "bpk",
+ "bpk_id": 46988,
+ "url": "https://peraturan.bpk.go.id/Details/46988/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "7",
+ "number_raw": "7",
+ "year": 1983,
+ "title": "Undang-undang (UU) Nomor 7 Tahun 1983 tentang Pajak Penghasilan",
+ "about": "Pajak Penghasilan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERPAJAKAN",
+ "field": "",
+ "date_enacted": "1983-12-31",
+ "date_promulgated": "1983-12-31",
+ "date_effective": "1984-01-01",
+ "gazette": "LN. 1983/ No.50, TLN. No.3263, LL SETNEG : 23 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 234926,
+   "label": "PERPU No. 2 Tahun 2022",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2021-7",
+   "target_bpk_id": 185162,
+   "label": "UU No. 7 Tahun 2021",
+   "about": "Harmonisasi Peraturan Perpajakan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2008-36",
+   "target_bpk_id": 39704,
+   "label": "UU No. 36 Tahun 2008",
+   "about": "Perubahan Keempat Atas Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2000-17",
+   "target_bpk_id": 44968,
+   "label": "UU No. 17 Tahun 2000",
+   "about": "Perubahan Ketiga atas Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-1994-10",
+   "target_bpk_id": 46232,
+   "label": "UU No. 10 Tahun 1994",
+   "about": "Perubahan atas Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan sebagaimana telah Diubah Dengan Undang-Undang Nomor 7 Tahun 1991"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-1991-7",
+   "target_bpk_id": 46659,
+   "label": "UU No. 7 Tahun 1991",
+   "about": "Perubahan atas Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1970-12",
+   "target_bpk_id": 47914,
+   "label": "UU No. 12 Tahun 1970",
+   "about": "Perubahan dan Tambahan Undang-Undang No. 6 Tahun 1968 tentang Penanaman Modal Dalam Negeri"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1970-11",
+   "target_bpk_id": 47864,
+   "label": "UU No. 11 Tahun 1970",
+   "about": "Perubahan dan Tambahan Undang-Undang No. 1 Tahun 1967 tentang Penanaman Modal Asing"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1968-6",
+   "target_bpk_id": 49144,
+   "label": "UU No. 6 Tahun 1968",
+   "about": "Penanaman Modal Dalam Negeri"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1967-1",
+   "target_bpk_id": 49513,
+   "label": "UU No. 1 Tahun 1967",
+   "about": "Penanaman Modal Asing"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 01 Januari 1984.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/35806/UU%20Nomor%207%20Tahun%201983.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:25:56Z"
+}

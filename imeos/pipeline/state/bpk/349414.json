@@ -1,0 +1,40 @@
+{
+ "id": "PP-2026-19",
+ "source": "bpk",
+ "bpk_id": 349414,
+ "url": "https://peraturan.bpk.go.id/Details/349414/pp-no-19-tahun-2026",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "19",
+ "number_raw": "19",
+ "year": 2026,
+ "title": "Peraturan Pemerintah (PP) Nomor 19 Tahun 2026 tentang Perubahan atas Peraturan Pemerintah Nomor 10 Tahun 2025 tentang Organisasi dan Tata Kelola Badan Pengelola Investasi Daya Anagata Nusantara",
+ "about": "Perubahan atas Peraturan Pemerintah Nomor 10 Tahun 2025 tentang Organisasi dan Tata Kelola Badan Pengelola Investasi Daya Anagata Nusantara",
+ "issuer": "Pemerintah Pusat",
+ "subject": "BUMN - STRUKTUR ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-04-08",
+ "date_promulgated": "2026-04-08",
+ "date_effective": "2026-04-08",
+ "gazette": "LN 2026 (39), TLN (7172) : 15 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PP-2025-10",
+   "target_bpk_id": 314627,
+   "label": "PP No. 10 Tahun 2025",
+   "about": "Organisasi dan Tata Kelola Badan Pengelola Investasi Daya Anagata Nusantara"
+  }
+ ],
+ "abstract": "Untuk meningkatkan efektivitas penyelenggaraan organisasi dan tata kelola Badan Pengelola Investasi Daya Anagata Nusantara, diperlukan penyesuaian pengaturan mengenai kewenangan, mekanisme tata kelola, dan akuntabilitas pelaksanaan tugas Badan.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945; UU No. 19 Tahun 2003; dan PP No. 10 Tahun 2025\nPP ini mengubah beberapa ketentuan dalam PP No. 10 Tahun 2025.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 08 April 2026.\nPP ini mengubah PP No. 10 Tahun 2025.\nLampiran file: 21 hlm (batang tubuh hlm 1 sd 15 dan penjelasan hlm 16 sd 21)",
+ "citations": [
+  "UU-2003-19",
+  "PP-2025-10"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/413100/PP%20Nomor%2019%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:27:54Z"
+}

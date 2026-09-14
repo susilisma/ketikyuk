@@ -1,0 +1,249 @@
+{
+ "id": "PP-2024-28",
+ "source": "bpk",
+ "bpk_id": 294077,
+ "url": "https://peraturan.bpk.go.id/Details/294077/pp-no-28-tahun-2024",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "28",
+ "number_raw": "28",
+ "year": 2024,
+ "title": "Peraturan Pemerintah (PP) Nomor 28 Tahun 2024 tentang Peraturan Pelaksanaan Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan",
+ "about": "Peraturan Pelaksanaan Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KESEHATAN",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2024-07-26",
+ "date_promulgated": "2024-07-26",
+ "date_effective": "2024-07-26",
+ "gazette": "LN 2024 (135), TLN (6952): 484 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PP-2021-53",
+   "target_bpk_id": 163994,
+   "label": "PP No. 53 Tahun 2021",
+   "about": "Transplantasi Organ dan Jaringan Tubuh"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2021-47",
+   "target_bpk_id": 161982,
+   "label": "PP No. 47 Tahun 2021",
+   "about": "Penyelenggaraan Bidang Perumahsakitan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2020-21",
+   "target_bpk_id": 135059,
+   "label": "PP No. 21 Tahun 2020",
+   "about": "Pembatasan Sosial Berskala Besar dalam Rangka Percepatan Penanganan  Corona Virus Disease 2019 (COVID-19)"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2019-88",
+   "target_bpk_id": 128642,
+   "label": "PP No. 88 Tahun 2019",
+   "about": "Kesehatan Kerja"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2019-86",
+   "target_bpk_id": 128314,
+   "label": "PERPRES No. 86 Tahun 2019",
+   "about": "Perubahan atas Peraturan Presiden Nomor 90 Tahun 2017 tentang Konsil Tenaga Kesehatan Indonesia"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2019-67",
+   "target_bpk_id": 121689,
+   "label": "PP No. 67 Tahun 2019",
+   "about": "Pengelolaan Tenaga Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2019-31",
+   "target_bpk_id": 107865,
+   "label": "PERPRES No. 31 Tahun 2019",
+   "about": "Pendayagunaan Dokter Spesialis"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2017-90",
+   "target_bpk_id": 73175,
+   "label": "PERPRES No. 90 Tahun 2017",
+   "about": "Konsil Tenaga Kesehatan Indonesia"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2017-52",
+   "target_bpk_id": 64760,
+   "label": "PP No. 52 Tahun 2017",
+   "about": "Peraturan Pelaksanaan Undang-Undang Nomor 20 Tahun 2013 tentang Pendidikan Kedokteran"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2016-47",
+   "target_bpk_id": 5768,
+   "label": "PP No. 47 Tahun 2016",
+   "about": "Fasilitas Pelayanan Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2015-93",
+   "target_bpk_id": 5672,
+   "label": "PP No. 93 Tahun 2015",
+   "about": "Rumah Sakit Pendidikan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2015-77",
+   "target_bpk_id": 41822,
+   "label": "PERPRES No. 77 Tahun 2015",
+   "about": "Pedoman Organisasi Rumah Sakit"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2014-66",
+   "target_bpk_id": 5507,
+   "label": "PP No. 66 Tahun 2014",
+   "about": "Kesehatan Lingkungan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2014-61",
+   "target_bpk_id": 5502,
+   "label": "PP No. 61 Tahun 2014",
+   "about": "Kesehatan Reproduksi"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2014-46",
+   "target_bpk_id": 5485,
+   "label": "PP No. 46 Tahun 2014",
+   "about": "Sistem Informasi Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2014-103",
+   "target_bpk_id": 5557,
+   "label": "PP No. 103 Tahun 2014",
+   "about": "Pelayanan Kesehatan Tradisional"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2013-49",
+   "target_bpk_id": 5382,
+   "label": "PP No. 49 Tahun 2013",
+   "about": "Badan Pengawasan Rumah Sakit"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2012-33",
+   "target_bpk_id": 5245,
+   "label": "PP No. 33 Tahun 2012",
+   "about": "Pemberian Air Susu Ibu Eksklusif"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2012-109",
+   "target_bpk_id": 5324,
+   "label": "PP No. 109 Tahun 2012",
+   "about": "Pengamanan Bahan Yang Mengandung Zat Adiktif Berupa Produk Tembakau Bagi Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2011-7",
+   "target_bpk_id": 5129,
+   "label": "PP No. 7 Tahun 2011",
+   "about": "Pelayanan Darah"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2009-51",
+   "target_bpk_id": 4975,
+   "label": "PP No. 51 Tahun 2009",
+   "about": "Pekerjaan Kefarmasian"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2008-35",
+   "target_bpk_id": 42217,
+   "label": "PERPRES No. 35 Tahun 2008",
+   "about": "Tata Cara Pengangkatan dan Pemberhentian Keanggotaan Konsil Kedokteran Indonesia"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-1998-72",
+   "target_bpk_id": 55373,
+   "label": "PP No. 72 Tahun 1998",
+   "about": "Pengamanan Sediaan Farmasi Dan Alat Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-1995-39",
+   "target_bpk_id": 57094,
+   "label": "PP No. 39 Tahun 1995",
+   "about": "Penelitian Dan Pengembangan Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-1991-40",
+   "target_bpk_id": 58188,
+   "label": "PP No. 40 Tahun 1991",
+   "about": "Penanggulangan Wabah Penyakit Menular"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-1988-1",
+   "target_bpk_id": 63834,
+   "label": "PP No. 1 Tahun 1988",
+   "about": "Masa Bakti Dan Praktek Dokter Dan Dokter Gigi"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-1966-10",
+   "target_bpk_id": 70871,
+   "label": "PP No. 10 Tahun 1966",
+   "about": "Wajib Simpan Rahasia Kedokteran"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-1963-33",
+   "target_bpk_id": 72275,
+   "label": "PP No. 33 Tahun 1963",
+   "about": "Lafal Sumpah/Janji Dokter Gigi"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-1962-20",
+   "target_bpk_id": 72441,
+   "label": "PP No. 20 Tahun 1962",
+   "about": "Lafal Sumpah Janji Apoteker"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-1961-11",
+   "target_bpk_id": 72696,
+   "label": "PP No. 11 Tahun 1961",
+   "about": "Penyakit Karantina"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-1960-26",
+   "target_bpk_id": 74887,
+   "label": "PP No. 26 Tahun 1960",
+   "about": "Lafal Sumpah Dokter"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 24 ayat (2), Pasal 25 ayat (5), Pasal 33 ayat (5), Pasal 36, Pasal 40 ayat (6), Pasal 43 ayat (2), Pasal 49, Pasal 50 ayat (6), Pasal 51 ayat (5), Pasal 52 ayat (5), Pasal 53 ayat (6), Pasal 59, Pasal 62, Pasal 69, Pasal 73, Pasal 85, Pasal 92, Pasal 95, Pasal 96 ayat (6), Pasal 97 ayat (6), Pasal 101, Pasal 107, Pasal 108 ayat (4), Pasal 113, Pasal 122, Pasal 126 ayat (2), Pasal 134, Pasal 136, Pasal 137 ayat (3), Pasal 144, Pasal 145 ayat (4), Pasal 152 ayat (1) dan ayat (2), Pasal 159, Pasal 164, Pasal 171, Pasal 172 ayat (5), Pasal 175 ayat (2), Pasal 177 ayat (3), Pasal 178 ayat (6), Pasal 179 ayat (2), Pasal 183, Pasal 187 ayat (11), Pasal 196, Pasal 200 ayat (2), Pasal 206, Pasal 226, Pasal 230, Pasal 231 ayat (6), Pasal 233 ayat (2), Pasal 234 ayat (4), Pasal 235 ayat (4), Pasal 236 ayat (2), Pasal 237 ayat (4), Pasal 239, Pasal 240 ayat (2), Pasal 245, Pasal 247, Pasal 257, Pasal 258 ayat (5), Pasal 262, Pasal 266, Pasal 267 ayat (4), Pasal 271, Pasal 272 ayat (5), Pasal 278, Pasal 283 ayat (6), Pasal 285 ayat (3), Pasal 289, Pasal 290 ayat (4), Pasal 299, Pasal 301 ayat (3), Pasal 304 ayat (5), Pasal 309, Pasal 313 ayat (2), Pasal 314 ayat (7), Pasal 320 ayat (8), Pasal 321 ayat (3), Pasal 324 ayat (4), Pasal 330, Pasal 333, Pasal 337 ayat (3), Pasal 342 ayat (3), Pasal 344, Pasal 349 ayat (12), Pasal 353 ayat (4), Pasal 355, Pasal 360 ayat (9), Pasal 365, Pasal 367, Pasal 368 ayat (3), Pasal 380, Pasal 381 ayat (4), Pasal 388 ayat (3), Pasal 395 ayat (4), Pasal 397 ayat (2), Pasal 398 ayat (2), Pasal 402 ayat (5), Pasal 408, Pasal 417 ayat (4), dan Pasal 423 Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan, perlu menetapkan Peraturan Pemerintah tentang Peraturan Pelaksanaan Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945 dan UU Nomor 17 Tahun 2023.\nPP ini mengatur mengenai peraturan pelaksanaan UU Nomor 17 Tahun 2023 dengan dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Peraturan Pemerintah ini memberikan pengaturan, penegasan, dan penjelasan lebih lanjut atas pengaturan mengenai: 1) penyelenggaraan upaya kesehatan; 2) pengelolaan tenaga medis dan tenaga kesehatan; 3) fasilitas pelayanan kesehatan; 4) kefarmasian, alat kesehatan, dan perbekalan kesehatan; 5) sistem informasi kesehatan; 5) penyelenggaraan teknologi kesehatan; 6) penanggulangan KLB dan wabah; 7) pendanaan kesehatan; 8) partisipasi masyarakat; dan 9) pembinaan dan pengawasan.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 26 Juli 2024.\nPP ini mencabut beberapa PP dan Perpres sebagaimana diatur dalam Pasal 1170.\nLampiran file: 656 hlm (batang tubuh hlm 1 sd 484, penjelasan hlm 485 sd 656)",
+ "citations": [
+  "UU-2023-17"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/353434/PP%20Nomor%2028%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:30:32Z"
+}

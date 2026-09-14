@@ -1,0 +1,61 @@
+{
+ "id": "UU-2014-3",
+ "source": "bpk",
+ "bpk_id": 38572,
+ "url": "https://peraturan.bpk.go.id/Details/38572/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "3",
+ "number_raw": "3",
+ "year": 2014,
+ "title": "Undang-undang (UU) Nomor 3 Tahun 2014 tentang Perindustrian",
+ "about": "Perindustrian",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "",
+ "date_enacted": "2014-09-15",
+ "date_promulgated": "2014-09-15",
+ "date_effective": "2014-09-15",
+ "gazette": "LN.2014/No. 4, TLN No. 5492, LL SETNEG: 58 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 234926,
+   "label": "PERPU No. 2 Tahun 2022",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1984-5",
+   "target_bpk_id": 46975,
+   "label": "UU No. 5 Tahun 1984",
+   "about": "Perindustrian"
+  }
+ ],
+ "abstract": "bahwa untuk mewujudkan masyarakat adil dan makmur yang merdeka, bersatu, dan berdaulat berdasarkan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 dilaksanakan pembangunan nasional berdasar atas demokrasi ekonomi;\nbahwa pembangunan nasional di bidang ekonomi dilaksanakan dalam rangka menciptakan struktur ekonomi yang kukuh melalui pembangunan industri yang maju sebagai motor penggerak ekonomi yang didukung oleh kekuatan dan kemampuan sumber daya yang tangguh;\nbahwa pembangunan industri yang maju diwujudkan melalui penguatan struktur Industri yang mandiri, sehat, dan berdaya saing, dengan mendayagunakan sumber daya secara optimal dan efisien, serta mendorong perkembangan industri ke seluruh wilayah Indonesia dengan menjaga keseimbangan kemajuan dan kesatuan ekonomi nasional yang berlandaskan pada kerakyatan, keadilan, dan nilai-nilai luhur budaya bangsa dengan mengutamakan kepentingan nasional;\nbahwa Undang-Undang Nomor 5 Tahun 1984 tentang Perindustrian sudah tidak sesuai dengan perubahan paradigma pembangunan industri sehingga perlu diganti dengan undang-undang yang baru;\nDasar hukum Undang-Undang Nomor 3 tahun 2014 tentang Perindustrian adalah:\nPasal 5 ayat (1), Pasal 20, dan Pasal 33 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; Ketetapan Majelis Permusyawaratan Rakyat Republik Indonesia Nomor XVI/MPR/1998 tentang Politik Ekonomi dalam rangka Demokrasi Ekonomi;\nPokok- pokok pengaturan dalam undang-undang yang baru meliputi penyelenggaraan urusan pemerintahan di bidang Perindustrian, Rencana Induk Pembangunan Industri Nasional, Kebijakan Industri Nasional, perwilayahan Industri, pembangunan sumber daya Industri, pembangunan sarana dan prasarana Industri, pemberdayaan Industri, tindakan pengamanan dan penyelamatan Industri, perizinan, penanaman modal bidang Industri dan fasilitas, Komite Industri Nasional, peran serta masyarakat, serta pengawasan dan pengendalian.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 15 September 2014.\nUndang-Undang Nomor 3 tahun 2014 tentang Perindustrian mencabut Undang-Undang Nomor 5 Tahun 1984 tentang Perindustrian (Lembaran Negara Republik Indonesia Tahun 1984 Nomor 22, Tambahan Lembaran Negara Republik Indonesia Nomor 3274).\nKetentuan lebih lanjut mengenai kewenangan pengaturan yang bersifat teknis untuk bidang Industri tertentu diatur dengan Peraturan Pemerintah.\nKetentuan mengenai kewenangan penyelenggaraan urusan pemerintahan di bidang Perindustrian diatur dengan atau berdasarkan Peraturan Pemerintah.\nRencana Induk Pembangunan Industri Nasional ditetapkan dengan Peraturan Pemerintah.\nKetentuan lebih lanjut mengenai perwilayahan Industri diatur dengan Peraturan Pemerintah.\nKetentuan lebih lanjut mengenai tata cara penyelenggaraan kegiatan diatur dengan Peraturan Menteri.\nKetentuan lebih lanjut mengenai tata cara penyelenggaraan kegiatan diatur dengan Peraturan Menteri.\nKetentuan lebih lanjut mengenai penyediaan konsultan Industri diatur dengan Peraturan\nKetentuan mengenai tata cara pengenaan sanksi administratif dan besaran denda administratif diatur dalam Peraturan Pemerintah.\nKetentuan lebih lanjut mengenai tenaga kerja Industri dan konsultan Industri diatur dalam Peraturan Pemerintah.\nDst.\n50",
+ "citations": [
+  "UU-1984-5",
+  "UU-2014-3"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/27824/UU%20Nomor%2003%20Tahun%202014.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:39Z"
+}

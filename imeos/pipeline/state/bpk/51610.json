@@ -1,0 +1,44 @@
+{
+ "id": "PP-2017-32",
+ "source": "bpk",
+ "bpk_id": 51610,
+ "url": "https://peraturan.bpk.go.id/Details/51610/pp-no-32-tahun-2017",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "32",
+ "number_raw": "32",
+ "year": 2017,
+ "title": "Peraturan Pemerintah (PP) Nomor 32 Tahun 2017 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Badan Pengawas Obat dan Makanan",
+ "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Badan Pengawas Obat dan Makanan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
+ "field": "",
+ "date_enacted": "2017-09-06",
+ "date_promulgated": "2017-09-11",
+ "date_effective": "2017-10-10",
+ "gazette": "LN. 2017 No. 198, TLN No. 6116, LL SETNEG : 6 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2026-15",
+   "target_bpk_id": 349408,
+   "label": "PP No. 15 Tahun 2026",
+   "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Badan Pengawas Obat dan Makanan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2010-48",
+   "target_bpk_id": 5066,
+   "label": "PP No. 48 Tahun 2010",
+   "about": "Jenis Dan Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Berlaku Pada Badan Pengawas Obat Dan Makanan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 10 Oktober 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/40893/PP%20Nomor%2032%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:28:08Z"
+}

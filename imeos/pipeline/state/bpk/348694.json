@@ -1,0 +1,46 @@
+{
+ "id": "PERMENAKER-2026-6",
+ "source": "bpk",
+ "bpk_id": 348694,
+ "url": "https://peraturan.bpk.go.id/Details/348694/permenaker-no-6-tahun-2026",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "6",
+ "number_raw": "6",
+ "year": 2026,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 6 Tahun 2026 tentang Penyelenggaraan Sistem Pengendalian Intern Pemerintah dan Penerapan Manajemen Risiko Kementerian Ketenagakerjaan",
+ "about": "Penyelenggaraan Sistem Pengendalian Intern Pemerintah dan Penerapan Manajemen Risiko Kementerian Ketenagakerjaan",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "SISTEM PENGENDALIAN INTERN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-04-15",
+ "date_promulgated": "2026-04-20",
+ "date_effective": "2026-04-20",
+ "gazette": "BN 2026 (248); 68 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENAKER-2019-13",
+   "target_bpk_id": 145269,
+   "label": "Permenaker No. 13 Tahun 2019",
+   "about": "Pedoman Penyelenggaraan Sistem Pengendalian Intern Pemerintah Kementerian Ketenagakerjaan"
+  }
+ ],
+ "abstract": "bahwa Peraturan Menteri Ketenagakerjaan Nomor 13\nTahun 2019 tentang Pedoman Penyelenggaraan Sistem\nPengendalian Intern Pemerintah di Kementerian\nKetenagakerjaan sudah tidak sesuai dengan kebutuhan\norganisasi, sehingga perlu diganti\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD NRI Tahun 1945; UU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024; PP Nomor 60 Tahun 2008; Perpres Nomor 39 Tahun 2023; Perpres Nomor 164 Tahun 2024; Peraturan Menteri Ketenagakerjaan Nomor 8 Tahun 2024; Peraturan Menteri Ketenagakerjaan Nomor 20 Tahun 2024.\nPeraturan Menteri ini mengatur mengenai penyelenggaraan SPIP dan\npenerapan manajemen risiko. SPIP diselenggarakan secara menyeluruh\noleh pimpinan dan seluruh pegawai guna memberikan keyakinan memadai\natas tercapainya tujuan organisasi, keandalan pelaporan keuangan,\npengamanan aset negara, serta ketaatan terhadap peraturan perundangundangan. Penyelenggaraan SPIP meliputi pelaksana, penguatan\nefektivitas, serta penilaian tingkat maturitas SPIP. Pelaksanaan dilakukan\noleh Menteri, pimpinan unit kerja, dan kepala unit pelaksana teknis dengan\ndukungan satuan tugas khusus. SPIP dilaksanakan melalui lima unsur\nutama, yaitu lingkungan pengendalian, penilaian risiko, kegiatan\npengendalian, informasi dan komunikasi, serta pemantauan.",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 20 April 2026.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan\nMenteri Ketenagakerjaan Nomor 13 Tahun 2019 tentang\nPedoman Penyelenggaraan Sistem Pengendalian Intern\nPemerintah di Kementerian Ketenagakerjaan (Berita Negara\nRepublik Indonesia Tahun 2019 Nomor 992), dicabut dan\ndinyatakan tidak berlaku.",
+ "citations": [
+  "PERMENAKER-2019-13",
+  "UU-2008-39",
+  "UU-2024-61",
+  "PP-2008-60",
+  "PERPRES-2023-39",
+  "PERPRES-2024-164",
+  "PERMENAKER-2024-8",
+  "PERMENAKER-2024-20"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/412355/2026pmnaker006.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:40:49Z"
+}

@@ -1,0 +1,51 @@
+{
+ "id": "UU-2014-30",
+ "source": "bpk",
+ "bpk_id": 38695,
+ "url": "https://peraturan.bpk.go.id/Details/38695/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "30",
+ "number_raw": "30",
+ "year": 2014,
+ "title": "Undang-undang (UU) Nomor 30 Tahun 2014 tentang Administrasi Pemerintahan",
+ "about": "Administrasi Pemerintahan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA",
+ "field": "",
+ "date_enacted": "2014-10-17",
+ "date_promulgated": "2014-10-17",
+ "date_effective": "2014-10-17",
+ "gazette": "LN.2014/No. 292, TLN No. 5601, LL SETNEG: 66 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 234926,
+   "label": "PERPU No. 2 Tahun 2022",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  }
+ ],
+ "abstract": "bahwa dalam rangka meningkatkan kualitas penyelenggaraan pemerintahan, badan dan/atau pejabat pemerintahan dalam menggunakan wewenang harus mengacu pada asas-asas umum pemerintahan yang baik dan berdasarkan ketentuan peraturan perundang-undangan;\nbahwa untuk menyelesaikan permasalahan dalam penyelenggaraan pemerintahan, pengaturan mengenai administrasi pemerintahan diharapkan dapat menjadi solusi dalam memberikan pelindungan hukum, baik bagi warga masyarakat maupun pejabat pemerintahan;\nbahwa untuk mewujudkan pemerintahan yang baik, khususnya bagi pejabat pemerintahan, undang- undang tentang administrasi pemerintahan menjadi landasan hukum yang dibutuhkan guna mendasari keputusan dan/atau tindakan pejabat pemerintahan untuk memenuhi kebutuhan hukum masyarakat dalam penyelenggaraan pemerintahan;\nDasar hukum Undang–Undang Nomor 30 Tahun 2014 tentang Administrasi Pemerintahan adalah Pasal 5 ayat (1) dan Pasal 20 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.\nUndang-Undang ini menjadi dasar hukum dalam penyelenggaraan pemerintahan di dalam upaya meningkatkan kepemerintahan yang baik (good governance) dan sebagai upaya untuk mencegah praktik korupsi, kolusi, dan nepotisme. Dengan demikian, Undang-Undang ini harus mampu menciptakan birokrasi yang semakin baik, transparan, dan efisien.\nPengaturan terhadap Administrasi Pemerintahan pada dasarnya adalah upaya untuk membangun prinsip-prinsip pokok, pola pikir, sikap, perilaku, budaya dan pola tindak administrasi yang demokratis, objektif, dan profesional dalam rangka menciptakan keadilan dan kepastian hukum. Undang-Undang ini merupakan keseluruhan upaya untuk mengatur kembali Keputusan dan/atau Tindakan Badan dan/atau Pejabat Pemerintahan berdasarkan ketentuan peraturan perundang-undangan dan AUPB.\nUndang-Undang ini dimaksudkan tidak hanya sebagai payung hukum bagi penyelenggaraan pemerintahan, tetapi juga sebagai instrumen untuk meningkatkan kualitas pelayanan pemerintahan kepada masyarakat sehingga keberadaan Undang-Undang ini benar-benar dapat mewujudkan pemerintahan yang baik bagi semua Badan atau Pejabat Pemerintahan di Pusat dan Daerah.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 17 Oktober 2014.\n-\nKetentuan mengenai tata cara pengembalian sebagaimana dimaksud dalam Pasal 70 ayat (3) dan tanggung jawab Badan dan/atau Pejabat Pemerintahan akibat kerugian yang ditimbulkan dari Keputusan dan/atau Tindakan sebagaimana dimaksud dalam Pasal 71 ayat (5) diatur dalam Peraturan Pemerintah.\nKetentuan lebih lanjut mengenai tata cara pengenaan sanksi administratif sebagaimana dimaksud dalam Pasal 80, Pasal 81, Pasal 82, dan Pasal 83 diatur dengan Peraturan Pemerintah.\n42",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/28023/UU%20Nomor%2030%20Tahun%202014.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:38Z"
+}

@@ -1,0 +1,51 @@
+{
+ "id": "PMK-2021-159",
+ "source": "bpk",
+ "bpk_id": 187672,
+ "url": "https://peraturan.bpk.go.id/Details/187672/pmk-no-159pmk022021",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "159",
+ "number_raw": "159/PMK.02/2021",
+ "year": 2021,
+ "title": "Peraturan Menteri Keuangan Nomor 159/PMK.02/2021 Tahun 2021 tentang Tata Cara Penyediaan, Pencairan, dan Pertanggungjawaban Dana Kompensasi atas Kekurangan Penerimaan Badan Usaha Akibat Kebijakan Penetapan Harga Jual Eceran Bahan Bakar Minyak dan Tarif Tenaga Listrik",
+ "about": "Tata Cara Penyediaan, Pencairan, dan Pertanggungjawaban Dana Kompensasi atas Kekurangan Penerimaan Badan Usaha Akibat Kebijakan Penetapan Harga Jual Eceran Bahan Bakar Minyak dan Tarif Tenaga Listrik",
+ "issuer": "Kementerian Keuangan",
+ "subject": "APBN - PERTAMBANGAN MIGAS, MINERAL DAN ENERGI",
+ "field": "",
+ "date_enacted": "2021-11-17",
+ "date_promulgated": "2021-11-18",
+ "date_effective": "2021-11-18",
+ "gazette": "BN.2021/NO. 1277; https:jdih.kemenkeu.go.id : 29 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-73",
+   "target_bpk_id": 333927,
+   "label": "PMK No. 73 Tahun 2025",
+   "about": "Tata Cara Penyediaan, Penghitungan, Pembayaran dan Pertanggungjawaban Dana Kompensasi Atas Kekuarangan Penerimaan Badan Usaha Akibat Kebijakan Penetapan Harga Jual Ecer Bahan Bakar Minyak dan Tarif Tenaga Listrik"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2022-159",
+   "target_bpk_id": 231151,
+   "label": "PMK No. 159/PMK.02/2022",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 159/PMK.02/2021 tentang Tata Cara Penyediaan, Pencairan, dan Pertanggungjawaban Dana Kompensasi atas Kekurangan Penerimaan Badan Usaha Akibat Kebijakan Penetapan Harga Jual Eceran Bahan Bakar Minyak dan Tarif Tenaga Listrik"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2021-16",
+   "target_bpk_id": 161528,
+   "label": "PMK No. 16/PMK.02/2021",
+   "about": "Tata Cara Penyediaan, Pencairan, dan Pertanggungjawaban Dana Kompensasi atas Kekurangan Penerimaan Badan Usaha Akibat Kebijakan Penetapan Harga Jual Eceran Bahan Bakar Minyak dan Tarif Tenaga Listrik"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 18 November 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/181266/159_PMK.02_2021.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:32:45Z"
+}

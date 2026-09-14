@@ -1,0 +1,54 @@
+{
+ "id": "PERPRES-2022-117",
+ "source": "bpk",
+ "bpk_id": 227049,
+ "url": "https://peraturan.bpk.go.id/Details/227049/perpres-no-117-tahun-2022",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "117",
+ "number_raw": "117",
+ "year": 2022,
+ "title": "Peraturan Presiden (Perpres) Nomor 117 Tahun 2022 tentang Kementerian Pertanian",
+ "about": "Kementerian Pertanian",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "",
+ "date_enacted": "2022-09-21",
+ "date_promulgated": "2022-09-21",
+ "date_effective": "2022-09-21",
+ "gazette": "LN.2022/No.188, jdih.setneg.go.id: 16 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-192",
+   "target_bpk_id": 306932,
+   "label": "Perpres No. 192 Tahun 2024",
+   "about": "Kementerian Pertanian"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PERPRES-2023-45",
+   "target_bpk_id": 255540,
+   "label": "PERPRES No. 45 Tahun 2023",
+   "about": "Badan Karantina Indonesia"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2015-45",
+   "target_bpk_id": 41781,
+   "label": "PERPRES No. 45 Tahun 2015",
+   "about": "Kementerian Pertanian"
+  }
+ ],
+ "abstract": "Sebagai tindak lanjut ditetapkannya Keppres Nomor 113/P Tahun 2019 tentang Pembentukan Kementerian Negara dan Pengangkatan Menteri Negara Kabinet Indonesia Maju Periode Tahun 2019-2024 dan untuk melaksanakan ketentuan Pasal 11 UU Nomor 39 Tahun 2008 tentang Kementerian Negara, perlu menetapkan Perpres tentang Kementerian Pertanian.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) dan Pasal 17 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 39 Tahun 2008; dan Perpres Nomor 68 Tahun 2019.\nPerpres ini mengatur mengenai: 1) kedudukan, tugas, dan fungsi; 2) organisasi; 3) Unit Pelaksana Teknis; 4) Tata Kerja; dan 5) pendanaan mengenai Kementerian Pertanian (Kementan). Kementan berada di bawah dan bertanggung jawab kepada Presiden yang dipimpin oleh Menteri. Kementan mempunyai hrgas menyelenggarakan urusan pemerintahan di bidang pertanian untuk membantu Presiden dalam menyelenggarakan pemerintahan negara.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 21 September 2022.\nPada saat Perpres ini mulai berlaku, Perpres Nomor 45 Tahun 2015 tentang Kementerian Pertanian (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 85), dicabut dan dinyatakan tidak berlaku.\nSegala pendanaan yang diperlukan untuk pelaksanaan tugas dan fungsi Kementan bersumber dari Anggaran Pendapatan dan Belanja Negara.\nLampiran: 16 hlm.",
+ "citations": [
+  "UU-2008-39",
+  "PERPRES-2019-68"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/221769/Perpres%20Nomor%20117%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:52Z"
+}

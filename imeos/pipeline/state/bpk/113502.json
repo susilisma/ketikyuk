@@ -1,0 +1,37 @@
+{
+ "id": "PMK-2018-166",
+ "source": "bpk",
+ "bpk_id": 113502,
+ "url": "https://peraturan.bpk.go.id/Details/113502/pmk-no-166pmk032018",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "166",
+ "number_raw": "166/PMK.03/2018",
+ "year": 2018,
+ "title": "Peraturan Menteri Keuangan Nomor 166/PMK.03/2018 Tahun 2018 tentang Penunjukan Pemegang Izin Usaha Pertambangan Khusus Operasi Produksi Untuk Memungut, Menyetor, Dan Melaporkan Pajak Pertambahan Nilai Atau Pajak Pertambahan Nilai Dan Pajak Penjualan Atas Barang Mewah, Serta Tata Cara Pemungutan, Penyetoran, Dan Pelaporannya",
+ "about": "Penunjukan Pemegang Izin Usaha Pertambangan Khusus Operasi Produksi Untuk Memungut, Menyetor, Dan Melaporkan Pajak Pertambahan Nilai Atau Pajak Pertambahan Nilai Dan Pajak Penjualan Atas Barang Mewah, Serta Tata Cara Pemungutan, Penyetoran, Dan Pelaporannya",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "",
+ "date_enacted": "2018-12-19",
+ "date_promulgated": "2018-12-19",
+ "date_effective": "2018-12-19",
+ "gazette": "BN.2018/NO.1682, JDIH.KEMENKEU.GO.ID : 7 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-81",
+   "target_bpk_id": 306614,
+   "label": "PMK No. 81 Tahun 2024",
+   "about": "Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 19 Desember 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/104458/PMK%20Nomor%20166%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:35:02Z"
+}

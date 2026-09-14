@@ -1,0 +1,37 @@
+{
+ "id": "PERMENDAG-2018-125",
+ "source": "bpk",
+ "bpk_id": 128517,
+ "url": "https://peraturan.bpk.go.id/Details/128517/permendag-no-125-tahun-2018",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "125",
+ "number_raw": "125",
+ "year": 2018,
+ "title": "Peraturan Menteri Perdagangan Nomor 125 Tahun 2018 tentang Tanda Tera",
+ "about": "Tanda Tera",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "",
+ "date_enacted": "2018-12-26",
+ "date_promulgated": "2018-12-31",
+ "date_effective": "2018-12-31",
+ "gazette": "BN.2018/NO.1886, JDIH.KEMENDAG.GO.ID : 14 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2024-24",
+   "target_bpk_id": 305838,
+   "label": "Permendag No. 24 Tahun 2024",
+   "about": "Kegiatan Tera dan Tera Ulang Alat Ukur, Alat Takar, Alat Timbang, dan Alat Perlengkapan Metrologi Legal"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 31 Desember 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/119455/Permendag%20No.%20125%20Tahun%202018.PDF"
+ ],
+ "fetched_at": "2026-09-14T06:37:45Z"
+}

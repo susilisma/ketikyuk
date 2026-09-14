@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2017-72",
+ "source": "bpk",
+ "bpk_id": 112709,
+ "url": "https://peraturan.bpk.go.id/Details/112709/pmk-no-72pmk022017",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "72",
+ "number_raw": "72/PMK.02/2017",
+ "year": 2017,
+ "title": "Peraturan Menteri Keuangan Nomor 72/PMK.02/2017 Tahun 2017 tentang Perubahan Atas Peraturan Menteri Keuangan Nomor 82/PMK.02/2016 Tentang Tata Cara Penyediaan, Pencairan, Dan Pertanggungjawaban Dana Bantuan Operasional Layanan Pos Universal",
+ "about": "Perubahan Atas Peraturan Menteri Keuangan Nomor 82/PMK.02/2016 Tentang Tata Cara Penyediaan, Pencairan, Dan Pertanggungjawaban Dana Bantuan Operasional Layanan Pos Universal",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PENGELOLAAN KEUANGAN NEGARA / DAERAH - BANTUAN, SUMBANGAN, BENCANA / KEBENCANAAN, DAN PENANGGULANGAN BENCANA",
+ "field": "",
+ "date_enacted": "2017-06-05",
+ "date_promulgated": "2017-06-06",
+ "date_effective": "2017-06-06",
+ "gazette": "BN.2017/NO.787, jdih.kemenkeu.go.id : 4 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2025-58",
+   "target_bpk_id": 326043,
+   "label": "PMK No. 58 Tahun 2025",
+   "about": "Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 82/PMK.02/2016 tentang Tata Cara Penyediaan, Pencairan, dan Pertanggungjawaban Dana Bantuan Operasional Layanan Pos Universal"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PMK-2016-82",
+   "target_bpk_id": 145624,
+   "label": "PMK No. 82/PMK.02/2016",
+   "about": "Tata Cara Penyediaan, Pencairan, dan Pertanggungjawaban Dana Bantuan Operasional Layanan Pos Universal"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 06 Juni 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/103651/PMK%20Nomor%2072%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:33:11Z"
+}

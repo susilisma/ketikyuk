@@ -1,0 +1,51 @@
+{
+ "id": "PERPRES-2012-6",
+ "source": "bpk",
+ "bpk_id": 41249,
+ "url": "https://peraturan.bpk.go.id/Details/41249/perpres-no-6-tahun-2012",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "6",
+ "number_raw": "6",
+ "year": 2012,
+ "title": "Peraturan Presiden (Perpres) Nomor 6 Tahun 2012 tentang Komite Koordinasi Nasional Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
+ "about": "Komite Koordinasi Nasional Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PENCUCIAN UANG - PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "",
+ "date_enacted": "2012-01-11",
+ "date_promulgated": "2012-01-11",
+ "date_effective": "2012-01-11",
+ "gazette": "LN.2012/NO.21, LL SETKAB : 8 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2025-88",
+   "target_bpk_id": 327888,
+   "label": "Perpres No. 88 Tahun 2025",
+   "about": "Perubahan Kedua atas Peraturan Presiden Nomor 6 Tahun 2012 tentang Komite Koordinasi Nasional Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2016-117",
+   "target_bpk_id": 41021,
+   "label": "PERPRES No. 117 Tahun 2016",
+   "about": "Perubahan Atas Peraturan Presiden Nomor 6 Tahun 2012 Tentang Komite Koordinasi Nasional Pencegahan Dan Pemberantasan Tindak Pidana Pencucian Uang"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 55555,
+   "label": "KEPPRES No. 1 Tahun 2004",
+   "about": "Komite Koordinasi Nasional Pencegahan Dan Pemberantasan Tindak Pidana Pencucian Uang"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 11 Januari 2012.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/68825/Peraturan%20Presiden%20No%206%20Tahun%202012.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:54Z"
+}

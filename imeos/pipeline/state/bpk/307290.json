@@ -1,0 +1,39 @@
+{
+ "id": "UU-2024-145",
+ "source": "bpk",
+ "bpk_id": 307290,
+ "url": "https://peraturan.bpk.go.id/Details/307290/uu-no-145-tahun-2024",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "145",
+ "number_raw": "145",
+ "year": 2024,
+ "title": "Undang-undang (UU) Nomor 145 Tahun 2024 tentang Kabupaten Enrekang di Provinsi Sulawesi Selatan",
+ "about": "Kabupaten Enrekang di Provinsi Sulawesi Selatan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-10-28",
+ "date_promulgated": "2024-10-28",
+ "date_effective": "2024-10-28",
+ "gazette": "LN 2024 (331), TLN (7082) : 6 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-1959-29",
+   "target_bpk_id": 51529,
+   "label": "UU No. 29 Tahun 1959",
+   "about": "Pembentukan Daerah Tingkat II Di Sulawesi"
+  }
+ ],
+ "abstract": "Undang-Undang Nomor 29 Tahun 1959 tentang Pembentukan Daerah Tingkat II di Sulawesi, yang menjadi dasar pembentukan Kabupaten Enrekang, sudah tidak sesuai lagi dengan perkembangan hukum sehingga perlu diganti.\nDasar hukum UU ini adalah Pasal 18, Pasal 18A, Pasal 18B ayat (2), Pasal 20, Pasal 21, dan Pasal 22D ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.\nUU ini mengatur mengenai Kabupaten Enrekang di Provinsi Sulawesi Selatan dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Kabupaten Enrekang terdiri atas 12 (dua belas) kecamatan. Ibu Kota Kabupaten Enrekang berkedudukan di Kecamatan Enrekang.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 28 Oktober 2024.\nPada saat Undang-Undang ini mulai berlaku, ketentuan yang mengatur mengenai Kabupaten Enrekang dalam Undang-Undang Nomor 29 Tahun 1959 tentang Pembentukan Daerah Tingkat II di Sulawesi (Lembaran Negara Tahun 1959 Nomor 74, Tambahan Lembaran Negara Nomor 1822), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 8 hlm. (batang tubuh hlm 1 s.d. 6 dan penjelasan hlm 7 s.d. 8)",
+ "citations": [
+  "UU-1959-29"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/367683/UU%20Nomor%20145%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:24:32Z"
+}

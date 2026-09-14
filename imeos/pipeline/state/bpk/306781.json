@@ -1,0 +1,41 @@
+{
+ "id": "PERPRES-2024-184",
+ "source": "bpk",
+ "bpk_id": 306781,
+ "url": "https://peraturan.bpk.go.id/Details/306781/perpres-no-184-tahun-2024",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "184",
+ "number_raw": "184",
+ "year": 2024,
+ "title": "Peraturan Presiden (Perpres) Nomor 184 Tahun 2024 tentang Kementerian Investasi dan Hilirasi",
+ "about": "Kementerian Investasi dan Hilirasi",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KETATANEGARAAN, KENEGARAAN - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "HUKUM TATA NEGARA",
+ "date_enacted": "2024-11-05",
+ "date_promulgated": "2024-11-05",
+ "date_effective": "2024-11-05",
+ "gazette": "LN 2024 (380) : 10 hlm.;jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2021-63",
+   "target_bpk_id": 174377,
+   "label": "PERPRES No. 63 Tahun 2021",
+   "about": "Kementerian Investasi"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 11 Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara sebagaimana telah diubah dengan Undang-Undang Nomor 61 Tahun 2024 tentang Perubahan atas Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara, perlu menetapkan Peraturan Presiden tentang Kementerian Investasi dan Hilirisasi.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) dan Pasal 17 UUD NRI Tahun 1945; UU Nomor 39 Tahun 2008; dan Perpres Nomor 140 Tahun 2024.\nPeraturan Presiden ini mengatur mengenai Kementerian Investasi dan Hilirisasi yang menyelenggarakan urusan pemerintahan di bidang investasi dan suburusan pemerintahan hilirisasi yang merupakan lingkup urusan pemerintahan di bidang investasi. Kementerian dipimpin oleh Menteri dan kedudukannya berada di bawah dan bertanggung jawab kepada Presiden. Dalam memimpin Kementerian, Menteri dibantu oleh Wakil menteri sesuai dengan penunjukan Presiden. Tugas dari Kementerian ini adalah menyelenggarakan urusan pemerintahan di bidang investasi dan suburusan pemerintahan hilirisasi yang merupakan lingkup urusan pemerintahan di bidang investasi untuk membantu Presiden dalam menyelenggarakan pemerintahan negara. Fungsi dari Kementerian ini adalah: perumusan dan penetapan kebijakan di bidang investasi dan hilirisasi; koordinasi dan sinkronisasi pelaksanaan kebijakan di bidang investasi dan hilirisasi; koordinasi pelaksanaan tugas, pembinaan, dan pemberian dukungan administrasi kepada seluruh unsur organisasi di lingkungan Kementerian; pengelolaan barang milik/kekayaan negara yang menjadi tanggung jawab Kementerian; pengawasan atas pelaksanaan tugas di lingkungan Kementerian; dan pelaksanaan fungsi lain yang diberikan oleh Presiden.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 05 November 2024.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 63 Tahun 2021 tentang Kementerian Investasi (Lembaran Negara Republik Indonesia Tahun 2021 Nomor 159), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 10 hlm",
+ "citations": [
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2024-140"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/367112/Perpres%20Nomor%20184%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:27:09Z"
+}

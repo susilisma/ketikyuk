@@ -1,0 +1,50 @@
+{
+ "id": "PERMENDAG-2026-16",
+ "source": "bpk",
+ "bpk_id": 351555,
+ "url": "https://peraturan.bpk.go.id/Details/351555/permendag-no-16-tahun-2026",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "16",
+ "number_raw": "16",
+ "year": 2026,
+ "title": "Peraturan Menteri Perdagangan Nomor 16 Tahun 2026 tentang Kebijakan dan Pengaturan Ekspor Komoditas Sumber Daya Alam Strategis Kelapa Sawit",
+ "about": "Kebijakan dan Pengaturan Ekspor Komoditas Sumber Daya Alam Strategis Kelapa Sawit",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN - KEBIJAKAN PEMERINTAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-05-29",
+ "date_promulgated": "2026-05-29",
+ "date_effective": "2026-06-01",
+ "gazette": "BN.2026 (348/ 36 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2024-26",
+   "target_bpk_id": 305841,
+   "label": "Permendag No. 26 Tahun 2024",
+   "about": "Ketentuan Ekspor Produk Turunan Kelapa Sawit"
+  }
+ ],
+ "abstract": "bahwa untuk melaksanakan ketentuan Pasal 2 ayat (5) dan Pasal 5 Peraturan Pemerintah Nomor 24 Tahun 2026 tentang Tata Kelola Ekspor Komoditas Sumber Daya Alam Strategis, perlu menetapkan Peraturan Menteri Perdagangan tentang Kebijakan dan Pengaturan Ekspor Komoditas Sumber Daya Alam Strategis Kelapa Sawit;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 10 Tahun 1995, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 7 Tahun 2014, Peraturan Pemerintah Nomor 55 Tahun 2008, Peraturan Pemerintah Nomor 32 Tahun 2009, Peraturan Pemerintah Nomor 24 Tahun 2015, Peraturan Pemerintah Nomor 29 Tahun 2021, Peraturan Pemerintah Nomor 40 Tahun 2021, Peraturan Pemerintah Nomor 41 Tahun 2021, Peraturan Pemerintah Nomor 24 Tahun 2026, Peraturan Presiden Nomor 168 Tahun 2024 dan Peraturan Menteri Perdagangan Nomor 6 Tahun 2025\nPeraturan ini mengatur tentang ketentuan umum, Produk Turunan Kelapa Sawit, Ketentuan Ekspor Produk Turunan Kelapa Sawit, Kebijakan Ekspor Produk Turunan Kelapa Sawit berupa UCO dan Residu, Penerbitan Persetujuan Ekspor, pembekuan dan pengaktifan hak ekspor, perubahan data, permohonan perubahan Persetujuan Ekspor, Sistem INATRADE, permohonan surat keterangan, laporan realisasi, kewajiban BUMN Ekspor dan sanksi administratif,",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 01 Juni 2026.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan Menteri Perdagangan Nomor 26 Tahun 2024 tentang Ketentuan Ekspor Produk Turunan Kelapa Sawit sebagaimana telah diubah dengan Peraturan Menteri Perdagangan Nomor 2 Tahun 2025 tentang Perubahan atas Peraturan Menteri Perdagangan Nomor 26 Tahun 2024 tentang Ketentuan Ekspor Produk Turunan Kelapa Sawit",
+ "citations": [
+  "PP-2026-24",
+  "UU-1995-10",
+  "UU-2008-39",
+  "UU-2014-7",
+  "PP-2008-55",
+  "PP-2009-32",
+  "PP-2015-24",
+  "PP-2021-29",
+  "PP-2021-40",
+  "PP-2021-41",
+  "PERPRES-2024-168",
+  "PERMENDAG-2025-6"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/415338/permendag-no-16-tahun-2026.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:35:50Z"
+}

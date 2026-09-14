@@ -1,0 +1,39 @@
+{
+ "id": "PERPRES-2026-13",
+ "source": "bpk",
+ "bpk_id": 348120,
+ "url": "https://peraturan.bpk.go.id/Details/348120/perpres-no-13-tahun-2026",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "13",
+ "number_raw": "13",
+ "year": 2026,
+ "title": "Peraturan Presiden (Perpres) Nomor 13 Tahun 2026 tentang Pengelolaan Kesehatan",
+ "about": "Pengelolaan Kesehatan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KESEHATAN",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2026-03-11",
+ "date_promulgated": "2026-03-11",
+ "date_effective": "2026-03-11",
+ "gazette": "LN 2026 (25) : 13 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2012-72",
+   "target_bpk_id": 41327,
+   "label": "PERPRES No. 72 Tahun 2012",
+   "about": "Sistem Kesehatan Nasional"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 21 ayat (3) dan Pasal 416 Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan, perlu menetapkan Peraturan Presiden tentang Pengelolaan Kesehatan.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD 1945 dan UU No. 17 Tahun 2023.\nPerpres ini mengatur mengenai pengelolaan kesehatan yang dilakukan dalam suatu sistem kesehatan nasional dan dilakukan secara berjenjang di pusat dan daerah.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 11 Maret 2026.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 72 Tahlun 2012 tentang Sistem Kesehatan Nasional (Lembaran Negara Republik Indonesia Tahun 2012 Nomor 193) dicabut dan dinyatakan tidak berlaku.\nLampiran file: 241 hlm (batang tubuh hlm 1 sd 13 dan lampiran hlm 14 sd 241)",
+ "citations": [
+  "UU-2023-17"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/411695/Perpres%20Nomor%2013%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:31:50Z"
+}

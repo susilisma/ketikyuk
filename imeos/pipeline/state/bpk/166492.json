@@ -1,0 +1,51 @@
+{
+ "id": "PERMENDAG-2021-13",
+ "source": "bpk",
+ "bpk_id": 166492,
+ "url": "https://peraturan.bpk.go.id/Details/166492/permendag-no-13-tahun-2021",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "13",
+ "number_raw": "13",
+ "year": 2021,
+ "title": "Peraturan Menteri Perdagangan Nomor 13 Tahun 2021 tentang Perwakilan Perdagangan Di Luar Negeri",
+ "about": "Perwakilan Perdagangan Di Luar Negeri",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "",
+ "date_enacted": "2021-03-31",
+ "date_promulgated": "2021-04-05",
+ "date_effective": "2021-04-05",
+ "gazette": "BN.2021/No. 395; http://jdih.kemendag.go.id : 20 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENDAG-2025-42",
+   "target_bpk_id": 337394,
+   "label": "Permendag No. 42 Tahun 2025",
+   "about": "Perubahan atas Peraturan Menteri Perdagangan Nomor 13 Tahun 2021 tentang Perwakilan Perdagangan di Luar Negeri"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2018-63",
+   "target_bpk_id": 128415,
+   "label": "Permendag No. 63 Tahun 2018",
+   "about": "Pedoman Penyusunan dan Mekanisme Pelaporan Perwakilan Perdagangan di Luar Negeri"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2016-71",
+   "target_bpk_id": 128899,
+   "label": "Permendag No. 71/M-DAG/PER/10/2016 Tahun 2016",
+   "about": "Pembinaan Dan Pengembangan Perwakilan Perdagangan Di Luar Negeri"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 05 April 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/269142/Permendag%20Nomor%2013%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:36:40Z"
+}

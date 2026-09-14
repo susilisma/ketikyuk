@@ -1,0 +1,44 @@
+{
+ "id": "PP-1988-1",
+ "source": "bpk",
+ "bpk_id": 63834,
+ "url": "https://peraturan.bpk.go.id/Details/63834/x",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "1",
+ "number_raw": "1",
+ "year": 1988,
+ "title": "Peraturan Pemerintah (PP) Nomor 1 Tahun 1988 tentang Masa Bakti Dan Praktek Dokter Dan Dokter Gigi",
+ "about": "Masa Bakti Dan Praktek Dokter Dan Dokter Gigi",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KESEHATAN - JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "",
+ "date_enacted": "1988-02-15",
+ "date_promulgated": "1988-02-15",
+ "date_effective": "1988-06-01",
+ "gazette": "LN. 1988, No. 1, TLN No. 3366, LL Setkab : 6 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-28",
+   "target_bpk_id": 294077,
+   "label": "PP No. 28 Tahun 2024",
+   "about": "Peraturan Pelaksanaan Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-1964-36",
+   "target_bpk_id": 72042,
+   "label": "PP No. 36 Tahun 1964",
+   "about": "Pendaftaran Ijazah dan Pemberian Izin Menjalankan Pekerjaan Dokter/Dokter-Gigi/Apoteker"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 01 Juni 1988.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/54043/PP%20NO%201%20TH%201988.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:30Z"
+}

@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2018-35",
+ "source": "bpk",
+ "bpk_id": 73958,
+ "url": "https://peraturan.bpk.go.id/Details/73958/perpres-no-35-tahun-2018",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "35",
+ "number_raw": "35",
+ "year": 2018,
+ "title": "Peraturan Presiden (Perpres) Nomor 35 Tahun 2018 tentang Percepatan Pembangunan Instalasi Pengolah Sampah Menjadi Energi Listrik Berbasis Teknologi Ramah Lingkungan",
+ "about": "Percepatan Pembangunan Instalasi Pengolah Sampah Menjadi Energi Listrik Berbasis Teknologi Ramah Lingkungan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "LINGKUNGAN HIDUP - PERTAMBANGAN MIGAS, MINERAL DAN ENERGI - PROGRAM, RENCANA PEMBANGUNAN DAN RENCANA KERJA",
+ "field": "",
+ "date_enacted": "2018-04-12",
+ "date_promulgated": "2018-04-16",
+ "date_effective": "2018-04-16",
+ "gazette": "LN.2018/NO.61, LL SETKAB : 18 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2025-109",
+   "target_bpk_id": 334718,
+   "label": "Perpres No. 109 Tahun 2025",
+   "about": "Penanganan Sampah Perkotaan Melalui Pengolahan Sampah Menjadi Energi Terbarukan Berbasis Teknologi Ramah Lingkungan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2016-18",
+   "target_bpk_id": 39829,
+   "label": "PERPRES No. 18 Tahun 2016",
+   "about": "Percepatan Pembangunan Pembangkit Listrik Berbasis Sampah di Provinsi DKI Jakarta, Kota Tangerang, Kota Bandung, Kota Semarang, Kota Surakarta, Kota Surabaya dan Kota Makassar"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 16 April 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/254520/Perpres%20Nomor%2035%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:26Z"
+}

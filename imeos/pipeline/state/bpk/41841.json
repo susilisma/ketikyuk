@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2015-96",
+ "source": "bpk",
+ "bpk_id": 41841,
+ "url": "https://peraturan.bpk.go.id/Details/41841/perpres-no-96-tahun-2015",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "96",
+ "number_raw": "96",
+ "year": 2015,
+ "title": "Peraturan Presiden (Perpres) Nomor 96 Tahun 2015 tentang Perubahan atas Peraturan Presiden Nomor 15 Tahun 2010 tentang Percepatan Penanggulangan Kemiskinan",
+ "about": "Perubahan atas Peraturan Presiden Nomor 15 Tahun 2010 tentang Percepatan Penanggulangan Kemiskinan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PROGRAM, RENCANA PEMBANGUNAN DAN RENCANA KERJA - BANTUAN, SUMBANGAN, BENCANA / KEBENCANAAN, DAN PENANGGULANGAN BENCANA - KEBIJAKAN PEMERINTAH",
+ "field": "",
+ "date_enacted": "2015-08-21",
+ "date_promulgated": "2015-08-25",
+ "date_effective": "2015-08-25",
+ "gazette": "LN.2015/NO.199, LL SETKAB : 6 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-163",
+   "target_bpk_id": 306716,
+   "label": "Perpres No. 163 Tahun 2024",
+   "about": "Badan Percepatan Pengentasan Kemiskinan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2010-15",
+   "target_bpk_id": 41038,
+   "label": "PERPRES No. 15 Tahun 2010",
+   "about": "Percepatan Penanggulangan Kemiskinan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 25 Agustus 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/71001/Perpres%20Nomor%2096%20Tahun%202015.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:28:05Z"
+}

@@ -1,0 +1,51 @@
+{
+ "id": "PERPRES-2019-96",
+ "source": "bpk",
+ "bpk_id": 129217,
+ "url": "https://peraturan.bpk.go.id/Details/129217/perpres-no-96-tahun-2019",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "96",
+ "number_raw": "96",
+ "year": 2019,
+ "title": "Peraturan Presiden (Perpres) Nomor 96 Tahun 2019 tentang Kementerian Pariwisata dan Ekonomi Kreatif",
+ "about": "Kementerian Pariwisata dan Ekonomi Kreatif",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "",
+ "date_enacted": "2019-12-31",
+ "date_promulgated": "2019-12-31",
+ "date_effective": "2019-12-31",
+ "gazette": "LN.2019/NO.269, JDIH.SETNEG.GO.ID : 13 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-200",
+   "target_bpk_id": 306954,
+   "label": "Perpres No. 200 Tahun 2024",
+   "about": "Badan Ekonomi Kreatif"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-198",
+   "target_bpk_id": 306951,
+   "label": "Perpres No. 198 Tahun 2024",
+   "about": "Kementerian Pariwisata"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2019-69",
+   "target_bpk_id": 123689,
+   "label": "PERPRES No. 69 Tahun 2019",
+   "about": "Kementerian Pariwisata dan Ekonomi Kreatif"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 31 Desember 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/120133/Perpres%20Nomor%2096%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:37Z"
+}

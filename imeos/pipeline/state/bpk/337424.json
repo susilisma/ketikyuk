@@ -1,0 +1,43 @@
+{
+ "id": "PERMENDAG-2025-40",
+ "source": "bpk",
+ "bpk_id": 337424,
+ "url": "https://peraturan.bpk.go.id/Details/337424/permendag-no-40-tahun-2025",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "40",
+ "number_raw": "40",
+ "year": 2025,
+ "title": "Peraturan Menteri Perdagangan Nomor 40 Tahun 2025 tentang Perubahan atas Peraturan Menteri Perdagangan Nomor 49 Tahun 2021 tentang Wilayah Tertib Adinistrasi di Lingkungan Kementerian Perdagangan",
+ "about": "Perubahan atas Peraturan Menteri Perdagangan Nomor 49 Tahun 2021 tentang Wilayah Tertib Adinistrasi di Lingkungan Kementerian Perdagangan",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-11-25",
+ "date_promulgated": "2025-12-03",
+ "date_effective": "2025-12-31",
+ "gazette": "BN.2025 (1005/4 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERMENDAG-2021-49",
+   "target_bpk_id": 181063,
+   "label": "Permendag No. 49 Tahun 2021",
+   "about": "Wilayah Tertib Administrasi Di Lingkungan Kementerian Perdagangan"
+  }
+ ],
+ "abstract": "a. bahwa untuk mengoptimalisasikan penilaian wilayah\ntertib\nadministrasi di lingkungan Kementerian\nPerdagangan, perlu memperluas objek penilaian\nwilayah tertib administrasi di lingkungan Kementerian\nPerdagangan;\nb. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a, perlu menetapkan Peraturan\nMenteri\nPerdagangan tentang Perubahan atas\nPeraturan Menteri Perdagangan Nomor 49 Tahun 2021\ntentang Wilayah Tertib Administrasi di Lingkungan\nKementerian Perdagangan;\nPasal 17 ayat (3) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Peraturan Presiden Nomor 168 Tahun 2024, Peraturan Menteri Perdagangan Nomor 52/M-DAG/\nPER/7/2016, Peraturan Menteri Perdagangan Nomor 6 Tahun 2025 dan Peraturan Menteri Perdagangan Nomor 28 Tahun 2025\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri Perdagangan\nNomor 49 Tahun 2021 tentang Wilayah Tertib Administrasi di Lingkungan Kementerian Perdagangan yaitu tentang ketentuan umum dan petunjuk teknis mengenai pelaksanaan pembinaan",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 31 Desember 2025.\nPeraturan Menteri Perdagangan Nomor 49 Tahun 2021 tentang Wilayah Tertib Administrasi di Lingkungan Kementerian Perdagangan",
+ "citations": [
+  "PERMENDAG-2021-49",
+  "UU-2008-39",
+  "PERPRES-2024-168",
+  "PERMENDAG-2025-6",
+  "PERMENDAG-2025-28"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/400475/PERMENDAG%20NOMOR%2040%20TAHUN%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:36:44Z"
+}

@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2021-224",
+ "source": "bpk",
+ "bpk_id": 209637,
+ "url": "https://peraturan.bpk.go.id/Details/209637/pmk-no-224pmk082021",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "224",
+ "number_raw": "224/PMK.08/2021",
+ "year": 2021,
+ "title": "Peraturan Menteri Keuangan Nomor 224/PMK.08/2021 Tahun 2021 tentang Penjualan dan Pembelian Kembali Surat Berharga Syariah Negara dalam Valuta Asing di Pasar Internasional",
+ "about": "Penjualan dan Pembelian Kembali Surat Berharga Syariah Negara dalam Valuta Asing di Pasar Internasional",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PASAR MODAL DAN PERDAGANGAN BERJANGKA KOMODITI - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "",
+ "date_enacted": "2021-12-31",
+ "date_promulgated": "2021-12-31",
+ "date_effective": "2021-12-31",
+ "gazette": "BN.2021/NO. 1528; https:jdih.kemenkeu.go.id : 35 Hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2025-107",
+   "target_bpk_id": 342099,
+   "label": "PMK No. 107 Tahun 2025",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 224/PMK.08/2021 tentang Penjualan dan Pembelian Kembali Surat Berharga Syariah Negara dalam Valuta Asing di Pasar Internasional"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2018-72",
+   "target_bpk_id": 112513,
+   "label": "PMK No. 72/PMK.08/2018",
+   "about": "Penerbitan Dan Penjualan Surat Berharga Syariah Negara Dalam Valuta Asing Di Pasar Perdana Internasional"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 31 Desember 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/203733/224_PMK.08_2021.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:31:52Z"
+}

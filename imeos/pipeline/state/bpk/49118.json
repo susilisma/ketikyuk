@@ -1,0 +1,44 @@
+{
+ "id": "UU-1969-14",
+ "source": "bpk",
+ "bpk_id": 49118,
+ "url": "https://peraturan.bpk.go.id/Details/49118/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "14",
+ "number_raw": "14",
+ "year": 1969,
+ "title": "Undang-undang (UU) Nomor 14 Tahun 1969 tentang Ketentuan-Ketentuan Pokok Mengenai Tenaga Kerja",
+ "about": "Ketentuan-Ketentuan Pokok Mengenai Tenaga Kerja",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KETENAGAKERJAAN",
+ "field": "",
+ "date_enacted": "1969-11-19",
+ "date_promulgated": "1969-11-19",
+ "date_effective": "1969-11-19",
+ "gazette": "LN. 1969, LL SETNEG : 6 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2003-13",
+   "target_bpk_id": 43013,
+   "label": "UU No. 13 Tahun 2003",
+   "about": "Ketenagakerjaan"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-1997-25",
+   "target_bpk_id": 46026,
+   "label": "UU No. 25 Tahun 1997",
+   "about": "Ketenagakerjaan"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 19 November 1969.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/38388/UU%20Nomor%2014%20Tahun%201969.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:17Z"
+}

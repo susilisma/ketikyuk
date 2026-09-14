@@ -1,0 +1,131 @@
+{
+ "id": "UU-2014-23",
+ "source": "bpk",
+ "bpk_id": 38685,
+ "url": "https://peraturan.bpk.go.id/Details/38685/uu-no-23-tahun-2014",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "23",
+ "number_raw": "23",
+ "year": 2014,
+ "title": "Undang-undang (UU) Nomor 23 Tahun 2014 tentang Pemerintahan Daerah",
+ "about": "Pemerintahan Daerah",
+ "issuer": "Pemerintah Pusat",
+ "subject": "APBD - OTONOMI DAERAH DAN PEMERINTAH DAERAH",
+ "field": "",
+ "date_enacted": "2014-09-30",
+ "date_promulgated": "2014-10-02",
+ "date_effective": "2014-10-02",
+ "gazette": "LN.2014/No. 244, TLN No. 5587, LL SETNEG: 212 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2022-1",
+   "target_bpk_id": 195696,
+   "label": "UU No. 1 Tahun 2022",
+   "about": "Hubungan Keuangan antara Pemerintah Pusat dan Pemerintahan Daerah"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2019-17",
+   "target_bpk_id": 122742,
+   "label": "UU No. 17 Tahun 2019",
+   "about": "Sumber Daya Air"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2026-1",
+   "target_bpk_id": 337869,
+   "label": "UU No. 1 Tahun 2026",
+   "about": "Penyesuaian Pidana"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 135060,
+   "label": "PERPU No. 1 Tahun 2020",
+   "about": "Kebijakan Keuangan Negara dan Stabilitas Sistem Keuangan untuk Penanganan Pandemi Corona Virus Disease 2019 (COVID-19) dan/atau dalam Rangka Menghadapi Ancaman yang Membahayakan Perekonomian Nasional dan/atau Stabilitas Sistem Keuangan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2015-9",
+   "target_bpk_id": 38209,
+   "label": "UU No. 9 Tahun 2015",
+   "about": "Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2015-2",
+   "target_bpk_id": 37678,
+   "label": "UU No. 2 Tahun 2015",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2014 tentang Perubahan atas Undang-Undang Nomor 23 Tahun 2014 Tentang Pemerintahan Daerah Menjadi Undang-Undang"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-2008-12",
+   "target_bpk_id": 39043,
+   "label": "UU No. 12 Tahun 2008",
+   "about": "Perubahan Kedua atas Undang-Undang Nomor 32 Tahun 2004 tentang Pemerintahan Daerah"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-2005-8",
+   "target_bpk_id": 40250,
+   "label": "UU No. 8 Tahun 2005",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 3 Tahun 2005 tentang Perubahan atas Undang-Undang Nomor 32 Tahun 2004 tentang Pemerintahan Daerah Menjadi Undang-Undang"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-2004-32",
+   "target_bpk_id": 40768,
+   "label": "UU No. 32 Tahun 2004",
+   "about": "Pemerintahan Daerah"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1962-5",
+   "target_bpk_id": 50675,
+   "label": "UU No. 5 Tahun 1962",
+   "about": "Perusahaan Daerah"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2014-17",
+   "target_bpk_id": 38643,
+   "label": "UU No. 17 Tahun 2014",
+   "about": "Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah, dan Dewan Perwakilan Rakyat Daerah"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2009-28",
+   "target_bpk_id": 38763,
+   "label": "UU No. 28 Tahun 2009",
+   "about": "Pajak Daerah dan Retribusi Daerah"
+  }
+ ],
+ "abstract": "bahwa sesuai dengan Pasal 18 ayat (7) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 susunan dan tata cara penyelenggaraan pemerintahan daerah diatur dalam Undang-Undang;\nbahwa penyelenggaraan pemerintahan daerah diarahkan untuk mempercepat terwujudnya kesejahteraan masyarakat melalui peningkatan pelayanan, pemberdayaan, dan peran serta masyarakat, serta peningkatan daya saing daerah dengan memperhatikan prinsip demokrasi, pemerataan, keadilan, dan kekhasan suatu daerah dalam sistem Negara Kesatuan Republik Indonesia;\nbahwa efisiensi dan efektivitas penyelenggaraan pemerintahan daerah perlu ditingkatkan dengan lebih memperhatikan aspek-aspek hubungan antara Pemerintah Pusat dengan daerah dan antardaerah, potensi dan keanekaragaman daerah, serta peluang dan tantangan persaingan global dalam kesatuan sistem penyelenggaraan pemerintahan negara;\nbahwa Undang-Undang Nomor 32 Tahun 2004 tentang Pemerintahan Daerah tidak sesuai lagi dengan perkembangan keadaan, ketatanegaraan, dan tuntutan penyelenggaraan pemerintahan daerah sehingga perlu diganti;\nbahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, huruf c, dan huruf d perlu membentuk Undang-Undang tentang Pemerintahan Daerah;\nDasar hukum Undang-Undang Nomor 23 tahun 2014 tentang Pemerintahan Daerah adalah Pasal 1, Pasal 4, Pasal 5 ayat (1), Pasal 17 ayat (1) dan ayat (3), Pasal 18, Pasal 18A, Pasal 18B, Pasal 20, Pasal 22D ayat (2), dan Pasal 23E ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.\nHubungan Pemerintah Pusat dan Daerah\nHubungan Pemerintah Pusat dengan Daerah dapat dirunut dari alinea ketiga dan keempat Pembukaan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945. Alinea ketiga memuat pernyataan kemerdekaan bangsa Indonesia. Sedangkan alinea keempat memuat pernyataan bahwa setelah menyatakan kemerdekaan, yang pertama kali dibentuk adalah Pemerintah Negara Indonesia yaitu Pemerintah Nasional yang bertanggung jawab mengatur dan mengurus bangsa Indonesia. Lebih lanjut dinyatakan bahwa tugas Pemerintah Negara Indonesia adalah melindungi seluruh bangsa dan tumpah darah Indonesia, memajukan kesejahteraan umum dan mencerdaskan kehidupan bangsa serta ikut memelihara ketertiban dunia berdasarkan kemerdekaan, perdamaian abadi, dan keadilan sosial.\nBerbeda dengan penyelenggaraan pemerintahan di pusat yang terdiri atas lembaga eksekutif, legislatif, dan yudikatif, penyelenggaraan Pemerintahan Daerah dilaksanakan oleh DPRD dan kepala daerah. DPRD dan kepala daerah berkedudukansebagai unsur penyelenggara pemerintahan daerah yang diberi mandat rakyat untuk melaksanakan Urusan Pemerintahan yang diserahkan kepada Daerah. Dengan demikian maka DPRD dan kepala daerah berkedudukan sebagai mitra sejajar yang mempunyai fungsi yang berbeda. DPRD mempunyai fungsi pembentukan Perda, anggaran dan pengawasan, sedangkan kepala daerah melaksanakan fungsi pelaksanaan atas Perda dan kebijakan Daerah. Dalam mengatur dan mengurus Urusan Pemerintahan yang menjadi kewenangan Daerah tersebut, DPRD dan kepala daerah dibantu oleh Perangkat Daerah.\nSebagaimana diamanatkan oleh Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, terdapat Urusan Pemerintahan yang sepenuhnya menjadi kewenangan Pemerintah Pusat yang dikenal dengan istilah urusan pemerintahan absolut dan ada urusan pemerintahan konkuren. Urusan pemerintahan konkuren terdiri atas Urusan Pemerintahan Wajib dan Urusan Pemerintahan Pilihan yang dibagi antara Pemerintah Pusat, Daerah provinsi, dan Daerah kabupaten/kota. Urusan Pemerintahan Wajib dibagi dalam Urusan Pemerintahan Wajib yang terkait Pelayanan Dasar dan Urusan Pemerintahan Wajib yang tidak terkait Pelayanan Dasar. Untuk Urusan Pemerintahan Wajib yang terkait Pelayanan Dasar ditentukan Standar Pelayanan Minimal (SPM) untuk menjamin hak-hak konstitusional masyarakat.\nMengingat kondisi geografis yang sangat luas, maka untuk efektifitas dan efisiensi pembinaan dan pengawasan atas penyelenggaraan Urusan Pemerintahan yang menjadi kewenangan Daerah kabupaten/kota, Presiden sebagai penanggung jawab akhir pemerintahan secara keseluruhan melimpahkan kewenangannya kepada gubernur untuk bertindak atas nama Pemerintah Pusat untuk melakukan pembinaan dan pengawasan kepada Daerah kabupaten/kota agar melaksanakan otonominya dalam koridor NSPK yang ditetapkan oleh Pemerintah Pusat. Untuk efektifitas pelaksanaan tugasnya selaku wakil Pemerintah Pusat, gubernur dibantu oleh perangkat gubernur sebagai Wakil Pemerintah Pusat. Karena perannya sebagai Wakil Pemerintah Pusat maka hubungan gubernur dengan Pemerintah Daerah kabupaten/kota bersifat hierarkis.\nSalah satu aspek dalam Penataan Daerah adalah pembentukan Daerah baru. Pembentukan Daerah pada dasarnya dimaksudkan untuk meningkatkan pelayanan publik guna mempercepat terwujudnya kesejahteraan masyarakat disamping sebagai sarana pendidikan politik di tingkat lokal. Untuk itu maka Pembentukan Daerah harus mempertimbangkan berbagai faktor seperti kemampuan ekonomi, potensi Daerah, luas wilayah, kependudukan, dan pertimbangan dari aspek sosial politik, sosial budaya, pertahanan dan keamanan, serta pertimbangan dan syarat lain yang memungkinkan Daerah itu dapat menyelenggarakan dan mewujudkan tujuan dibentuknya Daerah.\nSetiap Daerah sesuai karakter Daerahnya akan mempunyai prioritas yang berbeda antara satu Daerah dengan Daerah lainnya dalam upaya menyejahterakan masyarakat. Ini merupakan pendekatan yang bersifat asimetris artinya walaupun Daerah sama-sama diberikan otonomi yang seluas-luasnya, namun prioritas Urusan Pemerintahan yang dikerjakan akan berbeda satu Daerah dengan Daerah lainnya. Konsekuensi logis dari pendekatan asimetris tersebut maka Daerah akan mempunyai prioritas Urusan Pemerintahan dan kelembagaan yang berbeda satu dengan lainnya sesuai dengan karakter Daerah dan kebutuhan masyarakatnya.\nPenyerahan sumber keuangan Daerah baik berupa pajak daerah dan retribusi daerah maupun berupa dana perimbangan merupakan konsekuensi dari adanya penyerahan Urusan Pemerintahan kepada Daerah yang diselenggarakan berdasarkan Asas Otonomi. Untuk menjalankan Urusan Pemerintahan yang menjadi kewenangannya, Daerah harus mempunyai sumber keuangan agar Daerah tersebut mampu memberikan pelayanan dan kesejahteraan kepada rakyat di Daerahnya. Pemberian sumber keuangan kepada Daerah harus seimbang dengan beban atau Urusan Pemerintahan yang diserahkan kepada Daerah. Keseimbangan sumber keuangan ini merupakan jaminan terselenggaranya Urusan Pemerintahan yang diserahkan kepada Daerah. Ketika Daerah mempunyai kemampuan keuangan yang kurang mencukupi untuk membiayai Urusan Pemerintahan dan khususnya Urusan Pemerintahan Wajib yang terkait Pelayanan Dasar, Pemerintah Pusat dapat menggunakan instrumen DAK untuk membantu Daerah sesuai dengan prioritas nasional yang ingin dicapai.\nDalam melaksanakan Urusan Pemerintahan yang menjadi kewenangan Daerah, kepala daerah dan DPRD selaku penyelenggara Pemerintahan Daerah membuat Perda sebagai dasar hukum bagi Daerah dalam menyelenggarakan Otonomi Daerah sesuai dengan kondisi dan aspirasi masyarakat serta kekhasan dari Daerah tersebut. Perda yang dibuat oleh Daerah hanya berlaku dalam batas-batas yurisdiksi Daerah yang bersangkutan. Walaupun demikian Perda yang ditetapkan oleh Daerah tidak boleh bertentangan dengan ketentuan peraturan perundang-undangan yang lebih tinggi tingkatannya sesuai dengan hierarki peraturan perundang-undangan. Disamping itu Perda sebagai bagian dari sistem peraturan perundang-undangan tidak boleh bertentangan dengan kepentingan umum sebagaimana diatur dalam kaidah penyusunan Perda.\nDalam melaksanakan Urusan Pemerintahan yang menjadi kewenangan Daerah, kepala daerah dan DPRD selaku penyelenggara Pemerintahan Daerah membuat Perda sebagai dasar hukum bagi Daerah dalam menyelenggarakan Otonomi Daerah sesuai dengan kondisi dan aspirasi masyarakat serta kekhasan dari Daerah tersebut. Perda yang dibuat oleh Daerah hanya berlaku dalam batas-batas yurisdiksi Daerah yang bersangkutan. Walaupun demikian Perda yang ditetapkan oleh Daerah tidak boleh bertentangan dengan ketentuan peraturan perundang-undangan yang lebih tinggi tingkatannya sesuai dengan hierarki peraturan perundang-undangan. Disamping itu Perda sebagai bagian dari sistem peraturan perundang-undangan tidak boleh bertentangan dengan kepentingan umum sebagaimana diatur dalam kaidah penyusunan Perda.\nMajunya suatu bangsa sangat ditentukan oleh inovasi yang dilakukan bangsa tersebut. Untuk itu maka diperlukan adanya perlindungan terhadap kegiatan yang bersifat inovatif yang dilakukan oleh aparatur sipil negara di Daerah dalam memajukan Daerahnya. Perlu adanya upaya memacu kreativitas Daerah untuk meningkatkan daya saing Daerah. Untuk itu perlu adanya kriteria yang obyektif yang dapat dijadikan pegangan bagi pejabat Daerah untuk melakukan kegiatan yang bersifat inovatif. Dengan cara tersebut inovasi akan terpacu dan berkembang tanpa ada kekhawatiran menjadi obyek pelanggaran hukum.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 02 Oktober 2014.\nPada saat Undang-Undang ini mulai berlaku:\na. Undang-Undang Nomor 5 Tahun 1962 tentang Perusahaan Daerah (Lembaran Negara Republik Indonesia Tahun 1962\nNomor 10, Tambahan Lembaran Negara Republik Indonesia Nomor 2387);\nb. Undang-Undang Nomor 32 Tahun 2004 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 125, Tambahan Lembaran Negara Republik Indonesia Nomor 4437) sebagaimana telah diubah beberapa kali terakhir dengan Undang-Undang Nomor 12 Tahun 2008 tentang Perubahan Kedua Atas\nUndang-Undang Nomor 32 Tahun 2004 tentang Pemerintahan Daerah (Lembaran Negara Republik\nIndonesia Tahun 2008 Nomor 59, Tambahan Lembaran Negara Republik Indonesia Nomor 4844);\nc. Pasal 157, Pasal 158 ayat (2) sampai dengan ayat (9), dan Pasal 159 Undang-Undang Nomor 28 Tahun 2009 tentang\nPajak Daerah dan Retribusi Daerah (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 130, Tambahan\nLembaran Negara Republik Indonesia Nomor 5049); dan\nd. Pasal 1 angka 4, Pasal 314 sampai dengan Pasal 412, Pasal 418 sampai dengan Pasal 421 Undang-Undang\nNomor 17 Tahun 2014 tentang Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat, Dewan Perwakilan\nDaerah, dan Dewan Perwakilan Rakyat Daerah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 182,\nTambahan Lembaran Negara Republik Indonesia Nomor 5568),\ndicabut dan dinyatakan tidak berlaku.\n-\n311",
+ "citations": [
+  "UU-2004-32",
+  "UU-2014-23"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/28013/UU%20Nomor%2023%20Tahun%202014.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:23:26Z"
+}

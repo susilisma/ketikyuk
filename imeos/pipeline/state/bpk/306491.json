@@ -1,0 +1,42 @@
+{
+ "id": "PERPRES-2024-145",
+ "source": "bpk",
+ "bpk_id": 306491,
+ "url": "https://peraturan.bpk.go.id/Details/306491/perpres-no-145-tahun-2024",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "145",
+ "number_raw": "145",
+ "year": 2024,
+ "title": "Peraturan Presiden (Perpres) Nomor 145 Tahun 2024 tentang Kementerian Koordinator Bidang Infrastruktur dan Pembangunan Kewilayahan",
+ "about": "Kementerian Koordinator Bidang Infrastruktur dan Pembangunan Kewilayahan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KETATANEGARAAN, KENEGARAAN - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "HUKUM TATA NEGARA",
+ "date_enacted": "2024-11-05",
+ "date_promulgated": "2024-11-05",
+ "date_effective": "2024-11-05",
+ "gazette": "LN 2024 (341) : 23 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2019-92",
+   "target_bpk_id": 129196,
+   "label": "PERPRES No. 92 Tahun 2019",
+   "about": "Kementerian Koordinator Bidang Kemaritiman dan Investasi"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 11 dan Pasal 14 Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara sebagaimana telah diubah dengan Undang-Undang Nomor 61 Tahun 2024 tentang Perubahan atas Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara, perlu menetapkan Peraturan Presiden tentang Kementerian Koordinator Bidang Infrastruktur dan Pembangunan Kewilayahan.\nDasar Hukum Perpres Ini adalah Pasal 4 ayat (1) dan Pasal 17 UUD NRI Tahun 1945; UU Nomor 39 Tahun 2008; Perpres Nomor 139 Tahun 2024; dan Perpres Nomor 140 Tahun 2024.\nPeraturan Presiden ini mengatur mengenai Kementerian Koordinator Bidang Infrastruktur dan Pembangunan Kewilayahan yang selanjutnya disebut Kementerian Koordinator yang merupakan kementerian yang menyelenggarakan sinkronisasi dan koordinasi serta pengendalian urusan kementerian dalam penyelenggaraan pemerintahan di bidang infrastruktur dan pembangunan kewilayahan. Menteri Koordinator adalah unsur pemimpin Kementerian Koordinator yang bertanggung jawab atas pelaksanaan tugas dan fungsi Kementerian Koordinator.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 05 November 2024.\nPada saat Peraturan Presiden ini mulai berlaku, peraturan Presiden Nomor 92 Tahun 2019 tentang Kementerian Koordinator Bidang Kemaritiman dan Investasi (Lembaran Negara Republik Indonesia Tahun 2019 Nomor 265), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 23 hlm.",
+ "citations": [
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2024-139",
+  "PERPRES-2024-140"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/366741/Perpres%20Nomor%20145%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:28:36Z"
+}

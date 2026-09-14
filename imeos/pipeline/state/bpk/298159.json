@@ -1,0 +1,43 @@
+{
+ "id": "PERMENKUMHAM-2024-20",
+ "source": "bpk",
+ "bpk_id": 298159,
+ "url": "https://peraturan.bpk.go.id/Details/298159/permenkumham-no-20-tahun-2024",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "20",
+ "number_raw": "20",
+ "year": 2024,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 20 Tahun 2024 tentang Tata Cara Permohonan Salinan Produk Layanan Hukum Korporasi",
+ "about": "Tata Cara Permohonan Salinan Produk Layanan Hukum Korporasi",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "PERIZINAN, PELAYANAN PUBLIK",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-08-21",
+ "date_promulgated": "2024-08-28",
+ "date_effective": "2024-08-28",
+ "gazette": "BN 2024 (510) : 6 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133126,
+   "label": "Permenkumham No. 11 Tahun 2019",
+   "about": "Tata Cara Permohonan Salinan Surat Keputusan dan/atau Salinan Surat Penerimaan Pemberitahuan Badan Hukum Perseroan Terbatas, Yayasan dan Perkumpulan"
+  }
+ ],
+ "abstract": "Untuk meningkatkan pelayanan kepada masyarakat serta mewujudkan tertib administrasi dalam pelaksanaan pemberian salinan produk layanan hukum korporasi, perlu mengganti Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 11 Tahun 2019 tentang Tata Cara Permohonan Salinan Surat Keputusan dan/atau Salinan Surat Penerimaan Pemberitahuan Badan Hukum Perseroan Terbatas, Yayasan, dan Perkumpulan, karena sudah tidak sesuai dengan perkembangan hukum dan kebutuhan masyarakat.\nDasar hukum Permenkumham ini adalah Pasal 17 ayat (3) UUD 1945; Staatsblad 1870 Nomor 64; UU Nomor 16 Tahun 2001; UU Nomor 40 Tahun 2007; UU Nomor 39 Tahun 2008; Perpres Nomor 18 Tahun 2023; dan Permenkumham Nomor 28 Tahun 2023.\nPermenkumham ini mengatur mengenai Tata Cara Permohonan Salinan Produk Layanan Hukum Korporasi dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Salinan Produk Layanan Hukum Korporasi dapat diberikan berdasarkan permohonan oleh pemohon. Permohonan dapat diajukan secara elektronik atau nonelektronik kepada Menteri melalui Direktur Jenderal. Permohonan Salinan Produk Layanan Hukum Korporasi dimaksud dikenai biaya sesuai dengan ketentuan peraturan perundang-undangan di bidang penerimaan negara bukan pajak yang berlaku pada Kementerian Hukum dan Hak Asasi Manusia.",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 28 Agustus 2024.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 11 Tahun 2019 tentang Tata Cara Permohonan Salinan Surat Keputusan dan/atau Salinan Surat Penerimaan Pemberitahuan Badan Hukum Perseroan Terbatas, Yayasan, dan Perkumpulan (Berita Negara Republik Indonesia Tahun 2019 Nomor 661), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 6 hlm.",
+ "citations": [
+  "PERMENKUMHAM-2019-11",
+  "UU-2001-16",
+  "UU-2007-40",
+  "UU-2008-39",
+  "PERPRES-2023-18"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/357742/Permenkumham%20Nomor%2020%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:42:24Z"
+}

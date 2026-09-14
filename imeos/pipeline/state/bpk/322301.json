@@ -1,0 +1,45 @@
+{
+ "id": "PMK-2025-41",
+ "source": "bpk",
+ "bpk_id": 322301,
+ "url": "https://peraturan.bpk.go.id/Details/322301/pmk-no-41-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "41",
+ "number_raw": "41",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 41 Tahun 2025 tentang Tarif Layanan Badan Layanan Umum Bidang Laboratorium Kesehatan Masyarakat pada Kementerian Kesehatan",
+ "about": "Tarif Layanan Badan Layanan Umum Bidang Laboratorium Kesehatan Masyarakat pada Kementerian Kesehatan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BADAN LAYANAN UMUM",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-06-17",
+ "date_promulgated": "2025-06-24",
+ "date_effective": "2025-07-23",
+ "gazette": "BN 2025 (437); 11 Halaman",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2014-180",
+   "target_bpk_id": 146054,
+   "label": "PMK No. 180/PMK.05/2014",
+   "about": "Tarif Layanan Badan Layanan Umum Balai Besar Laboratorium Kesehatan Palembang pada Kementerian Kesehatan"
+  }
+ ],
+ "abstract": "a. bahwa untuk meningkatkan kualitas pelayanan kepada masyarakat dan memberikan fleksibilitas pengelolaan keuangan berdasarkan prinsip ekonomi dan\nproduktivitas, serta penerapan praktik bisnis yang sehat, perlu mengatur tarif layanan atas barang atau jasa yang diberikan oleh Badan Layanan Umum Bidang\nLaboratorium Kesehatan Masyarakat pada Kementerian\nKesehatan;\nb. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan sesuai dengan ketentuan Pasal 9 ayat (8) Peraturan Pemerintah Nomor 23 Tahun\n2005 tentang Pengelolaan Keuangan Badan Layanan Umum sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 74 Tahun 2012 tentang Perubahan\natas Peraturan Pemerintah Nomor 23 Tahun 2005 tentang Pengelolaan Keuangan Badan Layanan Umum, perlu menetapkan Peraturan Menteri Keuangan tentang\nTarif Layanan Badan Layanan Umum Bidang Laboratorium Kesehatan Masyarakat pada Kementerian Kesehatan;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 1 Tahun 2004, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 23 Tahun 2005, Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Menteri Keuangan Nomor 129/PMK.05/2020 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengatur tentang tarif layanan Badan Layanan Umum bidang laboratorium kesehatan masyarakat pada Kementerian Kesehatan yaitu tentang jenis tarif layanan berupa tarif layanan utama dan tarif layanan penunjang, tarif penggunaan lahan, gedung, bangunan, ruangan, sarana olahraga, sarana wisata edukasi, penginapan dan sarana kesenian, tarif penggunaan sarana transportasi, tarif klinik dan apotek, tarif pendidikan, pelatihan, penelitian, konsultasi, sertifikasi, konsultasi, workshop dan seminar, tarif penggunaan keahlian sumber daya manusia, tarif media promosi, percetakan, penerbitan dan penyiaran, tariff kekayaan intelektual. Untuk kriteria, besaran tariff dan tata cara penetapan tariff layanan ditetapkan oleh Pemimpin Badan Layanan Umum Bidang Laboratorium Kesehatan Masyarakat pada Kementerian Kesehatan.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 23 Juli 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas:\na. Peraturan Menteri Keuangan Nomor 180/PMK.05/2014\ntentang Tarif Layanan Badan Layanan Umum Balai Besar Laboratorium Kesehatan Palembang pada Kementerian Kesehatan;\nb. Peraturan Menteri Keuangan Nomor 199/PMK.05/2014\ntentang Tarif Layanan Badan Layanan Umum Balai Besar Laboratorium Kesehatan Makassar pada Kementerian Kesehatan; dan\nc. Peraturan Menteri Keuangan Nomor 26/PMK.05/2023 tentang Tarif Layanan Badan Layanan Umum Balai Besar Laboratorium Kesehatan Surabaya pada Kementerian Kesehatan",
+ "citations": [
+  "PP-2005-23",
+  "PP-2012-74",
+  "UU-2004-1",
+  "UU-2008-39",
+  "PERPRES-2024-158",
+  "PMK-2020-129",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/384095/PMK%20Nomor%2041%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:33:41Z"
+}

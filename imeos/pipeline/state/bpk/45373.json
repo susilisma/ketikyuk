@@ -1,0 +1,72 @@
+{
+ "id": "UU-1999-41",
+ "source": "bpk",
+ "bpk_id": 45373,
+ "url": "https://peraturan.bpk.go.id/Details/45373/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "41",
+ "number_raw": "41",
+ "year": 1999,
+ "title": "Undang-undang (UU) Nomor 41 Tahun 1999 tentang Kehutanan",
+ "about": "Kehutanan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KEHUTANAN DAN PERKEBUNAN",
+ "field": "",
+ "date_enacted": "1999-09-30",
+ "date_promulgated": "1999-09-30",
+ "date_effective": "1999-09-30",
+ "gazette": "LN. 1999/ No.167, TLN NO. 3888, LL SETNEG : 32 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 234926,
+   "label": "PERPU No. 2 Tahun 2022",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2004-19",
+   "target_bpk_id": 40518,
+   "label": "UU No. 19 Tahun 2004",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2004 tentang Perubahan atas Undang-Undang Nomor 41 Tahun 1999 tentang Kehutanan Menjadi Undang-Undang"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1967-5",
+   "target_bpk_id": 49554,
+   "label": "UU No. 5 Tahun 1967",
+   "about": "Ketentuan-Ketentuan Pokok Kehutanan"
+  }
+ ],
+ "abstract": "Hutan sebagai salah satu penentu sistem penyangga kehidupan dan sumber kemakmuran rakyat, cenderung menurun kondisinya, oleh karena itu keberadaannya harus dipertahankan secara optimal, dijaga daya dukungnya secara bijaksana, terbuka, profesional, serta bertanggung-gugat. Undang-undang Nomor 5 Tahun 1967 tentang Ketentuan-ketentuan Pokok Kehutanan sudah tidak sesuai lagi dengan prinsip penguasaan dan pengurusan hutan, dan tuntutan perkembangan keadaan, sehingga perlu diganti.\nDasar hukum UU ini adalah Pasal 5 ayat (1), Pasal 20 ayat (1), Pasal 27, dan Pasal 33 Undang-Undang Dasar 1945; Ketetapan MPR RI Nomor XV/MPR/1998 tentang Penyelenggaraan Otonomi Daerah; Pengaturan, Pembagian, dan Pemanfaatan Sumber Daya Nasional yang Berkeadilan; serta Perimbangan Keuangan Pusat dan Daerah dalam Kerangka Negara Kesatuan Republik Indonesia; UU Nomor 5 Tahun 1960 tentang Peraturan Dasar Pokok-pokok Agraria; UU Nomor 5 Tahun 1990 tentang Konservasi Sumber Daya Alam Hayati dan Ekosistemnya; UU Nomor 24 Tahun 1992 tentang Penataan Ruang; UU Nomor 23 Tahun 1997 tentang Pengelolaan Lingkungan Hidup; dan UU Nomor 22 Tahun 1999 tentang Pemerintahan Daerah.\nDalam UU ini diatur mengenai penyelenggaraan kehutanan bertujuan untuk sebesar-besarnya kemakmuran rakyat yang berkeadilan dan berkelanjutan. Pembagian hutan berdasarkan statusnya yang terdiri dari hutan negara dan hutan hak. Selain itu, hutan harus dilakukan pengelolaan yang dilakukan dengan kegiatan-kegiatan berupa: tata hutan dan penyusunan rencana pengelolaan hutan; pemanfaatan hutan dan penggunaan kawasan hutan; rehabilitasi dan reklamasi hutan, dan perlindungan hutan dan konservasi alam.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 30 September 1999.\nPada saat mulai berlakunya undang-undang ini, maka dinyatakan tidak berlaku: oschordonnantie Java en Madoera 1927, Staatsblad Tahun 1927 Nomor 221, sebagaimana telah diubah dengan Staatsblad Tahun 1931 Nomor 168, terakhir diubah dengan Staatsblad Tahun 1934 Nomor 63; dan Undang-undang Nomor 5 Tahun 1967 tentang Ketetnuan-ketentuan Pokok Kehutanan.\nTelah dilakukan uji materiil oleh Mahkamah Konstitusi dengan putusan Nomor 35/PUU-X/2012.\nPenjelasan : 29 hlm.",
+ "citations": [
+  "UU-1967-5",
+  "UU-1960-5",
+  "UU-1990-5",
+  "UU-1992-24",
+  "UU-1997-23",
+  "UU-1999-22"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/33873/UU%20Nomor%2041%20Tahun%201999.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:33:25Z"
+}

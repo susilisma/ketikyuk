@@ -1,0 +1,41 @@
+{
+ "id": "PP-2020-21",
+ "source": "bpk",
+ "bpk_id": 135059,
+ "url": "https://peraturan.bpk.go.id/Details/135059/pp-no-21-tahun-2020",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "21",
+ "number_raw": "21",
+ "year": 2020,
+ "title": "Peraturan Pemerintah (PP) Nomor 21 Tahun 2020 tentang Pembatasan Sosial Berskala Besar dalam Rangka Percepatan Penanganan Corona Virus Disease 2019 (COVID-19)",
+ "about": "Pembatasan Sosial Berskala Besar dalam Rangka Percepatan Penanganan Corona Virus Disease 2019 (COVID-19)",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KESEHATAN - PENDIDIKAN - BANTUAN, SUMBANGAN, BENCANA / KEBENCANAAN, DAN PENANGGULANGAN BENCANA - PERTAHANAN DAN KEAMANAN, MILITER - COVID-19 / CORONA",
+ "field": "",
+ "date_enacted": "2020-03-31",
+ "date_promulgated": "2020-03-31",
+ "date_effective": "2020-03-31",
+ "gazette": "LN.2020/NO.91, TLN NO.6487, JDIH.SETNEG.GO.ID : 5 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-28",
+   "target_bpk_id": 294077,
+   "label": "PP No. 28 Tahun 2024",
+   "about": "Peraturan Pelaksanaan Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan"
+  }
+ ],
+ "abstract": "Penyebaran Corona Virus Disease 2019 (COVID-19) dengan jumlah kasus dan/atau jumlah kematian telah meningkat dan meluas lintas wilayah dan lintas negara dan berdampak pada aspek politik, ekonomi, sosial, budaya, pertahanan dan keamanan,\nserta kesejahteraan masyarakat di Indonesia serta dampak penyebaran Corona Virus Disease 2019 (COVID-19) telah mengakibatkan terjadi keadaan tertentu sehingga perlu dilakukan upaya penanggulangan, salah satunya dengan tindakan pembatasan sosial berskala besar.\nDasar hukum Peraturan Pemerintah ini adalah Pasal 5 ayat (2) UUD 1945, UU Nomor 4 Tahun 1984 tentang Wabah Penyakit Menular, UU Nomor 24 Tahun 2007 tentang Penanggulangan Bencana, dan UU Nomor 6 Tahun 2018 tentang Kekarantinaan Kesehatan.\nDalam Peraturan Pemerintah ini diatur mengenai pengertian Pembatasan Sosial Berskala Besar (PSBB), prosedur pelaksanaan PSBB oleh pemerintah daerah, dan kriteria yang harus terpenuhi untuk PSBB. Dalam hal PPSB telah ditetapkan oleh menteri yang menyelenggarakan urusan pemerintahan di bidang kesehatan, Pemerintah Daerah wajib melaksanakan dan memperhatikan ketentuan sebagaimana diatur dalam Undang-Undang Nomor 6 Tahun 2018 tentang Kekarantinaan Kesehatan.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 31 Maret 2020.",
+ "citations": [
+  "UU-1984-4",
+  "UU-2007-24",
+  "UU-2018-6"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/125896/PP%20Nomor%2021%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:30:36Z"
+}

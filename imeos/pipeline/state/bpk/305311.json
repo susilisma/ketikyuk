@@ -1,0 +1,54 @@
+{
+ "id": "PERPRES-2024-132",
+ "source": "bpk",
+ "bpk_id": 305311,
+ "url": "https://peraturan.bpk.go.id/Details/305311/perpres-no-132-tahun-2024",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "132",
+ "number_raw": "132",
+ "year": 2024,
+ "title": "Peraturan Presiden (Perpres) Nomor 132 Tahun 2024 tentang Pengelolaan Dana Perkebunan",
+ "about": "Pengelolaan Dana Perkebunan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KEHUTANAN DAN PERKEBUNAN - PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2024-10-18",
+ "date_promulgated": "2024-10-18",
+ "date_effective": "2024-10-18",
+ "gazette": "LN 2024 (242) : 18 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2018-66",
+   "target_bpk_id": 89957,
+   "label": "PERPRES No. 66 Tahun 2018",
+   "about": "Perubahan Kedua atas Peraturan Presiden Nomor 61 Tahun 2015 tentang Penghimpunan dan Penggunaan Dana Perkebunan Kelapa Sawit"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2016-24",
+   "target_bpk_id": 39920,
+   "label": "PERPRES No. 24 Tahun 2016",
+   "about": "Perubahan Atas Peraturan Presiden Nomor 61 Tahun 2015 Tentang Penghimpunan Dan Penggunaan Dana Perkebunan Kelapa Sawit"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2015-61",
+   "target_bpk_id": 41800,
+   "label": "PERPRES No. 61 Tahun 2015",
+   "about": "Penghimpunan dan Penggunaan Dana Perkebunan Kelapa Sawit"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 5 ayat (4), Pasal 15 ayat (3), Pasal 24, dan Pasal 25 ayat (3) Peraturan Pemerintah Nomor 24 Tahun 2015 tentang Penghimpunan Dana Perkebunan, perlu menetapkan Peraturan Presiden tentang Pengelolaan Dana Perkebunan.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD 1945; UU Nomor 39 Tahun 2014; dan PP Nomor 24 Tahun 2015.\nPerpres ini mengatur mengenai Pengelolaan Dana Perkebunan dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Penghimpunan Dana ditujukan untuk mendorong pengembangan Perkebunan yang berkelanjutan. Penghimpunan dana bersumber dari: 1) pelaku usaha perkebunan; 2) dana lembaga pembiayaan; 3) dana masyarakat; dan 4) dana lain yang sah. Dana yang dihimpun digunakan untuk kepentingan: 1) pengembangan sumber daya manusia Perkebunan; 2) penelitian dan pengembangan Perkebunan; 3) promosi Perkebunan; 4) peremajaan Perkebunan; dan 5) sarana dan prasarana Perkebunan. Dalam rangka memberikan arah kebijakan atas pelaksanaan tugas Badan Pengelola Dana dibentuk Komite Pengarah.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 18 Oktober 2024.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 61 Tahun 2015 tentang Penghimpunan dan Penggunaan Dana Perkebunan Kelapa Sawit (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 105) sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Presiden Nomor 66 Tahun 2018 tentang Perubahan Kedua atas Peraturan Presiden Nomor 61 Tahun 2015 tentang Penghimpunan dan Penggunaan Dana Perkebunan Kelapa Sawit (Lembaran Negara Republik Indonesia Tahun 2018 Nomor 134), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 18 hlm.",
+ "citations": [
+  "PP-2015-24",
+  "UU-2014-39"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/365435/Perpres%20Nomor%20132%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:29:00Z"
+}

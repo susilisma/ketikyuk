@@ -1,0 +1,48 @@
+{
+ "id": "PP-2026-14",
+ "source": "bpk",
+ "bpk_id": 349406,
+ "url": "https://peraturan.bpk.go.id/Details/349406/pp-no-14-tahun-2026",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "14",
+ "number_raw": "14",
+ "year": 2026,
+ "title": "Peraturan Pemerintah (PP) Nomor 14 Tahun 2026 tentang Perubahan Kedua atas Peraturan Pemerintah Nomor 38 Tahun 2002 tentang Daftar Koordinat Geografis Titik-Titik Garis Pangkal Kepulauan Indonesia",
+ "about": "Perubahan Kedua atas Peraturan Pemerintah Nomor 38 Tahun 2002 tentang Daftar Koordinat Geografis Titik-Titik Garis Pangkal Kepulauan Indonesia",
+ "issuer": "Pemerintah Pusat",
+ "subject": "TERITORIAL INDONESIA",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2026-03-27",
+ "date_promulgated": "2026-03-27",
+ "date_effective": "2026-03-27",
+ "gazette": "LN 2026 (34), TLN (7167) : 5 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PP-2008-37",
+   "target_bpk_id": 4851,
+   "label": "PP No. 37 Tahun 2008",
+   "about": "Perubahan Atas Peraturan Pemerintah Nomor 38 Tahun 2002 Tentang Daftar Koordinat Geografis Titik Titik Garis Pangkal Kepulauan Indonesia"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PP-2002-38",
+   "target_bpk_id": 52451,
+   "label": "PP No. 38 Tahun 2002",
+   "about": "Daftar Koordinat Geografis Titik-Titik Garis Pangkal Kepulauan Indonesia"
+  }
+ ],
+ "abstract": "Untuk memberikan kepastian hukum dalam menetapkan perubahan daftar koordinat geografis titik-titik terluar serta menyempurnakan dan memperkuat kebijakan terkait kewilayahan Indonesia, perlu mengubah Peraturan Pemerintah Nomor 38 Tahun 2002 tentang Daftar Koordinat Geografis Titik-Titik Garis Pangkal Kepulauan Indonesia sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 37 Tahun 2008 tentang Perubahan atas Peraturan Pemerintah Nomor 38 Tahun 2002 tentang Daftar Koordinat Geografis Titik-Titik Garis Pangkal Kepulauan Indonesia.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945; UU No. 6 Tahun 1996; dan PP No. 38 Tahun 2002.\nPP ini mengatur mengenai perubahan beberapa ketentuan dalam Peraturan Pemerintah Nomor 38 Tahun 2002 tentang Daftar Koordinat Geografis Titik-Titik Garis Pangkal Kepulauan Indonesia sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 37 Tahun 2008.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 27 Maret 2026.\nPP ini mengubah PP No. 38 Tahun 2002.\nLampiran file: 31 hlm (batang tubuh hlm 1 sd 5; penjelasan hlm 6 sd 7; dan lampiran hlm 8 sd 31)",
+ "citations": [
+  "PP-2002-38",
+  "PP-2008-37",
+  "UU-1996-6"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/413091/PP%20Nomor%2014%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:28:09Z"
+}

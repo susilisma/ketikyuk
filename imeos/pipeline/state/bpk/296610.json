@@ -1,0 +1,41 @@
+{
+ "id": "PP-2024-33",
+ "source": "bpk",
+ "bpk_id": 296610,
+ "url": "https://peraturan.bpk.go.id/Details/296610/pp-no-33-tahun-2024",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "33",
+ "number_raw": "33",
+ "year": 2024,
+ "title": "Peraturan Pemerintah (PP) Nomor 33 Tahun 2024 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Lembaga Penyiaran Publik Televisi Republik Indonesia",
+ "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Lembaga Penyiaran Publik Televisi Republik Indonesia",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-08-22",
+ "date_promulgated": "2024-08-22",
+ "date_effective": "2024-10-21",
+ "gazette": "LN 2024 (177), TLN (6984): 6 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PP-2020-66",
+   "target_bpk_id": 151693,
+   "label": "PP No. 66 Tahun 2020",
+   "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Lembaga Penyiaran Publik Televisi Republik Indonesia"
+  }
+ ],
+ "abstract": "Untuk melakukan penyesuaian jenis dan tarif atas jenis Penerimaan Negara Bukan Pajak yang berlaku pada Lembaga Penyiaran Publik Televisi Republik Indonesia sebagaimana telah diatur dalam Peraturan Pemerintah Nomor 66 Tahun 2020 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Lembaga Penyiaran Publik Televisi Republik Indonesia, perlu mengatur kembali Peraturan Pemerintah tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Lembaga Penyiaran Publik Televisi Republik lndonesia.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945; UU Nomor 9 Tahun 2018; dan PP Nomor 69 Tahun 2020.\nPP ini mengatur mengenai jenis dan tarif atas jenis Penerimaan Negara Bukan Pajak yang berlaku pada Lembaga Penyiaran Publik Televisi Republik Indonesia yang meliputi penerimaan dari: 1) jasa digitalisasi penyiaran; 2) jasa pelatihan pertelevisian; 3) jasa sertifikasi profesi penyiaran televisi; 4) jasa penyiaran; 5) jasa penggunaan sarana dan prasarana sesuai tugas dan fungsi; 6) jasa produksi program dan/atau konten; 7) jasa multipleksing; dan 8) royalti atas penggunaan hak kekayaan intelektual produksi program dan/atau konten.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 21 Oktober 2024.\nPada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 66 Tahun 2020 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Lembaga Penyiaran Publik Televisi Republik Indonesia (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 255, Tambahan Lembaga Negara Republik Indonesia Nomor 6577), dicabut dan dinyatakan tidak berlaku.\nSeluruh Penerimaan Negara Bukan Pajak yang berlaku pada Lembaga Penyiaran Publik Televisi Republik Indonesia wajib disetor ke Kas Negara.\nLampiran file: 18 hlm (batang tubuh hlm 1 sd 6, penjelasan hlm 7 sd 15, dan lampiran hlm 16 sd 18)",
+ "citations": [
+  "PP-2020-66",
+  "UU-2018-9",
+  "PP-2020-69"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/356035/PP%20Nomor%2033%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:30:15Z"
+}

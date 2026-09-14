@@ -1,0 +1,47 @@
+{
+ "id": "PERMENDAG-2024-27",
+ "source": "bpk",
+ "bpk_id": 306727,
+ "url": "https://peraturan.bpk.go.id/Details/306727/permendag-no-27-tahun-2024",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "27",
+ "number_raw": "27",
+ "year": 2024,
+ "title": "Peraturan Menteri Perdagangan Nomor 27 Tahun 2024 tentang Perdagangan Antarpulau",
+ "about": "Perdagangan Antarpulau",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-10-29",
+ "date_promulgated": "2024-11-01",
+ "date_effective": "2024-12-31",
+ "gazette": "BN.2024 (802)/15 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2020-92",
+   "target_bpk_id": 160430,
+   "label": "Permendag No. 92 Tahun 2020",
+   "about": "Perdagangan Antarpulau"
+  }
+ ],
+ "abstract": "a. bahwa untuk meningkatkan efektifitas tata kelola perdagangan antarpulau guna mendukung kinerja logistik nasional, dan penerapan ekosistem logistik nasional, serta menyesuaikan proses bisnis pelaporan perdagangan antarpulau, perlu mengganti Peraturan Menteri Perdagangan Nomor 92 Tahun 2020 tentang Perdagangan Antarpulau, karena sudah tidak sesuai dengan kebutuhan hukum dan perkembangan tata kelola perdagangan antarpulau;\nb. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, serta untuk melaksanakan ketentuan Pasal 23 ayat (3) Undang-Undang Nomor 7 Tahun 2014 tentang Perdagangan, perlu menetapkan Peraturan Menteri Perdagangan tentang Perdagangan Antarpulau;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara, Undang-Undang Nomor 7 Tahun 2014 tentang Perdagangan, Peraturan Pemerintah Nomor 3 Tahun 2009 tentang Pengawasan Pengangkutan Barang Tertentu dalam Daerah Pabean, Peraturan Pemerintah Nomor 41 Tahun 2021 tentang Penyelenggaraan, Peraturan Presiden Nomor 71 Tahun 2015 tentang Penetapan dan Penyimpanan Barang Kebutuhan Pokok dan Barang Penting, Peraturan Presiden Nomor 44 Tahun 2018 tentang Indonesia National Single Window, Peraturan Presiden Nomor 11 Tahun 2022 tentang Kementerian Perdagangan dan Peraturan Menteri Perdagangan Nomor 29 Tahun 2022 tentang Organisasi dan Tata Kerja Kementerian Perdagangan\nPeraturan ini mengatur tentang ketentuan umum, tujuan perdagangan antarpulau, Pelaku Usaha Perdagangan Antarpulau, Pemilik Muatan (Cargo Owner) Antarpulau, Penerapan nomor laporan atas PAB dan PAB konsolidasi untuk penerbitan akses masuk barang ke dalam area pelabuhan oleh pihak yang berwenang, penguatan dan optimalisasi Perdagangan Antarpulau, pemantauan oleh Direktur Jenderal Perdagangan, Pengawasan Perdagangan Antarpulau dan Pemilik Muatan (Cargo Owner) Antarpulau atau PJPT",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 31 Desember 2024.\nPeraturan Menteri ini mulai berlaku, Peraturan Menteri Perdagangan Nomor 92 Tahun 2020 tentang Perdagangan Antarpulau dicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "PERMENDAG-2020-92",
+  "UU-2014-7",
+  "UU-2008-39",
+  "PP-2009-3",
+  "PP-2021-41",
+  "PERPRES-2015-71",
+  "PERPRES-2018-44",
+  "PERPRES-2022-11",
+  "PERMENDAG-2022-29"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/367013/Permendag%20Nomor%2027%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:37:35Z"
+}

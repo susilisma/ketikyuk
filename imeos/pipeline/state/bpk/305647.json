@@ -1,0 +1,50 @@
+{
+ "id": "PMK-2024-65",
+ "source": "bpk",
+ "bpk_id": 305647,
+ "url": "https://peraturan.bpk.go.id/Details/305647/pmk-no-65-tahun-2024",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "65",
+ "number_raw": "65",
+ "year": 2024,
+ "title": "Peraturan Menteri Keuangan Nomor 65 Tahun 2024 tentang Peta Kapasitas Fiskal Daerah",
+ "about": "Peta Kapasitas Fiskal Daerah",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-09-19",
+ "date_promulgated": "2024-10-04",
+ "date_effective": "2024-10-04",
+ "gazette": "BN.2024 (628)/25 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2024-127",
+   "target_bpk_id": 313088,
+   "label": "PMK No. 127 Tahun 2024",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 65 Tahun 2024 tentang Peta Kapasitas Fiskal Daerah"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2023-84",
+   "target_bpk_id": 268292,
+   "label": "PMK No. 84 Tahun 2023",
+   "about": "Peta Kapasitas Fiskal Daerah"
+  }
+ ],
+ "abstract": "bahwa untuk melaksanakan ketentuan Pasal 13 ayat (2) Peraturan Pemerintah Nomor 2 Tahun 2012 tentang Hibah Daerah dan Pasal 26 ayat (3) Peraturan Pemerintah Nomor 1 Tahun 2024 tentang Harmonisasi Kebijakan Fiskal Nasional, perlu menetapkan Peraturan Menteri Keuangan tentang Peta Kapasitas Fiskal Daerah;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 2 Tahun 2012, Peraturan Pemerintah Nomor 1 Tahun 2024, Peraturan Presiden Nomor 57 Tahun 2020 dan Peraturan Menteri Keuangan Nomor 118/PMK.01/2021\nPeraturan ini mengatur tentang ketentuan umum, Peta Kapasitas Fiskal Daerah, Peta Kapasitas Fiskal Daerah provinsi, Penghitungan Kapasitas Fiskal Daerah provinsi, Penghitungan rasio Kapasitas Fiskal Daerah provinsi, Penghitungan Kapasitas Fiskal Daerah kabupaten/kota, Penghitungan rasio Kapasitas Fiskal Daerah kabupaten/kota, Penetapan kategori Kapasitas Fiskal bagi daerah otonom baru\ndi wilayah Papua yang dibentuk pada tahun 2022 dan Penghitungan Kapasitas Fiskal Daerah provinsi",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 04 Oktober 2024.\nPeraturan Menteri Keuangan Nomor 84 Tahun 2023 tentang Peta Kapasitas Fiskal Daerah dicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "PP-2012-2",
+  "PP-2024-1",
+  "UU-2008-39",
+  "PERPRES-2020-57",
+  "PMK-2021-118"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/365798/2024pmkeuangan065.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:34:06Z"
+}

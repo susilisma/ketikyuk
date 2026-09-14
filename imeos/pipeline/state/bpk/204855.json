@@ -1,0 +1,58 @@
+{
+ "id": "PERMENDAG-2021-18",
+ "source": "bpk",
+ "bpk_id": 204855,
+ "url": "https://peraturan.bpk.go.id/Details/204855/permendag-no-18-tahun-2021",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "18",
+ "number_raw": "18",
+ "year": 2021,
+ "title": "Peraturan Menteri Perdagangan Nomor 18 Tahun 2021 tentang Barang Dilarang Ekspor dan Barang Dilarang Impor",
+ "about": "Barang Dilarang Ekspor dan Barang Dilarang Impor",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN - PEREKONOMIAN - CIPTA KERJA",
+ "field": "",
+ "date_enacted": "2021-04-01",
+ "date_promulgated": "2021-04-01",
+ "date_effective": "2021-11-15",
+ "gazette": "BN.2021/No.297, peraturan.go.id: 8 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2025-47",
+   "target_bpk_id": 343101,
+   "label": "Permendag No. 47 Tahun 2025",
+   "about": "Barang yang Dilarang untuk Impor"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENDAG-2022-40",
+   "target_bpk_id": 223844,
+   "label": "Permendag No. 40 Tahun 2022",
+   "about": "Perubahan atas Peraturan Menteri Perdagangan Nomor 18 Tahun 2021 tentang Barang Dilarang Ekspor dan Barang Dilarang Impor"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2020-12",
+   "target_bpk_id": 160238,
+   "label": "Permendag No. 12 Tahun 2020",
+   "about": "Barang Dilarang Impor"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2019-45",
+   "target_bpk_id": 131785,
+   "label": "Permendag No. 45 Tahun 2019",
+   "about": "Barang Dilarang Ekspor"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 15 November 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/198859/Permendag%20Nomor%2018%20tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:36:32Z"
+}

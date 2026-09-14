@@ -1,0 +1,45 @@
+{
+ "id": "PERMENDAG-2026-1",
+ "source": "bpk",
+ "bpk_id": 343099,
+ "url": "https://peraturan.bpk.go.id/Details/343099/permendag-no-1-tahun-2026",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "1",
+ "number_raw": "1",
+ "year": 2026,
+ "title": "Peraturan Menteri Perdagangan Nomor 1 Tahun 2026 tentang Peraturan Menteri Perdagangan Republik Indonesia Nomor 1 Tahun 2026 Tentang Ketentuan Karet Alam Spesifikasi Teknis Yang Akan Diekspor",
+ "about": "Peraturan Menteri Perdagangan Republik Indonesia Nomor 1 Tahun 2026 Tentang Ketentuan Karet Alam Spesifikasi Teknis Yang Akan Diekspor",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN",
+ "field": "HUKUM DAGANG",
+ "date_enacted": "2026-01-07",
+ "date_promulgated": "2026-01-07",
+ "date_effective": "2026-01-21",
+ "gazette": "BN.2026 (20)/39 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2021-26",
+   "target_bpk_id": 166550,
+   "label": "Permendag No. 26 Tahun 2021",
+   "about": "Penetapan Standar Kegiatan Usaha dan Produk Pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Perdagangan"
+  }
+ ],
+ "abstract": "a. bahwa untuk menjaga mutu, meningkatkan daya saing dan citra produk Indonesia, memberikan kepastian usaha bagi produsen serta upaya mengembangkan pasar ekspor karet alam spesifikasi teknis, telah ditetapkan Peraturan Menteri Perdagangan Nomor 26 Tahun 2021 tentang Penetapan Standar Kegiatan Usaha dan Produk pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Perdagangan sebagaimana telah diubah dengan Peraturan Menteri Perdagangan Nomor 21 Tahun 2023 tentang Perubahan atas Peraturan Menteri Perdagangan\nNomor 26 Tahun 2021 tentang Penetapan Standar\nKegiatan Usaha dan Produk pada Penyelenggaraan\nPerizinan Berusaha Berbasis Risiko Sektor Perdagangan;\nb. bahwa ketentuan mengenai karet alam spesifikasi teknis\nyang diatur dalam Peraturan Menteri Perdagangan sebagaimana dimaksud dalam huruf a sudah tidak sesuai dengan perkembangan dan kebutuhan hukum, sehingga perlu diganti;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Menteri Perdagangan tentang Ketentuan Karet Alam Spesifikasi Teknis yang Akan Diekspor;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 7 Tahun 2014, Peraturan Pemerintah Nomor 29 Tahun 2021, Peraturan Presiden Nomor 168 Tahun 2024 dan Peraturan Menteri Perdagangan Nomor\n6 Tahun 2025\nPeraturan ini mengatur tentang ketentuan umum, SIR, Ekspor SIR, Kewenangan untuk menerbitkan TPP SIR, Pengajuan permohonan TPP SIR, TPP SIR,Pengajuan permohonan perpanjangan TPP SIR, Ekspor SIR, Pemenuhan TPP SIR, Bahan olah karet SIR, Eksportir Produsen SIR, SPPT SNI, sanksi, Sistem\nINATRADE dan/atau SINSW dan Sistem INATRADE",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 21 Januari 2026.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan Menteri Perdagangan Nomor 26 Tahun 2021 tentang Penetapan Standar Kegiatan Usaha dan Produk pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Perdagangan sebagaimana telah diubah dengan Peraturan Menteri Perdagangan Nomor 21 Tahun 2023 tentang Perubahan atas Peraturan Menteri Perdagangan Nomor 26 Tahun 2021 tentang Penetapan Standar Kegiatan Usaha dan Produk pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Perdagangan",
+ "citations": [
+  "PERMENDAG-2021-26",
+  "PERMENDAG-2023-21",
+  "UU-2008-39",
+  "UU-2014-7",
+  "PP-2021-29",
+  "PERPRES-2024-168",
+  "PERMENDAG-2025-6"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/406286/1%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:36:19Z"
+}

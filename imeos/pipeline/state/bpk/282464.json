@@ -1,0 +1,43 @@
+{
+ "id": "PERMENAKER-2023-11",
+ "source": "bpk",
+ "bpk_id": 282464,
+ "url": "https://peraturan.bpk.go.id/Details/282464/permenaker-no-11-tahun-2023",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "11",
+ "number_raw": "11",
+ "year": 2023,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 11 Tahun 2023 tentang Keselamatan dan Kesehatan Kerja di Ruang Terbatas",
+ "about": "Keselamatan dan Kesehatan Kerja di Ruang Terbatas",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "KESEHATAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2023-11-21",
+ "date_promulgated": "2023-11-28",
+ "date_effective": "2023-11-28",
+ "gazette": "BN 2023 (936); 20 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PERMENAKER-2026-11",
+   "target_bpk_id": 351282,
+   "label": "Permenaker No. 11 Tahun 2026",
+   "about": "Tata Cara Pengawasan Ketenagakerjaan"
+  }
+ ],
+ "abstract": "Untuk melindungi pekerja/buruh yang berada di ruang terbatas dari potensi bahaya dan untuk menciptakan tempat kerja yang selamat, aman, nyaman, dan sehat sebagaimana diatur dalam Undang Undang Nomor 1 Tahun 1970 tentang Keselamatan Kerja, perlu mengatur mengenai keselamatan dan kesehatan kerja di ruang terbatas\nDasar hukum Peraturan Menteri ini adalah : UUD 1945 Pasal 17 ayat (3); UU No. 1 Tahun 1970; UU No. 13 Tahun 2003; UU No. 39 Tahun 2008; PERPRES No. 95 Tahun 2020; Permenaker No. 1 Tahun 2021\nDalam Peraturan Menteri ini diatur tentang Keselamatan dan Kesehatan Kerja di Ruang Terbatas.",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 28 November 2023.",
+ "citations": [
+  "UU-1970-1",
+  "UU-2003-13",
+  "UU-2008-39",
+  "PERPRES-2020-95",
+  "PERMENAKER-2021-1"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/341422/Permenaker%20Nomor%2011%20Tahun%202023.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:40:33Z"
+}

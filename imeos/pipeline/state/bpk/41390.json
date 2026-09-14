@@ -1,0 +1,38 @@
+{
+ "id": "PERPRES-2013-20",
+ "source": "bpk",
+ "bpk_id": 41390,
+ "url": "https://peraturan.bpk.go.id/Details/41390/perpres-no-20-tahun-2013",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "20",
+ "number_raw": "20",
+ "year": 2013,
+ "title": "Peraturan Presiden (Perpres) Nomor 20 Tahun 2013 tentang Tunjangan Jabatan Fungsional Penata Ruang",
+ "about": "Tunjangan Jabatan Fungsional Penata Ruang",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA",
+ "field": "",
+ "date_enacted": "2013-03-01",
+ "date_promulgated": "2013-03-06",
+ "date_effective": "2013-03-06",
+ "gazette": "LN.2013/NO.46, LL SETKAB : 5 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-125",
+   "target_bpk_id": 304924,
+   "label": "Perpres No. 125 Tahun 2024",
+   "about": "Tunjangan Jabatan Fungsional Penata Ruang"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 06 Maret 2013.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/67695/Perpres%2020%202013.pdf",
+  "https://peraturan.bpk.go.id/Download/67696/Perpres%2020%202013_Lampiran.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:29:12Z"
+}

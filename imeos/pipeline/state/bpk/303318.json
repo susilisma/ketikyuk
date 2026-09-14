@@ -1,0 +1,53 @@
+{
+ "id": "PP-2024-39",
+ "source": "bpk",
+ "bpk_id": 303318,
+ "url": "https://peraturan.bpk.go.id/Details/303318/pp-no-39-tahun-2024",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "39",
+ "number_raw": "39",
+ "year": 2024,
+ "title": "Peraturan Pemerintah (PP) Nomor 39 Tahun 2024 tentang Kawasan Ekonomi Khusus Pariwisata dan Kesehatan Internasional Batam",
+ "about": "Kawasan Ekonomi Khusus Pariwisata dan Kesehatan Internasional Batam",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KAWASAN EKONOMI KHUSUS / KEK",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2024-10-07",
+ "date_promulgated": "2024-10-07",
+ "date_effective": "2024-10-07",
+ "gazette": "LN 2024 (208), TLN (6992): 7 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PP-2019-62",
+   "target_bpk_id": 120629,
+   "label": "PP No. 62 Tahun 2019",
+   "about": "Perubahan Kedua atas Peraturan Pemerintah Nomor 46 Tahun 2007 tentang Kawasan Perdagangan Bebas dan Pelabuhan Bebas Batam"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PP-2011-5",
+   "target_bpk_id": 5127,
+   "label": "PP No. 5 Tahun 2011",
+   "about": "Perubahan Atas Peraturan Pemerintah Nomor 46 Tahun 2007 Tentang Kawasan Perdagangan Bebas Dan Pelabuhan Bebas Batam"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PP-2007-46",
+   "target_bpk_id": 4768,
+   "label": "PP No. 46 Tahun 2007",
+   "about": "Kawasan Perdagangan Bebas Dan Pelabuhan Bebas Batam"
+  }
+ ],
+ "abstract": "Sebagian wilayah Sekupang dan Nongsa di Pulau Batam, Provinsi Kepulauan Riau, telah memenuhi kriteria dan persyaratan untuk ditetapkan sebagai kawasan ekonomi khusus.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945 dan UU Nomor 39 Tahun 2009.\nPP ini mengatur mengenai penetapan Kawasan Ekonomi Khusus Pariwisata dan Kesehatan Internasional Batam yang memiliki luas 47,17 Ha. Kegiatan usaha di Kawasan Ekonomi Khusus Pariwisata dan Kesehatan Internasional Batam tersebut terdiri atas: pariwisata dan kesehatan. Pelaksanaan pembangunan dan pengelolaan Kawasan Ekonomi Khusus Pariwisata dan Kesehatan Internasional Batam diberikan masa transisi dari Kawasan Perdagangan Bebas dan Pelabuhan Bebas Batam menjadi Kawasan Ekonomi Khusus Pariwisata dan Kesehatan Internasional Batam.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 07 Oktober 2024.\nPada saat Peraturan Pemerintah ini mulai berlaku, kawasan yang ditetapkan menjadi Kawasan Ekonomi Khusus Pariwisata dan Kesehatan Internasional Batam sebagaimana dimaksud dalam Pasal 1 dikeluarkan dari wilayah Kawasan Perdagangan Bebas dan Pelabuhan Bebas Batam sebagaimana ditetapkan dalam Peraturan Pemerintah Nomor 46 Tahun 2007 tentang Kawasan Perdagangan Bebas dan Pelabuhan Bebas Batam (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 107, Tambahan Lembaran Negara Republik Indonesia Nomor 4757) sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Pemerintah Nomor 62 Tahun 2019 tentang Perubahan Kedua atas Peraturan Pemerintah Nomor 46 Tahun 2007 tentang Kawasan Perdagangan Bebas dan Pelabuhan Bebas Batam (Lembaran Negara Republik Indonesia Tahun 2019 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 6384).\nLampiran file: 12 hlm (batang tubuh hlm 1 sd 7, penjelasan hlm 8 sd 11, dan lampiran hlm 12)",
+ "citations": [
+  "UU-2009-39"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/363270/PP%20Nomor%2039%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:29:58Z"
+}

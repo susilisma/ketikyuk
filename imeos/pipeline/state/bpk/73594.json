@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2018-20",
+ "source": "bpk",
+ "bpk_id": 73594,
+ "url": "https://peraturan.bpk.go.id/Details/73594/x",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "20",
+ "number_raw": "20",
+ "year": 2018,
+ "title": "Peraturan Presiden (Perpres) Nomor 20 Tahun 2018 tentang Penggunaan Tenaga Kerja Asing",
+ "about": "Penggunaan Tenaga Kerja Asing",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KETENAGAKERJAAN",
+ "field": "",
+ "date_enacted": "2018-03-26",
+ "date_promulgated": "2018-03-29",
+ "date_effective": "2018-06-29",
+ "gazette": "LN.2018/NO.39, LL SETKAB : 19 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2021-34",
+   "target_bpk_id": 161898,
+   "label": "PP No. 34 Tahun 2021",
+   "about": "Penggunaan Tenaga Kerja Asing"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2014-72",
+   "target_bpk_id": 41566,
+   "label": "PERPRES No. 72 Tahun 2014",
+   "about": "Penggunaan Tenaga Kerja Asing Serta Pelaksanaan Pendidikan dan Pelatihan Tenaga Kerja Pendamping"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 29 Juni 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/254518/Perpres%20Nomor%2020%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:21Z"
+}

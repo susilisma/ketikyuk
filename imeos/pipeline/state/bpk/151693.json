@@ -1,0 +1,48 @@
+{
+ "id": "PP-2020-66",
+ "source": "bpk",
+ "bpk_id": 151693,
+ "url": "https://peraturan.bpk.go.id/Details/151693/pp-no-66-tahun-2020",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "66",
+ "number_raw": "66",
+ "year": 2020,
+ "title": "Peraturan Pemerintah (PP) Nomor 66 Tahun 2020 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Lembaga Penyiaran Publik Televisi Republik Indonesia",
+ "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Lembaga Penyiaran Publik Televisi Republik Indonesia",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
+ "field": "",
+ "date_enacted": "2020-11-10",
+ "date_promulgated": "2020-11-10",
+ "date_effective": null,
+ "gazette": "LN.2020/No.255, TLN No.6577, jdih.setkab.go.id : 5 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-33",
+   "target_bpk_id": 296610,
+   "label": "PP No. 33 Tahun 2024",
+   "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Lembaga Penyiaran Publik Televisi Republik Indonesia"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2017-33",
+   "target_bpk_id": 51619,
+   "label": "PP No. 33 Tahun 2017",
+   "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Lembaga Penyiaran Publik Televisi Republik Indonesia"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 4 ayat (3), Pasal 8 ayat (3), dan Pasal 10 ayat (2) UU Nomor 9 Tahun 2018 tentang Penerimaan Negara Bukan Pajak, perlu menetapkan PP tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak (PNBP) yang Berlaku pada Lembaga Penyiaran Publik Televisi Republik Indonesia.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945; UU Nomor 9 Tahun 2018; dan PP Nomor 22 Tahun 1997 sebagaimana telah diubah dengan PP Nomor 52 Tahun 1998.\nPP ini mengatur mengenai jenis PNBP yang berlaku pada Lembaga penyiaran Publik Televisi Republik Indonesia yang meliputi penerimaan dari delapan jasa atau royalti, yaitu: 1) jasa penyiaran; 2) jasa digitalisasi penyiaran; 3) jasa pendidikan dan pelatihan pertelevisian; 4) jasa sertifikasi profesi penyiaran televisi; 5) jasa penggunaan sarana dan prasarana untuk siaran dan nonsiaran sesuai dengan tugas dan fungsi; 6) jasa produksi program; 7) jasa multipleksing; dan 8) royalti atas hak kekayaan intelektual produksi program. Seluruh PNBP yang berlaku pada Lembaga Penyiaran Publik Televisi Republik Indonesia wajib disetor ke Kas Negara.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal .\nPeraturan Pemerintah ini mulai berlaku setelah 60 (enam puluh) hari terhitung sejak tanggal diundangkan.\nPenjelasan 6 hlm.",
+ "citations": [
+  "UU-2018-9",
+  "PP-1997-22",
+  "PP-1998-52"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/143938/PP%20Nomor%2066%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:30:16Z"
+}

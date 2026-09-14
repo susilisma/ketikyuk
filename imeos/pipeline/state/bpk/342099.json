@@ -1,0 +1,45 @@
+{
+ "id": "PMK-2025-107",
+ "source": "bpk",
+ "bpk_id": 342099,
+ "url": "https://peraturan.bpk.go.id/Details/342099/pmk-no-107-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "107",
+ "number_raw": "107",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 107 Tahun 2025 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 224/PMK.08/2021 tentang Penjualan dan Pembelian Kembali Surat Berharga Syariah Negara dalam Valuta Asing di Pasar Internasional",
+ "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 224/PMK.08/2021 tentang Penjualan dan Pembelian Kembali Surat Berharga Syariah Negara dalam Valuta Asing di Pasar Internasional",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "HUKUM DAGANG",
+ "date_enacted": "2025-12-29",
+ "date_promulgated": "2025-12-31",
+ "date_effective": "2025-12-31",
+ "gazette": "BN.2025 (1224/18 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PMK-2021-224",
+   "target_bpk_id": 209637,
+   "label": "PMK No. 224/PMK.08/2021",
+   "about": "Penjualan dan Pembelian Kembali Surat Berharga Syariah Negara dalam Valuta Asing di Pasar Internasional"
+  }
+ ],
+ "abstract": "a. bahwa untuk meningkatkan efektivitas dan efisiensi\npelaksanaan pengadaan jasa yang mendukung penjualan\ndan pembelian kembali surat berharga syariah negara\ndalam valuta asing di pasar internasional serta\nmemperkuat tata kelola, transparansi, akuntabilitas, serta\nfleksibilitas dalam mekanisme seleksi dan pengelolaan\npihak-pihak yang berperan dalam transaksi surat\nberharga syariah negara dalam valuta asing perlu\ndilakukan penyesuaian pengaturan penjualan dan\npembelian kembali surat berharga syariah negara dalam\nvaluta asing;\nb. bahwa untuk mengembangkan pasar surat berharga\nsyariah negara serta meningkatkan efektivitas dan\nefisiensi pelaksanaan pengadaan jasa yang mendukung\npenjualan dan pembelian kembali surat berharga syariah\nnegara dalam valuta asing perlu dilakukan perubahan\natas Peraturan Menteri Keuangan Nomor\n224/PMK.08/2021 tentang Penjualan dan Pembelian\nKembali Surat Berharga Syariah Negara dalam Valuta\nAsing di Pasar Internasional;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a dan huruf b, perlu menetapkan Peraturan\nMenteri Keuangan tentang Perubahan atas Peraturan\nMenteri Keuangan Nomor 224/PMK.08/2021 tentang\nPenjualan dan Pembelian Kembali Surat Berharga Syariah\nNegara dalam Valuta Asing di Pasar Internasional;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 19 Tahun 2008, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 45 Tahun 2013, Peraturan Presiden Nomor 16 Tahun 2018, Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Menteri Keuangan Nomor 224/PMK.08/2021 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor\n224/PMK.08/2021 tentang Penjualan dan Pembelian Kembali\nSurat Berharga Syariah Negara dalam Valuta Asing di Pasar\nInternasional yaitu tentang ketentuan umum, metode Bookbuilding, metode Private\nPlacement, ketentuan dan persyaratan seleksi panel, panel konsultan hukum, agen penjual, agen pembeli/penukar dan konsultan hukum SBSN valas, Seleksi Panel dan Panel Konsultan Hukum, negosiasi imbalan jasa dan Kelompok Kerja Pemilihan",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 31 Desember 2025.\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor\n224/PMK.08/2021 tentang Penjualan dan Pembelian Kembali\nSurat Berharga Syariah Negara dalam Valuta Asing di Pasar\nInternasional",
+ "citations": [
+  "PMK-2021-224",
+  "UU-2008-19",
+  "UU-2008-39",
+  "PP-2013-45",
+  "PERPRES-2018-16",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/405242/2025pmkeuangan107.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:31:51Z"
+}

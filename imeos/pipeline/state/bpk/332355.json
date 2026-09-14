@@ -1,0 +1,40 @@
+{
+ "id": "UU-2025-4",
+ "source": "bpk",
+ "bpk_id": 332355,
+ "url": "https://peraturan.bpk.go.id/Details/332355/uu-no-4-tahun-2025",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "4",
+ "number_raw": "4",
+ "year": 2025,
+ "title": "Undang-undang (UU) Nomor 4 Tahun 2025 tentang Kabupaten Gorontalo di Provinsi Gorontalo",
+ "about": "Kabupaten Gorontalo di Provinsi Gorontalo",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-08-20",
+ "date_promulgated": "2025-08-20",
+ "date_effective": "2025-08-20",
+ "gazette": "LN 2025 (125), TLN (7120) : 6 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-1959-29",
+   "target_bpk_id": 51529,
+   "label": "UU No. 29 Tahun 1959",
+   "about": "Pembentukan Daerah Tingkat II Di Sulawesi"
+  }
+ ],
+ "abstract": "Undang-Undang Nomor 29 Tahun 1959 tentang Pembentukan Daerah Tingkat II di Sulawesi yang menjadi dasar pembentukan Kabupaten Gorontalo, sudah tidak sesuai lagi dengan perkembangan hukum sehingga perlu diganti.\nDasar hukum UU ini adalah Pasal 18, Pasal 18A, Pasal 18B ayat (2), Pasal 20, Pasal 21, dan Pasal 22D ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.\nUU ini mengatur mengenai Kabupaten Gorontalo di Provinsi Gorontalo. Provinsi Gorontalo adalah bagian dari wilayah Negara Kesatuan Republik Indonesia berdasarkan Undang-Undang Nomor 38 Tahun 2000 tentang Pembentukan Provinsi Gorontalo. Kabupaten Gorontalo adalah daerah kabupaten yang berada di wilayah Provinsi Gorontalo yang dibentuk berdasarkan Undang-Undang Nomor 29 Tahun 1959 tentang Pembentukan Daerah Tingkat II di Sulawesi. Ibu Kota Kabupaten Gorontalo berkedudukan di Kecamatan Limboto.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 20 Agustus 2025.\nPada saat Undang-Undang ini mulai berlalu, ketentuan yang mengatur mengenai Kabupaten Gorontalo dalam Undang-Undang Nomor 29 Tahun 1959 tentang Pembentukan Daerah Tingkat II di Sulawesi (Lembaran Negara Tahun 1959 Nomor 74, Tambahan Lembaran Negara Nomor 1822), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 9 hlm (batang tubuh hlm 1 sd 6 dan penjelasan hlm 7 sd 9)",
+ "citations": [
+  "UU-1959-29",
+  "UU-2000-38"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/394410/UU%20Nomor%204%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:23:57Z"
+}

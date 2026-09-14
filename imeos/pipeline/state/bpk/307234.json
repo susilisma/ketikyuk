@@ -1,0 +1,39 @@
+{
+ "id": "UU-2024-74",
+ "source": "bpk",
+ "bpk_id": 307234,
+ "url": "https://peraturan.bpk.go.id/Details/307234/uu-no-74-tahun-2024",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "74",
+ "number_raw": "74",
+ "year": 2024,
+ "title": "Undang-undang (UU) Nomor 74 Tahun 2024 tentang Kabupaten Buleleng di Provinsi Bali",
+ "about": "Kabupaten Buleleng di Provinsi Bali",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-10-28",
+ "date_promulgated": "2024-10-28",
+ "date_effective": "2024-10-28",
+ "gazette": "LN 2024 (260), TLN (7011): 9 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-1958-69",
+   "target_bpk_id": 52348,
+   "label": "UU No. 69 Tahun 1958",
+   "about": "Pembentukan Daerah-Daerah Tingkat II Dalam Wilayah Daerah-Daerah Tingkat I Bali, Nusa Tenggara Barat dan Nusa Tenggara Timur"
+  }
+ ],
+ "abstract": "Undang-Undang Nomor 69 Tahun 1958 tentang pembentukan Daerah-daerah tingkat II dalam wilayah Daerah-daerah tingkat I Bali, Nusa Tenggara Barat dan Nusa Tenggara Timur, yang menjadi dasar pembentukan Kabupaten Buleleng, sudah tidak sesuai lagi dengan perkembangan hukum sehingga perlu diganti.\nDasar hukum UU ini adalah Pasal 18, Pasal 18A, Pasal 18B ayat (2), Pasal 20, Pasal 21, dan Pasal 22D ayat (2) UUD 1945.\nUU ini mengatur mengenai Kabupaten Buleleng di Provinsi Bali dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Kabupaten Buleleng terdiri atas 9 (sembilan) kecamatan. Ibu Kota Kabupaten Buleleng berkedudukan di Kecamatan Buleleng.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 28 Oktober 2024.\nPada saat Undang-Undang ini mulai berlaku, ketentuan yang mengatur mengenai Kabupaten Buleleng dalam Undang-Undang Nomor 69 Tahun 1958 tentang pembentukan Daerah-daerah tingkat II dalam wilayah Daerah-daerah tingkat I Bali, Nusa Tenggara Barat dan Nusa Tenggara Timur (Lembaran Negara Republik Indonesia Tahun 1958 Nomor 122,Tambahan Lembaran Negara Republik Indonesia Nomor 1655), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 9 hlm (batang tubuh hlm 1 sd 6, penjelasan hlm 7 sd 9)",
+ "citations": [
+  "UU-1958-69"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/367626/UU%20Nomor%2074%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:26:04Z"
+}

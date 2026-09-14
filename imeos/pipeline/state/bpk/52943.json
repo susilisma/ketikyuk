@@ -1,0 +1,149 @@
+{
+ "id": "UUDRT-1956-7",
+ "source": "bpk",
+ "bpk_id": 52943,
+ "url": "https://peraturan.bpk.go.id/Details/52943/uudrt-no-7-tahun-1956",
+ "form": "UUDRT",
+ "form_long": "Undang-undang Darurat",
+ "number": "7",
+ "number_raw": "7",
+ "year": 1956,
+ "title": "Undang-undang Darurat Nomor 7 Tahun 1956 tentang Pembentukan Daerah Otonom Kabupaten-Kabupaten Dalam Lingkungan Daerah Propinsi Sumatera Utara",
+ "about": "Pembentukan Daerah Otonom Kabupaten-Kabupaten Dalam Lingkungan Daerah Propinsi Sumatera Utara",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH",
+ "field": "",
+ "date_enacted": "1956-11-07",
+ "date_promulgated": "1956-11-24",
+ "date_effective": "1956-11-24",
+ "gazette": "LN. 1956 No. 58, LL SETNEG : 11 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-6",
+   "target_bpk_id": 290469,
+   "label": "UU No. 6 Tahun 2024",
+   "about": "Kabupaten Aceh Besar di Aceh"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-9",
+   "target_bpk_id": 290547,
+   "label": "UU No. 9 Tahun 2024",
+   "about": "Kabupaten Aceh Timur di Aceh"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-8",
+   "target_bpk_id": 290538,
+   "label": "UU No. 8 Tahun 2024",
+   "about": "Kabupaten Aceh Tengah di Aceh"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-7",
+   "target_bpk_id": 290529,
+   "label": "UU No. 7 Tahun 2024",
+   "about": "Kabupaten Pidie di Aceh"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-28",
+   "target_bpk_id": 290604,
+   "label": "UU No. 28 Tahun 2024",
+   "about": "Kabupaten Nias di Provinsi Sumatera Utara"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-26",
+   "target_bpk_id": 290625,
+   "label": "UU No. 26 Tahun 2024",
+   "about": "Kabupaten Simalungun di Provinsi Sumatera Utara"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-24",
+   "target_bpk_id": 290735,
+   "label": "UU No. 24 Tahun 2024",
+   "about": "Kabupaten Tapanuli Selatan di Provinsi Sumatera Utara"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-23",
+   "target_bpk_id": 290777,
+   "label": "UU No. 23 Tahun 2024",
+   "about": "Kabupaten Tapanuli Tengah di Provinsi Sumatera Utara"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-22",
+   "target_bpk_id": 290774,
+   "label": "UU No. 22 Tahun 2024",
+   "about": "Kabupaten Tapanuli Utara di Provinsi Sumatera Utara"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-21",
+   "target_bpk_id": 290772,
+   "label": "UU No. 21 Tahun 2024",
+   "about": "Kabupaten Labuhanbatu di Provinsi Sumatera Utara"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-20",
+   "target_bpk_id": 290752,
+   "label": "UU No. 20 Tahun 2024",
+   "about": "Kabupaten Asahan di Provinsi Sumatera Utara"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-18",
+   "target_bpk_id": 290744,
+   "label": "UU No. 18 Tahun 2024",
+   "about": "Kabupaten Deli Serdang di Provinsi Sumatera Utara"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-15",
+   "target_bpk_id": 290611,
+   "label": "UU No. 15 Tahun 2024",
+   "about": "Kabupaten Karo di Provinsi Sumatera Utara"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-14",
+   "target_bpk_id": 290605,
+   "label": "UU No. 14 Tahun 2024",
+   "about": "Kabupaten Langkat di Provinsi Sumatera Utara"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-12",
+   "target_bpk_id": 290585,
+   "label": "UU No. 12 Tahun 2024",
+   "about": "Kabupaten Aceh Selatan di Aceh"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-11",
+   "target_bpk_id": 290575,
+   "label": "UU No. 11 Tahun 2024",
+   "about": "Kabupaten Aceh Barat di Aceh"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-10",
+   "target_bpk_id": 290570,
+   "label": "UU No. 10 Tahun 2024",
+   "about": "Kabupaten Aceh Utara di Aceh"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang Darurat ini mulai berlaku pada tanggal 24 November 1956.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/42320/UU%20Darurat%20Nomor%207%20Tahun%201956.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:27:16Z"
+}

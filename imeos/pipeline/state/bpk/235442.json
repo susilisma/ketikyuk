@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2022-208",
+ "source": "bpk",
+ "bpk_id": 235442,
+ "url": "https://peraturan.bpk.go.id/Details/235442/pmk-no-208pmk072022",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "208",
+ "number_raw": "208/PMK.07/2022",
+ "year": 2022,
+ "title": "Peraturan Menteri Keuangan Nomor 208/PMK.07/2022 Tahun 2022 tentang Pengelolaan Insentif Fiskal",
+ "about": "Pengelolaan Insentif Fiskal",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PENGELOLAAN KEUANGAN NEGARA / DAERAH",
+ "field": "",
+ "date_enacted": "2022-12-27",
+ "date_promulgated": "2022-12-28",
+ "date_effective": "2022-12-28",
+ "gazette": "BN.2022/NO. 1331; https:jdih.kemenkeu.go.id : 31 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-91",
+   "target_bpk_id": 309178,
+   "label": "PMK No. 91 Tahun 2024",
+   "about": "Pengelolaan Dana Insentif Fiskal atas Pencapaian Kinerja Daerah"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2022-171",
+   "target_bpk_id": 232037,
+   "label": "PMK No. 171/PMK.07/2022",
+   "about": "Pengelolaan Insentif Fiskal"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 28 Desember 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/289032/208_PMK.07_2022.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:34:33Z"
+}

@@ -1,0 +1,40 @@
+{
+ "id": "PERPRES-2025-106",
+ "source": "bpk",
+ "bpk_id": 334648,
+ "url": "https://peraturan.bpk.go.id/Details/334648/perpres-no-106-tahun-2025",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "106",
+ "number_raw": "106",
+ "year": 2025,
+ "title": "Peraturan Presiden (Perpres) Nomor 106 Tahun 2025 tentang Penasihat Khusus Presiden, Utusan Khusus Presiden, Staf Khusus Presiden, Asisten Khusus Presiden, dan Staf Khusus Wakil Presiden",
+ "about": "Penasihat Khusus Presiden, Utusan Khusus Presiden, Staf Khusus Presiden, Asisten Khusus Presiden, dan Staf Khusus Wakil Presiden",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-10-07",
+ "date_promulgated": "2025-10-07",
+ "date_effective": "2025-10-07",
+ "gazette": "LN 2025 (168) : 20 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2024-137",
+   "target_bpk_id": 305127,
+   "label": "Perpres No. 137 Tahun 2024",
+   "about": "Penasihat Khusus Presiden, Utusan Khusus Presiden, Staf Khusus Presiden, dan Staf Khusus Wakil Presiden"
+  }
+ ],
+ "abstract": "Dalam rangka mendukung kelancaran pelaksanaan tugas-tugas Presiden dan Wakil Presiden, Peraturan Presiden Nomor 137 Tahun 2024 tentang Penasihat Khusus Presiden, Utusan Khusus Presiden, Staf Khusus Presiden, dan Staf Khusus Wakil Presiden perlu dilakukan penggantian karena sudah tidak sesuai dengan kebutuhan dan perkembangan hukum.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD 1945 dan UU No. 20 Tahun 2023.\nPerpres ini mengatur mengenai Penasihat Khusus Presiden, Utusan Khusus Presiden, Staf Khusus Presiden, Asisten Khusus Presiden, dan Staf Khusus Wakil Presiden. Penasihat Khusus Presiden memiliki tugas tertentu yang diberikan oleh Presiden di luar tugas-tugas yang sudah dicakup dalam susunan organisasi kementerian dan instansi pemerintah lainnya. Utusan Khusus Presiden melaksanakan tugas tertentu yang diberikan oleh Presiden di luar tugas-tugas yang sudah dicakup dalam susunan organisasi kementerian dan instansi pemerintah lainnya. Staf Khusus Presiden dan Asisten Khusus Presiden melaksanakan tugas tertentu yang diberikan oleh Presiden diluar tugas-tugas yang sudah dicakup dalam susunan organisasi kementerian dan instansi pemerintah lainnya. Staf Khusus Wakil Presiden melaksanakan tugas tertentu diluar tugas-tugas yang sudah dicakup dalam susunan organisasi kementerian dan instansi pemerintah lainnya yang diberikan oleh Wakil Presiden dalam rangka memberikan supervisi tugas-tugas yang sudah dicakup dalam susunan organisasi Sekretariat Wakil Presiden.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 07 Oktober 2025.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 137 Tahun 2024 tentang Penasihat Khusus Presiden, Utusan Khusus Presiden, Staf Khusus Presiden, dan Staf Khusus Wakil Presiden (Lembaran Negara Republik Indonesia Tahun 2024 Nomor 247), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 20 hlm.",
+ "citations": [
+  "PERPRES-2024-137",
+  "UU-2023-20"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/397213/Perpres%20Nomor%20106%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:29Z"
+}

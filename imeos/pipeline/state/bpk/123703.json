@@ -1,0 +1,58 @@
+{
+ "id": "PERPRES-2019-66",
+ "source": "bpk",
+ "bpk_id": 123703,
+ "url": "https://peraturan.bpk.go.id/Details/123703/perpres-no-66-tahun-2019",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "66",
+ "number_raw": "66",
+ "year": 2019,
+ "title": "Peraturan Presiden (Perpres) Nomor 66 Tahun 2019 tentang Susunan Organisasi Tentara Nasional Indonesia",
+ "about": "Susunan Organisasi Tentara Nasional Indonesia",
+ "issuer": "Pemerintah Pusat",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "",
+ "date_enacted": "2019-10-18",
+ "date_promulgated": "2019-10-18",
+ "date_effective": "2019-10-18",
+ "gazette": "LN. 2019 No. 199, LL SETNEG : 106 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2025-84",
+   "target_bpk_id": 329006,
+   "label": "Perpres No. 84 Tahun 2025",
+   "about": "Perubahan atas Peraturan Presiden Nomor 66 Tahun 2019 tentang Susunan Organisasi Tentara Nasional Indonesia"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2019-42",
+   "target_bpk_id": 111887,
+   "label": "PERPRES No. 42 Tahun 2019",
+   "about": "Perubahan Kedua atas Peraturan Presiden Nomor 10 Tahun 2010 tentang Susunan Organisasi Tentara Nasional Indonesia"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2016-62",
+   "target_bpk_id": 40966,
+   "label": "PERPRES No. 62 Tahun 2016",
+   "about": "Perubahan Atas Peraturan Presiden Nomor 10 Tahun 2010 Tentang Susunan Organisasi Tentara Nasional Indonesia"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2010-10",
+   "target_bpk_id": 41108,
+   "label": "PERPRES No. 10 Tahun 2010",
+   "about": "Susunan Organisasi Tentara Nasional Indonesia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 18 Oktober 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/114502/Perpres%20Nomor%2066%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:33:04Z"
+}

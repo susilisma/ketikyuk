@@ -1,0 +1,45 @@
+{
+ "id": "PERPRES-2020-4",
+ "source": "bpk",
+ "bpk_id": 131355,
+ "url": "https://peraturan.bpk.go.id/Details/131355/perpres-no-4-tahun-2020",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "4",
+ "number_raw": "4",
+ "year": 2020,
+ "title": "Peraturan Presiden (Perpres) Nomor 4 Tahun 2020 tentang Tunjangan Kinerja Pegawai di Lingkungan Badan Nasional Penanggulangan Bencana",
+ "about": "Tunjangan Kinerja Pegawai di Lingkungan Badan Nasional Penanggulangan Bencana",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA",
+ "field": "",
+ "date_enacted": "2020-01-17",
+ "date_promulgated": "2020-01-22",
+ "date_effective": "2020-01-22",
+ "gazette": "LN.2020/NO.12, JDIH.SETKAB.GO.ID : 8 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-204",
+   "target_bpk_id": 310474,
+   "label": "Perpres No. 204 Tahun 2024",
+   "about": "Tunjangan Kinerja Pegawai di Lingkungan Badan Nasional Penanggulangan Bencana"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2016-86",
+   "target_bpk_id": 40990,
+   "label": "PERPRES No. 86 Tahun 2016",
+   "about": "Tunjangan Kinerja Pegawai Di Lingkungan Badan Nasional Penanggulangan Bencana"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 22 Januari 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/122165/Perpres%20Nomor%204%20Tahun%202020.pdf",
+  "https://peraturan.bpk.go.id/Download/122166/Perpres%20Nomor%204%20Tahun%202020%20-%20Lampiran.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:27Z"
+}

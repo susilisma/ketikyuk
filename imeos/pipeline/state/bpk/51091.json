@@ -1,0 +1,65 @@
+{
+ "id": "UU-1956-8",
+ "source": "bpk",
+ "bpk_id": 51091,
+ "url": "https://peraturan.bpk.go.id/Details/51091/uu-no-8-tahun-1956",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "8",
+ "number_raw": "8",
+ "year": 1956,
+ "title": "Undang-undang (UU) Nomor 8 Tahun 1956 tentang Pembentukan Daerah Otonom Kota-Kecil dalam Lingkungan Daerah Propinsi Sumatera Tengah",
+ "about": "Pembentukan Daerah Otonom Kota-Kecil dalam Lingkungan Daerah Propinsi Sumatera Tengah",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH",
+ "field": "",
+ "date_enacted": "1956-03-19",
+ "date_promulgated": "1956-03-23",
+ "date_effective": "1956-03-23",
+ "gazette": "LN.1956/NO.19, LL SETNEG : 6 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-56",
+   "target_bpk_id": 295287,
+   "label": "UU No. 56 Tahun 2024",
+   "about": "Kota Payakumbuh di Provinsi Sumatera Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-58",
+   "target_bpk_id": 295289,
+   "label": "UU No. 58 Tahun 2024",
+   "about": "Kota Solok di Provinsi Sumatera Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-57",
+   "target_bpk_id": 295288,
+   "label": "UU No. 57 Tahun 2024",
+   "about": "Kota Sawahlunto di Provinsi Sumatera Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-54",
+   "target_bpk_id": 295285,
+   "label": "UU No. 54 Tahun 2024",
+   "about": "Kota Padang Panjang di Provinsi Sumatera Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-44",
+   "target_bpk_id": 295266,
+   "label": "UU No. 44 Tahun 2024",
+   "about": "Kota Pekanbaru di Provinsi Riau"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 23 Maret 1956.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/40342/UU%20Nomor%208%20Tahun%201956.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:26:32Z"
+}

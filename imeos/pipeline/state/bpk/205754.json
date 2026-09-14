@@ -1,0 +1,62 @@
+{
+ "id": "PERPRES-2022-54",
+ "source": "bpk",
+ "bpk_id": 205754,
+ "url": "https://peraturan.bpk.go.id/Details/205754/perpres-no-54-tahun-2022",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "54",
+ "number_raw": "54",
+ "year": 2022,
+ "title": "Peraturan Presiden (Perpres) Nomor 54 Tahun 2022 tentang Perubahan Kedua atas Peraturan Presiden Nomor 52 Tahun 2010 tentang Susunan Organisasi dan Tata Kerja Kepolisian Negara Republik Indonesia",
+ "about": "Perubahan Kedua atas Peraturan Presiden Nomor 52 Tahun 2010 tentang Susunan Organisasi dan Tata Kerja Kepolisian Negara Republik Indonesia",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI - STRUKTUR ORGANISASI",
+ "field": "",
+ "date_enacted": "2022-04-07",
+ "date_promulgated": "2022-04-07",
+ "date_effective": "2022-04-07",
+ "gazette": "LN.2022/No.89, jdih.setneg.go.id: 7 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2024-90",
+   "target_bpk_id": 296572,
+   "label": "Perpres No. 90 Tahun 2024",
+   "about": "Perubahan Keempat atas Peraturan Presiden Nomor 52 Tahun 2010 tentang Susunan Organisasi dan Tata Kerja Kepolisian Negara Republik Indonesia"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2024-122",
+   "target_bpk_id": 304499,
+   "label": "Perpres No. 122 Tahun 2024",
+   "about": "Perubahan Kelima atas Peraturan Presiden Nomor 52 Tahun 2010 tentang Susunan Organisasi dan Tata Kerja Kepolisian Negara Republik Indonesia"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2017-5",
+   "target_bpk_id": 62149,
+   "label": "PERPRES No. 5 Tahun 2017",
+   "about": "Perubahan Atas Peraturan Presiden Nomor 52 Tahun 2010 tentang Susunan Organisasi dan Tata Kerja Kepolisian Negara Republik Indonesia"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2010-52",
+   "target_bpk_id": 41109,
+   "label": "PERPRES No. 52 Tahun 2010",
+   "about": "Susunan Organisasi dan Tata Kerja Kepolisian Negara Republik Indonesia"
+  }
+ ],
+ "abstract": "Dalam menghadapi dinamika perkembangan gangguan keamanan dan ketertiban masyarakat yang berintensitas tinggi dan meningkatnya kebutuhan pelayanan kedokteran kepolisian dan kesehatan kepolisian untuk tercapainya kesehatan masyarakat serta tugas operasi kemanusiaan, perlu melakukan penataan organisasi dan tata kerja Kepolisian Negara Republik Indonesia.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) dan Pasal 30 ayat (4) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 2 Tahun 2002; dan Perpres Nomor 52 Tahun 2010.\nPerpres ini mengubah beberapa ketentuan dalam Perpres Nomor 52 Tahun 2010, yaitu: 1) ketentuan dalam ayat (5) Pasal 22 yang mengatur mengenai susunan organisasi Korps Brigade Mobil; 2) susunan organisasi Pusat Kedokteran dan Kesehatan dalam Pasal 32; 3) uraian mengenai eselonisasi di lingkungan Kepolisian Negara Republik Indonesia dalam Pasal 54; 4) penambahan satu pasal diantara Pasal 60 dan Pasal 61; dan 5) lampiran Perpres Nomor 52 Tahun 2010 diubah sebagaimana diatur dalam Perpres Nomor 54 Tahun 2022 ini.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 07 April 2022.\nPerpres ini mengubah Perpres Nomor 52 Tahun 2010 sebagaimana telah diubah dengan Perpres Nomor 5 Tahun 2017\nLampiran: 4 hlm.",
+ "citations": [
+  "UU-2002-2",
+  "PERPRES-2010-52",
+  "PERPRES-2022-54"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/199772/Perpres%20Nomor%2054%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:29:21Z"
+}

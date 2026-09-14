@@ -1,0 +1,44 @@
+{
+ "id": "PERMENDAG-2023-8",
+ "source": "bpk",
+ "bpk_id": 247546,
+ "url": "https://peraturan.bpk.go.id/Details/247546/permendag-no-8-tahun-2023",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "8",
+ "number_raw": "8",
+ "year": 2023,
+ "title": "Peraturan Menteri Perdagangan Nomor 8 Tahun 2023 tentang Tata Cara Penetapan Harga Patokan Ekspor Atas Produk Pertambangan Yang Dikenakan Bea Keluar",
+ "about": "Tata Cara Penetapan Harga Patokan Ekspor Atas Produk Pertambangan Yang Dikenakan Bea Keluar",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN",
+ "field": "",
+ "date_enacted": "2023-02-07",
+ "date_promulgated": "2023-02-15",
+ "date_effective": "2023-02-15",
+ "gazette": "BN.2023/No.146, http://jdih.kemendag.go.id/: 6 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2025-46",
+   "target_bpk_id": 337322,
+   "label": "Permendag No. 46 Tahun 2025",
+   "about": "Tata Cara Penetapan Harga Patokan Ekspor dan Harga Referensi atas Produk Pertambangan yang Dikenakan Bea Keluar"
+  },
+  {
+   "type": "Diubah sebagian dengan",
+   "target": "PERMENDAG-2025-10",
+   "target_bpk_id": 320887,
+   "label": "Permendag No. 10 Tahun 2025",
+   "about": "Perubahan atas Peraturan Menteri Perdagangan Nomor 8 Tahun 2023 tentang Tata\r\nCara Penetapan Harga Patokan Ekspor atas Produk Pertambangan yang Dikenakan Bea Keluar"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 15 Februari 2023.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/303793/Permendag%208%20Tahun%202023.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:36:35Z"
+}

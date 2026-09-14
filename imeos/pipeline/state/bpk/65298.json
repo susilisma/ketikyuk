@@ -1,0 +1,44 @@
+{
+ "id": "PP-1981-6",
+ "source": "bpk",
+ "bpk_id": 65298,
+ "url": "https://peraturan.bpk.go.id/Details/65298/pp-no-6-tahun-1981",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "6",
+ "number_raw": "6",
+ "year": 1981,
+ "title": "Peraturan Pemerintah (PP) Nomor 6 Tahun 1981 tentang Iuran Pembayaran Eksploitasi Dan Pemeliharaan Prasarana Pengairan",
+ "about": "Iuran Pembayaran Eksploitasi Dan Pemeliharaan Prasarana Pengairan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "LINGKUNGAN HIDUP - SUMBER DAYA ALAM",
+ "field": "",
+ "date_enacted": "1981-02-25",
+ "date_promulgated": "1981-02-25",
+ "date_effective": "1981-02-25",
+ "gazette": "LN. 1981/ No. 6 , TLN No. 3189, LL Setkab : 4 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-30",
+   "target_bpk_id": 295844,
+   "label": "PP No. 30 Tahun 2024",
+   "about": "Pengelolaan Sumber Daya Air"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2008-42",
+   "target_bpk_id": 4856,
+   "label": "PP No. 42 Tahun 2008",
+   "about": "Pengelolaan Sumber Daya Air"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 25 Februari 1981.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/55598/PP%20NO%206%20TH%201981.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:30:29Z"
+}

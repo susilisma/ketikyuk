@@ -1,0 +1,55 @@
+{
+ "id": "PERPRES-2024-173",
+ "source": "bpk",
+ "bpk_id": 306856,
+ "url": "https://peraturan.bpk.go.id/Details/306856/perpres-no-173-tahun-2024",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "173",
+ "number_raw": "173",
+ "year": 2024,
+ "title": "Peraturan Presiden (Perpres) Nomor 173 Tahun 2024 tentang Kementerian Perhubungan",
+ "about": "Kementerian Perhubungan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KETATANEGARAAN, KENEGARAAN - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "HUKUM TATA NEGARA",
+ "date_enacted": "2024-11-05",
+ "date_promulgated": "2024-11-05",
+ "date_effective": "2024-11-05",
+ "gazette": "LN 2024 (369) : 21 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2026-16",
+   "target_bpk_id": 349417,
+   "label": "Perpres No. 16 Tahun 2026",
+   "about": "Perubahan atas Peraturan Presiden Nomor 173 Tahun 2024 tentang Kementerian Perhubungan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2022-23",
+   "target_bpk_id": 199374,
+   "label": "PERPRES No. 23 Tahun 2022",
+   "about": "Kementerian Perhubungan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2015-103",
+   "target_bpk_id": 41852,
+   "label": "PERPRES No. 103 Tahun 2015",
+   "about": "Badan Pengelola Transportasi Jakarta, Bogor, Depok, Tangerang, dan Bekasi"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 11 Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara sebagaimana telah diubah dengan Undang-Undang Nomor 61 Tahun 2024 tentang perubahan atas Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara, perlu menetapkan peraturan presiden tentang Kementerian Perhubungan.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) dan Pasal 17 UUD NRI Tahun 1945; UU Nomor 39 Tahun 2008; dan Perpres Nomor 140 Tahun 2024.\nPeraturan ini mengatur mengenai Kementerian Perhubungan yang menyelenggarakan urusan pemerintahan di bidang transportasi. Kementerian ini dipimpin oleh Menteri berada di bawah dan bertanggung jawab kepada Presiden. Dalam memimpin Kementerian, Menteri dapat dibantu oleh wakil menteri sesuai dengan penunjukan Presiden, Wakil menteri berada di bawah dan bertanggung jawab kepada Menteri. Kementerian mempunyai tugas menyelenggarakan urusan pemerintahan di bidang transportasi untuk membantu Presiden dalam menyelenggarakan pemerintahan negara. Dalam melaksanakan tugas Kementerian menyelenggarakan fungsi antara lain sebagai berikut; 1. perumusan, penetapan, dan pelaksanaan kebijakan di bidang penyelenggaraan pelayanan, keselamatan, dan keamanan transportasi, serta peningkatan aksesibilitas, konektivitas, dan kapasitas sarana dan prasarana transportasi; 2. pelaksanaan bimbingan teknis dan supervisi atas pelaksanaan urusan Kementerian di daerah; dan 3. koordinasi pelaksanaan tugas, pembinaan, dan pemberian dukungan administrasi kepada seluruh unsur organisasi di lingkungan Kementerian.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 05 November 2024.\nPada saat Peraturan Presiden ini mulai berlaku:\na. Peraturan Presiden Nomor 103 Tahun 2015 tentang Badan Pengelola Transportasi Jakarta, Bogor, Depok, Tangerang, dan Bekasi (Lembaran Negara Republik Indonesia\nTahun 2015 Nomor 216); dan\nb. Peraturan Presiden Nomor 23 Tahun 2022 tentang Kementerian Perhubungan (Lembaran Negara Republik Indonesia Tahun 2022 Nomor 33), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 21 hlm",
+ "citations": [
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2024-140"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/367161/Perpres%20Nomor%20173%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:31:45Z"
+}

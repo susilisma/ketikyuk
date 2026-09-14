@@ -1,0 +1,48 @@
+{
+ "id": "PERPRES-2024-200",
+ "source": "bpk",
+ "bpk_id": 306954,
+ "url": "https://peraturan.bpk.go.id/Details/306954/perpres-no-200-tahun-2024",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "200",
+ "number_raw": "200",
+ "year": 2024,
+ "title": "Peraturan Presiden (Perpres) Nomor 200 Tahun 2024 tentang Badan Ekonomi Kreatif",
+ "about": "Badan Ekonomi Kreatif",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KETATANEGARAAN, KENEGARAAN - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI - PEREKONOMIAN",
+ "field": "HUKUM TATA NEGARA",
+ "date_enacted": "2024-11-08",
+ "date_promulgated": "2024-11-08",
+ "date_effective": "2024-11-08",
+ "gazette": "LN 2024 (397) : 19 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2019-97",
+   "target_bpk_id": 129220,
+   "label": "PERPRES No. 97 Tahun 2019",
+   "about": "Badan Pariwisata dan Ekonomi Kreatif"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2019-96",
+   "target_bpk_id": 129217,
+   "label": "PERPRES No. 96 Tahun 2019",
+   "about": "Kementerian Pariwisata dan Ekonomi Kreatif"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 11 Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara sebagaimana telah diubah dengan Undang-Undang Nomor 61 Tahun 2024 tentang Perubahan atas Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara, perlu menetapkan Peraturan Presiden tentang Badan Ekonomi Kreatif.\nDasar Hukum Perpres ini adalah Pasal 4 ayat (1) dan Pasal 17 UUD NRI Tahun 1945; UU Nomor 39 Tahun 2008; dan Perpres Nomor 140 Tahun 2024.\nPerpres ini mengatur mengenai Badan Ekonomi Kreatif yang selanjutnya disingkat Bekraf adalah Lembaga Pemerintah Non Kementerian yang menyelenggarakan tugas pemerintahan di bidang ekonomi kreatif. Bekraf berada di bawah dan bertanggung jawab kepada Presiden. Bekraf dipimpin oleh Kepala, Kepala dijabat oleh Menteri Menteri Ekonomi Kreatif. Wakil Kepala berada di bawah dan bertanggung jawab kepada Menteri/ Kepala. Wakil Kepala dijabat oleh Wakil Menteri Ekonomi Kreatif. Bekraf melaksanakan tugas pemerintahan di bidang ekonomi kreatif berdasarkan ketentuan peraturan perundang-undangan. Dalam melaksanakan tugas Bekraf menyelenggarakan fungsi antara lain sebagai berikut; 1. perumusan dan penetapan kebijakan teknis di bidang pengembangan strategis ekonomi kreatif, kreativitas budaya dan desain, kreativitas digital dan teknologi, dan kreativitas media; 2. pelaksanaan kebijakan teknis di bidang pengembangan strategis ekonomi kreatif, kreativitas budaya dan desain, kreativitas digital dan teknologi, dan kreativitas media; dan 3. koordinasi dan sinkronisasi pelaksanaan kebijakan teknis di bidang pengembangan strategis ekonomi kreatif, kreativitas budaya dan desain, kreativitas digital dan teknologi, dan kreativitas media.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 08 November 2024.\nPada saat Peraturan Presiden ini mulai berlaku:\n1. Peraturan Presiden Nomor 96 Tahun 2019 tentang Kementerian Pariwisata dan Ekonomi Kreatif (Lembaran Negara Republik Indonesia Tahun 2019 Nomor 269); dan\n2. Peraturan Presiden Nomor 97 Tahun 2019 tentang Badan Pariwisata dan Ekonomi Kreatif (Lembaran Negara Republik Indonesia Tahun 2019 Nomor 270), sepanjang berkaitan dengan tugas pemerintahan di bidang ekonomi kreatif dicabut dan dinyatakan tidak berlaku.\nLampiran file: 19 hlm",
+ "citations": [
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2024-140"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/367275/Perpres%20Nomor%20200%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:35Z"
+}

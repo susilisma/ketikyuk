@@ -1,0 +1,40 @@
+{
+ "id": "PP-2025-45",
+ "source": "bpk",
+ "bpk_id": 334445,
+ "url": "https://peraturan.bpk.go.id/Details/334445/pp-no-45-tahun-2025",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "45",
+ "number_raw": "45",
+ "year": 2025,
+ "title": "Peraturan Pemerintah (PP) Nomor 45 Tahun 2025 tentang Perubahan atas Peraturan Pemerintah Nomor 24 Tahun 2021 tentang Tata Cara Pengenaan Sanksi Administratif dan Tata Cara Penerimaan Negara Bukan Pajak yang Berasal dari Denda Administratif di Bidang Kehutanan",
+ "about": "Perubahan atas Peraturan Pemerintah Nomor 24 Tahun 2021 tentang Tata Cara Pengenaan Sanksi Administratif dan Tata Cara Penerimaan Negara Bukan Pajak yang Berasal dari Denda Administratif di Bidang Kehutanan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KEHUTANAN DAN PERKEBUNAN - PENGELOLAAN KEUANGAN NEGARA / DAERAH - PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-09-19",
+ "date_promulgated": "2025-09-19",
+ "date_effective": "2025-09-19",
+ "gazette": "LN 2025 (158), TLN (7141) : 19 hlm.; jdih.kehutanan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PP-2021-24",
+   "target_bpk_id": 161854,
+   "label": "PP No. 24 Tahun 2021",
+   "about": "Tata Cara Pengenaan Sanksi Administratif dan Tata Cara Penerimaan Negara Bukan Pajak yang Berasal dari Denda Administratif di Bidang Kehutanan"
+  }
+ ],
+ "abstract": "Untuk mengoptimalkan peran dan fungsi Hutan dalam mendukung keberlanjutan kebijakan pembangunan di bidang kehutanan dan menjaga fungsi ekologis hutan sebagai penyangga kehidupan, seluruh kegiatan usaha di dalam kawasan hutan wajib memiliki perizinan berusaha di bidang kehutanan, persetujuan, kerja sarna, atau kemitraan di bidang kehutanan dengan ancaman sanksi pidana bagi yang melakukan pelanggaran.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD NRI Tahun 1945; UU No. 18 Tahun 2013; dan PP No. 24 Tahun 2021.\nPP ini mengatur mengenai perubahan beberapa ketentuan dalam Peraturan Pemerintah Nomor 24 Tahun 2021 tentang Tata Cara Pengenaan Sanksi Administratif dan Tata Cara Penerimaan Negara Bukan Pajak yang Berasal dari Denda Administratif di Bidang Kehutanan (Lembaran Negara Republik Indonesia Tahun 2021 Nomor 34, Tambahan Lembaran Negara Republik Indonesia Nomor 6636).",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 19 September 2025.\nPP ini mengubah PP Nomor 24 Tahun 2021.\nLampiran file: 29 hlm (batang tubuh hlm 1 sd 19, penjelasan hlm 20 sd 27, dan lampiran hlm 28 sd 29)",
+ "citations": [
+  "UU-2013-18",
+  "PP-2021-24"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/397009/PP%20Nomor%2045%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:28:54Z"
+}

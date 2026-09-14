@@ -1,0 +1,51 @@
+{
+ "id": "PERMENAKER-2021-1",
+ "source": "bpk",
+ "bpk_id": 163416,
+ "url": "https://peraturan.bpk.go.id/Details/163416/permenaker-no-1-tahun-2021",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "1",
+ "number_raw": "1",
+ "year": 2021,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 1 Tahun 2021 tentang Organisasi dan Tata Kerja Kementerian Ketenagakerjaan",
+ "about": "Organisasi dan Tata Kerja Kementerian Ketenagakerjaan",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "",
+ "date_enacted": "2021-01-28",
+ "date_promulgated": "2021-02-04",
+ "date_effective": "2021-02-04",
+ "gazette": "BN.2021/No.108, jdih.kemnaker.go.id : 85 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENAKER-2024-20",
+   "target_bpk_id": 312750,
+   "label": "Permenaker No. 20 Tahun 2024",
+   "about": "Organisasi dan Tata Kerja Kementerian Ketenagakerjaan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENAKER-2019-12",
+   "target_bpk_id": 145268,
+   "label": "Permenaker No. 12 Tahun 2019",
+   "about": "Perubahan Kedua atas Peraturan Menteri Ketenagakerjaan Nomor 13 Tahun 2015 tentang Organisasi dan Tata Kerja Kementerian Ketenagakerjaan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENAKER-2015-13",
+   "target_bpk_id": 145985,
+   "label": "Permenaker No. 13 Tahun 2015",
+   "about": "Organisasi dan Tata Kerja Kementerian ketenagakerjaan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 04 Februari 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/156164/Permen_1_2021.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:41:18Z"
+}

@@ -1,0 +1,107 @@
+{
+ "id": "UU-1950-16",
+ "source": "bpk",
+ "bpk_id": 47963,
+ "url": "https://peraturan.bpk.go.id/Details/47963/uu-no-16-tahun-1950",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "16",
+ "number_raw": "16",
+ "year": 1950,
+ "title": "Undang-undang (UU) Nomor 16 Tahun 1950 tentang Pembentukan Daerah-Daerah Kota Besar Dalam Lingkungan Propinsi Jawa Timur, Jawa Tengah, Jawa Barat Dan Daerah Istimewa Yogyakarta",
+ "about": "Pembentukan Daerah-Daerah Kota Besar Dalam Lingkungan Propinsi Jawa Timur, Jawa Tengah, Jawa Barat Dan Daerah Istimewa Yogyakarta",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH",
+ "field": "",
+ "date_enacted": "1950-08-14",
+ "date_promulgated": "1950-08-14",
+ "date_effective": "1950-08-15",
+ "gazette": "LN. 1950 No.45/ bphn.go.id : 5 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-121",
+   "target_bpk_id": 307440,
+   "label": "UU No. 121 Tahun 2024",
+   "about": "Kota Yogyakarta di Daerah Istimewa Yogyakarta"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-108",
+   "target_bpk_id": 307400,
+   "label": "UU No. 108 Tahun 2024",
+   "about": "Kota Cirebon di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-104",
+   "target_bpk_id": 307392,
+   "label": "UU No. 104 Tahun 2024",
+   "about": "Kota Bandung di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-100",
+   "target_bpk_id": 307382,
+   "label": "UU No. 100 Tahun 2024",
+   "about": "Kota Bogor di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-121",
+   "target_bpk_id": 307440,
+   "label": "UU No. 121 Tahun 2024",
+   "about": "Kota Yogyakarta di Daerah Istimewa Yogyakarta"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-108",
+   "target_bpk_id": 307400,
+   "label": "UU No. 108 Tahun 2024",
+   "about": "Kota Cirebon di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-104",
+   "target_bpk_id": 307392,
+   "label": "UU No. 104 Tahun 2024",
+   "about": "Kota Bandung di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-100",
+   "target_bpk_id": 307382,
+   "label": "UU No. 100 Tahun 2024",
+   "about": "Kota Bogor di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-1954-13",
+   "target_bpk_id": 47958,
+   "label": "UU No. 13 Tahun 1954",
+   "about": "Pengubahan Undang-Undang Nr 16 dan 17 Tahun 1950 (Republik Indonesia Dahulu) Tentang Pembentukan Kota-Kota Besar dan Kota-Kota Kecil di Jawa"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1947-17",
+   "target_bpk_id": 25269,
+   "label": "UU No. 17 Tahun 1947",
+   "about": "Pembentukan Haminte-Kota Yogyakarta"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1947-16",
+   "target_bpk_id": 25473,
+   "label": "UU No. 16 Tahun 1947",
+   "about": "Pembentukan Haminte-Kota Surakarta"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 15 Agustus 1950.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/51785/UU%20Nomor%2016%20Tahun%201960.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:25:04Z"
+}

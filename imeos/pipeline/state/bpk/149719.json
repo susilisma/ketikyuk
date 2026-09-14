@@ -1,0 +1,58 @@
+{
+ "id": "PMK-2020-172",
+ "source": "bpk",
+ "bpk_id": 149719,
+ "url": "https://peraturan.bpk.go.id/Details/149719/pmk-no-172pmk062020",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "172",
+ "number_raw": "172/PMK.06/2020",
+ "year": 2020,
+ "title": "Peraturan Menteri Keuangan Nomor 172/PMK.06/2020 Tahun 2020 tentang Standar Barang dan Standar Kebutuhan Barang Milik Negara",
+ "about": "Standar Barang dan Standar Kebutuhan Barang Milik Negara",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PENGELOLAAN BARANG MILIK NEGARA / DAERAH - STANDAR / PEDOMAN",
+ "field": "",
+ "date_enacted": "2020-10-27",
+ "date_promulgated": "2020-10-27",
+ "date_effective": "2020-10-27",
+ "gazette": "BN.2020/NO.1242, https:jdih.kemenkeu.go.id : 9 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-138",
+   "target_bpk_id": 311681,
+   "label": "PMK No. 138 Tahun 2024",
+   "about": "Standar Barang dan Standar Kebutuhan Barang Milik Negara"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2016-7",
+   "target_bpk_id": 144767,
+   "label": "PMK No. 7/PMK.06/2016",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 248/PMK.06/2011 tentang Standar Barang dan Standar Kebutuhan Barang Milik Negara Berupa Tanah Dan/Atau Bangunan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2015-76",
+   "target_bpk_id": 146747,
+   "label": "PMK No. 76/PMK.06/2015",
+   "about": "Standar Barang dan Standar Kebutuhan Barang Milik Negara Berupa Alat Angkutan Darat Bermotor Dinas Operasional Jabatan di dalam Negeri"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2011-248",
+   "target_bpk_id": 127268,
+   "label": "PMK No. 248/PMK.06/2011",
+   "about": "Standar Barang Dan Standar Kebutuhan Barang Milik Negara Berupa Tanah Dan/Atau Bangunan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 27 Oktober 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/141799/172_PMK.06_2020.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:34:03Z"
+}

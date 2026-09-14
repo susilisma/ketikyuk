@@ -1,0 +1,100 @@
+{
+ "id": "PMK-2017-34",
+ "source": "bpk",
+ "bpk_id": 112623,
+ "url": "https://peraturan.bpk.go.id/Details/112623/pmk-no-34pmk0102017",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "34",
+ "number_raw": "34/PMK.010/2017",
+ "year": 2017,
+ "title": "Peraturan Menteri Keuangan Nomor 34/PMK.010/2017 Tahun 2017 tentang Pemungutan Pajak Penghasilan Pasal 22 Sehubungan Dengan Pembayaran Atas Penyerahan Barang Dan Kegiatan Di Bidang Impor Atau Kegiatan Usaha Di Bidang Lain",
+ "about": "Pemungutan Pajak Penghasilan Pasal 22 Sehubungan Dengan Pembayaran Atas Penyerahan Barang Dan Kegiatan Di Bidang Impor Atau Kegiatan Usaha Di Bidang Lain",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN - PERPAJAKAN",
+ "field": "",
+ "date_enacted": "2017-03-01",
+ "date_promulgated": "2017-03-01",
+ "date_effective": "2017-03-01",
+ "gazette": "BN.2017/NO.361, jdih.kemenkeu.go.id : 23 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-81",
+   "target_bpk_id": 306614,
+   "label": "PMK No. 81 Tahun 2024",
+   "about": "Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PMK-2023-48",
+   "target_bpk_id": 248649,
+   "label": "PMK No. 48 Tahun 2023",
+   "about": "Pajak Penghasilan dan/atau Pajak Pertambahan Nilai atas Penjualan/Penyerahan Emas Perhiasan, Emas Batangan, Perhiasan yang Bahan Seluruhnya Bukan dari Emas, Batu Permata dan/atau Batu Lainnya yang Sejenis, serta Jasa yang terkait dengan Emas Perhiasan, Emas Batangan, Perhiasan yang Bahan Seluruhnya Bukan dari Emas, dan/atau Batu Permata dan/atau Batu Lainnya yang Sejenis, yang Dilakukan oleh Pabrikan Emas Perhiasan, Pedagang Emas Perhiasan, dan/atau Pengusaha Emas Batangan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2022-41",
+   "target_bpk_id": 215271,
+   "label": "PMK No. 41/PMK.010/2022",
+   "about": "Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 34/PMK.010/2017 tentang Pemungutan Pajak Penghasilan Pasal 22 Sehubungan Dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2018-110",
+   "target_bpk_id": 113204,
+   "label": "PMK No. 110/PMK.010/2018",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 34/PMK.010/2017 tentang Pemungutan Pajak Penghasilan Pasal 22 Sehubungan dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2016-16",
+   "target_bpk_id": 144775,
+   "label": "PMK No. 16/PMK.010/2016",
+   "about": "Perubahan Kelima atas Peraturan Menteri Keuangan Nomor 154/PMK.03/2010 Tentang Pemungutan Pajak Penghasilan Pasal 22 Sehubungan dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2015-107",
+   "target_bpk_id": 115535,
+   "label": "PMK No. 107/PMK.010/2015",
+   "about": "Perubahan Keempat Atas Peraturan Menteri Keuangan Nomor 154/PMK.03/2010 Tentang Pemungutan Pajak Penghasilan Pasal 22 Sehubungan Dengan Pembayaran Atas Penyerahan Barang Dan Kegiatan Di Bidang Impor Atau Kegiatan Usaha Di Bidang Lain"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2013-175",
+   "target_bpk_id": 144777,
+   "label": "PMK No. 175/PMK.011/2013",
+   "about": "Perubahan Ketiga atas Peraturan Menteri Keuangan Nomor 154/PMK.03/2010 tentang Pemungutan Pajak Penghasilan Pasal 22 Sehubungan dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2013-146",
+   "target_bpk_id": 144776,
+   "label": "PMK No. 146/PMK.011/2013",
+   "about": "Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 154/PMK.03/2010 tentang Pemungutan Pajak Penghasilan Pasal 22 Sehubungan dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2012-224",
+   "target_bpk_id": 127008,
+   "label": "PMK No. 224/PMK.011/2012",
+   "about": "Perubahan Atas Peraturan Menteri Keuangan Nomor 154/PMK.03/2010 Tentang Pemungutan Pajak Penghasilan Pasal 22 Sehubungan Dengan Pembayaran Atas Penyerahan Barang Dan Kegiatan Di Bidang Impor Atau Kegiatan Usaha Di Bidang Lain"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2010-154",
+   "target_bpk_id": 120016,
+   "label": "PMK No. 154/PMK.03/2010",
+   "about": "Pemungutan Pajak Penghasilan Pasal 22 Sehubungan dengan Pembayaran Atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 01 Maret 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/103561/PMK%20Nomor%2034%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:35:05Z"
+}

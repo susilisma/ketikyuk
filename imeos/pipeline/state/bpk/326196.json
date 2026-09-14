@@ -1,0 +1,52 @@
+{
+ "id": "PMK-2025-46",
+ "source": "bpk",
+ "bpk_id": 326196,
+ "url": "https://peraturan.bpk.go.id/Details/326196/pmk-no-46-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "46",
+ "number_raw": "46",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 46 Tahun 2025 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 186/PMK.02/2020 tentang Tata Cara Pengesahan Laporan Pengelolaan Program dan Laporan Keuangan Tahunan Badan Penyelenggara Jaminan Sosial",
+ "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 186/PMK.02/2020 tentang Tata Cara Pengesahan Laporan Pengelolaan Program dan Laporan Keuangan Tahunan Badan Penyelenggara Jaminan Sosial",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PENGELOLAAN KEUANGAN NEGARA / DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-07-16",
+ "date_promulgated": "2025-07-24",
+ "date_effective": "2025-07-24",
+ "gazette": "BN.2025 (541/8 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PMK-2020-186",
+   "target_bpk_id": 155824,
+   "label": "PMK No. 186/PMK.02/2020",
+   "about": "Tata Cara Pengesahan Laporan Pengelolaan Program dan Laporan Keuangan Tahunan Badan Penyelenggara Jaminan Sosial"
+  }
+ ],
+ "abstract": "a. bahwa untuk memberikan pedoman dalam pelaksanaan\npengesahan laporan pengelolaan program dan laporan\nkeuangan tahunan serta rekomendasi besaran insentif,\nperlu dilakukan penyesuaian ketentuan pengesahan\nlaporan pengelolaan program dan laporan keuangan\ntahunan Badan Penyelenggara Jaminan Sosial;\nb. bahwa Peraturan Menteri Keuangan Nomor\n186/PMK.02/2020 tentang Tata Cara Pengesahan\nLaporan Pengelolaan Program dan Laporan Keuangan\nTahunan Badan Penyelenggara Jaminan Sosial belum\nmenyesuaikan format penilaian capaian kinerja Badan\nPenyelenggara Jaminan Sosial sehingga perlu dilakukan\nperubahan;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a dan huruf b, perlu menetapkan Peraturan\nMenteri Keuangan tentang Perubahan atas Peraturan\nMenteri Keuangan Nomor 186/PMK.02/2020 tentang Tata\nCara Pengesahan Laporan Pengelolaan Program dan\nLaporan Keuangan Tahunan Badan Penyelenggara\nJaminan Sosial;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 40 Tahun 2004, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 24 Tahun 2011, Peraturan Pemerintah Nomor 87 Tahun 2013, Peraturan Pemerintah Nomor 99 Tahun 2013, Peraturan Presiden Nomor 108 Tahun 2013, Peraturan Presiden Nomor 110 Tahun 2013, Peraturan Presiden Nomor 25 Tahun 2020, Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Menteri Keuangan Nomor 34/PMK.02/2015, Peraturan Menteri Keuangan Nomor 242/PMK.02/2016,Peraturan Menteri Keuangan Nomor 251/PMK.02/2016, Peraturan Menteri Keuangan Nomor 186/PMK.02/2020 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 186/PMK.02/2020 tentang Tata Cara Pengesahan Laporan\nPengelolaan Program dan Laporan Keuangan Tahunan Badan\nPenyelenggara Jaminan Sosial yaitu tentang ketentuan umum, rekomendasi besaran insentif dan lampiran",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 24 Juli 2025.\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 186/PMK.02/2020 tentang Tata Cara Pengesahan\nLaporan Pengelolaan Program dan Laporan Keuangan\nTahunan Badan Penyelenggara Jaminan Sosial",
+ "citations": [
+  "PMK-2020-186",
+  "UU-2004-40",
+  "UU-2008-39",
+  "UU-2011-24",
+  "PP-2013-87",
+  "PP-2013-99",
+  "PERPRES-2013-108",
+  "PERPRES-2013-110",
+  "PERPRES-2020-25",
+  "PERPRES-2024-158",
+  "PMK-2015-34",
+  "PMK-2016-242",
+  "PMK-2016-251",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/388004/46%20th%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:33:31Z"
+}

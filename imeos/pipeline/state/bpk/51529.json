@@ -1,0 +1,299 @@
+{
+ "id": "UU-1959-29",
+ "source": "bpk",
+ "bpk_id": 51529,
+ "url": "https://peraturan.bpk.go.id/Details/51529/uu-no-29-tahun-1959",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "29",
+ "number_raw": "29",
+ "year": 1959,
+ "title": "Undang-undang (UU) Nomor 29 Tahun 1959 tentang Pembentukan Daerah Tingkat II Di Sulawesi",
+ "about": "Pembentukan Daerah Tingkat II Di Sulawesi",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH",
+ "field": "",
+ "date_enacted": "1959-07-04",
+ "date_promulgated": "1959-07-04",
+ "date_effective": "1959-07-04",
+ "gazette": "LN. 1959 No. 74, TLN NO. 1822, LL SETNEG : 25 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-124",
+   "target_bpk_id": 307445,
+   "label": "UU No. 124 Tahun 2024",
+   "about": "Kabupaten Donggala di Provinsi Sulawesi Tengah"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2025-9",
+   "target_bpk_id": 331519,
+   "label": "UU No. 9 Tahun 2025",
+   "about": "Kabupaten Muna di Provinsi Sulawesi Tenggara"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2025-8",
+   "target_bpk_id": 331517,
+   "label": "UU No. 8 Tahun 2025",
+   "about": "Kabupaten Konawe di Provinsi Sulawesi Tenggara"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2025-7",
+   "target_bpk_id": 331516,
+   "label": "UU No. 7 Tahun 2025",
+   "about": "Kabupaten Kolaka di Provinsi Sulawesi Tenggara"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2025-6",
+   "target_bpk_id": 332357,
+   "label": "UU No. 6 Tahun 2025",
+   "about": "Kabupaten Buton di Provinsi Sulawesi Tenggara"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2025-5",
+   "target_bpk_id": 332356,
+   "label": "UU No. 5 Tahun 2025",
+   "about": "Kota Gorontalo di Provinsi Gorontalo"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2025-4",
+   "target_bpk_id": 332355,
+   "label": "UU No. 4 Tahun 2025",
+   "about": "Kabupaten Gorontalo di Provinsi Gorontalo"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2025-13",
+   "target_bpk_id": 331531,
+   "label": "UU No. 13 Tahun 2025",
+   "about": "Kota Manado di Provinsi Sulawesi Utara"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2025-12",
+   "target_bpk_id": 331528,
+   "label": "UU No. 12 Tahun 2025",
+   "about": "Kabupaten Minahasa di Provinsi Sulawesi Utara"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2025-11",
+   "target_bpk_id": 331524,
+   "label": "UU No. 11 Tahun 2025",
+   "about": "Kabupaten Kepulauan Sangihe di Provinsi Sulawesi Utara"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2025-10",
+   "target_bpk_id": 331520,
+   "label": "UU No. 10 Tahun 2025",
+   "about": "Kabupaten Bolaang Mongondow di Provinsi Sulawesi Utara"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-150",
+   "target_bpk_id": 307192,
+   "label": "UU No. 150 Tahun 2024",
+   "about": "Kabupaten Polewali Mandar di Provinsi Sulawesi Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-149",
+   "target_bpk_id": 307196,
+   "label": "UU No. 149 Tahun 2024",
+   "about": "Kabupaten Mamuju di Provinsi Sulawesi Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-148",
+   "target_bpk_id": 307267,
+   "label": "UU No. 148 Tahun 2024",
+   "about": "Kabupaten Majene di Provinsi Sulawesi Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-147",
+   "target_bpk_id": 307272,
+   "label": "UU No. 147 Tahun 2024",
+   "about": "Kabupaten Tana Toraja di Provinsi Sulawesi Selatan"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-146",
+   "target_bpk_id": 307284,
+   "label": "UU No. 146 Tahun 2024",
+   "about": "Kabupaten Luwu di Provinsi Sulawesi Selatan"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-145",
+   "target_bpk_id": 307290,
+   "label": "UU No. 145 Tahun 2024",
+   "about": "Kabupaten Enrekang di Provinsi Sulawesi Selatan"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-144",
+   "target_bpk_id": 307342,
+   "label": "UU No. 144 Tahun 2024",
+   "about": "Kabupaten Pinrang di Provinsi Sulawesi Selatan"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-143",
+   "target_bpk_id": 307345,
+   "label": "UU No. 143 Tahun 2024",
+   "about": "Kabupaten Sidenreng Rappang di Provinsi Sulawesi Selatan"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-142",
+   "target_bpk_id": 307346,
+   "label": "UU No. 142 Tahun 2024",
+   "about": "Kabupaten Wajo di Provinsi Sulawesi Selatan"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-141",
+   "target_bpk_id": 307350,
+   "label": "UU No. 141 Tahun 2024",
+   "about": "Kabupaten Bantaeng di Provinsi Sulawesi Selatan"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-140",
+   "target_bpk_id": 307351,
+   "label": "UU No. 140 Tahun 2024",
+   "about": "Kabupaten Kepulauan Selayar di Provinsi Sulawesi Selatan"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-139",
+   "target_bpk_id": 307356,
+   "label": "UU No. 139 Tahun 2024",
+   "about": "Kota Parepare di Provinsi Sulawesi Selatan"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-138",
+   "target_bpk_id": 307358,
+   "label": "UU No. 138 Tahun 2024",
+   "about": "Kabupaten Soppeng di Provinsi Sulawesi Selatan"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-137",
+   "target_bpk_id": 307359,
+   "label": "UU No. 137 Tahun 2024",
+   "about": "Kabupaten Barru di Provinsi Sulawesi Selatan"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-136",
+   "target_bpk_id": 307361,
+   "label": "UU No. 136 Tahun 2024",
+   "about": "Kabupaten Pangkajene dan Kepulauan di Provinsi Sulawesi Selatan"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-135",
+   "target_bpk_id": 307377,
+   "label": "UU No. 135 Tahun 2024",
+   "about": "Kabupaten Maros di Provinsi Sulawesi Selatan"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-134",
+   "target_bpk_id": 307375,
+   "label": "UU No. 134 Tahun 2024",
+   "about": "Kota Makassar di Provinsi Sulawesi Selatan"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-133",
+   "target_bpk_id": 307374,
+   "label": "UU No. 133 Tahun 2024",
+   "about": "Kabupaten Gowa di Provinsi Sulawesi Selatan"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-132",
+   "target_bpk_id": 307372,
+   "label": "UU No. 132 Tahun 2024",
+   "about": "Kabupaten Takalar di Provinsi Sulawesi Selatan"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-131",
+   "target_bpk_id": 307371,
+   "label": "UU No. 131 Tahun 2024",
+   "about": "Kabupaten Jeneponto di Provinsi Sulawesi Selatan"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-130",
+   "target_bpk_id": 307369,
+   "label": "UU No. 130 Tahun 2024",
+   "about": "Kabupaten Bone di Provinsi Sulawesi Selatan"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-129",
+   "target_bpk_id": 307433,
+   "label": "UU No. 129 Tahun 2024",
+   "about": "Kabupaten Bulukumba di Provinsi Sulawesi Selatan"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-128",
+   "target_bpk_id": 307431,
+   "label": "UU No. 128 Tahun 2024",
+   "about": "Kabupaten Sinjai di Provinsi Sulawesi Selatan"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-127",
+   "target_bpk_id": 307429,
+   "label": "UU No. 127 Tahun 2024",
+   "about": "Kabupaten Poso di Provinsi Sulawesi Tengah"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-126",
+   "target_bpk_id": 307426,
+   "label": "UU No. 126 Tahun 2024",
+   "about": "Kabupaten Banggai di Provinsi Sulawesi Tengah"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-125",
+   "target_bpk_id": 307393,
+   "label": "UU No. 125 Tahun 2024",
+   "about": "Kabupaten Toli-Toli di Provinsi Sulawesi Tengah"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-124",
+   "target_bpk_id": 307445,
+   "label": "UU No. 124 Tahun 2024",
+   "about": "Kabupaten Donggala di Provinsi Sulawesi Tengah"
+  }
+ ],
+ "abstract": "bahwa berhubung dengan berlakunya Undang-undang No. 1 tahun1957 tentang Pokok-pokok Pemerintahan Daerah untuk seluruhwilayah Republik Indonesia sejak tanggal 18 Januari 1957 perlusegera dilaksanakan pembentukan Daerah-daerah tingkat II atasdasar Undang-undang tersebut di Sulawesi;b.bahwa setelah mempelajari pendapat Panitia Negara untukpeninjauan pembagian wilayah Negara dalam daerah-daerahswatantra, termaksud dalam Keputusan Presiden No. 202 tahun 1956serta memperhatikan keinginan-keinginan rakyat di daerah yangbersangkutan, Pemerintah berpendapat sudah tiba saatnya untuksesuai dengan pasal 73 ayat (4) Undang-undang tersebut sub a di atas-melaksanakan pembentukan Daerah-daerah tingkat II dimaksud\npasal-pasal 89, 131, 132 dan 142 Undang-undang Dasar SementaraRepublik Indonesia;2.Undang-undangNo.1tahun1957tentangPokok-pokokPemerintahan Daerah (Lembaran-Negara tahun 1957 No. 6) sebagai-mana sejak itu telah diubah;\nA.1.Pada saat mulai berlakunya Undang-undang No. 1 tahun 1957 tentang Pokok-pokokPemerintahan Daerah yang berlaku untuk seluruh wilayah Republik Indonesia, makadidaerah Propinsi admistratip Sulawesi terdapat 20 Daerah-daerah yang berhakmengurus rumah-tangganya sendiri sebagai berikut :a.Daerah-daerah yang berasal dari bentukan Pemerintah Negara Indonesia Timurdahulu yaitu Daerah Sangihe-Talaud dan Minahasa dimaksud Undang-undangNegara Indonesia Timur No. 40 tahun 1950 dan Kota Makassar yang dibentukdengan peraturan dimaksud dalam Saatsblad 1947 No. 21 yo. PeraturanPresiden Negara Indonesia Timur 1949 No. 3;b.Daerah-daerah yang dibentuk setelah berdirinya Negara kesatuan PemerintahRepublik Indonesia Negara Kesatuan berdasarkan Undang-undang pokokNegaraIndonesiaTimurNo-44tahun1950,yaitu:Manado,Bolaang-Mongondow, Sulawesi-Utara, Donggala, Poso, Mandar, Pare-Pare,Bonthain, Makassar, Gowa, Jeneponto Takalar, Bone, Wajo, Soppeng, Luwu,Tana Toraja dan Sulawesi Tenggara.2.Daerah-daerah tersebut diatas menurut ketentuan dalam pasal 73 ayat (4)Undang-undang No. 1 tahun 1957 masih dapat berjalan terus sebagai daerah otonommenurut ketentuan-ketentuan dalam peraturan-perundangan yang berlaku baginyahingga Daerah itu dibentuk, diubah atau dihapuskan berdasarkan Undang-undangNo. 1 tahun 1957.\nDalam pelaksanaannya beberapa daripada 20 Daerah-daerah yang kini ada diSulawesi itu dibagi dalam beberapa Daerah Tingkat II baru, yaitu :1.Dari Daerah Sulawesi Utara dan Daerah Donggala dikeluarkan wilayahSwapraja-Swapraja Buol dan Toli-Toli, yang dibentuk menjadi Daerah TingkatII tersendiri;2.Dari Daerah Sulawesi Utara dikeluarkan pula sebagai wilayahnya yang dibentukmenjadi Kotapraja Gorontalo;3.Daerah Poso dibagi menjadi 2 Daerah Tingkat II;4.Pare-Pare dibagi menjadi 5 Daerah Tingkat II\n5.Mandar dibagi menjadi 3 Daerah Tingkat II;6.Sulawesi Tenggara dibagi menjadi 4 Daerah Tingkat II;7.Makassar dibagi menjadi 2 Daerah Tingkat II;8.Jeneponto-Takalar dibagi menjadi daerah Tingkat II;9.Bonthain dibagi menjadi 4 Daerah Tingkat II",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 04 Juli 1959.\n-\n-\n30",
+ "citations": [
+  "UU-1957-1",
+  "KEPPRES-1956-202"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/40808/UU%20Nomor%2029%20Tahun%201959.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:23:47Z"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "PP-2017-3",
+ "source": "bpk",
+ "bpk_id": 5823,
+ "url": "https://peraturan.bpk.go.id/Details/5823/pp-no-3-tahun-2017",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "3",
+ "number_raw": "3",
+ "year": 2017,
+ "title": "Peraturan Pemerintah (PP) Nomor 3 Tahun 2017 tentang Otoritas Veteriner",
+ "about": "Otoritas Veteriner",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KESEHATAN - PANGAN, PERTANIAN DAN PETERNAKAN",
+ "field": "",
+ "date_enacted": "2017-01-20",
+ "date_promulgated": "2017-01-20",
+ "date_effective": "2017-01-20",
+ "gazette": "LN. 2017 No. 20, TLN No. 6019, LL SETNEG : 49 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2024-34",
+   "target_bpk_id": 297167,
+   "label": "PP No. 34 Tahun 2024",
+   "about": "Perubahan atas Peraturan Pemerintah Nomor 3 Tahun 2017 tentang Otoritas Veteriner"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 20 Januari 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/40655/PP%203%20TAHUN%202017.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:30:14Z"
+}

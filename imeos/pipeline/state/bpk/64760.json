@@ -1,0 +1,37 @@
+{
+ "id": "PP-2017-52",
+ "source": "bpk",
+ "bpk_id": 64760,
+ "url": "https://peraturan.bpk.go.id/Details/64760/pp-no-52-tahun-2017",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "52",
+ "number_raw": "52",
+ "year": 2017,
+ "title": "Peraturan Pemerintah (PP) Nomor 52 Tahun 2017 tentang Peraturan Pelaksanaan Undang-Undang Nomor 20 Tahun 2013 tentang Pendidikan Kedokteran",
+ "about": "Peraturan Pelaksanaan Undang-Undang Nomor 20 Tahun 2013 tentang Pendidikan Kedokteran",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PENDIDIKAN - JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "",
+ "date_enacted": "2017-12-27",
+ "date_promulgated": "2017-12-28",
+ "date_effective": "2017-12-28",
+ "gazette": "LN.2017/NO. 303, TLN NO.6171, LL SETNEG : 27 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-28",
+   "target_bpk_id": 294077,
+   "label": "PP No. 28 Tahun 2024",
+   "about": "Peraturan Pelaksanaan Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 28 Desember 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/54976/PP%20Nomor%2052%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:30:43Z"
+}

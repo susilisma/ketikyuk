@@ -1,0 +1,44 @@
+{
+ "id": "PP-2015-55",
+ "source": "bpk",
+ "bpk_id": 5627,
+ "url": "https://peraturan.bpk.go.id/Details/5627/pp-no-55-tahun-2015",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "55",
+ "number_raw": "55",
+ "year": 2015,
+ "title": "Peraturan Pemerintah (PP) Nomor 55 Tahun 2015 tentang Perubahan atas Peraturan Pemerintah Nomor 99 Tahun 2013 Tentang Pengelolaan Aset Jaminan Sosial Ketenagakerjaan",
+ "about": "Perubahan atas Peraturan Pemerintah Nomor 99 Tahun 2013 Tentang Pengelolaan Aset Jaminan Sosial Ketenagakerjaan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KETENAGAKERJAAN",
+ "field": "",
+ "date_enacted": "2015-08-03",
+ "date_promulgated": "2015-08-04",
+ "date_effective": "2015-07-01",
+ "gazette": "LN. 2015 No. 179, TLN No. 5724, LL SETNEG : 26 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2026-27",
+   "target_bpk_id": 351383,
+   "label": "PP No. 27 Tahun 2026",
+   "about": "Perubahan Kedua atas Peraturan Pemerintah Nomor 99 Tahun 2013 tentang Pengelolaan Aset Jaminan Sosial Ketenagakerjaan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PP-2013-99",
+   "target_bpk_id": 5436,
+   "label": "PP No. 99 Tahun 2013",
+   "about": "Pengelolaan Aset Jaminan Sosial Ketenagakerjaan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 01 Juli 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/28983/PP%20Nomor%2055%20Tahun%202015.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:27:38Z"
+}

@@ -1,0 +1,131 @@
+{
+ "id": "PP-2021-23",
+ "source": "bpk",
+ "bpk_id": 161853,
+ "url": "https://peraturan.bpk.go.id/Details/161853/pp-no-23-tahun-2021",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "23",
+ "number_raw": "23",
+ "year": 2021,
+ "title": "Peraturan Pemerintah (PP) Nomor 23 Tahun 2021 tentang Penyelenggaraan Kehutanan",
+ "about": "Penyelenggaraan Kehutanan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KEHUTANAN DAN PERKEBUNAN - PENANAMAN MODAL DAN INVESTASI - PERIZINAN, PELAYANAN PUBLIK - CIPTA KERJA",
+ "field": "",
+ "date_enacted": "2021-02-02",
+ "date_promulgated": "2021-02-02",
+ "date_effective": "2021-02-02",
+ "gazette": "LN.2021/No.33, TLN No.6635, jdih.setkab.go.id : 177 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2026-8",
+   "target_bpk_id": 347927,
+   "label": "PP No. 8 Tahun 2026",
+   "about": "Perubahan atas Peraturan Pemerintah Nomor 23 Tahun 2021 tentang Penyelenggaraan Kehutanan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2015-105",
+   "target_bpk_id": 5684,
+   "label": "PP No. 105 Tahun 2015",
+   "about": "Perubahan Kedua Atas Peraturan Pemerintah Nomor 24 Tahun 2010 Tentang Penggunaan Kawasaan Hutan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2015-104",
+   "target_bpk_id": 5683,
+   "label": "PP No. 104 Tahun 2015",
+   "about": "Tata Cara Perubahan Peruntukan Dan Fungsi Kawasan Hutan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2012-61",
+   "target_bpk_id": 5274,
+   "label": "PP No. 61 Tahun 2012",
+   "about": "Perubahan Atas Peraturan Pemerintah Nomor 24 Tahun 2010 Tentang Penggunaan Kawasan Hutan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2010-24",
+   "target_bpk_id": 5032,
+   "label": "PP No. 24 Tahun 2010",
+   "about": "Penggunaan Kawasan Hutan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2008-3",
+   "target_bpk_id": 4815,
+   "label": "PP No. 3 Tahun 2008",
+   "about": "Perubahan Atas Peraturan Pemerintah Nomor 6 Tahun 2007 Tentang Tata Hutan Dan Penyusunan Rencana Pengelolaan Hutan Serta Pemanfaatan Hutan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2007-6",
+   "target_bpk_id": 4727,
+   "label": "PP No. 6 Tahun 2007",
+   "about": "Tata Hutan Dan Penyusunan Rencana Pengelolaan Hutan Serta Pemanfaatan Hutan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2007-58",
+   "target_bpk_id": 4781,
+   "label": "PP No. 58 Tahun 2007",
+   "about": "Perubahan Atas Peraturan Pemerintah Nomor 35 Tahun 2002 Tentang Dana Reboisasi"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2004-44",
+   "target_bpk_id": 66191,
+   "label": "PP No. 44 Tahun 2004",
+   "about": "Perencanaan Kehutanan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2002-35",
+   "target_bpk_id": 52443,
+   "label": "PP No. 35 Tahun 2002",
+   "about": "Dana Reboisasi"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-1998-51",
+   "target_bpk_id": 55116,
+   "label": "PP No. 51 Tahun 1998",
+   "about": "Provisi Sumber Daya Hutan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PP-2010-72",
+   "target_bpk_id": 5096,
+   "label": "PP No. 72 Tahun 2010",
+   "about": "Perusahaan Umum Perum Kehutanan Negara"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PP-2009-60",
+   "target_bpk_id": 4986,
+   "label": "PP No. 60 Tahun 2009",
+   "about": "Perubahan Atas Peraturan Pemerintah Nomor 45 Tahun 2004 Tentang Tata Cara Perlindungan Hutan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PP-2004-45",
+   "target_bpk_id": 66257,
+   "label": "PP No. 45 Tahun 2004",
+   "about": "Perlindungan Hutan"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 36 dan Pasal 185 huruf b Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja, perlu menetapkan Peraturan Pemerintah tentang Penyelenggaraan Kehutanan.\nDasar hukum PP ini adalah Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun1945; UU Nomor 41 Tahun 1999; dan UU Nomor 11 Tahun 2020.\nPP ini mengatur mengenai Perencanaan Kehutanan; Perubahan Peruntukan Kawasan Hutan dan Perubahan Fungsi Kawasan Hutan; Penggunaan Kawasan Hutan; Tata Hutan dan Penyusunan Rencana Pengelolaan Hutan serta Pemanfaatan Hutan; Pengelolaan Perhutanan Sosial; Perlindungan Hutan; Pengawasan; dan Sanksi Administratif.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 02 Februari 2021.\nPP ini mencabut PP Nomor 44 Tahun 2004; PP Nomor 104 Tahun 2015; PP Nomor 24 Tahun 2010; PP Nomor 6 Tahun 2007; PP Nomor 35 Tahun 2002; PP Nomor 51 Tahun 1998; Pasal 2, Pasal 3, Pasal 6, Pasal 7, Pasal 8, Pasal 10, Pasal 14, Pasal 19, Pasal 24, Pasal 26, Pasal 28, Pasal 29, Pasal 30, Pasal 34, Pasal 36, dan Pasal 41 PP\nNomor 45 Tahun 2004; dan Pasal 3 ayat (1), ayat (2), ayat (4), dan ayat (6) PP Nomor 72 Tahun 2010.\nPenjelasan 41 hlm.",
+ "citations": [
+  "UU-2020-11",
+  "UU-1999-41"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/154528/PP%20Nomor%2023%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:28:26Z"
+}

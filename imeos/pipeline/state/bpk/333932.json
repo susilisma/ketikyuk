@@ -1,0 +1,52 @@
+{
+ "id": "PMK-2025-76",
+ "source": "bpk",
+ "bpk_id": 333932,
+ "url": "https://peraturan.bpk.go.id/Details/333932/pmk-no-76-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "76",
+ "number_raw": "76",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 76 Tahun 2025 tentang Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 129/PMK.05/2020 tentang Pedoman Pengelolaan Badan Layanan Umum",
+ "about": "Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 129/PMK.05/2020 tentang Pedoman Pengelolaan Badan Layanan Umum",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BADAN LAYANAN UMUM - STANDAR / PEDOMAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-11-07",
+ "date_promulgated": "2025-11-19",
+ "date_effective": "2025-11-19",
+ "gazette": "BN.2025 (948/57 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PMK-2022-202",
+   "target_bpk_id": 234556,
+   "label": "PMK No. 202/PMK.05/2022",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 129/PMK.05/2020 tentang Pedoman Pengelolaan Badan Layanan Umum"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PMK-2020-129",
+   "target_bpk_id": 146690,
+   "label": "PMK No. 129/PMK.05/2020",
+   "about": "Pedoman Pengelolaan Badan Layanan Umum"
+  }
+ ],
+ "abstract": "a. bahwa untuk meningkatkan pelayanan kepada\nmasyarakat dan memberikan pedoman pengelolaan\nbadan layanan umum, perlu dilakukan penyesuaian\npengaturan pedoman pengelolaan badan layanan\numum;\nb. bahwa Peraturan Menteri Keuangan Nomor\n202/PMK.05/2022 tentang Perubahan atas Peraturan\nMenteri Keuangan Nomor 129/PMK.05/2020 tentang\nPedoman Pengelolaan Badan Layanan Umum belum\nmenyesuaikan pengaturan persyaratan, penetapan dan\npencabutan badan layanan umum, rencana strategis\nbisnis, pendapatan dan belanja, dewan pengawas, dan\nremunerasi serta hibah pada badan layanan umum,\nsehingga perlu dilakukan perubahan;\nc. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a dan huruf b, perlu\nmenetapkan Peraturan Menteri Keuangan tentang\nPerubahan Kedua atas Peraturan Menteri Keuangan\nNomor 129/PMK.05/2020 tentang Pedoman\nPengelolaan Badan Layanan Umum;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 1 Tahun 2004, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 23 Tahun 2005, Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Menteri Keuangan Nomor 129/PMK.05/2020 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturam ini mengubah beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 129/PMK.05/2020 tentang Pedoman Pengelolaan\nBadan Layanan Umum sebagaimana telah diubah dengan\nPeraturan Menteri Keuangan Nomor 202/PMK.05/2022\ntentang Perubahan atas Peraturan Menteri Keuangan Nomor\n129/PMK.05/2020 tentang Pedoman Pengelolaan Badan\nLayanan Umum yaitu tentang Pejabat Pembuat Komitmen BLU, pendapatan BLU, hibah BLU, Dewan Pengawas BLU, pengangkatan dan pemberhentian Dewan Pengawas BLU, persyaratan umum dan khusus Dewan Pengawas BLU, komite audit dan remunerasi BLU,",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 19 November 2025.\nPeraturan ini mengubah Ketentuan Lampiran I, Lampiran III, dan Lampiran IV\nPeraturan Menteri Keuangan Nomor 129/PMK.05/2020\ntentang Pedoman Pengelolaan Badan Layanan Umum\nsebagaimana telah diubah dengan Peraturan Menteri\nKeuangan Nomor 202/PMK.05/2022 tentang\nPerubahan atas Peraturan Menteri Keuangan Nomor\n129/PMK.05/2020 tentang Pedoman Pengelolaan\nBadan Layanan Umum.",
+ "citations": [
+  "PMK-2022-202",
+  "PMK-2020-129",
+  "UU-2004-1",
+  "UU-2008-39",
+  "PP-2005-23",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/396487/76%20th%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:32:38Z"
+}

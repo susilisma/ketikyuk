@@ -1,0 +1,51 @@
+{
+ "id": "UU-2017-6",
+ "source": "bpk",
+ "bpk_id": 37643,
+ "url": "https://peraturan.bpk.go.id/Details/37643/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "6",
+ "number_raw": "6",
+ "year": 2017,
+ "title": "Undang-undang (UU) Nomor 6 Tahun 2017 tentang Arsitek",
+ "about": "Arsitek",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KONSTRUKSI, SIPIL, ARSITEK, BANGUNAN, DAN INFRASTRUKTUR",
+ "field": "",
+ "date_enacted": "2017-08-08",
+ "date_promulgated": "2017-08-08",
+ "date_effective": "2017-08-08",
+ "gazette": "LL SETNEG : 21 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 234926,
+   "label": "PERPU No. 2 Tahun 2022",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  }
+ ],
+ "abstract": "bahwa arsitek dalam mengembangkan diri memerlukan pendidikan dan memperoleh manfaat dari ilmu pengetahuan dan teknologi serta seni dan budaya untuk meningkatkan kualitas hidupnya dalam rangka mewujudkan kesejahteraan rakyat\nsebagaimana diamanatkan dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, bahwa upaya memajukan arsitektur dilakukan melalui praktik arsitek yang andal dan profesional yang mampu meningkatkan nilai tambah, daya guna, dan hasil guna; memberikan pelindungan kepada masyarakat dan karya arsitektur Indonesia; serta mewujudkan pembangunan berkelanjutan yang berwawasan lingkungan,bahwa praktik arsitek memerlukan peningkata penguasaan dan pengembangan ilmu pengetahuan dan teknologi melalui pendidikan, pengembangan keprofesian berkelanjutan, riset, percepatan penarnbahan jumlah dan penyebaran arsitek, peningkatan minat pada pendidikan di bidang arsitektur, dan peningkatan mutu kar5za arsitektur untuk menghadapi tantangan global\nPasal 20, Pasal 21, dan Pasal 28C Undang-Undang Dasar\nNegara Republik Indonesia Tahun 1945\nmemberikan kepastian dan pelindungan hukum, baik kepada Arsitek maupun kepada Pengguna Jasa Arsitek, Praktik Arsitek, karya Arsitektur, dan masyarakat, perlu dibentuk suatu Undang-Undang tentang Arsitek. Penyelenggaraan Praktik Arsitek berasaskan profesionalitas, integritas, etika, keadilan, keselarasan, kemanfaatan, keamanan dan keselamatan, kelestarian, dan keberlanjutan",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 08 Agustus 2017.\n21 halaman, lampiran 16 halaman",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/26737/UU%20Nomor%206%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:27Z"
+}

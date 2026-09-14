@@ -1,0 +1,40 @@
+{
+ "id": "PP-2024-41",
+ "source": "bpk",
+ "bpk_id": 304105,
+ "url": "https://peraturan.bpk.go.id/Details/304105/pp-no-41-tahun-2024",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "41",
+ "number_raw": "41",
+ "year": 2024,
+ "title": "Peraturan Pemerintah (PP) Nomor 41 Tahun 2024 tentang Rencana Kerja dan Anggaran Otoritas Jasa Keuangan dan Pungutan di Sektor Jasa Keuangan",
+ "about": "Rencana Kerja dan Anggaran Otoritas Jasa Keuangan dan Pungutan di Sektor Jasa Keuangan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN - PROGRAM, RENCANA PEMBANGUNAN DAN RENCANA KERJA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-10-10",
+ "date_promulgated": "2024-10-10",
+ "date_effective": "2024-10-10",
+ "gazette": "LN 2024 (210) : 22 hlm., jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PP-2014-11",
+   "target_bpk_id": 5448,
+   "label": "PP No. 11 Tahun 2014",
+   "about": "Pungutan Oleh Otoritas Jasa Keuangan"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 36B dan Pasal 37 ayat (4) Undang-Undang Nomor 21 Tahun 2011 tentang Otoritas Jasa Keuangan sebagaimana telah diubah dengan Undang-Undang Nomor 4 Tahun 2023 tentang Pengembangan dan Penguatan Sektor Keuangan, perlu menetapkan Peraturan Pemerintah tentang Rencana Kerja dan Anggaran Otoritas Jasa Keuangan dan Pungutan di Sektor Jasa Keuangan.\nDasar hukum Perpres ini adalah Pasal 5 ayat (2) UUD NRI Tahun 1945 dan UU Nomor 21 Tahun 2011.\nPeraturan Presiden ini mengatur mengenai Rencana Kerja dan Anggaran Otoritas Jasa Keuangan (RKA) Otoritas Jasa Keuangan merupakan rencana keuangan tahunan Otoritas Jasa Keuangan yang disusun berdasarkan Peraturan Pemerintah ini dan Pungutan di sektor jasa keuangan yang merupakan sejumlah uang yang wajib dibayar oleh pihak. Ruang lingkup pengaturan dalam Peraturan Pemerintah ini meliputi: a. RKA Otoritas Jasa Keuangan; b. Pungutan dan penerimaan lainnya; c. Rupiah Murni; d. pelaksanaan anggaran; dan e. pelaporan dan pertanggungjawaban.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 10 Oktober 2024.\nTerhitung sejak tanggal 1 Januari 2025, Peraturan Pemerintah Nomor 11 Tahun 2014 tentang Pungutan oleh Otoritas Jasa Keuangan (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 33, Tambahan Lembaran Negara Republik Indonesia Nomor 5504), dicabut dan dinyatakan tidak berlaku.\nKetentuan mengenai Pungutan dan penerimaan lainnya dalam Peraturan Pemerintah ini mulai berjalan pada tanggal 1 Januari 2025.\nLampiran file: 50 hlm (batang tubuh hlm 1 sd 22, lampiran hlm 23 sd 50)",
+ "citations": [
+  "UU-2011-21",
+  "UU-2023-4"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/364110/PP%20Nomor%2041%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:29:54Z"
+}

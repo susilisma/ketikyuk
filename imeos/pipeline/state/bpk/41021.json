@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2016-117",
+ "source": "bpk",
+ "bpk_id": 41021,
+ "url": "https://peraturan.bpk.go.id/Details/41021/perpres-no-117-tahun-2016",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "117",
+ "number_raw": "117",
+ "year": 2016,
+ "title": "Peraturan Presiden (Perpres) Nomor 117 Tahun 2016 tentang Perubahan Atas Peraturan Presiden Nomor 6 Tahun 2012 Tentang Komite Koordinasi Nasional Pencegahan Dan Pemberantasan Tindak Pidana Pencucian Uang",
+ "about": "Perubahan Atas Peraturan Presiden Nomor 6 Tahun 2012 Tentang Komite Koordinasi Nasional Pencegahan Dan Pemberantasan Tindak Pidana Pencucian Uang",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA",
+ "field": "",
+ "date_enacted": "2016-12-30",
+ "date_promulgated": "2016-12-30",
+ "date_effective": "2016-12-30",
+ "gazette": "LN No. 343/2016",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2025-88",
+   "target_bpk_id": 327888,
+   "label": "Perpres No. 88 Tahun 2025",
+   "about": "Perubahan Kedua atas Peraturan Presiden Nomor 6 Tahun 2012 tentang Komite Koordinasi Nasional Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2012-6",
+   "target_bpk_id": 41249,
+   "label": "PERPRES No. 6 Tahun 2012",
+   "about": "Komite Koordinasi Nasional Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 30 Desember 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/33133/Perpres%20Nomor%20117%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:53Z"
+}

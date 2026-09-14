@@ -1,0 +1,47 @@
+{
+ "id": "PERMENAKER-2026-3",
+ "source": "bpk",
+ "bpk_id": 347418,
+ "url": "https://peraturan.bpk.go.id/Details/347418/permenaker-no-3-tahun-2026",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "3",
+ "number_raw": "3",
+ "year": 2026,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 3 Tahun 2026 tentang Tata Naskah Dinas Kementerian Ketenagakerjaan",
+ "about": "Tata Naskah Dinas Kementerian Ketenagakerjaan",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "PEDOMAN PENULISAN / TATA NASKAH DINAS",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-02-23",
+ "date_promulgated": "2026-02-26",
+ "date_effective": "2026-02-26",
+ "gazette": "BN 2026 (131); 239 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENAKER-2019-3",
+   "target_bpk_id": 163434,
+   "label": "Permenaker No. 3 Tahun 2019",
+   "about": "Tata Naskah Dinas di Kementerian Ketenagakerjaan"
+  }
+ ],
+ "abstract": "bahwa Peraturan Menteri Ketenagakerjaan Nomor 3\nTahun 2019 tentang Tata Naskah Dinas di Kementerian\nKetenagakerjaan sudah tidak sesuai dengan\nperkembangan hukum dan kebutuhan organisasi,\nsehingga perlu diganti\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD 1945; UU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024; UU Nomor 43 Tahun 2009; PP Nomor 28 Tahun 2012; Perpres Nomor 164 Tahun 2024; Permenaker Nomor 1 Tahun 2022 sebagaimana telah diubah dengan Permenaker Nomor 1 Tahun 2024; Permenaker Nomor 20 Tahun 2024.\nPeraturan ini mengatur mengenai tata naskah dinas yang meliputi:\na. jenis, susunan, dan bentuk Naskah Dinas;\nb. pembuatan Naskah Dinas;\nc. pengamanan Naskah Dinas;\nd. pejabat penanda tangan Naskah Dinas;\ne. pengendalian Naskah Dinas;\nf. legalisasi Naskah Dinas; dan\ng. penerapan SRIKANDI; jenis naskah dinas yang meliputi:\na. Naskah Dinas arahan;\nb. Naskah Dinas korespondensi; dan\nc. Naskah Dinas khusus.",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 26 Februari 2026.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan\nMenteri Ketenagakerjaan Nomor 3 Tahun 2019 tentang Tata\nNaskah Dinas di Kementerian Ketenagakerjaan (Berita\nNegara Republik Indonesia Tahun 2019 Nomor 345), dicabut\ndan dinyatakan tidak berlaku.",
+ "citations": [
+  "PERMENAKER-2019-3",
+  "UU-2008-39",
+  "UU-2024-61",
+  "UU-2009-43",
+  "PP-2012-28",
+  "PERPRES-2024-164",
+  "PERMENAKER-2022-1",
+  "PERMENAKER-2024-1",
+  "PERMENAKER-2024-20"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/410930/permenaker-no-3-tahun-2026.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:40:55Z"
+}

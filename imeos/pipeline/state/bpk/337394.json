@@ -1,0 +1,48 @@
+{
+ "id": "PERMENDAG-2025-42",
+ "source": "bpk",
+ "bpk_id": 337394,
+ "url": "https://peraturan.bpk.go.id/Details/337394/permendag-no-42-tahun-2025",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "42",
+ "number_raw": "42",
+ "year": 2025,
+ "title": "Peraturan Menteri Perdagangan Nomor 42 Tahun 2025 tentang Perubahan atas Peraturan Menteri Perdagangan Nomor 13 Tahun 2021 tentang Perwakilan Perdagangan di Luar Negeri",
+ "about": "Perubahan atas Peraturan Menteri Perdagangan Nomor 13 Tahun 2021 tentang Perwakilan Perdagangan di Luar Negeri",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-12-04",
+ "date_promulgated": "2025-12-15",
+ "date_effective": "2025-12-15",
+ "gazette": "BN.2025 (1057/5 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERMENDAG-2021-13",
+   "target_bpk_id": 166492,
+   "label": "Permendag No. 13 Tahun 2021",
+   "about": "Perwakilan Perdagangan Di Luar Negeri"
+  }
+ ],
+ "abstract": "a. bahwa untuk meningkatkan pembinaan sumber daya\nmanusia dan menyesuaikan kebutuhan hukum terkait\npenyelenggaraan perwakilan perdagangan di luar negeri,\nperlu mengubah Peraturan Menteri Perdagangan Nomor\n13 Tahun 2021 tentang Perwakilan Perdagangan di Luar\nNegeri;\nb. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a, perlu menetapkan Peraturan\nMenteri Perdagangan tentang Perubahan atas Peraturan\nMenteri Perdagangan Nomor 13 Tahun 2021 tentang\nPerwakilan Perdagangan di Luar Negeri\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 20 Tahun 2023, Peraturan Pemerintah Nomor 11 Tahun 2017, Keputusan Presiden Nomor 48 Tahun 1994, Keputusan Presiden Nomor 108 Tahun 2003, Peraturan Presiden Nomor 168 Tahun 2024, Peraturan Menteri Perdagangan Nomor\n08/M-DAG/PER/4/2011, Peraturan Menteri Luar Negeri Nomor 6 Tahun 2020, Peraturan Menteri Perdagangan Nomor 13 Tahun 2021 dan Peraturan Menteri Perdagangan Nomor 6 Tahun 2025\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri Perdagangan\nNomor 13 Tahun 2021 tentang Perwakilan Perdagangan di\nLuar Negeri yaitu tentang ketentuan umum, Perwakilan Perdagangan di Luar Negeri dan Keputusan penempatan calon Perwakilan\nPerdagangan di Luar Negeri",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 15 Desember 2025.\nPeraturan Menteri Perdagangan\nNomor 13 Tahun 2021 tentang Perwakilan Perdagangan di\nLuar Negeri diubah sebagian",
+ "citations": [
+  "PERMENDAG-2021-13",
+  "UU-2008-39",
+  "UU-2023-20",
+  "PP-2017-11",
+  "KEPPRES-1994-48",
+  "KEPPRES-2003-108",
+  "PERPRES-2024-168",
+  "PERMENDAG-2011-8",
+  "PERATURANMENTERI-2020-6",
+  "PERMENDAG-2025-6"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/400445/PERMENDAG%20NOMOR%2042%20TAHUN%202025%20(1).pdf"
+ ],
+ "fetched_at": "2026-09-14T06:36:39Z"
+}

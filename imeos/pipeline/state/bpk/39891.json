@@ -1,0 +1,51 @@
+{
+ "id": "PERPRES-2016-21",
+ "source": "bpk",
+ "bpk_id": 39891,
+ "url": "https://peraturan.bpk.go.id/Details/39891/perpres-no-21-tahun-2016",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "21",
+ "number_raw": "21",
+ "year": 2016,
+ "title": "Peraturan Presiden (Perpres) Nomor 21 Tahun 2016 tentang Bebas Visa Kunjungan",
+ "about": "Bebas Visa Kunjungan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KEWARGANEGARAAN DAN IMIGRASI - PARIWISATA DAN KEBUDAYAAN",
+ "field": "",
+ "date_enacted": "2016-03-02",
+ "date_promulgated": "2016-03-10",
+ "date_effective": "2016-03-10",
+ "gazette": "LN.2016/No. 44, LL SETNEG : 50 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-95",
+   "target_bpk_id": 297164,
+   "label": "Perpres No. 95 Tahun 2024",
+   "about": "Bebas Visa Kunjungan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2015-69",
+   "target_bpk_id": 41808,
+   "label": "PERPRES No. 69 Tahun 2015",
+   "about": "Bebas Visa Kunjungan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2015-104",
+   "target_bpk_id": 41853,
+   "label": "PERPRES No. 104 Tahun 2015",
+   "about": "Perubahan atas Peraturan Presiden Nomor 69 Tahun 2015 tentang Bebas Visa Kunjungan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 10 Maret 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/225902/Perpres%20Nomor%2021%20Tahun%202016-.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:30:05Z"
+}

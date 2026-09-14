@@ -1,0 +1,52 @@
+{
+ "id": "PERMENDAG-2025-43",
+ "source": "bpk",
+ "bpk_id": 337358,
+ "url": "https://peraturan.bpk.go.id/Details/337358/permendag-no-43-tahun-2025",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "43",
+ "number_raw": "43",
+ "year": 2025,
+ "title": "Peraturan Menteri Perdagangan Nomor 43 Tahun 2025 tentang Minyak Goreng Sawit Kemasan dan Tata Kelola Minyak Goreng Rakyat",
+ "about": "Minyak Goreng Sawit Kemasan dan Tata Kelola Minyak Goreng Rakyat",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PASAR MODAL DAN PERDAGANGAN BERJANGKA KOMODITI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-12-09",
+ "date_promulgated": "2025-12-12",
+ "date_effective": "2025-12-26",
+ "gazette": "BN.2025 (1047)/24 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENDAG-2026-20",
+   "target_bpk_id": 351721,
+   "label": "Permendag No. 20 Tahun 2026",
+   "about": "Perubahan atas Peraturan Menteri Perdagangan Nomor 43 Tahun 2025 tentang Minyak Goreng Sawit Kemasan dan Tata Kelola Minyak Goreng Rakyat"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2024-18",
+   "target_bpk_id": 296850,
+   "label": "Permendag No. 18 Tahun 2024",
+   "about": "Minyak Goreng Sawit Kemasan Dan Tata Kelola Minyak Goreng Rakyat"
+  }
+ ],
+ "abstract": "a. bahwa untuk memastikan keamanan, higienis, dan\nkualitas minyak goreng sawit sebagai salah satu barang\nkebutuhan pokok masyarakat untuk melindungi\nkonsumen serta efisiensi distribusi dalam tata kelola\nminyak goreng rakyat agar produk tersedia dalam jumlah\nyang memadai, kualitas yang terjaga, dan harga yang\nterjangkau, perlu mengatur kembali ketentuan mengenai\nminyak goreng sawit kemasan dan tata kelola minyak\ngoreng rakyat;\nb. bahwa Peraturan Menteri Perdagangan Nomor 18 Tahun\n2024 tentang Minyak Goreng Sawit Kemasan dan Tata\nKelola Minyak Goreng Rakyat sudah tidak sesuai dengan\nperkembangan hukum dan kebutuhan masyarakat,\nsehingga perlu diganti;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a dan huruf b, perlu menetapkan Peraturan\nMenteri Perdagangan tentang Minyak Goreng Sawit\nKemasan dan Tata Kelola Minyak Goreng Rakyat;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, ndang-Undang Nomor 18 Tahun 2012, Undang-Undang Nomor 7 Tahun 2014, Peraturan Presiden Nomor 168 Tahun 2024, Peraturan Menteri Perdagangan Nomor 23 Tahun 2023, Peraturan Menteri Perdagangan Nomor 26 Tahun 2024 dan Peraturan Menteri Perdagangan Nomor 6 Tahun 2025\nPeraturan ini mengatur tentang ketentuan umum, minyak goreng kemasan, tata kelola minyak goreng rakyat, pembinan dan pengawasan program minyak goreng rakyat, sanksi administratif, ketentuan peralihan dan ketentuan penutup",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 26 Desember 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan\nMenteri Perdagangan Nomor 18 Tahun 2024 tentang Minyak\nGoreng Kemasan dan Tata Kelola Program Minyak Goreng\nRakyat",
+ "citations": [
+  "PERMENDAG-2024-18",
+  "UU-2008-39",
+  "UU-2014-7",
+  "PERPRES-2024-168",
+  "PERMENDAG-2023-23",
+  "PERMENDAG-2024-26",
+  "PERMENDAG-2025-6"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/400407/PERMENDAG%20Nomor%2043%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:35:44Z"
+}

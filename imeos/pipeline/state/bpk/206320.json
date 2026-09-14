@@ -1,0 +1,37 @@
+{
+ "id": "PERMENPERIN-2021-18",
+ "source": "bpk",
+ "bpk_id": 206320,
+ "url": "https://peraturan.bpk.go.id/Details/206320/permenperin-no-18-tahun-2021",
+ "form": "PERMENPERIN",
+ "form_long": "Peraturan Menteri Perindustrian",
+ "number": "18",
+ "number_raw": "18",
+ "year": 2021,
+ "title": "Peraturan Menteri Perindustrian Nomor 18 Tahun 2021 tentang Program Restrukturisasi Mesin Dan/Atau Peralatan Pada Industri Penyempurnaan Kain Dan Industri Pencetakan Kain",
+ "about": "Program Restrukturisasi Mesin Dan/Atau Peralatan Pada Industri Penyempurnaan Kain Dan Industri Pencetakan Kain",
+ "issuer": "Kementerian Perindustrian",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN - PROGRAM, RENCANA PEMBANGUNAN DAN RENCANA KERJA - PERINDUSTRIAN",
+ "field": "",
+ "date_enacted": "2021-07-26",
+ "date_promulgated": "2021-07-30",
+ "date_effective": "2021-07-30",
+ "gazette": "BN 2021 NO ; 877 ; PERATURAN GO.ID; 78 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENPERIN-2024-20",
+   "target_bpk_id": 295418,
+   "label": "Permenperin No. 20 Tahun 2024",
+   "about": "Program Restrukturisasi Mesin Dan/Atau Peralatan Pada Industri Tekstil Dan Produk Tekstil"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perindustrian ini mulai berlaku pada tanggal 30 Juli 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/200347/Permenperin%20Nomor%2018%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:40:06Z"
+}

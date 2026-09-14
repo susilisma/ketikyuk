@@ -1,0 +1,170 @@
+{
+ "id": "UU-1956-12",
+ "source": "bpk",
+ "bpk_id": 51095,
+ "url": "https://peraturan.bpk.go.id/Details/51095/uu-no-12-tahun-1956",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "12",
+ "number_raw": "12",
+ "year": 1956,
+ "title": "Undang-undang (UU) Nomor 12 Tahun 1956 tentang Pembentukan Daerah Otonom Kabupaten Dalam Lingkungan Daerah Propinsi Sumatera Tengah",
+ "about": "Pembentukan Daerah Otonom Kabupaten Dalam Lingkungan Daerah Propinsi Sumatera Tengah",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH",
+ "field": "",
+ "date_enacted": "1956-03-19",
+ "date_promulgated": "1956-03-29",
+ "date_effective": "1956-03-29",
+ "gazette": "LN.1956/NO.25, LL SETNEG : 16 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-42",
+   "target_bpk_id": 295217,
+   "label": "UU No. 42 Tahun 2024",
+   "about": "Kabupaten Indragiri Hulu di Provinsi Riau"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-41",
+   "target_bpk_id": 295212,
+   "label": "UU No. 41 Tahun 2024",
+   "about": "Kabupaten Bengkalis di Provinsi Riau"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-37",
+   "target_bpk_id": 295177,
+   "label": "UU No. 37 Tahun 2024",
+   "about": "Kabupaten Batanghari di Provinsi Jambi"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-52",
+   "target_bpk_id": 295283,
+   "label": "UU No. 52 Tahun 2024",
+   "about": "Kabupaten Tanah Datar di Provinsi Sumatera Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-51",
+   "target_bpk_id": 295282,
+   "label": "UU No. 51 Tahun 2024",
+   "about": "Kabupaten Solok di Provinsi Sumatera Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-50",
+   "target_bpk_id": 295280,
+   "label": "UU No. 50 Tahun 2024",
+   "about": "Kabupaten Sijunjung di Provinsi Sumatera Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-49",
+   "target_bpk_id": 295278,
+   "label": "UU No. 49 Tahun 2024",
+   "about": "Kabupaten Pesisir Selatan di Provinsi Sumatera Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-48",
+   "target_bpk_id": 295276,
+   "label": "UU No. 48 Tahun 2024",
+   "about": "Kabupaten Pasaman di Provinsi Sumatera Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-47",
+   "target_bpk_id": 295275,
+   "label": "UU No. 47 Tahun 2024",
+   "about": "Kabupaten Padang Pariaman di Provinsi Sumatera Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-46",
+   "target_bpk_id": 295273,
+   "label": "UU No. 46 Tahun 2024",
+   "about": "Kabupaten Agam di Provinsi Sumatera Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-45",
+   "target_bpk_id": 295268,
+   "label": "UU No. 45 Tahun 2024",
+   "about": "Kabupaten Lima Puluh Kota di Provinsi Sumatera Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-43",
+   "target_bpk_id": 295264,
+   "label": "UU No. 43 Tahun 2024",
+   "about": "Kabupaten Kampar di Provinsi Riau"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-42",
+   "target_bpk_id": 295217,
+   "label": "UU No. 42 Tahun 2024",
+   "about": "Kabupaten Indragiri Hulu di Provinsi Riau"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-39",
+   "target_bpk_id": 295186,
+   "label": "UU No. 39 Tahun 2024",
+   "about": "Kabupaten Merangin di Provinsi Jambi"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-33",
+   "target_bpk_id": 295142,
+   "label": "UU No. 33 Tahun 2024",
+   "about": "Kabupaten Bintan di Provinsi Kepulauan Riau"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-1965-7",
+   "target_bpk_id": 49991,
+   "label": "UU No. 7 Tahun 1965",
+   "about": "Pembentukan Daerah Tingkat II Sarolangun-Bangko Dan Daerah Tingkat II Tanjung Jabung Dengan Mengubah Undang-Undang No. 12 tahun 1956 tentang Pembentukan Daerah Otonom Kabupaten Di Propinsi Sumatera Tengah"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-1965-6",
+   "target_bpk_id": 49986,
+   "label": "UU No. 6 Tahun 1965",
+   "about": "Pembentukan Daerah Tingkat II Inderagiri Hilir Dengan Mengubah Undang-Undang No. 12 Tahun 1956, Tentang Pembentukan Daerah Otonom Kabupaten Dalam Lingkungan Propinsi Sumatera Tengah"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-1958-61",
+   "target_bpk_id": 52323,
+   "label": "UU No. 61 Tahun 1958",
+   "about": "Penetapan \"Undang-Undang Darurat No. 19 Tahun 1957 Tentang Pembentukan Daerah-Daerah Swantantra Tingkat I Sumatera Barat, Jambi dan Riau\" (Lembaran-Negara Tahun 1957 No. 75), Sebagai Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-1958-58",
+   "target_bpk_id": 52282,
+   "label": "UU No. 58 Tahun 1958",
+   "about": "Penetapan \"Undang-Undang Darurat No. 21 Tahun 1957 Tentang Pengubahan Undang-Undang No. 12 Tahun 1956 Tentang Pembentukan Daerah Swatantra Tingkat II Dalam Lingkungan Daerah Swatantra Tingkat I Sumatera Tengah\" (Lembaran-Negara Tahun 1957 No. 77) Sebagai Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 51907,
+   "label": "UUDrt No. 21 Tahun 1957",
+   "about": "Perubahan Undang-Undang No. 12 Tahun 1956 tentang Pembentukan Daerah Otonom Kabupaten Dalam Lingkungan Daerah Propinsi Sumatera Tengah"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 29 Maret 1956.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/40346/UU%20Nomor%2012%20Tahun%201956.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:26:41Z"
+}

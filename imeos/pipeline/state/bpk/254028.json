@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2023-54",
+ "source": "bpk",
+ "bpk_id": 254028,
+ "url": "https://peraturan.bpk.go.id/Details/254028/pmk-no-54-tahun-2023",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "54",
+ "number_raw": "54",
+ "year": 2023,
+ "title": "Peraturan Menteri Keuangan Nomor 54 Tahun 2023 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Bersifat Volatil atas Pengelolaan Hotel Praktik Politeknik Pariwisata yang Berlaku pada Kementerian Pariwisata dan Ekonomi Kreatif/Badan Pariwisata dan Ekonomi Kreatif",
+ "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Bersifat Volatil atas Pengelolaan Hotel Praktik Politeknik Pariwisata yang Berlaku pada Kementerian Pariwisata dan Ekonomi Kreatif/Badan Pariwisata dan Ekonomi Kreatif",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
+ "field": "",
+ "date_enacted": "2023-05-11",
+ "date_promulgated": "2023-05-17",
+ "date_effective": "2023-06-16",
+ "gazette": "BN 2023 (392) : 7 Halaman, jdih.kemenkeu.go.id",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2026-62",
+   "target_bpk_id": 353751,
+   "label": "PMK No. 62 Tahun 2026",
+   "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Bersifat Volatil yang Berlaku pada Kementerian Pariwisata"
+  }
+ ],
+ "abstract": "Berdasarkan ketentuan Pasal 8 ayat (1) dan ayat (2) huruf a Peraturan Pemerintah Nomor 69 Tahun 2020 tentang Tata Cara Penetapan Tarif atas Jenis Penerimaan Negara Bukan Pajak, dalam hal tertentu tarif atas jenis Penerimaan Negara Bukan Pajak yang bersifat volatil dapat diatur dengan Peraturan Menteri Keuangan.\nDasar hukum PMK ini adalah Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 39 Tahun 2008; UU Nomor 9 Tahun 2018; PP Nomor 41 Tahun 2018; PP Nomor 69 Tahun 2020; Perpres Nomor 57 Tahun 2020; PMK Nomor 113/PMK.02/2021; dan PMK Nomor 118/PMK.01/2021.\nPMK ini mengatur mengenai Jenis Penerimaan Negara Bukan Pajak yang bersifat volatil berupa pengelolaan hotel praktik Politeknik Pariwisata pada Kementerian Pariwisata dan Ekonomi Kreatif/Badan Pariwisata dan Ekonomi Kreatif. Seluruh Penerimaan Negara Bukan Pajak yang berlaku pada Kementerian Pariwisata dan Ekonomi Kreatif/Badan Pariwisata dan Ekonomi Kreatif wajib disetor ke Kas Negara.",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 16 Juni 2023.\nLampiran file: 18 hlm.",
+ "citations": [
+  "PP-2020-69",
+  "UU-2008-39",
+  "UU-2018-9",
+  "PP-2018-41",
+  "PERPRES-2020-57",
+  "PMK-2021-113"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/310676/2023pmkeuangan054.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:30:17Z"
+}

@@ -1,0 +1,55 @@
+{
+ "id": "POJK-2025-39",
+ "source": "bpk",
+ "bpk_id": 347481,
+ "url": "https://peraturan.bpk.go.id/Details/347481/peraturan-ojk-no-39-tahun-2025",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "39",
+ "number_raw": "39",
+ "year": 2025,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 39 Tahun 2025 tentang Tata Cara Penagihan Sanksi Administratif Berupa Denda di Sektor Jasa Keuangan",
+ "about": "Tata Cara Penagihan Sanksi Administratif Berupa Denda di Sektor Jasa Keuangan",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-12-19",
+ "date_promulgated": "2025-12-22",
+ "date_effective": "2025-12-22",
+ "gazette": "BN.2025 (62/14 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 143052,
+   "label": "Peraturan OJK No. 36/POJK.02/2020 Tahun 2020",
+   "about": "Perubahan Ketiga atas Peraturan Otoritas Jasa Keuangan Nomor 4/POJK.04/2014 tentang Tata Cara Penagihan Sanksi Administratif Berupa Denda di Sektor Jasa Keuangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 128865,
+   "label": "Peraturan OJK No. 7/POJK.04/2015 Tahun 2015",
+   "about": "Perubahan atas Peraturan Otoritas Jasa Keuangan No. 4/POJK.04/2014 tentang Tata Cara Penagihan Sanksi Administratif Berupa Denda di Sektor Jasa Keuangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 129949,
+   "label": "Peraturan OJK No. 4/POJK.04/2014 Tahun 2014",
+   "about": "Tata Cara Penagihan Sanksi Administratif berupa Denda di Sektor Jasa Keuangan"
+  }
+ ],
+ "abstract": "bahwa untuk melaksanakan ketentuan Pasal 31 ayat (5) Peraturan Pemerintah Nomor 41 Tahun 2024 tentang Rencana Kerja dan Anggaran Otoritas Jasa Keuangan dan Pungutan di Sektor Jasa Keuangan dan Pasal 16 ayat (2) Peraturan Otoritas Jasa Keuangan Nomor 2 Tahun 2025 tentang Tata Cara Pelaksanaan Pungutan di Sektor Jasa Keuangan dan Penerimaan Lainnya, serta untuk memperkuat kewenangan Otoritas Jasa Keuangan dalam pelaksanaan pengelolaan penerimaan sanksi administratif berupa denda sebagai bagian dari penerimaan negara bukan pajak yang berasal dari penerimaan lainnya, perlu menetapkan Peraturan Otoritas Jasa Keuangan tentang Tata Cara Penagihan Sanksi Administratif Berupa Denda di Sektor Jasa Keuangan;\nUndang-Undang Nomor 21 Tahun 2011, Peraturan Pemerintah Nomor 41 Tahun 2024 dan Peraturan Otoritas Jasa Keuangan Nomor 2 Tahun 2025\nPeraturan ini mengatur tentang ketentuan umum, kewajiban pembayaran dan penagihan SABD, permohonan keberatan, pengembalian pembayaran dan pengurusan piutang macet, ketentuan lain-lain, ketentuan peralihan dan ketentuan penutup.",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 22 Desember 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas:\na. Angka 14 Peraturan Nomor XIV.B.2 yang merupakan Lampiran dari Keputusan Ketua Bapepam dan LK Nomor: KEP- 642/BL/2012 tanggal 5 Desember 2012 tentang Pengajuan Permohonan Keberatan atas Sanksi;\nb. Peraturan Otoritas Jasa Keuangan Nomor\n4/POJK.04/2014 tentang Tata Cara Penagihan Sanksi\nAdministratif Berupa Denda di Sektor Jasa Keuangan\nc. Peraturan Otoritas Jasa Keuangan Nomor\n7/POJK.04/2015 tentang Perubahan atas Peraturan Otoritas Jasa Keuangan Nomor 4/POJK.04/2014 tentang Tata Cara Penagihan Sanksi Administratif Berupa Denda di Sektor Jasa Keuangan\nd. Peraturan Otoritas Jasa Keuangan Nomor\n26/POJK.02/2018 tentang Perubahan Kedua atas\nPeraturan Otoritas Jasa Keuangan Nomor\n4/POJK.04/2014 tentang Tata Cara Penagihan Sanksi\nAdministratif Berupa Denda di Sektor Jasa Keuangan\ne. Peraturan Otoritas Jasa Keuangan Nomor\n36/POJK.02/2020 tentang Perubahan Ketiga atas\nPeraturan Otoritas Jasa Keuangan Nomor\n4/POJK.04/2014 tentang Tata Cara Penagihan Sanksi Administratif Berupa Denda di Sektor Jasa Keuangan; dan\nf. Pasal 115 ayat (9) Peraturan Otoritas Jasa Keuangan\nNomor 22 Tahun 2023 tentang Pelindungan\nKonsumen dan Masyarakat di Sektor Jasa Keuangan",
+ "citations": [
+  "PP-2024-41",
+  "POJK-2025-2",
+  "UU-2011-21"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/410993/POJK%2039%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:43:06Z"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "POJK-2017-14",
+ "source": "bpk",
+ "bpk_id": 129723,
+ "url": "https://peraturan.bpk.go.id/Details/129723/peraturan-ojk-no-14pojk032017-tahun-2017",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "14",
+ "number_raw": "14/POJK.03/2017",
+ "year": 2017,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 14/POJK.03/2017 Tahun 2017 tentang Rencana Aksi (Recovery Plan) bagi Bank Sistemik",
+ "about": "Rencana Aksi (Recovery Plan) bagi Bank Sistemik",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "",
+ "date_enacted": "2017-04-04",
+ "date_promulgated": "2017-04-07",
+ "date_effective": "2017-04-07",
+ "gazette": "LN.2017/NO.64, TLN NO.6038, Jdih.ojk.go.id: 37 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 301687,
+   "label": "Peraturan OJK No. 5 Tahun 2024",
+   "about": "Penetapan Status Pengawasan dan Penanganan Permasalahan Bank Umum"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 07 April 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/120627/SAL%20POJK%2014%20Recovery%20Plan.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:44:47Z"
+}

@@ -1,0 +1,74 @@
+{
+ "id": "KEPPRES-1999-101",
+ "source": "bpk",
+ "bpk_id": 58508,
+ "url": "https://peraturan.bpk.go.id/Details/58508/keppres-no-101-tahun-1999",
+ "form": "KEPPRES",
+ "form_long": "Keputusan Presiden (Keppres)",
+ "number": "101",
+ "number_raw": "101",
+ "year": 1999,
+ "title": "Keputusan Presiden (Keppres) Nomor 101 Tahun 1999 tentang Dewan Ketahanan Nasional dan Sekretariat Jenderal Dewan Ketahanan Nasional",
+ "about": "Dewan Ketahanan Nasional dan Sekretariat Jenderal Dewan Ketahanan Nasional",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA - PERTAHANAN DAN KEAMANAN, MILITER",
+ "field": "HUKUM TATA NEGARA",
+ "date_enacted": "1999-08-31",
+ "date_promulgated": null,
+ "date_effective": "1999-08-31",
+ "gazette": "LL : 27 hlm.; jdih.setkab.go.id",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-202",
+   "target_bpk_id": 310783,
+   "label": "Perpres No. 202 Tahun 2024",
+   "about": "Dewan Pertahanan Nasional"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 63781,
+   "label": "KEPPRES No. 52 Tahun 1991",
+   "about": "Perubahan Keputusan Presiden Nomor 31 Tahun 1975 Tentang Penyempurnaan Sekretariat Jenderal Dewan Pertahanan Keamanan Nasional Sebagaimana Telah Diubah Dengan Keputusan Presiden Nomor 73 Tahun 1984"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 63779,
+   "label": "KEPPRES No. 51 Tahun 1991",
+   "about": "Perubahan Keputusan Presiden Nomor 51 Tahun 1970 Tentang Dewan Pertahanan Kemanan Nasional"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 65465,
+   "label": "KEPPRES No. 73 Tahun 1984",
+   "about": "Perubahan Keputusan Presiden Nomor 31 Tahun 1975 Tentang Penyempurnaan Sekretariat Jenderal Dewan Pertahanan Keamanan Nasional"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 78537,
+   "label": "KEPPRES No. 31 Tahun 1975",
+   "about": "Penyempurnaan Sekretariat Jenderal Dewan Pertahanan Keamanan Nasional"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 77887,
+   "label": "KEPPRES No. 51 Tahun 1970",
+   "about": "Dewan Pertahanan - Keamanan Nasional"
+  }
+ ],
+ "abstract": "Dengan berubahanya Dewan Pertahanan Keamanan Nasional menjadi Dewan Ketahanan Nasional, dipandang perlu untuk menyesuaikan nomenklatur, tugas dan fungsi Sekretariat Jenderal Dewan Pertahanan Keamanan Nasional menjadi Sekretariat Jenderal Dewan Ketahanan Nasional.\nDasar hukum Keppres ini adalah Pasal 4 ayat (1) dan Pasal 10 UUD 1945; UU Nomor 20 Tahun 1982; dan Keppres Nomor 136 Tahun 1998.\nKeppres ini menetapkan Dewan Ketahanan Nasional dan Sekretariat Jenderal Dewan Ketahanan Nasional. Dewan Ketahanan Nasional yang selanjutnya dalam Keputusan Presiden ini disebut Wantannas, adalah lembaga pemerintah yang berkedudukan di bawah dan bertanggungjawab kepada Presiden.",
+ "note": "Keputusan Presiden (KEPPRES) ini mulai berlaku pada tanggal 31 Agustus 1999.\nDengan berlakunya Keputusan Presiden ini, maka Keputusan Presiden Nomor 51 Tahun 1970 tentang Dewan Pertahanan Keamanan Nasional sebagaimana telah diubah dengan Keputusan Presiden Nomor 51 Tahun 1991, dan Keputusan Presiden Nomor 31 Tahun 1975 tentang Penyempurnaan Sekretariat Jenderal Dewan Pertahanan Keamanan Nasional sebagaimana telah dua kali diubah, terakhir dengan Keputusan Presiden Nomor 52 Tahun 1991, dinyatakan tidak berlaku.\nLampiran file: 27 hlm.",
+ "citations": [
+  "UU-1982-20"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/341031/kp1011999.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:32Z"
+}

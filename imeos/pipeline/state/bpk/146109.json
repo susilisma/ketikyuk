@@ -1,0 +1,37 @@
+{
+ "id": "PERMENAKER-2016-9",
+ "source": "bpk",
+ "bpk_id": 146109,
+ "url": "https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "9",
+ "number_raw": "9",
+ "year": 2016,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 9 Tahun 2016 tentang Keselamatan dan Kesehatan Kerja dalam Pekerjaan pada Ketinggian",
+ "about": "Keselamatan dan Kesehatan Kerja dalam Pekerjaan pada Ketinggian",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "KESEHATAN - KETENAGAKERJAAN",
+ "field": "",
+ "date_enacted": "2016-03-10",
+ "date_promulgated": "2016-03-10",
+ "date_effective": "2016-03-10",
+ "gazette": "BN.2016/No.386, jdih.kemnaker.go.id : 28 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PERMENAKER-2026-11",
+   "target_bpk_id": 351282,
+   "label": "Permenaker No. 11 Tahun 2026",
+   "about": "Tata Cara Pengawasan Ketenagakerjaan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Ketenagakerjaan Republik Indonesia ini mulai berlaku pada tanggal 10 Maret 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/252144/Kemnaker%20No.%209%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:40:37Z"
+}

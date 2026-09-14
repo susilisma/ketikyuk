@@ -1,0 +1,49 @@
+{
+ "id": "PERPRES-2020-96",
+ "source": "bpk",
+ "bpk_id": 147521,
+ "url": "https://peraturan.bpk.go.id/Details/147521/perpres-no-96-tahun-2020",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "96",
+ "number_raw": "96",
+ "year": 2020,
+ "title": "Peraturan Presiden (Perpres) Nomor 96 Tahun 2020 tentang Kementerian Koperasi dan Usaha Kecil dan Menengah",
+ "about": "Kementerian Koperasi dan Usaha Kecil dan Menengah",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI - STRUKTUR ORGANISASI",
+ "field": "",
+ "date_enacted": "2020-09-23",
+ "date_promulgated": "2020-09-25",
+ "date_effective": "2020-09-25",
+ "gazette": "LN.2020/No.214, jdih.setneg.go.id : 18 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-196",
+   "target_bpk_id": 306943,
+   "label": "Perpres No. 196 Tahun 2024",
+   "about": "Kementerian Usaha Mikro, Kecil, dan Menengah"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2015-62",
+   "target_bpk_id": 41801,
+   "label": "PERPRES No. 62 Tahun 2015",
+   "about": "Kementerian Koperasi dan Usaha Kecil dan Menengah"
+  }
+ ],
+ "abstract": "Sebagai tindak lanjut ditetapkannya Pembentukan Kementerian dan Kabinet Indonesia Maju Periode Tahun 2019-2024 serta untuk melaksanakan ketentuan Pasal 11 UU Nomor 39 Tahun 2008 tentang Kementerian Negara, perlu menetapkan Peraturan Presiden tentang Kementerian Koperasi dan Usaha Kecil dan Menengah.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) dan Pasal 17 UUD 1945; UU Nomor 39 Tahun 2008; Perpres Nomor 60 Tahun 2012; Perpres Nomor 67 Tahun 2019; dan Perpres Nomor 68 Tahun 2019.\nPerpres ini mengatur mengenai penetapan Kementerian Koperasi dan Usaha Kecil dan Menengah yang berkedudukan di bawah dan bertanggung jawab kepada presiden. Kementerian Koperasi dan Usaha Kecil dan Menengah mempunyai tugas menyelenggarakan urusan pemerintahan di bidang koperasi dan usaha kecil dan menengah untuk membantu Presiden dalam menyelenggarakan pemerintahan negara.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 25 September 2020.",
+ "citations": [
+  "UU-2008-39",
+  "PERPRES-2012-60",
+  "PERPRES-2019-67",
+  "PERPRES-2019-68"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/139411/Perpres%20Nomor%2096%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:44Z"
+}

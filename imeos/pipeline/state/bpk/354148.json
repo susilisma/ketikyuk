@@ -1,0 +1,42 @@
+{
+ "id": "PERPRES-2026-46",
+ "source": "bpk",
+ "bpk_id": 354148,
+ "url": "https://peraturan.bpk.go.id/Details/354148/perpres-no-46-tahun-2026",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "46",
+ "number_raw": "46",
+ "year": 2026,
+ "title": "Peraturan Presiden (Perpres) Nomor 46 Tahun 2026 tentang Perubahan atas Peraturan Presiden Nomor 17 Tahun 2018 tentang Penyelenggaraan Penanggulangan Bencana dalam Keadaan Tertentu",
+ "about": "Perubahan atas Peraturan Presiden Nomor 17 Tahun 2018 tentang Penyelenggaraan Penanggulangan Bencana dalam Keadaan Tertentu",
+ "issuer": "Pemerintah Pusat",
+ "subject": "BANTUAN, SUMBANGAN, BENCANA / KEBENCANAAN, DAN PENANGGULANGAN BENCANA",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2026-07-16",
+ "date_promulgated": "2026-07-16",
+ "date_effective": "2026-07-16",
+ "gazette": "LN 2026 (83) : 4 hlm.; jdih.bnpb.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2018-17",
+   "target_bpk_id": 77911,
+   "label": "PERPRES No. 17 Tahun 2018",
+   "about": "Penyelenggaraan Penanggulangan Bencana Dalam Keadaan Tertentu"
+  }
+ ],
+ "abstract": "Ketentuan dalam Peraturan Presiden Nomor 17 Tahun 2018 tentang Penyelenggaraan Penanggulangan Bencana dalam Keadaan Tertentu belum komprehensif mengatur penanggulangan bencana pada kondisi yang wilayahnya terkena dampak konflik sosial sesuai dengan dinamika dan kebutuhan hukum masyarakat sehingga perlu diubah.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD 1945; UU No. 24 Tahun 2007; PP No. 21 Tahun 2008; PP No. 22 Tahun 2008; dan Perpres No. 17 Tahun 2018.\nPerpres ini mengubah ketentuan ayat (2) Pasal 3 Perpres No. 17 Tahun 2018. Dalam keadaan tertentu, Kepala Badan Nasional Penanggulangan Bencana dapat melaksanakan penyelenggaraan penanggulangan bencana, termasuk kemudahan akses dalam penanganan darurat bencana sampai batas waktu tertentu, setelah memperoleh keputusan dalam rapat koordinasi antarkementerian/lembaga. Penyelenggaraan tersebut dilakukan pada kondisi adanya potensi bencana dengan tingkat ancaman maksimum; telah terjadi evakuasi, penyelamatan, pengungsian, atau gangguan fungsi pelayanan umum yang berdampak luas; dan/atau pemerintah daerah berada dalam proses rekonsiliasi pascakonflik sosial serta memiliki kapasitas fiskal sangat rendah atau rendah. Ketentuan lebih lanjut mengenai kondisi dan tata cara pelaksanaannya diatur dalam pedoman yang ditetapkan oleh Kepala Badan Nasional Penanggulangan Bencana.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 16 Juli 2026.\nPerpres ini mengubah Perpres No. 17 Tahun 2018\nLampiran file: 4 hlm. (batang tubuh hlm. 1 s.d. 4).",
+ "citations": [
+  "PERPRES-2018-17",
+  "UU-2007-24",
+  "PP-2008-21",
+  "PP-2008-22"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/418099/Perpres%20No.%2046%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:31:12Z"
+}

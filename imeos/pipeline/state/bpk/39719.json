@@ -1,0 +1,37 @@
+{
+ "id": "UU-2008-39",
+ "source": "bpk",
+ "bpk_id": 39719,
+ "url": "https://peraturan.bpk.go.id/Details/39719/uu-no-39-tahun-2008",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "39",
+ "number_raw": "39",
+ "year": 2008,
+ "title": "Undang-undang (UU) Nomor 39 Tahun 2008 tentang Kementerian Negara",
+ "about": "Kementerian Negara",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "",
+ "date_enacted": "2008-11-06",
+ "date_promulgated": "2008-11-06",
+ "date_effective": "2008-11-06",
+ "gazette": "LN.2008/NO.166, TLN NO.4916, LL SETNEG : 12 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2024-61",
+   "target_bpk_id": 304396,
+   "label": "UU No. 61 Tahun 2024",
+   "about": "Perubahan atas Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara"
+  }
+ ],
+ "abstract": "Presiden sebagai pemegang kekuasaan pemerintahan menurut Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 dalam menjalankan tugasnya dibantu oleh menteri-menteri negara yang membidangi urusan tertentu di bidang pemerintahan. Setiap menteri memimpin kementerian negara untuk menyelenggarakan urusan tertentu dalam pemerintahan guna mencapai tujuan negara sebagaimana diamanatkan dalam Pembukaan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.\nPasal 4, Pasal 17, Pasal 20, dan Pasal 21 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945\nKementerian berkedudukan di Ibu Kota Negara Republik Indonesia dan berada di bawah dan bertanggung jawab\nkepada Presiden. Setiap Menteri membidangi urusan tertentu dalam pemerintahan, yang terdiri atas: a) urusan pemerintahan yang nomenklatur Kementeriannya secara tegas disebutkan dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; b) urusan pemerintahan yang ruang lingkupnya disebutkan dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; dan c) urusan pemerintahan dalam rangka penajaman, koordinasi, dan sinkronisasi program pemerintah.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 06 November 2008.\nTelah dilakukan uji materiil oleh MK dengan nomor 78/PUU-IX/2011\nPenjelasan : 6 hlm.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/29301/UU%20Nomor%2039%20Tahun%202008.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:26:27Z"
+}

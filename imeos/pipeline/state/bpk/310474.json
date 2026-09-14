@@ -1,0 +1,40 @@
+{
+ "id": "PERPRES-2024-204",
+ "source": "bpk",
+ "bpk_id": 310474,
+ "url": "https://peraturan.bpk.go.id/Details/310474/perpres-no-204-tahun-2024",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "204",
+ "number_raw": "204",
+ "year": 2024,
+ "title": "Peraturan Presiden (Perpres) Nomor 204 Tahun 2024 tentang Tunjangan Kinerja Pegawai di Lingkungan Badan Nasional Penanggulangan Bencana",
+ "about": "Tunjangan Kinerja Pegawai di Lingkungan Badan Nasional Penanggulangan Bencana",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-12-16",
+ "date_promulgated": "2024-12-16",
+ "date_effective": "2024-12-16",
+ "gazette": "LN 2024 (402) : 6 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2020-4",
+   "target_bpk_id": 131355,
+   "label": "PERPRES No. 4 Tahun 2020",
+   "about": "Tunjangan Kinerja Pegawai di Lingkungan Badan Nasional Penanggulangan Bencana"
+  }
+ ],
+ "abstract": "Sesuai dengan capaian hasil pelaksanaan reformasi birokrasi, Badan Nasional Penanggulangan Bencana telah memenuhi kriteria untuk diberikan penyesuaian tunjangan kinerja.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD 1945; UU Nomor 20 Tahun 2023; dan Perpres Nomor 1 Tahun 2019.\nPerpres ini mengatur mengenai tunjangan kinerja pegawai di lingkungan Badan Nasional Penanggulangan Bencana yang diberikan setiap bulan. Pemberian tunjangan kinerja bagi Pegawai di Lingkungan Badan Nasional Penanggulangan Bencana mempertimbangkan capaian kinerja pegawai sesuai dengan ketentuan peraturan perundang-undangan.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 16 Desember 2024.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 4 Tahun 2020 tentang Tunjangan Kinerja Pegawai di Lingkungan Badan Nasional Penanggulangan Bencana (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 12), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 7 hlm. (batang tubuh hlm 1 s.d. 6 dan lampiran hlm 7)",
+ "citations": [
+  "UU-2023-20",
+  "PERPRES-2019-1"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/371130/Perpres%20Nomor%20204%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:26Z"
+}

@@ -1,0 +1,47 @@
+{
+ "id": "PMK-2025-43",
+ "source": "bpk",
+ "bpk_id": 322303,
+ "url": "https://peraturan.bpk.go.id/Details/322303/pmk-no-43-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "43",
+ "number_raw": "43",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 43 Tahun 2025 tentang Pengasuransian Barang Milik Negara",
+ "about": "Pengasuransian Barang Milik Negara",
+ "issuer": "Kementerian Keuangan",
+ "subject": "ASURANSI - PENGELOLAAN BARANG MILIK NEGARA / DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-07-07",
+ "date_promulgated": "2025-07-14",
+ "date_effective": "2025-07-14",
+ "gazette": "BN.2025 (488)/26 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2019-97",
+   "target_bpk_id": 128100,
+   "label": "PMK No. 97/PMK.06/2019",
+   "about": "Pengasuransian Barang Milik Negara"
+  }
+ ],
+ "abstract": "a. bahwa untuk melaksanakan ketentuan Pasal 45 ayat (3)\nPeraturan Pemerintah Nomor 27 Tahun 2014 tentang\nPengelolaan Barang Milik Negara/Daerah sebagaimana\ntelah diubah dengan Peraturan Pemerintah Nomor 28\nTahun 2020 tentang Perubahan atas Peraturan\nPemerintah Nomor 27 Tahun 2014 tentang Pengelolaan\nBarang Milik Negara/Daerah, telah ditetapkan\nPeraturan Menteri Keuangan Nomor 97/PMK.06/2019\ntentang Pengasuransian Barang Milik Negara;\nb. bahwa untuk menyesuaikan dengan perkembangan\nprogram pengasuransian Barang Milik Negara dan\nmenyelaraskan dengan kebijakan dana bersama\npenanggulangan bencana, Peraturan Menteri Keuangan\nNomor 97/PMK.06/2019 tentang Pengasuransian\nBarang Milik Negara perlu diganti;\nc. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a dan huruf b, perlu menetapkan\nPeraturan Menteri Keuangan tentang Pengasuransian\nBarang Milik Negara;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 1 Tahun 2004, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 40 Tahun 2014, Peraturan Pemerintah Nomor 27 Tahun 2014, Peraturan Presiden Nomor 75 Tahun 2021, Peraturan Presiden Nomor 158 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengatur tentang ketentuan umum, kewenangan dan tanggung jawab, pengamanan dan pemeliharaan, penatausahaan, pelaporan dan penghapusan, penyelesaian perselisihan dan ketentuan penutup.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 14 Juli 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan Menteri Keuangan Nomor 97/PMK.06/2019 tentang Pengasuransian Barang Milik Negara",
+ "citations": [
+  "PP-2014-27",
+  "PP-2020-28",
+  "PMK-2019-97",
+  "UU-2004-1",
+  "UU-2008-39",
+  "UU-2014-40",
+  "PERPRES-2021-75",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/384097/PMK%20Nomor%2043%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:33:37Z"
+}

@@ -1,0 +1,47 @@
+{
+ "id": "PP-2024-31",
+ "source": "bpk",
+ "bpk_id": 296643,
+ "url": "https://peraturan.bpk.go.id/Details/296643/pp-no-31-tahun-2024",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "31",
+ "number_raw": "31",
+ "year": 2024,
+ "title": "Peraturan Pemerintah (PP) Nomor 31 Tahun 2024 tentang Perguruan Tinggi Negeri Badan Hukum Universitas Negeri Jakarta",
+ "about": "Perguruan Tinggi Negeri Badan Hukum Universitas Negeri Jakarta",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PENDIDIKAN",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2024-08-14",
+ "date_promulgated": "2024-08-14",
+ "date_effective": "2024-08-14",
+ "gazette": "LN 2024 (168), TLN (6982): 45 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 140533,
+   "label": "Permen Ristekdikti No. 42 Tahun 2018",
+   "about": "Statuta Universitas Negeri Jakarta"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 141282,
+   "label": "Permen Ristekdikti No. 44 Tahun 2016",
+   "about": "Organisasi Dan Tata Kerja Universitas Negeri Jakarta"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 66 ayat (2) Undang-Undang Nomor 12 Tahun 2012 tentang Pendidikan Tinggi dan untuk melaksanakan ketentuan Pasal 27 ayat (4) Peraturan Pemerintah Nomor 4 Tahun 2014 tentang Penyelenggaraan Pendidikan Tinggi dan Pengelolaan Perguruan Tinggi, perlu menetapkan Peraturan Pemerintah tentang Perguruan Tinggi Negeri Badan Hukum Universitas Negeri Jakarta.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945; UU Nomor 12 Tahun 2012; dan PP Nomor 4 Tahun 2014.\nPP ini mengatur mengenai perguruan tinggi negeri badan hukum Universitas Negeri Jakarta (UNJ) dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. UNJ ditetapkan sebagai perguruan tinggi negeri badan hukum yang mengelola bidang akademik dan nonakademik secara otonom. UNJ dalam rangka mengelola bidang akademik dan nonakademik secara otonom berpedoman pada Statuta UNJ. Pemerintah Pusat menyediakan dana untuk penyelenggaraan tridharma perguruan tinggi yang diselenggarakan oleh UNJ yang dialokasikan dalam anggaran pendapatan dan belanja negara sesuai dengan ketentuan peraturan perundang-undangan.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 14 Agustus 2024.\nPP ini mencabut Permen Riset Dikti Nomor 44 Tahun 2016 dan Permen Riset Dikti Nomor 42 Tahun 2018.\nLampiran file: 64 hlm.",
+ "citations": [
+  "UU-2012-12",
+  "PP-2014-4"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/356068/PP%20Nomor%2031%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:30:21Z"
+}

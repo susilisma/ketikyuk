@@ -1,0 +1,44 @@
+{
+ "id": "UU-1965-7",
+ "source": "bpk",
+ "bpk_id": 49991,
+ "url": "https://peraturan.bpk.go.id/Details/49991/uu-no-7-tahun-1965",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "7",
+ "number_raw": "7",
+ "year": 1965,
+ "title": "Undang-undang (UU) Nomor 7 Tahun 1965 tentang Pembentukan Daerah Tingkat II Sarolangun-Bangko Dan Daerah Tingkat II Tanjung Jabung Dengan Mengubah Undang-Undang No. 12 tahun 1956 tentang Pembentukan Daerah Otonom Kabupaten Di Propinsi Sumatera Tengah",
+ "about": "Pembentukan Daerah Tingkat II Sarolangun-Bangko Dan Daerah Tingkat II Tanjung Jabung Dengan Mengubah Undang-Undang No. 12 tahun 1956 tentang Pembentukan Daerah Otonom Kabupaten Di Propinsi Sumatera Tengah",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH",
+ "field": "",
+ "date_enacted": "1965-06-14",
+ "date_promulgated": "1965-06-14",
+ "date_effective": "1965-06-14",
+ "gazette": "LN. 1965/ No. 50 , TLN NO. 2755, LL SETNEG : 9 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-39",
+   "target_bpk_id": 295186,
+   "label": "UU No. 39 Tahun 2024",
+   "about": "Kabupaten Merangin di Provinsi Jambi"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1956-12",
+   "target_bpk_id": 51095,
+   "label": "UU No. 12 Tahun 1956",
+   "about": "Pembentukan Daerah Otonom Kabupaten Dalam Lingkungan Daerah Propinsi Sumatera Tengah"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 14 Juni 1965.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/39269/UU%20Nomor%207%20Tahun%201965.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:26:58Z"
+}

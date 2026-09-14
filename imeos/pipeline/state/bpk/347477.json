@@ -1,0 +1,34 @@
+{
+ "id": "POJK-2025-34",
+ "source": "bpk",
+ "bpk_id": 347477,
+ "url": "https://peraturan.bpk.go.id/Details/347477/peraturan-ojk-no-34-tahun-2025",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "34",
+ "number_raw": "34",
+ "year": 2025,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 34 Tahun 2025 tentang Penyelenggaraan Teknologi iIformasi oleh Bank Perekonomian Rakyat dan Bank Perekonomian Rakyat Syariah",
+ "about": "Penyelenggaraan Teknologi iIformasi oleh Bank Perekonomian Rakyat dan Bank Perekonomian Rakyat Syariah",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "ILMU PENGETAHUAN DAN TEKNOLOGI - PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-12-16",
+ "date_promulgated": "2025-12-17",
+ "date_effective": "2026-12-17",
+ "gazette": "BN.2025 (46)/35 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [],
+ "abstract": "a. bahwa untuk mendukung proses bisnis dalam melakukan aktivitas operasional guna meningkatkan layanan perbankan kepada masyarakat, diperlukan peningkatan pemanfaatan teknologi informasi oleh bank perekonomian rakyat dan bank perekonomian rakyat syariah;\nb. bahwa untuk mengurangi potensi risiko terkait\npemanfaatan teknologi informasi, diperlukan penguatan pengaturan aspek tata kelola, manajemen risiko, serta ketahanan dan keamanan siber dalam penyelenggaraan teknologi informasi sehingga Peraturan Otoritas Jasa Keuangan Nomor\n75/POJK.03/2016 tentang Standar Penyelenggaraan\nTeknologi Informasi bagi Bank Perkreditan Rakyat dan\nBank Pembiayaan Rakyat Syariah perlu diganti;\nc. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Otoritas Jasa Keuangan tentang Penyelenggaraan Teknologi Informasi oleh Bank Perekonomian Rakyat dan Bank Perekonomian Rakyat Syariah;\nUndang-Undang Nomor 7 Tahun 1992, Undang-Undang Nomor 21 Tahun 2008 dan Undang-Undang Nomor 21 Tahun 2011\nPeraturan ini mengatur tentang ketentuan umum, tata kelola TI BPR dan BPR Syariah, arsitektur TI BPR dan BPR syariah, penerapan manajemen risiko penyelenggaraan TI BPR dan BPR Syariah, ketahanan dan kemanan siber, penggunaan pihak penyedia jasa TI dalam penyelenggaraan TI BPR dan BPR syariah, aplikasi inti perbankan dan penempatan sistem elektronik, pengelolaann data dan pelindungan data pribadi dalam penyelenggaraan TI BPR dan BPR Syariah, pengendalian dan audit intern BPR dan BPR Syariah dalam penyelenggaraan TI BPR dan BPR Syariah, pelaporan, ketentuan peralihan dan ketentuan penutup.",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 17 Desember 2026.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan Otoritas Jasa Keuangan Nomor 75/POJK.03/2016 tentang Standar Penyelenggaraan Teknologi Informasi bagi Bank Perkreditan Rakyat dan Bank Pembiayaan Rakyat Syariah",
+ "citations": [
+  "POJK-2016-75",
+  "UU-1992-7",
+  "UU-2008-21",
+  "UU-2011-21"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/410989/POJK%2034%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:43:14Z"
+}

@@ -1,0 +1,59 @@
+{
+ "id": "UU-2007-27",
+ "source": "bpk",
+ "bpk_id": 39911,
+ "url": "https://peraturan.bpk.go.id/Details/39911/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "27",
+ "number_raw": "27",
+ "year": 2007,
+ "title": "Undang-undang (UU) Nomor 27 Tahun 2007 tentang Pengelolaan Wilayah Pesisir dan Pulau-Pulau Kecil",
+ "about": "Pengelolaan Wilayah Pesisir dan Pulau-Pulau Kecil",
+ "issuer": "Pemerintah Pusat",
+ "subject": "AGRARIA, PERTANAHAN, TATA RUANG - TERITORIAL INDONESIA",
+ "field": "",
+ "date_enacted": "2007-07-17",
+ "date_promulgated": "2007-07-17",
+ "date_effective": "2007-07-17",
+ "gazette": "LN.2007/NO.84, TLN NO.4739, LL SETNEG : 43 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 234926,
+   "label": "PERPU No. 2 Tahun 2022",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2014-1",
+   "target_bpk_id": 38521,
+   "label": "UU No. 1 Tahun 2014",
+   "about": "Perubahan atas Undang-Undang Nomor 27 Tahun 2007 Tentang Pengelolaan Wilayah Pesisir dan Pulau-Pulau Kecil"
+  }
+ ],
+ "abstract": "Wilayah Pesisir dan Pulau-Pulau Kecil merupakan bagian dari sumber daya alam yang dianugerahkan oleh Tuhan Yang Maha Esa dan merupakan kekayaan yang dikuasai oleh negara, yang perlu dijaga kelestariannya dan dimanfaatkan untuk sebesar-besar kemakmuran rakyat, baik bagi generasi sekarang maupun bagi generasi yang akan datang. Wilayah Pesisir dan Pulau-Pulau Kecil memiliki keragaman potensi Sumber Daya Alam yang tinggi, dan sangat penting bagi pengembangan sosial, ekonomi, budaya, lingkungan, dan penyangga kedaulatan bangsa, oleh karena itu perlu dikelola secara berkelanjutan dan berwawasaan global, dengan memperhatikan aspirasi dan partisipasi masyarakat, dan tata nilai bangsa yang berdasarkan norma hukum nasional.\ndasar hukum UU ini adalah Pasal 20, Pasal 21, Pasal 25A, dan Pasal 33 ayat (3), dan ayat (4) Undang-Undang Dasar Negara Republik Indonesia Tahun\n1945.\nRuang lingkup pengaturan Wilayah Pesisir dan Pulau-Pulau Kecil meliputi daerah peralihan antara Ekosistem darat dan\nlaut yang dipengaruhi oleh perubahan di darat dan laut, ke arah darat mencakup wilayah administrasi kecamatan dan ke\narah laut sejauh 12 (dua belas) mil laut diukur dari garis pantai.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 17 Juli 2007.\nUU ini telah dilakukan uji materil oleh MK dengan nomor putusan 3/PUU-VIII/2010.\nPenjelasan : 28 hlm.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/29502/UU%20Nomor%2027%20Tahun%202007.pdf",
+  "https://peraturan.bpk.go.id/Download/29503/UU%20Nomor%2027%20Tahun%202007_penjelasan.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:33:09Z"
+}

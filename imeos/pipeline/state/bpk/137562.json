@@ -1,0 +1,53 @@
+{
+ "id": "PERPRES-2020-65",
+ "source": "bpk",
+ "bpk_id": 137562,
+ "url": "https://peraturan.bpk.go.id/Details/137562/perpres-no-65-tahun-2020",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "65",
+ "number_raw": "65",
+ "year": 2020,
+ "title": "Peraturan Presiden (Perpres) Nomor 65 Tahun 2020 tentang Kementerian Pemberdayaan Perempuan dan Perlindungan Anak",
+ "about": "Kementerian Pemberdayaan Perempuan dan Perlindungan Anak",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "",
+ "date_enacted": "2020-05-11",
+ "date_promulgated": "2020-05-12",
+ "date_effective": "2020-05-12",
+ "gazette": "LN.2020/NO.133, JDIH.SETNEG.GO.ID : 18 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-186",
+   "target_bpk_id": 306742,
+   "label": "Perpres No. 186 Tahun 2024",
+   "about": "Kementerian Pemberdayaan Perempuan dan Perlindungan Anak"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2023-7",
+   "target_bpk_id": 240598,
+   "label": "PERPRES No. 7 Tahun 2023",
+   "about": "Perubahan atas Peraturan Presiden Nomor 65 Tahun 2020 tentang Kementerian Pemberdayaan Perempuan dan Perlindungan Anak"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2015-59",
+   "target_bpk_id": 41799,
+   "label": "PERPRES No. 59 Tahun 2015",
+   "about": "Kementerian Pemberdayaan Perempuan  dan Perlindungan Anak"
+  }
+ ],
+ "abstract": "Sebagai tindak lanjut ditetapkannya Keputusan Presiden Nomor 113/P Tahun 20l9 tentang Pembentukan Kementerian Negara dan Pengangkatan Menteri Negara Kabinet Indonesia Maju Periode Tahun 20l9-2024 dan untuk melaksanakan ketentuan Pasal 11 Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara, perlu menetapkan Peraturan Presiden tentang Kementerian Pemberdayaan Perempuan dan Perlindungan Anak.\nDasar hukum perpres ini adalah Pasal 4 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; Undang-Undang Nomor 39 Tahun 2OO8 tentang Kementerian Negara; Undang-Undang Nomor 23 Tahun 2Ol4 tentang Pemerintahan Daerah; dan Peraturan Presiden Nomor 68 Tahun 20l9 tentang Organisasi Kementerian Negara.\nPerpres ini mengatur mengenai Kementerian Pemberdayaan Perempuan dan Perlindungan Anak mempunyai tugas menyelenggarakan urusan pemerintahan di bidang pemberdayaan perempuan dan tugas pemerintahan di bidang perlindungan anak untuk membantu Presiden dalam menyelenggarakan pemerintahan negara. Sekretariat Kementerian mempunyai tugas menyelenggarakan koordinasi pelaksanaan tugas, pembinaan, dan pemberian dukungan administrasi kepada seluruh unit organisasi di lingkungan Kementerian Pemberdayaan Perempuan dan Perlindungan Anak.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 12 Mei 2020.\nPerpres ini mencabut UU Nomor 59 Tahun 2015\nPeraturan Presiden Nomor 59 Tahun 2015 tentang Kementerian Pemberdayaan Perempuan dan Perlindungan Anak",
+ "citations": [
+  "UU-2008-39"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/128475/Perpres%20Nomor%2065%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:27:06Z"
+}

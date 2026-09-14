@@ -1,0 +1,57 @@
+{
+ "id": "PERMENIMIPAS-2026-11",
+ "source": "bpk",
+ "bpk_id": 352504,
+ "url": "https://peraturan.bpk.go.id/Details/352504/permen-imipas-no-11-tahun-2026",
+ "form": "PERMENIMIPAS",
+ "form_long": "Peraturan Menteri Imigrasi dan Pemasyarakatan",
+ "number": "11",
+ "number_raw": "11",
+ "year": 2026,
+ "title": "Peraturan Menteri Imigrasi dan Pemasyarakatan Nomor 11 Tahun 2026 tentang Paspor Biasa dan Surat Perjalanan Laksana Paspor",
+ "about": "Paspor Biasa dan Surat Perjalanan Laksana Paspor",
+ "issuer": "Kementerian Imigrasi dan Pemasyarakatan",
+ "subject": "KEWARGANEGARAAN DAN IMIGRASI",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2026-07-23",
+ "date_promulgated": "2026-07-28",
+ "date_effective": "2026-07-28",
+ "gazette": "BN 2026 (521): 34 hlm.; jdih.kemenimipas.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 352505,
+   "label": "Permenkumham No. 19 Tahun 2024",
+   "about": "Perubahan Kedua atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 8 Tahun 2014 tentang Paspor Biasa dan Surat Perjalanan Laksana Paspor"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 280232,
+   "label": "Permenkumham No. 18 Tahun 2022",
+   "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 8 Tahun 2014 tentang Paspor Biasa dan Surat Perjalanan Laksana Paspor"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133335,
+   "label": "Permenkumham No. 8 Tahun 2014",
+   "about": "Paspor Biasa dan Surat Perjalanan Laksana Paspor"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 70 dan Pasal 71 ayat (4) Peraturan Pemerintah Nomor 31 Tahun 2013 tentang Peraturan Pelaksanaan Undang-Undang Nomor 6 Tahun 2011 tentang Keimigrasian sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Pemerintah Nomor 40 Tahun 2023 tentang Perubahan Keempat atas Peraturan Pemerintah Nomor 31 Tahun 2013 tentang Peraturan Pelaksanaan Undang-Undang Nomor 6 Tahun 2011 tentang Keimigrasian, perlu menetapkan Peraturan Menteri Imigrasi dan Pemasyarakatan tentang Paspor Biasa dan Surat Perjalanan Laksana Paspor.\nDasar hukum Permenkumham ini adalah Pasal 17 ayat (3) UUD 1945; UU No. 39 Tahun 2008; UU No. 6 Tahun 2011; PP No. 31 Tahun 2013; Perpres No. 157 Tahun 2024; dan Permen Imipas No. 1 Tahun 2024.\nPermen Imipas ini mengatur mengenai Paspor Biasa dan Surat Perjalanan Laksana Paspor. Surat Perjalanan Laksana Paspor Republik Indonesia (Surat Perjalanan Laksana Paspor) adalah dokumen pengganti Paspor yang diberikan dalam keadaan tertentu yang berlaku selama jangka waktu tertentu. Masa berlaku Paspor biasa paling lama 10 (sepuluh) tahun sejak tanggal diterbitkan. Surat Perjalanan Laksana Paspor untuk warga negara Indonesia diberikan bagi warga negara Indonesia dalam keadaan tertentu jika Paspor biasa tidak dapat diberikan.",
+ "note": "Peraturan Menteri Imigrasi dan Pemasyarakatan ini mulai berlaku pada tanggal 28 Juli 2026.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 8 Tahun 2014 tentang Paspor Biasa dan Surat Perjalanan Laksana Paspor (Berita Negara Republik Indonesia Tahun 2014 Nomor 649) sebagaimana telah beberapa kali diubah terakhir dengan dengan Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 19 Tahun 2024 tentang Perubahan Kedua atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 8 Tahun 2014 tentang Paspor Biasa dan Surat Perjalanan Laksana Paspor (Berita Negara Republik Indonesia Tahun 2024 Nomor 475), dicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "PP-2013-31",
+  "UU-2011-6",
+  "PP-2023-40",
+  "UU-2008-39",
+  "PERPRES-2024-157"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/416329/Permen_Nomor11_Tahun2026.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:42:27Z"
+}

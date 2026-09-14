@@ -1,0 +1,78 @@
+{
+ "id": "PERMENDAG-2025-16",
+ "source": "bpk",
+ "bpk_id": 323106,
+ "url": "https://peraturan.bpk.go.id/Details/323106/permendag-no-16-tahun-2025",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "16",
+ "number_raw": "16",
+ "year": 2025,
+ "title": "Peraturan Menteri Perdagangan Nomor 16 Tahun 2025 tentang Kebijakan dan Pengaturan Impor",
+ "about": "Kebijakan dan Pengaturan Impor",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "KEBIJAKAN PEMERINTAH",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2025-06-30",
+ "date_promulgated": "2025-06-30",
+ "date_effective": "2025-08-29",
+ "gazette": "BN 2025 (449) : 119 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENDAG-2025-37",
+   "target_bpk_id": 332972,
+   "label": "Permendag No. 37 Tahun 2025",
+   "about": "Perubahan Atas Peraturan Menteri Perdagangan Nomor 16 Tahun 2025 tentang Kebijakan dan Pengaturan Impor"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2024-8",
+   "target_bpk_id": 287338,
+   "label": "Permendag No. 8 Tahun 2024",
+   "about": "Perubahan Ketiga Atas Peraturan Menteri Perdagangan Nomor 36 Tahun 2023 Tentang Kebijakan Dan Pengaturan Impor"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2024-7",
+   "target_bpk_id": 287328,
+   "label": "Permendag No. 7 Tahun 2024",
+   "about": "Perubahan Kedua Atas Peraturan Menteri Perdagangan Nomor 36 Tahun 2023 Tentang Kebijakan Dan Pengaturan Impor"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2024-3",
+   "target_bpk_id": 280622,
+   "label": "Permendag No. 3 Tahun 2024",
+   "about": "Perubahan Atas Peraturan Menteri Perdagangan Nomor 36 Tahun 2023 Tentang Kebijakan Dan Pegaturan Impor"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2023-36",
+   "target_bpk_id": 296854,
+   "label": "Permendag No. 36 Tahun 2023",
+   "about": "Kebijakan dan Pengaturan Impor"
+  }
+ ],
+ "abstract": "Untuk mendukung pelaksanaan kegiatan perdagangan luar negeri melalui pengendalian di bidang impor, perlu mengatur kembali kebijakan dan pengaturan impor.\nDasar hukum dalam permen ini adalah Pasal 17 ayat (3) UUD 1945; UU No. 7 Tahun 1994; UU No. 10 Tahun 1995; UU No. 39 Tahun 2008; UU No. 7 Tahun 2014; PP No. 32 Tahun 2009; PP No. 83 Tahun 2010; PP No. 28 Tahun 2021; PP No. 29 Tahun 2021; PP No. 40 Tahun 2021; PP No. 41 Tahun 2021; Perpres No. 168 Tahun 2024; dan Permendag No. 6 Tahun 2025.\nMateri pokok dalam Permendag ini adalah mengatur kebijakan dan pengaturan impor secara menyeluruh, termasuk prosedur perizinan impor berbasis sistem OSS dan INATRADE. Impor Barang dapat dilakukan: a. untuk kegiatan usaha; atau b. tidak untuk kegiatan usaha. Importir wajib memiliki NIB yang berlaku sebagai API. Nomor Induk Berusaha (NIB) adalah bukti registrasi/pendaftaran Pelaku Usaha untuk melakukan kegiatan usaha dan sebagai identitas bagi Pelaku Usaha dalam pelaksanaan kegiatan usahanya. Sedangkan Angka Pengenal Importir (API) adalah tanda pengenal sebagai Importir.",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 29 Agustus 2025.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Perdagangan Nomor 36 Tahun 2023 tentang Kebijakan dan Pengaturan Impor (Berita Negara Republik Indonesia Tahun 2023 Nomor 981) sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Perdagangan Nomor 8 Tahun 2024 tentang Perubahan Ketiga atas Peraturan Menteri Perdagangan Nomor 36 Tahun 2023 tentang Kebijakan dan Pengaturan Impor (Berita Negara Republik Indonesia Tahun 2024 Nomor 265), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 119 hlm (batang tubuh hlm 1 sd 78, lampiran hlm 79 sd 119)",
+ "citations": [
+  "UU-1994-7",
+  "UU-1995-10",
+  "UU-2008-39",
+  "UU-2014-7",
+  "PP-2009-32",
+  "PP-2010-83",
+  "PP-2021-28",
+  "PP-2021-29",
+  "PP-2021-40",
+  "PP-2021-41",
+  "PERPRES-2024-168",
+  "PERMENDAG-2025-6"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/384921/Permendag%20Nomor%2016%20tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:31:58Z"
+}

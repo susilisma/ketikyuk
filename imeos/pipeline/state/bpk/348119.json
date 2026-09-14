@@ -1,0 +1,39 @@
+{
+ "id": "PERPRES-2026-12",
+ "source": "bpk",
+ "bpk_id": 348119,
+ "url": "https://peraturan.bpk.go.id/Details/348119/perpres-no-12-tahun-2026",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "12",
+ "number_raw": "12",
+ "year": 2026,
+ "title": "Peraturan Presiden (Perpres) Nomor 12 Tahun 2026 tentang Pemberian Penghargaan Olahraga",
+ "about": "Pemberian Penghargaan Olahraga",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PEMUDA DAN OLAH RAGA",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2026-03-11",
+ "date_promulgated": "2026-03-11",
+ "date_effective": "2026-03-11",
+ "gazette": "LN 2026 (24) : 32 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2014-44",
+   "target_bpk_id": 41532,
+   "label": "PERPRES No. 44 Tahun 2014",
+   "about": "Pemberian Penghargaan Olahraga"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 99 ayat (8) Undang-Undang Nomor 11 Tahun 2022 tentang Keolahragaan, perlu menetapkan Peraturan Presiden tentang Pemberian Penghargaan Olahraga.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD 1945 dan UU No. 11 Tahun 2022.\nPerpres ini mengatur mengenai pemberian penghargaan olahraga. Peraturan Presiden ini dimaksudkan sebagai pedoman dalam pelaksanaan pemberian Penghargaan Olahraga kepada Olahragawan, Pelaku Olahraga, Lembaga Pemerintah, swasta, badan usaha, dan Perseorangan yang berprestasi dan/atau berjasa dalam memajukan Olahraga.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 11 Maret 2026.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 44 Tahun 2014 tentang Pemberian Penghargaan Olahraga (Lembaran Negara Republik Indonesia Tahun 2024 Nomor 102), dicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "UU-2022-11"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/411694/Perpres%20Nomor%2012%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:31:53Z"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "POJK-2024-6",
+ "source": "bpk",
+ "bpk_id": 285395,
+ "url": "https://peraturan.bpk.go.id/Details/285395/peraturan-ojk-no-6-tahun-2024",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "6",
+ "number_raw": "6",
+ "year": 2024,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 6 Tahun 2024 tentang Laporan Kepemilikan atau Setiap Perubahan Kepemilikan Saham Perusahaan Terbuka dan Laporan Aktivitas Menjaminkan Saham Perusahaan Terbuka",
+ "about": "Laporan Kepemilikan atau Setiap Perubahan Kepemilikan Saham Perusahaan Terbuka dan Laporan Aktivitas Menjaminkan Saham Perusahaan Terbuka",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "BADAN LAYANAN UMUM - HUKUM PIDANA, PERDATA, DAN DAGANG",
+ "field": "HUKUM PERDATA",
+ "date_enacted": "2024-02-26",
+ "date_promulgated": "2024-02-26",
+ "date_effective": "2024-02-28",
+ "gazette": "peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 129729,
+   "label": "Peraturan OJK No. 11/POJK.04/2017 Tahun 2017",
+   "about": "Laporan Kepemilikan atau Setiap Perubahan Kepemilikan Saham Perusahaan Terbuka"
+  }
+ ],
+ "abstract": "a. bahwa dengan berlakunya Undang-Undang Nomor 4 Tahun 2023 tentang Pengembangan dan Penguatan Sektor Keuangan, ketentuan mengenai jangka waktu penyampaian laporan kepemilikan atau setiap perubahan kepemilikan saham telah diubah pengaturannya;\nb. bahwa laporan kepemilikan atau setiap perubahan kepemilikan saham perusahaan terbuka yang berlaku saat ini perlu disesuaikan dengan standar internasional atau hasil studi komparasi di negara lain;\nc. bahwa terdapat jenis transaksi lain yang dilakukan oleh pemegang saham berupa aktivitas menjaminkan saham yang dilakukan oleh pemegang saham perusahaan\nterbuka, sehingga perlu penyampaian laporan aktivitas menjaminkan saham perusahaan terbuka;\nd. bahwa untuk meningkatkan kualitas keterbukaan informasi oleh pemegang saham tertentu dan kualitas pengawasan termasuk penyediaan sistem pelaporan secara elektronik, perlu dilakukan penyesuaian pengaturan;\ne. bahwa Peraturan Otoritas Jasa Keuangan Nomor 11/POJK.04/2017 tentang Laporan Kepemilikan atau Setiap Perubahan Kepemilikan Saham Perusahaan Terbuka sudah tidak sesuai dengan perkembangan dan kebutuhan hukum, sehingga perlu diganti;\nf. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, huruf c, huruf d, dan huruf e, perlu menetapkan Peraturan Otoritas Jasa\nKeuangan tentang Laporan Kepemilikan atau Setiap Perubahan Kepemilikan Saham Perusahaan Terbuka dan Laporan Aktivitas Menjaminkan Saham Perusahaan Terbuka;\nUndang-Undang Nomor 8 Tahun 1995 tentang Pasar Modal dan Undang-Undang Nomor 21 Tahun 2011 tentang Otoritas\nJasa Keuangan\nPeraturan ini mengatur tentang ketentuan umum, kewajiban pelaporan kepemilikan atau setiap perubahan kepemilikan saham perusahaan terbuka, kewajiban pelaporan aktivitas menjaminkan saham perusahaan terbuka, penyampaian pelaporan secara elektronik, sanksi administratif dan ketentuan penutup",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 28 Februari 2024.\nPeraturan Otoritas Jasa Keuangan Nomor 11/POJK.04/2017 tentang Laporan Kepemilikan atau Setiap Perubahan Kepemilikan Saham Perusahaan Terbuka dicabut dan dinyatakan tidak berlaku",
+ "citations": [
+  "UU-2023-4",
+  "POJK-2017-11",
+  "UU-1995-8",
+  "UU-2011-21"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/344501/peraturan-ojk-no-4-tahun-2024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:44:40Z"
+}

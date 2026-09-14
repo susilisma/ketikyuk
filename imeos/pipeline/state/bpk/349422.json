@@ -1,0 +1,39 @@
+{
+ "id": "PERPRES-2026-21",
+ "source": "bpk",
+ "bpk_id": 349422,
+ "url": "https://peraturan.bpk.go.id/Details/349422/perpres-no-21-tahun-2026",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "21",
+ "number_raw": "21",
+ "year": 2026,
+ "title": "Peraturan Presiden (Perpres) Nomor 21 Tahun 2026 tentang Penugasan Khusus Dalam Rangka Percepatan Pelaksanaan Pembangunan Infrastruktur",
+ "about": "Penugasan Khusus Dalam Rangka Percepatan Pelaksanaan Pembangunan Infrastruktur",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KONSTRUKSI, SIPIL, ARSITEK, BANGUNAN, DAN INFRASTRUKTUR - PROGRAM, RENCANA PEMBANGUNAN DAN RENCANA KERJA",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2026-04-15",
+ "date_promulgated": "2026-04-15",
+ "date_effective": "2026-04-15",
+ "gazette": "LN 2026 (41) : 7 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2022-120",
+   "target_bpk_id": 227575,
+   "label": "PERPRES No. 120 Tahun 2022",
+   "about": "Penugasan Khusus Dalam Rangka Percepatan Pelaksanaan Pembangunan Infrastruktur"
+  }
+ ],
+ "abstract": "Dalam rangka percepatan pelaksanaan pembangunan infrastruktur di berbagai daerah, mendorong peningkatan kualitas sumber daya manusia, pengurangan kemiskinan, pertumbuhan ekonomi yang berkualitas dan berkelanjutan, dan mewujudkan Asta Cita Menuju Indonesia Emas 2045 serta untuk mendorong kemandirian bangsa melalui swasembada pangan, energi, dan air, diperlukan penugasan khusus kepada Kementerian Pekerjaan Umum.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD 1945 dan Perpres No. 170 Tahun 2024.\nPerpres ini mengatur mengenai penugasan khusus dalam rangka percepatan pelaksanaan pembangunan infrastruktur kepada Kementerian Pekerjaan Umum. Percepatan pelaksanaan pembangunan infrastruktur dapat dilaksanakan dengan kontrak tahun tunggal atau kontrak tahun jamak sesuai dengan ketentuan peraturan perundang-undangan.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 15 April 2026.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 120 Tahun 2022 tentang Penugasan Khusus Dalam Rangka Percepatan Pelaksanaan Pembangunan Infrastruktur (Lembaran Negara Republik Indonesia Tahun 2022 Nomor 193), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 7 hlm.",
+ "citations": [
+  "PERPRES-2024-170"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/413108/Perpres%20No.%2021%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:31:35Z"
+}

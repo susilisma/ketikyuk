@@ -1,0 +1,51 @@
+{
+ "id": "UU-2016-7",
+ "source": "bpk",
+ "bpk_id": 37237,
+ "url": "https://peraturan.bpk.go.id/Details/37237/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "7",
+ "number_raw": "7",
+ "year": 2016,
+ "title": "Undang-undang (UU) Nomor 7 Tahun 2016 tentang Perlindungan dan Pemberdayaan Nelayan, Pembudi Daya Ikan, dan Petambak Garam",
+ "about": "Perlindungan dan Pemberdayaan Nelayan, Pembudi Daya Ikan, dan Petambak Garam",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERIKANAN DAN KELAUTAN",
+ "field": "",
+ "date_enacted": "2016-04-14",
+ "date_promulgated": "2016-04-14",
+ "date_effective": "2016-04-14",
+ "gazette": "LN.2016/NO.68, TLN NO.5870, LL SETNEG : 38 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 234926,
+   "label": "PERPU No. 2 Tahun 2022",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  }
+ ],
+ "abstract": "bahwa Pancasila dan Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945 mengamanatkan negara\nmempunyai tanggung jawab untuk melindungi segenap\nbangsa Indonesia dan seluruh tumpah darah Indonesia dan untuk memajukan kesejahteraan umum, mencerdaskan kehidupan bangsa, serta mewujudkan keadilan sosial bagi seluruh rakyat Indonesia,bahwa untuk mewujudkan tujuan bernegara menyejahterakan rakyat, termasuk Nelayan, Pembudi Daya Ikan, dan Petambak Garam, negara menyelenggarakan,perlindungan dan Pemberdayaan Nelayan, Pembudi Daya Ikan, dan Petambak Garam secara terencana, terarah, dan berkelanjutan,bahwa Nelayan, Pembudi Daya Ikan, dan Petambak Garam sangat tergantung pada sumber daya Ikan, kondisi lingkungan, sarana dan prasarana, kepastian usaha, akses permodalan, ilmu pengetahuan, teknologi, dan informasi sehingga membutuhkan perlindungan dan pemberdayaan,bahwa peraturan perundang-undangan yang mengatur mengenai Perlindungan dan Pemberdayaan Nelayan, Pembudi Daya Ikan, dan Petambak Garam belum komprehensif,bahwa berdasarkan pertimbangan perlu membentuk Undang-Undang tentang Perlindungan dan Pemberdayaan Nelayan, Pembudi Daya Ikan, dan Petambak Garam;\nPasal 20, Pasal 21, Pasal 28H ayat (1), ayat (2), dan ayat (3), serta Pasal 33 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945\ndasar permasalahan yang dihadapi oleh Nelayan, Pembudi Daya Ikan, dan Petambak Garam, diperlukan perlindungan dan pemberdayaan Nelayan, Pembudi Daya Ikan, dan Petambak Garam, termasuk keluarga Nelayan dan Pembudi Daya Ikan yang melakukan pengolahan dan pemasaran",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 14 April 2016.\n38 halaman",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/26338/UU%20Nomor%207%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:30Z"
+}

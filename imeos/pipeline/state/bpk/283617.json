@@ -1,0 +1,48 @@
+{
+ "id": "UU-2024-3",
+ "source": "bpk",
+ "bpk_id": 283617,
+ "url": "https://peraturan.bpk.go.id/Details/283617/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "3",
+ "number_raw": "3",
+ "year": 2024,
+ "title": "Undang-undang (UU) Nomor 3 Tahun 2024 tentang Perubahan Kedua atas Undang-Undang Nomor 6 Tahun 2014 tentang Desa",
+ "about": "Perubahan Kedua atas Undang-Undang Nomor 6 Tahun 2014 tentang Desa",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH - DESA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-04-25",
+ "date_promulgated": "2024-04-25",
+ "date_effective": "2024-04-25",
+ "gazette": "LN 2024 (77), TLN (6914): 20 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2014-6",
+   "target_bpk_id": 38582,
+   "label": "UU No. 6 Tahun 2014",
+   "about": "Desa"
+  }
+ ],
+ "abstract": "Beberapa ketentuan di dalam Undang-Undang Nomor 6 Tahun 2014 tentang Desa sebagaimana telah diubah dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang, sudah tidak sesuai lagi dengan dinamika dan perkembangan kebutuhan hukum dalam masyarakat, serta kehidupan ketatanegaraan sehingga perlu diubah.\nDasar hukum UU ini adalah Pasal 18, Pasal 18B ayat (2), Pasal 20, Pasal 21, dan Pasal 22D ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 dan UU Nomor 6 Tahun 2014 sebagaimana telah diubah dengan Undang-Undang Nomor 6 Tahun 2023.\nUU ini mengubah dan menambah beberapa ketentuan dalam Undang-Undang Nomor 6 Tahun 2014 tentang Desa sebagaimana telah diubah dengan Undang-Undang Nomor 6 Tahun 2023. Diantara Pasal 5 dan Pasal 6 disisipkan satu pasal mengenai pengaturan desa yang berada di kawasan suaka alam, kawasan pelestarian alam, hutan produksi, dan kebun produksi berhak mendapatkan dana konservasi dan/atau dana rehabilitasi berdasarkan ketentuan peraturan perundang-undangan. Pasal 39 yang mengatur mengenai masa jabatan Kepala Desa diubah. Kepala Desa memegang jabatan selama 8 (delapan) tahun terhitung sejak tanggal pelantikan dan dapat menjabat paling banyak 2 (dua) kali masa jabatan secara berturut-turut atau tidak secara berturut-turut.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 25 April 2024.\nUU ini mengubah UU Nomor 6 Tahun 2014 sebagaimana telah diubah dengan Undang-Undang Nomor 6 Tahun 2023.\nLampiran file: 31 hlm (batang tubuh hlm 1 sd 20, penjelasan hlm 21 sd 31)",
+ "citations": [
+  "UU-2014-6",
+  "UU-2023-6",
+  "PERPPU-2022-2"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/342639/UU%20Nomor%203%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:22Z"
+}

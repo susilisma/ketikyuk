@@ -1,0 +1,702 @@
+{
+ "id": "UU-2020-11",
+ "source": "bpk",
+ "bpk_id": 149750,
+ "url": "https://peraturan.bpk.go.id/Details/149750/uu-no-11-tahun-2020",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "11",
+ "number_raw": "11",
+ "year": 2020,
+ "title": "Undang-undang (UU) Nomor 11 Tahun 2020 tentang Cipta Kerja",
+ "about": "Cipta Kerja",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERS, POS, DAN PERIKLANAN - KEAGAMAAN, IBADAH, DAN PENYELENGGARAAN HAJI - KEHUTANAN DAN PERKEBUNAN - KESEHATAN - KETENAGAKERJAAN - KONSTRUKSI, SIPIL, ARSITEK, BANGUNAN, DAN INFRASTRUKTUR - PARIWISATA DAN KEBUDAYAAN - PENANAMAN MODAL DAN INVESTASI - PENDIDIKAN - PERIKANAN DAN KELAUTAN - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN - PERTAMBANGAN MIGAS, MINERAL DAN ENERGI - PANGAN, PERTANIAN DAN PETERNAKAN - TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET - TRANSPORTASI DARAT / LAUT / UDARA - PERTAHANAN DAN KEAMANAN, MILITER - PERIZINAN, PELAYANAN PUBLIK - PERINDUSTRIAN - PERUMAHAN, PERMUKIMAN - CIPTA KERJA",
+ "field": "",
+ "date_enacted": "2020-11-02",
+ "date_promulgated": "2020-11-02",
+ "date_effective": "2020-11-02",
+ "gazette": "LN.2020/No.245, TLN No.6573, jdih.setneg.go.id : 769 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 234926,
+   "label": "PERPU No. 2 Tahun 2022",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2022-1",
+   "target_bpk_id": 195696,
+   "label": "UU No. 1 Tahun 2022",
+   "about": "Hubungan Keuangan antara Pemerintah Pusat dan Pemerintahan Daerah"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2026-5",
+   "target_bpk_id": 350096,
+   "label": "UU No. 5 Tahun 2026",
+   "about": "Perubahan Ketiga atas Undang-Undang Nomor 2 Tahun 2002 tentang Kepolisian Negara Republik Indonesia"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2025-2",
+   "target_bpk_id": 316682,
+   "label": "UU No. 2 Tahun 2025",
+   "about": "Perubahan Keempat atas Undang-Undang Nomor 4 Tahun 2009 tentang Pertambangan Mineral dan Batubara"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2025-18",
+   "target_bpk_id": 334481,
+   "label": "UU No. 18 Tahun 2025",
+   "about": "Perubahan Ketiga atas Undang-Undang Nomor 10 Tahun 2009 tentang Kepariwisataan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2025-16",
+   "target_bpk_id": 330668,
+   "label": "UU No. 16 Tahun 2025",
+   "about": "Perubahan Keempat atas Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2025-14",
+   "target_bpk_id": 331538,
+   "label": "UU No. 14 Tahun 2025",
+   "about": "Perubahan Ketiga atas Undang-Undang Nomor 8 Tahun 2019 tentang Ibadah Haji dan Umrah"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2025-1",
+   "target_bpk_id": 314622,
+   "label": "UU No. 1 Tahun 2025",
+   "about": "Perubahan Ketiga atas Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2024-66",
+   "target_bpk_id": 306526,
+   "label": "UU No. 66 Tahun 2024",
+   "about": "Perubahan Ketiga atas Undang-Undang Nomor 17 Tahun 2008 tentang\r\nPelayaran"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2024-65",
+   "target_bpk_id": 306515,
+   "label": "UU No. 65 Tahun 2024",
+   "about": "Perubahan Ketiga atas Undang-Undang Nomor 13 Tahun 2016 tentang Paten"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2024-63",
+   "target_bpk_id": 304897,
+   "label": "UU No. 63 Tahun 2024",
+   "about": "Perubahan Ketiga atas Undang-Undang Nomor 6 Tahun 2011 tentan Keimigrasian"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2022-2",
+   "target_bpk_id": 195878,
+   "label": "UU No. 2 Tahun 2022",
+   "about": "Perubahan Kedua atas Undang-Undang Nomor 38 Tahun 2004 tentang Jalan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1982-3",
+   "target_bpk_id": 46996,
+   "label": "UU No. 3 Tahun 1982",
+   "about": "Wajib Daftar Perusahaan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2020-3",
+   "target_bpk_id": 138909,
+   "label": "UU No. 3 Tahun 2020",
+   "about": "Perubahan atas Undang-Undang Nomor 4 Tahun 2009 tentang Pertambangan Mineral dan Batubara"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2019-8",
+   "target_bpk_id": 106346,
+   "label": "UU No. 8 Tahun 2019",
+   "about": "Penyelenggaraan Ibadah Haji dan Umrah"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2019-22",
+   "target_bpk_id": 123688,
+   "label": "UU No. 22 Tahun 2019",
+   "about": "Sistem Budi Daya Pertanian Berkelanjutan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2019-17",
+   "target_bpk_id": 122742,
+   "label": "UU No. 17 Tahun 2019",
+   "about": "Sumber Daya Air"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2019-11",
+   "target_bpk_id": 117023,
+   "label": "UU No. 11 Tahun 2019",
+   "about": "Sistem Nasional Ilmu Pengetahuan dan Teknologi"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2017-6",
+   "target_bpk_id": 37643,
+   "label": "UU No. 6 Tahun 2017",
+   "about": "Arsitek"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2017-2",
+   "target_bpk_id": 37637,
+   "label": "UU No. 2 Tahun 2017",
+   "about": "Jasa Konstruksi"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2017-18",
+   "target_bpk_id": 64508,
+   "label": "UU No. 18 Tahun 2017",
+   "about": "Pelindungan Pekerja Migran Indonesia"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2016-7",
+   "target_bpk_id": 37237,
+   "label": "UU No. 7 Tahun 2016",
+   "about": "Perlindungan dan Pemberdayaan Nelayan, Pembudi Daya Ikan, dan Petambak Garam"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2016-20",
+   "target_bpk_id": 37595,
+   "label": "UU No. 20 Tahun 2016",
+   "about": "Merek dan Indikasi Geografis"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2016-13",
+   "target_bpk_id": 37536,
+   "label": "UU No. 13 Tahun 2016",
+   "about": "Paten"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2014-7",
+   "target_bpk_id": 38584,
+   "label": "UU No. 7 Tahun 2014",
+   "about": "Perdagangan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2014-6",
+   "target_bpk_id": 38582,
+   "label": "UU No. 6 Tahun 2014",
+   "about": "Desa"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2014-41",
+   "target_bpk_id": 38801,
+   "label": "UU No. 41 Tahun 2014",
+   "about": "Perubahan atas Undang-Undang Nomor 18 Tahun 2009 Tentang Peternakan dan Kesehatan Hewan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2014-39",
+   "target_bpk_id": 38807,
+   "label": "UU No. 39 Tahun 2014",
+   "about": "Perkebunan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2014-33",
+   "target_bpk_id": 38709,
+   "label": "UU No. 33 Tahun 2014",
+   "about": "Jaminan Produk Halal"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2014-32",
+   "target_bpk_id": 38710,
+   "label": "UU No. 32 Tahun 2014",
+   "about": "Kelautan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2014-30",
+   "target_bpk_id": 38695,
+   "label": "UU No. 30 Tahun 2014",
+   "about": "Administrasi Pemerintahan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2014-3",
+   "target_bpk_id": 38572,
+   "label": "UU No. 3 Tahun 2014",
+   "about": "Perindustrian"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2014-23",
+   "target_bpk_id": 38685,
+   "label": "UU No. 23 Tahun 2014",
+   "about": "Pemerintahan Daerah"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2014-21",
+   "target_bpk_id": 38684,
+   "label": "UU No. 21 Tahun 2014",
+   "about": "Panas Bumi"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2014-1",
+   "target_bpk_id": 38521,
+   "label": "UU No. 1 Tahun 2014",
+   "about": "Perubahan atas Undang-Undang Nomor 27 Tahun 2007 Tentang Pengelolaan Wilayah Pesisir dan Pulau-Pulau Kecil"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2013-19",
+   "target_bpk_id": 38893,
+   "label": "UU No. 19 Tahun 2013",
+   "about": "Perlindungan dan Pemberdayaan Petani"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2013-18",
+   "target_bpk_id": 38884,
+   "label": "UU No. 18 Tahun 2013",
+   "about": "Pencegahan dan Pemberantasan Perusakan Hutan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2012-2",
+   "target_bpk_id": 39012,
+   "label": "UU No. 2 Tahun 2012",
+   "about": "Pengadaan Tanah Bagi Pembangunan Untuk Kepentingan Umum"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2012-18",
+   "target_bpk_id": 39100,
+   "label": "UU No. 18 Tahun 2012",
+   "about": "Pangan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2012-16",
+   "target_bpk_id": 39088,
+   "label": "UU No. 16 Tahun 2012",
+   "about": "Industri Pertahanan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2011-6",
+   "target_bpk_id": 39140,
+   "label": "UU No. 6 Tahun 2011",
+   "about": "Keimigrasian"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2011-4",
+   "target_bpk_id": 39136,
+   "label": "UU No. 4 Tahun 2011",
+   "about": "Informasi Geospasial"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2011-24",
+   "target_bpk_id": 39268,
+   "label": "UU No. 24 Tahun 2011",
+   "about": "Badan Penyelenggara Jaminan Sosial"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2011-20",
+   "target_bpk_id": 39256,
+   "label": "UU No. 20 Tahun 2011",
+   "about": "Rumah Susun"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2011-1",
+   "target_bpk_id": 39128,
+   "label": "UU No. 1 Tahun 2011",
+   "about": "Perumahan dan Kawasan Permukiman"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2010-13",
+   "target_bpk_id": 38555,
+   "label": "UU No. 13 Tahun 2010",
+   "about": "Hortikultura"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2009-45",
+   "target_bpk_id": 38790,
+   "label": "UU No. 45 Tahun 2009",
+   "about": "Perubahan Atas Undang-Undang Nomor 31 Tahun 2004 Tentang Perikanan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2009-44",
+   "target_bpk_id": 38789,
+   "label": "UU No. 44 Tahun 2009",
+   "about": "Rumah Sakit"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2009-41",
+   "target_bpk_id": 38786,
+   "label": "UU No. 41 Tahun 2009",
+   "about": "Perlindungan Lahan Pertanian Pangan Berkelanjutan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2009-4",
+   "target_bpk_id": 38578,
+   "label": "UU No. 4 Tahun 2009",
+   "about": "Pertambangan Mineral dan Batubara"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2009-39",
+   "target_bpk_id": 54483,
+   "label": "UU No. 39 Tahun 2009",
+   "about": "Kawasan Ekonomi Khusus"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2009-38",
+   "target_bpk_id": 38783,
+   "label": "UU No. 38 Tahun 2009",
+   "about": "POS"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2009-36",
+   "target_bpk_id": 38778,
+   "label": "UU No. 36 Tahun 2009",
+   "about": "Kesehatan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2009-35",
+   "target_bpk_id": 38776,
+   "label": "UU No. 35 Tahun 2009",
+   "about": "Narkotika"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2009-33",
+   "target_bpk_id": 38772,
+   "label": "UU No. 33 Tahun 2009",
+   "about": "Perfilman"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2009-32",
+   "target_bpk_id": 38771,
+   "label": "UU No. 32 Tahun 2009",
+   "about": "Perlindungan dan Pengelolaan Lingkungan Hidup"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2009-30",
+   "target_bpk_id": 38767,
+   "label": "UU No. 30 Tahun 2009",
+   "about": "Ketenagalistrikan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2009-28",
+   "target_bpk_id": 38763,
+   "label": "UU No. 28 Tahun 2009",
+   "about": "Pajak Daerah dan Retribusi Daerah"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2009-22",
+   "target_bpk_id": 38654,
+   "label": "UU No. 22 Tahun 2009",
+   "about": "Lalu Lintas Dan Angkutan Jalan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2009-18",
+   "target_bpk_id": 38634,
+   "label": "UU No. 18 Tahun 2009",
+   "about": "Peternakan dan Kesehatan Hewan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2009-10",
+   "target_bpk_id": 38598,
+   "label": "UU No. 10 Tahun 2009",
+   "about": "Kepariwisataan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2009-1",
+   "target_bpk_id": 54656,
+   "label": "UU No. 1 Tahun 2009",
+   "about": "Penerbangan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2008-21",
+   "target_bpk_id": 39655,
+   "label": "UU No. 21 Tahun 2008",
+   "about": "Perbankan Syariah"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2008-20",
+   "target_bpk_id": 39653,
+   "label": "UU No. 20 Tahun 2008",
+   "about": "Usaha Mikro, Kecil, dan Menengah"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2008-17",
+   "target_bpk_id": 39060,
+   "label": "UU No. 17 Tahun 2008",
+   "about": "Pelayaran"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2007-40",
+   "target_bpk_id": 39965,
+   "label": "UU No. 40 Tahun 2007",
+   "about": "Perseroan Terbatas"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2007-27",
+   "target_bpk_id": 39911,
+   "label": "UU No. 27 Tahun 2007",
+   "about": "Pengelolaan Wilayah Pesisir dan Pulau-Pulau Kecil"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2007-26",
+   "target_bpk_id": 39908,
+   "label": "UU No. 26 Tahun 2007",
+   "about": "Penataan Ruang"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2007-25",
+   "target_bpk_id": 39903,
+   "label": "UU No. 25 Tahun 2007",
+   "about": "Penanaman Modal"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2007-23",
+   "target_bpk_id": 39896,
+   "label": "UU No. 23 Tahun 2007",
+   "about": "Perkeretaapian"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2004-40",
+   "target_bpk_id": 40787,
+   "label": "UU No. 40 Tahun 2004",
+   "about": "Sistem Jaminan Sosial Nasional"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2004-38",
+   "target_bpk_id": 40785,
+   "label": "UU No. 38 Tahun 2004",
+   "about": "Jalan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2004-31",
+   "target_bpk_id": 40763,
+   "label": "UU No. 31 Tahun 2004",
+   "about": "Perikanan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2004-19",
+   "target_bpk_id": 40518,
+   "label": "UU No. 19 Tahun 2004",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2004 tentang Perubahan atas Undang-Undang Nomor 41 Tahun 1999 tentang Kehutanan Menjadi Undang-Undang"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2003-19",
+   "target_bpk_id": 43919,
+   "label": "UU No. 19 Tahun 2003",
+   "about": "Badan Usaha Milik Negara"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2003-13",
+   "target_bpk_id": 43013,
+   "label": "UU No. 13 Tahun 2003",
+   "about": "Ketenagakerjaan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2002-32",
+   "target_bpk_id": 44500,
+   "label": "UU No. 32 Tahun 2002",
+   "about": "Penyiaran"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2002-28",
+   "target_bpk_id": 44487,
+   "label": "UU No. 28 Tahun 2002",
+   "about": "Bangunan Gedung"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2002-2",
+   "target_bpk_id": 44418,
+   "label": "UU No. 2 Tahun 2002",
+   "about": "Kepolisian Negara Republik Indonesia"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2001-22",
+   "target_bpk_id": 44903,
+   "label": "UU No. 22 Tahun 2001",
+   "about": "Minyak dan Gas Bumi"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2000-37",
+   "target_bpk_id": 45244,
+   "label": "UU No. 37 Tahun 2000",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2000 tentang Kawasan Perdagangan Bebas dan Pelabuhan Bebas Sabang Menjadi Undang-Undang"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2000-36",
+   "target_bpk_id": 45242,
+   "label": "UU No. 36 Tahun 2000",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang  Nomor 1 Tahun 2000 tentang Kawasan Perdagangan Bebas dan Pelabuhan Bebas Menjadi Undang-Undang"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2000-29",
+   "target_bpk_id": 45000,
+   "label": "UU No. 29 Tahun 2000",
+   "about": "Perlindungan Varietas Tanaman"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1999-5",
+   "target_bpk_id": 45280,
+   "label": "UU No. 5 Tahun 1999",
+   "about": "Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1999-41",
+   "target_bpk_id": 45373,
+   "label": "UU No. 41 Tahun 1999",
+   "about": "Kehutanan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1999-36",
+   "target_bpk_id": 45357,
+   "label": "UU No. 36 Tahun 1999",
+   "about": "Telekomunikasi"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1998-10",
+   "target_bpk_id": 45486,
+   "label": "UU No. 10 Tahun 1998",
+   "about": "Perubahan atas Undang-Undang Nomor 7 Tahun 1992 tentang Perbankan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1997-5",
+   "target_bpk_id": 45926,
+   "label": "UU No. 5 Tahun 1997",
+   "about": "Psikotropika"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1997-10",
+   "target_bpk_id": 45931,
+   "label": "UU No. 10 Tahun 1997",
+   "about": "Ketenaganukliran"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1992-7",
+   "target_bpk_id": 46599,
+   "label": "UU No. 7 Tahun 1992",
+   "about": "Perbankan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1992-25",
+   "target_bpk_id": 46650,
+   "label": "UU No. 25 Tahun 1992",
+   "about": "Perkoperasian"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1983-8",
+   "target_bpk_id": 46990,
+   "label": "UU No. 8 Tahun 1983",
+   "about": "Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1983-7",
+   "target_bpk_id": 46988,
+   "label": "UU No. 7 Tahun 1983",
+   "about": "Pajak Penghasilan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1983-6",
+   "target_bpk_id": 46986,
+   "label": "UU No. 6 Tahun 1983",
+   "about": "Ketentuan Umum dan Tata Cara Perpajakan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1981-2",
+   "target_bpk_id": 47034,
+   "label": "UU No. 2 Tahun 1981",
+   "about": "Metrologi Legal"
+  }
+ ],
+ "abstract": "Untuk mendukung cipta kerja diperlukan penyesuaian berbagai aspek pengaturan yang berkaitan dengan kemudahan, perlindungan, dan pemberdayaan koperasi dan usaha mikro, kecil, dan menengah, peningkatan ekosistem investasi, dan percepatan proyek strategis nasional, termasuk peningkatan perlindungan dan kesejahteraan pekerja. Upaya penyesuaian berbagai aspek pengaturan tersebut, dilakukan melalui perubahan Undang-Undang sektor yang belum mendukung terwujudnya sinkronisasi dalam menjamin percepatan cipta kerja, sehingga diperlukan terobosan hukum yang dapat menyelesaikan berbagai permasalahan dalam beberapa Undang-Undang ke dalam satu Undang-Undang secara komprehensif\nDasar hukum UU ini adalah Pasal 4, Pasal 5 ayat (1), Pasal 18, Pasal 18A, Pasal 18B, Pasal 20, Pasal 22D ayat (2), Pasal 27 ayat (2), Pasal 28D ayat (1) dan ayat (2), dan Pasal 33 UUD 1945; Tap MPR Nomor XVI/MPR/1998 tentang Politik Ekonomi Dalam Rangka Demokrasi Ekonomi; dan Tap MPR Nomor IX/MPR/2001 tentang Pembaruan Agraria dan Pengelolaan Sumber Daya Alam.\nUU ini mengatur mengenai upaya cipta kerja yang diharapkan mampu menyerap tenaga kerja Indonesia yang seluas-luasnya di tengah persaingan yang semakin kompetitif dan tuntutan globalisasi ekonomi. Cipta Kerja adalah upaya penciptaan kerja melalui usaha kemudahan, perlindungan, dan pemberdayaan koperasi dan usaha mikro, kecil, dan menengah, peningkatan ekosistem investasi dan kemudahan berusaha, dan investasi Pemerintah Pusat dan percepatan proyek strategis nasional. Sepuluh ruang lingkup UU ini adalah: 1) peningkatan ekosistem investasi dan kegiatan berusaha; 2) ketenagakerjaan; 3) kemudahan, perlindungan, serta pemberdayaan Koperasi dan UMK-M; 4) kemudahan berusaha; 5) dukungan riset dan inovasi; 6) pengadaan tanah; 7) kawasan ekonomi; 8) investasi Pemerintah Pusat dan percepatan proyek strategis nasional; 9) pelaksanaan administrasi pemerintahan; dan 10) pengenaan sanksi.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 02 November 2020.\nPada saat UU ini mulai berlaku, Peraturan pelaksanaan dari UU ini wajib ditetapkan paling lama 3 (tiga) bulan, dan semua peraturan pelaksanaan dari UU yang telah diubah oleh UU ini dinyatakan tetap berlaku sepanjang tidak bertentangan dengan UU ini dan wajib disesuaikan paling lama 3 (tiga) bulan.\nPenjelasan 418 hlm.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/153567/UU_Nomor_11_Tahun_2020-compressed.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:23:10Z"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "POJK-2017-11",
+ "source": "bpk",
+ "bpk_id": 129729,
+ "url": "https://peraturan.bpk.go.id/Details/129729/peraturan-ojk-no-11pojk042017-tahun-2017",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "11",
+ "number_raw": "11/POJK.04/2017",
+ "year": 2017,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 11/POJK.04/2017 Tahun 2017 tentang Laporan Kepemilikan atau Setiap Perubahan Kepemilikan Saham Perusahaan Terbuka",
+ "about": "Laporan Kepemilikan atau Setiap Perubahan Kepemilikan Saham Perusahaan Terbuka",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "",
+ "date_enacted": "2017-03-14",
+ "date_promulgated": "2017-03-14",
+ "date_effective": "2017-03-14",
+ "gazette": "LN.2017/NO.48, TLN NO.6032, Jdih.ojk.go.id: 14 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 285395,
+   "label": "Peraturan OJK No. 6 Tahun 2024",
+   "about": "Laporan Kepemilikan atau Setiap Perubahan Kepemilikan Saham Perusahaan Terbuka dan Laporan Aktivitas Menjaminkan Saham Perusahaan Terbuka"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 14 Maret 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/120633/SAL%20POJK%2011%20-%20laporan%20Kepemilikan%20Saham.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:44:41Z"
+}

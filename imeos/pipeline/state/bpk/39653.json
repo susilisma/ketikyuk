@@ -1,0 +1,58 @@
+{
+ "id": "UU-2008-20",
+ "source": "bpk",
+ "bpk_id": 39653,
+ "url": "https://peraturan.bpk.go.id/Details/39653/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "20",
+ "number_raw": "20",
+ "year": 2008,
+ "title": "Undang-undang (UU) Nomor 20 Tahun 2008 tentang Usaha Mikro, Kecil, dan Menengah",
+ "about": "Usaha Mikro, Kecil, dan Menengah",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN - PEREKONOMIAN",
+ "field": "",
+ "date_enacted": "2008-07-04",
+ "date_promulgated": "2008-07-04",
+ "date_effective": "2008-07-04",
+ "gazette": "LN.2008/NO.93, TLN NO.4866, LL SETNEG : 20 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 234926,
+   "label": "PERPU No. 2 Tahun 2022",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1995-9",
+   "target_bpk_id": 46199,
+   "label": "UU No. 9 Tahun 1995",
+   "about": "Usaha Kecil"
+  }
+ ],
+ "abstract": "bahwa masyarakat adil dan makmur berdasarkan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 harus diwujudkan melalui pembangunan perekonomian nasional berdasarkan demokrasi ekonomi;\nbahwa sesuai dengan amanat Ketetapan Majelis Permusyawaratan Rakyat Republik Indonesia Nomor XVI/MPR-RI/1998 tentang Politik Ekonomi dalam rangka Demokrasi Ekonomi, Usaha Mikro, Kecil, dan Menengah perlu diberdayakan sebagai bagian integral ekonomi rakyat yang mempunyai kedudukan, peran, dan potensi strategis untuk mewujudkan struktur perekonomian nasional yang makin seimbang, berkembang, dan berkeadilan;\nbahwa pemberdayaan Usaha Mikro, Kecil, dan Menengah sebagaimana dimaksud dalam huruf b, perlu diselenggarakan secara menyeluruh, optimal, dan berkesinambungan melalui pengembangan iklim yang kondusif, pemberian kesempatan berusaha, dukungan, perlindungan, dan pengembangan usaha seluas-luasnya, sehingga mampu meningkatkan kedudukan, peran, dan potensi Usaha Mikro, Kecil, dan Menengah dalam mewujudkan pertumbuhan ekonomi, pemerataan dan peningkatan pendapatan rakyat, penciptaan lapangan kerja, dan pengentasan kemiskinan;\nbahwa sehubungan dengan perkembangan lingkungan perekonomian yang semakin dinamis dan global, Undang- Undang Nomor 9 Tahun 1995 tentang Usaha Kecil, yang hanya mengatur Usaha Kecil perlu diganti, agar Usaha Mikro, Kecil, dan Menengah di Indonesia dapat memperoleh jaminan kepastian dan keadilan usaha.\nPasal 5 ayat (1), Pasal 20, Pasal 27 ayat (2), dan Pasal 33 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.\nKetentuan Umum,\nAsas, Prinsip Dan Tujuan Pemberdayaan,\nKriteria,\nPenumbuhan Iklim Usaha,\nPengembangan Usaha,\nPembiayaan Dan Penjaminan,\nKemitraan, dan Koordinasi Pemberdayaan,\nSanksi Administratif dan Ketentuan Pidana.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 04 Juli 2008.\nmencabut dan tidak memberlakukan Undang-Undang Republik Indonesia Nomor 9 tahun 1995 tentang Usaha Kecil (Lembaran Negara Republik Indonesia Tahun 1995 Nomor 74, Tambahan Lembaran Negara Tahun 1995 Nomor 3611).\nKriteria sebagaimana dimaksud nilai nominalnya dapat diubah sesuai dengan perkembangan perekonomian yang diatur dengan Peraturan Presiden.\nKetentuan lebih lanjut mengenai persyaratan dan tata cara permohonan izin usaha diatur dengan Peraturan Pemerintah.\nKetentuan lebih lanjut mengenai tata cara pengembangan, prioritas, intensitas, dan jangka waktu pengembangan diatur dengan Peraturan Pemerintah.\nKetentuan lebih lanjut mengenai pola kemitraan sebagaimana dimaksud dalam Pasal 26 diatur dengan Peraturan Pemerintah.\nKetentuan lebih lanjut mengenai penyelenggaraan koordinasi dan pengendalian pemberdayaan Usaha Mikro, Kecil, dan Menengah diatur dengan Peraturan Pemerintah.\nKetentuan lebih lanjut mengenai tata cara pemberian sanksi administratif diatur dengan Peraturan Pemerintah.\n30",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/29221/UU%20Nomor%2020%20Tahun%202008.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:33:07Z"
+}

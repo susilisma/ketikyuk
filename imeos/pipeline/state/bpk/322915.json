@@ -1,0 +1,41 @@
+{
+ "id": "POJK-2025-10",
+ "source": "bpk",
+ "bpk_id": 322915,
+ "url": "https://peraturan.bpk.go.id/Details/322915/peraturan-ojk-no-10-tahun-2025",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "10",
+ "number_raw": "10",
+ "year": 2025,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 10 Tahun 2025 tentang Perizinan Usaha dan Kelembagaan Lembaga Penjamin",
+ "about": "Perizinan Usaha dan Kelembagaan Lembaga Penjamin",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-04-28",
+ "date_promulgated": "2025-05-06",
+ "date_effective": "2025-11-06",
+ "gazette": "BN.2025 (18)/25 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 129730,
+   "label": "Peraturan OJK No. 1/POJK.05/2017 Tahun 2017",
+   "about": "Perizinan Usaha dan Kelembagaan Lembaga Penjamin"
+  }
+ ],
+ "abstract": "a. bahwa untuk melakukan penguatan kelembagaan\nlembaga penjamin perlu dilakukan peningkatan\npermodalan, perluasan ruang lingkup operasional\nlembaga penjamin, dan untuk mewujudkan industri\npenjaminan yang sehat, terpercaya, dan berkelanjutan;\nb. bahwa Peraturan Otoritas Jasa Keuangan Nomor\n1/POJK.05/2017 tentang Perizinan Usaha dan\nKelembagaan Lembaga Penjamin sudah tidak sesuai\ndengan perkembangan industri penjaminan, sehingga\nperlu diubah;\nc. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a dan huruf b, perlu\nmenetapkan Peraturan Otoritas Jasa Keuangan tentang\nPerubahan atas Peraturan Otoritas Jasa Keuangan\nNomor 1/POJK.05/2017 tentang Perizinan Usaha dan\nKelembagaan Lembaga Penjamin;\nUU No. 21 Tahun 2011, UU No. 1 Tahun 2016 dan peraturan OJK Nomor 1/POJK.05/2017.\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Otoritas Jasa Keuangan Nomor 1/POJK.05/2017 tentang Perizinan Usaha dan Kelembagaan Lembaga Penjamin yaitu tentang ketentuan umum, Modal Disetor Perusahaan Penjaminan dan Perusahaan Penjaminan Syariah, Lingkup wilayah operasional Lembaga Penjamin, larangan, Lembaga Penjamin,Pelaporan perubahan nama Lembaga Penjamin, Pencabutan izin usaha Lembaga Penjamin atau\nizin UUS dan prinsip\npelindungan konsumen dan masyarakat",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 06 November 2025.\nPeraturan ini mengubah Peraturan Otoritas Jasa Keuangan Nomor\n1/POJK.05/2017 tentang Perizinan Usaha dan\nKelembagaan Lembaga Penjamin",
+ "citations": [
+  "POJK-2017-1",
+  "UU-2011-21",
+  "UU-2016-1"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/384724/Peraturan%20OJK%20Nomor%2010%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:43:49Z"
+}

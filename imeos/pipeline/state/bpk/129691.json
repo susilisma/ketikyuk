@@ -1,0 +1,37 @@
+{
+ "id": "POJK-2017-37",
+ "source": "bpk",
+ "bpk_id": 129691,
+ "url": "https://peraturan.bpk.go.id/Details/129691/peraturan-ojk-no-37pojk032017-tahun-2017",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "37",
+ "number_raw": "37/POJK.03/2017",
+ "year": 2017,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 37/POJK.03/2017 Tahun 2017 tentang Pemanfaatan Tenaga Kerja Asing dan Program Alih Pengetahuan di Sektor Perbankan",
+ "about": "Pemanfaatan Tenaga Kerja Asing dan Program Alih Pengetahuan di Sektor Perbankan",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "",
+ "date_enacted": "2017-07-12",
+ "date_promulgated": "2017-07-12",
+ "date_effective": "2017-07-12",
+ "gazette": "LN.2017/NO.143, TLN NO.6086, Jdih.ojk.go.id: 27 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 347285,
+   "label": "Peraturan OJK No. 1 Tahun 2026",
+   "about": "Penggunaan Tenaga Kerja Asing dan Program Alih Pengetahuan oleh Bank Umum"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 12 Juli 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/120596/SAL%20POJK%2037%20-%20TKA%20di%20perbankan.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:42:59Z"
+}

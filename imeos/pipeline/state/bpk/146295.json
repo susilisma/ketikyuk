@@ -1,0 +1,51 @@
+{
+ "id": "PERMENAKER-2018-10",
+ "source": "bpk",
+ "bpk_id": 146295,
+ "url": "https://peraturan.bpk.go.id/Details/146295/x",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "10",
+ "number_raw": "10",
+ "year": 2018,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 10 Tahun 2018 tentang Tata Cara Penggunaan Tenaga Kerja Asing",
+ "about": "Tata Cara Penggunaan Tenaga Kerja Asing",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "KETENAGAKERJAAN - KEWARGANEGARAAN DAN IMIGRASI",
+ "field": "",
+ "date_enacted": "2018-07-11",
+ "date_promulgated": "2018-07-11",
+ "date_effective": "2018-07-11",
+ "gazette": "BN.2018/No.882, jdih.kemnaker.go.id : 32 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENAKER-2021-8",
+   "target_bpk_id": 171228,
+   "label": "Permenaker No. 8 Tahun 2021",
+   "about": "Peraturan Pelaksanaan Peraturan Pemerintah Nomor 34 Tahun 2021 Tentang Penggunaan Tenaga Kerja Asing"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENAKER-2015-35",
+   "target_bpk_id": 146034,
+   "label": "Permenaker No. 35 Tahun 2015",
+   "about": "Perubahan atas Peraturan Menteri Ketenagakerjaan Nomor 16 Tahun 2015 tentang Tata Cara Penggunaan Tenaga Kerja Asing"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENAKER-2015-16",
+   "target_bpk_id": 145987,
+   "label": "Permenaker No. 16 Tahun 2015",
+   "about": "Tata Cara Penggunaan Tenaga Kerja Asing"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Ketenagakerjaan Republik Indonesia ini mulai berlaku pada tanggal 11 Juli 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/252467/Kemnaker%20No.%2010%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:51Z"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "PERPRES-2013-95",
+ "source": "bpk",
+ "bpk_id": 41465,
+ "url": "https://peraturan.bpk.go.id/Details/41465/perpres-no-95-tahun-2013",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "95",
+ "number_raw": "95",
+ "year": 2013,
+ "title": "Peraturan Presiden (Perpres) Nomor 95 Tahun 2013 tentang Tunjangan Kinerja Pegawai di Lingkungan Badan Koordinasi Keamanan Laut",
+ "about": "Tunjangan Kinerja Pegawai di Lingkungan Badan Koordinasi Keamanan Laut",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA",
+ "field": "",
+ "date_enacted": "2013-12-11",
+ "date_promulgated": "2013-12-11",
+ "date_effective": "2013-12-11",
+ "gazette": "LN.2013/NO.214, LL SETKAB : 7 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-97",
+   "target_bpk_id": 297394,
+   "label": "Perpres No. 97 Tahun 2024",
+   "about": "Tunjangan Kinerja Pegawai di Lingkungan Badan Keamanan Laut"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 11 Desember 2013.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/251159/Perpres%2095%202013.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:30:02Z"
+}

@@ -1,0 +1,51 @@
+{
+ "id": "UU-1997-5",
+ "source": "bpk",
+ "bpk_id": 45926,
+ "url": "https://peraturan.bpk.go.id/Details/45926/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "5",
+ "number_raw": "5",
+ "year": 1997,
+ "title": "Undang-undang (UU) Nomor 5 Tahun 1997 tentang Psikotropika",
+ "about": "Psikotropika",
+ "issuer": "Pemerintah Pusat",
+ "subject": "NARKOTIKA",
+ "field": "",
+ "date_enacted": "1997-03-11",
+ "date_promulgated": "1997-03-11",
+ "date_effective": "1997-03-11",
+ "gazette": "LN. 1997/ No. 10, TLN NO. 3671, LL SETNEG : 26 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 234926,
+   "label": "PERPU No. 2 Tahun 2022",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 11 Maret 1997.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/34479/UU%20Nomor%205%20Tahun%201997.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:25:50Z"
+}

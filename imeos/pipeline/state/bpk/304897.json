@@ -1,0 +1,53 @@
+{
+ "id": "UU-2024-63",
+ "source": "bpk",
+ "bpk_id": 304897,
+ "url": "https://peraturan.bpk.go.id/Details/304897/uu-no-63-tahun-2024",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "63",
+ "number_raw": "63",
+ "year": 2024,
+ "title": "Undang-undang (UU) Nomor 63 Tahun 2024 tentang Perubahan Ketiga atas Undang-Undang Nomor 6 Tahun 2011 tentan Keimigrasian",
+ "about": "Perubahan Ketiga atas Undang-Undang Nomor 6 Tahun 2011 tentan Keimigrasian",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KEWARGANEGARAAN DAN IMIGRASI",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2024-10-17",
+ "date_promulgated": "2024-10-17",
+ "date_effective": "2024-10-17",
+ "gazette": "LN 2024 (227), TLN (6996) : 7 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2011-6",
+   "target_bpk_id": 39140,
+   "label": "UU No. 6 Tahun 2011",
+   "about": "Keimigrasian"
+  }
+ ],
+ "abstract": "Untuk menindaklanjuti Putusan Mahkamah Konstitusi Nomor 40/PUU-IX/2011 dan Putusan Mahkamah Konstitusi Nomor 64/PUU-IX/2011, sehingga Undang-Undang Nomor 6 Tahun 2011 tentang Keimigrasian perlu diubah.\nDasar hukum UU ini adalah Pasal 20, Pasal 21, Pasal 26 ayat (2) dan ayat (3), dan Pasal 28E ayat 1 UUD 1945 dan UU Nomor 6 Tahun 2011.\nUU ini mengubah beberapa ketentuan dalam UU Nomor 6 Tahun 2011 tentang Keimigrasian. Pasal yang diubah antara lain Pasal 16 ayat (1) huruf b yang menyatakan bahwa Pejabat Imigrasi menolak orang untuk keluar wilayah Indonesia dalam hal orang tersebut diperlukan untuk kepentingan penyidikan dan penuntutan atas permintaan pejabat yang berwenang. Selain itu, pasal yang diubah yaitu Pasal ayat (1) yang menyatakan bahwa jangka waktu pencegahan berlaku paling lama 6 (enam) bulan dan dapat diperpanjang paling lama 6 (enam) bulan.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 17 Oktober 2024.\nLampiran file: 12 hlm (batang tubuh hlm 1 sd 7 dan penjelasan hlm 8 sd 12)",
+ "citations": [
+  "UU-2011-6"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/365011/UU%20Nomor%2063%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:26:22Z"
+}

@@ -1,0 +1,47 @@
+{
+ "id": "UU-2024-109",
+ "source": "bpk",
+ "bpk_id": 307401,
+ "url": "https://peraturan.bpk.go.id/Details/307401/uu-no-109-tahun-2024",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "109",
+ "number_raw": "109",
+ "year": 2024,
+ "title": "Undang-undang (UU) Nomor 109 Tahun 2024 tentang Kabupaten Ciamis di Provinsi Jawa Barat",
+ "about": "Kabupaten Ciamis di Provinsi Jawa Barat",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-10-28",
+ "date_promulgated": "2024-10-28",
+ "date_effective": "2024-10-28",
+ "gazette": "LN 2024 (295), TLN (7046) : 7 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-1968-4",
+   "target_bpk_id": 49136,
+   "label": "UU No. 4 Tahun 1968",
+   "about": "Pembentukan Kabupaten Purwakarta dan Kabupaten Subang dengan Mengubah Undang-Undang No.14 Tahun 1950 tentang Pembentukan Daerah-Daerah Kabupaten Dalam Lingkungan Provinsi Jawa Barat"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-1950-14",
+   "target_bpk_id": 59691,
+   "label": "UU No. 14 Tahun 1950",
+   "about": "Pemerintahan Daerah Kabupaten dalam Lingkungan Propinsi Djawa Barat"
+  }
+ ],
+ "abstract": "Undang-Undang Nomor 14 Tahun 1950 tentang pembentukan daerah-daerah kabupaten dalam lingkungan Propinsi Djawa Barat sebagaimana telah diubah dengan Undang-Undang Nomor 4 Tahun 1968 tentang Pembentukan Kabupaten Purwakarta dan Kabupaten Subang dengan Mengubah Undang-Undang Nomor 14 Tahun 1950 tentang Pembentukan Daerah-Daerah Kabupaten dalam Lingkungan Propinsi Jawa Barat, yang menjadi dasar hukum pembentukan Kabupaten Ciamis, sudah tidak sesuai lagi dengan perkembangan hukum sehingga perlu diganti.\nDasar hukum UU ini adalah Pasal 18, Pasal 18A, Pasal 18B ayat (2), Pasal 20, Pasal 21, dan Pasal 22D ayat (2) UUD 1945.\nUU ini mengatur mengenai Kabupaten Ciamis di Provinsi Jawa Barat dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Kabupaten Ciamis terdiri atas 27 (dua puluh tujuh) Kecamatan. Ibu Kota Kabupaten Ciamis berkedudukan di Kecamatan Ciamis.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 28 Oktober 2024.\nPada saat Undang-Undang ini mulai berlaku, ketentuan yang mengatur mengenai Kabupaten Ciamis dalam Undang-Undang Nomor 14 Tahun 1950 tentang pembentukan daerah-daerah kabupaten dalam lingkungan Propinsi Djawa Barat (Berita Negara tanggal 8 Agustus 1950) sebagaimana telah diubah dengan Undang-Undang Nomor 4 Tahun 1968 tentang Pembentukan Kabupaten Purwakarta dan Kabupaten Subang dengan Mengubah Undang-Undang Nomor 14 Tahun 1950 tentang Pembentukan Daerah-Daerah Kabupaten dalam Lingkungan Propinsi Jawa Barat (LN 1968/31; TLN NO.2851), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 10 hlm (batang tubuh hlm 1 sd 7, lampiran hlm 8 sd 10)",
+ "citations": [
+  "UU-1950-14",
+  "UU-1968-4"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/367795/UU%20Nomor%20109%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:25:20Z"
+}

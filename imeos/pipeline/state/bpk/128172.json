@@ -1,0 +1,72 @@
+{
+ "id": "PMK-2019-139",
+ "source": "bpk",
+ "bpk_id": 128172,
+ "url": "https://peraturan.bpk.go.id/Details/128172/pmk-no-139pmk072019",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "139",
+ "number_raw": "139/PMK.07/2019",
+ "year": 2019,
+ "title": "Peraturan Menteri Keuangan Nomor 139/PMK.07/2019 Tahun 2019 tentang Pengelolaan Dana Bagi Hasil, Dana Alokasi Umum, Dan Dana Otonomi Khusus",
+ "about": "Pengelolaan Dana Bagi Hasil, Dana Alokasi Umum, Dan Dana Otonomi Khusus",
+ "issuer": "Kementerian Keuangan",
+ "subject": "APBD - APBN",
+ "field": "",
+ "date_enacted": "2019-10-07",
+ "date_promulgated": "2019-10-08",
+ "date_effective": "2019-10-08",
+ "gazette": "JDIH.KEMENKEU.GO.ID : 129 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-67",
+   "target_bpk_id": 305815,
+   "label": "PMK No. 67 Tahun 2024",
+   "about": "Pengelolaan Dana Bagi Hasil dan Dana Alokasi Umum"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PMK-2022-76",
+   "target_bpk_id": 215613,
+   "label": "PMK No. 76/PMK.07/2022",
+   "about": "Pengelolaan Penerimaan dalam Rangka Otonomi Khusus"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2023-134",
+   "target_bpk_id": 283344,
+   "label": "PMK No. 134 Tahun 2023",
+   "about": "Perubahan Keempat Atas Peraturan Menteri Keuangan Nomorr 139/PMK.07/2019 tentang Pengelolaan Dana Bagi Hasil, Dana Alokasi Umum dan Dana Otonomi Khusus"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2022-86",
+   "target_bpk_id": 215951,
+   "label": "PMK No. 86/PMK.07/2022",
+   "about": "Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 139/PMK.07/2019 tentang Pengelolaan Dana Bagi Hasil, Dana Alokasi Umum, dan Dana Otonomi Khusus"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2022-211",
+   "target_bpk_id": 235228,
+   "label": "PMK No. 211/PMK.07/2022",
+   "about": "Perubahan Ketiga atas Peraturan Menteri Keuangan Nomor 139/PMK.07/2019 tentang Pengelolaan Dana Bagi Hasil, Dana Alokasi Umum, dan Dana Otonomi Khusus"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2020-233",
+   "target_bpk_id": 157341,
+   "label": "PMK No. 233/PMK.07/2020",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 139/PMK.07 /2019 tentang Pengelolaan Dana Bagi Hasil Dana Alokasi Umum, dan Dana Otonomi Khusus"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 08 Oktober 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/119167/139~PMK.07~2019Per.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:35:39Z"
+}

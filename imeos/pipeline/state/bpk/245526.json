@@ -1,0 +1,37 @@
+{
+ "id": "PERMENAKER-2022-20",
+ "source": "bpk",
+ "bpk_id": 245526,
+ "url": "https://peraturan.bpk.go.id/Details/245526/permenaker-no-20-tahun-2022",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "20",
+ "number_raw": "20",
+ "year": 2022,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 20 Tahun 2022 tentang Pedoman Pembayaran Dana Iuran Peserta Program Jaminan Kehilangan Pekerjaan oleh Pemerintah",
+ "about": "Pedoman Pembayaran Dana Iuran Peserta Program Jaminan Kehilangan Pekerjaan oleh Pemerintah",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "ASURANSI - KETENAGAKERJAAN - STANDAR / PEDOMAN",
+ "field": "",
+ "date_enacted": "2022-11-24",
+ "date_promulgated": "2022-12-02",
+ "date_effective": "2022-12-02",
+ "gazette": "BN.2022/No.1197, jdih.kemnaker.go.id: 7 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENAKER-2025-7",
+   "target_bpk_id": 323151,
+   "label": "Permenaker No. 7 Tahun 2025",
+   "about": "Perubahan atas\r\nPeraturan Menteri Ketenagakerjaan Nomor 20 Tahun\r\n2022 tentang Pedoman Pembayaran Dana Iuran Peserta\r\nProgram Jaminan Kehilangan Pekerjaan oleh\r\nPemerintah"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 02 Desember 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/301546/Permenaker%2020%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:41:11Z"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "PP-2014-66",
+ "source": "bpk",
+ "bpk_id": 5507,
+ "url": "https://peraturan.bpk.go.id/Details/5507/pp-no-66-tahun-2014",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "66",
+ "number_raw": "66",
+ "year": 2014,
+ "title": "Peraturan Pemerintah (PP) Nomor 66 Tahun 2014 tentang Kesehatan Lingkungan",
+ "about": "Kesehatan Lingkungan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KESEHATAN - LINGKUNGAN HIDUP",
+ "field": "",
+ "date_enacted": "2014-08-06",
+ "date_promulgated": "2014-08-06",
+ "date_effective": "2014-08-06",
+ "gazette": "LN. 2014 No. 184, TLN No. 5570, LL SETNEG : 36 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-28",
+   "target_bpk_id": 294077,
+   "label": "PP No. 28 Tahun 2024",
+   "about": "Peraturan Pelaksanaan Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 06 Agustus 2014.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/32220/PP%20Nomor%2066%20Tahun%202014.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:30:47Z"
+}

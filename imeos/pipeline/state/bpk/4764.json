@@ -1,0 +1,44 @@
+{
+ "id": "PP-2007-42",
+ "source": "bpk",
+ "bpk_id": 4764,
+ "url": "https://peraturan.bpk.go.id/Details/4764/pp-no-42-tahun-2007",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "42",
+ "number_raw": "42",
+ "year": 2007,
+ "title": "Peraturan Pemerintah (PP) Nomor 42 Tahun 2007 tentang Waralaba",
+ "about": "Waralaba",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "",
+ "date_enacted": "2007-07-23",
+ "date_promulgated": "2007-07-23",
+ "date_effective": "2007-07-23",
+ "gazette": "LN. 2007 No. 90, TLN No. 4742, LL SETNEG : 9 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-35",
+   "target_bpk_id": 297489,
+   "label": "PP No. 35 Tahun 2024",
+   "about": "Waralaba"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-1997-16",
+   "target_bpk_id": 56246,
+   "label": "PP No. 16 Tahun 1997",
+   "about": "Waralaba"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 23 Juli 2007.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/37869/PP%2042%20Tahun%202007.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:30:11Z"
+}

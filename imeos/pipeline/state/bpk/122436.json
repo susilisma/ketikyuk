@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2015-16",
+ "source": "bpk",
+ "bpk_id": 122436,
+ "url": "https://peraturan.bpk.go.id/Details/122436/pmk-no-16pmk082015",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "16",
+ "number_raw": "16/PMK.08/2015",
+ "year": 2015,
+ "title": "Peraturan Menteri Keuangan Nomor 16/PMK.08/2015 Tahun 2015 tentang Perubahan Atas Peraturan Menteri Keuangan Nomor 75/PMK.08/2013 Tentang Pembelian Kembali Surat Berharga Syariah Negara",
+ "about": "Perubahan Atas Peraturan Menteri Keuangan Nomor 75/PMK.08/2013 Tentang Pembelian Kembali Surat Berharga Syariah Negara",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PASAR MODAL DAN PERDAGANGAN BERJANGKA KOMODITI",
+ "field": "",
+ "date_enacted": "2015-01-23",
+ "date_promulgated": "2015-01-27",
+ "date_effective": "2015-01-27",
+ "gazette": "BN.2015/NO.125,jdih.kemenkeu.go.id : 8 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-59",
+   "target_bpk_id": 326042,
+   "label": "PMK No. 59 Tahun 2025",
+   "about": "Pembelian Kembali dan Penjualan Secara Langsung Surat Berharga Syariah Negara serta Penerbitan Surat Berharga Syariah Negara sebagai Seri Penukar dalam Rangka Pembelian Kembali Surat Utang Negara"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PMK-2013-75",
+   "target_bpk_id": 149908,
+   "label": "PMK No. 75/PMK.08/2013",
+   "about": "Pembelian Kembali Surat Berharga Syariah Negara"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 27 Januari 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/113197/PERATURAN%20MENTERI%20KEUANGAN%20NOMOR%2016-PMK.08-2015.PDF"
+ ],
+ "fetched_at": "2026-09-14T06:33:07Z"
+}

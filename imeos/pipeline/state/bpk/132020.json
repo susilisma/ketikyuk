@@ -1,0 +1,58 @@
+{
+ "id": "PERPRES-2020-27",
+ "source": "bpk",
+ "bpk_id": 132020,
+ "url": "https://peraturan.bpk.go.id/Details/132020/perpres-no-27-tahun-2020",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "27",
+ "number_raw": "27",
+ "year": 2020,
+ "title": "Peraturan Presiden (Perpres) Nomor 27 Tahun 2020 tentang Kementerian Pekerjaan Umum dan Perumahan Rakyat",
+ "about": "Kementerian Pekerjaan Umum dan Perumahan Rakyat",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "",
+ "date_enacted": "2020-02-07",
+ "date_promulgated": "2020-02-10",
+ "date_effective": "2020-02-10",
+ "gazette": "LN.2020/NO.40, JDIH.SETKAB.GO.ID : 23 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-170",
+   "target_bpk_id": 306752,
+   "label": "Perpres No. 170 Tahun 2024",
+   "about": "Kementerian Pekerjaan Umum"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2024-24",
+   "target_bpk_id": 277602,
+   "label": "PERPRES No. 24 Tahun 2024",
+   "about": "Perubahan atas  Peraturan Presiden Nomor 27 Tahun 2020 tentang Kementerian Pekerjaan Umum dan Perumahan Rakyat"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2018-135",
+   "target_bpk_id": 99843,
+   "label": "PERPRES No. 135 Tahun 2018",
+   "about": "Perubahan atas Peraturan Presiden Nomor 15 Tahun 2015 tentang Kementerian Pekerjaan Umum dan Perumahan Rakyat"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2015-15",
+   "target_bpk_id": 41737,
+   "label": "PERPRES No. 15 Tahun 2015",
+   "about": "Kementerian Pekerjaan Umum Dan Perumahan Rakyat"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 10 Februari 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/122813/Perpres%20Nomor%2027%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:27:49Z"
+}

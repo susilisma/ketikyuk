@@ -1,0 +1,43 @@
+{
+ "id": "PERMENDAG-2026-3",
+ "source": "bpk",
+ "bpk_id": 347104,
+ "url": "https://peraturan.bpk.go.id/Details/347104/permendag-no-3-tahun-2026",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "3",
+ "number_raw": "3",
+ "year": 2026,
+ "title": "Peraturan Menteri Perdagangan Nomor 3 Tahun 2026 tentang Pelimpahan Kewenangan Melalui Mandat dan Delegasi dalam Pelaksanaan Administrasi Kepegawaian pada Kementerian Perdagangan",
+ "about": "Pelimpahan Kewenangan Melalui Mandat dan Delegasi dalam Pelaksanaan Administrasi Kepegawaian pada Kementerian Perdagangan",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PELIMPAHAN KEWENANGAN / PENUGASAN PEJABAT NEGARA / PENUGASAN BUMN - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-02-06",
+ "date_promulgated": "2026-02-13",
+ "date_effective": "2026-02-13",
+ "gazette": "BN.2026 (100)/21 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2020-99",
+   "target_bpk_id": 160461,
+   "label": "Permendag No. 99 Tahun 2020",
+   "about": "Pelimpahan Kewenangan Mandat dan Delegasi Dalam Pelaksanakan Administrasi Kepegawaian di Lingkungan Kementerian Perdagangan"
+  }
+ ],
+ "abstract": "a. bahwa untuk mendukung kelancaran pelaksanaan tugas\ndan meningkatkan pelayanan administrasi kepegawaian\ndi lingkungan Kementerian Perdagangan, perlu mengatur\nkembali pelimpahan kewenangan melalui mandat dan\ndelegasi dalam pelaksanaan administrasi kepegawaian\npada Kementerian Perdagangan;\nb. bahwa Peraturan Menteri Perdagangan Nomor 99 Tahun\n2020 tentang Pelimpahan Kewenangan Mandat dan\nDelegasi dalam Pelaksanaan Administrasi Kepegawaian\ndi Lingkungan Kementerian Perdagangan sudah tidak\nsesuai dengan perkembangan hukum dan kebutuhan\norganisasi, sehingga perlu diganti;\nc. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a dan huruf b, perlu menetapkan\nPeraturan Menteri Perdagangan tentang Pelimpahan\nKewenangan melalui Mandat dan Delegasi dalam\nPelaksanaan Administrasi Kepegawaian pada\nKementerian Perdagangan;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 30 Tahun 2014, Peraturan Presiden Nomor 168 Tahun 2024 dan Peraturan Menteri Perdagangan Nomor 6 Tahun 2025\nPeraturan ini mengatur tentang ketentuan umum, administrasi kepegawaian, kewenangan administrasi dan Pelimpahan Kewenangan.",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 13 Februari 2026.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan\nMenteri Perdagangan Nomor 99 Tahun 2020 tentang\nPelimpahan Kewenangan Mandat dan Delegasi dalam\nPelaksanaan Administrasi Kepegawaian di Lingkungan\nKementerian Perdagangan",
+ "citations": [
+  "PERMENDAG-2020-99",
+  "UU-2008-39",
+  "UU-2014-30",
+  "PERPRES-2024-168",
+  "PERMENDAG-2025-6"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/410534/PERMENDAG%20NOMOR%203%20TAHUN%202026.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:36:14Z"
+}

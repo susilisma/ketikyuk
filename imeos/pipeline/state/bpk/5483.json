@@ -1,0 +1,44 @@
+{
+ "id": "PP-2014-44",
+ "source": "bpk",
+ "bpk_id": 5483,
+ "url": "https://peraturan.bpk.go.id/Details/5483/pp-no-44-tahun-2014",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "44",
+ "number_raw": "44",
+ "year": 2014,
+ "title": "Peraturan Pemerintah (PP) Nomor 44 Tahun 2014 tentang Jenis Dan Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Berlaku Pada Kementerian Lingkungan Hidup",
+ "about": "Jenis Dan Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Berlaku Pada Kementerian Lingkungan Hidup",
+ "issuer": "Pemerintah Pusat",
+ "subject": "LINGKUNGAN HIDUP - PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
+ "field": "",
+ "date_enacted": "2014-05-30",
+ "date_promulgated": "2014-06-03",
+ "date_effective": "2014-06-03",
+ "gazette": "LN. 2014 No. 124, TLN No. 5540,LL SETNEG : 6 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-36",
+   "target_bpk_id": 302948,
+   "label": "PP No. 36 Tahun 2024",
+   "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Kementerian Lingkungan Hidup dan Kehutanan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2008-52",
+   "target_bpk_id": 4867,
+   "label": "PP No. 52 Tahun 2008",
+   "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Kementerian Negara Lingkungan Hidup"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 03 Juni 2014.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/30411/PP%20Nomor%2044%20Tahun%202014.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:30:07Z"
+}

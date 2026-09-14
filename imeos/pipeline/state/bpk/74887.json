@@ -1,0 +1,37 @@
+{
+ "id": "PP-1960-26",
+ "source": "bpk",
+ "bpk_id": 74887,
+ "url": "https://peraturan.bpk.go.id/Details/74887/x",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "26",
+ "number_raw": "26",
+ "year": 1960,
+ "title": "Peraturan Pemerintah (PP) Nomor 26 Tahun 1960 tentang Lafal Sumpah Dokter",
+ "about": "Lafal Sumpah Dokter",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KESEHATAN",
+ "field": "",
+ "date_enacted": "1960-06-02",
+ "date_promulgated": "1960-06-02",
+ "date_effective": "1960-06-02",
+ "gazette": "LN. 1960/No. 69, LL : 2 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-28",
+   "target_bpk_id": 294077,
+   "label": "PP No. 28 Tahun 2024",
+   "about": "Peraturan Pelaksanaan Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 02 Juni 1960.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/65391/pp%20no%20026%20tahun%201960.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:36Z"
+}

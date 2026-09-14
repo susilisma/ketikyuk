@@ -1,0 +1,51 @@
+{
+ "id": "PERMENPERIN-2020-3",
+ "source": "bpk",
+ "bpk_id": 166933,
+ "url": "https://peraturan.bpk.go.id/Details/166933/permenperin-no-3-tahun-2020",
+ "form": "PERMENPERIN",
+ "form_long": "Peraturan Menteri Perindustrian",
+ "number": "3",
+ "number_raw": "3",
+ "year": 2020,
+ "title": "Peraturan Menteri Perindustrian Nomor 3 Tahun 2020 tentang Jabatan Dan Kelas Jabatan Di Lingkungan Kementerian Perindustrian",
+ "about": "Jabatan Dan Kelas Jabatan Di Lingkungan Kementerian Perindustrian",
+ "issuer": "Kementerian Perindustrian",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA - KEPEGAWAIAN, APARATUR NEGARA - JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "",
+ "date_enacted": "2020-01-27",
+ "date_promulgated": "2020-02-03",
+ "date_effective": "2020-02-03",
+ "gazette": "BN 2020/ No 85; http://jdih.kemenperin.go.id/; 7 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENPERIN-2024-11",
+   "target_bpk_id": 287643,
+   "label": "Permenperin No. 11 Tahun 2024",
+   "about": "Pencabutan Peraturan Menteri Perindustrian Nomor 3 Tahun 2020 Tentang Jabatan Dan Kelas Jabatan Di Lingkungan Kementerian Perindustrian Sebagaimana Telah Diubah Dengan Peraturan Menteri Perindustrian Nomor 60 Tahun 2020 Tentang Perubahan Atas Peraturan Menteri Perindustrian Nomor 3 Tahun 2020 Tentang Jabatan Dan Kelas Jabatan Di Lingkungan Kementerian Perindustrian"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENPERIN-2020-60",
+   "target_bpk_id": 167427,
+   "label": "Permenperin No. 60 Tahun 2020",
+   "about": "Perubahan Atas Peraturan Menteri Perindustrian Nomor 3 Tahun 2020 tentang Jabatan dan Kelas Jabatan di Lingkungan Kementerian Perindustrian"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENPERIN-2018-36",
+   "target_bpk_id": 166934,
+   "label": "Permenperin No. 36 Tahun 2018",
+   "about": "Kelas Jabatan Di Lingkungan Kementerian Perindustrian."
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perindustrian ini mulai berlaku pada tanggal 03 Februari 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/159861/Permenperin_No._3_Tahun_2020_(2)_.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:40:20Z"
+}

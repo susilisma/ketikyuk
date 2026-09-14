@@ -1,0 +1,37 @@
+{
+ "id": "PERPRES-2016-72",
+ "source": "bpk",
+ "bpk_id": 40976,
+ "url": "https://peraturan.bpk.go.id/Details/40976/perpres-no-72-tahun-2016",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "72",
+ "number_raw": "72",
+ "year": 2016,
+ "title": "Peraturan Presiden (Perpres) Nomor 72 Tahun 2016 tentang Institut Agama Islam Negeri Lhokseumawe",
+ "about": "Institut Agama Islam Negeri Lhokseumawe",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PENDIDIKAN",
+ "field": "",
+ "date_enacted": "2016-08-01",
+ "date_promulgated": "2016-08-03",
+ "date_effective": "2016-08-03",
+ "gazette": "LN No. 2016/ No.160, LL Setneg : 4 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2025-56",
+   "target_bpk_id": 320247,
+   "label": "Perpres No. 56 Tahun 2025",
+   "about": "Universitas Islam Negeri Sultanah Nahrasiyah Lhokseumawe"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 03 Agustus 2016.\nPada saat Peraturan Presiden ini mulai berlaku,\nKeputusan Presiden Nomor 2 Tahun 2OO4 tentang\nPendirian Sekolah Tinggi Agama Islam Negeri\nMalikussaleh Lhokseumawe, dicabut dan dinyatakan\ntidak berlaku.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/33178/Perpres%20Nomor%2072%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:25:54Z"
+}

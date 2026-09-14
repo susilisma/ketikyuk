@@ -1,0 +1,37 @@
+{
+ "id": "PERPRES-2024-101",
+ "source": "bpk",
+ "bpk_id": 300512,
+ "url": "https://peraturan.bpk.go.id/Details/300512/perpres-no-101-tahun-2024",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "101",
+ "number_raw": "101",
+ "year": 2024,
+ "title": "Peraturan Presiden (Perpres) Nomor 101 Tahun 2024 tentang Tata Kelola Kompleks Candi Borobudur",
+ "about": "Tata Kelola Kompleks Candi Borobudur",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PARIWISATA DAN KEBUDAYAAN",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2024-09-20",
+ "date_promulgated": "2024-09-20",
+ "date_effective": "2024-09-20",
+ "gazette": "LN 2024 (195) : 13 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut sebagian",
+   "target": null,
+   "target_bpk_id": 61804,
+   "label": "KEPPRES No. 1 Tahun 1992",
+   "about": "Pengelolaan Taman Wisata Candi Borobudur Dan Taman Wisata Candi Prambanan Serta Pengendalian Lingkungan Kawasannya"
+  }
+ ],
+ "abstract": "Untuk melindungi dan melestarikan Kompleks Candi Borobudur sebagai salah satu kebudayaan nasional Indonesia dan untuk memberikan manfaat yang sebesar-besarnya bagi kemakmuran rakyat, perlu menerapkan tata kelola yang baik di Kompleks Candi Borobudur.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD 1945.\nPerpres ini mengatur mengenai tata kelola Kompleks Candi Borobudur yang merupakan bentuk mekanisme pengelolaan secara terpadu untuk melindungi, mengembangkan, dan memanfaatkan Kompleks Candi Borobudur sebagai warisan dunia melalui kebijakan pengaturan perencanaan, pelaksanaan, dan pengawasan untuk sebesar-besarnya kemakmuran rakyat. Tata kelola Kompleks Candi Borobudur diselenggarakan melalui pembagian zona dengan menerapkan manajemen destinasi tunggal.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 20 September 2024.\nPada saat Peraturan Presiden ini berlaku, Keputusan Presiden Nomor 1 Tahun 1992 tentang Pengelolaan Taman Wisata Candi Borobudur dan Taman Wisata Candi Prambanan serta Pengendalian Lingkungan Kawasannya, sepanjang yang mengatur tata kelola Kompleks Candi Borobudur dicabut dan dinyatakan tidak berlaku.\nLampiran file: 40 hlm (batang tubuh hlm 1 sd 13 dan lampiran hlm 14 sd 40).",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/360293/Perpres%20Nomor%20101%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:29:52Z"
+}

@@ -1,0 +1,68 @@
+{
+ "id": "PP-2026-13",
+ "source": "bpk",
+ "bpk_id": 349363,
+ "url": "https://peraturan.bpk.go.id/Details/349363/pp-no-13-tahun-2026",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "13",
+ "number_raw": "13",
+ "year": 2026,
+ "title": "Peraturan Pemerintah (PP) Nomor 13 Tahun 2026 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Badan Riset dan Inovasi Nasional",
+ "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Badan Riset dan Inovasi Nasional",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-03-27",
+ "date_promulgated": "2026-03-27",
+ "date_effective": "2026-04-26",
+ "gazette": "LN 2026 (33), TLN (7166) : 7 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PP-2021-62",
+   "target_bpk_id": 165947,
+   "label": "PP No. 62 Tahun 2021",
+   "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Lembaga Ilmu Pengetahuan Indonesia"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2019-8",
+   "target_bpk_id": 102673,
+   "label": "PP No. 8 Tahun 2019",
+   "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Badan Tenaga Nuklir Nasional"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2019-14",
+   "target_bpk_id": 103891,
+   "label": "PP No. 14 Tahun 2019",
+   "about": "Jenis dan Tarif Atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Lembaga Penerbangan dan Antariksa Nasional"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2018-51",
+   "target_bpk_id": 99184,
+   "label": "PP No. 51 Tahun 2018",
+   "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Badan Pengkajian dan Penerapan Teknologi"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2014-13",
+   "target_bpk_id": 5450,
+   "label": "PP No. 13 Tahun 2014",
+   "about": "Jenis Dan Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Berlaku Pada Kementerian Riset Dan Teknologi"
+  }
+ ],
+ "abstract": "Dengan telah dilakukan proses integrasi kementerian dan lembaga yang mempunyai tugas dan fungsi penelitian, pengembangan, pengkajian, dan penerapan, serta invensi dan inovasi, penyelenggaraan ketenaganukliran, dan penyelenggaraan keantariksaan menjadi Badan Riset dan Inovasi Nasional, perlu melakukan penyesuaian jenis dan tarif atas Penerimaan Negara Bukan Pajak yang berlaku pada Badan Riset dan Inovasi Nasional.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945; UU No. 9 Tahun 2018; dan PP No. 44 Tahun 2025.\nPP ini mengatur mengenai jenis dan tarif atas Penerimaan Negara Bukan Pajak yang berlaku pada Badan Riset dan Inovasi Nasional sebagaimana tercantum dalam Lampiran yang merupakan bagian tidak terpisahkan dari PP ini.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 26 April 2026.\nPP ini mencabut PP No. 13 Tahun 2014; PP No. 51 Tahun 2018; PP No. 8 Tahun 2019; PP No. 14 Tahun 2019; dan PP No. 62 Tahun 2021.\nseluruh Penerimaan Negara Bukan Pajak yang berlaku pada Badan Riset dan Inovasi Nasional wajib disetor ke kas negara.\nLampiran file: 22 hlm (batang tubuh hlm 1 sd 7; penjelasan hlm 8 sd 11; dan lampiran hlm 12 sd 22)",
+ "citations": [
+  "UU-2018-9",
+  "PP-2025-44"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/413048/PP%20Nomor%2013%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:28:12Z"
+}

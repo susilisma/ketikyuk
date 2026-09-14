@@ -1,0 +1,75 @@
+{
+ "id": "UU-2015-2",
+ "source": "bpk",
+ "bpk_id": 37678,
+ "url": "https://peraturan.bpk.go.id/Details/37678/uu-no-2-tahun-2015",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "2",
+ "number_raw": "2",
+ "year": 2015,
+ "title": "Undang-undang (UU) Nomor 2 Tahun 2015 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2014 tentang Perubahan atas Undang-Undang Nomor 23 Tahun 2014 Tentang Pemerintahan Daerah Menjadi Undang-Undang",
+ "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2014 tentang Perubahan atas Undang-Undang Nomor 23 Tahun 2014 Tentang Pemerintahan Daerah Menjadi Undang-Undang",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH - PARTAI POLITIK DAN PEMILU",
+ "field": "",
+ "date_enacted": "2015-02-02",
+ "date_promulgated": "2015-02-02",
+ "date_effective": "2015-02-02",
+ "gazette": "LN.2015/NO.24, TLN NO.5657, LL SETNEG : 3 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2019-17",
+   "target_bpk_id": 122742,
+   "label": "UU No. 17 Tahun 2019",
+   "about": "Sumber Daya Air"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2026-1",
+   "target_bpk_id": 337869,
+   "label": "UU No. 1 Tahun 2026",
+   "about": "Penyesuaian Pidana"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2019-17",
+   "target_bpk_id": 122742,
+   "label": "UU No. 17 Tahun 2019",
+   "about": "Sumber Daya Air"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2015-9",
+   "target_bpk_id": 38209,
+   "label": "UU No. 9 Tahun 2015",
+   "about": "Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2014-23",
+   "target_bpk_id": 38685,
+   "label": "UU No. 23 Tahun 2014",
+   "about": "Pemerintahan Daerah"
+  }
+ ],
+ "abstract": "bahwa dengan berlakunya Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2014 tentang Pemilihan Gubernur, Bupati, dan Walikota yang mengatur pemilihan kepala daerah dilakukan secara langsung maka telah dilakukan perubahan terhadap Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah,dilakukan untuk memberikan kepastian hukum dalam pelaksanaan pemilihan kepala daerah yang berlandaskan kedaulatan rakyat dan demokrasi\nPasal 5 ayat (1), Pasal 20, Pasal 22 ayat (2) UndangUndang Dasar Negara Republik Indonesia Tahun 1945;\nUndang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah\nDengan berlakunya Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2014 tentang Pemilihan Gubernur, Bupati, dan Walikota yang mengatur pemilihan kepala daerah dilakukan secara langsung dan untuk memberikan kepastian hukum dalam pelaksanaan pemilihan kepala daerah yang berlandaskan kedaulatan rakyat dan demokrasi maka perlu dilakukan perubahan terhadap ketentuan mengenai tugas dan wewenang DPRD Provinsi dan DPRD Kabupaten/Kota",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 02 Februari 2015.\n6 halaman",
+ "citations": [
+  "PERPPU-2014-1",
+  "UU-2014-23"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/26778/UU%20Nomor%202%20Tahun%202015.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:23:25Z"
+}

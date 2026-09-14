@@ -1,0 +1,54 @@
+{
+ "id": "UU-2022-2",
+ "source": "bpk",
+ "bpk_id": 195878,
+ "url": "https://peraturan.bpk.go.id/Details/195878/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "2",
+ "number_raw": "2",
+ "year": 2022,
+ "title": "Undang-undang (UU) Nomor 2 Tahun 2022 tentang Perubahan Kedua atas Undang-Undang Nomor 38 Tahun 2004 tentang Jalan",
+ "about": "Perubahan Kedua atas Undang-Undang Nomor 38 Tahun 2004 tentang Jalan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KONSTRUKSI, SIPIL, ARSITEK, BANGUNAN, DAN INFRASTRUKTUR - LALU LINTAS, JALAN",
+ "field": "",
+ "date_enacted": "2022-01-12",
+ "date_promulgated": "2022-01-12",
+ "date_effective": "2022-01-12",
+ "gazette": "LN.2022/No.12, TLN No. 6760, jdih.setneg.go.id : 46 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2004-38",
+   "target_bpk_id": 40785,
+   "label": "UU No. 38 Tahun 2004",
+   "about": "Jalan"
+  }
+ ],
+ "abstract": "Beberapa ketentuan dalam Undang-Undang Nomor 38 Tahun 2004 tentang Jalan sudah tidak sesuai dengan perkembangan dan kebutuhan hukum sehingga perlu diubah.\nDasar hukum Perpres ini adalah Pasal 20, Pasal 21, Pasal 33 ayat (3) dan ayat (4), dan Pasal 34 ayat (3) dan ayat (4) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 38 Tahun 2004; dan UU Nomor 11 Tahun 2020.\nUU ini mengatur mengenai perubahan dan penambahan beberapa ketentuan mengenai Jalan Khusus, data dan informasi Penyelenggaraan Jalan, partisipasi masyarakat, dan penyidikan oleh penyidik pegawai negeri sipil. Lingkup pengaturan UU ini meliputi: a) peran, pengelompokan, dan bagian-bagian Jalan; b) Jalan Umum; c) Jalan Tol; d) Jalan Khusus; e) data dan informasi; f) partisipasi masyarakat; dan g) penyidikan.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 12 Januari 2022.\nUU ini mengubah UU Nomor 38 Tahun 2004 tentang Jalan.\nPenjelasan: 31 hlm",
+ "citations": [
+  "UU-2004-38",
+  "UU-2020-11"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/189716/UU%20Nomor%202%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:24Z"
+}

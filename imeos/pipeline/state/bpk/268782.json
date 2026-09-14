@@ -1,0 +1,57 @@
+{
+ "id": "PERMENPERIN-2023-23",
+ "source": "bpk",
+ "bpk_id": 268782,
+ "url": "https://peraturan.bpk.go.id/Details/268782/permenperin-no-23-tahun-2023",
+ "form": "PERMENPERIN",
+ "form_long": "Peraturan Menteri Perindustrian",
+ "number": "23",
+ "number_raw": "23",
+ "year": 2023,
+ "title": "Peraturan Menteri Perindustrian Nomor 23 Tahun 2023 tentang Perubahan Kedua atas Peraturan Menteri Perindustrian Nomor 54/M­-IND/PER/3/2012 tentang Pedoman Penggunaan Produk Dalam Negeri untuk Pembangunan Infrastruktur Ketenagalistrikan",
+ "about": "Perubahan Kedua atas Peraturan Menteri Perindustrian Nomor 54/M­-IND/PER/3/2012 tentang Pedoman Penggunaan Produk Dalam Negeri untuk Pembangunan Infrastruktur Ketenagalistrikan",
+ "issuer": "Kementerian Perindustrian",
+ "subject": "PERTAMBANGAN MIGAS, MINERAL DAN ENERGI - PERINDUSTRIAN",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2023-08-30",
+ "date_promulgated": "2023-09-01",
+ "date_effective": "2023-09-01",
+ "gazette": "BN 2023 (695) : 4 hlm.; jdih.kemenperin.go.id",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENPERIN-2024-33",
+   "target_bpk_id": 296084,
+   "label": "Permenperin No. 33 Tahun 2024",
+   "about": "Pencabutan Peraturan Menteri Perindustrian Nomor 54/M-IND/PER/3/2012 tentang Pedoman Penggunaan Produk Dalam Negeri Untuk Pembangunan Infrastruktur Ketenagalistrikan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENPERIN-2017-5",
+   "target_bpk_id": 268784,
+   "label": "Permenperin No. 5/M-IND/PER/2/2017 Tahun 2017",
+   "about": "Perubahan atas Peraturan Menteri Perindustrian Nomor 54/M­-IND/PER/3/2012 tentang Pedoman Penggunaan Produk Dalam Negeri untuk Pembangunan Infrastruktur Ketenagalistrikan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENPERIN-2012-54",
+   "target_bpk_id": 268783,
+   "label": "Permenperin No. 54/M-IND/PER/3/2012 Tahun 2012",
+   "about": "Pedoman Penggunaan Produk Dalam Negeri untuk Pembangunan Infrastruktur Ketenagalistrikan"
+  }
+ ],
+ "abstract": "Untuk mendukung pembangunan infrastruktur ketenagalistrikan, perlu mengatur kembali ketentuan mengenai nilai tingkat komponen dalam negeri.\nDasar hukum Permenperin ini adalah Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 39 Tahun 2008; UU Nomor 3 Tahun 2014; PP Nomor 29 Tahun 2018; Perpres Nomor 107 Tahun 2020; Permenperin Nomor 54/M­-IND/PER/3/2012; Permenperin Nomor 4/M­-IND/PER/2/2017; dan Permenperin Nomor 8 Tahun 2023.\nPermenperin ini mengubah beberapa ketentuan dalam Permenperin Nomor 54/M­-IND/PER/3/2012.",
+ "note": "Peraturan Menteri Perindustrian ini mulai berlaku pada tanggal 01 September 2023.",
+ "citations": [
+  "UU-2008-39",
+  "UU-2014-3",
+  "PP-2018-29",
+  "PERPRES-2020-107",
+  "PERMENPERIN-2023-8"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/326162/2023pmperin023.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:39:45Z"
+}

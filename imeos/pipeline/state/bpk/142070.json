@@ -1,0 +1,41 @@
+{
+ "id": "PMK-2020-90",
+ "source": "bpk",
+ "bpk_id": 142070,
+ "url": "https://peraturan.bpk.go.id/Details/142070/pmk-no-90pmk032020",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "90",
+ "number_raw": "90/PMK.03/2020",
+ "year": 2020,
+ "title": "Peraturan Menteri Keuangan Nomor 90/PMK.03/2020 Tahun 2020 tentang Bantuan Atau Sumbangan, Serta Harta Hibahan Yang Dikecualikan Sebagai Objek Pajak Penghasilan",
+ "about": "Bantuan Atau Sumbangan, Serta Harta Hibahan Yang Dikecualikan Sebagai Objek Pajak Penghasilan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BANTUAN, SUMBANGAN, BENCANA / KEBENCANAAN, DAN PENANGGULANGAN BENCANA",
+ "field": "",
+ "date_enacted": "2020-07-20",
+ "date_promulgated": "2020-07-21",
+ "date_effective": "2020-07-21",
+ "gazette": "BN. 2020/NO. 807, JDIH.KEMENKEU.GO.ID : 12 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-114",
+   "target_bpk_id": 342503,
+   "label": "PMK No. 114 Tahun 2025",
+   "about": "Perlakuan atas Bantuan atau Sumbangan Termasuk Zakat atau Sumbangan Keagamaan yang Sifatnya Wajib, serta Harta Hibahan dalam Pajak Penghasilan"
+  }
+ ],
+ "abstract": "bahwa untuk memberikan kepastian hukum bagi Wajib Pajak yang memberi maupun menerima bantuan atau sumbangan, serta harta hibahan, serta untuk melaksanakan ketentuan Pasal 4 ayat (1) huruf d angka 4 dan ayat (3) huruf a angka 2 Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan sebagaimana telah beberapa kali diubah, terakhir dengan Undang-Undang Nomor 36 Tahun 2008, perlu menetapkan Peraturan Menteri Keuangan tentang Bantuan atau Sumbangan, serta Harta Hibahan yang Dikecualikan sebagai Objek Pajak Penghasilan;\nDasar Hukum Peraturan ini adalah:\nPasal 17 ayat (3) UUD RI Tahun 1945; UU No. 7 Tahun 1983 (LN Tahun 1983 No. 50, TLN No. 3263) sebagaimana telah beberapa kali diubah, terakhir dengan UU No. 36 Tahun 2008 (LN Tahun 2008 No. 133, TLN No. 4893); UU No. 39 Tahun 2008 (LN Tahun 2008 No. 166, TLN No. 4916); Perpres RI No. 57 Tahun 2020 (LN Tahun 2020 No. 98); Permenkeu RI No. 217/PMK.01/2018 (BN Tahun 2018 No. 1862) sebagaimana telah beberapa kali diubah, terakhir dengan Permenkeu RI No. 229/PMK.01/2019 (BN Tahun 2019 No. 1745);\nDalam Peraturan Menteri Keuangan Republik Indonesia ini diatur:\nKetentuan mengenai hibah, bantuan, atau sumbangan dapat dikurangkan dari penghasilan bruto untuk menghitung penghasilan kena pajak sebagaimana dimaksud dalam ketentuan peraturan perundang-undangan di bidang perpajakan.\nKeuntungan karena pengalihan harta berupa hibah, bantuan, atau sumbangan merupakan objek Pajak Penghasilan bagi Pihak pemberi. Namun demikian, dikecualikan sebagai objek Pajak Penghasilan sepanjang hibah, bantuan, atau sumbangan diberikan kepada keluarga sedarah dalam garis keturunan lurus satu derajat,badan keagamaan, badan pendidikan, badan sosial termasuk Yayasan, koperasi atau orang pribadi yang menjalankan usaha mikro dan kecil, dan tidak ada hubungan dengan usaha, pekerjaan, kepemilikan, atau penguasaan di antara Pihak-Pihak yang bersangkutan.\nLebih lanjut dalam Peraturan Menteri ini diatur pula ketentuan bagi pihak pemberi dan ketentuan bagi pihak penerima.",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 21 Juli 2020.\n-\n-\n20 HLM, Lampiran halaman 13 – 20.",
+ "citations": [
+  "UU-1983-7",
+  "UU-2008-36",
+  "UU-2008-39"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/133486/90_PMK.03_2020.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:31:44Z"
+}

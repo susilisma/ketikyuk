@@ -1,0 +1,49 @@
+{
+ "id": "PMK-2026-18",
+ "source": "bpk",
+ "bpk_id": 347094,
+ "url": "https://peraturan.bpk.go.id/Details/347094/pmk-no-18-tahun-2026",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "18",
+ "number_raw": "18",
+ "year": 2026,
+ "title": "Peraturan Menteri Keuangan Nomor 18 Tahun 2026 tentang Organisasi dan Tata Kerja Instansi Vertikal Direktorat Jenderal Pajak",
+ "about": "Organisasi dan Tata Kerja Instansi Vertikal Direktorat Jenderal Pajak",
+ "issuer": "Kementerian Keuangan",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-03-17",
+ "date_promulgated": "2026-04-01",
+ "date_effective": "2026-04-01",
+ "gazette": "BN.2025 (218/173 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2020-184",
+   "target_bpk_id": 155822,
+   "label": "PMK No. 184/PMK.01/2020",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 210/PMK.01/2017 tentang Organisasi dan Tata Kerja Instansi Vertikal Direktorat Jenderal Pajak"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2017-210",
+   "target_bpk_id": 112962,
+   "label": "PMK No. 210/PMK.01/2017",
+   "about": "Organisasi Dan Tata Kerja Instansi Vertikal Direktorat Jenderal Pajak"
+  }
+ ],
+ "abstract": "a. bahwa untuk mewujudkan organisasi dan tata kerja\nyang efektif dan efisien guna meningkatkan kinerja\npelaksanaan tugas dan fungsi Instansi Vertikal\nDirektorat Jenderal Pajak, perlu melakukan penataan\norganisasi dan tata kerja Instansi Vertikal Direktorat\nJenderal Pajak;\nb. bahwa berdasarkan ketentuan Pasal 73 ayat (2)\nPeraturan Presiden Nomor 158 Tahun 2024 tentang\nKementerian Keuangan, untuk melaksanakan tugas\npokok di daerah, Menteri Keuangan berwenang dan\nmenetapkan organisasi dan tata kerja Instansi Vertikal\nDirektorat Jenderal Pajak;\nc. bahwa penataan organisasi dan tata kerja Instansi\nVertikal Direktorat Jenderal Pajak telah mendapatkan\npersetujuan tertulis dari Menteri Pendayagunaan\nAparatur Negara dan Reformasi Birokrasi;\nd. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a, huruf b, dan huruf c, perlu\nmenetapkan Peraturan Menteri Keuangan tentang\nOrganisasi dan Tata Kerja Instansi Vertikal Direktorat\nJenderal Pajak;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Peraturan Presiden Nomor 140 Tahun 2024, Peraturan Presiden Nomor 158 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024.\nPeraturan ini mengatur tentang ketentuan umum, instansi vertikal, kantor wilayah direktorat jenderal pajak, kantor pelayanan pajak, kantor pelayanan, penyuluhan dan konsultasi perpajakan, jabatan fungsional dan jabatan pelaksana, tata kerja, jumlah, nama, lokasi, jenis kelompok, wilayah kerja dan bagan susunan organisasi, pembagian wajib pajak, jabatan, penataan organisasi, ketentuan lain-lain, ketentuan peralihan dan ketentuan penutup.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 01 April 2026.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas:\na. Peraturan Menteri Keuangan Nomor 210/PMK.01/2017\ntentang Organisasi dan Tata Kerja Instansi Vertikal\nDirektorat Jenderal Pajak.\nb. Peraturan Menteri Keuangan Nomor 184/PMK.01/2020\ntentang Perubahan atas Peraturan Menteri Keuangan\nNomor 210/PMK.01/2017 tentang Organisasi dan Tata\nKerja Instansi Vertikal Direktorat Jenderal Pajak",
+ "citations": [
+  "PERPRES-2024-158",
+  "UU-2008-39",
+  "PERPRES-2024-140",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/410523/2026pmkeuangan018.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:31:10Z"
+}

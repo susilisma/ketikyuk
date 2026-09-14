@@ -1,0 +1,42 @@
+{
+ "id": "PERPRES-2022-121",
+ "source": "bpk",
+ "bpk_id": 230044,
+ "url": "https://peraturan.bpk.go.id/Details/230044/perpres-no-121-tahun-2022",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "121",
+ "number_raw": "121",
+ "year": 2022,
+ "title": "Peraturan Presiden (Perpres) Nomor 121 Tahun 2022 tentang Badan Pengarah Percepatan Pembangunan Otonomi Khusus Papua",
+ "about": "Badan Pengarah Percepatan Pembangunan Otonomi Khusus Papua",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "",
+ "date_enacted": "2022-10-21",
+ "date_promulgated": "2022-10-21",
+ "date_effective": "2022-10-21",
+ "gazette": "LN.2022/No.201, jdih.setneg.go.id: 16 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2025-102",
+   "target_bpk_id": 330902,
+   "label": "Perpres No. 102 Tahun 2025",
+   "about": "Perubahan atas Peraturan Presiden Nomor 121 Tahun 2022 tentang Badan Pengarah Percepatan Pembangunan Otonomi Khusus Papua"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 90 PP Nomor 106 Tahun 2021 tentang Kewenangan dan Kelembagaan Pelaksanaan Kebijakan Otonomi Khusus Provinsi Papua, perlu menetapkan Perpres tentang Badan Pengarah Percepatan Pembangunan Otonomi Khusus Papua.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 21 Tahun 2001; UU Nomor 23 Tahun 2014; PP Nomor 106 Tahun 106; dan PP Nomor 107 Tahun 2021.\nPerpres ini mengatur mengenai pembentukan adan Pengarah Percepatan Pembangunan Otonomi Khusus Papua yang meliputi kedudukan, tugas, dan fungsi; susunan organisasi; tata kerja; hak keuangan dan fasilitas; dan pendanaannya. Badan Pengarah Papua merupakan lembaga nonstruktural yang berada di bawah dan bertanggung jawab kepada Presiden yang mempunyai tugas melaksanakan sinkronisasi, harmonisasi, evaluasi, dan koordinasi percepatan pembangunan dan pelaksanaan Otonomi Khusus di wilayah Papua sesuai dengan ketentuan peraturan perundang-undangan.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 21 Oktober 2022.\nSegala biaya yang diperlukan untuk pelaksanaan tugas dan fungsi Badan Pengarah Papua bersumber dari Anggaran Pendapatan dan Belanja Negara pada bagian anggaran kementerian yang menyelenggarakan urusan pemerintahan di bidang keuangan negara.\nLampiran: 16 hlm.",
+ "citations": [
+  "PP-2021-106",
+  "UU-2001-21",
+  "UU-2014-23",
+  "PP-2021-107"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/229804/Perpres%20Nomor%20121%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:34Z"
+}

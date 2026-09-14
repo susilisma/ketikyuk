@@ -1,0 +1,37 @@
+{
+ "id": "PERPRES-2017-12",
+ "source": "bpk",
+ "bpk_id": 62161,
+ "url": "https://peraturan.bpk.go.id/Details/62161/perpres-no-12-tahun-2017",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "12",
+ "number_raw": "12",
+ "year": 2017,
+ "title": "Peraturan Presiden (Perpres) Nomor 12 Tahun 2017 tentang Tunjangan Jabatan Fungsional Auditor Kepegawaian",
+ "about": "Tunjangan Jabatan Fungsional Auditor Kepegawaian",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA",
+ "field": "",
+ "date_enacted": "2017-02-13",
+ "date_promulgated": "2017-02-16",
+ "date_effective": "2017-02-16",
+ "gazette": "LN. 2017/ No. 24 , LL : 4 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-119",
+   "target_bpk_id": 304460,
+   "label": "Perpres No. 119 Tahun 2024",
+   "about": "Tunjangan Jabatan Fungsional Auditor Manajemen Aparatur Sipil Negara"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 16 Februari 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/52211/Perpres%20Nomor%2012%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:29:28Z"
+}

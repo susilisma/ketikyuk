@@ -1,0 +1,37 @@
+{
+ "id": "PP-2014-61",
+ "source": "bpk",
+ "bpk_id": 5502,
+ "url": "https://peraturan.bpk.go.id/Details/5502/pp-no-61-tahun-2014",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "61",
+ "number_raw": "61",
+ "year": 2014,
+ "title": "Peraturan Pemerintah (PP) Nomor 61 Tahun 2014 tentang Kesehatan Reproduksi",
+ "about": "Kesehatan Reproduksi",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KESEHATAN",
+ "field": "",
+ "date_enacted": "2014-07-21",
+ "date_promulgated": "2014-07-21",
+ "date_effective": "2014-07-21",
+ "gazette": "LN. 2014 No. 169, TLN No. 5559, LL SETNEG : 30 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-28",
+   "target_bpk_id": 294077,
+   "label": "PP No. 28 Tahun 2024",
+   "about": "Peraturan Pelaksanaan Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 21 Juli 2014.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/32214/PP%20Nomor%2061%20Tahun%202014.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:30:48Z"
+}

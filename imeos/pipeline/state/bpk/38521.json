@@ -1,0 +1,60 @@
+{
+ "id": "UU-2014-1",
+ "source": "bpk",
+ "bpk_id": 38521,
+ "url": "https://peraturan.bpk.go.id/Details/38521/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "1",
+ "number_raw": "1",
+ "year": 2014,
+ "title": "Undang-undang (UU) Nomor 1 Tahun 2014 tentang Perubahan atas Undang-Undang Nomor 27 Tahun 2007 Tentang Pengelolaan Wilayah Pesisir dan Pulau-Pulau Kecil",
+ "about": "Perubahan atas Undang-Undang Nomor 27 Tahun 2007 Tentang Pengelolaan Wilayah Pesisir dan Pulau-Pulau Kecil",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PROGRAM, RENCANA PEMBANGUNAN DAN RENCANA KERJA",
+ "field": "",
+ "date_enacted": "2014-01-15",
+ "date_promulgated": "2014-01-15",
+ "date_effective": "2014-01-15",
+ "gazette": "LN.2014/No. 2, TLN No. 5490, LL SETNEG: 25 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 234926,
+   "label": "PERPU No. 2 Tahun 2022",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2007-27",
+   "target_bpk_id": 39911,
+   "label": "UU No. 27 Tahun 2007",
+   "about": "Pengelolaan Wilayah Pesisir dan Pulau-Pulau Kecil"
+  }
+ ],
+ "abstract": "bahwa wilayah pesisir dan pulau-pulau kecil dikuasai oleh negara dan dipergunakan untuk sebesar-besarnya kemakmuran rakyat sebagaimana diamanatkan dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;\nbahwa Undang-Undang Nomor 27 tahun 2007 tentang Pengelolaan Wilayah Pesisir dan Pulau-Pulau Kecil belum memberikan kewenangan dan tanggung jawab negara secara memadai atas pengelolaan Perairan Pesisir dan pulau-pulau kecil sehingga beberapa pasal perlu disempurnakan sesuai dengan perkembangan dan kebutuhan hukum di masyarakat;\nPasal 5 ayat (1), Pasal 18B ayat (2), Pasal 20, Pasal 25A, serta Pasal 33 ayat (3) dan ayat (4) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945\npemberian hak kepada masyarakat untuk mengusulkan penyusunan Rencana Strategis, Rencana Zonasi, Rencana Pengelolaan, serta Rencana Aksi Pengelolaan Wilayah Pesisir dan Pulau-Pulau Kecil; pengaturan mengenai Izin Lokasi dan Izin Pengelolaan kepada Setiap Orang dan Masyarakat Hukum Adat, Masyarakat Lokal, dan Masyarakat Tradisional yang melakukan pemanfaatan sumber daya wilayah pesisir dan pulau-pulau kecil; pengaturan pemanfaatan pulau-pulau kecil dan perairan di sekitarnya; serta pemberian kewenangan kepada Menteri, gubernur, dan bupati/wali kota dalam Pengelolaan Wilayah Pesisir dan Pulau-Pulau Kecil.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 15 Januari 2014.\nMengubah UNDANG-UNDANG NOMOR 27 TAHUN 2007 TENTANG PENGELOLAAN WILAYAH PESISIR DAN PULAU-PULAU KECIL\nDalam hal terdapat kegiatan pemanfaatan sumber daya Perairan Pesisir dan perairan pulau-pulau kecil diatur dengan Peraturan Pemerintah.\nKetentuan lebih lanjut mengenai syarat, tata cara pemberian, pencabutan, jangka waktu, luasan, dan berakhirnya Izin Lokasi dan Izin Pengelolaan diatur dengan Peraturan Pemerintah.\nKetentuan lebih lanjut mengenai pengalihan saham dan luasan lahan sebagaimana dimaksud pada ayat (4) huruf f dan huruf h diatur dengan Peraturan Presiden.\nTata cara perubahan peruntukan dan fungsi zona inti sebagaimana dimaksud pada ayat (1), ayat (2), dan ayat (3) diatur dengan Peraturan Menteri.\nKetentuan lebih lanjut mengenai pedoman Pemberdayaan Masyarakat diatur dengan Peraturan Menteri.\nKetentuan lebih lanjut mengenai sanksi administratif sebagaimana dimaksud pada ayat (2) dan ayat (4) diatur dalam Peraturan Pemerintah.\n35",
+ "citations": [
+  "UU-2007-27"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/27765/UU%20Nomor%2001%20Tahun%202014.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:41Z"
+}

@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2020-184",
+ "source": "bpk",
+ "bpk_id": 155822,
+ "url": "https://peraturan.bpk.go.id/Details/155822/pmk-no-184pmk012020",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "184",
+ "number_raw": "184/PMK.01/2020",
+ "year": 2020,
+ "title": "Peraturan Menteri Keuangan Nomor 184/PMK.01/2020 Tahun 2020 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 210/PMK.01/2017 tentang Organisasi dan Tata Kerja Instansi Vertikal Direktorat Jenderal Pajak",
+ "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 210/PMK.01/2017 tentang Organisasi dan Tata Kerja Instansi Vertikal Direktorat Jenderal Pajak",
+ "issuer": "Kementerian Keuangan",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "",
+ "date_enacted": "2020-11-18",
+ "date_promulgated": "2020-11-23",
+ "date_effective": "2020-11-23",
+ "gazette": "BN.2020/NO.1356, https:jdih.kemenkeu.go.id : 26 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2026-18",
+   "target_bpk_id": 347094,
+   "label": "PMK No. 18 Tahun 2026",
+   "about": "Organisasi dan Tata Kerja Instansi Vertikal Direktorat Jenderal Pajak"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PMK-2017-210",
+   "target_bpk_id": 112962,
+   "label": "PMK No. 210/PMK.01/2017",
+   "about": "Organisasi Dan Tata Kerja Instansi Vertikal Direktorat Jenderal Pajak"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 23 November 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/148211/184_PMK.01_2020.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:31:12Z"
+}

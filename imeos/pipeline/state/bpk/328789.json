@@ -1,0 +1,39 @@
+{
+ "id": "PP-2025-40",
+ "source": "bpk",
+ "bpk_id": 328789,
+ "url": "https://peraturan.bpk.go.id/Details/328789/pp-no-40-tahun-2025",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "40",
+ "number_raw": "40",
+ "year": 2025,
+ "title": "Peraturan Pemerintah (PP) Nomor 40 Tahun 2025 tentang Kebijakan Energi Nasional",
+ "about": "Kebijakan Energi Nasional",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERTAMBANGAN MIGAS, MINERAL DAN ENERGI",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2025-09-15",
+ "date_promulgated": "2025-09-15",
+ "date_effective": "2025-09-15",
+ "gazette": "LN 2025 (149), TLN (7136) : 69 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PP-2014-79",
+   "target_bpk_id": 5523,
+   "label": "PP No. 79 Tahun 2014",
+   "about": "Kebijakan Energi Nasional"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 11 ayat (2) Undang-Undang Nomor 30 Tahun 2007 tentang Energi, perlu menetapkan Peraturan Pemerintah tentang Kebijakan Energi Nasional.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945 dan UU Nomor 30 Tahun 2007.\nPP ini mengatur mengenai Kebijakan Energi Nasional. Kebijakan energi nasional mengatur mengenai: 1) tujuan dan sasaran; 2) arah kebijakan energi nasional; 3) strategi kebijakan energi nasional; 4) rencana umum energi nasional dan rencana umum energi daerah; 5) pembinaan dan pengawasan. Kebijakan energi nasional dilaksanakan untuk periode sampai dengan tahun 2060. Kebijakan energi nasional dapat ditinjau setiap 5 (lima) tahun atau lebih cepat dari 5 (lima) tahun apabila diperlukan.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 15 September 2025.\nPada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Presiden Nomor 79 Tahun 2014 tentang Kebijakan Energi Nasional (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 300, Tambahan Lembaran Negara Republik Indonesia Nomor 5609), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 92 hlm. (batang tubuh hlm 1 sd 69 dan lampiran hlm 70 sd 92)",
+ "citations": [
+  "UU-2007-30"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/393113/PP%20Nomor%2040%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:29:03Z"
+}

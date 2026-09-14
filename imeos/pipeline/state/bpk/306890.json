@@ -1,0 +1,41 @@
+{
+ "id": "PERPRES-2024-177",
+ "source": "bpk",
+ "bpk_id": 306890,
+ "url": "https://peraturan.bpk.go.id/Details/306890/perpres-no-177-tahun-2024",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "177",
+ "number_raw": "177",
+ "year": 2024,
+ "title": "Peraturan Presiden (Perpres) Nomor 177 Tahun 2024 tentang Badan Pertanahan Nasional",
+ "about": "Badan Pertanahan Nasional",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KETATANEGARAAN, KENEGARAAN - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "HUKUM TATA NEGARA",
+ "date_enacted": "2024-11-05",
+ "date_promulgated": "2024-11-05",
+ "date_effective": "2024-11-05",
+ "gazette": "LN 2024 (373) : 21 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2020-48",
+   "target_bpk_id": 135448,
+   "label": "PERPRES No. 48 Tahun 2020",
+   "about": "Badan Pertanahan Nasional"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 11 Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara sebagaimana telah diubah dengan Undang-Undang Nomor 61 Tahun 2024 tentang perubahan atas Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara, perlu menetapkan Peraturan presiden tentang Badan Pertanahan Nasional.\nDasar Hukum Perpres ini adalah Pasal 4 ayat (1) dan Pasal 17 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 39 Tahun 2008; Perpres Nomor 140 Tahun 2024.\nPerpres ini mengatur mengenai Badan Pertanahan Nasional (BPN) yang menyelenggarakan tugas pemerintahan di bidang pertanahan. BPN dipimpin oleh Kepala, dan kedudukan BPN berada di bawah dan bertanggung jawab kepada Presiden. BPN mempunyai tugas menyelenggarakan tugas pemerintahan di bidang pertanahan sesuai dengan ketentuan peraturan perundang-undangan. BPN menyelenggarakan fungsi: penyusunan dan penetapan kebijakan di bidang pertanahan; perumusan dan pelaksanaan kebijakan di bidang survei dan pemetaan pertanahan; perumusan dan pelaksanaan kebijakan di bidang penetapan hak dan pendaftaran tanah; perumusan dan pelaksanaan kebijakan di bidang redistribusi tanah, pemberdayaan tanah masyarakat, penatagunaan tanah, penataan tanah sesuai rencana tata ruang, dan penataan wilayah pesisir, pulau-pulau kecil, perbatasan dan wilayah tertentu; perumusan dan pelaksanaan kebijakan di bidang pengadaan tanah dan pengembangan pertanahan; perumusan dan pelaksanaan kebijakan di bidang pengendalian dan penertiban penguasaan dan pemilikan tanah, serta penggunaan dan pemanfaatan tanah sesuai rencana tata ruang; perumusan dan pelaksanaan kebijakan di bidang penanganan dan pencegahan sengketa dan konflik serta penanganan perkara pertanahan; pengawasan atas pelaksanaan tugas di lingkungan BPN; pelaksanaan koordinasi tugas, pembinaan, dan pemberian dukungan administrasi kepada seluruh unit organisasi di lingkungan BPN; pelaksanaan pengelolaan data dan informasi pertanahan dan lahan pertanian pangan berkelanjutan; dan pelaksanaan pengembangan sumber daya manusia di bidang pertanahan.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 05 November 2024.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 48 Tahun 2020 tentang Badan Pertanahan Nasional (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 84), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 8 hlm",
+ "citations": [
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2024-140"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/367194/Perpres%20Nomor%20177%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:27:30Z"
+}

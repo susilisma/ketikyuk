@@ -1,0 +1,54 @@
+{
+ "id": "UU-2018-6",
+ "source": "bpk",
+ "bpk_id": 90037,
+ "url": "https://peraturan.bpk.go.id/Details/90037/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "6",
+ "number_raw": "6",
+ "year": 2018,
+ "title": "Undang-undang (UU) Nomor 6 Tahun 2018 tentang Kekarantinaan Kesehatan",
+ "about": "Kekarantinaan Kesehatan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN - KESEHATAN",
+ "field": "",
+ "date_enacted": "2018-08-07",
+ "date_promulgated": "2018-08-08",
+ "date_effective": "2018-08-08",
+ "gazette": "LN.2018/NO.128, TLN NO.6236, LL SETKAB : 53 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2023-17",
+   "target_bpk_id": 258028,
+   "label": "UU No. 17 Tahun 2023",
+   "about": "Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1962-2",
+   "target_bpk_id": 50666,
+   "label": "UU No. 2 Tahun 1962",
+   "about": "Karantina Udara"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1962-1",
+   "target_bpk_id": 50665,
+   "label": "UU No. 1 Tahun 1962",
+   "about": "Karantina Laut"
+  }
+ ],
+ "abstract": "a. dalam rangka pelaksanaan pembangunan manusia Indonesia seutuhnya diperlukan adanya perlindungan kesehatan bagi seluruh masyarakat Indonesia yang tersebar di berbagai pulau besar maupun kecil yang terletak pada posisi yang sangat strategis dan berada pada jalur perdagangan internasional, yang berperan penting dalam lalu lintas orang dan barang;\nb. kemajuan teknologi transportasi dan era perdagangan bebas dapat berisiko menimbulkan gangguan kesehatan dan penyakit baru atau penyakit lama yang muncul kembali dengan penyebaran yang lebih cepat dan berpotensi menimbulkan kedaruratan kesehatan masyarakat, sehingga menuntut adanya upaya cegah tangkal penyakit dan faktor risiko kesehatan yang komprehensif dan terkordinasi, serta membutuhkan sumber daya, peran serta masyarakat, dan kerja sama internasional;\nc. bahwa sebagai bagian dari masyarakat dunia, Indonesia berkomitmen melakukan upaya untuk mencegah terjadinya kedaruratan kesehatan masyarakat yang meresahkan dunia sebagaimana yang diamanatkan dalam regulasi internasional di bidang kesehatan, dan dalam melaksanakan amanat ini Indonesia harus menghormati sepenuhnya martabat, hak asasi manusia, dasar-dasar kebebasan seseorang, dan penerapannya secara universal;\nd. bahwa Undang-Undang Nomor 1 Tahun 1962 tentang Karantina Laut dan Undang-Undang Nomor 2 Tahun 1962 tentang Karantina Udara sudah tidak sesuai lagi dengan perkembangan, tuntutan, dan kebutuhan hukum dalam masyarakat, sehingga perlu dicabut dan diganti dengan undang-undang yang baru mengenai kekarantinaan kesehatan.\nPasal 5 ayat (1), Pasal 20, Pasal 28 H ayat (1), Pasal 34 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.\nTanggung jawab Pemerintah Pusat dan Pemerintah Daerah, hak dan kewajiban, kedaruratan kesehatan masyarakat, penyelenggaraan kekarantinaan kesehatan di pintu masuk, penyelenggaraan kekarantinaan kesehatan di wilayah, dokumen karantina kesehatan, sumber daya kekarantinaan kesehatan, informasi kekarantinaan kesehatan, pembinaan dan pengawasan, penyidikan, dan ketentuan pidana.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 08 Agustus 2018.\nUndang-Undang Nomor 1 Tahun 1962 tentang Karantina Laut dan Undang-Undang Nomor 2 Tahun 1962 tentang Karantina Udara\nPeraturan Pelaksanaan\n53",
+ "citations": [
+  "UU-1962-1",
+  "UU-1962-2"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/80915/UU%20Nomor%206%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:02Z"
+}

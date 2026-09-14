@@ -1,0 +1,42 @@
+{
+ "id": "PERPRES-2024-143",
+ "source": "bpk",
+ "bpk_id": 306481,
+ "url": "https://peraturan.bpk.go.id/Details/306481/perpres-no-143-tahun-2024",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "143",
+ "number_raw": "143",
+ "year": 2024,
+ "title": "Peraturan Presiden (Perpres) Nomor 143 Tahun 2024 tentang Kementerian Koordinator Bidang Perekonomian",
+ "about": "Kementerian Koordinator Bidang Perekonomian",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KETATANEGARAAN, KENEGARAAN - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI - PEREKONOMIAN",
+ "field": "HUKUM TATA NEGARA",
+ "date_enacted": "2024-11-05",
+ "date_promulgated": "2024-11-05",
+ "date_effective": "2024-11-05",
+ "gazette": "LN 2024 (339) : 25 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2020-37",
+   "target_bpk_id": 133056,
+   "label": "PERPRES No. 37 Tahun 2020",
+   "about": "Kementerian Koordinator Bidang Perekonomian"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 11 dan Pasal 14 Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara sebagaimana telah diubah dengan Undang-Undang Nomor 61 Tahun 2024 tentang Perubahan atas Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara, perlu menetapkan Peraturan Presiden tentang Kementerian Koordinator Bidang Perekonomian.\nDasar Hukum Perpres Ini adalah Pasal 4 ayat (1) dan Pasal 17 UUD NRI Tahun 1945; UU Nomor 39 Tahun 2008; Perpres Nomor 139 Tahun 2024; dan Perpres Nomor 140 Tahun 2024.\nPeraturan Presiden mengatur mengenai Kementerian Koordinator Bidang Perekonomian yang selanjutnya disebut Kementerian Koordinator yang merupakan kementerian yang menyelenggarakan sinkronisasi dan koordinasi serta pengendalian pelaksanaan urusan kementerian dalam penyelenggaraan pemerintahan di bidang perekonomian. Menteri Koordinator adalah unsur pemimpin Kementerian Koordinator yang bertanggung jawab atas pelaksanaan tugas dan fungsi Kementerian Koordinator. Kementerian Koordinator mempunyai tugas menyelenggarakan sinkronisasi dan koordinasi serta pengendalian pelaksanaan urusan kementerian dalam penyelenggaraan pemerintahan di bidang perekonomian.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 05 November 2024.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 37 Tahun 2020 tentang Kementerian\nKoordinator Bidang Perekonomian (Lembaran Negara\nRepublik Indonesia Tahun 2020 Nomor 64), dicabut dan\ndinyatakan tidak berlaku.\nLampiran file: 25 hlm.",
+ "citations": [
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2024-139",
+  "PERPRES-2024-140"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/366724/Perpres%20Nomor%20143%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:28:39Z"
+}

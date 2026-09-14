@@ -1,0 +1,58 @@
+{
+ "id": "UU-2019-22",
+ "source": "bpk",
+ "bpk_id": 123688,
+ "url": "https://peraturan.bpk.go.id/Details/123688/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "22",
+ "number_raw": "22",
+ "year": 2019,
+ "title": "Undang-undang (UU) Nomor 22 Tahun 2019 tentang Sistem Budi Daya Pertanian Berkelanjutan",
+ "about": "Sistem Budi Daya Pertanian Berkelanjutan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PANGAN, PERTANIAN DAN PETERNAKAN",
+ "field": "",
+ "date_enacted": "2019-10-18",
+ "date_promulgated": "2019-10-18",
+ "date_effective": "2019-10-18",
+ "gazette": "LN. 2019 No. 201, TLN No. 6412, LL SETNEG : 48 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 234926,
+   "label": "PERPU No. 2 Tahun 2022",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1992-12",
+   "target_bpk_id": 46604,
+   "label": "UU No. 12 Tahun 1992",
+   "about": "Sistem Budidaya Tanaman"
+  }
+ ],
+ "abstract": "1. bahwa dalam mencapai tujuan pembangunan nasional, yaitu menciptakan masyarakat adil dan makmur berdasarkan pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 perlu dilakukan pembangunan di segala bidang salah satunya pembangunan di bidang pertanian;\n2. bahwa sistem pembangunan berkelanjutan perlu ditumbuhkembangkan dalam pembangunan di bidang pertanian melalui sistem budi daya pertanian untuk mencapai kedaulatan pangan dengan memperhatikan daya dukung ekosistem, mitigasi, dan adaptasi perubahan iklim guna mewujudkan sistem pertanian yang maju, efisien, tangguh, dan berkelanjutan.\nPasal 20, pasal 21, pasal 28 A, dan pasal 33 ayat (2) dan ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945\nKetentuan umum\nPerencanaan Budi Daya Pertanian\nTata ruang dan Tata Guna Lahan Budi Daya Pertanian\nPenggunaan Lahan\nPerbenihan dan Perbibitan\nPenanaman\nPanen dan Pascapanen\nSarana Budi Daya Pertanian dan Prasarana Budi Daya Pertanian\nUsaha Budi Daya Pertanian\nPengeluaran dan Pemasukan Tanaman, Benih, Bibit, dan Hewan\nPemanfaatan Air\nPelindungan dan Pemeliharaan Pertanian",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 18 Oktober 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/114487/UU%20Nomor%2022%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:25Z"
+}

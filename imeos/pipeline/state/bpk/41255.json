@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2012-12",
+ "source": "bpk",
+ "bpk_id": 41255,
+ "url": "https://peraturan.bpk.go.id/Details/41255/perpres-no-12-tahun-2012",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "12",
+ "number_raw": "12",
+ "year": 2012,
+ "title": "Peraturan Presiden (Perpres) Nomor 12 Tahun 2012 tentang Perubahan atas Peraturan Presiden Nomor 46 Tahun 2010 tentang Badan Nasional Penanggulangan Terorisme",
+ "about": "Perubahan atas Peraturan Presiden Nomor 46 Tahun 2010 tentang Badan Nasional Penanggulangan Terorisme",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA",
+ "field": "",
+ "date_enacted": "2012-02-03",
+ "date_promulgated": "2012-02-03",
+ "date_effective": "2012-02-03",
+ "gazette": "LN.2012/NO.30, LL SETKAB : 4 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2026-9",
+   "target_bpk_id": 347933,
+   "label": "Perpres No. 9 Tahun 2026",
+   "about": "Badan Nasional Penanggulangan Terorisme"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2010-46",
+   "target_bpk_id": 41087,
+   "label": "PERPRES No. 46 Tahun 2010",
+   "about": "Badan Nasional Penanggulangan Terorisme"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 03 Februari 2012.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/68837/Peraturan%20Presiden%20No%2012%20Tahun%202012.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:31:59Z"
+}

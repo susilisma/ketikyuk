@@ -1,0 +1,37 @@
+{
+ "id": "PERMENPERIN-2020-58",
+ "source": "bpk",
+ "bpk_id": 167424,
+ "url": "https://peraturan.bpk.go.id/Details/167424/permenperin-no-58-tahun-2020",
+ "form": "PERMENPERIN",
+ "form_long": "Peraturan Menteri Perindustrian",
+ "number": "58",
+ "number_raw": "58",
+ "year": 2020,
+ "title": "Peraturan Menteri Perindustrian Nomor 58 Tahun 2020 tentang Pemberlakuan Standar Nasional Indonesia Peralatan Dapur dan Peralatan Pemanas Cairan Untuk Pemanfaat Listrik Rumah Tangga Secara Wajib",
+ "about": "Pemberlakuan Standar Nasional Indonesia Peralatan Dapur dan Peralatan Pemanas Cairan Untuk Pemanfaat Listrik Rumah Tangga Secara Wajib",
+ "issuer": "Kementerian Perindustrian",
+ "subject": "STANDAR / PEDOMAN",
+ "field": "",
+ "date_enacted": "2020-12-14",
+ "date_promulgated": "2020-12-23",
+ "date_effective": "2021-12-23",
+ "gazette": "BN 2020/ No 1608 http://jdih.kemenperin.go.id/; 25 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENPERIN-2025-7",
+   "target_bpk_id": 321087,
+   "label": "Permenperin No. 7 Tahun 2025",
+   "about": "Pemberlakuan Standar Nasional Indonesia untuk Elektronika Rumah Tangga Secara Wajib"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perindustrian ini mulai berlaku pada tanggal 23 Desember 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/160357/Permenperin_No._58_Tahun_2020_.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:38:57Z"
+}

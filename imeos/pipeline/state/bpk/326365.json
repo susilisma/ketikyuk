@@ -1,0 +1,47 @@
+{
+ "id": "PMK-2025-54",
+ "source": "bpk",
+ "bpk_id": 326365,
+ "url": "https://peraturan.bpk.go.id/Details/326365/pmk-no-54-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "54",
+ "number_raw": "54",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 54 Tahun 2025 tentang Perubahan Ketiga atas Peraturan Menteri Keuangan Nomor 81 Tahun 2024 tentang Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan",
+ "about": "Perubahan Ketiga atas Peraturan Menteri Keuangan Nomor 81 Tahun 2024 tentang Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-07-25",
+ "date_promulgated": "2025-07-28",
+ "date_effective": "2025-08-01",
+ "gazette": "BN.2025 (552/36 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PMK-2024-81",
+   "target_bpk_id": 306614,
+   "label": "PMK No. 81 Tahun 2024",
+   "about": "Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan"
+  }
+ ],
+ "abstract": "a. bahwa untuk memberikan kepastian hukum dan\nmenyesuaikan perkembangan dalam kegiatan usaha\nbulion dan impor emas batangan serta transaksi\nperdagangan aset kripto, perlu dilakukan penyesuaian\nketentuan perpajakan atas kegiatan usaha bulion dan\nimpor emas batangan serta transaksi perdagangan aset\nkripto;\nb. bahwa pengenaan pajak atas transaksi perdagangan aset\nkripto sebagaimana diatur dalam Peraturan Menteri\nKeuangan Nomor 81 Tahun 2024 tentang Ketentuan\nPerpajakan dalam Rangka Pelaksanaan Sistem Inti\nAdministrasi Perpajakan sebagaimana telah beberapa kali\ndiubah terakhir dengan Peraturan Menteri Keuangan\nNomor 53 Tahun 2025 tentang Perubahan atas Peraturan\nMenteri Keuangan Nomor 11 Tahun 2025 tentang\nKetentuan Nilai Lain sebagai Dasar Pengenaan Pajak dan\nBesaran Tertentu Pajak Pertambahan Nilai belum\nmenyesuaikan ketentuan perpajakan dalam rangka\npelaksanaan sistem inti administrasi perpajakan, sehingga\nperlu dilakukan perubahan;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a dan huruf b, perlu menetapkan Peraturan\nMenteri Keuangan tentang Perubahan Ketiga atas\nPeraturan Menteri Keuangan Nomor 81 Tahun 2024\ntentang Ketentuan Perpajakan dalam Rangka Pelaksanaan\nSistem Inti Administrasi Perpajakan;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 6 Tahun 1983, Undang-Undang Nomor 7 Tahun 1983, Undang-Undang Nomor 8 Tahun 1983,Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 7 Tahun 2021, Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Menteri Keuangan Nomor 81 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor81 Tahun 2024 tentang Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan yaitu tentang ketentuan umum dan lampirannya",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 01 Agustus 2025.\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor81 Tahun 2024 tentang Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan",
+ "citations": [
+  "PMK-2025-53",
+  "PMK-2024-81",
+  "UU-1983-6",
+  "UU-1983-7",
+  "UU-1983-8",
+  "UU-2008-39",
+  "UU-2021-7",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/388168/54%20th%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:33:17Z"
+}

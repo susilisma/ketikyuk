@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>印尼法规情报库 · RegIntel</title>
+<link rel="stylesheet" href="/imeos/assets/os.css">
+<style>
+.filters{display:grid;grid-template-columns:2fr 1fr 1fr 1fr 1fr 1fr;gap:8px;margin-bottom:12px}
+@media (max-width:900px){.filters{grid-template-columns:1fr 1fr}}
+.list .it{display:grid;grid-template-columns:150px 1fr auto;gap:12px;padding:10px 4px;border-bottom:1px solid var(--line2);align-items:start;font-size:13.5px}
+.list .it:hover{background:#fafaf7}
+.list .id{font-family:var(--mono);font-size:12.5px}
+.list .t{color:var(--ink)}
+.list .m{font-size:12px;color:var(--mute);margin-top:2px}
+.rel{display:grid;grid-template-columns:150px 1fr;gap:4px 12px;font-size:13.5px}
+.change{border:1px solid var(--line);border-radius:8px;margin:10px 0;overflow:hidden}
+.change .h{display:flex;gap:8px;align-items:center;padding:8px 12px;background:#f7f8f9;font-size:13px}
+.change .body{padding:10px 12px}
+.art{padding:8px 0;border-bottom:1px solid var(--line2);font-size:14px;white-space:pre-wrap}
+.art b{display:block;color:var(--brand);margin-bottom:2px}
+.pane{display:none}.pane.on{display:block}
+.sum h4{margin:12px 0 4px}
+</style>
+</head>
+<body>
+<main class="wrap">
+  <div class="hero"><div class="eyebrow">Indonesia Regulatory Intelligence</div><h1>印尼法规情报库</h1>
+    <p class="lede" id="meta">加载中…</p></div>
+  <div class="tabs" id="tabs"><button data-p="alerts">预警</button><button data-p="lib" class="on">法规库</button><button data-p="doc">法规详情</button><button data-p="src">来源与状态</button></div>
+
+  <section class="pane" id="p-alerts"><div class="card"><h2>最近 120 天 · 与中资企业相关</h2><div id="alerts" class="list"></div></div></section>
+
+  <section class="pane on" id="p-lib"><div class="card">
+    <div class="filters"><input type="search" id="q" placeholder="搜索标题 / 编号 / 关键词（如 cukai, impor, tenaga kerja）"><select id="f-form"><option value="">全部类型</option></select><select id="f-ag"><option value="">全部部门</option></select><select id="f-tp"><option value="">全部主题</option></select><select id="f-st"><option value="">全部状态</option><option value="in_force">有效</option><option value="amended">已修订（有效）</option><option value="partially_revoked">部分废止</option><option value="not_yet_effective">尚未生效</option><option value="revoked">已废止</option></select><select id="f-y"><option value="">全部年份</option></select></div>
+    <div class="row" style="font-size:12.5px;color:var(--mute)"><span id="count"></span><span class="spacer"></span><label class="chk" style="margin:0"><input type="checkbox" id="f-rel" checked> 仅显示相关度 ≥ 50</label><label class="chk" style="margin:0"><input type="checkbox" id="f-tx"> 仅有全文</label></div>
+    <div id="list" class="list"></div><div class="row noprint" style="justify-content:center;margin-top:10px"><button class="btn ghost sm" id="more">加载更多</button></div></div></section>
+
+  <section class="pane" id="p-doc"><div id="doc" class="card empty">从法规库中选择一部法规。</div></section>
+
+  <section class="pane" id="p-src"><div class="card" id="src"></div></section>
+  <p class="disclaimer">数据来自 peraturan.bpk.go.id（BPK JDIH）与各部委 JDIH，自动解析与 Diff 存在误差，法律效力以官方文本为准。</p>
+</main>
+<script src="/imeos/assets/common.js"></script><script src="/imeos/assets/kb.js"></script>
+<script>
+const D = "/imeos/data/regintel/";
+const ST = { in_force: ["有效", "ok"], amended: ["已修订·有效", "info"], partially_revoked: ["部分废止", "warn"], not_yet_effective: ["未生效", "info"], revoked: ["已废止", "bad"], unknown: ["未知", ""] };
+let META, INDEX = [], byId = {}, shown = 0, filtered = [];
+const j = (u) => fetch(u).then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); });
+
+function tab(p) { $$("#tabs button").forEach((x) => x.classList.toggle("on", x.dataset.p === p)); $$(".pane").forEach((x) => x.classList.toggle("on", x.id === "p-" + p)); }
+$$("#tabs button").forEach((b) => b.onclick = () => { tab(b.dataset.p); history.replaceState(null, "", "?tab=" + b.dataset.p); });
+
+function chip(st) { const s = ST[st] || ST.unknown; return `<span class="chip ${s[1]}">${s[0]}</span>`; }
+function title(r) { return r.t; }
+function row(r) {
+  return `<div class="it"><div><a class="id" href="?id=${encodeURIComponent(r.id)}" onclick="openDoc('${r.id}');return false">${esc(r.f)} ${esc(r.n)}/${r.y}</a><div class="m">${esc((META.agencies[r.ag] || "").split(" ").pop())}</div></div>
+    <div><div class="t">${esc(title(r))}</div><div class="m">${r.de ? "颁布 " + r.de : ""}${r.dv ? " · 生效 " + r.dv : ""} · ${r.tp.map((t) => META.topics[t] || t).join("、") || "—"}${r.df ? " · <b>有 Diff</b>" : ""}${r.sm ? " · 有中文摘要" : ""}${r.ab.length ? " · 被 " + r.ab.join(", ") + " 修订" : ""}</div></div>
+    <div>${chip(r.st)}<div class="m" style="text-align:right">相关 ${r.rv}</div></div></div>`;
+}
+function applyFilter() {
+  const q = $("#q").value.trim().toLowerCase(), f = $("#f-form").value, ag = $("#f-ag").value, tp = $("#f-tp").value, st = $("#f-st").value, y = $("#f-y").value;
+  filtered = INDEX.filter((r) => (!f || r.f === f) && (!ag || r.ag === ag) && (!tp || r.tp.includes(tp)) && (!st || r.st === st) && (!y || String(r.y) === y)
+    && (!$("#f-rel").checked || r.rv >= 50) && (!$("#f-tx").checked || r.tx)
+    && (!q || (r.id + " " + r.t + " " + r.n).toLowerCase().includes(q)));
+  shown = 0; $("#list").innerHTML = ""; more();
+}
+function more() { const next = filtered.slice(shown, shown + 60); $("#list").insertAdjacentHTML("beforeend", next.map(row).join("")); shown += next.length; $("#count").textContent = `${filtered.length} 部（显示 ${shown}）`; $("#more").style.display = shown < filtered.length ? "" : "none"; }
+$("#more").onclick = more;
+["q", "f-form", "f-ag", "f-tp", "f-st", "f-y", "f-rel", "f-tx"].forEach((id) => $("#" + id).oninput = applyFilter);
+
+function diffHtml(d) { return d.map(([op, t]) => op === "=" ? esc(t) : op === "-" ? `<del>${esc(t)}</del>` : `<ins>${esc(t)}</ins>`).join(" "); }
+
+async function openDoc(id) {
+  tab("doc"); history.replaceState(null, "", "?id=" + encodeURIComponent(id));
+  const r = byId[id]; if (!r) { $("#doc").innerHTML = `<div class="empty">库中没有 ${esc(id)}。</div>`; return; }
+  $("#doc").innerHTML = `<div class="empty">加载 ${esc(id)}…</div>`;
+  const [doc, diff, sum] = await Promise.all([r.tx ? j(D + "docs/" + id + ".json").catch(() => null) : null, r.df ? j(D + "diffs/" + id + ".json").catch(() => null) : null, r.sm ? j(D + "summaries/" + id + ".json").catch(() => null) : null]);
+  const kb = KB.regs[id];
+  const rels = r.rel.map(([t, tgt, lbl]) => `<span class="mute">${esc(t)}</span><span>${byId[tgt] ? `<a href="?id=${tgt}" onclick="openDoc('${tgt}');return false">${esc(lbl)}</a>` : esc(lbl)} ${byId[tgt] ? chip(byId[tgt].st) : ""}</span>`).join("");
+  const inbound = INDEX.filter((x) => x.rel.some((z) => z[1] === id)).map((x) => `<span class="mute">${esc(x.rel.find((z) => z[1] === id)[0] === "Mengubah" ? "被修订于" : x.rel.find((z) => z[1] === id)[0] === "Mencabut" ? "被废止于" : x.rel.find((z) => z[1] === id)[0])}</span><span><a href="?id=${x.id}" onclick="openDoc('${x.id}');return false">${esc(x.f)} ${esc(x.n)}/${x.y}</a> ${chip(x.st)}</span>`).join("");
+  let h = `<div class="row"><span class="chip dark">${esc(r.f)}</span>${chip(r.st)}${r.tp.map((t) => `<span class="chip">${META.topics[t] || t}</span>`).join("")}<span class="spacer"></span><a class="btn sm ghost" href="${r.u}" target="_blank" rel="noopener">BPK 原页</a>${r.pdf ? `<a class="btn sm ghost" href="${r.pdf}" target="_blank" rel="noopener">原文 PDF</a>` : ""}</div>
+    <h1 style="margin-top:10px;font-size:22px">${esc(r.t)}</h1><p class="mute">${esc(r.f)} No. ${esc(r.n)} Tahun ${r.y}${kb ? " · " + esc(kb.zh) : ""} · ${esc(META.agencies[r.ag] || "")}</p>
+    <div class="grid g4" style="margin:10px 0"><div class="stat"><b>${r.de || "–"}</b><span>颁布 Ditetapkan</span></div><div class="stat"><b>${r.dp || "–"}</b><span>公布 Diundangkan</span></div><div class="stat"><b>${r.dv || "–"}</b><span>生效 Berlaku</span></div><div class="stat"><b>${r.rv}</b><span>中资相关度</span></div></div>
+    ${(rels || inbound) ? `<h3>修订 / 废止关系</h3><div class="rel">${rels}${inbound}</div>` : ""}`;
+  if (sum) h += `<div class="sum card" style="background:#fbfaf5"><h3>中文摘要 <span class="chip ${sum._generated === "curated" ? "ok" : "info"}">${sum._generated === "curated" ? "人工审核" : "AI 生成 · " + esc(sum._model || "")}</span> ${sum.risk_level ? `<span class="chip ${{ high: "bad", medium: "warn", low: "info", info: "" }[sum.risk_level]}">风险 ${sum.risk_level}</span>` : ""}</h3>
+    <p>${esc(sum.summary_zh)}</p>${sum.key_points?.length ? `<h4>要点</h4><ul>${sum.key_points.map((k) => `<li><b>Pasal ${esc(k.pasal)}</b> ${esc(k.point)}</li>`).join("")}</ul>` : ""}
+    ${sum.what_changed?.length ? `<h4>改了什么</h4><ul>${sum.what_changed.map((k) => `<li><b>Pasal ${esc(k.pasal)}</b>：${esc(k.before)} → ${esc(k.after)}</li>`).join("")}</ul>` : ""}
+    ${sum.effective_dates?.length ? `<h4>生效时间</h4><ul>${sum.effective_dates.map((k) => `<li>${esc(k.date)}：${esc(k.what)}</li>`).join("")}</ul>` : ""}
+    ${sum.affected?.length ? `<h4>受影响企业</h4><ul>${sum.affected.map((k) => `<li>${esc(k)}</li>`).join("")}</ul>` : ""}
+    ${sum.actions?.length ? `<h4>需要做什么</h4><ul>${sum.actions.map((k) => `<li><b>${esc(k.who)}</b>：${esc(k.action)}（${esc(k.deadline)}）</li>`).join("")}</ul>` : ""}
+    ${sum.joiway_note ? `<p class="note">电子烟/HPTL 企业提示：${esc(sum.joiway_note)}</p>` : ""}</div>`;
+  if (diff) {
+    const eff = diff.effective.filter((e) => e.date !== "on_promulgation").map((e) => e.date);
+    h += `<h2 style="margin-top:22px">与上一版本的 Diff <span class="chip ${diff.confidence === "high" ? "ok" : "warn"}">置信度 ${diff.confidence}</span></h2>
+      <p class="mute">修订对象：<a href="?id=${diff.base}" onclick="openDoc('${diff.base}');return false">${esc(diff.base)}</a>（在 ${esc(diff.prior_version)} 版本基础上）${eff.length ? " · 文中出现的生效日期：" + [...new Set(eff)].join("、") : ""}${diff.missing_prior_amendments?.length ? " · <b>缺少中间修订版本 " + diff.missing_prior_amendments.join(", ") + "，结果可能不完整</b>" : ""}</p>
+      <div class="row" style="font-size:12.5px"><span class="chip warn">修改 ${diff.changes.filter((c) => c.kind === "modified").length}</span><span class="chip ok">新增 ${diff.changes.filter((c) => c.kind === "added").length}</span><span class="chip bad">删除 ${diff.changes.filter((c) => c.kind === "deleted").length}</span>${diff.annex ? `<span class="chip info">附件数值变化 ${diff.annex.rows.filter((x) => x.old !== x.new).length}</span>` : ""}</div>`;
+    for (const c of diff.changes) {
+      const k = { modified: ["修改", "warn"], added: ["新增", "ok"], deleted: ["删除", "bad"], annex: ["附件", "info"], other: ["其他", ""], unparsed: ["未能解析", "bad"] }[c.kind] || [c.kind, ""];
+      h += `<div class="change"><div class="h"><span class="chip ${k[1]}">${k[0]}</span><b>Pasal ${esc(c.pasal)}</b><span class="mute">${esc(c.instruction || "")}</span>${c.similarity != null ? `<span class="spacer"></span><span class="mute">相似度 ${pct(c.similarity, 0)}</span>` : ""}</div>
+        ${c.diff ? `<div class="body diff">${diffHtml(c.diff)}</div>` : c.raw ? `<div class="body mono" style="white-space:pre-wrap;font-size:12.5px">${esc(c.raw.slice(0, 1500))}</div>` : ""}</div>`;
+    }
+    if (diff.annex) h += `<h3>附件（Lampiran）数值对比 ${diff.annex.confidence !== "high" ? verifyTag(diff.annex.note) : ""}</h3><div class="tbl-wrap"><table><thead><tr><th>#</th><th>项目（上下文）</th><th>单位</th><th class="num">旧</th><th class="num">新</th><th class="num">变化</th></tr></thead><tbody>${diff.annex.rows.map((x) => `<tr${x.old !== x.new ? ' style="background:#fff8e6"' : ""}><td>${x.idx + 1}</td><td>${esc(x.label)}</td><td>${esc(x.unit)}</td><td class="num">${num(x.old)}</td><td class="num">${num(x.new)}</td><td class="num">${x.change_pct == null ? "–" : (x.change_pct > 0 ? "+" : "") + x.change_pct + "%"}</td></tr>`).join("")}</tbody></table></div><p class="help">${esc(diff.annex.old_table)} → ${esc(diff.annex.new_table)}</p>`;
+  }
+  if (doc) {
+    const cons = r.ca ? await j(D + "docs/" + id + ".consolidated.json").catch(() => null) : null;
+    h += `<h2 style="margin-top:22px">条文 <span class="mute" style="font-size:13px;font-weight:400">${doc.pages} 页 · ${doc.articles.length} 条${doc.needs_ocr ? " · 扫描件，文本不完整，需 OCR" : ""}${doc.ocr_pages ? " · OCR " + doc.ocr_pages + " 页" : ""}</span></h2>
+      ${cons ? `<div class="tabs"><button class="on" onclick="showArts(this,'orig')">原始文本</button><button onclick="showArts(this,'cons')">合并版（截至 ${esc(cons.as_of)}）</button></div>` : ""}
+      <div id="arts-orig">${doc.articles.map((a) => `<div class="art"><b>Pasal ${esc(a.no)}${a.chapter ? ` <small class="mute">· ${esc(a.chapter)}</small>` : ""}</b>${esc(a.text)}</div>`).join("") || "<p class='mute'>未能拆分出条文。</p>"}</div>
+      ${cons ? `<div id="arts-cons" hidden>${cons.articles.map((a) => `<div class="art"><b>Pasal ${esc(a.no)}</b>${esc(a.text)}</div>`).join("")}</div>` : ""}
+      ${doc.amendment_ops?.length ? `<h3 style="margin-top:16px">修订指令（Pasal I）</h3><ul>${doc.amendment_ops.map((o) => `<li><span class="chip">${esc(o.op)}</span> Pasal ${esc((o.pasal || []).join(", ") || "-")} — ${esc(o.instruction)}</li>`).join("")}</ul>` : ""}`;
+  } else h += `<p class="note" style="margin-top:20px">该法规尚未下载/解析全文（按相关度分批处理）。</p>`;
+  $("#doc").innerHTML = h;
+  window.scrollTo({ top: 0 });
+}
+window.openDoc = openDoc;
+window.showArts = (btn, which) => { $$(".tabs button", btn.parentElement).forEach((b) => b.classList.toggle("on", b === btn)); $("#arts-orig").hidden = which !== "orig"; $("#arts-cons").hidden = which !== "cons"; };
+
+async function init() {
+  try { [META, INDEX] = await Promise.all([j(D + "meta.json"), j(D + "index.json")]); } catch (e) { $("#meta").textContent = "数据尚未生成：请运行 pipeline/run_daily.py。"; return; }
+  INDEX.forEach((r) => byId[r.id] = r);
+  const sc = META.status_counts;
+  $("#meta").innerHTML = `${META.total} 部中央法规 · ${META.with_text} 部已解析全文 · ${META.diffs} 组新旧 Diff · ${META.summaries} 篇中文摘要 · 更新于 ${META.generated_at.slice(0, 16).replace("T", " ")} UTC<br><span class="mute">有效 ${sc.in_force || 0} · 已修订 ${sc.amended || 0} · 部分废止 ${sc.partially_revoked || 0} · 已废止 ${sc.revoked || 0}</span>`;
+  $("#f-form").innerHTML += META.forms.map((f) => `<option>${f}</option>`).join("");
+  $("#f-ag").innerHTML += Object.entries(META.agencies).map(([k, v]) => `<option value="${k}">${esc(v)}</option>`).join("");
+  $("#f-tp").innerHTML += Object.entries(META.topics).map(([k, v]) => `<option value="${k}">${esc(v)}</option>`).join("");
+  $("#f-y").innerHTML += [...new Set(INDEX.map((r) => r.y))].sort((a, b) => b - a).map((y) => `<option>${y}</option>`).join("");
+  applyFilter();
+  const alerts = await j(D + "alerts.json").catch(() => []);
+  $("#alerts").innerHTML = alerts.map((a) => `<div class="it"><div><a class="id" href="?id=${a.id}" onclick="openDoc('${a.id}');return false">${esc(a.id)}</a><div class="m">${a.date}</div></div><div><div class="t">${esc(a.title)}</div><div class="m">${{ new: "新增", amendment: "修订", revocation: "废止" }[a.kind]}${a.effective ? " · 生效 " + a.effective : ""}${a.diff_headline ? ` · Diff：改 ${a.diff_headline.modified} 增 ${a.diff_headline.added} 删 ${a.diff_headline.deleted}${a.diff_headline.annex_rows_changed ? " 附件数值 " + a.diff_headline.annex_rows_changed : ""}` : ""}${a.summary_zh ? "<br>" + esc(a.summary_zh) : ""}</div></div><div>${chip(a.status)}<div class="m" style="text-align:right">相关 ${a.relevance}</div></div></div>`).join("") || "<div class='empty'>近期无相关变化</div>";
+  $("#src").innerHTML = `<h2>数据来源</h2><div class="tbl-wrap"><table><thead><tr><th>来源</th><th>网址</th><th>状态</th></tr></thead><tbody>${META.sources.map((s) => `<tr><td>${esc(s.name)}</td><td><a href="${s.url}" target="_blank" rel="noopener">${esc(s.url)}</a></td><td>${{ live: '<span class="chip ok">已接入</span>', bpk: '<span class="chip info">经 BPK 汇聚</span>', todo: '<span class="chip">待接入适配器</span>' }[s.adapter]}</td></tr>`).join("")}</tbody></table></div>
+    <h3 style="margin-top:16px">流水线</h3><p class="mute">抓取列表 → 详情元数据（编号、日期、状态、修订/废止关系）→ 下载 PDF → 文本层提取 / Tesseract OCR → 编号标准化（FORM-YEAR-NUMBER）→ 部门与主题分类 → 相关度评分 → 条款拆分（BAB/Pasal）→ 修订指令解析（Pasal I）→ 合并版本 → 词级 Diff 与附件数值对比 → 中文摘要（Claude，可选）→ 预警。每日 06:15 WIB 由 GitHub Actions 运行。</p>
+    <h3>覆盖的法规类型</h3><p class="mute">${META.bpk_jenis_crawled.join(" · ")}</p>`;
+  const u = new URL(location.href);
+  if (u.searchParams.get("id")) openDoc(u.searchParams.get("id")); else if (u.searchParams.get("tab")) tab(u.searchParams.get("tab"));
+}
+init();
+</script>
+</body>
+</html>

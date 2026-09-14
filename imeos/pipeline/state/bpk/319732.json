@@ -1,0 +1,47 @@
+{
+ "id": "PERMENAKER-2025-5",
+ "source": "bpk",
+ "bpk_id": 319732,
+ "url": "https://peraturan.bpk.go.id/Details/319732/permenaker-no-5-tahun-2025",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "5",
+ "number_raw": "5",
+ "year": 2025,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 5 Tahun 2025 tentang Perubahan atas Peraturan Menteri Ketenagakerjaan Nomor 10 Tahun 2022 tentang Pedoman Pemberian Bantuan Pemerintah Berupa Subsidi Gaji/Upah bagi Pekerja/Buruh",
+ "about": "Perubahan atas Peraturan Menteri Ketenagakerjaan Nomor 10 Tahun 2022 tentang Pedoman Pemberian Bantuan Pemerintah Berupa Subsidi Gaji/Upah bagi Pekerja/Buruh",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "SUBSIDI, PSO",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-06-02",
+ "date_promulgated": "2025-06-03",
+ "date_effective": "2025-06-03",
+ "gazette": "BN 2025 (385); 16 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERMENAKER-2022-10",
+   "target_bpk_id": 231403,
+   "label": "Permenaker No. 10 Tahun 2022",
+   "about": "Pedoman Pemberian Bantuan Pemerintah Berupa Subsidi Gaji/Upah bagi Pekerja/Buruh"
+  }
+ ],
+ "abstract": "bahwa ketentuan dalam Peraturan Menteri\nKetenagakerjaan Nomor 10 Tahun 2022 tentang\nPedoman Pemberian Bantuan Pemerintah Berupa\nSubsidi Gaji/Upah bagi Pekerja/Buruh sudah tidak\nsesuai dengan perkembangan hukum, sehingga perlu\ndiubah\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD 1945; UU Nomor 13 Tahun 2003 sebagaimana telah\nbeberapa kali diubah terakhir dengan UU Nomor 6 Tahun 2023; UU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024; Perpres Nomor 164 Tahun 2024; PMK Nomor 168/PMK.05/2015 sebagaimana telah beberapa kali diubah terakhir dengan PMK Nomor 132/PMK.05/2021; Permenaker Nomor 10 Tahun 2022; Permenaker Nomor 20 Tahun 2024\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri\nKetenagakerjaan Nomor 10 Tahun 2022 tentang Pedoman\nPemberian Bantuan Pemerintah Berupa Subsidi Gaji/Upah\nBagi Pekerja/Buruh",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 03 Juni 2025.",
+ "citations": [
+  "UU-2003-13",
+  "UU-2023-6",
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2024-164",
+  "PMK-2015-168",
+  "PMK-2021-132",
+  "PERMENAKER-2022-10",
+  "PERMENAKER-2024-20"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/381331/permenaker-no-5-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:41:13Z"
+}

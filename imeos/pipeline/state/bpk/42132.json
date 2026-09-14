@@ -1,0 +1,37 @@
+{
+ "id": "PERPRES-2007-76",
+ "source": "bpk",
+ "bpk_id": 42132,
+ "url": "https://peraturan.bpk.go.id/Details/42132/x",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "76",
+ "number_raw": "76",
+ "year": 2007,
+ "title": "Peraturan Presiden (Perpres) Nomor 76 Tahun 2007 tentang Kriteria dan Persyaratan Penyusunan Bidang Usaha yang Tertutup dan Bidang Usaha yang Terbuka dengan Persyaratan di Bidang Penanaman Modal",
+ "about": "Kriteria dan Persyaratan Penyusunan Bidang Usaha yang Tertutup dan Bidang Usaha yang Terbuka dengan Persyaratan di Bidang Penanaman Modal",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PENANAMAN MODAL DAN INVESTASI",
+ "field": "",
+ "date_enacted": "2007-07-03",
+ "date_promulgated": null,
+ "date_effective": "2007-07-03",
+ "gazette": "LLSETKAB : 14 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2021-10",
+   "target_bpk_id": 161806,
+   "label": "PERPRES No. 10 Tahun 2021",
+   "about": "Bidang Usaha Penanaman Modal"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 03 Juli 2007.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/70821/PERPRES%20NO%2076%20TH%202007.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:40Z"
+}

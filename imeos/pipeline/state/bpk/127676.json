@@ -1,0 +1,51 @@
+{
+ "id": "PERPRES-2019-83",
+ "source": "bpk",
+ "bpk_id": 127676,
+ "url": "https://peraturan.bpk.go.id/Details/127676/perpres-no-83-tahun-2019",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "83",
+ "number_raw": "83",
+ "year": 2019,
+ "title": "Peraturan Presiden (Perpres) Nomor 83 Tahun 2019 tentang Kantor Staf Presiden",
+ "about": "Kantor Staf Presiden",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "",
+ "date_enacted": "2019-12-18",
+ "date_promulgated": "2019-12-18",
+ "date_effective": "2019-12-18",
+ "gazette": "LN.2019/NO.244, JDIH.SETKAB.GO.ID : 14 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2026-17",
+   "target_bpk_id": 349418,
+   "label": "Perpres No. 17 Tahun 2026",
+   "about": "Kantor Staf Presiden"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PERPRES-2024-82",
+   "target_bpk_id": 295853,
+   "label": "Perpres No. 82 Tahun 2024",
+   "about": "Kantor Komunikasi Kepresidenan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2015-26",
+   "target_bpk_id": 41754,
+   "label": "PERPRES No. 26 Tahun 2015",
+   "about": "Kantor Staf Presiden"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 18 Desember 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/118679/Perpres%20Nomor%2083%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:31:43Z"
+}

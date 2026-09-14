@@ -1,0 +1,45 @@
+{
+ "id": "POJK-2024-30",
+ "source": "bpk",
+ "bpk_id": 323280,
+ "url": "https://peraturan.bpk.go.id/Details/323280/peraturan-ojk-no-30-tahun-2024",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "30",
+ "number_raw": "30",
+ "year": 2024,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 30 Tahun 2024 tentang Konglomerasi Keuangan dan Perusahaan Induk Konglomerasi Keuangan",
+ "about": "Konglomerasi Keuangan dan Perusahaan Induk Konglomerasi Keuangan",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-12-19",
+ "date_promulgated": "2024-12-23",
+ "date_effective": "2024-12-23",
+ "gazette": "BN.2024 (42)/64 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 226929,
+   "label": "Peraturan OJK No. 45/POJK.03/2020 Tahun 2020",
+   "about": "Konglomerasi Keuangan"
+  }
+ ],
+ "abstract": "a. bahwa dengan perkembangan industri jasa keuangan\nyang semakin kompleks dan beragam perlu\nmeningkatkan efisiensi dan efektivitas pengaturan dan\npengawasan terhadap lembaga jasa keuangan yang\nmemiliki hubungan kepemilikan dan/atau\npengendalian di berbagai sektor jasa keuangan;\nb. bahwa pengaturan dan pengawasan terhadap lembaga\njasa keuangan yang memiliki hubungan kepemilikan\ndan/atau pengendalian di berbagai sektor jasa\nkeuangan sebagaimana telah diatur dalam Peraturan\nOtoritas Jasa Keuangan Nomor 45/POJK.03/2020\ntentang Konglomerasi Keuangan perlu disesuaikan\ndengan perkembangan peraturan perundangundangan sehingga perlu diganti;\nc. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a dan huruf b, serta untuk\nmelaksanakan ketentuan Pasal 205 ayat (4), Pasal 206\nayat (7), Pasal 207 ayat (2), Pasal 208 ayat (2), dan Pasal\n209 ayat (2) Undang-Undang Nomor 4 Tahun 2023\ntentang Pengembangan dan Penguatan Sektor\nKeuangan, perlu menetapkan Peraturan Otoritas Jasa\nKeuangan tentang Konglomerasi Keuangan dan\nPerusahaan Induk Konglomerasi Keuangan;\nUU No.7 Tahun 1992; UU No.8 Tahun 1995; UU No. 21 Tahun 2008; UU No. 21 Tahun 2011; UU No. 40 Tahun 2014; UU No. 1 Tahun 2016; dan UU No. 4 Tahun 2023.\nPeraturan ini mengatur tentang ketentuan umum,konglomerasi keuangan, pembentukan PIKK, kegiatan usaha PIKK, tugas dan tanggung jawab PIKK, rencana korporasi konglomerasi keuangan, piagam korporasi konglomerasi keuangan, kriteria kepemilikan dan pengendalian konglomerasi keuangan, perubahan kepemilikan atau pengendalian dalam konglomerasi keuangan, pengurus PIKK, penilaian kemampuan dan kepatutan serta penilaian kembali, larangan kepemilikan silang, kelompok usaha bank dengan pelaksana perusahaan induk yang merupakan anggota konglomerasi keuangan, kewenangan otoritas jasa keuangan, keajiban menindaklanjuti dan memenuhi pelaksanaan kewenangan otoritas jasa keuangan, pengakhiran perusahaan induk konglomerasi keuangan, pelaporan, ketentuan peralihan dan ketentuan penutup",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 23 Desember 2024.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan Otoritas Jasa Keuangan Nomor\n45/POJK.03/2020 tentang Konglomerasi Keuangan",
+ "citations": [
+  "UU-2023-4",
+  "UU-1992-7",
+  "UU-1995-8",
+  "UU-2008-21",
+  "UU-2011-21",
+  "UU-2014-40",
+  "UU-2016-1"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/385104/Peraturan%20OJK%20Nomor%2030%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:44:11Z"
+}

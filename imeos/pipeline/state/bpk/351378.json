@@ -1,0 +1,51 @@
+{
+ "id": "PP-2026-23",
+ "source": "bpk",
+ "bpk_id": 351378,
+ "url": "https://peraturan.bpk.go.id/Details/351378/pp-no-23-tahun-2026",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "23",
+ "number_raw": "23",
+ "year": 2026,
+ "title": "Peraturan Pemerintah (PP) Nomor 23 Tahun 2026 tentang Perubahan Kedua atas Peraturan Pemerintah Nomor 41 Tahun 2021 tentang Penyelenggaraan Kawasan Perdagangan Bebas dan Pelabuhan Bebas",
+ "about": "Perubahan Kedua atas Peraturan Pemerintah Nomor 41 Tahun 2021 tentang Penyelenggaraan Kawasan Perdagangan Bebas dan Pelabuhan Bebas",
+ "issuer": "Pemerintah Pusat",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN - KAWASAN EKONOMI KHUSUS / KEK",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2026-05-12",
+ "date_promulgated": "2026-05-12",
+ "date_effective": "2026-05-12",
+ "gazette": "LN 2026 (53), TLN (7177) : 5 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PP-2025-25",
+   "target_bpk_id": 319772,
+   "label": "PP No. 25 Tahun 2025",
+   "about": "Perubahan atas Peraturan Pemerintah Nomor 41 Tahun 2021 tentang Penyelenggaraan Kawasan Perdagangan Bebas dan Pelabuhan Bebas"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PP-2021-41",
+   "target_bpk_id": 161958,
+   "label": "PP No. 41 Tahun 2021",
+   "about": "Penyelenggaraan Kawasan Perdagangan Bebas dan Pelabuhan Bebas"
+  }
+ ],
+ "abstract": "Untuk mendorong pertumbuhan ekonomi dan menjamin kemudahan berusaha serta iklim investasi yang lebih kondusif di kawasan perdagangan bebas dan pelabuhan bebas, perlu mengubah beberapa ketentuan dalam Peraturan Pemerintah Nomor 4l Tahun 2021 tentang Penyelenggaraan Kawasan Perdagangan Bebas dan Pelabuhan Bebas sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 25 Tahun 2025 tentang Perubahan atas Peraturan Pemerintah Nomor 41 Tahun 2021 tentang Penyelenggaraan Kawasan Perdagangan Bebas dan Pelabuhan Bebas.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945; UU No. 36 Tahun 2000; PP No. 46 Tahun 2007; PP No. 41 Tahun 2021; dan PP No. 28 Tahun 2025.\nPP ini mengubah beberapa ketentuan dalam PP No. 41 Tahun 2021 sebagaimana telah diubah dengan PP Nomor 25 Tahun 2025.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 12 Mei 2026.\nPP ini mengubah PP No. 41 Tahun 2021.\nLampiran file: 9 hlm (batang tubuh hlm 1 sd 5; penjelasan hlm 6 sd 7; dan lampiran hlm 8 sd 9)",
+ "citations": [
+  "PP-2021-4",
+  "PP-2025-25",
+  "PP-2021-41",
+  "UU-2000-36",
+  "PP-2007-46",
+  "PP-2025-28"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/415158/PP%20Nomor%2023%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:27:41Z"
+}

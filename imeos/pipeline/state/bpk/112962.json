@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2017-210",
+ "source": "bpk",
+ "bpk_id": 112962,
+ "url": "https://peraturan.bpk.go.id/Details/112962/pmk-no-210pmk012017",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "210",
+ "number_raw": "210/PMK.01/2017",
+ "year": 2017,
+ "title": "Peraturan Menteri Keuangan Nomor 210/PMK.01/2017 Tahun 2017 tentang Organisasi Dan Tata Kerja Instansi Vertikal Direktorat Jenderal Pajak",
+ "about": "Organisasi Dan Tata Kerja Instansi Vertikal Direktorat Jenderal Pajak",
+ "issuer": "Kementerian Keuangan",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "",
+ "date_enacted": "2017-12-29",
+ "date_promulgated": "2017-12-29",
+ "date_effective": "2017-12-29",
+ "gazette": "BN.2017/NO.1961, jdih.kemenkeu.go.id : 51 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2026-18",
+   "target_bpk_id": 347094,
+   "label": "PMK No. 18 Tahun 2026",
+   "about": "Organisasi dan Tata Kerja Instansi Vertikal Direktorat Jenderal Pajak"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2020-184",
+   "target_bpk_id": 155822,
+   "label": "PMK No. 184/PMK.01/2020",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 210/PMK.01/2017 tentang Organisasi dan Tata Kerja Instansi Vertikal Direktorat Jenderal Pajak"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 29 Desember 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/103914/PMK%20Nomor%20210%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:31:13Z"
+}

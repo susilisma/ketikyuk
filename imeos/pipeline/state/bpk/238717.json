@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2022-204",
+ "source": "bpk",
+ "bpk_id": 238717,
+ "url": "https://peraturan.bpk.go.id/Details/238717/pmk-no-204pmk072022",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "204",
+ "number_raw": "204/PMK.07/2022",
+ "year": 2022,
+ "title": "Peraturan Menteri Keuangan Nomor 204/PMK.07/2022 Tahun 2022 tentang Pengelolaan Dana Alokasi Khusus Nonfisik",
+ "about": "Pengelolaan Dana Alokasi Khusus Nonfisik",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PENGELOLAAN KEUANGAN NEGARA / DAERAH",
+ "field": "",
+ "date_enacted": "2022-12-21",
+ "date_promulgated": "2022-12-23",
+ "date_effective": "2023-01-01",
+ "gazette": "BN.2022/NO. 1319; https:jdih.kemenkeu.go.id : 47 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-119",
+   "target_bpk_id": 341450,
+   "label": "PMK No. 119 Tahun 2025",
+   "about": "Pengelolaan Dana Alokasi Khusus Nonfisik"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2021-119",
+   "target_bpk_id": 177403,
+   "label": "PMK No. 119/PMK.07/2021",
+   "about": "Pengelolaan Dana Alokasi Khusus Nonfisik"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 01 Januari 2023.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/293457/204_PMK.07_2022.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:31:33Z"
+}

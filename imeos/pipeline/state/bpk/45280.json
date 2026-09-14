@@ -1,0 +1,51 @@
+{
+ "id": "UU-1999-5",
+ "source": "bpk",
+ "bpk_id": 45280,
+ "url": "https://peraturan.bpk.go.id/Details/45280/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "5",
+ "number_raw": "5",
+ "year": 1999,
+ "title": "Undang-undang (UU) Nomor 5 Tahun 1999 tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat",
+ "about": "Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "",
+ "date_enacted": "1999-03-05",
+ "date_promulgated": "1999-03-05",
+ "date_effective": "2000-03-05",
+ "gazette": "LN. 1999/ No. 33, TLN NO. 3817, peraturan.go.id: 29 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 234926,
+   "label": "PERPU No. 2 Tahun 2022",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 05 Maret 2000.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/396341/UU%20Nomor%205%20Tahun%201999.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:33:24Z"
+}

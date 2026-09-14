@@ -1,0 +1,115 @@
+{
+ "id": "UU-2021-7",
+ "source": "bpk",
+ "bpk_id": 185162,
+ "url": "https://peraturan.bpk.go.id/Details/185162/uu-no-7-tahun-2021",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "7",
+ "number_raw": "7",
+ "year": 2021,
+ "title": "Undang-undang (UU) Nomor 7 Tahun 2021 tentang Harmonisasi Peraturan Perpajakan",
+ "about": "Harmonisasi Peraturan Perpajakan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERPAJAKAN",
+ "field": "",
+ "date_enacted": "2021-10-29",
+ "date_promulgated": "2021-10-29",
+ "date_effective": "2021-10-29",
+ "gazette": "LN.2021/No.246, TLN No.6736, jdih.setneg.go.id : 104 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2020-2",
+   "target_bpk_id": 137323,
+   "label": "UU No. 2 Tahun 2020",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2020 tentang Kebijakan Keuangan Negara dan Stabilitas Sistem Keuangan untuk Penanganan Pandemi Corona Virus Disease 2019 (Covid-19) dan/atau Dalam Rangka Menghadapi Ancaman yang Membahayakan Perekonomian Nasional dan/atau Stabilitas Sistem Keuangan Menjadi Undang-Undang"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 135060,
+   "label": "PERPU No. 1 Tahun 2020",
+   "about": "Kebijakan Keuangan Negara dan Stabilitas Sistem Keuangan untuk Penanganan Pandemi Corona Virus Disease 2019 (COVID-19) dan/atau dalam Rangka Menghadapi Ancaman yang Membahayakan Perekonomian Nasional dan/atau Stabilitas Sistem Keuangan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2009-42",
+   "target_bpk_id": 38787,
+   "label": "UU No. 42 Tahun 2009",
+   "about": "Perubahan Ketiga Atas Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa\r\ndan Pajak Penjualan Atas Barang Mewah"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2009-16",
+   "target_bpk_id": 38624,
+   "label": "UU No. 16 Tahun 2009",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 5 Tahun 2008 Tentang Perubahan Keempat Atas Undang-Undang Nomor 6 Tahun 1983 Tentang Ketentuan Umum dan Tata Cara Perpajakan Menjadi Undang-Undang"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2008-36",
+   "target_bpk_id": 39704,
+   "label": "UU No. 36 Tahun 2008",
+   "about": "Perubahan Keempat Atas Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2007-39",
+   "target_bpk_id": 39962,
+   "label": "UU No. 39 Tahun 2007",
+   "about": "Perubahan atas Undang-Undang Nomor 11 Tahun 1995 tentang Cukai"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1995-11",
+   "target_bpk_id": 46203,
+   "label": "UU No. 11 Tahun 1995",
+   "about": "Cukai"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1983-8",
+   "target_bpk_id": 46990,
+   "label": "UU No. 8 Tahun 1983",
+   "about": "Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1983-7",
+   "target_bpk_id": 46988,
+   "label": "UU No. 7 Tahun 1983",
+   "about": "Pajak Penghasilan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1983-6",
+   "target_bpk_id": 46986,
+   "label": "UU No. 6 Tahun 1983",
+   "about": "Ketentuan Umum dan Tata Cara Perpajakan"
+  }
+ ],
+ "abstract": "Untuk meningkatkan pertumbuhan perekonomian yang berkelanjutan dan mendukung percepatan pemulihan perekonomian, diperlukan strategi konsolidasi fiskal yang berfokus pada perbaikan delisit anggaran dan peningkatan rasio pajak, yang antara lain dilakukan melalui penerapan kebijakan peningkatan kinerja penerimaan pajak, reformasi administrasi perpajakan, peningkatan basis perpajakan, penciptaan sistem perpajakan yang mengedepankan prinsip keadilan dan kepastian hukum, serta peningkatan kepatuhan sukarela Wajib Pajak.\nDasar hukum UU ini adalah Pasal 5 ayat (1), Pasal 20, Pasal 23A Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 6 Tahun 1983; UU Nomor 7 Tahun 1983; UU Nomor 8 Tahun 1983; UU Nomor 11 Tahun 1995; UU Nomor 11 Tahun 2016; UU Nomor 2 Tahun 2020; dan UU Nomor 11 Tahun 2020.\nUU ini mengatur mengenai materi Ketentuan Umum dan Tata Cara Perpajakan memuat beberapa ketentuan yang diubah dan/atau ditambah antara lain mengenai kerja sama bantuan penagihan pajak antarnegara, kuasa Wajib Pajak, pemberian data dalam rangka penegakan hukum dan kerja sama untuk kepentingan negara, dan daluwarsa penuntutan pidana pajak. Dalam materi Pajak Penghasilan terdapat beberapa ketentuan yang diubah dan/atau ditambah antara lain mengenai perubahan pengenaan pajak atas natura dan/atau kenikmatan, tarif Pajak Penghasilan orang pribadi dan badan, penyusutan dan amortisasi, serta kesepakatan/perjanjian internasional di bidang perpajakan. Selanjutnya perubahan materi Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah meliputi antara lain pengurangan pengecualian objek Pajak Pertambahan Nilai, pengaturan kembali fasilitas Pajak Pertambahan Nilai, perubahan tarif Pajak Pertambahan Nilai, dan pengenaan tarif pajak Pertambahan Nilai final. Kemudian untuk mendorong kepatuhan Wajib Pajak terdapat materi Program Pengungkapan Sukarela Wajib Pajak yang memberikan kesempatan kepada wajib Pajak untuk mengungkapkan hartanya yang belum diungkapkan.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 29 Oktober 2021.\nUU ini mengubah UU Nomor 6 Tahun 1983 beserta perubahannya; UU Nomor 7 Tahun 1983 beserta perubahannya; UU Nomor 8 Tahun 1983 beserta perubahannya; UU Nomor 11 Tahun 1995 sebagaimana telah diubah dengan UU Nomor 39 Tahun 2007;\nKetentuan Pasal 5 ayat (1) huruf b Perpu Nomor 1 Tahun 2020 tentang Kebijakan Keuangan Negara dan Stabilitas Sistem Keuangan untuk Penanganan Pandemi Corona Virus Disease 2019 (Covid-19) dan/atau Dalam Rangka Menghadapi Ancaman yang Membahayakan Perekonomian Nasional dan/atau Stabilitas Sistem Keuangan yang telah ditetapkan dengan UU Nomor 2 Tahun 2020, dicabut dan dinyatakan tidak berlaku.\nPenjelasan 120 hlm.",
+ "citations": [
+  "UU-1983-6",
+  "UU-1983-7",
+  "UU-1983-8",
+  "UU-1995-11",
+  "UU-2016-11",
+  "UU-2020-2",
+  "UU-2020-11"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/178620/UU%20Nomor%207%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:31:10Z"
+}

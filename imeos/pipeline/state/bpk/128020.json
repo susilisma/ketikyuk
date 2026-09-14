@@ -1,0 +1,51 @@
+{
+ "id": "PMK-2019-32",
+ "source": "bpk",
+ "bpk_id": 128020,
+ "url": "https://peraturan.bpk.go.id/Details/128020/pmk-no-32pmk0102019",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "32",
+ "number_raw": "32/PMK.010/2019",
+ "year": 2019,
+ "title": "Peraturan Menteri Keuangan Nomor 32/PMK.010/2019 Tahun 2019 tentang Batasan Kegiatan Dan Jenis Jasa Kena Pajak Yang Atas Ekspornya Dikenai Pajak Pertambahan Nilai",
+ "about": "Batasan Kegiatan Dan Jenis Jasa Kena Pajak Yang Atas Ekspornya Dikenai Pajak Pertambahan Nilai",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "",
+ "date_enacted": "2019-03-29",
+ "date_promulgated": "2019-03-29",
+ "date_effective": "2019-03-29",
+ "gazette": "PERATURAN.GO.ID : 16 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-81",
+   "target_bpk_id": 306614,
+   "label": "PMK No. 81 Tahun 2024",
+   "about": "Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2011-30",
+   "target_bpk_id": 168486,
+   "label": "PMK No. 30/PMK.03/2011",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 70/PMK.03/2010 tentang Batasan Kegiatan dan Jenis Jasa Kena Pajak yang atas Ekspornya Dikenai Pajak Pertambahan Nilai"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2010-70",
+   "target_bpk_id": 168489,
+   "label": "PMK No. 70/PMK.03/2010",
+   "about": "Batasan Kegiatan dan Jenis Jasa Kena Pajak yang atas Ekspornya Dikenai Pajak Pertambahan Nilai"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 29 Maret 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/127465/32~PMK.010~2019.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:34:58Z"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKUMHAM-2016-59",
+ "source": "bpk",
+ "bpk_id": 133282,
+ "url": "https://peraturan.bpk.go.id/Details/133282/permenkumham-no-59-tahun-2016",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "59",
+ "number_raw": "59",
+ "year": 2016,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 59 Tahun 2016 tentang Organisasi dan Tata Kerja Politeknik Imigrasi",
+ "about": "Organisasi dan Tata Kerja Politeknik Imigrasi",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "PENDIDIKAN - STRUKTUR ORGANISASI",
+ "field": "",
+ "date_enacted": "2016-12-29",
+ "date_promulgated": "2016-12-30",
+ "date_effective": "2016-12-30",
+ "gazette": "BN.2016/No.2126, peraturan.go.id: 19 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 298128,
+   "label": "Permenkumham No. 17 Tahun 2024",
+   "about": "Organisasi dan Tata Kerja Politeknik Pengayoman Indonesia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 30 Desember 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/124069/Permenkumham%20Nomor%2059%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:42:37Z"
+}

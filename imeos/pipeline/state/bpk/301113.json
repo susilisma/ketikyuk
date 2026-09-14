@@ -1,0 +1,60 @@
+{
+ "id": "PERMENDAG-2024-21",
+ "source": "bpk",
+ "bpk_id": 301113,
+ "url": "https://peraturan.bpk.go.id/Details/301113/permendag-no-21-tahun-2024",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "21",
+ "number_raw": "21",
+ "year": 2024,
+ "title": "Peraturan Menteri Perdagangan Nomor 21 Tahun 2024 tentang Perubahan Kedua atas Peraturan Menteri Perdagangan Nomor 23 Tahun 2023 tentang Kebijakan dan Pengaturan Ekspor",
+ "about": "Perubahan Kedua atas Peraturan Menteri Perdagangan Nomor 23 Tahun 2023 tentang Kebijakan dan Pengaturan Ekspor",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "HUKUM DAGANG",
+ "date_enacted": "2024-08-26",
+ "date_promulgated": "2024-08-29",
+ "date_effective": "2024-09-28",
+ "gazette": "BN 2024 (512) : 4 hlm.; jdih.kemendag.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERMENDAG-2024-11",
+   "target_bpk_id": 287391,
+   "label": "Permendag No. 11 Tahun 2024",
+   "about": "Perubahan Atas Peraturan Menteri Perdagangan Nomor 23 Tahun 2023 Tentang Kebijakan Dan Pengaturan Ekspor"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENDAG-2023-23",
+   "target_bpk_id": 260195,
+   "label": "Permendag No. 23 Tahun 2023",
+   "about": "Kebijakan dan Pengaturan Ekspor"
+  }
+ ],
+ "abstract": "Untuk melaksanakan kebijakan pemanfaatan hasil sedimentasi di laut berupa pasir laut untuk ekspor dan untuk meningkatkan nilai tambah ekspor kratom Indonesia, serta memberikan kepastian hukum dan kepastian berusaha bagi eksportir, perlu mengubah Peraturan Menteri Perdagangan Nomor 23 Tahun 2023 tentang Kebijakan dan Pengaturan Ekspor sebagaimana telah diubah dengan Peraturan Menteri Perdagangan Nomor 11 Tahun 2024 tentang Perubahan atas Peraturan Menteri Perdagangan Nomor 23 Tahun 2023 tentang Kebijakan dan Pengaturan Ekspor.\nDasar hukum Permendag ini adalah Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 7 Tahun 1994; UU Nomor 10 Tahun 1995 sebagaimana telah diubah dengan UU Nomor 17 Tahun 2006; UU Nomor 39 Tahun 2008; UU Nomor 7 Tahun 2014; PP Nomor 83 Tahun 2010; PP Nomor 29 Tahun 2021; PP Nomor 40 Tahun 2021; PP Nomor 41 Tahun 2021; PP Nomor 26 Tahun 2023; Perpres Nomor 11 Tahun 2022; Permendag Nomor 29 Tahun 2022; Permendag Nomor 23 Tahun 2023; Permen Kelautan dan Perikanan Nomor 33 Tahun 2023; dan Permen ESDM 6 Tahun 2024.\nPermendag ini menambahkan satu pasal diantara Pasal 52 dan Pasal 53 disisipkan 1 (satu) pasal, yakni Pasal 52A dan mengubah Lampiran I, Lampiran IV, dan Lampiran V Permendag Nomor 21 Tahun 2024.",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 28 September 2024.\nPermendag ini mengubah Permendag Nomor 23 Tahun 2023\nLampiran file: 518 hlm (batang tubuh hlm 1 sd 4 dan lampiran hlm 5 sd 518).",
+ "citations": [
+  "PERMENDAG-2023-23",
+  "PERMENDAG-2024-11",
+  "UU-1994-7",
+  "UU-1995-10",
+  "UU-2006-17",
+  "UU-2008-39",
+  "UU-2014-7",
+  "PP-2010-83",
+  "PP-2021-29",
+  "PP-2021-40",
+  "PP-2021-41",
+  "PP-2023-26",
+  "PERPRES-2022-11",
+  "PERMENDAG-2022-29",
+  "PERMENDAG-2024-21"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/360919/Permendag%20Nomor%2021%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:37:47Z"
+}

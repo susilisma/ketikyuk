@@ -1,0 +1,51 @@
+{
+ "id": "PERMENKOMINFO-2024-5",
+ "source": "bpk",
+ "bpk_id": 302515,
+ "url": "https://peraturan.bpk.go.id/Details/302515/permenkominfo-no-5-tahun-2024",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Informatika",
+ "number": "5",
+ "number_raw": "5",
+ "year": 2024,
+ "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 5 Tahun 2024 tentang Penetapan Balai Uji Alat Telekomunikasi dan/atau Perangkat Telekomunikasi",
+ "about": "Penetapan Balai Uji Alat Telekomunikasi dan/atau Perangkat Telekomunikasi",
+ "issuer": "Kementerian Komunikasi dan Informatika",
+ "subject": "TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-09-12",
+ "date_promulgated": "2024-09-18",
+ "date_effective": "2024-09-18",
+ "gazette": "BN 2024 (557); 23 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 156856,
+   "label": "Permenkominfo No. 16 Tahun 2012",
+   "about": "Petunjuk Pelaksanaan Pengakuan Balai Uji Negara Asing"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 156855,
+   "label": "Permenkominfo No. 15/PER/M.KOMINFO/5/2012 Tahun 2012",
+   "about": "Petunjuk Pelaksanaan Penetapan Balai Uji Dalam Negeri"
+  }
+ ],
+ "abstract": "bahwa untuk menjamin pemenuhan standar teknis pada\nsetiap alat telekomunikasi dan/atau perangkat\ntelekomunikasi yang dibuat, dirakit, dimasukan, untuk\ndiperdagangkan, dan/atau digunakan di wilayah Negara\nKesatuan Republik Indonesia, perlu dilakukan pengujian\nalat telekomunikasi dan/atau perangkat telekomunikasi\noleh laboratorium uji\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD 1945; UU Nomor 36 Tahun 1999 sebagaimana telah diubah dengan UU Nomor 6 Tahun 2023; UU Nomor 39 Tahun 2008; UU Nomor 20 Tahun 2014; PP Nomor 46 Tahun 2021; Perpres Nomor 22 Tahun 2023; Permenkominfo Nomor 12 Tahun 2021\nPeraturan ini mengatur tentang Balai Uji dalam Negeri; Balai Uji Luar Negeri; Pengawasan dan Pengendalian",
+ "note": "Peraturan Menteri Komunikasi dan Informatika ini mulai berlaku pada tanggal 18 September 2024.\nPada saat Peraturan Menteri ini mulai berlaku:\na. Peraturan Menteri Komunikasi dan Informatika Nomor 15\nTahun 2012 tentang Petunjuk Pelaksanaan Penetapan\nBalai Uji Dalam Negeri (Berita Negara Republik Indonesia\nTahun 2012 Nomor 577); dan\nb. Peraturan Menteri Komunikasi dan Informatika Nomor 16\nTahun 2012 tentang Petunjuk Pelaksanaan Pengakuan\nBalai Uji Negara Asing (Berita Negara Republik Indonesia\nTahun 2012 Nomor 578),\ndicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "UU-1999-36",
+  "UU-2023-6",
+  "UU-2008-39",
+  "UU-2014-20",
+  "PP-2021-46",
+  "PERPRES-2023-22"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/362415/permenkominfo-no-5-tahun-2024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:42:05Z"
+}

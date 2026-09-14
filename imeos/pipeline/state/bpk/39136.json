@@ -1,0 +1,51 @@
+{
+ "id": "UU-2011-4",
+ "source": "bpk",
+ "bpk_id": 39136,
+ "url": "https://peraturan.bpk.go.id/Details/39136/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "4",
+ "number_raw": "4",
+ "year": 2011,
+ "title": "Undang-undang (UU) Nomor 4 Tahun 2011 tentang Informasi Geospasial",
+ "about": "Informasi Geospasial",
+ "issuer": "Pemerintah Pusat",
+ "subject": "ILMU PENGETAHUAN DAN TEKNOLOGI - PERS, POS, DAN PERIKLANAN",
+ "field": "",
+ "date_enacted": "2011-04-21",
+ "date_promulgated": "2011-04-21",
+ "date_effective": "2011-04-21",
+ "gazette": "LN.2011/No. 49, TLN No. 5214, LL SETNEG: 25 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 234926,
+   "label": "PERPU No. 2 Tahun 2022",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  }
+ ],
+ "abstract": "Negara Kesatuan Republik Indonesia adalah sebuah negara kepulauan yang berciri nusantara dengan segala kekayaan sumber daya alam dan sumber daya lainnya sebagai anugerah Tuhan Yang Maha Esa yang harus dikelola dengan baik dan penuh rasa tanggung jawab untuk menjadi sumber kemakmuran bagi seluruh rakyat Indonesia, baik di masa kini maupun di masa mendatang.\nDasar Hukum Undang-Undang ini adalah Pasal 5 ayat (1), Pasal 20, Pasal 25A, Pasal 28F, dan Pasal 33 ayat (3) dan ayat (4) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.\nDalam Undang-Undang ini mengatur tentang Informasi Geospasial (IG) yang merupakan alat bantu dalam perumusan kebijakan, pengambilan keputusan, dan/atau pelaksanaan kegiatan yang berhubungan dengan ruang kebumian. IG sangat berguna sebagai sistem pendukung pengambilan kebijakan dalam rangka mengoptimalkan pembangunan di bidang ekonomi, sosial, budaya, dan ketahanan nasional, khususnya dalam pengelolaan sumber daya alam, penyusunan rencana tata ruang, perencanaan lokasi investasi dan bisnis perekonomian, penentuan garis batas wilayah, pertanahan, dan kepariwisataan. IG juga merupakan informasi yang amat diperlukan dalam penanggulangan bencana, pelestarian lingkungan hidup, dan pertahanan keamanan. Diatur pula masalah kelembagaan dalam penyelenggaraan IG. Pengaturan ini dimaksudkan untuk menjamin kepastian siapa yang bertanggung jawab atas data dan informasi tertentu. Selanjutnya diperlukan pengaturan tentang sumber daya manusia dan badan usaha di bidang IG, sehingga industri IG dapat tumbuh dan berkembang dengan baik. Kemajuan industri IG akan menjamin ketersediaan, aksesibilitas, dan pemanfaatan IG di tengah masyarakat dan dalam proses pembangunan.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 21 April 2011.\nLampiran file: 42 hlm (batang tubuh hlm 1 sd. 25 dan penjelasan hlm 26 sd. 42)",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/28545/UU%204%20Tahun%202011.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:48Z"
+}

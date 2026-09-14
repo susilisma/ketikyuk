@@ -1,0 +1,55 @@
+{
+ "id": "PERPRES-2021-10",
+ "source": "bpk",
+ "bpk_id": 161806,
+ "url": "https://peraturan.bpk.go.id/Details/161806/perpres-no-10-tahun-2021",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "10",
+ "number_raw": "10",
+ "year": 2021,
+ "title": "Peraturan Presiden (Perpres) Nomor 10 Tahun 2021 tentang Bidang Usaha Penanaman Modal",
+ "about": "Bidang Usaha Penanaman Modal",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PENANAMAN MODAL DAN INVESTASI - KOPERASI, UMKM",
+ "field": "",
+ "date_enacted": "2021-02-02",
+ "date_promulgated": "2021-02-02",
+ "date_effective": "2021-03-04",
+ "gazette": "LN.2021/No.61, jdih.setneg.go.id : 13 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2021-49",
+   "target_bpk_id": 168534,
+   "label": "PERPRES No. 49 Tahun 2021",
+   "about": "Perubahan atas Peraturan Presiden Nomor 10 Tahun 2021 Tentang Bidang Usaha Penanaman Modal"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2016-44",
+   "target_bpk_id": 40374,
+   "label": "PERPRES No. 44 Tahun 2016",
+   "about": "Daftar Bidang Usaha Yang Tertutup Dan Bidang Usaha Yang Terbuka Dengan Persyaratan Di Bidang Penanaman Modal"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2007-76",
+   "target_bpk_id": 42132,
+   "label": "PERPRES No. 76 Tahun 2007",
+   "about": "Kriteria dan Persyaratan Penyusunan Bidang Usaha yang Tertutup dan Bidang Usaha yang Terbuka dengan Persyaratan di Bidang Penanaman Modal"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 77 dan Pasal 185 huruf b Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja, perlu menetapkan Peraturan Presiden tentang Bidang Usaha Penanaman Modal.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 25 Tahun 2007; dan UU Nomor 11 Tahun 2020.\nPerpres ini mengatur mengenai bidang-bidang usaha yang terbuka bagi kegiatan penanaman modal. Bidang usaha terbuka tersebut terdiri atas Bidang Usaha Prioritas, Bidang Usaha yang dialokasikan atau kemitraan dengan koperasi dan UMKM; Bidang Usaha dengan persyaratan tertentu, atau Bidang Usaha lain yang dapat diusahakan oleh semua Penanam Modal. Selain bidang usaha yang terbuka tersebut, dikecualikan bagi penanaman modal di bidang usaha yang memenuhi kriteria, yaitu bidang usaha yang dinyatakan tertutup untuk penanaman modal sebagaimana Bidang Usaha yang tercantum dalam Pasal 12 UU Nomor 25 Tahun 2007 tentang Penanaman Modal sebagaimana telah diubah dengan UU Nomor 11 Tahun 2020 tentang Cipta Kerja; atau bidang usaha untuk kegiatan yang dapat dilakukan oleh pemerintah pusat.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 04 Maret 2021.\nPada saat Perpres ini mulai berlaku, Perpres Nomor 76 Tahun 2007 dan Perpres Nomor 44 Tahun 2016 dicabut dan dinyatakan tidak berlaku.\nLampiran : 3 Lamp.",
+ "citations": [
+  "UU-2020-11",
+  "UU-2007-25"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/154474/Perpres%20Nomor%2010%20Tahun%202021.pdf",
+  "https://peraturan.bpk.go.id/Download/154475/Perpres%20Nomor%2010%20Tahun%202021%20-%20Lampiran.zip"
+ ],
+ "fetched_at": "2026-09-14T05:31:27Z"
+}

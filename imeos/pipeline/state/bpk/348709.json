@@ -1,0 +1,45 @@
+{
+ "id": "PERMENAKER-2026-8",
+ "source": "bpk",
+ "bpk_id": 348709,
+ "url": "https://peraturan.bpk.go.id/Details/348709/permenaker-no-8-tahun-2026",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "8",
+ "number_raw": "8",
+ "year": 2026,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 8 Tahun 2026 tentang Pemberian Penghargaan dalam Penghormatan, Pelindungan, dan Pemenuhan Hak Penyandang Disabilitas",
+ "about": "Pemberian Penghargaan dalam Penghormatan, Pelindungan, dan Pemenuhan Hak Penyandang Disabilitas",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-05-04",
+ "date_promulgated": "2026-05-08",
+ "date_effective": "2026-05-08",
+ "gazette": "BN 2026 (293); 10 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENAKER-2021-3",
+   "target_bpk_id": 163424,
+   "label": "Permenaker No. 3 Tahun 2021",
+   "about": "Pedoman Pemberian Penghargaan Nasional Kepada Perusahaan dan Badan Usaha Milik Negara yang Mempekerjakan Tenaga Kerja Penyandang Disabilitas"
+  }
+ ],
+ "abstract": "bahwa Peraturan Menteri Ketenagakerjaan Nomor 3\nTahun 2021 tentang Pedoman Pemberian Penghargaan\nNasional kepada Perusahaan dan Badan Usaha Milik\nNegara yang Mempekerjakan Tenaga Kerja Penyandang\nDisabilitas sudah tidak sesuai dengan perkembangan\ndan kondisi saat ini, sehingga perlu diganti\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD NRI Tahun 1945; UU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024; UU Nomor 8 Tahun 2016; Perpres Nomor 67 Tahun 2020; Perpres Nomor 164 Tahun 2024; Peraturan Menteri Ketenagakerjaan Nomor 20 Tahun 2024.\nPeraturan ini mengatur mengenai kriteria dan syarat penerima penghargaan; tim penghargaan; bentuk penghargaan; monitoring dan evaluasi; pendanaan",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 08 Mei 2026.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan\nMenteri Ketenagakerjaan Nomor 3 Tahun 2021 tentang\nPedoman Pemberian Penghargaan Nasional kepada\nPerusahaan dan Badan Usaha Milik Negara yang\nMempekerjakan Tenaga Kerja Penyandang Disabilitas\n(Berita Negara Republik Indonesia Tahun 2021 Nomor 167), dicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "PERMENAKER-2021-3",
+  "UU-2008-39",
+  "UU-2024-61",
+  "UU-2016-8",
+  "PERPRES-2020-67",
+  "PERPRES-2024-164",
+  "PERMENAKER-2024-20"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/412370/2026pmnaker008.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:40:45Z"
+}

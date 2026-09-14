@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2017-14",
+ "source": "bpk",
+ "bpk_id": 62164,
+ "url": "https://peraturan.bpk.go.id/Details/62164/perpres-no-14-tahun-2017",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "14",
+ "number_raw": "14",
+ "year": 2017,
+ "title": "Peraturan Presiden (Perpres) Nomor 14 Tahun 2017 tentang Perubahan Atas Peraturan Presiden No 4 Tahun 2016 tentang Percepatan Pembangunan Infrastruktur Ketenagalistrikan",
+ "about": "Perubahan Atas Peraturan Presiden No 4 Tahun 2016 tentang Percepatan Pembangunan Infrastruktur Ketenagalistrikan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KONSTRUKSI, SIPIL, ARSITEK, BANGUNAN, DAN INFRASTRUKTUR",
+ "field": "",
+ "date_enacted": "2017-02-13",
+ "date_promulgated": "2017-02-20",
+ "date_effective": "2017-02-20",
+ "gazette": "LN. 2017/ No. 27 , LL : 14 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2025-89",
+   "target_bpk_id": 328989,
+   "label": "Perpres No. 89 Tahun 2025",
+   "about": "Perubahan Kedua atas Peraturan Presiden Nomor 4 Tahun 2016 tentang Percepatan Pembangunan Infrastruktur Ketenagalistrikan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2016-4",
+   "target_bpk_id": 38203,
+   "label": "PERPRES No. 4 Tahun 2016",
+   "about": "Percepatan Pembangunan Infrastruktur Ketenagalistrikan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 20 Februari 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/52214/Perpres%20Nomor%2014%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:50Z"
+}

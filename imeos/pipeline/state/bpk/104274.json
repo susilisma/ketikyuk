@@ -1,0 +1,37 @@
+{
+ "id": "UU-2019-4",
+ "source": "bpk",
+ "bpk_id": 104274,
+ "url": "https://peraturan.bpk.go.id/Details/104274/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "4",
+ "number_raw": "4",
+ "year": 2019,
+ "title": "Undang-undang (UU) Nomor 4 Tahun 2019 tentang Kebidanan",
+ "about": "Kebidanan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KESEHATAN - JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "",
+ "date_enacted": "2019-03-13",
+ "date_promulgated": "2019-03-15",
+ "date_effective": "2019-03-15",
+ "gazette": "LN.2019/NO.56, TLN NO.6325, LL SETKAB : 36 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2023-17",
+   "target_bpk_id": 258028,
+   "label": "UU No. 17 Tahun 2023",
+   "about": "Kesehatan"
+  }
+ ],
+ "abstract": "Setiap orang berhak memperoleh pelayanan kesehatan agar dapat hidup sejahtera lahir dan batin, sehingga mampu membangun masyarakat, bangsa dan negara sebagaimana diamanatkan dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945. Pelayanan kesehatan kepada masyarakat khususnya perempuan, bayi dan anak yang dilaksanakan oleh bidan secara bertanggungjawab, akuntabel, bermutu, aman, dan berkesinambungan, masih dihadapkan pada kendala profesionalitas, kompetensi, dan kewenangan. Pengaturan mengenai pelayanan kesehatan oleh bidan maupun pengakuan terhadap profesia dan praktik kebidanan belum diatur secara komprehensif sebagaimana profesi kesehatan lain, sehingga belum memberikan pelindungan dan kepastian hukum bagi bidan dalam melaksanakan pelayanan kesehatan kepada masyarakat.\nPasal 20, Pasal 21, Pasal 28C, dan Pasal 28H ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945\nBAB I Ketentuan Umum\nBAB II Pendidikan Kebidanan\nBAB III Registrasi dan Izin Praktik\nBAB IV Bidan Warga Negara Indonesia Lulusan Luar Negeri\nBAB V Bidan Warga Negara Asing\nBAB VI Praktik Kebidananan\nBAB VII Hak dan Kewajiban\nBAB VIII Organisasi Profesi Bidan\nBAB IX Pendayagunaan Bidan\nBAB X Pembinaan dan Pengawasan\nBAB XI Ketentuan Peralihan\nBAB XII Ketentuan Penutup",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 15 Maret 2019.\n36",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/94989/UU%20Nomor%204%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:01Z"
+}

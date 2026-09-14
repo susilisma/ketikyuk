@@ -1,0 +1,54 @@
+{
+ "id": "PP-2021-36",
+ "source": "bpk",
+ "bpk_id": 161909,
+ "url": "https://peraturan.bpk.go.id/Details/161909/pp-no-36-tahun-2021",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "36",
+ "number_raw": "36",
+ "year": 2021,
+ "title": "Peraturan Pemerintah (PP) Nomor 36 Tahun 2021 tentang Pengupahan",
+ "about": "Pengupahan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KETENAGAKERJAAN - CIPTA KERJA",
+ "field": "",
+ "date_enacted": "2021-02-02",
+ "date_promulgated": "2021-02-02",
+ "date_effective": "2021-02-02",
+ "gazette": "LN.2021/No.46, TLN No.6648, jdih.setkab.go.id : 57 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2025-49",
+   "target_bpk_id": 339037,
+   "label": "PP No. 49 Tahun 2025",
+   "about": "Perubahan Kedua Atas Peraturan Pemerintah Nomor 36 Tahun 2021 tentang Pengupahan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2023-51",
+   "target_bpk_id": 270269,
+   "label": "PP No. 51 Tahun 2023",
+   "about": "Perubahan atas Peraturan Pemerintah Nomor 36 Tahun 2021 tentang Pengupahan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2015-78",
+   "target_bpk_id": 5656,
+   "label": "PP No. 78 Tahun 2015",
+   "about": "Pengupahan"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 81 dan Pasal 185 huruf b Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja, perlu menetapkan Peraturan Pemerintah tentang Pengupahan.\nDasar hukum PP ini adalah Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 13 Tahun 2003; dan UU Nomor 11 Tahun 2020.\nPP ini mengatur kebijakan pengupahan, penetapan upah berdasarkan satuan waktu dan/atau satuan hasil, struktur dan skala upah, upah minimum, upah terendah pada usaha mikro dan usaha kecil, pelindungan upah, bentuk dan cara pembayaran upah, hal-hal yang dapat diperhitungkan dengan upah, upah sebagai dasar perhitungan atau pembayaran hak dan kewajiban lainnya, dewan pengupahan, dan sanksi administratif. Upah terdiri atas komponen : 1) upah tanpa tunjangan; 2) upah pokok dan tunjangan tetap; 3) upah pokok, tunjangan tetap, dan tunjangan tidak tetap; atau 4) upah pokok dan tunjangan tidak tetap.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 02 Februari 2021.\nPP ini mencabut PP Nomor 78 Tahun 2015 tentang Pengupahan.\nPenjelasan 18 hlm.",
+ "citations": [
+  "UU-2020-11",
+  "UU-2003-13"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/154587/PP%20Nomor%2036%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:28:48Z"
+}

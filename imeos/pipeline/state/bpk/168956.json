@@ -1,0 +1,39 @@
+{
+ "id": "PMK-2021-63",
+ "source": "bpk",
+ "bpk_id": 168956,
+ "url": "https://peraturan.bpk.go.id/Details/168956/pmk-no-63pmk032021",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "63",
+ "number_raw": "63/PMK.03/2021",
+ "year": 2021,
+ "title": "Peraturan Menteri Keuangan Nomor 63/PMK.03/2021 Tahun 2021 tentang Tata Cara Pelaksanaan Hak dan Pemenuhan Kewajiban Perpajakan serta Penerbitan, Penandatanganan, dan Pengiriman Keputusan atau Ketetapan Pajak secara Elektronik",
+ "about": "Tata Cara Pelaksanaan Hak dan Pemenuhan Kewajiban Perpajakan serta Penerbitan, Penandatanganan, dan Pengiriman Keputusan atau Ketetapan Pajak secara Elektronik",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "",
+ "date_enacted": "2021-06-07",
+ "date_promulgated": "2021-06-08",
+ "date_effective": "2021-06-08",
+ "gazette": "BN.2021/NO. 659, https:jdih.kemenkeu.go.id : 18 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-81",
+   "target_bpk_id": 306614,
+   "label": "PMK No. 81 Tahun 2024",
+   "about": "Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 6 Angka 18 Pasal 63A ayat (6) dan Pasal 63B ayat (5)\nPeraturan Pemerintah Nomor 9 Tahun 2021 tentang Perlakuan Perpajakan untuk Mendukung\nKemudahan Berusaha, perlu menetapkan Peraturan Menteri Keuangan tentang Tata Cara\nPelaksanaan Hak dan Pemenuhan Kewajiban Perpajakan serta Penerbitan, Penandatanganan, dan\nPengiriman Keputusan atau Ketetapan Pajak secara Elektronik.\nDasar Hukum Peraturan ini adalah:\nPasal 17 ayat (3) UUD Tahun 1945,UU 6 Tahun 1983 (LN Tahun 1983 No.49, TLN No.3262) sebagaimana\ntelah beberapa kali diubah terakhir dengan UU 16 Tahun 2009 (LN Tahun 2009 No.62, TLN No.4999),\nUU 39 Tahun 2008 (LN Tahun 2008 No.166, TLN No.4916), PP 9 Tahun 2001 (LN Tahun 2001 No.19, TLN\nNo.6621), Perpres RI 57 Tahun 2020 (LN Tahun 2020 No.98), Permenkeu RI 217/PMK.01/2018 (BN\nTahun 2018 No.1862) sebagaimana telah beberapa kali diubah terakhir dengan Permenkeu RI\n229/PMK.01/2019 (BN Tahun 2019 No.1745).\nDalam Peraturan Menteri Keuangan Republik Indonesia ini diatur:\nWajib Pajak dapat melaksanakan hak dan memenuhi kewajiban perpajakan secara elektronik dan\nmenggunakan Tanda Tangan Elektronik. Menteri dapat melakukan kerja sama dengan Instansi\nPemerintah, lembaga, asosiasi, dan Pihak Lain untuk menyediakan fasilitas pelaksanaan hak dan/\natau pemenuhan kewajiban perpajakan secara elektronik melalui sistem administrasi yang\nterintegrasi dengan sistem di Direktorat Jenderal Pajak. Dokumen Elektronik yang digunakan\ndalam pelaksanaan hak dan pemenuhan kewajiban perpajakan secara elektronik ditandatangani\noleh Wajib Pajak dengan menggunakan Tanda Tangan Elektronik. Penandatanganan Dokumen\nElektronik sebagaimana dimaksud dalam Pasal 3 ayat (2) oleh Wajib Pajak orang pribadi dilakukan\ndengan menggunakan Sertifikat Elektronik atau Kode Otorisasi DJP Wajib Pajak orang pribadi\ndimaksud. Direktur Jenderal Pajak dapat menerbitkan keputusan atau ketetapan dalam rangka\nmelaksanakan ketentuan perundang-undangan di bidang perpajakan berbentuk elektronik\nsebagaimana dimaksud dalam Pasal 2 ayat (3) berdasarkan Dokumen Elektronik yang telah\nditindaklanjuti sebagaimana dimaksud dalam Pasal 6 ayat (11) atau berdasarkan kewenangannya\nsecara jabatan. Direktur Jenderal Pajak berwenang untuk melakukan pemblokiran dan/atau\npembukaan blokir atas penggunaan Tanda Tangan Elektronik untuk pelaksanaan hak dan\npemenuhan kewajiban perpajakan sebagaimana dimaksud dalam Pasal 3 ayat (2) sesuai dengan\nketentuan peraturan perundang-undangan perpajakan",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 08 Juni 2021.\n25 HLM, Lampiran halaman 19-25.",
+ "citations": [
+  "PP-2021-9"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/162033/63_PMK.03_2021.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:34:52Z"
+}

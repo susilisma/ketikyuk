@@ -1,0 +1,41 @@
+{
+ "id": "PP-2026-17",
+ "source": "bpk",
+ "bpk_id": 349410,
+ "url": "https://peraturan.bpk.go.id/Details/349410/pp-no-17-tahun-2026",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "17",
+ "number_raw": "17",
+ "year": 2026,
+ "title": "Peraturan Pemerintah (PP) Nomor 17 Tahun 2026 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Badan Pemeriksa Keuangan",
+ "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Badan Pemeriksa Keuangan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-03-27",
+ "date_promulgated": "2026-03-27",
+ "date_effective": "2026-04-26",
+ "gazette": "LN 2026 (37), TLN (7170) : 6 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PP-2021-81",
+   "target_bpk_id": 175033,
+   "label": "PP No. 81 Tahun 2021",
+   "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Badan Pemeriksa Keuangan"
+  }
+ ],
+ "abstract": "Untuk melakukan penyesuaian jenis dan tarif atas jenis Penerimaan Negara Bukan Pajak yang berlaku pada Badan Pemeriksa Keuangan sebagaimana telah diatur dalam Peraturan Pemerintah Nomor 81 Tahun 2021 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Badan Pemeriksa Keuangan, perlu mengatur kembali jenis dan tarif atas jenis Penerimaan Negara Bukan Pajak yang berlaku pada Badan Pemeriksa Keuangan.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945; UU No. 9 Tahun 2018; dan PP No. 44 Tahun 2025.\nPP ini mengatur mengenai jenis dan tarif atas Penerimaan Negara Bukan Pajak yang berlaku pada Badan Pemeriksa Keuangan sebagaimana tercantum dalam Lampiran yang merupakan bagian tidak terpisahkan dari PP ini.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 26 April 2026.\nPada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 81 Tahun 2021 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Badan Pemeriksa Keuangan (Lembaran Negara Republik Indonesia Tahun 2021 Nomor 177, Tambahan Lembaran Negara Republik Indonesia Nomor 6707), dicabut dan dinyatakan tidak berlaku.\nSeluruh Penerimaan Negara Bukan Pajak yang berlaku pada Badan Pemeriksa Keuangan wajib disetor ke kas negara.\nLampiran file: 16 hlm (batang tubuh hlm 1 sd 6; penjelasan hlm 7 sd 10; dan lampiran hlm 11 sd 16)",
+ "citations": [
+  "PP-2021-81",
+  "UU-2018-9",
+  "PP-2025-44"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/413095/PP%20Nomor%2017%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:28:00Z"
+}

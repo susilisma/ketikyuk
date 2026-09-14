@@ -1,0 +1,46 @@
+{
+ "id": "PP-2021-53",
+ "source": "bpk",
+ "bpk_id": 163994,
+ "url": "https://peraturan.bpk.go.id/Details/163994/pp-no-53-tahun-2021",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "53",
+ "number_raw": "53",
+ "year": 2021,
+ "title": "Peraturan Pemerintah (PP) Nomor 53 Tahun 2021 tentang Transplantasi Organ dan Jaringan Tubuh",
+ "about": "Transplantasi Organ dan Jaringan Tubuh",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KESEHATAN",
+ "field": "",
+ "date_enacted": "2021-03-04",
+ "date_promulgated": "2021-03-05",
+ "date_effective": "2021-03-05",
+ "gazette": "LN.2021/No.75, TLN No.6665, jdih.setkab.go.id : 38 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-28",
+   "target_bpk_id": 294077,
+   "label": "PP No. 28 Tahun 2024",
+   "about": "Peraturan Pelaksanaan Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-1981-18",
+   "target_bpk_id": 65486,
+   "label": "PP No. 18 Tahun 1981",
+   "about": "Bedah Mayat Klinis Dan Bedah Mayat Anatomis Serta Transplantasi Alat Atau Jaringan Tubuh Manusia"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 65 ayat (3) UU Nomor 36 Tahun 2009 tentang Kesehatan, perlu menetapkan PP tentang Transplantasi Organ dan Jaringan Tubuh.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD Negara Republik Indonesia Tahun 1945 dan UU Nomor 36 Tahun 2009 tentang Kesehatan.\nPP ini mengatur mengenai transplantasi organ dan jaringan tubuh yang bertujuan untuk: a) menjamin keamanan, keselamatan, kesukarelaan, kemanfaatan, dan keadilan dalam pelayanan Transplantasi Organ dan Jaringan tubuh bagi Pendonor maupun Resipien; b) meningkatkan donasi dan ketersediaan Organ dan Jaringan tubuh sebagai upaya penyembuhan penyakit, pemulihan kesehatan, dan peningkatan kualitas hidup; c) memberikan perlindungan atas martabat, privasi, dan kesehatan manusia; dan d) melindungi martabat dan kehormatan Pendonor dan Resipien. Transplantasi Organ dan/atau Jaringan tubuh dilakukan hanya untuk tujuan kemanusiaan dan dilarang untuk dikomersialkan.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 05 Maret 2021.\nPP ini mencabut PP Nomor 18 Tahun 1981.\nPenjelasan 16 hlm.",
+ "citations": [
+  "UU-2009-36"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/156801/PP%20Nomor%2053%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:30:34Z"
+}

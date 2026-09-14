@@ -1,0 +1,47 @@
+{
+ "id": "PMK-2022-61",
+ "source": "bpk",
+ "bpk_id": 206311,
+ "url": "https://peraturan.bpk.go.id/Details/206311/pmk-no-61pmk032022",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "61",
+ "number_raw": "61/PMK.03/2022",
+ "year": 2022,
+ "title": "Peraturan Menteri Keuangan Nomor 61/PMK.03/2022 Tahun 2022 tentang Pajak Pertambahan Nilai atas Kegiatan Membangun Sendiri",
+ "about": "Pajak Pertambahan Nilai atas Kegiatan Membangun Sendiri",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "",
+ "date_enacted": "2022-03-30",
+ "date_promulgated": "2022-03-30",
+ "date_effective": "2022-04-01",
+ "gazette": "BN.2022/No.361, https://jdih.kemenkeu.go.id: 11 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-81",
+   "target_bpk_id": 306614,
+   "label": "PMK No. 81 Tahun 2024",
+   "about": "Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2012-163",
+   "target_bpk_id": 126997,
+   "label": "PMK No. 163/PMK.03/2012",
+   "about": "Batasan Dan Tata Cara Pengenaan Pajak Pertambahan Nilai Atas Kegiatan Membangun Sendiri"
+  }
+ ],
+ "abstract": "Bahwa untuk meningkatkan kepastian hukum, mendorong peran serta masyarakat,\ndan memberikan kemudahan dan penyederhanaan administrasi perpajakan serta rasa\nkeadilan atas kegiatan membangun sendiri, perlu dilakukan penyesuaian terhadap\nPeraturan Menteri Keuangan Nomor 163/PMK.03/2012 dan untuk melaksanakan\nketentuan Pasal 16C dan Pasal 16G huruf i Undang-Undang Nomor 8 Tahun 1983, perlu\nmenetapkan Peraturan Menteri Keuangan tentang Peraturan Menteri Keuangan\ntentang Pajak Pertambahan Nilai atas Kegiatan Membangun Sendiri;.\nPasal 17 ayat (3) UUD Tahun 1945, UU 8 Tahun 1983 (LN Tahun 1983 No.51 TLN\nNo.3264) sebagaimana telah diubah terakhir dengan UU 42 Tahun 2009 (LN Tahun\n2009 No.150 TLN No.5069), UU 39 Tahun 2008 (LN Tahun 2008 No.166, TLN No.4916),\nPerpres RI 57 Tahun 2020 (LN Tahun 2020 No.98), Permenkeu RI 118/PMK.01/2021\n(BN Tahun 2021 No.1031).\nDalam Peraturan Menteri Keuangan Republik Indonesia ini diatur:\nPajak Pertambahan Nilai dikenakan atas kegiatan membangun sendiri, bagi orang\npribadi atau badan yang melakukan kegiatan membangun sendiri. Kegiatan\nmembangun sendiri merupakan kegiatan membangun bangunan, baik bangunan baru\nmaupun perluasan bangunan lama, yang dilakukan tidak dalam kegiatan usaha atau\npekerjaan oleh orang pribadi atau badan yang hasilnya digunakan sendiri atau\ndigunakan pihak lain. Kegiatan membangun sendiri sebagaimana dapat dilakukan\nsecara sekaligus dalam suatu jangka waktu tertentu atau bertahap sebagai satu\nkesatuan kegiatan sepanjang tenggang waktu antara tahapan membangun terse but\ntidak lebih dari 2 (dua) tahun. Saat terutangnya Pajak Pertambahan Nilai atas kegiatan\nmembangun sendiri terjadi pada saat mulai dibangunnya bangunan sampai dengan\nbangunan selesai. Tempat Pajak Pertambahan Nilai terutang atas kegiatan\nmembangun sendiri yaitu di tempat bangunan tersebut didirikan. Pajak Pertambahan\nNilai yang terutang atas kegiatan membangun sendiri sebelum Masa Pajak April 2022\nyang penyetoran Pajak Pertambahan Nilai terutangnya dilakukan sebelum Peraturan\nMenteri ini berlaku, penghitungan, penyetoran, dan pelaporan Pajak Pertambahan\nNilai atas kegiatan membangun sendiri dimaksud dilakukan berdasarkan Peraturan\nMenteri Keuangan Nomor 163/PMK.03/2012. Pajak Pertambahan Nilai yang terutang\natas kegiatan membangun sendiri sebelum Masa Pajak April 2022 yang penyetoran\nPajak Pertambahan Nilai terutangnya dilakukan pada saat atau setelah berlakunya\nPeraturan Menteri ini, penghitungan, penyetoran, dan pelaporan Pajak Pertambahan\nNilai atas kegiatan membangun sendiri dimaksud dilakukan berdasarkan Peraturan\nMenteri ini.",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 01 April 2022.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor\n163/PMK.03/2012 (Berita Negara Republik Indonesia Tahun 2012 Nomor 1036),\ndicabut dan dinyatakan tidak berlaku.\n14 HLM, Lampiran halaman 12-14.",
+ "citations": [
+  "PMK-2012-163",
+  "UU-1983-8"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/200338/61~PMK.03~2022Per.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:34:48Z"
+}

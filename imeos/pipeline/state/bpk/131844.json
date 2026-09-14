@@ -1,0 +1,37 @@
+{
+ "id": "PERMENDAG-2019-52",
+ "source": "bpk",
+ "bpk_id": 131844,
+ "url": "https://peraturan.bpk.go.id/Details/131844/permendag-no-52-tahun-2019",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "52",
+ "number_raw": "52",
+ "year": 2019,
+ "title": "Peraturan Menteri Perdagangan Nomor 52 Tahun 2019 tentang Standar Ukuran Metrologi Legal",
+ "about": "Standar Ukuran Metrologi Legal",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN - STANDAR / PEDOMAN",
+ "field": "",
+ "date_enacted": "2019-07-16",
+ "date_promulgated": "2019-07-31",
+ "date_effective": "2019-07-31",
+ "gazette": "BN 2019/ NO 809; PERATURAN.GO.ID : 54 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2024-31",
+   "target_bpk_id": 320990,
+   "label": "Permendag No. 31 Tahun 2024",
+   "about": "Standar Ukuran Metrologi Legal"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 31 Juli 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/122636/Permendag%20No.%2052%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:37:27Z"
+}

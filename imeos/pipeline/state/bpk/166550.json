@@ -1,0 +1,100 @@
+{
+ "id": "PERMENDAG-2021-26",
+ "source": "bpk",
+ "bpk_id": 166550,
+ "url": "https://peraturan.bpk.go.id/Details/166550/permendag-no-26-tahun-2021",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "26",
+ "number_raw": "26",
+ "year": 2021,
+ "title": "Peraturan Menteri Perdagangan Nomor 26 Tahun 2021 tentang Penetapan Standar Kegiatan Usaha dan Produk Pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Perdagangan",
+ "about": "Penetapan Standar Kegiatan Usaha dan Produk Pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Perdagangan",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "",
+ "date_enacted": "2021-04-01",
+ "date_promulgated": "2021-04-01",
+ "date_effective": "2021-04-01",
+ "gazette": "BN.2021/No. 282; http://jdih.kemendag.go.id : 5 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2026-1",
+   "target_bpk_id": 343099,
+   "label": "Permendag No. 1 Tahun 2026",
+   "about": "Peraturan Menteri Perdagangan Republik Indonesia Nomor 1 Tahun 2026 Tentang Ketentuan Karet Alam Spesifikasi Teknis Yang Akan Diekspor"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2025-33",
+   "target_bpk_id": 332960,
+   "label": "Permendag No. 33 Tahun 2025",
+   "about": "Standar Kegiatan Usaha dan/atau Standar Produk/Jasa pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Perdagangan dan Metrologi Legal"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2019-81",
+   "target_bpk_id": 132673,
+   "label": "Permendag No. 81 Tahun 2019",
+   "about": "Standardisasi Bidang Perdagangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2019-78",
+   "target_bpk_id": 128643,
+   "label": "Permendag No. 78 Tahun 2019",
+   "about": "Perubahan Atas Peraturan Menteri Perdagangan Nomor 38 Tahun 2019 Tentang Ketentuan Petunjuk Penggunaan Dan Jaminan Layanan Purna Jual Bagi Produk Elektronika Dan Produk Telematika"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2019-38",
+   "target_bpk_id": 128592,
+   "label": "Permendag No. 38 Tahun 2019",
+   "about": "Ketentuan Petunjuk Penggunaan Dan Jaminan Layanan Purna Jual Bagi Produk Elektronika Dan Produk Telematika"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2019-18",
+   "target_bpk_id": 128576,
+   "label": "Permendag No. 18 Tahun 2019",
+   "about": "Metode Pengujian, Tata Cara Pendaftaran, Pengawasan, Penghentian Kegiatan Perdagangan Dan Penarikan Barang Terkait Dengan Keamanan, Keselamatan, Kesehatan, Dan Lingkungan Hidup"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2018-23",
+   "target_bpk_id": 128357,
+   "label": "Permendag No. 23 Tahun 2018",
+   "about": "Perubahan Atas Peraturan Menteri Perdagangan Nomor 74/M-DAG/PER/ 12/2012 Tentang Alat-Alat Ukur, Takar, Timbang, Dan Perlengkapannya Asal Impor"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2016-53",
+   "target_bpk_id": 128882,
+   "label": "Permendag No. 53/M-DAG/PER/7/2016 Tahun 2016",
+   "about": "Izin Pembuatan Alat-alat Ukur, Takar, Timbang, dan Perlengkapannya Produksi Dalam Negeri"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2012-74",
+   "target_bpk_id": 129391,
+   "label": "Permendag No. 74/M-DAG/PER/12/2012 Tahun 2012",
+   "about": "Alat-Alat Ukur, Timbang, dan Perlengkapannya Asal Impor"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2008-10",
+   "target_bpk_id": 166554,
+   "label": "Permendag No. 10/M-DAG/PER/4/2008 Tahun 2008",
+   "about": "Ketentuan Karet Alam Spesifikasi Teknis Indonesia (SIR) Yang Diperdagangkan Ke Luar Negeri"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 01 April 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/269198/Permendag%20Nomor%2026%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:36:20Z"
+}

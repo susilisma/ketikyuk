@@ -1,0 +1,44 @@
+{
+ "id": "POJK-2019-37",
+ "source": "bpk",
+ "bpk_id": 128445,
+ "url": "https://peraturan.bpk.go.id/Details/128445/peraturan-ojk-no-37pojk032019-tahun-2019",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "37",
+ "number_raw": "37/POJK.03/2019",
+ "year": 2019,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 37/POJK.03/2019 Tahun 2019 tentang Transparansi dan Publikasi Laporan Bank",
+ "about": "Transparansi dan Publikasi Laporan Bank",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "",
+ "date_enacted": "2019-12-19",
+ "date_promulgated": "2019-12-20",
+ "date_effective": "2019-12-19",
+ "gazette": "BN. 2019/NO.248, Jdih.ojk.go.id: 52 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 327349,
+   "label": "Peraturan OJK No. 18 Tahun 2025",
+   "about": "Transparasi dan Publikasi Laporan Bank"
+  },
+  {
+   "type": "Diubah sebagian dengan",
+   "target": null,
+   "target_bpk_id": 301750,
+   "label": "Peraturan OJK No. 13 Tahun 2024",
+   "about": "Transparansi dan Publikasi Suku Bunga Dasar Kredit Bagi Bank Umum Konvensional"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 19 Desember 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/119391/POJK%2037-2019.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:43:37Z"
+}

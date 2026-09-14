@@ -1,0 +1,40 @@
+{
+ "id": "UU-2025-3",
+ "source": "bpk",
+ "bpk_id": 319166,
+ "url": "https://peraturan.bpk.go.id/Details/319166/uu-no-3-tahun-2025",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "3",
+ "number_raw": "3",
+ "year": 2025,
+ "title": "Undang-undang (UU) Nomor 3 Tahun 2025 tentang Perubahan atas Undang-Undang Nomor 34 Tahun 2004 tentang Tentara Nasional Indonesia",
+ "about": "Perubahan atas Undang-Undang Nomor 34 Tahun 2004 tentang Tentara Nasional Indonesia",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERTAHANAN DAN KEAMANAN, MILITER",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2025-03-26",
+ "date_promulgated": "2025-03-26",
+ "date_effective": "2025-03-26",
+ "gazette": "LN 2025 (35), TLN (7104) : 10 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "UU-2004-34",
+   "target_bpk_id": 40774,
+   "label": "UU No. 34 Tahun 2004",
+   "about": "Tentara Nasional Indonesia"
+  }
+ ],
+ "abstract": "Beberapa ketentuan dalam Undang-Undang Nomor 34 Tahun 2004 tentang Tentara Nasional Indonesia perlu disesuaikan dengan perkembangan organisasi dan kelembagaan serta peraturan perundang-undangan.\nDasar hukum UU ini adalah Pasal 20, Pasal 21, Pasal 30 ayat (2), ayat (3), dan ayat (5) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU No. 3 Tahun 2002; dan UU No. 34 Tahun 2004.\nUU ini mengubah beberapa ketentuan dalam UU No. 34 Tahun 2004. Dalam pengerahan dan penggunaan kekuatan militer, TNI berkedudukan di bawah Presiden. Kebijakan dan strategi pertahanan serta dukungan administrasi yang berkaitan dengan aspek perencanaan strategis TNI, berada di dalam koordinasi Kementerian Pertahanan. UU No. 34 Tahun 2004 dilakukan perubahan terhadap substansi yang mengatur mengenai: kedudukan TNI, tugas TNI, penempatan prajurit pada kementerian/lembaga, dan usia masa dinas keprajuritan TNI.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 26 Maret 2025.\nUU ini mengubah UU No. 34 Tahun 2004.\nLampiran file: 19 hlm. (batang tubuh hlm 1 s.d. 10 dan penjelasan hlm 11 s.d. 19)",
+ "citations": [
+  "UU-2004-34",
+  "UU-2002-3"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/380719/UU%20Nomor%203%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:23:58Z"
+}

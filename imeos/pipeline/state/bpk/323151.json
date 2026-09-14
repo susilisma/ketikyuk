@@ -1,0 +1,47 @@
+{
+ "id": "PERMENAKER-2025-7",
+ "source": "bpk",
+ "bpk_id": 323151,
+ "url": "https://peraturan.bpk.go.id/Details/323151/permenaker-no-7-tahun-2025",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "7",
+ "number_raw": "7",
+ "year": 2025,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 7 Tahun 2025 tentang Perubahan atas",
+ "about": "Perubahan atas",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "KETENAGAKERJAAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-07-16",
+ "date_promulgated": "2025-07-18",
+ "date_effective": "2025-07-18",
+ "gazette": "BN 2025 (519); 7 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERMENAKER-2022-20",
+   "target_bpk_id": 245526,
+   "label": "Permenaker No. 20 Tahun 2022",
+   "about": "Pedoman Pembayaran Dana Iuran Peserta Program Jaminan Kehilangan Pekerjaan oleh Pemerintah"
+  }
+ ],
+ "abstract": "bahwa dengan diundangkannya Peraturan Pemerintah\nNomor 6 Tahun 2025 tentang Perubahan atas\nPeraturan Pemerintah Nomor 37 Tahun 2021 tentang\nPenyelenggaraan Program Jaminan Kehilangan\nPekerjaan, perlu dilakukan penyesuaian pedoman\npembayaran dana iuran peserta program jaminan\nkehilangan pekerjaan oleh pemerintah\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD 1945; UU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024; PP Nomor 37 Tahun 2021 sebagaimana telah diubah dengan PP Nomor 6 Tahun 2025; Perpres Nomor 164 Tahun 2024; Permenkeu Nomor 168/PMK.05/2015 sebagaimana telah beberapa kali diubah terakhir dengan Permenkeu Nomor 132/PMK.05/2021; Permenaker Nomor 7 Tahun 2021 sebagaimana telah diubah dengan Permenaker Nomor 3 Tahun 2025; Permenkeu Nomor 148/PMK.02/2021 sebagaimana telah diubah dengan Permenkeu Nomor 26 Tahun 2025; Permenaker Nomor 20 Tahun 2022; Permenaker Nomor 20 Tahun 2024\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri\nKetenagakerjaan Nomor 20 Tahun 2022 tentang Pedoman\nPembayaran Dana Iuran Peserta Program Jaminan\nKehilangan Pekerjaan oleh Pemerintah (Berita Negara\nRepublik Indonesia Tahun 2022 Nomor 1197)",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 18 Juli 2025.",
+ "citations": [
+  "PP-2025-6",
+  "PP-2021-37",
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2024-164",
+  "PERMENAKER-2021-7",
+  "PERMENAKER-2025-3",
+  "PERMENAKER-2022-20",
+  "PERMENAKER-2024-20"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/384967/permenaker-no-7-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:41:09Z"
+}

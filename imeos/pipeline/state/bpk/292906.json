@@ -1,0 +1,47 @@
+{
+ "id": "PERPRES-2024-76",
+ "source": "bpk",
+ "bpk_id": 292906,
+ "url": "https://peraturan.bpk.go.id/Details/292906/perpres-no-76-tahun-2024",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "76",
+ "number_raw": "76",
+ "year": 2024,
+ "title": "Peraturan Presiden (Perpres) Nomor 76 Tahun 2024 tentang Perubahan atas Peraturan Presiden Nomor 70 Tahun 2023 tentang Pengalokasian Lahan Bagi Penataan Investasi",
+ "about": "Perubahan atas Peraturan Presiden Nomor 70 Tahun 2023 tentang Pengalokasian Lahan Bagi Penataan Investasi",
+ "issuer": "Pemerintah Pusat",
+ "subject": "AGRARIA, PERTANAHAN, TATA RUANG - PENANAMAN MODAL DAN INVESTASI",
+ "field": "HUKUM AGRARIA",
+ "date_enacted": "2024-07-22",
+ "date_promulgated": "2024-07-22",
+ "date_effective": "2024-07-22",
+ "gazette": "LN 2024 (134) : 8 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PP-2025-39",
+   "target_bpk_id": 331105,
+   "label": "PP No. 39 Tahun 2025",
+   "about": "Perubahan Kedua atas Peraturan Pemerintah Nomor 96 Tahun 2021 tentang Pelaksanaan Kegiatan Usaha Pertambangan Mineral dan Batubara"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2023-70",
+   "target_bpk_id": 267151,
+   "label": "PERPRES No. 70 Tahun 2023",
+   "about": "Pengalokasian Lahan bagi Penataan Investasi"
+  }
+ ],
+ "abstract": "Untuk mendukung kelancaran penataan penggunaan dan pemanfaatan lahan bagi pemerataan investasi, perlu dilakukan penyesuaian mengenai mekanisme pengalokasian lahan kegiatan pertambangan dalam Peraturan Presiden Nomor 70 Tahun 2023 tentang Pengalokasian Lahan Bagi Penataan Investasi.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD 1945; PP Nomor 96 Tahun 2021; dan Perpres Nomor 70 Tahun 2023.\nPerpres ini mengubah beberapa ketentuan dalam Perpres Nomor 70 Tahun 2023. Pasal yang diubah yaitu Pasal 1, Pasal 12, dan Pasal 13, serta diantara Pasal 5 dan Pasal 6 disisipkan 3 (tiga) pasal.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 22 Juli 2024.\nPerpres ini mengubah Perpres Nomor 76 Tahun 2024.\nLampiran file: 8 hlm.",
+ "citations": [
+  "PERPRES-2023-70",
+  "PP-2021-96"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/352219/Perpres%20Nomor%2076%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:29:07Z"
+}

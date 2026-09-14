@@ -1,0 +1,41 @@
+{
+ "id": "PP-2021-24",
+ "source": "bpk",
+ "bpk_id": 161854,
+ "url": "https://peraturan.bpk.go.id/Details/161854/pp-no-24-tahun-2021",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "24",
+ "number_raw": "24",
+ "year": 2021,
+ "title": "Peraturan Pemerintah (PP) Nomor 24 Tahun 2021 tentang Tata Cara Pengenaan Sanksi Administratif dan Tata Cara Penerimaan Negara Bukan Pajak yang Berasal dari Denda Administratif di Bidang Kehutanan",
+ "about": "Tata Cara Pengenaan Sanksi Administratif dan Tata Cara Penerimaan Negara Bukan Pajak yang Berasal dari Denda Administratif di Bidang Kehutanan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KEHUTANAN DAN PERKEBUNAN - PENANAMAN MODAL DAN INVESTASI - PNBP / PENERIMAAN NEGARA BUKAN PAJAK - PERIZINAN, PELAYANAN PUBLIK - STANDAR / PEDOMAN",
+ "field": "",
+ "date_enacted": "2021-02-02",
+ "date_promulgated": "2021-02-02",
+ "date_effective": "2021-02-02",
+ "gazette": "LN.2021/No.34, TLN No.6636, jdih.setkab.go.id : 45 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2025-45",
+   "target_bpk_id": 334445,
+   "label": "PP No. 45 Tahun 2025",
+   "about": "Perubahan atas Peraturan Pemerintah Nomor 24 Tahun 2021 tentang Tata Cara Pengenaan Sanksi Administratif dan Tata Cara Penerimaan Negara Bukan Pajak yang Berasal dari Denda Administratif di Bidang Kehutanan"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 37 dan Pasal 185 huruf b Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja, perlu menetapkan Peraturan Pemerintah tentang Tata Cara Pengenaan Sanksi Administratif dan Tata Cara Penerimaan Negara Bukan Pajak yang Berasal dari Denda Administratif di Bidang Kehutanan.\nDasar hukum PP ini adalah Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 18 Tahun 2013; dan UU Nomor 11 Tahun 2020.\nPP ini mengatur lebih lanjut pengenaan Sanksi Administratif dan Penerimaan Negara Bukan Pajak (PNBP) yang berasal dari denda administratif di bidang kehutanan. Adapun substansi norma pengaturan tersebut terdiri atas: 1) inventarisasi data dan informasi kegiatan usaha yang telah terbangun di dalam Kawasan Hutan yang tidak memiliki Perizinan di bidang kehutanan; 2) tata cara penyelesaian terhadap kegiatan usaha perkebunan kelapa sawit yang telah terbangun di dalam Kawasan Hutan yang memiliki Izin Lokasi dan/atau izin usaha di bidang perkebunan yang tidak memiliki Perizinan di bidang kehutanan; 3) tata cara pengenaan Sanksi Administratif terhadap kegiatan usaha di dalam Kawasan Hutan yang tidak memiliki Perizinan di bidang kehutanan; 4) tata cara perhitungan Denda Administratif; 5) PNBP yang berasal dari Denda Administratif; dan 6) paksaan pemerintah.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 02 Februari 2021.\nPenjelasan 15 hlm.",
+ "citations": [
+  "UU-2020-11",
+  "UU-2013-18"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/154529/PP%20Nomor%2024%20Tahun%202021.pdf",
+  "https://peraturan.bpk.go.id/Download/154530/PP%20Nomor%2024%20Tahun%202021%20-%20Lampiran.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:28:55Z"
+}

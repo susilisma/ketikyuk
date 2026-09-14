@@ -1,0 +1,47 @@
+{
+ "id": "PMK-2019-97",
+ "source": "bpk",
+ "bpk_id": 128100,
+ "url": "https://peraturan.bpk.go.id/Details/128100/pmk-no-97pmk062019",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "97",
+ "number_raw": "97/PMK.06/2019",
+ "year": 2019,
+ "title": "Peraturan Menteri Keuangan Nomor 97/PMK.06/2019 Tahun 2019 tentang Pengasuransian Barang Milik Negara",
+ "about": "Pengasuransian Barang Milik Negara",
+ "issuer": "Kementerian Keuangan",
+ "subject": "APBN - ASURANSI - PENGELOLAAN BARANG MILIK NEGARA / DAERAH",
+ "field": "",
+ "date_enacted": "2019-06-21",
+ "date_promulgated": "2019-06-25",
+ "date_effective": "2019-06-25",
+ "gazette": "JDIH.KEMENKEU.GO.ID : 19 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-43",
+   "target_bpk_id": 322303,
+   "label": "PMK No. 43 Tahun 2025",
+   "about": "Pengasuransian Barang Milik Negara"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2016-247",
+   "target_bpk_id": 121392,
+   "label": "PMK No. 247/PMK.06/2016",
+   "about": "Pengasuransian Barang Milik Negara"
+  }
+ ],
+ "abstract": "Untuk melaksanakan pengasuransian Barang Milik Negara, telah ditetapkan Peraturan Menteri Keuangan Nomor 247/PMK.06/2016 tentang Pengasuransian Barang Milik Negara dan\nuntuk menyikapi kondisi dan praktik pengelolaan Barang Milik Negara, Peraturan Menteri Keuangan Nomor 247/PMK.06/2016 tentang Pengasuransian Barang Milik Negara perlu diganti\nUndang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nornor 27 Tahun 2014, Peraturan Presiden Nornor 28 Tahun 2015\nRuang Lingkup Peraturan Menteri ini meliputi tata cara pengasuransian BMN berupa gedung dan bangunan yang berada pada Pengguna Barang atau Kuasa Pengguna Barang",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 25 Juni 2019.\nPeraturan Menteri Keuangan No. 247/PMK.06/2016 tentang Pengasuransian Barang Milik Negara\nKewenangan dan Tanggung Jawab Pengelola Barang, Pengguna Barang, Kuasa Pengguna Barang, dan Asuransi BMN,\n19",
+ "citations": [
+  "PMK-2016-247",
+  "UU-2008-39"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/119098/97~PMK.06~2019Per.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:33:38Z"
+}

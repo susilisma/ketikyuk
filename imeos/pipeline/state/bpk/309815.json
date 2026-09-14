@@ -1,0 +1,45 @@
+{
+ "id": "PERMENAKER-2024-9",
+ "source": "bpk",
+ "bpk_id": 309815,
+ "url": "https://peraturan.bpk.go.id/Details/309815/permenaker-no-9-tahun-2024",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "9",
+ "number_raw": "9",
+ "year": 2024,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 9 Tahun 2024 tentang Penguatan Peran Pengantar Kerja, Pemberdayaan Pekerja Migran Indonesia dan Keluarganya, Pembinaan Terhadap Lembaga yang Terkait Penempatan dan Pelindungan Pekerja Migran Indonesia,",
+ "about": "Penguatan Peran Pengantar Kerja, Pemberdayaan Pekerja Migran Indonesia dan Keluarganya, Pembinaan Terhadap Lembaga yang Terkait Penempatan dan Pelindungan Pekerja Migran Indonesia,",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "KETENAGAKERJAAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-11-05",
+ "date_promulgated": "2024-11-08",
+ "date_effective": "2024-11-08",
+ "gazette": "BN 2024 (819); 12 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENAKER-2026-2",
+   "target_bpk_id": 344084,
+   "label": "Permenaker No. 2 Tahun 2026",
+   "about": "Pencabutan Peraturan Menteri Ketenagakerjaan Bidang Penempatan dan Pelindungan Pekerja Migran Indonesia"
+  }
+ ],
+ "abstract": "bahwa untuk melaksanakan ketentuan Pasal 12 ayat (2),\nPasal 23 ayat (3), Pasal 89 ayat (2), Pasal 93 ayat (3), dan\nPasal 95 ayat (2) Peraturan Pemerintah Nomor 59 Tahun\n2021 tentang Pelaksanaan Pelindungan Pekerja Migran\nIndonesia\nDasar hukum peraturan ini adalah PAsal 17 ayat (3) UUD 1945; UU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024; UU Nomor 18 Tahun 2017; UU Nomor 6 Tahun 2023; PP Nomor 59 Tahun 2021; Perpres Nomor 95 Tahun 2020; Permenaker Nomor 1 Tahun 2021\nPeraturan ini mengatur mengenai penguatan peran pengantar kerja; pemberdayaan pekerja migran Indonesia dan keluarganya; tata cara keikutsertaan masyarakat dalam pengawasan ketenagakerjaan; persyaratan mitra usaha;",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 08 November 2024.",
+ "citations": [
+  "PP-2021-59",
+  "UU-2008-39",
+  "UU-2024-61",
+  "UU-2017-18",
+  "UU-2023-6",
+  "PERPRES-2020-95",
+  "PERMENAKER-2021-1"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/370362/Permenaker%20Nomor%209%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:41:39Z"
+}

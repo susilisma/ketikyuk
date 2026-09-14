@@ -1,0 +1,37 @@
+{
+ "id": "POJK-2019-39",
+ "source": "bpk",
+ "bpk_id": 128451,
+ "url": "https://peraturan.bpk.go.id/Details/128451/peraturan-ojk-no-39pojk032019-tahun-2019",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "39",
+ "number_raw": "39/POJK.03/2019",
+ "year": 2019,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 39/POJK.03/2019 Tahun 2019 tentang Penerapan Strategi Anti Fraud Bagi Bank Umum",
+ "about": "Penerapan Strategi Anti Fraud Bagi Bank Umum",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "",
+ "date_enacted": "2019-12-19",
+ "date_promulgated": null,
+ "date_effective": "2019-12-19",
+ "gazette": "Jdih.ojk.go.id: 76 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 301737,
+   "label": "Peraturan OJK No. 12 Tahun 2024",
+   "about": "Penerapan Strategi Anti Fraud Bagi Lembaga Jasa Keuangan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 19 Desember 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/119397/pojk%2039-2019.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:44:27Z"
+}

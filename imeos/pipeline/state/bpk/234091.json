@@ -1,0 +1,37 @@
+{
+ "id": "PMK-2022-192",
+ "source": "bpk",
+ "bpk_id": 234091,
+ "url": "https://peraturan.bpk.go.id/Details/234091/pmk-no-192pmk0102022",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "192",
+ "number_raw": "192/PMK.010/2022",
+ "year": 2022,
+ "title": "Peraturan Menteri Keuangan Nomor 192/PMK.010/2022 Tahun 2022 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 193/PMK.010/2021 tentang Tarif Cukai Hasil Tembakau Berupa Rokok Elektrik dan Hasil Pengolahan Tembakau Lainnya",
+ "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 193/PMK.010/2021 tentang Tarif Cukai Hasil Tembakau Berupa Rokok Elektrik dan Hasil Pengolahan Tembakau Lainnya",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN",
+ "field": "",
+ "date_enacted": "2022-12-14",
+ "date_promulgated": "2022-12-15",
+ "date_effective": "2022-12-15",
+ "gazette": "BN.2022/NO. 1274; https:jdih.kemenkeu.go.id : 9 Hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PMK-2021-193",
+   "target_bpk_id": 197500,
+   "label": "PMK No. 193/PMK.010/2021",
+   "about": "Tarif Cukai Hasil Tembakau Berupa Rokok Elektrik dan Hasil Pengolahan Tembakau Lainnya"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 15 Desember 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/286138/192_PMK.010_2022.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:25:38Z"
+}

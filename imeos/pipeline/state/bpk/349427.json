@@ -1,0 +1,47 @@
+{
+ "id": "PERPRES-2026-29",
+ "source": "bpk",
+ "bpk_id": 349427,
+ "url": "https://peraturan.bpk.go.id/Details/349427/perpres-no-29-tahun-2026",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "29",
+ "number_raw": "29",
+ "year": 2026,
+ "title": "Peraturan Presiden (Perpres) Nomor 29 Tahun 2026 tentang Perubahan Kedua atas Peraturan Presiden Nomor 107 Tahun 2015 tentang Percepatan Penyelenggaraan Prasarana dan Sarana Kereta Cepat Antara Jakarta dan Bandung",
+ "about": "Perubahan Kedua atas Peraturan Presiden Nomor 107 Tahun 2015 tentang Percepatan Penyelenggaraan Prasarana dan Sarana Kereta Cepat Antara Jakarta dan Bandung",
+ "issuer": "Pemerintah Pusat",
+ "subject": "TRANSPORTASI DARAT / LAUT / UDARA",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2026-05-12",
+ "date_promulgated": "2026-05-12",
+ "date_effective": "2026-05-12",
+ "gazette": "LN 2026 (54) : 5 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2021-93",
+   "target_bpk_id": 180082,
+   "label": "PERPRES No. 93 Tahun 2021",
+   "about": "Perubahan atas Peraturan Presiden Nomor 107 Tahun 2015 tentang Percepatan Penyelenggaraan Prasarana dan Sarana Kereta Cepat antara Jakarta dan Bandung"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2015-107",
+   "target_bpk_id": 41856,
+   "label": "PERPRES No. 107 Tahun 2015",
+   "about": "Percepatan Penyelenggaraan Prasarana dan Sarana Kereta Cepat antara Jakarta dan Bandung"
+  }
+ ],
+ "abstract": "Dalam rangka meningkatkan efektivitas pelaksanaan tugas Komite Kereta Cepat Antara Jakarta dan Bandung perlu melakukan penyesuaian susunan keanggotaan Komite Kereta Cepat Antara Jakarta dan Bandung dengan susunan keanggotaan serta tugas dan fungsi kementerian dan lembaga pada Kabinet Merah Putih.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD 1945; UU No. 17 Tahun 2003; dan Perpres No. 107 Tahun 2015.\nPerpres ini mengubah beberapa ketentuan dalam Perpres No. 107 Tahun 2015.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 12 Mei 2026.\nPerpres ini mengubah Perpres No. 107 Tahun 2015.\nLampiran file: 5 hlm.",
+ "citations": [
+  "UU-2003-17",
+  "PERPRES-2015-107"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/413116/Perpres%20No.%2029%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:31:25Z"
+}

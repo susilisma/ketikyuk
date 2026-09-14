@@ -1,0 +1,52 @@
+{
+ "id": "PERMENPERIN-2025-6",
+ "source": "bpk",
+ "bpk_id": 321075,
+ "url": "https://peraturan.bpk.go.id/Details/321075/permenperin-no-6-tahun-2025",
+ "form": "PERMENPERIN",
+ "form_long": "Peraturan Menteri Perindustrian",
+ "number": "6",
+ "number_raw": "6",
+ "year": 2025,
+ "title": "Peraturan Menteri Perindustrian Nomor 6 Tahun 2025 tentang Pemberlakuan Standar Nasional Indonesia untuk Kertas dan Karton Sebagai Bahan Baku Pembuatan Kemasan Primer untuk Pangan Secara Wajib",
+ "about": "Pemberlakuan Standar Nasional Indonesia untuk Kertas dan Karton Sebagai Bahan Baku Pembuatan Kemasan Primer untuk Pangan Secara Wajib",
+ "issuer": "Kementerian Perindustrian",
+ "subject": "PERINDUSTRIAN - STANDAR / PEDOMAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-10-17",
+ "date_promulgated": "2025-01-24",
+ "date_effective": "2025-07-24",
+ "gazette": "BN.2025 (59)/68 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENPERIN-2020-20",
+   "target_bpk_id": 166986,
+   "label": "Permenperin No. 20 Tahun 2020",
+   "about": "Pemberlakuan Standar Nasional Indonesia Kertas dan Karton Untuk Kemasan Pangan Secara Wajib"
+  }
+ ],
+ "abstract": "a. bahwa untuk menjamin keamanan, kesehatan, dan\nkeselamatan manusia dari penggunaan kertas dan\nkarton sebagai bahan baku pembuatan kemasan\nprimer untuk pangan, meningkatkan daya saing,\nefisiensi, dan kinerja industri kertas dan karton\nsebagai bahan baku pembuatan kemasan primer\nuntuk pangan, dan menciptakan persaingan usaha\nyang sehat, perlu memberlakukan standar nasional\nIndonesia untuk kertas dan karton sebagai bahan\nbaku pembuatan kemasan primer untuk pangan\nsecara wajib;\nb. bahwa Peraturan Menteri Perindustrian Nomor 20\nTahun 2020 tentang Pemberlakuan Standar Nasional\nIndonesia Kertas dan Karton untuk Kemasan Pangan\nSecara Wajib sudah tidak sesuai dengan\nperkembangan standar nasional indonesia kertas dan\nkarton sebagai bahan baku pembuatan kemasan\nprimer untuk pangan dan kebijakan di bidang\nstandardisasi industri, sehingga perlu diganti;\nc. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a dan huruf b, serta untuk\nmelaksanakan ketentuan Pasal 52 ayat (1) UndangUndang Nomor 3 Tahun 2014 tentang Perindustrian\nsebagaimana telah diubah dengan Undang-Undang\nNomor 6 Tahun 2023 tentang Penetapan Peraturan\nPemerintah Pengganti Undang-Undang Nomor 2 Tahun\n2022 tentang Cipta Kerja Menjadi Undang-Undang,\nperlu menetapkan Peraturan Menteri Perindustrian\ntentang Pemberlakuan Standar Nasional Indonesia\nuntuk Kertas dan Karton Sebagai Bahan Baku\nPembuatan Kemasan Primer untuk Pangan Secara\nWajib;\nPasal 17 ayat (3) UUD 1945, UU No. 39 Tahun 2008, UU No. 3 Tahun 2014, UU No. 20 Tahun 2014, UU No. 6 Tahun 2023, UU No. 61 Tahun 2024, PP No. 2 Tahun 2017,\nPP No. 34 Tahun 2018, PP No. 28 Tahun 2021, PP No. 46 Tahun 2023,\nPerpres No. 167 Tahun 2024, Permenperin No. 45 Tahun 2022, dan\nPermenperin No. 8 Tahun 2023.\nPeraturan ini mengatur tentang ketentuan umum, lingkup pemberlakuan Standar Nasional Indonesia secara wajib, penilaian kesesuaian, ketentuan peralihan dan ketentuan penutup.",
+ "note": "Peraturan Menteri Perindustrian ini mulai berlaku pada tanggal 24 Juli 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku Peraturan Menteri Perindustrian Nomor 20 Tahun 2020 tentang Pemberlakuan Standar Nasional Indonesia Kertas dan Karton untuk Kemasan Pangan Secara Wajib",
+ "citations": [
+  "PERMENPERIN-2020-20",
+  "UU-2023-6",
+  "UU-2022-2",
+  "UU-2008-39",
+  "UU-2014-3",
+  "UU-2014-20",
+  "UU-2024-61",
+  "PP-2017-2",
+  "PP-2018-34",
+  "PP-2021-28",
+  "PP-2023-46",
+  "PERPRES-2024-167",
+  "PERMENPERIN-2022-45",
+  "PERMENPERIN-2023-8"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/382815/Permenperin%20No.%206%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:38:58Z"
+}

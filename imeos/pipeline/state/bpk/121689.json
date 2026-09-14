@@ -1,0 +1,37 @@
+{
+ "id": "PP-2019-67",
+ "source": "bpk",
+ "bpk_id": 121689,
+ "url": "https://peraturan.bpk.go.id/Details/121689/pp-no-67-tahun-2019",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "67",
+ "number_raw": "67",
+ "year": 2019,
+ "title": "Peraturan Pemerintah (PP) Nomor 67 Tahun 2019 tentang Pengelolaan Tenaga Kesehatan",
+ "about": "Pengelolaan Tenaga Kesehatan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KESEHATAN - JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "",
+ "date_enacted": "2019-09-24",
+ "date_promulgated": "2019-09-24",
+ "date_effective": "2019-09-24",
+ "gazette": "LN.2019/NO.173, TLN NO.6391, JDIH.SETNEG.GO.ID : 47 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-28",
+   "target_bpk_id": 294077,
+   "label": "PP No. 28 Tahun 2024",
+   "about": "Peraturan Pelaksanaan Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 24 September 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/112461/PP%20Nomor%2067%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:30:39Z"
+}

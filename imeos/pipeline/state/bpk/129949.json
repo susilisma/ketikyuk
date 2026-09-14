@@ -1,0 +1,44 @@
+{
+ "id": "POJK-2014-4",
+ "source": "bpk",
+ "bpk_id": 129949,
+ "url": "https://peraturan.bpk.go.id/Details/129949/peraturan-ojk-no-4pojk042014-tahun-2014",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "4",
+ "number_raw": "4/POJK.04/2014",
+ "year": 2014,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 4/POJK.04/2014 Tahun 2014 tentang Tata Cara Penagihan Sanksi Administratif berupa Denda di Sektor Jasa Keuangan",
+ "about": "Tata Cara Penagihan Sanksi Administratif berupa Denda di Sektor Jasa Keuangan",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "",
+ "date_enacted": "2014-04-01",
+ "date_promulgated": "2014-04-01",
+ "date_effective": "2014-04-01",
+ "gazette": "LN.2014/NO.67, Jdih.ojk.go.id: 7 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 347481,
+   "label": "Peraturan OJK No. 39 Tahun 2025",
+   "about": "Tata Cara Penagihan Sanksi Administratif Berupa Denda di Sektor Jasa Keuangan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 143052,
+   "label": "Peraturan OJK No. 36/POJK.02/2020 Tahun 2020",
+   "about": "Perubahan Ketiga atas Peraturan Otoritas Jasa Keuangan Nomor 4/POJK.04/2014 tentang Tata Cara Penagihan Sanksi Administratif Berupa Denda di Sektor Jasa Keuangan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 01 April 2014.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/120820/POJK%204.%20Tata%20Cara%20Penagihan%20sanksi%20admnistrasi.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:43:09Z"
+}

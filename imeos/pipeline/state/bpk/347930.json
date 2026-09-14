@@ -1,0 +1,41 @@
+{
+ "id": "PERPRES-2026-6",
+ "source": "bpk",
+ "bpk_id": 347930,
+ "url": "https://peraturan.bpk.go.id/Details/347930/perpres-no-6-tahun-2026",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "6",
+ "number_raw": "6",
+ "year": 2026,
+ "title": "Peraturan Presiden (Perpres) Nomor 6 Tahun 2026 tentang Perubahan atas Peraturan Presiden Nomor 188 Tahun 2024 tentang Kementerian Pendidikan Dasar dan Menengah",
+ "about": "Perubahan atas Peraturan Presiden Nomor 188 Tahun 2024 tentang Kementerian Pendidikan Dasar dan Menengah",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI - STRUKTUR ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-02-09",
+ "date_promulgated": "2026-02-09",
+ "date_effective": "2026-02-09",
+ "gazette": "LN 2026 (13) : 14 hlm; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2024-188",
+   "target_bpk_id": 306926,
+   "label": "Perpres No. 188 Tahun 2024",
+   "about": "Kementerian Pendidikan Dasar dan Menengah"
+  }
+ ],
+ "abstract": "Beberapa ketentuan dalam Peraturan Presiden Nomor 188 Tahun 2024 tentang Kementerian Pendidikan Dasar dan Menengah perlu disesuaikan dengan perkembangan hukum dan kebutuhan organisasi, sehingga perlu diubah.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) dan Pasal 17 UUD 1945; UU No. 39 Tahun 2008; Perpres No. 140 Tahun 2024; dan Perpres No. 188 Tahun 2024.\nPerpres ini mengubah beberapa ketentuan dalam Perpres No. 188 Tahun 2024.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 09 Februari 2026.\nPerpres ini mengubah Perpres No. 188 Tahun 2024\nLampiran file: 14 hlm.",
+ "citations": [
+  "PERPRES-2024-188",
+  "UU-2008-39",
+  "PERPRES-2024-140"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/411505/Perpres%20Nomor%206%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:59Z"
+}

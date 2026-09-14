@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2024-24",
+ "source": "bpk",
+ "bpk_id": 277602,
+ "url": "https://peraturan.bpk.go.id/Details/277602/perpres-no-24-tahun-2024",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "24",
+ "number_raw": "24",
+ "year": 2024,
+ "title": "Peraturan Presiden (Perpres) Nomor 24 Tahun 2024 tentang Perubahan atas Peraturan Presiden Nomor 27 Tahun 2020 tentang Kementerian Pekerjaan Umum dan Perumahan Rakyat",
+ "about": "Perubahan atas Peraturan Presiden Nomor 27 Tahun 2020 tentang Kementerian Pekerjaan Umum dan Perumahan Rakyat",
+ "issuer": "Pemerintah Pusat",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA",
+ "field": "HUKUM TATA NEGARA",
+ "date_enacted": "2024-02-13",
+ "date_promulgated": "2024-02-13",
+ "date_effective": "2024-02-13",
+ "gazette": "LN 2024 (37); 4 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-170",
+   "target_bpk_id": 306752,
+   "label": "Perpres No. 170 Tahun 2024",
+   "about": "Kementerian Pekerjaan Umum"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2020-27",
+   "target_bpk_id": 132020,
+   "label": "PERPRES No. 27 Tahun 2020",
+   "about": "Kementerian Pekerjaan Umum dan Perumahan Rakyat"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 13 Februari 2024.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/336213/Salinan%20Perpres%20Nomor%2024%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:27:48Z"
+}

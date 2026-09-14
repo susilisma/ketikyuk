@@ -1,0 +1,42 @@
+{
+ "id": "PMK-2024-91",
+ "source": "bpk",
+ "bpk_id": 309178,
+ "url": "https://peraturan.bpk.go.id/Details/309178/pmk-no-91-tahun-2024",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "91",
+ "number_raw": "91",
+ "year": 2024,
+ "title": "Peraturan Menteri Keuangan Nomor 91 Tahun 2024 tentang Pengelolaan Dana Insentif Fiskal atas Pencapaian Kinerja Daerah",
+ "about": "Pengelolaan Dana Insentif Fiskal atas Pencapaian Kinerja Daerah",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PENGELOLAAN KEUANGAN NEGARA / DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-11-11",
+ "date_promulgated": "2024-11-26",
+ "date_effective": "2024-11-26",
+ "gazette": "BN.2024 (882)/28 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2022-208",
+   "target_bpk_id": 235442,
+   "label": "PMK No. 208/PMK.07/2022",
+   "about": "Pengelolaan Insentif Fiskal"
+  }
+ ],
+ "abstract": "bahwa untuk melaksanakan ketentuan Pasal 76 ayat (7) Peraturan Pemerintah Nomor 37 Tahun 2023 tentang Pengelolaan Transfer ke Daerah, perlu menetapkan Peraturan Menteri Keuangan tentang Pengelolaan Dana Insentif Fiskal atas Pencapaian Kinerja Daerah;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 37 Tahun 2023, Peraturan Presiden Nomor 158 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 118/PMK.01/2021\nPeraturan ini mengatur tentang ketentuan umum, pejabat perbendaharaan negara pengelolaan dana insentif fiskal, penganggaran, pengalokasian, penyaluran, penggunaan, penatausahaan, pelaporan dan pertanggungjawaban, penundaan penyaluran, penghentian penyaluran dan/atau penyaluran kembali, pemantauan dan evaluasi dan ketentuan penutup",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 26 November 2024.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan\nMenteri Keuangan Nomor 208/PMK.07/2022 tentang\nPengelolaan Insentif Fiskal",
+ "citations": [
+  "PP-2023-37",
+  "UU-2008-39",
+  "PERPRES-2024-158",
+  "PMK-2021-118"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/369674/2024pmkeuangan091.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:34:32Z"
+}

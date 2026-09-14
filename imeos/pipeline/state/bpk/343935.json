@@ -1,0 +1,41 @@
+{
+ "id": "POJK-2025-23",
+ "source": "bpk",
+ "bpk_id": 343935,
+ "url": "https://peraturan.bpk.go.id/Details/343935/peraturan-ojk-no-23-tahun-2025",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "23",
+ "number_raw": "23",
+ "year": 2025,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 23 Tahun 2025 tentang Perubahan atas Peraturan Otoritas Jasa Keuangan Nomor 27 Tahun 2024 tentang Penyelenggaraan Perdagangan Aset Keuangan Digital Termasuk Aset Kripto",
+ "about": "Perubahan atas Peraturan Otoritas Jasa Keuangan Nomor 27 Tahun 2024 tentang Penyelenggaraan Perdagangan Aset Keuangan Digital Termasuk Aset Kripto",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-10-31",
+ "date_promulgated": "2025-11-10",
+ "date_effective": "2025-11-10",
+ "gazette": "BN.2025 (33)/73 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 323277,
+   "label": "Peraturan OJK No. 27 Tahun 2024",
+   "about": "Penyelenggaraan Perdagangan Aset Keuangan DigitalTermasuk Aset Kripto"
+  }
+ ],
+ "abstract": "a. bahwa dengan berkembangnya pasar atas produk dan/atau kegiatan lain yang menyerupai instrumen keuangan konvensional berupa derivatif aset keuangan digital perlu dilakukan penguatan peran dan perluasan ruang lingkup bagi penyelenggara perdagangan aset keuangan digital;\nb. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a perlu dilakukan penyesuaian\nterhadap beberapa ketentuan dalam Peraturan Otoritas\nJasa Keuangan Nomor 27 Tahun 2024 tentang\nPenyelenggaraan Perdagangan Aset Keuangan Digital\nTermasuk Aset Kripto;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Otoritas Jasa Keuangan tentang Perubahan atas Peraturan Otoritas Jasa Keuangan Nomor 27 Tahun 2024 tentang Penyelenggaraan Perdagangan Aset Keuangan Digital Termasuk Aset Kripto;\nUndang-Undang Nomor 21 Tahun 2011, Undang-Undang Nomor 4 Tahun 2023 dan Peraturan Otoritas Jasa Keuangan Nomor 27 Tahun\n2024\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Otoritas Jasa Keuangan Nomor 27 Tahun 2024 tentang Penyelenggaraan Perdagangan Aset Keuangan Digital termasuk Aset Kripto yaitu tentang ketentuan umum, Kriteria Aset Keuangan Digital yang Diperdagangkan di Pasar Aset Keuangan Digital, Kriteria Aset Kripto yang Diperdagangkan di Pasar\nAset Keuangan Digital, Mekanisme Penetapan Aset Keuangan Digital yang\nDiperdagangkan di Pasar Aset Keuangan Digital, Evaluasi Daftar Aset Keuangan Digital, Mekanisme Penghentian dan Penyelesaian\nPerdagangan, Sanksi Administratif, Kewajiban, Tanggung Jawab, Tugas, Kewenangan, dan Kegiatan Bursa, Kewajiban, Tugas, dan Kewenangan Pengelola\nTempat Penyimpanan dan aktivitas pendukung.",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 10 November 2025.\nPeraturan Otoritas Jasa Keuangan Nomor 27 Tahun 2024 tentang Penyelenggaraan Perdagangan Aset Keuangan Digital termasuk Aset Kripto diubah sebagian.",
+ "citations": [
+  "POJK-2024-27",
+  "UU-2011-21",
+  "UU-2023-4"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/407174/POJK%2023%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:43:28Z"
+}

@@ -1,0 +1,40 @@
+{
+ "id": "PERPRES-2024-203",
+ "source": "bpk",
+ "bpk_id": 310473,
+ "url": "https://peraturan.bpk.go.id/Details/310473/perpres-no-203-tahun-2024",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "203",
+ "number_raw": "203",
+ "year": 2024,
+ "title": "Peraturan Presiden (Perpres) Nomor 203 Tahun 2024 tentang Tunjangan Kinerja Pegawai di Lingkungan Badan Intelijen Negara",
+ "about": "Tunjangan Kinerja Pegawai di Lingkungan Badan Intelijen Negara",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA - KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-12-16",
+ "date_promulgated": "2024-12-16",
+ "date_effective": "2024-12-16",
+ "gazette": "LN 2024 (401) : 6 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2018-117",
+   "target_bpk_id": 99136,
+   "label": "PERPRES No. 117 Tahun 2018",
+   "about": "Tunjangan Kinerja Pegawai di Lingkungan Badan Intelijen Negara"
+  }
+ ],
+ "abstract": "Sesuai dengan capaian hasil pelaksanaan reformasi birokrasi, Badan Intelijen Negara telah memenuhi kriteria untuk diberikan penyesuaian tunjangan kinerja.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD 1945; UU Nomor 20 Tahun 2023; dan Perpres Nomor 90 Tahun 2012.\nPerpres ini mengatur mengenai tunjangan kinerja pegawai di lingkungan Badan Intelijen Negara yang diberikan setiap bulan. Pemberian tunjangan kinerja bagi Pegawai di Lingkungan Badan Intelijen Negara mempertimbangkan capaian kinerja pegawai sesuai dengan ketentuan peraturan perundang-undangan.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 16 Desember 2024.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 117 Tahun 2018 tentang Tunjangan Kinerja Pegawai di Lingkungan Badan Intelijen Negara (Lembaran Negara Republik Indonesia Tahun 2018 Nomor 211), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 7 hlm. (batang tubuh hlm 1 s.d. 6 dan lampiran hlm 7)",
+ "citations": [
+  "UU-2023-20",
+  "PERPRES-2012-90"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/371129/Perpres%20Nomor%20203%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:29Z"
+}

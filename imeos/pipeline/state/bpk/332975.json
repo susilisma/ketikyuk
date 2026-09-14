@@ -1,0 +1,55 @@
+{
+ "id": "PERMENDAG-2025-38",
+ "source": "bpk",
+ "bpk_id": 332975,
+ "url": "https://peraturan.bpk.go.id/Details/332975/permendag-no-38-tahun-2025",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "38",
+ "number_raw": "38",
+ "year": 2025,
+ "title": "Peraturan Menteri Perdagangan Nomor 38 Tahun 2025 tentang Perubahan Atas Peraturan Menteri Perdagangan Nomor 19 Tahun 2025 tentang Kebijakan dan Pengaturan Impor Garam dan Komoditas Perikanan",
+ "about": "Perubahan Atas Peraturan Menteri Perdagangan Nomor 19 Tahun 2025 tentang Kebijakan dan Pengaturan Impor Garam dan Komoditas Perikanan",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN - KEBIJAKAN PEMERINTAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-10-22",
+ "date_promulgated": "2025-10-22",
+ "date_effective": "2025-11-05",
+ "gazette": "BN.2025 (856/66 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERMENDAG-2025-19",
+   "target_bpk_id": 323136,
+   "label": "Permendag No. 19 Tahun 2025",
+   "about": "Kebijakan dan Pengaturan Impor Garam dan Komoditas Perikanan"
+  }
+ ],
+ "abstract": "a. bahwa untuk memberikan kemudahan berusaha dan\nmemperkuat efektivitas pengendalian impor garam dan\nkomoditas perikanan sebagaimana diatur dalam\nPeraturan Menteri Perdagangan Nomor 19 Tahun 2025\ntentang Kebijakan dan Pengaturan Impor Garam dan\nKomoditas Perikanan, perlu dilakukan perubahan;\nb. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a, perlu menetapkan Peraturan Menteri\nPerdagangan tentang Perubahan atas Peraturan Menteri\nPerdagangan Nomor 19 Tahun 2025 tentang Kebijakan\ndan Pengaturan Impor Garam dan Komoditas Perikanan;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 7 Tahun 1994, Undang-Undang Nomor 10 Tahun 1995, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 7 Tahun 2014, Peraturan Pemerintah Nomor 32 Tahun 2009, Peraturan Pemerintah Nomor 83 Tahun 2010, Peraturan Pemerintah Nomor 27 Tahun 2021, Peraturan Pemerintah Nomor 28 Tahun 2021, Peraturan Pemerintah Nomor 28 Tahun 2021, Peraturan Pemerintah Nomor 29 Tahun 2021, Peraturan Pemerintah Nomor 40 Tahun 2021, Peraturan Pemerintah Nomor 41 Tahun 2021, Peraturan Presiden Nomor 61 Tahun 2024, Peraturan Presiden Nomor 168 Tahun 2024, Peraturan Presiden Nomor 17 Tahun 2025, Peraturan Menteri Perdagangan Nomor 6 Tahun 2025, Peraturan Menteri Perdagangan Nomor 16 Tahun 2025 dan Peraturan Menteri Perdagangan Nomor 19 Tahun 2025\nPeraturan ini mengubah Lampiran I Peraturan Menteri Perdagangan\nNomor 19 Tahun 2025 tentang Kebijakan dan Pengaturan\nImpor Garam dan Komoditas Perikanan.",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 05 November 2025.\nPeraturan Menteri Perdagangan\nNomor 19 Tahun 2025 tentang Kebijakan dan Pengaturan\nImpor Garam dan Komoditas Perikanan diubah sebagian",
+ "citations": [
+  "PERMENDAG-2025-19",
+  "UU-1994-7",
+  "UU-1995-10",
+  "UU-2008-39",
+  "UU-2014-7",
+  "PP-2009-32",
+  "PP-2010-83",
+  "PP-2021-27",
+  "PP-2021-28",
+  "PP-2021-29",
+  "PP-2021-40",
+  "PP-2021-41",
+  "PERPRES-2024-61",
+  "PERPRES-2024-168",
+  "PERPRES-2025-17",
+  "PERMENDAG-2025-6",
+  "PERMENDAG-2025-16"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/395129/Permendag%20Nomor%2038%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:36:47Z"
+}

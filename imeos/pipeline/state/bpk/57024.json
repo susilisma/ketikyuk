@@ -1,0 +1,37 @@
+{
+ "id": "PP-1995-6",
+ "source": "bpk",
+ "bpk_id": 57024,
+ "url": "https://peraturan.bpk.go.id/Details/57024/pp-no-6-tahun-1995",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "6",
+ "number_raw": "6",
+ "year": 1995,
+ "title": "Peraturan Pemerintah (PP) Nomor 6 Tahun 1995 tentang Perlindungan Tanaman",
+ "about": "Perlindungan Tanaman",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KEHUTANAN DAN PERKEBUNAN - LINGKUNGAN HIDUP",
+ "field": "",
+ "date_enacted": "1995-02-28",
+ "date_promulgated": "1995-02-28",
+ "date_effective": "1995-02-28",
+ "gazette": "LN. 1995 No. 12, TLN No. 3585, LL Setkab : 17 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2026-7",
+   "target_bpk_id": 347926,
+   "label": "PP No. 7 Tahun 2026",
+   "about": "Peraturan Pelaksanaan Undang-Undang Nomor 22 Tahun 2019 tentang Sistem Budi Daya Pertanian Berkelanjutan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 28 Februari 1995.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/46478/PP%20No.%206%20Th%201995.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:28:31Z"
+}

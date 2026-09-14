@@ -1,0 +1,62 @@
+{
+ "id": "PMK-2024-124",
+ "source": "bpk",
+ "bpk_id": 353894,
+ "url": "https://peraturan.bpk.go.id/Details/353894/pmk-no-124-tahun-2024",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "124",
+ "number_raw": "124",
+ "year": 2024,
+ "title": "Peraturan Menteri Keuangan Nomor 124 Tahun 2024 tentang Organisasi dan Tata Kerja Kementerian Keuangan",
+ "about": "Organisasi dan Tata Kerja Kementerian Keuangan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-12-30",
+ "date_promulgated": "2024-12-31",
+ "date_effective": "2024-12-31",
+ "gazette": "BN.2024 (1063)/607 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2025-117",
+   "target_bpk_id": 341459,
+   "label": "PMK No. 117 Tahun 2025",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 124 Tahun 2024 tentang Organisasi dan Tata Kerja Kementerian Keuangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2023-135",
+   "target_bpk_id": 283361,
+   "label": "PMK No. 135 Tahun 2023",
+   "about": "Perubahan Kedua Atas Peraturan Menteri Keuangan Nomor 118/PMK.01/2021 tentang Organisasi Dan Tata Kerja Kementerian Keuangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2022-141",
+   "target_bpk_id": 228079,
+   "label": "PMK No. 141/PMK.01/2022",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 118/PMK.01/2021 tentang Organisasi dan Tata Kerja Kementerian Keuangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2021-118",
+   "target_bpk_id": 177395,
+   "label": "PMK No. 118/PMK.01/2021",
+   "about": "Organisasi dan Tata Kerja Kementerian Keuangan"
+  }
+ ],
+ "abstract": "a. bahwa untuk mewujudkan organisasi dan tata kerja yang efektif dan efisien guna meningkatkan kinerja pelaksanaan tugas dan fungsi Kementerian Keuangan, perlu melakukan penataan organisasi dan tata kerja Kementerian Keuangan;\nb. bahwa penataan organisasi dan tata kerja Kementerian Keuangan sebagaimana dimaksud dalam huruf a, telah mendapatkan persetujuan dari Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b serta berdasarkan ketentuan Pasal 89 ayat (1) huruf b Peraturan Presiden Nomor 158 Tahun 2024 tentang Kementerian Keuangan, perlu menetapkan Peraturan Menteri Keuangan tentang Organisasi dan Tata Kerja Kementerian Keuangan;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Peraturan Presiden Nomor 140 Tahun 2024 dan Peraturan Presiden Nomor 158 Tahun 2024\nDalam Peraturan Menteri ini diatur tentang kedudukan, tugas, dan fungsi\nKementerian Keuangan; susunan organisasi yang mencakup Sekretariat Jenderal,\nberbagai Direktorat Jenderal, Badan, Staf Ahli, serta instansi vertikal dan unit\npelaksana teknis; serta mekanisme pelaksanaan tugas. Perubahan dan\npenyesuaian jabatan serta peraturan pelaksanaan dilakukan secara bertahap\ndengan batas waktu maksimal satu tahun setelah peraturan ini diundangkan.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 31 Desember 2024.",
+ "citations": [
+  "PERPRES-2024-158",
+  "UU-2008-39",
+  "PERPRES-2024-140"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/417805/2024pmkeuangan124.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:31:37Z"
+}

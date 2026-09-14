@@ -1,0 +1,54 @@
+{
+ "id": "UU-2009-41",
+ "source": "bpk",
+ "bpk_id": 38786,
+ "url": "https://peraturan.bpk.go.id/Details/38786/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "41",
+ "number_raw": "41",
+ "year": 2009,
+ "title": "Undang-undang (UU) Nomor 41 Tahun 2009 tentang Perlindungan Lahan Pertanian Pangan Berkelanjutan",
+ "about": "Perlindungan Lahan Pertanian Pangan Berkelanjutan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PANGAN, PERTANIAN DAN PETERNAKAN",
+ "field": "",
+ "date_enacted": "2009-10-14",
+ "date_promulgated": "2009-10-14",
+ "date_effective": "2009-10-14",
+ "gazette": "LN. 2009/ No. 149 , TLN NO. 5068, LL SETNEG : 39 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 234926,
+   "label": "PERPU No. 2 Tahun 2022",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  }
+ ],
+ "abstract": "Lahan pertanian pangan merupakan bagian dari bumi sebagai karunia Tuhan Yang Maha Esa yang dikuasai oleh negara dan dipergunakan untuk sebesar-besar kemakmuran dan kesejahteraan rakyat sebagaimana diamanatkan dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945. Indonesia sebagai negara agraris perlu menjamin penyediaan lahan pertanian pangan secara berkelanjutan sebagai sumber pekerjaan dan penghidupan yang layak bagi kemanusiaan dengan mengedepankan prinsip kebersamaan, efisiensi berkeadilan, berkelanjutan, berwawasan lingkungan, dan kemandirian, serta dengan menjaga keseimbangan, kemajuan, dan kesatuan ekonomi nasional. Negara menjamin hak atas pangan sebagai hak asasi setiap warga negara sehingga negara berkewajiban menjamin kemandirian, ketahanan, dan kedaulatan pangan.\nDasar Hukum Undang-Undang ini adalah Pasal 20, Pasal 21, Pasal 27 ayat (2), Pasal 28A, Pasal 28C, dan Pasal 33 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, UU No. 5 Tahun 1960, dan UU No. 26 Tahun 2007.\nDalam Undang-Undang ini mengatur tentang pengendalian alih fungsi lahan pertanian pangan melalui perlindungan lahan pertanian pangan yang merupakan salah satu upaya untuk mewujudkan ketahanan dan kedaulatan pangan, dalam rangka meningkatkan kemakmuran dan kesejahteraan petani dan masyarakat pada umumnya. Undang-Undang ini juga mengatur pengaturan-pengaturan terkait dengan penguasaan/pemililikan lahannya agar penguasaan/pemilikan lahan terdistribusikan secara efisien dan berkeadilan. Pada saat yang sama diharapkan luas lahan yang diusahakan petani dapat meningkat secara memadai sehingga dapat menjamin kesejahteraan keluarga petani serta tercapainya produksi pangan yang mencukupi kebutuhan.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 14 Oktober 2009.\nLampiran file: 63 hlm (batang tubuh hlm 1 sd 39 dan penjelasan hlm 40 sd 63)",
+ "citations": [
+  "UU-1960-5",
+  "UU-2007-26"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/28115/UU%20Nomor%2041%20Tahun%202009.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:55Z"
+}

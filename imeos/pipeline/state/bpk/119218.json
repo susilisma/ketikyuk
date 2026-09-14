@@ -1,0 +1,37 @@
+{
+ "id": "PMK-2011-17",
+ "source": "bpk",
+ "bpk_id": 119218,
+ "url": "https://peraturan.bpk.go.id/Details/119218/pmk-no-17pmk032011",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "17",
+ "number_raw": "17/PMK.03/2011",
+ "year": 2011,
+ "title": "Peraturan Menteri Keuangan Nomor 17/PMK.03/2011 Tahun 2011 tentang Permohonan Pengembalian Kelebihan Pembayaran Pajak Bumi Dan Bangunan",
+ "about": "Permohonan Pengembalian Kelebihan Pembayaran Pajak Bumi Dan Bangunan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "",
+ "date_enacted": "2011-01-24",
+ "date_promulgated": "2011-01-24",
+ "date_effective": "2011-02-24",
+ "gazette": "BN.2011/NO.36, jdih.kemenkeu.go.id : 4 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-81",
+   "target_bpk_id": 306614,
+   "label": "PMK No. 81 Tahun 2024",
+   "about": "Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 24 Februari 2011.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/109980/2011%20PMK%2017.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:35:17Z"
+}

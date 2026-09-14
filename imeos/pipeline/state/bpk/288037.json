@@ -1,0 +1,48 @@
+{
+ "id": "PERMENAKER-2024-7",
+ "source": "bpk",
+ "bpk_id": 288037,
+ "url": "https://peraturan.bpk.go.id/Details/288037/permenaker-no-7-tahun-2024",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "7",
+ "number_raw": "7",
+ "year": 2024,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 7 Tahun 2024 tentang Perubahan Atas Peraturan Menteri Ketenagakerjaan Nomor 13 Tahun 2023 tentang Pedoman Penyaluran Bantuan Pemerintah di Kementerian Ketenagakerjaan Tahun Anggaran 2024",
+ "about": "Perubahan Atas Peraturan Menteri Ketenagakerjaan Nomor 13 Tahun 2023 tentang Pedoman Penyaluran Bantuan Pemerintah di Kementerian Ketenagakerjaan Tahun Anggaran 2024",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "KETENAGAKERJAAN - BANTUAN, SUMBANGAN, BENCANA / KEBENCANAAN, DAN PENANGGULANGAN BENCANA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-05-27",
+ "date_promulgated": "2024-05-29",
+ "date_effective": "2024-05-29",
+ "gazette": "BN 2024 (280), JDIH Kemnaker; 10 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENAKER-2024-13",
+   "target_bpk_id": 309864,
+   "label": "Permenaker No. 13 Tahun 2024",
+   "about": "Pedoman Penyaluran Bantuan Pemerintah di Kementerian Ketenagakerjaan Tahun Anggaran 2025"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENAKER-2023-13",
+   "target_bpk_id": 282469,
+   "label": "Permenaker No. 13 Tahun 2023",
+   "about": "Pedoman Penyaluran Bantuan Pemerintah di Kementerian Ketenagakerjaan Tahun Anggaran 2024"
+  }
+ ],
+ "abstract": "Memberikan penghargaan dan apresiasi kepada calon kompetitor worldskills ASEAN XIV dalam program pendidikan dan pelatihan vokasi serta meningkatkan efektivitas penciptaan tenaga kerja mandiri pemula bagi pencari kerja dalam program pembinaan ketenagakerjaan\nDasar Hukum peraturan menteri ini adalah Pasal 17 ayat (3) UUD 1945; UU Nomor 39 Tahun 2008; Perpres Nomor 95 Tahun 2020; Peraturan Menteri Ketenagakerjaan Nomor 1 Tahun Tahun 202; Peraturan Menteri Ketenagakerjaan Nomor 13 Tahun 2023.\nPeraturan ini mengatur mengenai Bantuan Pemerintah di Kemnaker, Program, Jenis Bantuan, Nama Komponen, Satuan dan Angaran serta Tujuan Komponen.",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 29 Mei 2024.\nPEraturan ini mengubah lampiran Permenaker 13 Tahun 2023 tentang Pedoman Penyaluran Bantuan Pemerintah di Kementerian Ketenagakerjaan Tahun Anggaran 2024",
+ "citations": [
+  "UU-2008-39",
+  "PERPRES-2020-95",
+  "PERMENAKER-2023-13"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/347265/2024PMNaker007.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:41:30Z"
+}

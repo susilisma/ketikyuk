@@ -1,0 +1,37 @@
+{
+ "id": "PERMENAKER-2015-9",
+ "source": "bpk",
+ "bpk_id": 145980,
+ "url": "https://peraturan.bpk.go.id/Details/145980/permenaker-no-9-tahun-2015",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "9",
+ "number_raw": "9",
+ "year": 2015,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 9 Tahun 2015 tentang Pedoman Pakaian Dinas, Atribut, dan Kelengkapan Pengawas Ketenagakerjaan",
+ "about": "Pedoman Pakaian Dinas, Atribut, dan Kelengkapan Pengawas Ketenagakerjaan",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA - STANDAR / PEDOMAN",
+ "field": "",
+ "date_enacted": "2015-03-23",
+ "date_promulgated": "2015-03-23",
+ "date_effective": "2015-03-23",
+ "gazette": "BN.2015/No.428, jdih.kemnaker.go.id : 14 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENAKER-2024-11",
+   "target_bpk_id": 309823,
+   "label": "Permenaker No. 11 Tahun 2024",
+   "about": "Pakaian Dinas Pejabat Fungsional Pengawas Ketenagakerjaan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Ketenagakerjaan Republik Indonesia ini mulai berlaku pada tanggal 23 Maret 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/251735/Kemnaker%20No.%209%20Tahun%202015.PDF"
+ ],
+ "fetched_at": "2026-09-14T06:41:35Z"
+}

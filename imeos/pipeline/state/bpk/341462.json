@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2025-92",
+ "source": "bpk",
+ "bpk_id": 341462,
+ "url": "https://peraturan.bpk.go.id/Details/341462/pmk-no-92-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "92",
+ "number_raw": "92",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 92 Tahun 2025 tentang Penyelesaian Terhadap Barang yang Dinyatakan Tidak Dikuasai, barang yang Dikuasai Negara dan Barang yang Menajdi Milik Negara",
+ "about": "Penyelesaian Terhadap Barang yang Dinyatakan Tidak Dikuasai, barang yang Dikuasai Negara dan Barang yang Menajdi Milik Negara",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PENGELOLAAN BARANG MILIK NEGARA / DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-12-18",
+ "date_promulgated": "2025-12-31",
+ "date_effective": "2026-03-31",
+ "gazette": "BN.2025 (1215)/118 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2019-178",
+   "target_bpk_id": 136696,
+   "label": "PMK No. 178/PMK.04/2019",
+   "about": "Penyelesaian Terhadap Barang Yang Dinyatakan Tidak Dikuasai, Barang Yang Dikuasai Negara, Dan Barang Yang Menjadi Milik Negara"
+  }
+ ],
+ "abstract": "a. bahwa ketentuan mengenai penyelesaian terhadap barang\nyang dinyatakan tidak dikuasai, barang yang dikuasai\nnegara, dan barang yang menjadi milik negara telah diatur\ndalam Peraturan Menteri Keuangan Nomor\n178/PMK.04/2019 tentang Penyelesaian Terhadap Barang\nyang Dinyatakan tidak Dikuasai, Barang yang Dikuasai\nNegara, dan Barang yang Menjadi Milik Negara;\nb. bahwa untuk lebih memberikan kepastian hukum serta\nmeningkatkan efisiensi dan efektivitas dalam\npenatausahaan dan penyelesaian barang yang dinyatakan\ntidak dikuasai, barang yang dikuasai negara, dan barang\nyang menjadi milik negara, Peraturan Menteri Keuangan\nNomor 178/PMK.04/2019 tentang Penyelesaian Terhadap\nBarang yang Dinyatakan tidak Dikuasai, Barang yang\nDikuasai Negara, dan Barang yang Menjadi Milik Negara\nperlu diganti;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a dan huruf b, serta untuk melaksanakan\nketentuan Pasal 73 ayat (3) Undang-Undang Nomor 10\nTahun 1995 tentang Kepabeanan sebagaimana telah\ndiubah dengan Undang-Undang Nomor 17 Tahun 2006\ntentang Perubahan atas Undang-Undang Nomor 10 Tahun\n1995 tentang Kepabeanan, perlu menetapkan Peraturan\nMenteri Keuangan tentang Penyelesaian Terhadap Barang\nyang Dinyatakan tidak Dikuasai, Barang yang Dikuasai\nNegara, dan Barang yang Menjadi Milik Negara;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 10 Tahun 1995, Undang-Undang Nomor 39 Tahun 2008, Peraturan Presiden Nomor 158 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengatur tentang ketentuan umum, barang yang dinyatakan tidak dikuasai, barang yang dikuasai negara, keberatan atas penetapan barang yang dikuasai negara, pemusnahan, hibah dan pelelangan barang yang dinyatakan tidak dikuasai dan barang yang dikuasai negara, barang yang menjadi milik negara, peruntukan barang yang menjadi milik negara, penyimpanan dan pengadministrasian barang yang dinyatakan tidak dikuasi, barang yang dikuasai negara dan barang yang menjadi milik negara, jasa pra lelang, ketentuan peralihandan ketentuan penutup",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 31 Maret 2026.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas:\na. Keputusan Menteri Keuangan Nomor 36/KMK.04/2002\ntentang Jasa Pra Lelang dalam Lelang Barang yang\nDinyatakan Tidak Dikuasai, Barang yang Dikuasai Negara\ndan Barang yang Menjadi Milik Negara pada Direktorat\nJenderal Bea dan Cukai\nb. ketentuan Pasal 2 huruf c, huruf d, dan huruf e Keputusan\nMenteri Keuangan Nomor 236/KMK.05/1996 tentang\nBuku Catatan Pabean\nc. Peraturan Menteri Keuangan Nomor 178/PMK.04/2019\ntentang Penyelesaian Terhadap Barang yang Dinyatakan\nTidak Dikuasai, Barang yang Dikuasai Negara, dan Barang\nyang Menjadi Milik Negara",
+ "citations": [
+  "PMK-2019-178",
+  "UU-1995-10",
+  "UU-2006-17",
+  "UU-2008-39",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/404582/2025pmkeuangan092.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:32:21Z"
+}

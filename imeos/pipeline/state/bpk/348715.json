@@ -1,0 +1,43 @@
+{
+ "id": "POJK-2024-48",
+ "source": "bpk",
+ "bpk_id": 348715,
+ "url": "https://peraturan.bpk.go.id/Details/348715/peraturan-ojk-no-48-tahun-2024",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "48",
+ "number_raw": "48",
+ "year": 2024,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 48 Tahun 2024 tentang Tata Kelola yang Baik Bagi Lembaga Pembiayaan, Perusahaan Modal Ventura, Lembaga Keuangan Mikro dan Lembaga Jasa Keuangan Lainnya",
+ "about": "Tata Kelola yang Baik Bagi Lembaga Pembiayaan, Perusahaan Modal Ventura, Lembaga Keuangan Mikro dan Lembaga Jasa Keuangan Lainnya",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-12-30",
+ "date_promulgated": "2024-12-31",
+ "date_effective": "2024-12-31",
+ "gazette": "BN.2024 (61)/104 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 129849,
+   "label": "Peraturan OJK No. 30/POJK.05/2014 Tahun 2014",
+   "about": "Tata Kelola Perusahaan yang Baik bagi Perusahaan Pembiayaan"
+  }
+ ],
+ "abstract": "bahwa untuk melaksanakan ketentuan Pasal 121 ayat (2),\nPasal 269, dan Pasal 270 ayat (3) Undang-Undang Nomor 4\nTahun 2023 tentang Pengembangan dan Penguatan Sektor\nKeuangan serta untuk mendukung perkembangan industri\ndan kebutuhan hukum pengaturan tata kelola yang baik\nbagi sektor lembaga pembiayaan, perusahaan modal\nventura, lembaga keuangan mikro, dan lembaga jasa\nkeuangan lainnya sebagaimana telah diatur dalam\nPeraturan Otoritas Jasa Keuangan Nomor\n30/POJK.05/2014 tentang Tata Kelola Perusahaan yang\nBaik bagi Perusahaan Pembiayaan sebagaimana telah\ndiubah dengan Peraturan Otoritas Jasa Keuangan Nomor\n29/POJK.05/2020 tentang Perubahan atas Peraturan\nOtoritas Jasa Keuangan Nomor 30/POJK.05/2014 tentang\nTata Kelola Perusahaan yang Baik bagi Perusahaan\nPembiayaan dan Peraturan Otoritas Jasa Keuangan Nomor\n36/POJK.05/2015 tentang Tata Kelola Perusahaan yang\nBaik bagi Perusahaan Modal Ventura, perlu menetapkan\nPeraturan Otoritas Jasa Keuangan tentang Tata Kelola yang\nBaik bagi Lembaga Pembiayaan, Perusahaan Modal Ventura,\nLembaga Keuangan Mikro, dan Lembaga Jasa Keuangan\nLainnya;\nUndang-Undang Nomor 21 Tahun 2011 dan Undang-Undang Nomor 4 Tahun 2023\nPeraturan ini mengatur tentang ketentuan umum, penerapan tata kelola yang baik, pemegang saham dan rapat umum pemegang saham, direksi, dewan komisaris, dewan pengawas syariah, komite, manajemen resiko, startegi antifraud, fungsi kepatuhan, fungsi audit internal, auditor eksternal, benturan kepentingan, kebijakan remunerasi, keterbukaan informasi, etika bisnis, kebijakan pembiayaan, penerapan keuangan berkelanjutan, rencana bisnis, pelaporan tata kelola yang baik, penyesuaian penerapan tata kelola, ketentuan lain-lain, ketentuan peralihan dan ketentuan penutup",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 31 Desember 2024.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas:\na. Peraturan Otoritas Jasa Keuangan Nomor\n30/POJK.05/2014 tentang Tata Kelola\nPerusahaan yang Baik bagi Perusahaan\nPembiayaan\nb. Peraturan Otoritas Jasa Keuangan Nomor\n36/POJK.05/2015 tentang Tata Kelola\nPerusahaan yang Baik bagi Perusahaan Modal\nVentura",
+ "citations": [
+  "UU-2023-4",
+  "POJK-2014-30",
+  "POJK-2020-29",
+  "POJK-2015-36",
+  "UU-2011-21"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/412376/POJK%2048%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:44:00Z"
+}

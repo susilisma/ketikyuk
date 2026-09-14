@@ -1,0 +1,62 @@
+{
+ "id": "PERMENDAG-2023-22",
+ "source": "bpk",
+ "bpk_id": 260133,
+ "url": "https://peraturan.bpk.go.id/Details/260133/permendag-no-22-tahun-2023",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "22",
+ "number_raw": "22",
+ "year": 2023,
+ "title": "Peraturan Menteri Perdagangan Nomor 22 Tahun 2023 tentang Barang Yang Dilarang Untuk Diekspor",
+ "about": "Barang Yang Dilarang Untuk Diekspor",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN",
+ "field": "",
+ "date_enacted": "2023-07-10",
+ "date_promulgated": "2023-07-10",
+ "date_effective": "2023-07-17",
+ "gazette": "BN.2023 (526)/57 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENDAG-2025-8",
+   "target_bpk_id": 320866,
+   "label": "Permendag No. 8 Tahun 2025",
+   "about": "Perubahan Ketiga atas Peraturan Menteri Perdagangan Nomor 22 Tahun 2023\r\ntentang Barang yang Dilarang untuk Diekspor"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENDAG-2024-20",
+   "target_bpk_id": 299432,
+   "label": "Permendag No. 20 Tahun 2024",
+   "about": "Perubahan Kedua atas Peraturan Menteri Perdagangan Nomor 22 Tahun 2023 Tentang Barang yang Dilarang Untuk Diekspor"
+  },
+  {
+   "type": "Mengubah sebagian",
+   "target": "PERMENDAG-2022-40",
+   "target_bpk_id": 223844,
+   "label": "Permendag No. 40 Tahun 2022",
+   "about": "Perubahan atas Peraturan Menteri Perdagangan Nomor 18 Tahun 2021 tentang Barang Dilarang Ekspor dan Barang Dilarang Impor"
+  }
+ ],
+ "abstract": "bahwa untuk melaksanakan ketentuan Pasal 10 ayat (4) Peraturan Pemerintah Nomor 29 Tahun 2021 tentang Penyelenggaraan Bidang Perdagangan, perlu menetapkan Peraturan Menteri Perdagangan tentang Barang yang Dilarang untuk Diekspor;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 10 Tahun 1995, Undang-Undang Nomor 39 Tahun 2008,Undang-Undang Nomor 7 Tahun 2014, Peraturan Pemerintah Nomor 83 Tahun 2010, Peraturan Pemerintah Nomor 29 Tahun 2021, Peraturan Pemerintah Nomor 40 Tahun 2021, Peraturan Pemerintah Nomor 41 Tahun 2021, Peraturan Presiden Nomor 11 Tahun 2022, Peraturan Menteri Perdagangan Nomor 29 Tahun 2022 dan Peraturan Menteri Energi dan Sumber Daya Mineral Nomor 7 Tahun 2023\nPeraturan Menteri ini mengatur tentang ketentuan umum, barang yang dilarang diekspor, sanksi dan ketentuan peralihan.",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 17 Juli 2023.\nPeraturan Menteri Perdagangan Nomor 18 Tahun 2021 tentang Barang Dilarang Ekspor dan Barang Dilarang Impor dicabut dan dinyatakan tidak berlaku",
+ "citations": [
+  "PP-2021-29",
+  "UU-1995-10",
+  "UU-2008-39",
+  "UU-2014-7",
+  "PP-2010-83",
+  "PP-2021-40",
+  "PP-2021-41",
+  "PERPRES-2022-11",
+  "PERMENDAG-2022-29",
+  "PERATURANMENTERI-2023-7"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/317135/no-22-tahun-2023.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:37:51Z"
+}

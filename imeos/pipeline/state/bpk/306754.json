@@ -1,0 +1,41 @@
+{
+ "id": "PERPRES-2024-185",
+ "source": "bpk",
+ "bpk_id": 306754,
+ "url": "https://peraturan.bpk.go.id/Details/306754/perpres-no-185-tahun-2024",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "185",
+ "number_raw": "185",
+ "year": 2024,
+ "title": "Peraturan Presiden (Perpres) Nomor 185 Tahun 2024 tentang Badan Koordinasi Penanaman Modal",
+ "about": "Badan Koordinasi Penanaman Modal",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KETATANEGARAAN, KENEGARAAN - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "HUKUM TATA NEGARA",
+ "date_enacted": "2024-11-05",
+ "date_promulgated": "2024-11-05",
+ "date_effective": "2024-11-05",
+ "gazette": "LN 2024 (381) : 20 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2021-64",
+   "target_bpk_id": 174379,
+   "label": "PERPRES No. 64 Tahun 2021",
+   "about": "Badan Koordinasi Penanaman Modal"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 11 Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara sebagaimana telah diubah dengan Undang-Undang Nomor 61 Tahun 2024 tentang Perubahan atas Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara, perlu menetapkan Peraturan Presiden tentang Badan Koordinasi Penanaman Modal.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) dan Pasal 17 UUD NRI Tahun 1945; UUD NRI No. 39 Tahun 2008; dan Perpres No. 140 Tahun 2024.\nPerpres ini mengatur mengenai Badan Koordinasi Penanaman Modal. Badan Koordinasi Penanaman Modal (BKPM) merupakan Lembaga Pemerintah Non Kementerian yang menyelenggarakan tugas pemerintahan di bidang koordinasi penanaman modal. BKPM dipimpin oleh Kepala dan berada di bawah dan bertanggung jawab kepada Presiden. BKPM mempunyai tugas melaksanakan koordinasi pelaksanaan kebijakan dan pelayanan di bidang penanaman modal berdasarkan ketentuan peraturan perundang-undangan. Fungsi dari BKPM terdiri dari: 1. pengkajian dan pengusulan perencanaan penanaman modal nasional; 2. koordinasi pelaksanaan kebijakan nasional di bidang penanaman modal; 3. pengkajian dan pengusulan kebijakan pelayanan penanarnan modal; 4. penetapan norrna, standar, prosedur, dan kriteria pelalsanaan kegiatan dan pelayanan penanaman modal; 5. pengembangan peluang dan potensi penanaman modal di daerah dengan memberdayakan badan usaha; 6. pembuatan peta penanaman modal Indonesia; 7. koordinasi pelaksanaan promosi serta kerja sama penanaman modal.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 05 November 2024.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 64 Tahun 2021 tentang Badan Koordinasi Penanaman Modal (Lembaran Negara Republik Indonesia Tahun 2021 Nomor 160), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 24 hlm",
+ "citations": [
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2024-140"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/367113/Perpres%20Nomor%20185%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:27:07Z"
+}

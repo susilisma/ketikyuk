@@ -1,0 +1,51 @@
+{
+ "id": "PERMENDAG-2020-92",
+ "source": "bpk",
+ "bpk_id": 160430,
+ "url": "https://peraturan.bpk.go.id/Details/160430/permendag-no-92-tahun-2020",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "92",
+ "number_raw": "92",
+ "year": 2020,
+ "title": "Peraturan Menteri Perdagangan Nomor 92 Tahun 2020 tentang Perdagangan Antarpulau",
+ "about": "Perdagangan Antarpulau",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "",
+ "date_enacted": "2020-11-10",
+ "date_promulgated": "2020-11-12",
+ "date_effective": "2021-11-12",
+ "gazette": "BN.2020/No.1324, http://jdih.kemendag.go.id : 13 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2024-27",
+   "target_bpk_id": 306727,
+   "label": "Permendag No. 27 Tahun 2024",
+   "about": "Perdagangan Antarpulau"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2017-29",
+   "target_bpk_id": 128678,
+   "label": "Permendag No. 29/M-DAG/PER/5/2017 Tahun 2017",
+   "about": "Perdagangan Antarpulau"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2016-27",
+   "target_bpk_id": 128810,
+   "label": "Permendag No. 27/M-DAG/PER/4/2016 Tahun 2016",
+   "about": "Perdagangan Antarpulau Rotan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 12 November 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/153022/Permendag%20Nomor%2092%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:37:36Z"
+}

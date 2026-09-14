@@ -1,0 +1,61 @@
+{
+ "id": "UU-2025-16",
+ "source": "bpk",
+ "bpk_id": 330668,
+ "url": "https://peraturan.bpk.go.id/Details/330668/uu-no-16-tahun-2025",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "16",
+ "number_raw": "16",
+ "year": 2025,
+ "title": "Undang-undang (UU) Nomor 16 Tahun 2025 tentang Perubahan Keempat atas Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara",
+ "about": "Perubahan Keempat atas Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara",
+ "issuer": "Pemerintah Pusat",
+ "subject": "BUMN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-10-06",
+ "date_promulgated": "2025-10-06",
+ "date_effective": "2025-10-06",
+ "gazette": "LN 2025 (162), TLN (7142) : 51 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "UU-2025-1",
+   "target_bpk_id": 314622,
+   "label": "UU No. 1 Tahun 2025",
+   "about": "Perubahan Ketiga atas Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2003-19",
+   "target_bpk_id": 43919,
+   "label": "UU No. 19 Tahun 2003",
+   "about": "Badan Usaha Milik Negara"
+  }
+ ],
+ "abstract": "Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 1 Tahun 2025 tentang Perubahan Ketiga atas Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara, perlu dilakukan penyesuaian materi muatan sesuai kebutuhan hukum masyarakat, sehingga perlu diubah.\nDasar hukum UU ini adalah Pasal 5 ayat (1), Pasal 20, Pasal 21, dan Pasal 33 UUD NRI Tahun 1945; Tap MPR Nomor XVI/MPR/1998; dan UU Nomor 19 Tahun 2003.\nDalam Undang-Undang ini, materi perubahan antara lain mencakup perubahan nomenklatur kelembagaan yang menyelenggarakan tugas pemerintahan di bidang BUMN, pemisahan fungsi pengawasan dan operasional, kepemilikan saham seri A Dwiwarna oleh Negara Republik Indonesia dengan hak istimewa pada BUMN, larangan organ BUMN merangkap jabatan lain termasuk menteri dan wakil menteri, dan pemeriksaan keuangan BUMN oleh Badan Pemeriksa Keuangan.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 06 Oktober 2025.\nUU ini mengubah UU Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara.\nLampiran file: 81 hlm (batang tubuh hlm 1 sd 51 dan penjelasan hlm 52 sd 81)",
+ "citations": [
+  "UU-2003-19",
+  "UU-2025-1"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/392677/UU%20Nomor%2016%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:23:39Z"
+}

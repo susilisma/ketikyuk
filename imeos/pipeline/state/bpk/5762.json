@@ -1,0 +1,37 @@
+{
+ "id": "PP-2016-39",
+ "source": "bpk",
+ "bpk_id": 5762,
+ "url": "https://peraturan.bpk.go.id/Details/5762/pp-no-39-tahun-2016",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "39",
+ "number_raw": "39",
+ "year": 2016,
+ "title": "Peraturan Pemerintah (PP) Nomor 39 Tahun 2016 tentang Jenis Dan Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Berlaku Pada Kejaksaan Republik Indonesia",
+ "about": "Jenis Dan Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Berlaku Pada Kejaksaan Republik Indonesia",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA - PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
+ "field": "",
+ "date_enacted": "2016-10-17",
+ "date_promulgated": "2016-10-17",
+ "date_effective": "2016-10-17",
+ "gazette": "LN. 2016 No. 199, TLN No. 5935, LL SETNEG : 5 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-37",
+   "target_bpk_id": 302960,
+   "label": "PP No. 37 Tahun 2024",
+   "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Kejaksaan Republik Indonesia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 17 Oktober 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/27535/PP%20Nomor%2039%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:30:04Z"
+}

@@ -1,0 +1,44 @@
+{
+ "id": "PP-2019-8",
+ "source": "bpk",
+ "bpk_id": 102673,
+ "url": "https://peraturan.bpk.go.id/Details/102673/pp-no-8-tahun-2019",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "8",
+ "number_raw": "8",
+ "year": 2019,
+ "title": "Peraturan Pemerintah (PP) Nomor 8 Tahun 2019 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Badan Tenaga Nuklir Nasional",
+ "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Badan Tenaga Nuklir Nasional",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
+ "field": "",
+ "date_enacted": "2019-02-22",
+ "date_promulgated": "2019-02-26",
+ "date_effective": "2019-03-28",
+ "gazette": "LN.2019/NO.36, TLN NO.6318, LL SETKAB : 7 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2026-13",
+   "target_bpk_id": 349363,
+   "label": "PP No. 13 Tahun 2026",
+   "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Badan Riset dan Inovasi Nasional"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2011-29",
+   "target_bpk_id": 5159,
+   "label": "PP No. 29 Tahun 2011",
+   "about": "Jenis Dan Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Berlaku Pada Badan Tenaga Nuklir Nasional"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 28 Maret 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/93322/PP%20Nomor%208%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:28:15Z"
+}

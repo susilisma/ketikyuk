@@ -1,0 +1,44 @@
+{
+ "id": "UU-2007-44",
+ "source": "bpk",
+ "bpk_id": 39971,
+ "url": "https://peraturan.bpk.go.id/Details/39971/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "44",
+ "number_raw": "44",
+ "year": 2007,
+ "title": "Undang-undang (UU) Nomor 44 Tahun 2007 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang",
+ "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "",
+ "date_enacted": "2007-11-01",
+ "date_promulgated": "2007-11-01",
+ "date_effective": "2007-11-01",
+ "gazette": "LN.2007/NO.130, TLN NO.4775, LL SETNEG : 5 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2009-39",
+   "target_bpk_id": 54483,
+   "label": "UU No. 39 Tahun 2009",
+   "about": "Kawasan Ekonomi Khusus"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 01 November 2007.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/29569/UU%20Nomor%2044%20Tahun%202007.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:33:08Z"
+}

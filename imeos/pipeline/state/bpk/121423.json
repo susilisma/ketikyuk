@@ -1,0 +1,37 @@
+{
+ "id": "PMK-2016-261",
+ "source": "bpk",
+ "bpk_id": 121423,
+ "url": "https://peraturan.bpk.go.id/Details/121423/pmk-no-261pmk032016",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "261",
+ "number_raw": "261/PMK.03/2016",
+ "year": 2016,
+ "title": "Peraturan Menteri Keuangan Nomor 261/PMK.03/2016 Tahun 2016 tentang Tata Cara Penyetoran, Pelaporan, Dan Pengecualian Pengenaan Pajak Penghasilan Atas Penghasilan Dari Pengalihan Hak Atas Tanah Dan/ Atau Bangunan, Dan Perjanjian Pengikatan Jual Beli Atas Tanah Dan/ Atau Bangunan Beserta Perubahannya",
+ "about": "Tata Cara Penyetoran, Pelaporan, Dan Pengecualian Pengenaan Pajak Penghasilan Atas Penghasilan Dari Pengalihan Hak Atas Tanah Dan/ Atau Bangunan, Dan Perjanjian Pengikatan Jual Beli Atas Tanah Dan/ Atau Bangunan Beserta Perubahannya",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "",
+ "date_enacted": "2016-12-30",
+ "date_promulgated": "2017-01-04",
+ "date_effective": "2017-01-04",
+ "gazette": "BN.2016/NO.29,jdih.kemenkeu.go.id : 22 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-81",
+   "target_bpk_id": 306614,
+   "label": "PMK No. 81 Tahun 2024",
+   "about": "Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 04 Januari 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/112209/PMK%20Nomor%20261%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:35:08Z"
+}

@@ -1,0 +1,49 @@
+{
+ "id": "PERPRES-2023-12",
+ "source": "bpk",
+ "bpk_id": 241254,
+ "url": "https://peraturan.bpk.go.id/Details/241254/perpres-no-12-tahun-2023",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "12",
+ "number_raw": "12",
+ "year": 2023,
+ "title": "Peraturan Presiden (Perpres) Nomor 12 Tahun 2023 tentang Kementerian Agama",
+ "about": "Kementerian Agama",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "",
+ "date_enacted": "2023-01-26",
+ "date_promulgated": "2023-01-26",
+ "date_effective": "2023-01-26",
+ "gazette": "LN.2023/No.21, jdih.setneg.go.id: 24 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-152",
+   "target_bpk_id": 306650,
+   "label": "Perpres No. 152 Tahun 2024",
+   "about": "Kementerian Agama"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2015-83",
+   "target_bpk_id": 41829,
+   "label": "PERPRES No. 83 Tahun 2015",
+   "about": "Kementerian Agama"
+  }
+ ],
+ "abstract": "Sebagai tindak lanjut ditetapkannya Keputusan Presiden Nomor 113/P Tahun 2019 tentang Pembentukan Kementerian Negara dan Pengangkatan Menteri Negara Kabinet Indonesia Maju Periode Tahun 2019-2024 dan untuk melaksanakan ketentuan Pasal 11 Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara, perlu menetapkan Peraturan Presiden tentang Kementerian Agama.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) dan Pasal 17 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 39 Tahun 2008; Perpres Nomor 60 Tahun 2012; dan Perpres Nomor 68 Tahun 2019.\nPerpres ini mengatur mengenai: 1) kedudukan, tugas, dan fungsi; 2) organisasi; 3) instansi vertikal; 4) unit pelaksana teknis; 5) staf khusus; 6) tata kerja; dan 7) pendanaan pada Kementerian Agama. Kementerian Agama berada di bawah dan bertanggung jawab kepada Presiden dan dipimpin oleh menteri. Kementerian Agama mempunyai tugas menyelenggarakan urusan pemerintahan di bidang agama untuk membantu Presiden dalam menyelenggarakan pemerintahan negara. Segala pendanaan yang diperlukan untuk pelaksanaan tugas dan fungsi Kementerian Agama bersumber dari Anggaran Pendapatan dan Belanja Negara.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 26 Januari 2023.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 83 Tahun 2015 tentang Kementerian Agama (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 168), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 24 hlm.",
+ "citations": [
+  "KEPPRES-2019-113",
+  "UU-2008-39",
+  "PERPRES-2012-60",
+  "PERPRES-2019-68"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/296460/Perpres%20Nomor%2012%20Tahun%202023.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:28:20Z"
+}

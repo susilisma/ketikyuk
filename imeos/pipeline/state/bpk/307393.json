@@ -1,0 +1,39 @@
+{
+ "id": "UU-2024-125",
+ "source": "bpk",
+ "bpk_id": 307393,
+ "url": "https://peraturan.bpk.go.id/Details/307393/uu-no-125-tahun-2024",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "125",
+ "number_raw": "125",
+ "year": 2024,
+ "title": "Undang-undang (UU) Nomor 125 Tahun 2024 tentang Kabupaten Toli-Toli di Provinsi Sulawesi Tengah",
+ "about": "Kabupaten Toli-Toli di Provinsi Sulawesi Tengah",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-10-28",
+ "date_promulgated": "2024-10-28",
+ "date_effective": "2024-10-28",
+ "gazette": "LN 2024 (311), TLN (7062) : 6 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-1959-29",
+   "target_bpk_id": 51529,
+   "label": "UU No. 29 Tahun 1959",
+   "about": "Pembentukan Daerah Tingkat II Di Sulawesi"
+  }
+ ],
+ "abstract": "Undang-Undang Nomor 29 Tahun 1959 tentang Pembentukan Daerah Tingkat II di Sulawesi, yang menjadi dasar pembentukan Kabupaten Toli-Toli, sudah tidak sesuai lagi dengan perkembangan hukum sehingga perlu diganti.\nDasar hukum UU ini adalah Pasal 18, Pasal 18A, Pasal 18B ayat (2), Pasal 20, Pasal 21, dan Pasal 22D ayat (2) UUD 1945.\nUU ini mengatur mengenai Kabupaten Toli-Toli di Provinsi Sulawesi Tengah dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Kabupaten Toli-Toli terdiri atas 10 (sepuluh) Kecamatan. Ibu Kota Kabupaten Toli-Toli berkedudukan di Kecamatan Baolan.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 28 Oktober 2024.\nPada saat Undang-Undang ini mulai berlaku, ketentuan yang mengatur mengenai Kabupaten Toli-Toli dalam Undang-Undang Nomor 29 Tahun 1959 tentang Pembentukan Daerah Tingkat II di Sulawesi (Lembaran Negara Tahun 1959 Nomor 74, Tambahan Lembaran Negara Nomor 1822), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 9 hlm. (batang tubuh hlm 1 s.d. 6 dan penjelasan hlm 7 s.d. 9)",
+ "citations": [
+  "UU-1959-29"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/367786/UU%20Nomor%20125%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:24:55Z"
+}

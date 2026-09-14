@@ -1,0 +1,79 @@
+{
+ "id": "UU-2007-25",
+ "source": "bpk",
+ "bpk_id": 39903,
+ "url": "https://peraturan.bpk.go.id/Details/39903/uu-no-25-tahun-2007",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "25",
+ "number_raw": "25",
+ "year": 2007,
+ "title": "Undang-undang (UU) Nomor 25 Tahun 2007 tentang Penanaman Modal",
+ "about": "Penanaman Modal",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PENANAMAN MODAL DAN INVESTASI",
+ "field": "",
+ "date_enacted": "2008-04-26",
+ "date_promulgated": "2008-04-26",
+ "date_effective": "2008-04-26",
+ "gazette": "LN.2007/NO.67, TLN NO.4724, LL SETNEG : 28 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 234926,
+   "label": "PERPU No. 2 Tahun 2022",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1970-12",
+   "target_bpk_id": 47914,
+   "label": "UU No. 12 Tahun 1970",
+   "about": "Perubahan dan Tambahan Undang-Undang No. 6 Tahun 1968 tentang Penanaman Modal Dalam Negeri"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1970-11",
+   "target_bpk_id": 47864,
+   "label": "UU No. 11 Tahun 1970",
+   "about": "Perubahan dan Tambahan Undang-Undang No. 1 Tahun 1967 tentang Penanaman Modal Asing"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1968-6",
+   "target_bpk_id": 49144,
+   "label": "UU No. 6 Tahun 1968",
+   "about": "Penanaman Modal Dalam Negeri"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1967-1",
+   "target_bpk_id": 49513,
+   "label": "UU No. 1 Tahun 1967",
+   "about": "Penanaman Modal Asing"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 26 April 2008.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/29494/UU%20Nomor%2025%20Tahun%202007.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:30:57Z"
+}

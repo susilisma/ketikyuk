@@ -1,0 +1,37 @@
+{
+ "id": "PMK-2014-229",
+ "source": "bpk",
+ "bpk_id": 121986,
+ "url": "https://peraturan.bpk.go.id/Details/121986/pmk-no-229pmk032014",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "229",
+ "number_raw": "229/PMK.03/2014",
+ "year": 2014,
+ "title": "Peraturan Menteri Keuangan Nomor 229/PMK.03/2014 Tahun 2014 tentang Persyaratan Serta Pelaksanaan Hak Kewajiban Dan Kewajiban Seorang Kuasa",
+ "about": "Persyaratan Serta Pelaksanaan Hak Kewajiban Dan Kewajiban Seorang Kuasa",
+ "issuer": "Kementerian Keuangan",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA",
+ "field": "",
+ "date_enacted": "2014-12-18",
+ "date_promulgated": "2014-12-18",
+ "date_effective": "2014-12-18",
+ "gazette": "BN.2014/NO.1930,jdih.kemenkeu.go.id : 5 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2026-44",
+   "target_bpk_id": 350946,
+   "label": "PMK No. 44 Tahun 2026",
+   "about": "Persyaratan untuk Menjdi Kuasa di Bidang Perpajakan dan Tata Cara Pelaksanaan Hak dan Pemenuhan Kewajiban Kuasa di Bidang Perpajakan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 18 Desember 2014.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/112757/2014%20PMK%20229.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:30:36Z"
+}

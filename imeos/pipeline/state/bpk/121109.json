@@ -1,0 +1,37 @@
+{
+ "id": "PMK-2016-102",
+ "source": "bpk",
+ "bpk_id": 121109,
+ "url": "https://peraturan.bpk.go.id/Details/121109/x",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "102",
+ "number_raw": "102/PMK.010/2016",
+ "year": 2016,
+ "title": "Peraturan Menteri Keuangan Nomor 102/PMK.010/2016 Tahun 2016 tentang Penetapan Bagian Penghasilan Sehubungan Dengan Pekerjaan Dari Pegawai Harian Dan Mingguan Serta Pegawai Tidak Tetap Lainnya Yang Tidak Dikenakan Pemotongan Pajak Penghasilan",
+ "about": "Penetapan Bagian Penghasilan Sehubungan Dengan Pekerjaan Dari Pegawai Harian Dan Mingguan Serta Pegawai Tidak Tetap Lainnya Yang Tidak Dikenakan Pemotongan Pajak Penghasilan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA - PERPAJAKAN",
+ "field": "",
+ "date_enacted": "2016-06-22",
+ "date_promulgated": "2016-06-27",
+ "date_effective": "2016-06-27",
+ "gazette": "BN.2016/NO.951,jdih.kemeneku.go.id : 4 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2023-168",
+   "target_bpk_id": 286951,
+   "label": "PMK No. 168 Tahun 2023",
+   "about": "Petunjuk Pelaksanaan Pemotongan Pajak Atas Penghasilan Sehubungan Dengan Pekerjaan, Jasa Atau Kegiatan Orang Pribadi"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 27 Juni 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/111878/PMK%20Nomor%20102%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:44Z"
+}

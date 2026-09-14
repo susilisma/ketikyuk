@@ -1,0 +1,56 @@
+{
+ "id": "PERMENKUMHAM-2024-18",
+ "source": "bpk",
+ "bpk_id": 298145,
+ "url": "https://peraturan.bpk.go.id/Details/298145/permenkumham-no-18-tahun-2024",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "18",
+ "number_raw": "18",
+ "year": 2024,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 18 Tahun 2024 tentang Penyelenggaraan Sistem Pengendalian Intern Pemerintah Terintegrasi di Lingkungan Kementerian Hukum dan Hak Asasi Manusia",
+ "about": "Penyelenggaraan Sistem Pengendalian Intern Pemerintah Terintegrasi di Lingkungan Kementerian Hukum dan Hak Asasi Manusia",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "PENGELOLAAN KEUANGAN NEGARA / DAERAH - SISTEM PENGENDALIAN INTERN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-08-12",
+ "date_promulgated": "2024-08-13",
+ "date_effective": "2024-08-13",
+ "gazette": "BN 2024 (474) : 8 hlm.; peraturan.go.id",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 317702,
+   "label": "Permenkum No. 7 Tahun 2025",
+   "about": "Penyelenggaraan Sistem Pengendalian Intern Pemerintah Terintegrasi di Lingkungan Kementerian Hukum"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 134392,
+   "label": "Permenkumham No. 33 Tahun 2013",
+   "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor M.HH 02.PW.02.03 Tahun 2011 Tentang Penyelenggaraan Sistem Pengendalian Intern Pemerintah di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 134433,
+   "label": "Permenkumham No. M.HH-02.PW.02.03 Tahun 2011",
+   "about": "Penyelenggaraan Sistem Pengendalian Intern Pemerintah di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "Untuk mencapai pengelolaan keuangan negara yang efektif, efisien, transparan, dan akuntabel serta pelaksanaan pengendalian atas penyelenggaraan kegiatan pemerintahan yang memadai bagi tercapainya penyelenggaraan pemerintahan negara, keandalan pelaporan keuangan, pengamanan aset negara, dan ketaatan terhadap peraturan perundang-undangan perlu adanya sistem pengendalian intern pemerintah di lingkungan Kementerian Hukum dan Hak Asasi Manusia.\nDasar hukum Permenkumham ini adalah Pasal 17 ayat (3) UUD 1945; UU Nomor 1 Tahun 2004; UU Nomor 39 Tahun 2008; PP Nomor 60 Tahun 2008; Perpres Nomor 18 Tahun 2023; Peraturan BPKP Nomor 5 Tahun 2021; dan Permenkumham Nomor 28 Tahun 2023.\nPermenkumham ini mengatur mengenai Penyelenggaraan Sistem Pengendalian Intern Pemerintah (SPIP) Terintegrasi di Lingkungan Kementerian Hukum dan Hak Asasi Manusia dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Lingkup pengaturan dalam Peraturan Menteri ini meliputi: a. kewenangan pengendalian; b. penyelenggaraan SPIP; dan c. Penilaian Atas Maturitas Penyelenggaraan SPIP. Sistem Pengendalian Intern Pemerintah (SPIP) adalah Sistem Pengendalian Intern yang diselenggarakan secara menyeluruh terhadap proses perancangan dan pelaksanaan kebijakan, perencanaan, penganggaran, dan pelaksanaan anggaran di lingkungan Kementerian. Sedangkan Maturitas Penyelenggaraan SPIP adalah tingkat kematangan SPIP dalam mencapai tujuan pengendalian yang efektif dan efisien, keandalan pelaporan keuangan, pengamanan aset negara, dan ketaatan terhadap peraturan perundang-undangan.",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 13 Agustus 2024.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor M.HH-02.PW.02.03 Tahun 2011 tentang Penyelenggaraan Sistem Pengendalian Intern Pemerintah di Lingkungan Kementerian Hukum dan Hak Asasi Manusia (Berita Negara Republik Indonesia Tahun 2011 Nomor 596) sebagaimana telah diubah dengan Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 33 Tahun 2013 tentang Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor M.HH-02.PW.02.03 Tahun 2011 tentang Penyelenggaraan Sistem Pengendalian Intern Pemerintah di Lingkungan Kementerian Hukum dan Hak Asasi Manusia (Berita Negara Republik Indonesia Tahun 2013 Nomor 1652), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 53 hlm.",
+ "citations": [
+  "UU-2004-1",
+  "UU-2008-39",
+  "PP-2008-60",
+  "PERPRES-2023-18"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/357724/Permenkumham%20Nomor%2018%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:42:31Z"
+}

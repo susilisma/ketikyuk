@@ -1,0 +1,72 @@
+{
+ "id": "PP-2014-43",
+ "source": "bpk",
+ "bpk_id": 5482,
+ "url": "https://peraturan.bpk.go.id/Details/5482/pp-no-43-tahun-2014",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "43",
+ "number_raw": "43",
+ "year": 2014,
+ "title": "Peraturan Pemerintah (PP) Nomor 43 Tahun 2014 tentang Peraturan Pelaksanaan Undang-undang Nomor 6 Tahun 2014 tentang Desa",
+ "about": "Peraturan Pelaksanaan Undang-undang Nomor 6 Tahun 2014 tentang Desa",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DESA",
+ "field": "",
+ "date_enacted": "2014-05-30",
+ "date_promulgated": "2014-06-03",
+ "date_effective": "2014-06-03",
+ "gazette": "LN. 2014 No. 113, TLN No. 5539, LL SETNEG : 71 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2026-16",
+   "target_bpk_id": 349409,
+   "label": "PP No. 16 Tahun 2026",
+   "about": "Peraturan Pelaksanaan Undang-Undang Nomor 6 Tahun 2014 tentang Desa"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PP-2021-11",
+   "target_bpk_id": 161841,
+   "label": "PP No. 11 Tahun 2021",
+   "about": "Badan Usaha Milik Desa"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2021-11",
+   "target_bpk_id": 161841,
+   "label": "PP No. 11 Tahun 2021",
+   "about": "Badan Usaha Milik Desa"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2019-11",
+   "target_bpk_id": 102675,
+   "label": "PP No. 11 Tahun 2019",
+   "about": "Perubahan Kedua atas Peraturan Pemerintah Nomor 43 Tahun 2014 tentang Peraturan Pelaksanaan Undang-Undang Nomor 6 Tahun 2014 tentang Desa"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2015-47",
+   "target_bpk_id": 5617,
+   "label": "PP No. 47 Tahun 2015",
+   "about": "Perubahan Atas Peraturan Pemerintah Nomor 43 Tahun 2014 Tentang Peraturan Pelaksanaan Undang-Undang Nomor 6 Tahun 2014 Tentang Desa"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2005-72",
+   "target_bpk_id": 49852,
+   "label": "PP No. 72 Tahun 2005",
+   "about": "Desa"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 03 Juni 2014.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/30406/PP%20Nomor%2043%20Tahun%202014.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:28:06Z"
+}

@@ -1,0 +1,51 @@
+{
+ "id": "PERMENDAG-2019-32",
+ "source": "bpk",
+ "bpk_id": 131714,
+ "url": "https://peraturan.bpk.go.id/Details/131714/permendag-no-32-tahun-2019",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "32",
+ "number_raw": "32",
+ "year": 2019,
+ "title": "Peraturan Menteri Perdagangan Nomor 32 Tahun 2019 tentang Laporan Harta Kekayaan Penyelenggara Negara Di Lingkungan Kementerian Perdagangan",
+ "about": "Laporan Harta Kekayaan Penyelenggara Negara Di Lingkungan Kementerian Perdagangan",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "",
+ "date_enacted": "2019-04-25",
+ "date_promulgated": "2019-05-31",
+ "date_effective": "2019-05-31",
+ "gazette": "BN 2019/ NO 621; PERATURAN.GO.ID : 9 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENDAG-2026-2",
+   "target_bpk_id": 343100,
+   "label": "Permendag No. 2 Tahun 2026",
+   "about": "Perubahan Kedua atas Peraturan Menteri Perdagangan Nomor 32 Tahun 2019 tentang Laporan Harta Kekayaan Penyelenggara Negara di Lingkungan Kementerian Perdagangan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENDAG-2020-103",
+   "target_bpk_id": 160467,
+   "label": "Permendag No. 103 Tahun 2020",
+   "about": "Perubahan atas Peraturan Menteri Perdagangan Nomor 32 Tahun 2019 tentang Laporan Harta Kekayaan Penyelenggara Negara di Lingkungan Kementerian Perdagangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2007-10",
+   "target_bpk_id": 131715,
+   "label": "Permendag No. 10/M-DAG/PER/2/2007 Tahun 2007",
+   "about": "Pelaporan Harta Kekayaan Penyelenggara Negara di Lingkungan Departemen Perdagangan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 31 Mei 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/122511/Permendag%20No.%2032%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:36:17Z"
+}

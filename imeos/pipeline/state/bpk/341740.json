@@ -1,0 +1,53 @@
+{
+ "id": "PMK-2025-100",
+ "source": "bpk",
+ "bpk_id": 341740,
+ "url": "https://peraturan.bpk.go.id/Details/341740/pmk-no-100-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "100",
+ "number_raw": "100",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 100 Tahun 2025 tentang Kebijakan Akuntansi Pemerintah Pusat",
+ "about": "Kebijakan Akuntansi Pemerintah Pusat",
+ "issuer": "Kementerian Keuangan",
+ "subject": "KEBIJAKAN AKUNTANSI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-12-23",
+ "date_promulgated": "2025-12-31",
+ "date_effective": "2025-12-31",
+ "gazette": "BN.2025 (1220)/196 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2023-57",
+   "target_bpk_id": 254032,
+   "label": "PMK No. 57 Tahun 2023",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 231/PMK.05/2022 tentang Kebijakan Akuntansi Pemerintah Pusat"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2022-231",
+   "target_bpk_id": 238762,
+   "label": "PMK No. 231/PMK.05/2022",
+   "about": "Kebijakan Akuntansi Pemerintah Pusat"
+  }
+ ],
+ "abstract": "a. bahwa berdasarkan evaluasi atas pelaksanaan\npenerapan akuntansi pada laporan keuangan\nkementerian/lembaga, laporan keuangan Bendahara\nUmum Negara, serta laporan keuangan pemerintah\npusat dan untuk lebih memberikan kepastian\npengaturan penyelenggaraan akuntansi dan pelaporan\nkeuangan berdasarkan prinsip, dasar, aturan, dan\npraktik spesifik yang dipilih dalam penyusunan dan\npenyajian laporan keuangan di lingkungan pemerintah\npusat, perlu mengganti Peraturan Menteri Keuangan\nNomor 231/PMK.05/2022 tentang Kebijakan\nAkuntansi Pemerintah Pusat sebagaimana telah diubah\ndengan Peraturan Menteri Keuangan Nomor 57 Tahun\n2023 tentang Perubahan atas Peraturan Menteri\nKeuangan Nomor 231/PMK.05/2022 tentang Kebijakan\nAkuntansi Pemerintah Pusat;\nb. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a, perlu menetapkan Peraturan\nMenteri Keuangan tentang Kebijakan Akuntansi\nPemerintah Pusat;\nPasal 17 ayat (3) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945, Undang-Undang Nomor 17 Tahun 2003, Undang-Undang Nomor 1 Tahun 2004, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 71 Tahun 2010, Peraturan Presiden Nomor 158 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengatur tentang ketentuan umum, tujuan kebijakan akuntansi pemerintah pusat, Ruang lingkup Kebijakan Akuntansi Pemerintah Pusat dan penyusunan Laporan Keuangan Kementerian/Lembaga,\nLaporan Keuangan Bendahara Umum Negara, dan Laporan\nKeuangan Pemerintah Pusat Tahun Anggaran 2025",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 31 Desember 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan Menteri ini mulai berlaku, Peraturan\nMenteri Keuangan Nomor 231/PMK.05/2022 tentang\nKebijakan Akuntansi Pemerintah Pusat",
+ "citations": [
+  "PMK-2022-231",
+  "PMK-2023-57",
+  "UU-2003-17",
+  "UU-2004-1",
+  "UU-2008-39",
+  "PP-2010-71",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/404879/2025pmkeuangan100.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:32:00Z"
+}

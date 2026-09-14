@@ -1,0 +1,39 @@
+{
+ "id": "PERPRES-2026-17",
+ "source": "bpk",
+ "bpk_id": 349418,
+ "url": "https://peraturan.bpk.go.id/Details/349418/perpres-no-17-tahun-2026",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "17",
+ "number_raw": "17",
+ "year": 2026,
+ "title": "Peraturan Presiden (Perpres) Nomor 17 Tahun 2026 tentang Kantor Staf Presiden",
+ "about": "Kantor Staf Presiden",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-03-27",
+ "date_promulgated": "2026-03-27",
+ "date_effective": "2026-03-27",
+ "gazette": "LN 2026 (30) : 18 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2019-83",
+   "target_bpk_id": 127676,
+   "label": "PERPRES No. 83 Tahun 2019",
+   "about": "Kantor Staf Presiden"
+  }
+ ],
+ "abstract": "Peraturan Presiden Nomor 83 Tahun 2019 tentang Kantor Staf Presiden sudah tidak sesuai dengan perkembangan hukum dan kebutuhan penyelenggaraan pemerintahan saat ini, sehingga perlu diganti.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD 1945.\nPerpres ini mengatur mengenai Kantor Staf Presiden yang berkedudukan berada di bawah dan bertanggung jawab kepada Presiden. Kantor Staf Presiden mempunyai tugas menyelenggarakan pemberian dukungan kepada Presiden dan Wakil Presiden dalam pengelolaan isu strategis dan pengendalian program prioritas nasional sesuai penugasan Presiden.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 27 Maret 2026.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 83 Tahun 2019 tentang Kantor Staf Presiden (Lembaran Negara Republik Indonesia Tahun 2019 Nomor 244), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 18 hlm.",
+ "citations": [
+  "PERPRES-2019-83"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/413104/Perpres%20No.%2017%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:31:42Z"
+}

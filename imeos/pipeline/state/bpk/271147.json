@@ -1,0 +1,46 @@
+{
+ "id": "PMK-2023-117",
+ "source": "bpk",
+ "bpk_id": 271147,
+ "url": "https://peraturan.bpk.go.id/Details/271147/pmk-no-117-tahun-2023",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "117",
+ "number_raw": "117",
+ "year": 2023,
+ "title": "Peraturan Menteri Keuangan Nomor 117 Tahun 2023 tentang Jenis Dan Tarif Atas Jenis Penerimaan Negara Bukan Pajak Kebutuhan Mendesak Yang Berlaku Pada Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah",
+ "about": "Jenis Dan Tarif Atas Jenis Penerimaan Negara Bukan Pajak Kebutuhan Mendesak Yang Berlaku Pada Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2023-11-09",
+ "date_promulgated": "2023-11-13",
+ "date_effective": "2023-12-13",
+ "gazette": "BN.2023 (896)/6 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-93",
+   "target_bpk_id": 341467,
+   "label": "PMK No. 93 Tahun 2025",
+   "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak Kebutuhan  Mendesak yang Berlaku pada Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah"
+  }
+ ],
+ "abstract": "a. bahwa berdasarkan ketentuan Pasal 8 ayat (1), ayat (2) huruf b, dan ayat (5) huruf c Peraturan Pemerintah Nomor 69 Tahun 2020 tentang Tata Cara Penetapan Tarif atas Jenis Penerimaan Negara Bukan Pajak, dalam hal tertentu tarif atas jenis penerimaan negara bukan pajak yang berasal dari pelayanan karena kebutuhan mendesak dapat diatur dengan Peraturan Menteri;\nb. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a, perlu menetapkan Peraturan Menteri Keuangan tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak Kebutuhan Mendesak yang Berlaku pada Lembaga Kebijakan Pengadaan Barang/ Jasa Pemerintah;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 58 Tahun 2020, Peraturan Pemerintah Nomor 69 Tahun 2020, Peraturan Presiden Nomor 57 Tahun 2020, Peraturan Presiden Nomor 17 Tahun 2023, Peraturan Menteri Keuangan Nomor 155/PMK.02/2021, Peraturan Menteri Keuangan Nomor 113/PMK.02/2021 dan Peraturan Menteri Keuangan Nomor 118/PMK.01/2021\nPeraturan Menteri ini mengatur tentang Jenis Penerimaan Negara Bukan Pajak kebutuhan mendesak, Tarif atas jenis Penerimaan Negara Bukan Pajak, Pengelolaan jenis dan tarif atas jenis Penerimaan Negara Bukan Pajak dan Evaluasi tarif atas jenis Penerimaan Negara Bukan Pajak.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 13 Desember 2023.",
+ "citations": [
+  "PP-2020-69",
+  "UU-2008-39",
+  "PP-2020-58",
+  "PERPRES-2020-57",
+  "PERPRES-2023-17",
+  "PMK-2021-155",
+  "PMK-2021-113",
+  "PMK-2021-118"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/329113/2023pmkeuangan117.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:32:19Z"
+}

@@ -1,0 +1,55 @@
+{
+ "id": "PP-2025-8",
+ "source": "bpk",
+ "bpk_id": 314625,
+ "url": "https://peraturan.bpk.go.id/Details/314625/pp-no-8-tahun-2025",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "8",
+ "number_raw": "8",
+ "year": 2025,
+ "title": "Peraturan Pemerintah (PP) Nomor 8 Tahun 2025 tentang Perubahan atas Peraturan Pemerintah Nomor 36 Tahun 2023 tentang Devisa Hasil Ekspor dari Kegiatan Pengusahaan, Pengelolaan, dan/atau Pengolahan Sumber Daya Alam",
+ "about": "Perubahan atas Peraturan Pemerintah Nomor 36 Tahun 2023 tentang Devisa Hasil Ekspor dari Kegiatan Pengusahaan, Pengelolaan, dan/atau Pengolahan Sumber Daya Alam",
+ "issuer": "Pemerintah Pusat",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN - PERTAMBANGAN MIGAS, MINERAL DAN ENERGI",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2025-02-17",
+ "date_promulgated": "2025-02-17",
+ "date_effective": "2025-03-01",
+ "gazette": "LN 2025 (23), TLN (7095) : 9 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2026-21",
+   "target_bpk_id": 349944,
+   "label": "PP No. 21 Tahun 2026",
+   "about": "Perubahan Ketiga atas Peraturan Pemerintah Nomor 36 Tahun 2023 tentang Devisa Hasil Ekspor dari Kegiatan Pengusahaan, Pengelolaan, dan/atau Pengolahan Sumber Daya Alam"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2026-2",
+   "target_bpk_id": 349943,
+   "label": "PP No. 2 Tahun 2026",
+   "about": "Perubahan Kedua atas Peraturan Pemerintah Nomor 36 Tahun 2023 tentang Devisa Hasil Ekspor dari Kegiatan Pengusahaan, Pengelolaan, dan/atau Pengolahan Sumber Daya Alam"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PP-2023-36",
+   "target_bpk_id": 255125,
+   "label": "PP No. 36 Tahun 2023",
+   "about": "Devisa Hasil Ekspor dari Kegiatan Pengusahaan, Pengelolaan, dan/atau Pengolahan Sumber Daya Alam"
+  }
+ ],
+ "abstract": "PP Nomor 36 Tahun 2023 tentang Devisa Hasil Ekspor dari Kegiatan Pengusahaan, Pengelolaan, dan/atau Pengolahan Sumber Daya Alam perlu dilakukan penyesuaian pengaturan untuk mendorong pertumbuhan ekonomi yang berkelanjutan, sehingga perlu diubah.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD NRI Tahun 1945; UU Nomor 10 Tahun 1995; UU Nomor 24 tahun 1999; dan PP Nomor 36 Tahun 2023.\nPP ini mengubah beberapa ketentuan dalam PP Nomor 36 Tahun 2023. Peraturan Pemerintah ini memuat pokok materi muatan antara lain sebagai berikut: 1) perubahan persentase DHE SDA yang wajib tetap ditempatkan (retensi) dalam sistem keuangan Indonesia; dan 2) perubahan jangka waktu retensi DHE SDA.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 01 Maret 2025.\nPP ini mengubah PP Nomor 36 Tahun 2023.\nLampiran file: 19 hlm. (batang tubuh hlm 1 s.d. 9 dan penjelasan hlm 10 s.d. 19)",
+ "citations": [
+  "PP-2023-36",
+  "UU-1995-10",
+  "UU-1999-24"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/375605/PP%20Nomor%208%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:27:49Z"
+}

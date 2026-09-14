@@ -1,0 +1,41 @@
+{
+ "id": "PERPRES-2024-194",
+ "source": "bpk",
+ "bpk_id": 306937,
+ "url": "https://peraturan.bpk.go.id/Details/306937/perpres-no-194-tahun-2024",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "194",
+ "number_raw": "194",
+ "year": 2024,
+ "title": "Peraturan Presiden (Perpres) Nomor 194 Tahun 2024 tentang Kementerian Perencanaan Pembangunan Nasional",
+ "about": "Kementerian Perencanaan Pembangunan Nasional",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PROGRAM, RENCANA PEMBANGUNAN DAN RENCANA KERJA - KETATANEGARAAN, KENEGARAAN - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "HUKUM TATA NEGARA",
+ "date_enacted": "2024-11-08",
+ "date_promulgated": "2024-11-08",
+ "date_effective": "2024-11-08",
+ "gazette": "LN 2024 (391) : 10 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2021-80",
+   "target_bpk_id": 176798,
+   "label": "PERPRES No. 80 Tahun 2021",
+   "about": "Kementerian Perencanaan Pembangunan Nasional"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 11 Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara sebagaimana telah diubah dengan Undang-Undang Nomor 61 Tahun 2024 tentang Perubahan atas Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara, perlu menetapkan Peraturan Presiden tentang Kementerian Perencanaan Pembangunan Nasional.\nDasar Hukum Perpres ini adalah Pasal 4 ayat (1) dan Pasal 17 UUD NRI Tahun 1945; UU Nomor 39 Tahun 2008; dan Perpres Nomor 140 Tahun 2024.\nPerpres ini mengatur mengenai Kementerian Perencanaan Pembangunan Nasional yang menyelenggarakan urusan pemerintahan di bidang perencanaan pembangunan nasional. Kementerian ini dipimpin oleh Menteri berada di bawah dan bertanggung jawab kepada Presiden. Dalam memimpin Kementerian, Menteri dapat dibantu oleh wakil menteri sesuai dengan penunjukan Presiden, Wakil menteri berada di bawah dan bertanggung jawab kepada Menteri. Kementerian ini mempunyai tugas menyelenggarakan urusan pemerintahan di bidang perencanaan pembangunan nasional untuk membantu Presiden dalam menyelenggarakan pemerintahan negara. Dalam melaksanakan tugas Kementerian menyelenggarakan fungsi antara lain sebagai berikut; 1. perumusan dan penetapan kebijakan di bidang perencanaan, pengalokasian anggaran, dan pengendalian pembangunan nasional; 2. koordinasi dan sinkronisasi pelaksanaan kebijakan di bidang perencanaan, pengalokasian anggaran, dan pengendalian pembangunan nasional; dan 3. koordinasi pelaksanaan tugas, pembinaan, dan pemberian dukungan administrasi kepada seluruh unsur organisasi di lingkungan Kementerian.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 08 November 2024.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan\nPresiden Nomor 80 Tahun 2021 tentang Kementerian Perencanaan Pembangunan Nasional (Lembaran Negara Republik Indonesia Tahun 2021 Nomor 204), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 10 hlm",
+ "citations": [
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2024-140"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/367259/Perpres%20Nomor%20194%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:47Z"
+}

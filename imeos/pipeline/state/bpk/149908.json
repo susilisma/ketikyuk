@@ -1,0 +1,45 @@
+{
+ "id": "PMK-2013-75",
+ "source": "bpk",
+ "bpk_id": 149908,
+ "url": "https://peraturan.bpk.go.id/Details/149908/pmk-no-75pmk082013",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "75",
+ "number_raw": "75/PMK.08/2013",
+ "year": 2013,
+ "title": "Peraturan Menteri Keuangan Nomor 75/PMK.08/2013 Tahun 2013 tentang Pembelian Kembali Surat Berharga Syariah Negara",
+ "about": "Pembelian Kembali Surat Berharga Syariah Negara",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PENGELOLAAN KEUANGAN NEGARA / DAERAH - PEREKONOMIAN",
+ "field": "",
+ "date_enacted": "2013-04-08",
+ "date_promulgated": "2013-04-12",
+ "date_effective": "2013-04-12",
+ "gazette": "BN 2013/ NO 572; PERATURAN.GO.ID : 12 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-59",
+   "target_bpk_id": 326042,
+   "label": "PMK No. 59 Tahun 2025",
+   "about": "Pembelian Kembali dan Penjualan Secara Langsung Surat Berharga Syariah Negara serta Penerbitan Surat Berharga Syariah Negara sebagai Seri Penukar dalam Rangka Pembelian Kembali Surat Utang Negara"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2015-16",
+   "target_bpk_id": 122436,
+   "label": "PMK No. 16/PMK.08/2015",
+   "about": "Perubahan Atas Peraturan Menteri Keuangan Nomor 75/PMK.08/2013 Tentang Pembelian Kembali Surat Berharga Syariah Negara"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 12 April 2013.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/142046/PMK%20Nomor%2075%20Tahun%202013.pdf",
+  "https://peraturan.bpk.go.id/Download/252240/PMK%20Nomor%2075%20Tahun%202013%20Lampiran.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:33:08Z"
+}

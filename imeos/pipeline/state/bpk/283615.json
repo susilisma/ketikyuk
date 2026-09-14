@@ -1,0 +1,48 @@
+{
+ "id": "PP-2024-19",
+ "source": "bpk",
+ "bpk_id": 283615,
+ "url": "https://peraturan.bpk.go.id/Details/283615/pp-no-19-tahun-2024",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "19",
+ "number_raw": "19",
+ "year": 2024,
+ "title": "Peraturan Pemerintah (PP) Nomor 19 Tahun 2024 tentang Peraturan Pelaksanaan Undang-Undang Nomor 15 Tahun 1997 tentang Ketransmigrasian sebagaimana telah diubah dengan Undang-Undang Nomor 29 Tahun 2009 tentang Perubahan atas Undang-Undang Nomor 15 Tahun 1997 tentang Ketransmigrasian",
+ "about": "Peraturan Pelaksanaan Undang-Undang Nomor 15 Tahun 1997 tentang Ketransmigrasian sebagaimana telah diubah dengan Undang-Undang Nomor 29 Tahun 2009 tentang Perubahan atas Undang-Undang Nomor 15 Tahun 1997 tentang Ketransmigrasian",
+ "issuer": "Pemerintah Pusat",
+ "subject": "TRANSMIGRASI, DAERAH TERTINGGAL",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2024-04-25",
+ "date_promulgated": "2024-04-25",
+ "date_effective": "2024-04-25",
+ "gazette": "LN 2024 (79), TLN (6915) : 73 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2025-37",
+   "target_bpk_id": 331095,
+   "label": "PP No. 37 Tahun 2025",
+   "about": "Perubahan atas Peraturan Pemerintah Nomor 19 Tahun 2024 tentang Peraturan Pelaksanaan Undang-Undang Nomor 15 Tahun 1997 tentang Ketransmigrasian sebagaimana telah diubah dengan Undang-Undang Nomor 29 Tahun 2009 tentang Perubahan atas Undang-Undang Nomor 15 Tahun 1997 tentang Keimigrasian"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2014-3",
+   "target_bpk_id": 65475,
+   "label": "PP No. 3 Tahun 2014",
+   "about": "Pelaksanaan Undang-undang Nomor 15 Tahun 1997 tentang Ketransmigrasian Sebagaimana Telah Diubah dengan Undang-undang Nomor 29 Tahun 2009 tentang Perubahan atas Undang-undang Nomor 15 Tahun 1997 tentang Ketransmigrasian"
+  }
+ ],
+ "abstract": "Peraturan Pemerintah Nomor 3 Tahun 2014 tentang Pelaksanaan Undang-Undang Nomor 15 Tahun 1997 tentang Ketransmigrasian sebagaimana telah diubah dengan Undang-Undang Nomor 29 Tahun 2009 tentang Perubahan atas Undang-Undang Nomor 15 Tahun 1997 tentang Ketransmigrasian sudah tidak sesuai dengan perkembangan dan kebutuhan di masyarakat sehingga perlu diganti.\nDasar hukum PP ini adalah Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 dan UU Nomor 15 Tahun 1997.\nSecara umum, materi pokok yang diatur di dalam Peraturan Pemerintah ini meliputi ketentuan umum, Kawasan Transmigrasi, perencanaan Kawasan Transmigrasi dan penyediaan tanah Transmigrasi, pembangunan Kawasan Transmigrasi, pengembangan Kawasan Transmigrasi, Transmigrasi Transpolitan, jenis Transmigrasi dan pola usaha pokok, pelaksanaan pemberian bantuan oleh Badan Usaha kepada Transmigran, peran serta masyarakat, koordinasi dan pengawasan, sanksi administratif, ketentuan peralihan, dan ketentuan penutup.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 25 April 2024.\nPada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 3 Tahun 2014 tentang Pelaksanaan Undang-Undang Nomor 15 Tahun 1997 tentang Ketransmigrasian sebagaimana telah diubah dengan Undang-Undang Nomor 29 Tahun 2009 tentang Perubahan atas Undang-Undang Nomor 15 Tahun 1997 tentang Ketransmigrasian (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 9 dan Tambahan Lembaran Negara Republik Indonesia Nomor 5497), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 108 hlm (batang tubuh hlm 1 sd 73, penjelasan hlm 74 sd 108)",
+ "citations": [
+  "PP-2014-3",
+  "UU-1997-15",
+  "UU-2009-29"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/342637/PP%20Nomor%2019%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:29:14Z"
+}

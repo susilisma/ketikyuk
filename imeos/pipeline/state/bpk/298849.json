@@ -1,0 +1,46 @@
+{
+ "id": "PERPRES-2024-100",
+ "source": "bpk",
+ "bpk_id": 298849,
+ "url": "https://peraturan.bpk.go.id/Details/298849/perpres-no-100-tahun-2024",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "100",
+ "number_raw": "100",
+ "year": 2024,
+ "title": "Peraturan Presiden (Perpres) Nomor 100 Tahun 2024 tentang Komisi Pengawas Persaingan Usaha",
+ "about": "Komisi Pengawas Persaingan Usaha",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "HUKUM TATA NEGARA",
+ "date_enacted": "2024-09-10",
+ "date_promulgated": "2024-09-10",
+ "date_effective": "2024-09-10",
+ "gazette": "LN 2024 (193) : 13 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2008-80",
+   "target_bpk_id": 42257,
+   "label": "PERPRES No. 80 Tahun 2008",
+   "about": "Perubahan Atas Keputusan Presiden Nomor 75 Tahun 1999 Tentang Komisi Pengawas Persaingan Usaha"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 58433,
+   "label": "KEPPRES No. 75 Tahun 1999",
+   "about": "Komisi Pengawas Persaingan Usaha"
+  }
+ ],
+ "abstract": "Untuk mendukung optimalisasi dan efektivitas pelaksanaan tugas dan fungsi di bidang pengawas persaingan usaha dan pengawasan pelaksanaan kemitraan, perlu melakukan penataan organisasi dan tata kerja Komisi Pengawas Persaingan Usaha.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD 1945 dan UU Nomor 5 Tahun 1999.\nPerpres ini mengatur mengenai Komisi Pengawas Persaingan Usaha (KPPU) yang merupakan lembaga nonstruktural yang terlepas dari pengaruh dan kekuasaan Pemerintah serta pihak lain. KPPU bertanggung jawab kepada Presiden yang dipimpin oleh seorang Ketua.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 10 September 2024.\nPada saat Peraturan Presiden ini mulai berlaku, Keputusan Presiden Nomor 75 Tahun 1999 tentang Komisi Pengawas Persaingan Usaha sebagaimana telah diubah dengan Peraturan Presiden Nomor 80 Tahun 2008 tentang Perubahan atas Keputusan Presiden Nomor 75 Tahun 1999 tentang Komisi Pengawas Persaingan Usaha, dicabut dan dinyatakan tidak berlaku.\nLampiran file: 13 hlm.",
+ "citations": [
+  "UU-1999-5"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/358473/Perpres%20Nomor%20100%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:29:55Z"
+}

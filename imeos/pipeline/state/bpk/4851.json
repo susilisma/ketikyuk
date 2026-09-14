@@ -1,0 +1,44 @@
+{
+ "id": "PP-2008-37",
+ "source": "bpk",
+ "bpk_id": 4851,
+ "url": "https://peraturan.bpk.go.id/Details/4851/pp-no-37-tahun-2008",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "37",
+ "number_raw": "37",
+ "year": 2008,
+ "title": "Peraturan Pemerintah (PP) Nomor 37 Tahun 2008 tentang Perubahan Atas Peraturan Pemerintah Nomor 38 Tahun 2002 Tentang Daftar Koordinat Geografis Titik Titik Garis Pangkal Kepulauan Indonesia",
+ "about": "Perubahan Atas Peraturan Pemerintah Nomor 38 Tahun 2002 Tentang Daftar Koordinat Geografis Titik Titik Garis Pangkal Kepulauan Indonesia",
+ "issuer": "Pemerintah Pusat",
+ "subject": "TERITORIAL INDONESIA",
+ "field": "",
+ "date_enacted": "2008-05-19",
+ "date_promulgated": "2008-05-19",
+ "date_effective": "2008-05-19",
+ "gazette": "LN. 2008 No. 77, TLN No. 4854, LL SETNEG : 6 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2026-14",
+   "target_bpk_id": 349406,
+   "label": "PP No. 14 Tahun 2026",
+   "about": "Perubahan Kedua atas Peraturan Pemerintah Nomor 38 Tahun 2002 tentang Daftar Koordinat Geografis Titik-Titik Garis Pangkal Kepulauan Indonesia"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PP-2002-38",
+   "target_bpk_id": 52451,
+   "label": "PP No. 38 Tahun 2002",
+   "about": "Daftar Koordinat Geografis Titik-Titik Garis Pangkal Kepulauan Indonesia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 19 Mei 2008.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/37185/PP%2037%20Tahun%202008.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:28:10Z"
+}

@@ -1,0 +1,46 @@
+{
+ "id": "PMK-2022-141",
+ "source": "bpk",
+ "bpk_id": 228079,
+ "url": "https://peraturan.bpk.go.id/Details/228079/pmk-no-141pmk012022",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "141",
+ "number_raw": "141/PMK.01/2022",
+ "year": 2022,
+ "title": "Peraturan Menteri Keuangan Nomor 141/PMK.01/2022 Tahun 2022 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 118/PMK.01/2021 tentang Organisasi dan Tata Kerja Kementerian Keuangan",
+ "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 118/PMK.01/2021 tentang Organisasi dan Tata Kerja Kementerian Keuangan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "",
+ "date_enacted": "2022-09-15",
+ "date_promulgated": "2022-09-19",
+ "date_effective": "2022-09-19",
+ "gazette": "BN.2022/NO. 954; https:jdih.kemenkeu.go.id : 28 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-124",
+   "target_bpk_id": 353894,
+   "label": "PMK No. 124 Tahun 2024",
+   "about": "Organisasi dan Tata Kerja Kementerian Keuangan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PMK-2021-118",
+   "target_bpk_id": 177395,
+   "label": "PMK No. 118/PMK.01/2021",
+   "about": "Organisasi dan Tata Kerja Kementerian Keuangan"
+  }
+ ],
+ "abstract": "Untuk untuk mewujudkan organisasi Kementerian Keuangan yang lebih efektifdan efi.sien guna meningkatkan kinerja pelaksanaan tugas Kementerian\nKeuangan dan sesuai persetujuan tertulis dari Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi melalui surat Nomor: B/630/M.KT.01/2022 tanggal 30\nJuni 2022, perlu menetapkan Peraturan Menteri Keuangan tentang Perubahan atas Peraturan Menteri Keuangan Nomor 118/PMK.01/2021 tentang Organisasi dan Tata\nKerja Kementerian Keuangan.\nDasar Hukum Peraturan ini adalah Pasal 17 ayat (3) UUD Tahun 1945, UU 39 Tahun 2008 (LN Tahun 2008 No. 166, TLN No. 4916), Perpres 57 Tahun 2020 (LN Tahun 2020 No.98), Permenkeu RI 118/PMK.01/2021 (BN Tahun 2021 No. 1031).\nDalam Peraturan Menteri Keuangan Republik Indonesia ini diatur:\nBeberapa ketentuan dalam batang tubuh Peraturan Menteri Keuangan Nomor 118/PMK.01/2021 tentang Organisasi dan Tata Kerja Kementerian Keuangan (Berita\nNegara Republik Indonesia Tahun 2021 Nomor 1031) diuba. Lampiran Peraturan Menteri Keuangan Nomor 118/PMK.01/2021 tentang Organisasi dan Tata Kerja\nKementerian Keuangan (Berita Negara Republik Indonesia Tahun 2021 Nomor 1031) diubah, sehingga menjadi sebagaimana tercantum dalam Lampiran yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 19 September 2022.\nMengubah Peraturan Menteri Keuangan Nomor 118/PMK.01/2021 tentang Organisasi dan Tata Kerja Kementerian Keuangan\n93 HLM, Lampiran halaman 29-93.",
+ "citations": [
+  "PMK-2021-118"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/222899/141_PMK.01_2022.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:34:08Z"
+}

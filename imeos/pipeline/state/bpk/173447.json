@@ -1,0 +1,37 @@
+{
+ "id": "PERMENDAG-2018-67",
+ "source": "bpk",
+ "bpk_id": 173447,
+ "url": "https://peraturan.bpk.go.id/Details/173447/permendag-no-67-tahun-2018",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "67",
+ "number_raw": "67",
+ "year": 2018,
+ "title": "Peraturan Menteri Perdagangan Nomor 67 Tahun 2018 tentang Alat-Alat Ukur, Takar, Timbang, dan Perlengkapannya Yang Wajib Ditera dan Ditera Ulang",
+ "about": "Alat-Alat Ukur, Takar, Timbang, dan Perlengkapannya Yang Wajib Ditera dan Ditera Ulang",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "",
+ "date_enacted": "2018-06-06",
+ "date_promulgated": "2018-06-26",
+ "date_effective": "2018-06-26",
+ "gazette": "BN 2018/No. 811; https://peraturan.go.id/ : 11 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2024-24",
+   "target_bpk_id": 305838,
+   "label": "Permendag No. 24 Tahun 2024",
+   "about": "Kegiatan Tera dan Tera Ulang Alat Ukur, Alat Takar, Alat Timbang, dan Alat Perlengkapan Metrologi Legal"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 26 Juni 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/166639/Permendag%20Nomor%2067%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:37:44Z"
+}

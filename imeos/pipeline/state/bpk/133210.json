@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKUMHAM-2017-24",
+ "source": "bpk",
+ "bpk_id": 133210,
+ "url": "https://peraturan.bpk.go.id/Details/133210/permenkumham-no-24-tahun-2017",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "24",
+ "number_raw": "24",
+ "year": 2017,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 24 Tahun 2017 tentang Pedoman Materi Muatan Hak Asasi Manusia Dalam Pembentukan Peraturan Perundang-Undangan",
+ "about": "Pedoman Materi Muatan Hak Asasi Manusia Dalam Pembentukan Peraturan Perundang-Undangan",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "HAK ASASI MANUSIA",
+ "field": "",
+ "date_enacted": "2017-11-14",
+ "date_promulgated": "2017-11-24",
+ "date_effective": "2017-11-24",
+ "gazette": "BN.2017/No.1690, peraturan.go.id : 3 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 298123,
+   "label": "Permenkumham No. 16 Tahun 2024",
+   "about": "Pedoman Pengarusutamaan Hak Asasi Manusia dalam Pembentukan Peraturan Perundang-undangan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 24 November 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/123998/Permenkumham%20Nomor%2024%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:42:41Z"
+}

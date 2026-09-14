@@ -1,0 +1,48 @@
+{
+ "id": "PERMENPERIN-2026-4",
+ "source": "bpk",
+ "bpk_id": 348183,
+ "url": "https://peraturan.bpk.go.id/Details/348183/permenperin-no-4-tahun-2026",
+ "form": "PERMENPERIN",
+ "form_long": "Peraturan Menteri Perindustrian",
+ "number": "4",
+ "number_raw": "4",
+ "year": 2026,
+ "title": "Peraturan Menteri Perindustrian Nomor 4 Tahun 2026 tentang Perubahan atas Peraturan Menteri Perindustrian Nomor 2 Tahun 2025 tentang Pemberlakuan Standar Nasional Indonesia untuk Gula Kristal Rafinasi Secara Wajib",
+ "about": "Perubahan atas Peraturan Menteri Perindustrian Nomor 2 Tahun 2025 tentang Pemberlakuan Standar Nasional Indonesia untuk Gula Kristal Rafinasi Secara Wajib",
+ "issuer": "Kementerian Perindustrian",
+ "subject": "PERINDUSTRIAN - STANDAR / PEDOMAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-03-05",
+ "date_promulgated": "2026-03-11",
+ "date_effective": "2026-03-11",
+ "gazette": "BN.2026 (169)/76 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERMENPERIN-2025-2",
+   "target_bpk_id": 321018,
+   "label": "Permenperin No. 2 Tahun 2025",
+   "about": "Pemberlakuan Standar Nasional Indonesia untuk Gula Kristal Rafinasi secara Wajib"
+  }
+ ],
+ "abstract": "a. bahwa untuk memberikan kemudahan mendapatkan\nbahan baku dan/atau bahan penolong industri, serta\nmemberikan kepastian berusaha bagi industri pengguna\ngula kristal rafinasi, perlu dilakukan penyesuaian\nterhadap pengaturan pemberlakuan Standar Nasional\nIndonesia untuk gula kristal rafinasi secara wajib;\nb. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a, perlu mengubah Peraturan Menteri\nPerindustrian Nomor 2 Tahun 2025 tentang Pemberlakuan\nStandar Nasional Indonesia untuk Gula Kristal Rafinasi\nSecara Wajib;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a dan huruf b, perlu menetapkan Peraturan\nMenteri Perindustrian tentang Perubahan atas Peraturan\nMenteri Perindustrian Nomor 2 Tahun 2025 tentang\nPemberlakuan Standar Nasional Indonesia untuk Gula\nKristal Rafinasi Secara Wajib;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 3 Tahun 2014, Undang-Undang Nomor 20 Tahun 2014, Peraturan Pemerintah Nomor 2 Tahun 2017, Peraturan Pemerintah Nomor 34 Tahun 2018, Peraturan Pemerintah Nomor 28 Tahun 2021, Peraturan Presiden Nomor 167 Tahun 2024, Peraturan Menteri Perindustrian Nomor 45 Tahun 2022, Peraturan Menteri Perindustrian Nomor 1 Tahun 2025 dan Peraturan Menteri Perindustrian Nomor 2 Tahun 2025\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri Perindustrian Nomor 2 Tahun 2025 tentang Pemberlakuan Standar Nasional Indonesia untuk Gula Kristal Rafinasi Secara Wajib yaitu tentang ketentuan umum, pemberlakuan SNI untuk Gula\nKristal Rafinasi, LSPro, penilaian kesesuaian dengan sistem sertifikasi tipe 1 dan sertifikat SNI,",
+ "note": "Peraturan Menteri Perindustrian ini mulai berlaku pada tanggal 11 Maret 2026.\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri Perindustrian Nomor 2 Tahun 2025 tentang Pemberlakuan Standar Nasional Indonesia untuk Gula Kristal Rafinasi Secara Wajib",
+ "citations": [
+  "UU-2008-39",
+  "UU-2014-3",
+  "UU-2014-20",
+  "PP-2017-2",
+  "PP-2018-34",
+  "PP-2021-28",
+  "PERPRES-2024-167",
+  "PERMENPERIN-2022-45",
+  "PERMENPERIN-2025-1",
+  "PERMENPERIN-2025-2"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/411758/permenperin-no-4-tahun-2026.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:38:11Z"
+}

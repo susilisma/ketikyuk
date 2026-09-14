@@ -1,0 +1,58 @@
+{
+ "id": "UU-1951-18",
+ "source": "bpk",
+ "bpk_id": 39907,
+ "url": "https://peraturan.bpk.go.id/Details/39907/uu-no-18-tahun-1951",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "18",
+ "number_raw": "18",
+ "year": 1951,
+ "title": "Undang-undang (UU) Nomor 18 Tahun 1951 tentang Perubahan UU No. 15 Tahun 1950 RI untuk Penggabungan Daerah-Daerah Kabupaten Kulon-Progo dan Adikarto dalam Lingkungan Daerah Istimewa Yogyakarta Menjadi Satu Kabupaten yang Berhak Mengatur dan Mengurus Rumah-Tangganya Sendiri dengan Nama Kabupaten Kulon-Progo",
+ "about": "Perubahan UU No. 15 Tahun 1950 RI untuk Penggabungan Daerah-Daerah Kabupaten Kulon-Progo dan Adikarto dalam Lingkungan Daerah Istimewa Yogyakarta Menjadi Satu Kabupaten yang Berhak Mengatur dan Mengurus Rumah-Tangganya Sendiri dengan Nama Kabupaten Kulon-Progo",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH",
+ "field": "",
+ "date_enacted": "1951-10-12",
+ "date_promulgated": "1951-10-15",
+ "date_effective": "1951-10-15",
+ "gazette": "LN.1951/NO.101, LL SETNEG : 2 HLM.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-123",
+   "target_bpk_id": 307443,
+   "label": "UU No. 123 Tahun 2024",
+   "about": "Kabupaten Gunungkidul di Daerah Istimewa Yogyakarta"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-122",
+   "target_bpk_id": 307442,
+   "label": "UU No. 122 Tahun 2024",
+   "about": "Kabupaten Bantul di Daerah Istimewa Yograkarta"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-120",
+   "target_bpk_id": 307438,
+   "label": "UU No. 120 Tahun 2024",
+   "about": "Kabupaten Sleman di Daerah Istimewa Yoryakarta"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-119",
+   "target_bpk_id": 307434,
+   "label": "UU No. 119 Tahun 2024",
+   "about": "Kabupaten Kulon Progo di Daerah Istimewa Yograkarta"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 15 Oktober 1951.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/29498/UU%20Nomor%2018%20Tahun%201951.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:24:59Z"
+}

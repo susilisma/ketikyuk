@@ -1,0 +1,65 @@
+{
+ "id": "PERPRES-2018-66",
+ "source": "bpk",
+ "bpk_id": 89957,
+ "url": "https://peraturan.bpk.go.id/Details/89957/perpres-no-66-tahun-2018",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "66",
+ "number_raw": "66",
+ "year": 2018,
+ "title": "Peraturan Presiden (Perpres) Nomor 66 Tahun 2018 tentang Perubahan Kedua atas Peraturan Presiden Nomor 61 Tahun 2015 tentang Penghimpunan dan Penggunaan Dana Perkebunan Kelapa Sawit",
+ "about": "Perubahan Kedua atas Peraturan Presiden Nomor 61 Tahun 2015 tentang Penghimpunan dan Penggunaan Dana Perkebunan Kelapa Sawit",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KEHUTANAN DAN PERKEBUNAN",
+ "field": "",
+ "date_enacted": "2018-08-15",
+ "date_promulgated": "2018-08-15",
+ "date_effective": "2018-08-15",
+ "gazette": "LN.2018/NO.134, LL SETKAB : 9 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-132",
+   "target_bpk_id": 305311,
+   "label": "Perpres No. 132 Tahun 2024",
+   "about": "Pengelolaan Dana Perkebunan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2018-43",
+   "target_bpk_id": 82671,
+   "label": "PERPRES No. 43 Tahun 2018",
+   "about": "Perubahan atas Peraturan Presiden Nomor 191 Tahun 2014 tentang Penyediaan, Pendistribusian dan Harga Jual Eceran Bahan Bakar Minyak"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2016-24",
+   "target_bpk_id": 39920,
+   "label": "PERPRES No. 24 Tahun 2016",
+   "about": "Perubahan Atas Peraturan Presiden Nomor 61 Tahun 2015 Tentang Penghimpunan Dan Penggunaan Dana Perkebunan Kelapa Sawit"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2015-61",
+   "target_bpk_id": 41800,
+   "label": "PERPRES No. 61 Tahun 2015",
+   "about": "Penghimpunan dan Penggunaan Dana Perkebunan Kelapa Sawit"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2014-191",
+   "target_bpk_id": 41710,
+   "label": "PERPRES No. 191 Tahun 2014",
+   "about": "Penyediaan, Pendistribusian dan Harga Jual Eceran Bahan Bakar Minyak"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 15 Agustus 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/80837/Perpres%20Nomor%2066%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:29:01Z"
+}

@@ -1,0 +1,48 @@
+{
+ "id": "PP-2025-49",
+ "source": "bpk",
+ "bpk_id": 339037,
+ "url": "https://peraturan.bpk.go.id/Details/339037/pp-no-49-tahun-2025",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "49",
+ "number_raw": "49",
+ "year": 2025,
+ "title": "Peraturan Pemerintah (PP) Nomor 49 Tahun 2025 tentang Perubahan Kedua Atas Peraturan Pemerintah Nomor 36 Tahun 2021 tentang Pengupahan",
+ "about": "Perubahan Kedua Atas Peraturan Pemerintah Nomor 36 Tahun 2021 tentang Pengupahan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KETENAGAKERJAAN",
+ "field": "HUKUM PERBURUHAN",
+ "date_enacted": "2025-12-17",
+ "date_promulgated": "2025-12-17",
+ "date_effective": "2025-12-17",
+ "gazette": "LN 2025 (187), TLN (7148) : 15 hlm.; jdih.kemnaker.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PP-2023-51",
+   "target_bpk_id": 270269,
+   "label": "PP No. 51 Tahun 2023",
+   "about": "Perubahan atas Peraturan Pemerintah Nomor 36 Tahun 2021 tentang Pengupahan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PP-2021-36",
+   "target_bpk_id": 161909,
+   "label": "PP No. 36 Tahun 2021",
+   "about": "Pengupahan"
+  }
+ ],
+ "abstract": "Untuk menjaga daya beli Pekerja/Buruh guna penghidupan yang layak, menjaga kelangsungan usaha, dan stabilitas ekonomi nasional, serta mempertimbangkan Putusan Mahkamah Konstitusi Nomor 168/PUU-XXI/2023, perlu dilakukan perubahan terhadap Peraturan Pemerintah Nomor 36 Tahun 2021 tentang Pengupahan sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 51 Tahun 2023 tentang Perubahan atas Peraturan Pemerintah Nomor 36 Tahun 2021 tentang Pengupahan.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945; UU No. 13 Tahun 2003; dan PP No. 36 Tahun 2021.\nPP ini mengatur mengenai perubahan beberapa ketentuan dalam PP Nomor 36 Tahun 2021 tentang Pengupahan sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 51 Tahun 2023 tentang Perubahan atas Peraturan Pemerintah Nomor 36 Tahun 2021 tentang Pengupahan.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 17 Desember 2025.\nPP ini mengubah PP Nomor 36 Tahun 2021\nLampiran file: 22 hlm (batang tubuh hlm 1 sd 15 dan penjelasan hlm 16 sd 22)",
+ "citations": [
+  "PP-2021-36",
+  "PP-2023-51",
+  "UU-2003-13"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/402111/PP%20Nomor%2049%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:28:45Z"
+}

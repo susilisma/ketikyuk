@@ -1,0 +1,41 @@
+{
+ "id": "PERPRES-2026-22",
+ "source": "bpk",
+ "bpk_id": 349423,
+ "url": "https://peraturan.bpk.go.id/Details/349423/perpres-no-22-tahun-2026",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "22",
+ "number_raw": "22",
+ "year": 2026,
+ "title": "Peraturan Presiden (Perpres) Nomor 22 Tahun 2026 tentang Perubahan atas Peraturan Presiden Nomor 162 Tahun 2024 tentang Kementerian Sosial",
+ "about": "Perubahan atas Peraturan Presiden Nomor 162 Tahun 2024 tentang Kementerian Sosial",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-04-15",
+ "date_promulgated": "2026-04-15",
+ "date_effective": "2026-04-15",
+ "gazette": "LN 2026 (42) : 6 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2024-162",
+   "target_bpk_id": 306711,
+   "label": "Perpres No. 162 Tahun 2024",
+   "about": "Kementerian Sosial"
+  }
+ ],
+ "abstract": "Dalam rangka menyesuaikan fungsi dan susunan organisasi Kementerian Sosial dengan dinamika kebijakan pembangunan nasional serta untuk memperkuat pelaksanaan pengembangan sumber daya manusia kesejahteraan sosial dan penyelenggaraan sekolah rakyat, perlu dilakukan perubahan terhadap beberapa ketentuan dalam Peraturan Presiden Nomor 162 Tahun 2024 tentang Kementerian Sosial.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) dan Pasal 17 UUD 1945; UU No. 39 Tahun 2008; Perpres No. 140 Tahun 2024; dan Perpres No. 162 Tahun 2024.\nPerpres ini mengatur mengenai perubahan beberapa ketentuan dalam Perpres No. 162 Tahun 2024.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 15 April 2026.\nPerpres ini mengubah Perpres No. 162 Tahun 2024.\nLampiran file: 6 hlm.",
+ "citations": [
+  "PERPRES-2024-162",
+  "UU-2008-39",
+  "PERPRES-2024-140"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/413109/Perpres%20No.%2022%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:31:33Z"
+}

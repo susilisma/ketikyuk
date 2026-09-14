@@ -1,0 +1,37 @@
+{
+ "id": "UU-2006-19",
+ "source": "bpk",
+ "bpk_id": 40192,
+ "url": "https://peraturan.bpk.go.id/Details/40192/uu-no-19-tahun-2006",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "19",
+ "number_raw": "19",
+ "year": 2006,
+ "title": "Undang-undang (UU) Nomor 19 Tahun 2006 tentang Dewan Pertimbangan Presiden",
+ "about": "Dewan Pertimbangan Presiden",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "",
+ "date_enacted": "2006-12-28",
+ "date_promulgated": "2006-12-28",
+ "date_effective": "2006-12-28",
+ "gazette": "LN.2006/NO.108, TLN NO.4670, LL SETNEG : 7 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2024-64",
+   "target_bpk_id": 304920,
+   "label": "UU No. 64 Tahun 2024",
+   "about": "Perubahan atas Undang-Undang Nomor 19 Tahun 2006 tentang Dewan Pertimbangan Presiden"
+  }
+ ],
+ "abstract": "Presiden dalam menjalankan kewenangannya sebagai pemegang kekuasaan pemerintahan menurut Undang-Undang Dasar memerlukan nasihat dan pertimbangan agar kebijakan yang ditetapkan sesuai dengan prinsip-prinsip hukum, demokrasi, serta kepemerintahan yang baik dalam rangka pencapaian tujuan negara sebagaimana ditentukan dalam Pembukaan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945. Berdasarkan Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945, Presiden membentuk suatu dewan pertimbangan yang bertugas memberikan nasihat dan pertimbangan kepada Presiden yang selanjutnya diatur dalam Undang-Undang.\nDasar hukum UU ini adalah Pasal 4 ayat (1), Pasal 16, Pasal 20, dan Pasal 21 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.\nDalam UU ini diatur mengenai pembentukna, kedudukan, tugas, fungsi, susunan dan keanggotaan, mekanisme kerja, dan pembiayaan dan hak keuanggan Dewan Pertimbangan Presiden. Paling lambat 3 (tiga) bulan sejak diundangkannya Undang-\nUndang ini, Dewan Pertimbangan Presiden harus sudah terbentuk.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 28 Desember 2006.\nDengan diundangkannya Undang-Undang ini, peraturan perundang-undangan yang terkait dengan tugas dan fungsi Dewan Pertimbangan Presiden dicabut dan dinyatakan tidak berlaku.\nPenjelasan : 5 hlm.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/29827/UU%20Nomor%2019%20Tahun%202006.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:26:21Z"
+}

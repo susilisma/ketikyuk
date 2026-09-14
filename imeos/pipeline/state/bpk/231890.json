@@ -1,0 +1,58 @@
+{
+ "id": "PERMENDAG-2022-49",
+ "source": "bpk",
+ "bpk_id": 231890,
+ "url": "https://peraturan.bpk.go.id/Details/231890/permendag-no-49-tahun-2022",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "49",
+ "number_raw": "49",
+ "year": 2022,
+ "title": "Peraturan Menteri Perdagangan Nomor 49 Tahun 2022 tentang Tata Kelola Program Minyak Goreng Rakyat",
+ "about": "Tata Kelola Program Minyak Goreng Rakyat",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "",
+ "date_enacted": "2022-09-29",
+ "date_promulgated": "2022-10-03",
+ "date_effective": "2022-10-03",
+ "gazette": "BN.2022/No.1008, http://jdih.kemendag.go.id/: 15 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2024-18",
+   "target_bpk_id": 296850,
+   "label": "Permendag No. 18 Tahun 2024",
+   "about": "Minyak Goreng Sawit Kemasan Dan Tata Kelola Minyak Goreng Rakyat"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2022-41",
+   "target_bpk_id": 223848,
+   "label": "Permendag No. 41 Tahun 2022",
+   "about": "Tata Kelola Minyak Goreng Kemasan Rakyat"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2022-33",
+   "target_bpk_id": 223719,
+   "label": "Permendag No. 33 Tahun 2022",
+   "about": "Tata Kelola Program Minyak Goreng Curah Rakyat"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2022-11",
+   "target_bpk_id": 204914,
+   "label": "Permendag No. 11 Tahun 2022",
+   "about": "Penetapan Harga Eceran Tertinggi Minyak Goreng Curah"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 03 Oktober 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/270017/Permendag%20Nomor%2049%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:37:52Z"
+}

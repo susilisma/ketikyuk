@@ -1,0 +1,45 @@
+{
+ "id": "PMK-2024-104",
+ "source": "bpk",
+ "bpk_id": 311481,
+ "url": "https://peraturan.bpk.go.id/Details/311481/pmk-no-104-tahun-2024",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "104",
+ "number_raw": "104",
+ "year": 2024,
+ "title": "Peraturan Menteri Keuangan Nomor 104 Tahun 2024 tentang Pedoman Penyelenggaraan Pembukuan di Bidang Kepabeanan dan Cukai",
+ "about": "Pedoman Penyelenggaraan Pembukuan di Bidang Kepabeanan dan Cukai",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN - STANDAR / PEDOMAN",
+ "field": "HUKUM DAGANG",
+ "date_enacted": "2024-12-13",
+ "date_promulgated": "2024-12-19",
+ "date_effective": "2024-12-19",
+ "gazette": "BN.2024 (972)/17 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PMK-2016-197",
+   "target_bpk_id": 146026,
+   "label": "PMK No. 197/PMK.04/2016",
+   "about": "Pedoman Penyelenggaraan Pembukuan di Bidang Kepabeanan dan Cukai"
+  }
+ ],
+ "abstract": "a. bahwa ketentuan mengenai pedoman penyelenggaraan pembukuan di bidang kepabeanan dan cukai telah diatur dalam Peraturan Menteri Keuangan Nomor\n197/PMK.04/2016 tentang Pedoman Penyelenggaraan\nPembukuan di Bidang Kepabeanan dan Cukai;\nb. bahwa untuk menyesuaikan dengan perkembangan sistem elektronik serta mengakomodasi kebutuhan pengumpulan\ndata dan informasi keuangan terhadap pihak yang melakukan kegiatan di bidang kepabeanan dan cukai, perlu melakukan penyempurnaan terhadap prosedur permintaan dan tata cara pembukuan di bidang kepabeanan dan cukai;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, serta untuk\nmelaksanakan ketentuan Pasal 51 ayat (4) Undang- Undang Nomor 17 Tahun 2006 tentang Perubahan atas Undang-Undang Nomor 10 Tahun 1995 tentang Kepabeanan dan Pasal 16A ayat (4) Undang-Undang Nomor 39 Tahun 2007 tentang Perubahan atas Undang- Undang Nomor 11 Tahun 1995 tentang Cukai, perlu menetapkan Peraturan Menteri Keuangan tentang Pedoman Penyelenggaraan Pembukuan di Bidang Kepabeanan dan Cukai;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 10 Tahun 1995, Undang-Undang Nomor 11 Tahun 1995, Undang-Undang Nomor 39 Tahun 2008, Peraturan Presiden Nomor 158 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 118/PMK.01/2021\nPeraturan ini mengatur tentang ketentuan umum, pembukuan, pencatatan, tata cara menyelenggarakan pembukuan, permintaan laporan keuangan, ketentuan lain-lain dan ketentuan penutup",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 19 Desember 2024.\nPeraturan Menteri Keuangan Nomor 197/PMK.04/2016 tentang Pedoman\nPenyelenggaraan Pembukuan di Bidang Kepabeanan dan Cukai dicabut dan dinyatakan tidak berlaku",
+ "citations": [
+  "PMK-2016-197",
+  "UU-1995-10",
+  "UU-2007-39",
+  "UU-1995-11",
+  "UU-2008-39",
+  "PERPRES-2024-158",
+  "PMK-2021-118"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/372217/104%20th%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:34:14Z"
+}

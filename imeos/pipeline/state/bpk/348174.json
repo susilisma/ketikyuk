@@ -1,0 +1,47 @@
+{
+ "id": "PERMENPERIN-2026-2",
+ "source": "bpk",
+ "bpk_id": 348174,
+ "url": "https://peraturan.bpk.go.id/Details/348174/permenperin-no-2-tahun-2026",
+ "form": "PERMENPERIN",
+ "form_long": "Peraturan Menteri Perindustrian",
+ "number": "2",
+ "number_raw": "2",
+ "year": 2026,
+ "title": "Peraturan Menteri Perindustrian Nomor 2 Tahun 2026 tentang Tata Cara Penyusunan dan Pemberian Persetujuan Rencana Pengelolaan Lingkungan Hidup dan Rencana Pemantauan Lingkungan Hidup Rinci Bagi Rencana Usaha dan/atau Kegiatan yang Akan Beralokasi di Kawasan Industri",
+ "about": "Tata Cara Penyusunan dan Pemberian Persetujuan Rencana Pengelolaan Lingkungan Hidup dan Rencana Pemantauan Lingkungan Hidup Rinci Bagi Rencana Usaha dan/atau Kegiatan yang Akan Beralokasi di Kawasan Industri",
+ "issuer": "Kementerian Perindustrian",
+ "subject": "PROGRAM, RENCANA PEMBANGUNAN DAN RENCANA KERJA - PERINDUSTRIAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-02-06",
+ "date_promulgated": "2026-03-04",
+ "date_effective": "2026-03-04",
+ "gazette": "BN.2026 (149)/78 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENPERIN-2020-1",
+   "target_bpk_id": 166928,
+   "label": "Permenperin No. 1 Tahun 2020",
+   "about": "Penyusunan Rencana Pengelolaan Lingkungan Hidup dan Rencana Pemantauan Lingkungan Hidup Rinci Bagi Perusahaan Industri yang Berada atau akan Berlokasi di Kawasan Industri"
+  }
+ ],
+ "abstract": "a. bahwa untuk mendukung pelaksanaan pelayanan\nperizinan berusaha terintegrasi secara elektronik dan\nmemberikan kemudahan bagi pelaku usaha yang akan\nberlokasi di dalam kawasan industri dalam\nmemperoleh persetujuan rencana pengelolaan\nlingkungan hidup dan rencana pemantauan\nlingkungan hidup, perlu mengatur kembali tata cara\npenyusunan dan pemberian persetujuan rencana\npengelolaan lingkungan hidup dan rencana\npemantauan lingkungan hidup rinci bagi rencana\nusaha dan/atau kegiatan yang akan berlokasi di\nkawasan industri;\nb. bahwa Peraturan Menteri Perindustrian Nomor 1\nTahun 2020 tentang Penyusunan Rencana\nPengelolaan Lingkungan Hidup dan Rencana\nPemantauan Lingkungan Hidup Rinci bagi Perusahaan\nIndustri yang Berada atau akan Berlokasi di Kawasan\nIndustri sudah tidak sesuai dengan perkembangan\nhukum, sehingga perlu diganti;\nc. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a dan huruf b, serta ketentuan\nPasal 11 ayat (2) Peraturan Pemerintah Nomor 22\nTahun 2021 tentang Penyelenggaraan Perlindungan\ndan Pengelolaan Lingkungan Hidup dan Pasal 63 ayat\n(1) dan ayat (4) Peraturan Pemerintah Nomor 20 Tahun\n2024 tentang Perwilayahan Industri, perlu\nmenetapkan Peraturan Menteri Perindustrian tentang\nTata Cara Penyusunan dan Pemberian Persetujuan\nRencana Pengelolaan Lingkungan Hidup dan Rencana\nPemantauan Lingkungan Hidup Rinci bagi Rencana\nUsaha dan/atau Kegiatan yang akan Berlokasi di\nKawasan Industri;\nPasal 17 ayat (3) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 32 Tahun 2009, Undang-Undang Nomor 3 Tahun 2014, Peraturan Pemerintah Nomor 22 Tahun 2021, Peraturan Pemerintah Nomor 20 Tahun 2024, Peraturan Pemerintah Nomor 28 Tahun 2025,Peraturan Presiden Nomor 167 Tahun 2024 dan Peraturan Menteri Perindustrian Nomor 1 Tahun\n2025\nPeraturan ini mengatur tentang ketentuan umum, penyusunan dan permohinan persetujuan RKL-RPL rinci, pemeriksaan dan persetujuan RKL-RPL rinci, perubahan persetujuan PKPLH PU, reviu dokumen lingkungan pelaku usaha di dalam kawasan industri, pembiayaan, pelaporan dan pemantauan, pembinaan dan pengawasan, ketentuan peralihan dan ketentuan penutup.",
+ "note": "Peraturan Menteri Perindustrian ini mulai berlaku pada tanggal 04 Maret 2026.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan\nMenteri Perindustrian Nomor 1 Tahun 2020 tentang\nPenyusunan Rencana Pengelolaan Lingkungan Hidup dan\nRencana Pemantauan Lingkungan Hidup Rinci bagi\nPerusahaan Industri yang Berada atau akan Berlokasi di\nKawasan Industri",
+ "citations": [
+  "PERMENPERIN-2020-1",
+  "PP-2021-22",
+  "PP-2024-20",
+  "UU-2008-39",
+  "UU-2009-32",
+  "UU-2014-3",
+  "PP-2025-28",
+  "PERPRES-2024-167",
+  "PERMENPERIN-2025-1"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/411749/permenperin-no-2-tahun-2026.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:38:15Z"
+}

@@ -1,0 +1,41 @@
+{
+ "id": "PERPRES-2024-165",
+ "source": "bpk",
+ "bpk_id": 306735,
+ "url": "https://peraturan.bpk.go.id/Details/306735/perpres-no-165-tahun-2024",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "165",
+ "number_raw": "165",
+ "year": 2024,
+ "title": "Peraturan Presiden (Perpres) Nomor 165 Tahun 2024 tentang Kementerian Pelindungan Pekerja Migran Indonesia",
+ "about": "Kementerian Pelindungan Pekerja Migran Indonesia",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KETATANEGARAAN, KENEGARAAN - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "HUKUM TATA NEGARA",
+ "date_enacted": "2024-11-05",
+ "date_promulgated": "2024-11-05",
+ "date_effective": "2024-11-05",
+ "gazette": "LN 2024 (361) : 15 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2019-90",
+   "target_bpk_id": 129193,
+   "label": "PERPRES No. 90 Tahun 2019",
+   "about": "Badan Pelindungan Pekerja Migran Indonesia"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 11 Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara sebagaimana telah diubah dengan Undang-Undang Nomor 61 Tahun 2024 tentang Perubahan atas Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara, perlu Peraturan Presiden tentang Kementerian Pelindungan Pekerja Migran Indonesia.\nDasar Hukum Perpres ini adalah Pasal 4 ayat (1) dan Pasal 17 UUD NRI Tahun 1945; UU Nomor 39 Tahun 2008; dan Perpres Nomor 140 Tahun 2024.\nPerpres ini mengatur mengenai Kementerian Pelindungan Pekerja Migran Indonesia (PMI) yang menyelenggarakan suburusan pemerintahan pelindungan Pekerja Migran Indonesia yang merupakan lingkup dari urusan pemerintahan di bidang ketenagakerjaan. Kementerian ini dipimpin oleh Menteri berada di bawah dan bertanggung jawab kepada Presiden. Dalam memimpin Kementerian, Menteri dapat dibantu oleh wakil menteri sesuai dengan penunjukan Presiden, Wakil menteri berada di bawah dan bertanggung jawab kepada Menteri. Kementerian mempunyai tugas menyelenggarakan suburusan pemerintahan pelindungan PMI yang merupakan lingkup dari urusan pemerintahan di bidang ketenagakerjaan untuk membantu Presiden dalam menyelenggarakan pemerintahan negara. Dalam melaksanakan tugas Kementerian menyelenggarakan fungsi antaran lain sebagai berikut; 1. perumusan dan penetapan kebijakan di bidang promosi dan pemanfaatan peluang kerja luar negeri, penempatan PMI, pelindungan PMI, dan pemberdayaan PMI; 2. pelaksanaan kebijakan di bidang promosi dan pemanfaatan peluang kerja luar negeri, penempatan PMI, pelindungan PMI, dan pemberdayaan PMI; dan 3. pelaksanaan bimbingan teknis dan supervisi atas pelaksanaan suburusan Kementerian di daerah.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 05 November 2024.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 90 Tahun 2019 tentang Badan Pelindungan Pekerja Migran Indonesia (Lembaran Negara Republik Indonesia Tahun 2019 Nomor 263), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 15 hlm",
+ "citations": [
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2024-140"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/367019/Perpres%20Nomor%20165%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:27:59Z"
+}

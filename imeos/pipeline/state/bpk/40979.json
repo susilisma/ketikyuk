@@ -1,0 +1,37 @@
+{
+ "id": "PERPRES-2016-75",
+ "source": "bpk",
+ "bpk_id": 40979,
+ "url": "https://peraturan.bpk.go.id/Details/40979/perpres-no-75-tahun-2016",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "75",
+ "number_raw": "75",
+ "year": 2016,
+ "title": "Peraturan Presiden (Perpres) Nomor 75 Tahun 2016 tentang Institut Agama Islam Negeri Ponorogo",
+ "about": "Institut Agama Islam Negeri Ponorogo",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PENDIDIKAN",
+ "field": "",
+ "date_enacted": "2016-08-01",
+ "date_promulgated": "2016-08-03",
+ "date_effective": "2016-08-03",
+ "gazette": "LN 2016/No. 163, LL Setneg : 4 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2025-55",
+   "target_bpk_id": 320240,
+   "label": "Perpres No. 55 Tahun 2025",
+   "about": "Universitas Islam Negeri Kiai Ageng Muhammad Besari Ponorogo"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 03 Agustus 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/33175/Perpres%20Nomor%2075%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:25:56Z"
+}

@@ -1,0 +1,46 @@
+{
+ "id": "PERPRES-2025-109",
+ "source": "bpk",
+ "bpk_id": 334718,
+ "url": "https://peraturan.bpk.go.id/Details/334718/perpres-no-109-tahun-2025",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "109",
+ "number_raw": "109",
+ "year": 2025,
+ "title": "Peraturan Presiden (Perpres) Nomor 109 Tahun 2025 tentang Penanganan Sampah Perkotaan Melalui Pengolahan Sampah Menjadi Energi Terbarukan Berbasis Teknologi Ramah Lingkungan",
+ "about": "Penanganan Sampah Perkotaan Melalui Pengolahan Sampah Menjadi Energi Terbarukan Berbasis Teknologi Ramah Lingkungan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "LINGKUNGAN HIDUP - PERTAMBANGAN MIGAS, MINERAL DAN ENERGI",
+ "field": "HUKUM LINGKUNGAN",
+ "date_enacted": "2025-10-10",
+ "date_promulgated": "2025-10-10",
+ "date_effective": "2025-10-10",
+ "gazette": "LN 2025 (171) : 22 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2018-35",
+   "target_bpk_id": 73958,
+   "label": "PERPRES No. 35 Tahun 2018",
+   "about": "Percepatan Pembangunan Instalasi Pengolah Sampah Menjadi Energi Listrik Berbasis Teknologi Ramah Lingkungan"
+  }
+ ],
+ "abstract": "Kedaruratan sampah perlu ditangani secara cepat khususnya pengolahan sampah dengan penggunaan teknologi ramah lingkungan.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD 1945; UU No. 30 Tahun 2007; UU No. 18 Tahun 2008; UU No. 30 Tahun 2009; UU No. 32 Tahun 2009; UU No. 23 Tahun 2014; PP No. 14 Tahun 2012; PP No. 81 Tahun 2012; dan PP No. 28 Tahun 2025.\nPerpres ini mengatur mengenai Penanganan Sampah Perkotaan Melalui Pengolahan Sampah Menjadi Energi Terbarukan Berbasis Teknologi Ramah Lingkungan. Pengolahan Sampah menjadi Energi Terbarukan Berbasis Teknologi Ramah Lingkungan (PSE) adalah pengolahan Sampah dengan mesin dan/atau peralatan yang mampu mengolah Sampah menjadi listrik, bioenergi, bahan bakar minyak terbarukan, produk ikutan lainnya, serta mengurangi volume Sampah.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 10 Oktober 2025.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 35 Tahun 2018 tentang Percepatan Pembangunan Instalasi Pengolah Sampah Menjadi Energi Listrik Berbasis Teknologi Ramah Lingkungan (Lembaran Negara Republik Indonesia Tahun 2018 Nomor 6l), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 22 hlm.",
+ "citations": [
+  "UU-2007-30",
+  "UU-2008-18",
+  "UU-2009-30",
+  "UU-2009-32",
+  "UU-2014-23",
+  "PP-2012-14",
+  "PP-2012-81",
+  "PP-2025-28"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/397285/Perpres%20Nomor%20109%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:25Z"
+}

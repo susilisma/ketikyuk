@@ -1,0 +1,58 @@
+{
+ "id": "PP-2010-39",
+ "source": "bpk",
+ "bpk_id": 5052,
+ "url": "https://peraturan.bpk.go.id/Details/5052/pp-no-39-tahun-2010",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "39",
+ "number_raw": "39",
+ "year": 2010,
+ "title": "Peraturan Pemerintah (PP) Nomor 39 Tahun 2010 tentang Administrasi Prajurit Tentara Nasional Indonesia",
+ "about": "Administrasi Prajurit Tentara Nasional Indonesia",
+ "issuer": "Pemerintah Pusat",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA",
+ "field": "",
+ "date_enacted": "2010-03-01",
+ "date_promulgated": "2010-03-12",
+ "date_effective": "2010-03-12",
+ "gazette": "LN. 2010 No. 50, TLN No. 5120, LL SETNEG : 50 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2026-10",
+   "target_bpk_id": 349360,
+   "label": "PP No. 10 Tahun 2026",
+   "about": "Perubahan Kedua atas Peraturan Pemerintah Nomor 39 Tahun 2010 tentang Administrasi Prajurit Tentara Nasional Indonesia"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2025-35",
+   "target_bpk_id": 327999,
+   "label": "PP No. 35 Tahun 2025",
+   "about": "Perubahan atas Peraturan Pemerintah Nomor 39 Tahun 2010 tentang Administrasi Prajurit Tentara Nasional Indonesia"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-1997-32",
+   "target_bpk_id": 56293,
+   "label": "PP No. 32 Tahun 1997",
+   "about": "Perubahan Peraturan Pemerintah Nomor 6 Tahun 1990 Tentang Administrasi Prajurit Angkatan Bersenjata Republik Indonesia"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-1990-6",
+   "target_bpk_id": 58537,
+   "label": "PP No. 6 Tahun 1990",
+   "about": "Administrasi Prajurit Angkatan Bersenjata Republik Indonesia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 12 Maret 2010.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/35938/PP%2039%20Tahun%202010.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:28:22Z"
+}

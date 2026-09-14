@@ -1,0 +1,45 @@
+{
+ "id": "PMK-2026-47",
+ "source": "bpk",
+ "bpk_id": 352097,
+ "url": "https://peraturan.bpk.go.id/Details/352097/pmk-no-47-tahun-2026",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "47",
+ "number_raw": "47",
+ "year": 2026,
+ "title": "Peraturan Menteri Keuangan Nomor 47 Tahun 2026 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 64 Tahun 2024 tentang Tata Cara Pembentukan dan Pengelolaan Dana Abadi Daerah",
+ "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 64 Tahun 2024 tentang Tata Cara Pembentukan dan Pengelolaan Dana Abadi Daerah",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PENGELOLAAN KEUANGAN NEGARA / DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-07-06",
+ "date_promulgated": "2026-07-14",
+ "date_effective": "2026-07-14",
+ "gazette": "BN.2026 (163)/86 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PMK-2024-64",
+   "target_bpk_id": 305646,
+   "label": "PMK No. 64 Tahun 2024",
+   "about": "Tata Cara Pembentukan dan Pegelolaan Dana Abadi Daerah"
+  }
+ ],
+ "abstract": "a. bahwa dengan diterbitkannya Undang-Undang Nomor 17\nTahun 2025 tentang Anggaran Pendapatan dan Belanja\nNegara Tahun Anggaran 2026 dan untuk memberikan\nkepastian pengaturan pembentukan dana abadi daerah\nserta pengalokasian dana abadi daerah dalam anggaran\npendapatan belanja daerah atau perubahannya, perlu\ndilakukan penyesuaian pengaturan tata cara\npembentukan dan pengelolaan dana abadi daerah;\nb. bahwa Peraturan Menteri Keuangan Nomor 64 Tahun\n2024 tentang Tata Cara Pembentukan dan Pengelolaan\nDana Abadi Daerah belum mengatur mengenai\npembentukan dana abadi daerah khususnya pada\nDaerah Istimewa Yogyakarta dan penyesuaian\npengalokasian dana abadi daerah dalam anggaran\npendapatan belanja daerah atau perubahannya, sehingga\nperlu dilakukan perubahan;\nc. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a dan huruf b, perlu menetapkan\nPeraturan Menteri Keuangan tentang Perubahan atas\nPeraturan Menteri Keuangan Nomor 64 Tahun 2024\ntentang Tata Cara Pembentukan dan Pengelolaan Dana\nAbadi Daerah;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 1 Tahun 2022, Undang-Undang Nomor 17 Tahun 2025, Peraturan Pemerintah Nomor 1 Tahun 2024, Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Menteri Keuangan Nomor 64 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri Keuangan\nNomor 64 Tahun 2024 tentang Tata Cara Pembentukan dan Pengelolaan Dana Abadi Daerah yaitu tentang kriteria pembentukan DAD, tahap penetapan dan penarikan pokok DAD.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 14 Juli 2026.\nPeraturan Menteri Keuangan Nomor 64 Tahun 2024 tentang Tata Cara Pembentukan dan Pengelolaan Dana Abadi Daerah diubah sebagian.",
+ "citations": [
+  "UU-2025-17",
+  "PMK-2024-64",
+  "UU-2008-39",
+  "UU-2022-1",
+  "PP-2024-1",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/415904/2026pmkeuangan047.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:30:31Z"
+}

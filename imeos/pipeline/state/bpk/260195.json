@@ -1,0 +1,77 @@
+{
+ "id": "PERMENDAG-2023-23",
+ "source": "bpk",
+ "bpk_id": 260195,
+ "url": "https://peraturan.bpk.go.id/Details/260195/permendag-no-23-tahun-2023",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "23",
+ "number_raw": "23",
+ "year": 2023,
+ "title": "Peraturan Menteri Perdagangan Nomor 23 Tahun 2023 tentang Kebijakan dan Pengaturan Ekspor",
+ "about": "Kebijakan dan Pengaturan Ekspor",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN - KEBIJAKAN PEMERINTAH",
+ "field": "",
+ "date_enacted": "2023-07-10",
+ "date_promulgated": "2023-07-10",
+ "date_effective": "2023-07-10",
+ "gazette": "BN.2023 (527)/826 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENDAG-2026-5",
+   "target_bpk_id": 347106,
+   "label": "Permendag No. 5 Tahun 2026",
+   "about": "Perubahan Keempat atas Peraturan Menteri Perdagangan Nomor 23 Tahun 2023 Tentang Kebijakan dan Pengaturan Ekspor"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENDAG-2026-12",
+   "target_bpk_id": 351304,
+   "label": "Permendag No. 12 Tahun 2026",
+   "about": "Perubahan Kelima atas Peraturan Menteri Perdagangan Nomor 23 Tahun 2023 tentang Kebijakan dan Pengaturan Ekspor"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENDAG-2025-9",
+   "target_bpk_id": 320874,
+   "label": "Permendag No. 9 Tahun 2025",
+   "about": "Perubahan Ketiga atas Peraturan Menteri Perdagangan Nomor 23 Tahun 2023\r\ntentang Kebijakan dan Pengaturan Ekspor"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENDAG-2024-21",
+   "target_bpk_id": 301113,
+   "label": "Permendag No. 21 Tahun 2024",
+   "about": "Perubahan Kedua atas Peraturan Menteri Perdagangan Nomor 23 Tahun 2023 tentang Kebijakan dan Pengaturan Ekspor"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENDAG-2024-11",
+   "target_bpk_id": 287391,
+   "label": "Permendag No. 11 Tahun 2024",
+   "about": "Perubahan Atas Peraturan Menteri Perdagangan Nomor 23 Tahun 2023 Tentang Kebijakan Dan Pengaturan Ekspor"
+  }
+ ],
+ "abstract": "bahwa untuk melaksanakan ketentuan Pasal 3 ayat (3), Pasal\n4 ayat (3), Pasal 5 ayat (8), Pasal 7 ayat (6) dan Pasal 12 ayat (3) Peraturan Pemerintah Nomor 29 Tahun 2021 tentang\nPenyelenggaraan Bidang Perdagangan, perlu menetapkan Peraturan Menteri Perdagangan tentang Kebijakan dan Pengaturan Ekspor;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 7 Tahun 1994, Undang-Undang Nomor 10 Tahun 1995, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 7 Tahun 2014, Peraturan Pemerintah Nomor 83 Tahun 2010, Peraturan Pemerintah Nomor 29 Tahun 2021, Peraturan Pemerintah Nomor 40 Tahun 2021, Peraturan Pemerintah Nomor 41 Tahun 2021, Peraturan Presiden Nomor 11 Tahun 2022, Peraturan Menteri Perdagangan Nomor 29 Tahun 2022 dan Peraturan Menteri Energi dan Sumber Daya Mineral Nomor 7 Tahun 2023\nPeraturan Menteri ini mengatur tentang ketentuan umum, persyaratan ekspor, konfirmasi status wajib pajak, perizinan berusaha, kewajiban pemenuhan dokumen lain, verifikasi atau penelusuran teknis, pengeluaran barang dari kawasan perdagangan bebas dan pelabuhan bebas, kawasan ekonomi khusus dan tempat penimbunan berikat serta ekspor barang atau ekspor hasil produksi, yang bahan bakunya mendapatkan fasilitas kemudahan impor tujuan ekspor pembebasan, pengecualian perizinan berusaha,diagram alir, keajiban eksportir, sanksi, gangguan terhadap sistem inatrade dan/atau sistem indonesia national single window, pengawasan, ketentuan lain-lain, ketentuan peralihan dan ketentuan penutup",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 10 Juli 2023.",
+ "citations": [
+  "PP-2021-29",
+  "UU-1994-7",
+  "UU-1995-10",
+  "UU-2008-39",
+  "UU-2014-7",
+  "PP-2010-83",
+  "PP-2021-40",
+  "PP-2021-41",
+  "PERPRES-2022-11",
+  "PERMENDAG-2022-29",
+  "PERATURANMENTERI-2023-7"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/317197/no-23-tahun-2023.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:35:59Z"
+}

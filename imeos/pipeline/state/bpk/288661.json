@@ -1,0 +1,51 @@
+{
+ "id": "PERMENKUMHAM-2024-14",
+ "source": "bpk",
+ "bpk_id": 288661,
+ "url": "https://peraturan.bpk.go.id/Details/288661/permenkumham-no-14-tahun-2024",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "14",
+ "number_raw": "14",
+ "year": 2024,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 14 Tahun 2024 tentang Tata Naskah Dinas Kementerian Hukum dan Hak Asasi Manusia",
+ "about": "Tata Naskah Dinas Kementerian Hukum dan Hak Asasi Manusia",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "PEDOMAN PENULISAN / TATA NASKAH DINAS",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-05-28",
+ "date_promulgated": "2024-06-06",
+ "date_effective": "2024-06-06",
+ "gazette": "BN 2024 (301): 37 hlm.; peraturan.go.id",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 314768,
+   "label": "Permenkum No. 3 Tahun 2025",
+   "about": "Tata Naskah Dinas Kementerian Hukum"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 174149,
+   "label": "Permenkumham No. 31 Tahun 2020",
+   "about": "Tata Naskah Dinas Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "Untuk mewujudkan administrasi kedinasan yang tertib, autentik, terpercaya, serta memiliki kepastian, dan dapat dipertanggungjawabkan, sehingga terwujudnya tata kelola kearsipan yang lebih baik serta adanya perubahan organisasi dan tata kerja Kementerian Hukum dan Hak Asasi Manusia yang berdampak pada kebutuhan di bidang kearsipan, perlu mengganti Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 31 Tahun 2020 tentang Tata Naskah Dinas Kementerian Hukum dan Hak Asasi Manusia.\nDasar hukum Permenkumham ini adalah Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 39 Tahun 2008; UU Nomor 43 Tahun 2009; PP Nomor 28 Tahun 2012; Perpres Nomor 95 Tahun 2018; Perpres Nomor 18 Tahun 2023; Perka ANRI Nomor 5 Tahun 2021; dan Permenkumham Nomor 28 Tahun 2023.\nPermenkumham ini mengatur mengenai Tata Naskah Dinas Kementerian Hukum dan Hak Asasi Manusia dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Tata Naskah Dinas merupakan acuan dalam pengelolaan Naskah Dinas di lingkungan Kementerian. Ruang lingkup tata Naskah Dinas meliputi: a) jenis, susunan, dan bentuk Naskah Dinas; b) pembuatan Naskah Dinas; c) pengamanan Naskah Dinas; d) pejabat penandatanganan Naskah Dinas; dan e) pengendalian Naskah Dinas.",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 06 Juni 2024.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 31 Tahun 2020 tentang Tata Naskah Dinas Kementerian Hukum dan Hak Asasi Manusia (Berita Negara Republik Indonesia Tahun 2020 Nomor 1579), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 200 hlm. (batang tubuh hlm 1 sd 37; lampiran hlm 38 sd 200)",
+ "citations": [
+  "PERMENKUMHAM-2020-31",
+  "UU-2008-39",
+  "UU-2009-43",
+  "PP-2012-28",
+  "PERPRES-2018-95",
+  "PERPRES-2023-18"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/347909/Permenkumham%20Nomor%2014%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:42:43Z"
+}

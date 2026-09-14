@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2021-49",
+ "source": "bpk",
+ "bpk_id": 168534,
+ "url": "https://peraturan.bpk.go.id/Details/168534/perpres-no-49-tahun-2021",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "49",
+ "number_raw": "49",
+ "year": 2021,
+ "title": "Peraturan Presiden (Perpres) Nomor 49 Tahun 2021 tentang Perubahan atas Peraturan Presiden Nomor 10 Tahun 2021 Tentang Bidang Usaha Penanaman Modal",
+ "about": "Perubahan atas Peraturan Presiden Nomor 10 Tahun 2021 Tentang Bidang Usaha Penanaman Modal",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PENANAMAN MODAL DAN INVESTASI - CIPTA KERJA",
+ "field": "",
+ "date_enacted": "2021-05-24",
+ "date_promulgated": "2021-05-25",
+ "date_effective": "2021-05-25",
+ "gazette": "LN.2021/No.128, jdih.setkab.go.id : 6 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2021-10",
+   "target_bpk_id": 161806,
+   "label": "PERPRES No. 10 Tahun 2021",
+   "about": "Bidang Usaha Penanaman Modal"
+  }
+ ],
+ "abstract": "Dalam rangka pembatasan pelaksanaan Penanaman Modal serta pengendalian dan pengawasan minuman yang mengandung alkohol, perlu dilakukan perubahan Perpres Nomor 10 Tahun 2021 tentang Bidang Usaha Penanaman Modal\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 25 Tahun 2007; UU Nomor 11 Tahun 2020; dan Perpres Nomor 10 Tahun 2021.\nPerpres ini mengatur mengenai perubahan Pasal 2, Pasal 6, dan Lampiran Perpres Nomor 10 Tahun 2021. Pasal 2 Perpres ini mengatur bahwa semua bidang usaha terbuka (bidang usaha yang bersifat komersial) bagi kegiatan penanaman modal, kecuali bidang usaha: 1) yang dinyatakan tertutup untuk penanaman modal atau 2) untuk kegiatan yang hanya dapat dilakukan oleh pemerintah pusat. Bidang usaha yang dinyatakan tertutup untuk penanaman modal adalah : 1) Bidang Usaha yang tidak dapat diusahakan sebagaimana Bidang Usaha yang tercantum dalam Pasal 12 UU Nomor 25 Tahun 2007 tentang Penanaman Modal sebagaimana telah diubah dengan UU Nomor 11 Tahun 2020 tentang Cipta Kerja; dan 2) Industri Minuman Keras Mengandung Alkohol (KBLI 11010), Industri Minuman Mengandung Alkohol: Anggur (KBLI 11020), dan Industri Minuman Mengandung Malt (KBLI 11031).",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 25 Mei 2021.\nPerpres ini mengubah Perpres Nomor 10 Tahun 2021.\nLampiran : 3 Lamp.",
+ "citations": [
+  "PERPRES-2021-10",
+  "UU-2007-25",
+  "UU-2020-11"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/161562/Perpres%20Nomor%2049%20Tahun%202021.pdf",
+  "https://peraturan.bpk.go.id/Download/161563/Perpres%20Nomor%2049%20Tahun%202021%20-%20Lampiran%20I.pdf",
+  "https://peraturan.bpk.go.id/Download/161564/Perpres%20Nomor%2049%20Tahun%202021%20-%20Lampiran%20II.pdf",
+  "https://peraturan.bpk.go.id/Download/161565/Perpres%20Nomor%2049%20Tahun%202021%20-%20Lampiran%20III.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:31:29Z"
+}

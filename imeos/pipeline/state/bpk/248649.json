@@ -1,0 +1,65 @@
+{
+ "id": "PMK-2023-48",
+ "source": "bpk",
+ "bpk_id": 248649,
+ "url": "https://peraturan.bpk.go.id/Details/248649/pmk-no-48-tahun-2023",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "48",
+ "number_raw": "48",
+ "year": 2023,
+ "title": "Peraturan Menteri Keuangan Nomor 48 Tahun 2023 tentang Pajak Penghasilan dan/atau Pajak Pertambahan Nilai atas Penjualan/Penyerahan Emas Perhiasan, Emas Batangan, Perhiasan yang Bahan Seluruhnya Bukan dari Emas, Batu Permata dan/atau Batu Lainnya yang Sejenis, serta Jasa yang terkait dengan Emas Perhiasan, Emas Batangan, Perhiasan yang Bahan Seluruhnya Bukan dari Emas, dan/atau Batu Permata dan/atau Batu Lainnya yang Sejenis, yang Dilakukan oleh Pabrikan Emas Perhiasan, Pedagang Emas Perhiasan, dan/atau Pengusaha Emas Batangan",
+ "about": "Pajak Penghasilan dan/atau Pajak Pertambahan Nilai atas Penjualan/Penyerahan Emas Perhiasan, Emas Batangan, Perhiasan yang Bahan Seluruhnya Bukan dari Emas, Batu Permata dan/atau Batu Lainnya yang Sejenis, serta Jasa yang terkait dengan Emas Perhiasan, Emas Batangan, Perhiasan yang Bahan Seluruhnya Bukan dari Emas, dan/atau Batu Permata dan/atau Batu Lainnya yang Sejenis, yang Dilakukan oleh Pabrikan Emas Perhiasan, Pedagang Emas Perhiasan, dan/atau Pengusaha Emas Batangan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "",
+ "date_enacted": "2023-04-28",
+ "date_promulgated": "2023-04-28",
+ "date_effective": "2023-05-01",
+ "gazette": "BN.2023/No.358, jdih.kemenkeu.go.id: 22 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2025-52",
+   "target_bpk_id": 326316,
+   "label": "PMK No. 52 Tahun 2025",
+   "about": "Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 48 Tahun 2023 tentang Pajak Penghasilan dan/atau Pajak Pertambahan Nilai atas Penjualan/Penyerahan Emas Perhiasan, Emas Batangan, Perhiasan yang Bahan Seluruhnya Bukan dari Emas, Batu Permata dan/atau Batu Lainnya yang Sejenis, serta Jasa yang terkait dengan Emas Perhiasan, Emas Batangan, Perhiasan yang Bahan Seluruhnya Bukan dari Emas, dan/atau Batu Permata dan/atau Batu Lainnya yang Sejenis, yang Dilakukan oleh Pabrikan Emas Perhiasan, Pedagang Emas Perhiasan, dan/atau Pengusaha Emas Batangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2014-30",
+   "target_bpk_id": 147935,
+   "label": "PMK No. 30/PMK.03/2014",
+   "about": "Pajak Pertambahan Nilai atas Penyerahan Emas Perhiasan"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "PMK-2022-41",
+   "target_bpk_id": 215271,
+   "label": "PMK No. 41/PMK.010/2022",
+   "about": "Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 34/PMK.010/2017 tentang Pemungutan Pajak Penghasilan Pasal 22 Sehubungan Dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "PMK-2018-110",
+   "target_bpk_id": 113204,
+   "label": "PMK No. 110/PMK.010/2018",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 34/PMK.010/2017 tentang Pemungutan Pajak Penghasilan Pasal 22 Sehubungan dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "PMK-2017-34",
+   "target_bpk_id": 112623,
+   "label": "PMK No. 34/PMK.010/2017",
+   "about": "Pemungutan Pajak Penghasilan Pasal 22 Sehubungan Dengan Pembayaran Atas Penyerahan Barang Dan Kegiatan Di Bidang Impor Atau Kegiatan Usaha Di Bidang Lain"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 01 Mei 2023.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/304998/2023pmkeuangan048.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:33:23Z"
+}

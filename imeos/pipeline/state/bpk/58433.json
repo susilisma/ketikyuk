@@ -1,0 +1,44 @@
+{
+ "id": "KEPPRES-1999-75",
+ "source": "bpk",
+ "bpk_id": 58433,
+ "url": "https://peraturan.bpk.go.id/Details/58433/keppres-no-75-tahun-1999",
+ "form": "KEPPRES",
+ "form_long": "Keputusan Presiden (Keppres)",
+ "number": "75",
+ "number_raw": "75",
+ "year": 1999,
+ "title": "Keputusan Presiden (Keppres) Nomor 75 Tahun 1999 tentang Komisi Pengawas Persaingan Usaha",
+ "about": "Komisi Pengawas Persaingan Usaha",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "",
+ "date_enacted": "1999-07-08",
+ "date_promulgated": null,
+ "date_effective": "1999-07-08",
+ "gazette": "",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-100",
+   "target_bpk_id": 298849,
+   "label": "Perpres No. 100 Tahun 2024",
+   "about": "Komisi Pengawas Persaingan Usaha"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2008-80",
+   "target_bpk_id": 42257,
+   "label": "PERPRES No. 80 Tahun 2008",
+   "about": "Perubahan Atas Keputusan Presiden Nomor 75 Tahun 1999 Tentang Komisi Pengawas Persaingan Usaha"
+  }
+ ],
+ "abstract": "",
+ "note": "Keputusan Presiden (KEPPRES) ini mulai berlaku pada tanggal 08 Juli 1999.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/47927/Keppres_No_75_Th_1999.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:29:57Z"
+}

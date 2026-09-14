@@ -1,0 +1,56 @@
+{
+ "id": "UU-2026-5",
+ "source": "bpk",
+ "bpk_id": 350096,
+ "url": "https://peraturan.bpk.go.id/Details/350096/uu-no-5-tahun-2026",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "5",
+ "number_raw": "5",
+ "year": 2026,
+ "title": "Undang-undang (UU) Nomor 5 Tahun 2026 tentang Perubahan Ketiga atas Undang-Undang Nomor 2 Tahun 2002 tentang Kepolisian Negara Republik Indonesia",
+ "about": "Perubahan Ketiga atas Undang-Undang Nomor 2 Tahun 2002 tentang Kepolisian Negara Republik Indonesia",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KEPOLISIAN",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2026-06-17",
+ "date_promulgated": "2026-06-17",
+ "date_effective": "2026-06-17",
+ "gazette": "LN 2026 (63), TLN (7181) : 16 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2002-2",
+   "target_bpk_id": 44418,
+   "label": "UU No. 2 Tahun 2002",
+   "about": "Kepolisian Negara Republik Indonesia"
+  }
+ ],
+ "abstract": "Kepolisian Negara Republik Indonesia menurut Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 merupakan alat negara yang berperan dalam memelihara keamanan dan ketertiban masyarakat, memerlukan penyesuaian pengaturan dalam Undang-Undang Nomor 2 Tahun 2002 tentang Kepolisian Negara Republik Indonesia sebagaimana telah beberapa kali diubah, terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang, agar sejalan dengan pemenuhan kebutuhan hukum masyarakat, dan perkembangan paradigma penegakan hukum, serta perkembangan peraturan perundang-undangan terkini, sehingga perlu diubah.\nDasar hukum Undang-Undang ini adalah Pasal 20, Pasal 21, Pasal 30 ayat (2), ayat (4), dan ayat (5) UUD Tahun 1945; Ketetapan MPR No. VI/MPR/2000; Ketetapan MPR No. VII/MPR/2000; UU No. 2 Tahun 2002 sebagaimana telah beberapa kali diubah terakhir dengan UU No. 6 Tahun 2023; dan UU No. 20 Tahun 2023.\nDalam Undang-Undang ini diatur perubahan ketentuan mengenai Kepolisian Negara Republik Indonesia, antara lain penegasan kewenangan Kapolri, perluasan tugas Polri termasuk penanggulangan tindak pidana siber, penguatan prinsip profesionalitas, proporsionalitas, transparansi, dan akuntabilitas, serta pengawasan kepolisian melalui fungsi inspektorat, pengawasan penyidikan, profesi dan pengamanan. Diatur pula persyaratan pengangkatan anggota Polri termasuk kesempatan bagi penyandang disabilitas, hak atas gaji dan jaminan sosial, netralitas Polri dalam politik praktis, pengisian jabatan di luar organisasi Polri, batas usia pensiun anggota Polri, pendidikan profesi yang memuat kurikulum HAM, demokrasi, dan prinsip humanis, serta penguatan tugas, fungsi, dan keanggotaan Komisi Kepolisian Nasional.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 17 Juni 2026.\nUU ini mengubah UU No. 2 Tahun 2002 sebagaimana telah beberapa kali diubah terakhir dengan UU No. 6 Tahun 2023.\nLampiran file: 26 hlm (batang tubuh hlm 1 sd 16 dan penjelasan hlm 17 sd 26)",
+ "citations": [
+  "UU-2002-2",
+  "UU-2023-6",
+  "PERPPU-2022-2",
+  "UU-2023-20"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/413801/UU%20Nomor%205%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:23:07Z"
+}

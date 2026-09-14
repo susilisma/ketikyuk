@@ -1,0 +1,37 @@
+{
+ "id": "PP-2019-31",
+ "source": "bpk",
+ "bpk_id": 161941,
+ "url": "https://peraturan.bpk.go.id/Details/161941/x",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "31",
+ "number_raw": "31",
+ "year": 2019,
+ "title": "Peraturan Pemerintah (PP) Nomor 31 Tahun 2019 tentang Peraturan Pelaksanaan Undang-undang Nomor 33 Tahun 2014 tentang Jaminan Produk Halal",
+ "about": "Peraturan Pelaksanaan Undang-undang Nomor 33 Tahun 2014 tentang Jaminan Produk Halal",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERLINDUNGAN KONSUMEN",
+ "field": "",
+ "date_enacted": "2019-04-29",
+ "date_promulgated": "2019-05-03",
+ "date_effective": "2019-05-03",
+ "gazette": "LN.2019/No.88, TLN No.6344, jdih.setkab.go.id : 43 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2021-39",
+   "target_bpk_id": 161927,
+   "label": "PP No. 39 Tahun 2021",
+   "about": "Penyelenggaraan Bidang Jaminan Produk Halal"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 03 Mei 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/154619/PP%20Nomor%2031%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:38Z"
+}

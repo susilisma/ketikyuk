@@ -1,0 +1,37 @@
+{
+ "id": "PERMENDAG-2021-49",
+ "source": "bpk",
+ "bpk_id": 181063,
+ "url": "https://peraturan.bpk.go.id/Details/181063/permendag-no-49-tahun-2021",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "49",
+ "number_raw": "49",
+ "year": 2021,
+ "title": "Peraturan Menteri Perdagangan Nomor 49 Tahun 2021 tentang Wilayah Tertib Administrasi Di Lingkungan Kementerian Perdagangan",
+ "about": "Wilayah Tertib Administrasi Di Lingkungan Kementerian Perdagangan",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA",
+ "field": "",
+ "date_enacted": "2021-08-12",
+ "date_promulgated": "2021-08-30",
+ "date_effective": "2021-08-30",
+ "gazette": "BN 2021/ NO 980; PERATURAN.GO.ID : 9 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENDAG-2025-40",
+   "target_bpk_id": 337424,
+   "label": "Permendag No. 40 Tahun 2025",
+   "about": "Perubahan atas Peraturan Menteri Perdagangan Nomor 49 Tahun 2021 tentang Wilayah Tertib Adinistrasi di Lingkungan Kementerian Perdagangan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 30 Agustus 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/174457/Permendag%20Nomor%2049%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:36:45Z"
+}

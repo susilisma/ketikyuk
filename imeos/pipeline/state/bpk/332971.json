@@ -1,0 +1,45 @@
+{
+ "id": "PERMENDAG-2025-36",
+ "source": "bpk",
+ "bpk_id": 332971,
+ "url": "https://peraturan.bpk.go.id/Details/332971/permendag-no-36-tahun-2025",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "36",
+ "number_raw": "36",
+ "year": 2025,
+ "title": "Peraturan Menteri Perdagangan Nomor 36 Tahun 2025 tentang Sistem Klasifikasi Keamanan dan Akses Arsip Dinamis pada Kementerian Perdagangan",
+ "about": "Sistem Klasifikasi Keamanan dan Akses Arsip Dinamis pada Kementerian Perdagangan",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "ARSIP - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-10-21",
+ "date_promulgated": "2025-10-28",
+ "date_effective": "2025-10-28",
+ "gazette": "BN.2025 (881/191 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2020-73",
+   "target_bpk_id": 160338,
+   "label": "Permendag No. 73 Tahun 2020",
+   "about": "Sistem Klasifikasi Keamanan dan Akses Arsip Dinamis di Lingkungan Kementerian Perdagangan"
+  }
+ ],
+ "abstract": "a. bahwa untuk meningkatkan pengelolaan arsip dinamis\ndan pelindungan terhadap keamanan dan akses arsip\ndinamis, serta sesuai dengan ketentuan Pasal 32 ayat (3)\nPeraturan Pemerintah Nomor 28 Tahun 2012 tentang\nPelaksanaan Undang-Undang Nomor 43 Tahun 2009\ntentang Kearsipan, perlu mengatur sistem klasifikasi\nkeamanan dan akses arsip dinamis pada Kementerian\nPerdagangan;\nb. bahwa Peraturan Menteri Perdagangan Nomor 73 Tahun\n2020 tentang Sistem Klasifikasi Keamanan dan Akses\nArsip Dinamis di Lingkungan Kementerian Perdagangan\nsudah tidak sesuai dengan kebutuhan hukum dan\norganisasi, sehingga perlu diganti;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a dan huruf b, perlu menetapkan Peraturan\nMenteri Perdagangan tentang Sistem Klasifikasi\nKeamanan dan Akses Arsip Dinamis pada Kementerian\nPerdagangan;\nPasal 17 ayat (3) Undang Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Undang–Undang Nomor 43 Tahun 2009, Peraturan Pemerintah Nomor 28 Tahun 2012, Peraturan Presiden Nomor 168 Tahun 2024, Peraturan Menteri Perdagangan Nomor 54 Tahun 2022 dan Peraturan Menteri Perdagangan Nomor 6 Tahun 2025\nPeraturan ini mengatur tentang ketentuan umum, Sistem Klasifikasi Keamanan dan Akses Arsip Dinamis dan klasifikasi arsip dinamis pada Kementerian Perdagangan.",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 28 Oktober 2025.\nPeraturan Menteri ini mulai berlaku, Peraturan\nMenteri Perdagangan Nomor 73 Tahun 2020 tentang Sistem\nKlasifikasi Keamanan dan Akses Arsip Dinamis di Lingkungan\nKementerian Perdagangan dicabut dan dinyatakan tidak berlaku",
+ "citations": [
+  "PP-2012-28",
+  "UU-2009-43",
+  "PERMENDAG-2020-73",
+  "UU-2008-39",
+  "PERPRES-2024-168",
+  "PERMENDAG-2022-54",
+  "PERMENDAG-2025-6"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/395119/PERMENDAG%20NOMOR%2036%20TAHUN%202025...pdf"
+ ],
+ "fetched_at": "2026-09-14T06:36:50Z"
+}

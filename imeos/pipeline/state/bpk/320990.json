@@ -1,0 +1,49 @@
+{
+ "id": "PERMENDAG-2024-31",
+ "source": "bpk",
+ "bpk_id": 320990,
+ "url": "https://peraturan.bpk.go.id/Details/320990/permendag-no-31-tahun-2024",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "31",
+ "number_raw": "31",
+ "year": 2024,
+ "title": "Peraturan Menteri Perdagangan Nomor 31 Tahun 2024 tentang Standar Ukuran Metrologi Legal",
+ "about": "Standar Ukuran Metrologi Legal",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "STANDAR / PEDOMAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-11-28",
+ "date_promulgated": "2024-12-03",
+ "date_effective": "2024-12-03",
+ "gazette": "BN 2024 (910) : 39 hlm.; jdih.kemendag.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2019-52",
+   "target_bpk_id": 131844,
+   "label": "Permendag No. 52 Tahun 2019",
+   "about": "Standar Ukuran Metrologi Legal"
+  }
+ ],
+ "abstract": "Untuk memastikan standar ukuran tertelusur dalam menjamin kebenaran pengukuran dalam penyelenggaraan metrologi legal, perlu mengatur kembali ketentuan mengenai standar ukuran metrologi legal. Peraturan Menteri Perdagangan Nomor 52 Tahun 2019 tentang Standar Ukuran Metrologi Legal sudah tidak sesuai dengan perkembangan standar ukuran dan kebutuhan hukum saat ini, sehingga perlu diganti.\nPasal 17 17 ayat (3) UUD NRI Tahun 1945, UU No. 2 Tahun 1981, UU No. 39 Tahun 2008, UU No. 20 Tahun 2014, PP No. 2 Tahun 1989, PP No. 34 Tahun 2018, Perpres No. 11 Tahun 2022, Permendag No. 115 Tahun 2018, Permendag No. 29 Tahun 2022, Permendag No. 55 Tahun 2022, dan Permendag No. 24 Tahun 2024.\nPeraturan ini mengatur mengenai ketentuan umum, standar ukuran, hierarki SUML, syarat teknis dan pelaksanaan verifikasi.",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 03 Desember 2024.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan Menteri Perdagangan Nomor 52 Tahun 2019 tentang Standar Ukuran Metrologi Legal.",
+ "citations": [
+  "PERMENDAG-2019-52",
+  "UU-1981-2",
+  "UU-2008-39",
+  "UU-2014-20",
+  "PP-1989-2",
+  "PP-2018-34",
+  "PERPRES-2022-11",
+  "PERMENDAG-2018-115",
+  "PERMENDAG-2022-29",
+  "PERMENDAG-2022-55",
+  "PERMENDAG-2024-24"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/382730/Permendag%20No.%2031%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:37:26Z"
+}

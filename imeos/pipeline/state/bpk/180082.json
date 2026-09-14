@@ -1,0 +1,47 @@
+{
+ "id": "PERPRES-2021-93",
+ "source": "bpk",
+ "bpk_id": 180082,
+ "url": "https://peraturan.bpk.go.id/Details/180082/perpres-no-93-tahun-2021",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "93",
+ "number_raw": "93",
+ "year": 2021,
+ "title": "Peraturan Presiden (Perpres) Nomor 93 Tahun 2021 tentang Perubahan atas Peraturan Presiden Nomor 107 Tahun 2015 tentang Percepatan Penyelenggaraan Prasarana dan Sarana Kereta Cepat antara Jakarta dan Bandung",
+ "about": "Perubahan atas Peraturan Presiden Nomor 107 Tahun 2015 tentang Percepatan Penyelenggaraan Prasarana dan Sarana Kereta Cepat antara Jakarta dan Bandung",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KONSTRUKSI, SIPIL, ARSITEK, BANGUNAN, DAN INFRASTRUKTUR - TRANSPORTASI DARAT / LAUT / UDARA",
+ "field": "",
+ "date_enacted": "2021-10-06",
+ "date_promulgated": "2021-10-06",
+ "date_effective": "2021-10-06",
+ "gazette": "LN.2021/No.232, jdih.setneg.go.id : 11 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2026-29",
+   "target_bpk_id": 349427,
+   "label": "Perpres No. 29 Tahun 2026",
+   "about": "Perubahan Kedua atas Peraturan Presiden Nomor 107 Tahun 2015 tentang Percepatan Penyelenggaraan Prasarana dan Sarana Kereta Cepat Antara Jakarta dan Bandung"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2015-107",
+   "target_bpk_id": 41856,
+   "label": "PERPRES No. 107 Tahun 2015",
+   "about": "Percepatan Penyelenggaraan Prasarana dan Sarana Kereta Cepat antara Jakarta dan Bandung"
+  }
+ ],
+ "abstract": "Dalam rangka percepatan penyelesaian pembangunan prasarana dan sarana kereta cepat antara Jakarta dan Bandung diperlukan penguatan terhadap konsorsium BUMN dan penyesuaian terhadap skema pendanaan.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 17 Tahun 2003; dan Perpres Nomor 107 Tahun 2015.\nPerpres ini mengubah beberapa ketentuan dalam Perpres Nomor 107 Tahun 2015. Dalam rangka percepatan penyelesaian pembangunan prasarana dan sarana kereta cepat antara Jakarta dan Bandung, pemerintah menugaskan kepada konsorsium BUMN yang dipimpin oleh PT Kereta Api Indonesia (Persero). Konsorsium BUMN tersebut terdiri dari PT Kereta Api Indonesia (Persero); PT Wijaya Karya (Persero) Tbk; PT Jasa Marga (Persero) Tbk; dan PT Perkebunan Nusantara VIII, yang diwujudkan dalam bentuk perusahaan patungan.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 06 Oktober 2021.\nPerpres ini mengubah Perpres Nomor 107 Tahun 2015.\nPendanaan dalam rangka percepatan penyelesaian pembangunan prasarana dan sarana kereta cepat antara Jakarta dan Bandung bersumber dari: 1) penerbitan obligasi oleh konsorsium BUMN atau perusahaan patungan; 2) pinjaman konsorsium BUMN atau perusahaan patungan; dan/atau pendanaan lainnya sesuai dengan ketentuan peraturan perundang-undangan.",
+ "citations": [
+  "UU-2003-17",
+  "PERPRES-2015-107"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/173476/Perpres%20Nomor%2093%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:31:26Z"
+}

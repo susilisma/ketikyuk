@@ -1,0 +1,39 @@
+{
+ "id": "PERPRES-2025-86",
+ "source": "bpk",
+ "bpk_id": 329016,
+ "url": "https://peraturan.bpk.go.id/Details/329016/perpres-no-86-tahun-2025",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "86",
+ "number_raw": "86",
+ "year": 2025,
+ "title": "Peraturan Presiden (Perpres) Nomor 86 Tahun 2025 tentang Perubahan atas Peraturan Presiden Nomor 159 Tahun 2024 tentang Badan Pengendalian Pembangunan dan Investigasi Khusus",
+ "about": "Perubahan atas Peraturan Presiden Nomor 159 Tahun 2024 tentang Badan Pengendalian Pembangunan dan Investigasi Khusus",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI - STRUKTUR ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-08-05",
+ "date_promulgated": "2025-08-05",
+ "date_effective": "2025-08-05",
+ "gazette": "LN 2025 (122) : 5 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2024-159",
+   "target_bpk_id": 306695,
+   "label": "Perpres No. 159 Tahun 2024",
+   "about": "Badan Pengendalian Pembangunan dan Investigasi Khusus"
+  }
+ ],
+ "abstract": "Dalam rangka meningkatkan efektivitas pelaksanaan tugas dan fungsi Badan Pengendalian Pembangunan dan Investigasi Khusus, perlu menetapkan Peraturan Presiden tentang Perubahan atas Peraturan Presiden Nomor 159 Tahun 2024 tentang Badan Pengendalian Pembangunan dan Investigasi Khusus.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD 1945 dan Perpres Nomor 159 Tahun 2024.\nPerpres ini mengubah beberapa ketentuan dalam Perpres Nomor 159 Tahun 2024. Susunan organisasi Badan Pengendalian Pembangunan dan Investigasi Khusus terdiri atas: 1) Kepala; 2) Wakil Kepala; 3) Deputi Bidang Pengawasan dan Pengendalian; dan 4) Deputi Bidang Pemantauan dan Investigasi.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 05 Agustus 2025.\nPerpres ini mengubah Perpres Nomor 159 Tahun 2024.\nLampiran file: 5 hlm.",
+ "citations": [
+  "PERPRES-2024-159"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/390919/Perpres%20Nomor%2086%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:58Z"
+}

@@ -1,0 +1,48 @@
+{
+ "id": "PERPRES-2024-193",
+ "source": "bpk",
+ "bpk_id": 306935,
+ "url": "https://peraturan.bpk.go.id/Details/306935/perpres-no-193-tahun-2024",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "193",
+ "number_raw": "193",
+ "year": 2024,
+ "title": "Peraturan Presiden (Perpres) Nomor 193 Tahun 2024 tentang Kementerian Kelautan dan Perikanan",
+ "about": "Kementerian Kelautan dan Perikanan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERIKANAN DAN KELAUTAN - KETATANEGARAAN, KENEGARAAN - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "HUKUM TATA NEGARA",
+ "date_enacted": "2024-11-08",
+ "date_promulgated": "2024-11-08",
+ "date_effective": "2024-11-08",
+ "gazette": "LN 2024 (390) : 21 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2025-112",
+   "target_bpk_id": 334738,
+   "label": "Perpres No. 112 Tahun 2025",
+   "about": "Perubahan atas Peraturan Presiden Nomor 193 Tahun 2024 tentang Kementerian Kelautan dan Perikanan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2023-38",
+   "target_bpk_id": 250833,
+   "label": "PERPRES No. 38 Tahun 2023",
+   "about": "Kementerian Kelautan dan Perikanan"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 11 Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara sebagaimana telah diubah dengan Undang-Undang Nomor 61 Tahun 2024 tentang Perubahan atas Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara, perlu menetapkan Peraturan Presiden tentang Kementerian Kelautan dan Perikanan.\nDasar Hukum Perpres ini adalah Pasal 4 ayat (1) dan Pasal 17 UUD NRI Tahun 1945; UU Nomor 39 Tahun 2008; dan Perpres Nomor 140 Tahun 2024.\nPerpres ini mengatur mengenai Kementerian Kelautan dan Perikanan yang menyelenggarakan urusan pemerintahan di bidang kelautan dan perikanan. Kementerian ini dipimpin oleh Menteri berada di bawah dan bertanggung jawab kepada Presiden. Dalam memimpin Kementerian, Menteri dapat dibantu oleh wakil menteri sesuai dengan penunjukan Presiden, Wakil menteri berada di bawah dan bertanggung jawab kepada Menteri. Kementerian ini mempunyai tugas menyelenggarakan urusan pemerintahan di bidang kelautan dan perikanan untuk membantu Presiden dalam menyelenggarakan pemerintahan negara. Dalam melaksanakan tugas Kementerian menyelenggarakan fungsi antara lain sebagai berikut; 1. perurmusan, penetapan, dan pelaksanaan kebijakan di bidang penataan ruang laut, pengelolaan kelautan, pelindungan lingkungan laut, pengelolaan perikanan tangkap, pengelolaan perikanan budi daya, penguatan daya saing produk kelautan dan perikanan, serta pengawasan pengelolaan sumber daya kelautan dan perikanan; 2. pelaksanaan bimbingan teknis dan supervisi atas pelaksanaan urusan Kementerian di daerah; dan 3. koordinasi pelaksanaan tugas, pembinaan, dan pemberian dukungan administrasi kepada seluruh unsur organisasi di lingkungan Kementerian.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 08 November 2024.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 38 Tahun 2023 tentang Kementerian Kelautan dan Perikanan (Lembaran Negara Republik Indonesia Tahun 2023 Nomor 89), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 21 hlm",
+ "citations": [
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2024-140"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/367257/Perpres%20Nomor%20193%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:21Z"
+}

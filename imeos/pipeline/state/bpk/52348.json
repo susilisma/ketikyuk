@@ -1,0 +1,228 @@
+{
+ "id": "UU-1958-69",
+ "source": "bpk",
+ "bpk_id": 52348,
+ "url": "https://peraturan.bpk.go.id/Details/52348/uu-no-69-tahun-1958",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "69",
+ "number_raw": "69",
+ "year": 1958,
+ "title": "Undang-undang (UU) Nomor 69 Tahun 1958 tentang Pembentukan Daerah-Daerah Tingkat II Dalam Wilayah Daerah-Daerah Tingkat I Bali, Nusa Tenggara Barat dan Nusa Tenggara Timur",
+ "about": "Pembentukan Daerah-Daerah Tingkat II Dalam Wilayah Daerah-Daerah Tingkat I Bali, Nusa Tenggara Barat dan Nusa Tenggara Timur",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH",
+ "field": "",
+ "date_enacted": "1958-08-09",
+ "date_promulgated": "1958-08-14",
+ "date_effective": "1958-08-14",
+ "gazette": "LN. 1958 No. 122, LL SETNEG : 16 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-86",
+   "target_bpk_id": 307295,
+   "label": "UU No. 86 Tahun 2024",
+   "about": "Kabupaten Bengkulu Selatan di Provinsi Bengkulu"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-85",
+   "target_bpk_id": 307291,
+   "label": "UU No. 85 Tahun 2024",
+   "about": "Kabupaten Sumbawa di Provinsi Nusa Tenggara Barat"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-84",
+   "target_bpk_id": 307288,
+   "label": "UU No. 84 Tahun 2024",
+   "about": "Kabupaten Lombok Timur di Provinsi Nusa Tenggara Barat"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-83",
+   "target_bpk_id": 307278,
+   "label": "UU No. 83 Tahun 2024",
+   "about": "Kabupaten Lombok Tengah di Provinsi Nusa Tenggara Barat"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-82",
+   "target_bpk_id": 307275,
+   "label": "UU No. 82 Tahun 2024",
+   "about": "Kabupaten Lombok Barat di Provinsi Nusa Tenggara Barat"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-81",
+   "target_bpk_id": 307273,
+   "label": "UU No. 81 Tahun 2024",
+   "about": "Kabupaten Dompu di Provinsi Nusa Tenggara Barat"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-80",
+   "target_bpk_id": 307269,
+   "label": "UU No. 80 Tahun 2024",
+   "about": "Kabupaten Bima di Provinsi Nusa Tenggara Barat"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-79",
+   "target_bpk_id": 307264,
+   "label": "UU No. 79 Tahun 2024",
+   "about": "Kabupaten Tabanan di Provinsi Bali"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-78",
+   "target_bpk_id": 307260,
+   "label": "UU No. 78 Tahun 2024",
+   "about": "Kabupaten Klungkung di Provinsi Bali"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-77",
+   "target_bpk_id": 307253,
+   "label": "UU No. 77 Tahun 2024",
+   "about": "Kabupaten Karangasem di Provinsi Bali"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-75",
+   "target_bpk_id": 307242,
+   "label": "UU No. 75 Tahun 2024",
+   "about": "Kabupaten Gianyar di Provinsi Bali"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-74",
+   "target_bpk_id": 307234,
+   "label": "UU No. 74 Tahun 2024",
+   "about": "Kabupaten Buleleng di Provinsi Bali"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-73",
+   "target_bpk_id": 307222,
+   "label": "UU No. 73 Tahun 2024",
+   "about": "Kabupaten Bangli di Provinsi Bali"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-72",
+   "target_bpk_id": 307197,
+   "label": "UU No. 72 Tahun 2024",
+   "about": "Kabupaten Badung di Provinsi Bali"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-85",
+   "target_bpk_id": 307291,
+   "label": "UU No. 85 Tahun 2024",
+   "about": "Kabupaten Sumbawa di Provinsi Nusa Tenggara Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-84",
+   "target_bpk_id": 307288,
+   "label": "UU No. 84 Tahun 2024",
+   "about": "Kabupaten Lombok Timur di Provinsi Nusa Tenggara Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-83",
+   "target_bpk_id": 307278,
+   "label": "UU No. 83 Tahun 2024",
+   "about": "Kabupaten Lombok Tengah di Provinsi Nusa Tenggara Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-82",
+   "target_bpk_id": 307275,
+   "label": "UU No. 82 Tahun 2024",
+   "about": "Kabupaten Lombok Barat di Provinsi Nusa Tenggara Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-81",
+   "target_bpk_id": 307273,
+   "label": "UU No. 81 Tahun 2024",
+   "about": "Kabupaten Dompu di Provinsi Nusa Tenggara Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-80",
+   "target_bpk_id": 307269,
+   "label": "UU No. 80 Tahun 2024",
+   "about": "Kabupaten Bima di Provinsi Nusa Tenggara Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-79",
+   "target_bpk_id": 307264,
+   "label": "UU No. 79 Tahun 2024",
+   "about": "Kabupaten Tabanan di Provinsi Bali"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-78",
+   "target_bpk_id": 307260,
+   "label": "UU No. 78 Tahun 2024",
+   "about": "Kabupaten Klungkung di Provinsi Bali"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-77",
+   "target_bpk_id": 307253,
+   "label": "UU No. 77 Tahun 2024",
+   "about": "Kabupaten Karangasem di Provinsi Bali"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-76",
+   "target_bpk_id": 307333,
+   "label": "UU No. 76 Tahun 2024",
+   "about": "Kabupaten Jembrana di Provinsi Bali"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-75",
+   "target_bpk_id": 307242,
+   "label": "UU No. 75 Tahun 2024",
+   "about": "Kabupaten Gianyar di Provinsi Bali"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-74",
+   "target_bpk_id": 307234,
+   "label": "UU No. 74 Tahun 2024",
+   "about": "Kabupaten Buleleng di Provinsi Bali"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-73",
+   "target_bpk_id": 307222,
+   "label": "UU No. 73 Tahun 2024",
+   "about": "Kabupaten Bangli di Provinsi Bali"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-72",
+   "target_bpk_id": 307197,
+   "label": "UU No. 72 Tahun 2024",
+   "about": "Kabupaten Badung di Provinsi Bali"
+  }
+ ],
+ "abstract": "a.Bahwa berhubung dengan berlakunya Undang-undangNo. 1tahun 1957 tentang Pokok-pokok Pemerintahan Daerah untukseluruh wilayah Republik Indonesia seiak tanggal 18 Januari1957, perlu segera dilaksanakan pembentukan daerah-daerah atasdasar, Undang-undang tersebut.b.Bahwa setelah mendengar dan mempertimbangkan pendapat\"Panitia Negara untuk peninjauan pembagian wilayah Negaradalam daerah-daerah swatantra\" termaksud dalam KeputusanPresiden No.202 tahun 1956, serta memperhatikan suara-suararakyat di daerah yang bersngkutan Pemerintah berpendapat sudahtiba saatnya untuk-sesuai dengan pasal 73 ayat 4 Undang-undang tersebut sub a di atas-melaksanakan pembentukanDaerah-daerah tingkat II dimaksud dalam wilayah Daerah-daerahtingkat I Bali, Nusa Tenggara Barat dan Nusa Tenggara Timur.\na.Pasal-pasal 89, 131, 132 dan 142 Undang-undang DasarSementara Republik Indonesia.b.Undang-undangNo. 1 tahun 1957 tentang Pokok-pokokPemerintahan Daerah (Lembaran-Negara tahun 1957 No.6)sebagaimana sejak itu telahdiubah\nPRESIDENREPUBLIK INDONESIA-2-MEMUTUSKAN :I.Membubarkan :1.\"Daerah Bali\"2.\"Daerah Lombok\"3.\"Daerah SUmbawa\"4.\"Daerah Flores\"5.\"Daerah Sumba\"6.\"Daerah Timor dan Kepulauannya.\"termaksud dalam pasal 14 ayat 1 sub 6, 7. 8, 9, 10 dan 11 dariPeraturan Pembentukan Negara Indonesia Timur (Staatsblad 1946No. 143).II.Menetapkan:Undang-undang tentang pembentukan Daerah-daerah tingkat II dalamwilayah Daerah-daerah tingkat I Bali, Nusa Tenggara Barat dan NusaTenggara Timur",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 14 Agustus 1958.\nI.Membubarkan :1.\"Daerah Bali\"2.\"Daerah Lombok\"3.\"Daerah SUmbawa\"4.\"Daerah Flores\"5.\"Daerah Sumba\"6.\"Daerah Timor dan Kepulauannya.\"termaksud dalam pasal 14 ayat 1 sub 6, 7. 8, 9, 10 dan 11 dariPeraturan Pembentukan Negara Indonesia Timur (Staatsblad 1946No. 143)\n-\n20",
+ "citations": [
+  "UU-1957-1"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/41680/UU%20Nomor%2069%20Tahun%201958.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:25:51Z"
+}

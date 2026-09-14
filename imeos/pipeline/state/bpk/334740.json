@@ -1,0 +1,39 @@
+{
+ "id": "PERPRES-2025-113",
+ "source": "bpk",
+ "bpk_id": 334740,
+ "url": "https://peraturan.bpk.go.id/Details/334740/perpres-no-113-tahun-2025",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "113",
+ "number_raw": "113",
+ "year": 2025,
+ "title": "Peraturan Presiden (Perpres) Nomor 113 Tahun 2025 tentang Perubahan atas Peraturan Presiden Nomor 6 Tahun 2025 tentang Tata Kelola Pupuk Bersubsidi",
+ "about": "Perubahan atas Peraturan Presiden Nomor 6 Tahun 2025 tentang Tata Kelola Pupuk Bersubsidi",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PANGAN, PERTANIAN DAN PETERNAKAN - BANTUAN, SUMBANGAN, BENCANA / KEBENCANAAN, DAN PENANGGULANGAN BENCANA - SUBSIDI, PSO",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2025-10-24",
+ "date_promulgated": "2025-10-24",
+ "date_effective": "2025-10-24",
+ "gazette": "LN 2025 (175) : 6 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2025-6",
+   "target_bpk_id": 313407,
+   "label": "Perpres No. 6 Tahun 2025",
+   "about": "Tata Kelola Pupuk Bersubsidi"
+  }
+ ],
+ "abstract": "Untuk meningkatkan kepastian pengadaan dan penyaluran pupuk bersubsidi serta mendukung intensifikasi pertanian dalam rangka mendukung ketahanan pangan nasional, perlu mengubah Peraturan Presiden Nomor 6 Tahun 2025 tentang Tata Kelola Pupuk Bersubsidi.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD 1945 dan Perpres No. 6 Tahun 2025.\nPerpres ini mengubah beberapa ketentuan dalam Peraturan Presiden Nomor 6 Tahun 2025 tentang Tata Kelola Pupuk Bersubsidi (Lembaran Negara Republik Indonesia Tahun 2025 Nomor 10)",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 24 Oktober 2025.\nPerpres ini mengubah Perpres No. 6 Tahun 2025.\nLampiran file: 6 hlm.",
+ "citations": [
+  "PERPRES-2025-6"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/397305/Perpres%20Nomor%20113%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:18Z"
+}

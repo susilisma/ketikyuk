@@ -1,0 +1,37 @@
+{
+ "id": "UU-2000-28",
+ "source": "bpk",
+ "bpk_id": 44997,
+ "url": "https://peraturan.bpk.go.id/Details/44997/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "28",
+ "number_raw": "28",
+ "year": 2000,
+ "title": "Undang-undang (UU) Nomor 28 Tahun 2000 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 3 Tahun 2000 tentang Perubahan atas Undang-Undang Nomor 11 Tahun 1998 tentang Perubahan Berlakunya Undang-Undang Nomor 25 Tahun 1997 tentang Ketenagakerjaan Menjadi Undang-Undang",
+ "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 3 Tahun 2000 tentang Perubahan atas Undang-Undang Nomor 11 Tahun 1998 tentang Perubahan Berlakunya Undang-Undang Nomor 25 Tahun 1997 tentang Ketenagakerjaan Menjadi Undang-Undang",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KETENAGAKERJAAN",
+ "field": "",
+ "date_enacted": "2000-12-20",
+ "date_promulgated": "2000-12-20",
+ "date_effective": "2000-12-20",
+ "gazette": "LN. 2001/ No.240, TLN NO. 4042, LL SETNEG : 3 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2003-13",
+   "target_bpk_id": 43013,
+   "label": "UU No. 13 Tahun 2003",
+   "about": "Ketenagakerjaan"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 20 Desember 2000.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/33390/UU%20Nomor%2028%20Tahun%202000.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:13Z"
+}

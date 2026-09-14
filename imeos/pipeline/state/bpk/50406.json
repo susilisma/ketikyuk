@@ -1,0 +1,44 @@
+{
+ "id": "UU-1954-21",
+ "source": "bpk",
+ "bpk_id": 50406,
+ "url": "https://peraturan.bpk.go.id/Details/50406/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "21",
+ "number_raw": "21",
+ "year": 1954,
+ "title": "Undang-undang (UU) Nomor 21 Tahun 1954 tentang Perjanjian Perburuhan antara Serikat Buruh dan Majikan",
+ "about": "Perjanjian Perburuhan antara Serikat Buruh dan Majikan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KETENAGAKERJAAN",
+ "field": "",
+ "date_enacted": "1954-05-28",
+ "date_promulgated": "1954-06-12",
+ "date_effective": "1954-06-12",
+ "gazette": "LL SETNEG : 6 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2003-13",
+   "target_bpk_id": 43013,
+   "label": "UU No. 13 Tahun 2003",
+   "about": "Ketenagakerjaan"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-1997-25",
+   "target_bpk_id": 46026,
+   "label": "UU No. 25 Tahun 1997",
+   "about": "Ketenagakerjaan"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 12 Juni 1954.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/39714/UU%20Nomor%2021%20Tahun%201954.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:20Z"
+}

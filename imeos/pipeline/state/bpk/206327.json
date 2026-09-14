@@ -1,0 +1,37 @@
+{
+ "id": "PERMENPERIN-2021-21",
+ "source": "bpk",
+ "bpk_id": 206327,
+ "url": "https://peraturan.bpk.go.id/Details/206327/permenperin-no-21-tahun-2021",
+ "form": "PERMENPERIN",
+ "form_long": "Peraturan Menteri Perindustrian",
+ "number": "21",
+ "number_raw": "21",
+ "year": 2021,
+ "title": "Peraturan Menteri Perindustrian Nomor 21 Tahun 2021 tentang Pusat Penyedia Bahan Baku Dan/Atau Bahan Penolong Impor Untuk Industri Kecil Dan Industri Menengah",
+ "about": "Pusat Penyedia Bahan Baku Dan/Atau Bahan Penolong Impor Untuk Industri Kecil Dan Industri Menengah",
+ "issuer": "Kementerian Perindustrian",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN - PERINDUSTRIAN",
+ "field": "",
+ "date_enacted": "2021-08-18",
+ "date_promulgated": "2021-08-26",
+ "date_effective": "2021-08-26",
+ "gazette": "BN 2021 NO ; 972 ; PERATURAN GO.ID; 30 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENPERIN-2026-5",
+   "target_bpk_id": 348186,
+   "label": "Permenperin No. 5 Tahun 2026",
+   "about": "Pusat Penyedia Bahan Baku dan/atau Bahan Penolong"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perindustrian ini mulai berlaku pada tanggal 26 Agustus 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/200354/Permenperin%20Nomor%2021%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:38:10Z"
+}

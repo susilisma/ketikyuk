@@ -1,0 +1,51 @@
+{
+ "id": "PERMENDAG-2025-33",
+ "source": "bpk",
+ "bpk_id": 332960,
+ "url": "https://peraturan.bpk.go.id/Details/332960/permendag-no-33-tahun-2025",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "33",
+ "number_raw": "33",
+ "year": 2025,
+ "title": "Peraturan Menteri Perdagangan Nomor 33 Tahun 2025 tentang Standar Kegiatan Usaha dan/atau Standar Produk/Jasa pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Perdagangan dan Metrologi Legal",
+ "about": "Standar Kegiatan Usaha dan/atau Standar Produk/Jasa pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Perdagangan dan Metrologi Legal",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN - PERIZINAN, PELAYANAN PUBLIK - STANDAR / PEDOMAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-10-03",
+ "date_promulgated": "2025-10-03",
+ "date_effective": "2025-10-05",
+ "gazette": "BN.2025 (750/270 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2021-26",
+   "target_bpk_id": 166550,
+   "label": "Permendag No. 26 Tahun 2021",
+   "about": "Penetapan Standar Kegiatan Usaha dan Produk Pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Perdagangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2017-51",
+   "target_bpk_id": 128698,
+   "label": "Permendag No. 51/M-DAG/PER/7/2017 Tahun 2017",
+   "about": "Perusahaan Perantara Perdagangan Properti"
+  }
+ ],
+ "abstract": "bahwa untuk melaksanakan ketentuan Pasal 5 ayat (7) dan\nPasal 281, Pasal 430 ayat (2), dan Pasal 434 ayat (2) Peraturan\nPemerintah Nomor 28 Tahun 2025 tentang Penyelenggaraan\nPerizinan Berusaha Berbasis Risiko, perlu menetapkan\nPeraturan Menteri Perdagangan tentang Standar Kegiatan\nUsaha dan/atau Standar Produk/Jasa pada Penyelenggaraan\nPerizinan Berusaha Berbasis Risiko Sektor Perdagangan dan\nMetrologi Legal.\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 2 Tahun 1981, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 7 Tahun 2014, Peraturan Pemerintah Nomor 28 Tahun 2025, Peraturan Presiden Nomor 168 Tahun 2024 dan Peraturan Menteri Perdagangan Nomor 6 Tahun 2025\nPeraturan ini mengatur tentang ketentuan umum, standar kegiatan usaha dan standar produk dan/atau jasa, mekanisme penerbitan, pembinaan dan pengawasan, ketentuan lain-lain, ketentuan peralihan dan ketentuan penutup.",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 05 Oktober 2025.\nPeraturan ini mencabut dan menyatakan tidka berlaku atas:\na. Peraturan Menteri Perdagangan Nomor 51/M-DAG/PER/7/2017 tentang Perusahaan Perantara Perdagangan Properti.\nb. Peraturan Menteri Perdagangan Nomor 14/M/DAG/PER/3/2006 tentang Ketentuan dan Tata Cara Penerbitan Surat Izin Usaha Jasa Survey; dan\nc. Peraturan Menteri Perdagangan Nomor 26 Tahun 2021",
+ "citations": [
+  "UU-1981-2",
+  "UU-2008-39",
+  "UU-2014-7",
+  "PP-2025-28",
+  "PERPRES-2024-168",
+  "PERMENDAG-2025-6"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/395098/Permendag%2033%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:36:57Z"
+}

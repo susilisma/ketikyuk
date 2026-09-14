@@ -1,0 +1,37 @@
+{
+ "id": "UU-2024-22",
+ "source": "bpk",
+ "bpk_id": 290774,
+ "url": "https://peraturan.bpk.go.id/Details/290774/uu-no-22-tahun-2024",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "22",
+ "number_raw": "22",
+ "year": 2024,
+ "title": "Undang-undang (UU) Nomor 22 Tahun 2024 tentang Kabupaten Tapanuli Utara di Provinsi Sumatera Utara",
+ "about": "Kabupaten Tapanuli Utara di Provinsi Sumatera Utara",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-07-02",
+ "date_promulgated": "2024-07-02",
+ "date_effective": "2024-07-02",
+ "gazette": "LN 2024 (120), TLN (6942): 6 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut sebagian",
+   "target": null,
+   "target_bpk_id": 52943,
+   "label": "UUDrt No. 7 Tahun 1956",
+   "about": "Pembentukan Daerah Otonom Kabupaten-Kabupaten Dalam Lingkungan Daerah Propinsi Sumatera Utara"
+  }
+ ],
+ "abstract": "Undang-Undang Darurat Nomor 7 Tahun 1956 tentang Pembentukan Daerah Otonom Kabupaten-Kabupaten Dalam Lingkungan Daerah Propinsi Sumatera Utara, sudah tidak sesuai lagi dengan perkembangan hukum sehingga perlu diganti.\nDasar hukum UU ini adalah Pasal 18, Pasal 18A, Pasal 18B ayat (2), Pasal 20, Pasal 21, dan Pasal 22D ayat (2) UUD 1945.\nUU ini mengatur mengenai Kabupaten Tapanuli Utara di Provinsi Sumatera Utara dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Materi muatan yang diatur dalam Undang-Undang ini antara lain penyempurnaan dasar hukum, penyesuaian cakupan wilayah, penegasan karakteristik, dan sinkronisasi peraturan perundang-undangan.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 02 Juli 2024.\nPada saat Undang-Undang ini mulai berlaku, ketentuan yang mengatur mengenai Kabupaten Tapanuli Utara dalam Undang-Undang Darurat Nomor 7 Tahun 1956 tentang Pembentukan Daerah Otonom Kabupaten-Kabupaten Dalam Lingkungan Daerah Propinsi Sumatera Utara (Lembaran Negara Nomor 58 Tahun 1956, Tambahan Lembaran Negara Nomor 1092), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 8 hlm (batang tubuh hlm 1 sd 6, penjelasan hlm 7 sd 8)",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/350050/UU%20Nomor%2022%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:27:24Z"
+}

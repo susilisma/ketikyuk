@@ -1,0 +1,51 @@
+{
+ "id": "UU-1984-4",
+ "source": "bpk",
+ "bpk_id": 46973,
+ "url": "https://peraturan.bpk.go.id/Details/46973/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "4",
+ "number_raw": "4",
+ "year": 1984,
+ "title": "Undang-undang (UU) Nomor 4 Tahun 1984 tentang Wabah Penyakit Menular",
+ "about": "Wabah Penyakit Menular",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KESEHATAN",
+ "field": "",
+ "date_enacted": "1984-06-22",
+ "date_promulgated": "1984-06-22",
+ "date_effective": "1984-06-22",
+ "gazette": "LN. 1984/ No. 20, TLN. No. 3273, LL SETNEG : 7 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2023-17",
+   "target_bpk_id": 258028,
+   "label": "UU No. 17 Tahun 2023",
+   "about": "Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1968-7",
+   "target_bpk_id": 49146,
+   "label": "UU No. 7 Tahun 1968",
+   "about": "Perubahan Pasal 3 Undang-Undang Nomor 6 Tahun 1962 tentang Wabah"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1962-6",
+   "target_bpk_id": 50678,
+   "label": "UU No. 6 Tahun 1962",
+   "about": "Wabah"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 22 Juni 1984.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/35780/UU%20Nomor%204%20Tahun%201984.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:09Z"
+}

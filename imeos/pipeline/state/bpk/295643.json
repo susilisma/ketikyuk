@@ -1,0 +1,45 @@
+{
+ "id": "PP-2024-29",
+ "source": "bpk",
+ "bpk_id": 295643,
+ "url": "https://peraturan.bpk.go.id/Details/295643/pp-no-29-tahun-2024",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "29",
+ "number_raw": "29",
+ "year": 2024,
+ "title": "Peraturan Pemerintah (PP) Nomor 29 Tahun 2024 tentang Perubahan atas Peraturan Pemerintah Nomor 12 Tahun 2023 tentang Pemberian Perizinan Berusaha, Kemudahan Berusaha, dan Fasilitas Penanaman Modal bagi Pelaku Usaha di Ibu Kota Nusantara",
+ "about": "Perubahan atas Peraturan Pemerintah Nomor 12 Tahun 2023 tentang Pemberian Perizinan Berusaha, Kemudahan Berusaha, dan Fasilitas Penanaman Modal bagi Pelaku Usaha di Ibu Kota Nusantara",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERIZINAN, PELAYANAN PUBLIK - IBU KOTA NUSANTARA, IKN",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2024-08-12",
+ "date_promulgated": "2024-08-12",
+ "date_effective": "2024-08-12",
+ "gazette": "LN 2024 (165), TLN (6980): 19 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PP-2023-12",
+   "target_bpk_id": 244908,
+   "label": "PP No. 12 Tahun 2023",
+   "about": "Pemberian Perizinan Berusaha, Kemudahan Berusaha, dan Fasilitas Penanaman Modal bagi Pelaku Usaha di Ibu Kota Nusantara"
+  }
+ ],
+ "abstract": "Untuk menyesuaikan pengaturan pelaksanaan persiapan pembangunan dan pemindahan lbu Kota Nusantara dalam penyelenggaraan Pemerintah Daerah Khusus lbu Kota Nusantara sesuai dengan Undang-Undang Nomor 21 Tahun 2023 tentang Perubahan atas Undang-Undang Nomor 3 Tahun 2022 tentang lbu Kota Negara perlu dilakukan perubahan terhadap Peraturan Pemerintah Nomor 12 Tahun 2023 tentang Pemberian Perizinan Berusaha, Kemudahan Berusaha, dan Fasilitas Penanaman Modal bagi Pelaku Usaha di lbu Kota Nusantara.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945; UU Nomor 7 Tahun 1983; UU Nomor 8 Tahun 1983; UU Nomor 10 Tahun 1995; UU Nomor 25 Tahun 2007; UU Nomor 3 Tahun 2022; dan PP Nomor 12 Tahun 2023.\nPP ini mengubah beberapa ketentuan antara lain: 1) Perubahan penyebutan Daerah Mitra menjadi Daerah Mitra lbu Kota Nusantara; 2) Penambahan fasilitas Penanaman Modal di Ibu Kota Nusantara dalam bentuk insentif bagi Pelaku Usaha dalam pemungutan pajak daerah khusus Ibu Kota Nusantara dan/atau retribusi daerah khusus Ibu Kota Nusantara; 3) Pemberian persetujuan lingkungan bagi Pelaku Usaha; 4) Penambahan pengaturan mengenai pemanfaatan Tenaga Kerja Asing dan penunjukan Tenaga Kerja Pendamping Tenaga Kerja Asing; 5) Pemberian insentif bagi Pelaku Usaha yang melaksanakan kewajiban hunian berimbang di Ibu Kota Nusantara; 6) Kriteria dan tahapan evaluasi, hak, kewajiban, larangan, dan peralihan HAT di wilayah lbu Kota Nusantara.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 12 Agustus 2024.\nPP ini mengubah PP Nomor 12 Tahun 2023.\nLampiran file: 24 hlm (batang tubuh hlm 1 sd 19 dan penjelasan hlm 20 sd 24)",
+ "citations": [
+  "UU-2023-21",
+  "UU-2022-3",
+  "PP-2023-12",
+  "UU-1983-7",
+  "UU-1983-8",
+  "UU-1995-10",
+  "UU-2007-25"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/355027/PP%20Nomor%2029%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:30:30Z"
+}

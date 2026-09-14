@@ -1,0 +1,37 @@
+{
+ "id": "PERMENPERIN-2022-42",
+ "source": "bpk",
+ "bpk_id": 227888,
+ "url": "https://peraturan.bpk.go.id/Details/227888/permenperin-no-42-tahun-2022",
+ "form": "PERMENPERIN",
+ "form_long": "Peraturan Menteri Perindustrian",
+ "number": "42",
+ "number_raw": "42",
+ "year": 2022,
+ "title": "Peraturan Menteri Perindustrian Nomor 42 Tahun 2022 tentang Program Restrukturisasi Mesin dan/atau Peralatan Industri Pengolahan Kayu",
+ "about": "Program Restrukturisasi Mesin dan/atau Peralatan Industri Pengolahan Kayu",
+ "issuer": "Kementerian Perindustrian",
+ "subject": "PROGRAM, RENCANA PEMBANGUNAN DAN RENCANA KERJA - PERINDUSTRIAN",
+ "field": "",
+ "date_enacted": "2022-09-05",
+ "date_promulgated": "2022-09-07",
+ "date_effective": "2022-09-07",
+ "gazette": "BN.2022/No.871, http://jdih.kemenperin.go.id: 16 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah sebagian dengan",
+   "target": "PERMENPERIN-2024-31",
+   "target_bpk_id": 296049,
+   "label": "Permenperin No. 31 Tahun 2024",
+   "about": "Perubahan Atas Peraturan Menteri Perindustrian Nomor 42 Tahun 2022 Tentang Program Restrukturisasi Mesin Dan/Atau Peralatan Industri Pengolahan Kayu"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perindustrian ini mulai berlaku pada tanggal 07 September 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/269339/Permenperin%2042%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:39:49Z"
+}

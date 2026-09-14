@@ -1,0 +1,44 @@
+{
+ "id": "PP-2019-14",
+ "source": "bpk",
+ "bpk_id": 103891,
+ "url": "https://peraturan.bpk.go.id/Details/103891/pp-no-14-tahun-2019",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "14",
+ "number_raw": "14",
+ "year": 2019,
+ "title": "Peraturan Pemerintah (PP) Nomor 14 Tahun 2019 tentang Jenis dan Tarif Atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Lembaga Penerbangan dan Antariksa Nasional",
+ "about": "Jenis dan Tarif Atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Lembaga Penerbangan dan Antariksa Nasional",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
+ "field": "",
+ "date_enacted": "2019-03-13",
+ "date_promulgated": "2019-03-13",
+ "date_effective": "2019-04-12",
+ "gazette": "LN.2019/NO.53, TLN NO.6324, LL SETKAB : 7 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2026-13",
+   "target_bpk_id": 349363,
+   "label": "PP No. 13 Tahun 2026",
+   "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Badan Riset dan Inovasi Nasional"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2003-21",
+   "target_bpk_id": 52182,
+   "label": "PP No. 21 Tahun 2003",
+   "about": "Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Berlaku Pada Lembaga Penerbangan Dan Antariksa Nasional"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 12 April 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/94592/PP%20Nomor%2014%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:28:16Z"
+}

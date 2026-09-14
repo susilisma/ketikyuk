@@ -1,0 +1,55 @@
+{
+ "id": "PERPRES-2020-48",
+ "source": "bpk",
+ "bpk_id": 135448,
+ "url": "https://peraturan.bpk.go.id/Details/135448/perpres-no-48-tahun-2020",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "48",
+ "number_raw": "48",
+ "year": 2020,
+ "title": "Peraturan Presiden (Perpres) Nomor 48 Tahun 2020 tentang Badan Pertanahan Nasional",
+ "about": "Badan Pertanahan Nasional",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI - STRUKTUR ORGANISASI",
+ "field": "",
+ "date_enacted": "2020-03-26",
+ "date_promulgated": "2020-03-26",
+ "date_effective": "2020-03-26",
+ "gazette": "LN.2020/NO.84, JDIH.SETNEG.GO.ID : 10 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-177",
+   "target_bpk_id": 306890,
+   "label": "Perpres No. 177 Tahun 2024",
+   "about": "Badan Pertanahan Nasional"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2015-20",
+   "target_bpk_id": 41743,
+   "label": "PERPRES No. 20 Tahun 2015",
+   "about": "Badan Pertanahan Nasional"
+  }
+ ],
+ "abstract": "Sebagai tindak lanjut ditetapkannya Keputusan Presiden Nomor 113/P Tahun 2019 tentang Pembentukan Kementerian Negara dan Pengangkatan Menteri Negara Kabinet Indonesia Maju Periode Tahun 2019-2024 serta guna mendukung efektivitas dan efisiensi pelaksanaan tugas dan fungsi di bidang pertanahan, dipandang perlu melakukan penyempurnaan organisasi dan tata kerja Badan Pertanahan Nasional/BPN.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) dan Pasal 7 UUD 1945; UU Nomor 5 Tahun 1960 tentang Peraturan Dasar Pokok-pokok Agraria; UU Nomor 39 Tahun 2008 tentang Kementerian Negara; UU Nomor 41 Tahun 2009 tentang Perlindungan Lahan Pertanian Pangan Berkelanjutan; UU Nomor 2 Tahun 2012 tentang Pengadaan Tanah bagi Pembangunan untuk Kepentingan Umum; UU Nomor 23 Tahun 2014 tentang Pemerintahan Daerah sebagaimana telah beberapa kali diubah terakhir dengan UU Nomor 9 Tahun 2015; PP Nomor 25 Tahun 2012 tentang Sistem Informasi Lahan Pertanian Pangan Berkelanjutan; Perpres Nomor 67 Tahun 2019 tentang Penataan Tugas dan Fungsi Kementerian Negara Kabinet Indonesia Maju Periode Tahun 2019-2024; dan Perpres Nomor 68 Tahun 2019 tentang Organisasi Kementerian Negara.\nPerpres ini mengatur mengenai kedudukan, tugas, fungsi, organisasi, kantor wilayah dan kantor pertanahan, kepegawaian, tata kerja, dan pendanaan pada BPN. BPN adalah Lembaga Pemerintah Non Kementerian yang berada di bawah dan bertanggung jawab kepada Presiden yang mempunyai tugas melaksanakan tugas pemerintahan di bidang pertanahan sesuai dengan ketentuan peraturan perundang-undangan. Kepala BPN dijabat oleh Menteri Agraria dan Tata Ruang dan Wakil Kepala BPN dijabat oleh Wakil Menteri Agraria dan Tata Ruang. Untuk menyelenggarakan tugas dan fungsi BPN di\ndaerah, dibentuk Kantor Wilayah BPN di provinsi dan Kantor Pertanahan di kabupaten/kota.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 26 Maret 2020.\nPada saat Peraturan Presiden ini mulai berlaku Peraturan Presiden Nomor 20 Tahun 2015 tentang Badan Pertanahan Nasional (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 21), dicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "KEPPRES-2019-113",
+  "UU-1960-5",
+  "UU-2008-39",
+  "UU-2009-41",
+  "UU-2012-2",
+  "UU-2014-23",
+  "UU-2015-9",
+  "PP-2012-25",
+  "PERPRES-2019-67",
+  "PERPRES-2019-68"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/126301/Perpres%20Nomor%2048%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:27:32Z"
+}

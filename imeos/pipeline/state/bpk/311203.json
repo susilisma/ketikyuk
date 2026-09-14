@@ -1,0 +1,43 @@
+{
+ "id": "PERMENAKER-2024-8",
+ "source": "bpk",
+ "bpk_id": 311203,
+ "url": "https://peraturan.bpk.go.id/Details/311203/permenaker-no-8-tahun-2024",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "8",
+ "number_raw": "8",
+ "year": 2024,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 8 Tahun 2024 tentang Tata Kelola Pengawasan Intern di Kementerian Ketenagakerjaan",
+ "about": "Tata Kelola Pengawasan Intern di Kementerian Ketenagakerjaan",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "KETENAGAKERJAAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-11-05",
+ "date_promulgated": "2024-11-08",
+ "date_effective": "2024-11-08",
+ "gazette": "BN 2024 (818); 15 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENAKER-2016-24",
+   "target_bpk_id": 146172,
+   "label": "Permenaker No. 24 Tahun 2016",
+   "about": "Pokok-pokok Pengawasan Intern di Kementerian Ketenagakerjaan"
+  }
+ ],
+ "abstract": "bahwa pembangunan ketenagakerjaan memerlukan\npenerapan tata kelola, pengawasan intern, manajemen\nrisiko, dan pengendalian intern agar mencapai tujuan\nyang ditetapkan\nDasar hukum peraturan ini adalah PAsal 17 ayat (3) UUD 1945; UU Nomor 39 Tahun 2008 sebagaimana telah diubah denan UU Nomor 61 Tahun 2004; PP Nomor 60 Tahun 2008; Perpres Nomor 95 Tahun 2020; Permenaker Nomor 1 TAhun 2021\nPeraturan ini mengatur mengenai tanggung jawab terhadap tata kelola, manajemen risiko, dan pengendalian intern; tugas, wewenang, dan tanggung jawab dalam pengawasan intern; manajemen pengawasan intern; koordinasi pengawasan intern; tindak lanjut pemeriksaan oleh BPK dan pengawasan oleh BPKP; penerapan perangkat profesi; dan penghargaan",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 08 November 2024.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan\nMenteri Ketenagakerjaan Nomor 24 Tahun 2016 tentang\nPokok-Pokok Pengawasan Intern di Kementerian\nKetenagakerjaan (Berita Negara Republik Indonesia Tahun\n2016 Nomor 1118), dicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "UU-2008-39",
+  "UU-2004-61",
+  "PP-2008-60",
+  "PERPRES-2020-95",
+  "PERMENAKER-2021-1"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/371879/permenaker-no-8-tahun-2024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:41:40Z"
+}

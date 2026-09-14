@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKOMINFO-2012-15",
+ "source": "bpk",
+ "bpk_id": 156855,
+ "url": "https://peraturan.bpk.go.id/Details/156855/permenkominfo-no-15permkominfo52012-tahun-201",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Informatika",
+ "number": "15",
+ "number_raw": "15/PER/M.KOMINFO/5/2012",
+ "year": 2012,
+ "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 15/PER/M.KOMINFO/5/2012 Tahun 2012 tentang Petunjuk Pelaksanaan Penetapan Balai Uji Dalam Negeri",
+ "about": "Petunjuk Pelaksanaan Penetapan Balai Uji Dalam Negeri",
+ "issuer": "Kementerian Komunikasi dan Informatika",
+ "subject": "TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET",
+ "field": "",
+ "date_enacted": "2012-05-25",
+ "date_promulgated": "2012-06-07",
+ "date_effective": "2012-06-07",
+ "gazette": "BN.2012/No.577, peraturan.go.id: 9 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 302515,
+   "label": "Permenkominfo No. 5 Tahun 2024",
+   "about": "Penetapan Balai Uji Alat Telekomunikasi dan/atau Perangkat Telekomunikasi"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Komunikasi dan Informatika ini mulai berlaku pada tanggal 07 Juni 2012.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/149293/Kemen%20Kominfo%20Nomor%2015%20Tahun%202012.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:42:07Z"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "PERMENDAG-2020-73",
+ "source": "bpk",
+ "bpk_id": 160338,
+ "url": "https://peraturan.bpk.go.id/Details/160338/permendag-no-73-tahun-2020",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "73",
+ "number_raw": "73",
+ "year": 2020,
+ "title": "Peraturan Menteri Perdagangan Nomor 73 Tahun 2020 tentang Sistem Klasifikasi Keamanan dan Akses Arsip Dinamis di Lingkungan Kementerian Perdagangan",
+ "about": "Sistem Klasifikasi Keamanan dan Akses Arsip Dinamis di Lingkungan Kementerian Perdagangan",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "ARSIP",
+ "field": "",
+ "date_enacted": "2020-09-22",
+ "date_promulgated": "2020-09-25",
+ "date_effective": "2020-09-25",
+ "gazette": "BN.2020/No.1096, peraturan.go.id : 13 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2025-36",
+   "target_bpk_id": 332971,
+   "label": "Permendag No. 36 Tahun 2025",
+   "about": "Sistem Klasifikasi Keamanan dan Akses Arsip Dinamis pada Kementerian Perdagangan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 25 September 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/152927/Permendag%20Nomor%2073%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:36:51Z"
+}

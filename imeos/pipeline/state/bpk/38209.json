@@ -1,0 +1,81 @@
+{
+ "id": "UU-2015-9",
+ "source": "bpk",
+ "bpk_id": 38209,
+ "url": "https://peraturan.bpk.go.id/Details/38209/uu-no-9-tahun-2015",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "9",
+ "number_raw": "9",
+ "year": 2015,
+ "title": "Undang-undang (UU) Nomor 9 Tahun 2015 tentang Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah",
+ "about": "Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH",
+ "field": "",
+ "date_enacted": "2015-03-18",
+ "date_promulgated": "2015-03-18",
+ "date_effective": "2015-03-18",
+ "gazette": "LN.2015/NO.58, TLN NO.5679, LL SETNEG : 8 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2019-17",
+   "target_bpk_id": 122742,
+   "label": "UU No. 17 Tahun 2019",
+   "about": "Sumber Daya Air"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2026-1",
+   "target_bpk_id": 337869,
+   "label": "UU No. 1 Tahun 2026",
+   "about": "Penyesuaian Pidana"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 234926,
+   "label": "PERPU No. 2 Tahun 2022",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2019-17",
+   "target_bpk_id": 122742,
+   "label": "UU No. 17 Tahun 2019",
+   "about": "Sumber Daya Air"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2015-2",
+   "target_bpk_id": 37678,
+   "label": "UU No. 2 Tahun 2015",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2014 tentang Perubahan atas Undang-Undang Nomor 23 Tahun 2014 Tentang Pemerintahan Daerah Menjadi Undang-Undang"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2014-23",
+   "target_bpk_id": 38685,
+   "label": "UU No. 23 Tahun 2014",
+   "about": "Pemerintahan Daerah"
+  }
+ ],
+ "abstract": "bahwa untuk kesinambungan kepemimpinan di provinsi, kabupaten/kota diperlukan mekanisme peralihan kepemimpinan daerah di masa jabatannya yang demokratis untuk dapat menjamin pembangunan dan pelayanan kepada masyarakat,bahwa ketentuan tugas dan wewenang dewan perwakilan rakyat daerah provinsi, kabupaten/kota perlu dilakukan penyesuaian dengan undang-undang yang mengatur pemilihan gubernur, bupati, dan wali kota,bahwa untuk mengatasi permasalahan ketentuan tugas dan wewenang dewan perwakilan rakyat daerah provinsi, kabupaten/kota sebagaimana diatur dalam Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah perlu dilakukan perubahan\nPasal 18, Pasal 20, Pasal 21, Pasal 22D Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 dan UU No.23 Tahun 2014.\nPERUBAHAN KEDUA ATAS UNDANG-UNDANG NOMOR 23 TAHUN 2014 TENTANG PEMERINTAHAN DAERAH",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 18 Maret 2015.\n8 halaman",
+ "citations": [
+  "UU-2014-23"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/27377/UU%20Nomor%209%20Tahun%202015.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:23:24Z"
+}

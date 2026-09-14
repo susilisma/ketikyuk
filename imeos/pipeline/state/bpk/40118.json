@@ -1,0 +1,37 @@
+{
+ "id": "PERPRES-2016-26",
+ "source": "bpk",
+ "bpk_id": 40118,
+ "url": "https://peraturan.bpk.go.id/Details/40118/perpres-no-26-tahun-2016",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "26",
+ "number_raw": "26",
+ "year": 2016,
+ "title": "Peraturan Presiden (Perpres) Nomor 26 Tahun 2016 tentang Hak Keuangan dan Fasilitas bagi Ketua dan Anggota Dewan Jaminan Sosial Nasional",
+ "about": "Hak Keuangan dan Fasilitas bagi Ketua dan Anggota Dewan Jaminan Sosial Nasional",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KESEHATAN - PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA",
+ "field": "",
+ "date_enacted": "2016-03-30",
+ "date_promulgated": "2016-04-06",
+ "date_effective": "2016-04-06",
+ "gazette": "LN.2016/No.63, LL SETNEG : 3 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-124",
+   "target_bpk_id": 304914,
+   "label": "Perpres No. 124 Tahun 2024",
+   "about": "Hak Keuangan dan Fasilitas Bagi Ketua dan Anggota Dewan Jaminan Sosial Nasional"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 06 April 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/29752/Perpres%20Nomor%2026%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:29:15Z"
+}

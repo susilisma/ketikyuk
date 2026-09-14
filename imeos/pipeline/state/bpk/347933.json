@@ -1,0 +1,48 @@
+{
+ "id": "PERPRES-2026-9",
+ "source": "bpk",
+ "bpk_id": 347933,
+ "url": "https://peraturan.bpk.go.id/Details/347933/perpres-no-9-tahun-2026",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "9",
+ "number_raw": "9",
+ "year": 2026,
+ "title": "Peraturan Presiden (Perpres) Nomor 9 Tahun 2026 tentang Badan Nasional Penanggulangan Terorisme",
+ "about": "Badan Nasional Penanggulangan Terorisme",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI - STRUKTUR ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-02-09",
+ "date_promulgated": "2026-02-09",
+ "date_effective": "2026-02-09",
+ "gazette": "LN 2026 (16) : 20 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2012-12",
+   "target_bpk_id": 41255,
+   "label": "PERPRES No. 12 Tahun 2012",
+   "about": "Perubahan atas Peraturan Presiden Nomor 46 Tahun 2010 tentang Badan Nasional Penanggulangan Terorisme"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2010-46",
+   "target_bpk_id": 41087,
+   "label": "PERPRES No. 46 Tahun 2010",
+   "about": "Badan Nasional Penanggulangan Terorisme"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 43H Undang-Undang Nomor 15 Tahun 2003 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2002 tentang Pemberantasan Tindak Pidana Terorisme Menjadi Undang-Undang sebagaimana telah diubah dengan Undang-Undang Nomor 5 Tahun 2018 tentang Perubahan atas Undang-Undang Nomor 15 Tahun 2003 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2002 tentang Pemberantasan Tindak Pidana Terorisme Menjadi Undang-Undang, perlu menetapkan Peraturan Presiden tentang Badan Nasional Penanggulangan Terorisme.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD 1945 dan UU No. 15 Tahun 2003.\nPerpres ini mengatur mengenai Badan Nasional Penanggulangan Terorisme (BNPT). BNPT berada di bawah dan bertanggung jawab kepada Presiden yang dipimpin oleh seorang Kepala.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 09 Februari 2026.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 46 Tahun 2010 tentang Badan Nasional Penanggulangan Terorisme sebagaimana telah diubah dengan Peraturan Presiden Nomor 12 Tahun 2012 tentang Perubahan atas Peraturan Presiden Nomor 46 Tahun 2010 tentang Badan Nasional Terorisme (Lembaran Negara Republik Indonesia Tahun 2012 Nomor 30), dicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "UU-2003-15",
+  "PERPPU-2002-1",
+  "UU-2018-5"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/411508/Perpres%20Nomor%209%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:31:58Z"
+}

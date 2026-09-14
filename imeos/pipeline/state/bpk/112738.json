@@ -1,0 +1,37 @@
+{
+ "id": "PMK-2017-92",
+ "source": "bpk",
+ "bpk_id": 112738,
+ "url": "https://peraturan.bpk.go.id/Details/112738/pmk-no-92pmk012017",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "92",
+ "number_raw": "92/PMK.01/2017",
+ "year": 2017,
+ "title": "Peraturan Menteri Keuangan Nomor 92/PMK.01/2017 Tahun 2017 tentang Organisasi Dan Tata Kerja Sekretariat Komite Stabilitas Sistem Keuangan",
+ "about": "Organisasi Dan Tata Kerja Sekretariat Komite Stabilitas Sistem Keuangan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA - STRUKTUR ORGANISASI",
+ "field": "",
+ "date_enacted": "2017-07-05",
+ "date_promulgated": "2017-07-07",
+ "date_effective": "2017-07-07",
+ "gazette": "BN.2017/NO.921, jdih.kemenkeu.go.id : 15 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-64",
+   "target_bpk_id": 327277,
+   "label": "PMK No. 64 Tahun 2025",
+   "about": "Organisasi dan Tata Kerja Sekretariat Komite Stabilitas Sistem Keuangan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 07 Juli 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/103683/PMK%20Nomor%2092%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:33:02Z"
+}

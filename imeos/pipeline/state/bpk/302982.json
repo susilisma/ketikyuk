@@ -1,0 +1,41 @@
+{
+ "id": "PERPRES-2024-102",
+ "source": "bpk",
+ "bpk_id": 302982,
+ "url": "https://peraturan.bpk.go.id/Details/302982/perpres-no-102-tahun-2024",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "102",
+ "number_raw": "102",
+ "year": 2024,
+ "title": "Peraturan Presiden (Perpres) Nomor 102 Tahun 2024 tentang Tunjangan Kinerja Pegawai di Lingkungan Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan",
+ "about": "Tunjangan Kinerja Pegawai di Lingkungan Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA - KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-09-30",
+ "date_promulgated": "2024-09-30",
+ "date_effective": "2024-09-30",
+ "gazette": "LN 2024 (199) : 6 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2017-112",
+   "target_bpk_id": 73456,
+   "label": "PERPRES No. 112 Tahun 2017",
+   "about": "Tunjangan Kinerja Pegawai di Lingkungan Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan"
+  }
+ ],
+ "abstract": "Peraturan Presiden Nomor 112 Tahun 2017 tentang Tunjangan Kinerja Pegawai di Lingkungan Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan sudah tidak sesuai dengan perkembangan capaian hasil pelaksanaan reformasi birokrasi sehingga perlu diganti.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD NRI 1945; UU Nomor 20 Tahun 2023; dan Perpres Nomor 35 Tahun 2020.\nPeraturan ini mengatur mengenai Pemberian tunjangan kinerja bagi Pegawai di Lingkungan Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan dengan mempertimbangkan capaian kinerja pegawai sesuai dengan ketentuan peraturan perundang-undangan. Pegawai di Lingkungan Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan, selain diberikan penghasilan sesuai dengan ketentuan peraturan perundang-undangan, diberikan tunjangan kinerja setiap bulan.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 30 September 2024.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 112 Tahun 2O17 tentang Tunjangan Kinerja Pegawai di Lingkungan Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan (Lembaran Negara Republik Indonesia Tahun 2Ol7 Nomor 256), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 7 hlm (batang tubuh hlm 1 sd 6, lampiran hlm 7).",
+ "citations": [
+  "PERPRES-2017-112",
+  "UU-2023-20",
+  "PERPRES-2020-35"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/362917/Perpres%20Nomor%20102%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:29:50Z"
+}

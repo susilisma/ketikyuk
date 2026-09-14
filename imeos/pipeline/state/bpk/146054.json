@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2014-180",
+ "source": "bpk",
+ "bpk_id": 146054,
+ "url": "https://peraturan.bpk.go.id/Details/146054/pmk-no-180pmk052014",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "180",
+ "number_raw": "180/PMK.05/2014",
+ "year": 2014,
+ "title": "Peraturan Menteri Keuangan Nomor 180/PMK.05/2014 Tahun 2014 tentang Tarif Layanan Badan Layanan Umum Balai Besar Laboratorium Kesehatan Palembang pada Kementerian Kesehatan",
+ "about": "Tarif Layanan Badan Layanan Umum Balai Besar Laboratorium Kesehatan Palembang pada Kementerian Kesehatan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BADAN LAYANAN UMUM",
+ "field": "",
+ "date_enacted": "2014-08-28",
+ "date_promulgated": "2014-08-28",
+ "date_effective": "2014-09-12",
+ "gazette": "BN 2014/ NO 1216; PERATURAN.GO.ID : 4 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-41",
+   "target_bpk_id": 322301,
+   "label": "PMK No. 41 Tahun 2025",
+   "about": "Tarif Layanan Badan Layanan Umum Bidang Laboratorium Kesehatan Masyarakat pada Kementerian Kesehatan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2016-206",
+   "target_bpk_id": 146053,
+   "label": "PMK No. 206/PMK.05/2016",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 180/PMK.05/2014 tentang Tarif Layanan Badan Layanan Umum Balai Besar Laboratorium Kesehatan Palembang pada Kementerian Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 12 September 2014.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/137869/PMK%20Nomor%20180%20Tahun%202014.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:33:42Z"
+}

@@ -1,0 +1,58 @@
+{
+ "id": "PERMENDAG-2024-20",
+ "source": "bpk",
+ "bpk_id": 299432,
+ "url": "https://peraturan.bpk.go.id/Details/299432/permendag-no-20-tahun-2024",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "20",
+ "number_raw": "20",
+ "year": 2024,
+ "title": "Peraturan Menteri Perdagangan Nomor 20 Tahun 2024 tentang Perubahan Kedua atas Peraturan Menteri Perdagangan Nomor 22 Tahun 2023 Tentang Barang yang Dilarang Untuk Diekspor",
+ "about": "Perubahan Kedua atas Peraturan Menteri Perdagangan Nomor 22 Tahun 2023 Tentang Barang yang Dilarang Untuk Diekspor",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN - HUKUM PIDANA, PERDATA, DAN DAGANG",
+ "field": "HUKUM DAGANG",
+ "date_enacted": "2024-08-26",
+ "date_promulgated": "2024-08-29",
+ "date_effective": "2024-09-28",
+ "gazette": "BN 2024 (511) : 5 hlm.; jdih.kemendag.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERMENDAG-2024-10",
+   "target_bpk_id": 287375,
+   "label": "Permendag No. 10 Tahun 2024",
+   "about": "Perubahan Atas Peraturan Menteri Perdagangan Nomor 22 Tahun 2023 Tentang Barang Yang Dilarang Untuk Diekspor"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENDAG-2023-22",
+   "target_bpk_id": 260133,
+   "label": "Permendag No. 22 Tahun 2023",
+   "about": "Barang Yang Dilarang Untuk Diekspor"
+  }
+ ],
+ "abstract": "Untuk melaksanakan kebijakan pemanfaatan hasil sedimentasi di laut untuk ekspor dan meningkatkan nilai tambah ekspor kratom Indonesia, serta memberikan kepastian hukum dan kepastian berusaha bagi eksportir, perlu mengubah Peraturan Menteri Perdagangan Nomor 22 Tahun 2023 tentang Barang yang Dilarang untuk Diekspor sebagaimana telah diubah dengan Peraturan Menteri Perdagangan Nomor 10 Tahun 2024 tentang Perubahan atas Peraturan Menteri Perdagangan Nomor 22 Tahun 2023 tentang Barang yang Dilarang untuk Diekspor. Bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, perlu menetapkan Peraturan Menteri Perdagangan tentang Perubahan Kedua atas Peraturan Menteri Perdagangan Nomor 22 Tahun 2023 tentang Barang yang Dilarang untuk Diekspor.\nDasar hukum Permendag ini adalah Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 10 Tahun 1995 sebagaimana telah diubah dengan UU Nomor 17 Tahun 2006; UU Nomor 39 Tahun 2008; UU Nomor 7 Tahun 2014; PP Nomor 83 Tahun 2010; PP Nomor 29 Tahun 2021; PP Nomor 40 Tahun 2021; PP Nomor 41 Tahun 2021; PP Nomor 26 Tahun 2023; Perpres Nomor 11 Tahun 2022; Permendag Nomor 29 Tahun 2022; Permendag Nomor 22 Tahun 2023; Permen Kelautan dan Perikanan Nomor 33 Tahun 2023; dan Permen ESDM 6 Tahun 2024.\nBeberapa ketentuan dalam Peraturan Menteri Perdagangan Nomor 22 Tahun 2023 tentang Barang yang Dilarang untuk Diekspor (Berita Negara Republik Indonesia Tahun 2023 Nomor 526) sebagaimana telah diubah dengan Peraturan Menteri Perdagangan Nomor 10 Tahun 2024 tentang Perubahan atas Peraturan Menteri Perdagangan Nomor 22 Tahun 2023 tentang Barang yang Dilarang untuk Diekspor diubah.",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 28 September 2024.\nPermendag ini mengubah Permendag Nomor 22 Tahun 2023.\nLampiran file: 42 halaman",
+ "citations": [
+  "PERMENDAG-2023-22",
+  "PERMENDAG-2024-10",
+  "UU-1995-10",
+  "UU-2006-17",
+  "UU-2008-39",
+  "UU-2014-7",
+  "PP-2010-83",
+  "PP-2021-29",
+  "PP-2021-40",
+  "PP-2021-41",
+  "PP-2023-26",
+  "PERPRES-2022-11",
+  "PERMENDAG-2022-29"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/359109/Permendag_20_2024_Perubahan%20Kedua%20Permendag%2022-2023_Barang%20Dilarang%20Ekspor_e-pengundangan.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:37:49Z"
+}

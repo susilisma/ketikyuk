@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2026-57",
+ "source": "bpk",
+ "bpk_id": 353724,
+ "url": "https://peraturan.bpk.go.id/Details/353724/pmk-no-57-tahun-2026",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "57",
+ "number_raw": "57",
+ "year": 2026,
+ "title": "Peraturan Menteri Keuangan Nomor 57 Tahun 2026 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 52/PMK.04/2020 tentang Bentuk Fisik, Spesifikasi dan Desain Pita Cukai",
+ "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 52/PMK.04/2020 tentang Bentuk Fisik, Spesifikasi dan Desain Pita Cukai",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-07-30",
+ "date_promulgated": "2026-08-10",
+ "date_effective": "2026-08-10",
+ "gazette": "BN.2026 (558)/4 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PMK-2020-52",
+   "target_bpk_id": 137888,
+   "label": "PMK No. 52/PMK.04/2020",
+   "about": "Bentuk Fisik, Spesifikasi, dan Desain Pita Cukai"
+  }
+ ],
+ "abstract": "a. bahwa untuk optimalisasi pengawasan dan pengamanan pita cukai barang kena cukai serta untuk memberikan pedoman bagi badan usaha milik negara dan/atau badan atau lembaga yang ditunjuk oleh Menteri, perlu dilakukan penyesuaian terhadap pengaturan mengenai bentuk fisik, spesifikasi, dan desain pita cukai;\nb. bahwa ketentuan mengenai bentuk fisik, spesifikasi, dan desain pita cukai sebagaimana diatur dalam Peraturan Menteri Keuangan Nomor 52/PMK.04/2020 tentang Bentuk Fisik, Spesfikasi, dan Desain Pita Cukai, belum menyesuaikan pengaturan untuk optimalisasi pengawasan dan pengamanan pita cukai untuk barang kena cukai, sehingga perlu dilakukan perubahan;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, serta untuk melaksanakan ketentuan Pasal 7 ayat (4) Undang-Undang Nomor 39 Tahun 2007 tentang Perubahan atas Undang-Undang Nomor 11 Tahun 1995 tentang Cukai, perlu menetapkan Peraturan Menteri Keuangan tentang Perubahan atas Peraturan Menteri Keuangan Nomor 52/PMK.04/2020 tentang Bentuk Fisik, Spesfikasi, dan Desain Pita Cukai;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 11 Tahun 1995, Undang-Undang Nomor 39 Tahun 2008, Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Menteri Keuangan Nomor 52/PMK.04/2020 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengubah ketentuan ayat (3) dan ayat (4) Pasal 2 dalam Peraturan Menteri Keuangan Nomor 52/PMK.04/2020 tentang Bentuk Fisik, Spesifikasi, dan Desain Pita Cukai yaitu tentang bentuk, spesifikasi dan desain pita cukai.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 10 Agustus 2026.\nPeraturan ini mengubah sebagian Peraturan Menteri Keuangan Nomor 52/PMK.04/2020 tentang Bentuk Fisik, Spesifikasi, dan Desain Pita Cukai",
+ "citations": [
+  "PMK-2020-52",
+  "UU-2007-39",
+  "UU-1995-11",
+  "UU-2008-39",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/417627/2026pmkeuangan057.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:30:24Z"
+}

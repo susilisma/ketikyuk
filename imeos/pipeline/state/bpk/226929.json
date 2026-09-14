@@ -1,0 +1,38 @@
+{
+ "id": "POJK-2020-45",
+ "source": "bpk",
+ "bpk_id": 226929,
+ "url": "https://peraturan.bpk.go.id/Details/226929/peraturan-ojk-no-45pojk032020-tahun-2020",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "45",
+ "number_raw": "45/POJK.03/2020",
+ "year": 2020,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 45/POJK.03/2020 Tahun 2020 tentang Konglomerasi Keuangan",
+ "about": "Konglomerasi Keuangan",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "",
+ "date_enacted": "2020-10-14",
+ "date_promulgated": "2020-10-16",
+ "date_effective": "2020-10-16",
+ "gazette": "LN.2020/NO.237, TLN NO.6569, peraturan.go.id : 9 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 323280,
+   "label": "Peraturan OJK No. 30 Tahun 2024",
+   "about": "Konglomerasi Keuangan dan Perusahaan Induk Konglomerasi Keuangan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 16 Oktober 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/221642/Peraturan%20OJK%20No.%2045%20Tahun%202020.pdf",
+  "https://peraturan.bpk.go.id/Download/221643/Peraturan%20OJK%20No.%2045%20Tahun%202020_Penjelasan.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:44:12Z"
+}

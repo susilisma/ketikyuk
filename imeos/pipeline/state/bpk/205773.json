@@ -1,0 +1,37 @@
+{
+ "id": "PERMENPERIN-2021-9",
+ "source": "bpk",
+ "bpk_id": 205773,
+ "url": "https://peraturan.bpk.go.id/Details/205773/permenperin-no-9-tahun-2021",
+ "form": "PERMENPERIN",
+ "form_long": "Peraturan Menteri Perindustrian",
+ "number": "9",
+ "number_raw": "9",
+ "year": 2021,
+ "title": "Peraturan Menteri Perindustrian Nomor 9 Tahun 2021 tentang Standar Kegiatan Usaha Dan/Atau Produk Pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Perindustrian",
+ "about": "Standar Kegiatan Usaha Dan/Atau Produk Pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Perindustrian",
+ "issuer": "Kementerian Perindustrian",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN - PERIZINAN, PELAYANAN PUBLIK - STANDAR / PEDOMAN",
+ "field": "",
+ "date_enacted": "2021-04-01",
+ "date_promulgated": "2021-04-01",
+ "date_effective": "2021-04-01",
+ "gazette": "BN 2021 NO ; 323 ; PERATURAN GO.ID; 4 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENPERIN-2025-37",
+   "target_bpk_id": 333111,
+   "label": "Permenperin No. 37 Tahun 2025",
+   "about": "Standar Kegiatan Usaha dan/atau Standar Produk/Jasa pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Perindustrian"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perindustrian ini mulai berlaku pada tanggal 01 April 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/199791/Permenperin%20Nomor%209%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:38:30Z"
+}

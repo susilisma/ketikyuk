@@ -1,0 +1,37 @@
+{
+ "id": "PMK-2020-186",
+ "source": "bpk",
+ "bpk_id": 155824,
+ "url": "https://peraturan.bpk.go.id/Details/155824/pmk-no-186pmk022020",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "186",
+ "number_raw": "186/PMK.02/2020",
+ "year": 2020,
+ "title": "Peraturan Menteri Keuangan Nomor 186/PMK.02/2020 Tahun 2020 tentang Tata Cara Pengesahan Laporan Pengelolaan Program dan Laporan Keuangan Tahunan Badan Penyelenggara Jaminan Sosial",
+ "about": "Tata Cara Pengesahan Laporan Pengelolaan Program dan Laporan Keuangan Tahunan Badan Penyelenggara Jaminan Sosial",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PENGELOLAAN KEUANGAN NEGARA / DAERAH",
+ "field": "",
+ "date_enacted": "2020-11-25",
+ "date_promulgated": "2020-11-26",
+ "date_effective": "2020-11-26",
+ "gazette": "BN.2020/NO.1388, https:jdih.kemenkeu.go.id : 10 Hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2025-46",
+   "target_bpk_id": 326196,
+   "label": "PMK No. 46 Tahun 2025",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 186/PMK.02/2020 tentang Tata Cara Pengesahan Laporan Pengelolaan Program dan Laporan Keuangan Tahunan Badan Penyelenggara Jaminan Sosial"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 26 November 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/148213/186_PMK.02_2020.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:33:32Z"
+}

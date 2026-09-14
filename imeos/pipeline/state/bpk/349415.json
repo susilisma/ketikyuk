@@ -1,0 +1,42 @@
+{
+ "id": "PP-2026-20",
+ "source": "bpk",
+ "bpk_id": 349415,
+ "url": "https://peraturan.bpk.go.id/Details/349415/pp-no-20-tahun-2026",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "20",
+ "number_raw": "20",
+ "year": 2026,
+ "title": "Peraturan Pemerintah (PP) Nomor 20 Tahun 2026 tentang Perubahan atas Peraturan Pemerintah Nomor 55 Tahun 2022 tentang Penyesuaian Pengaturan di Bidang Pajak Penghasilan",
+ "about": "Perubahan atas Peraturan Pemerintah Nomor 55 Tahun 2022 tentang Penyesuaian Pengaturan di Bidang Pajak Penghasilan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERPAJAKAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-04-22",
+ "date_promulgated": "2026-04-22",
+ "date_effective": "2026-04-22",
+ "gazette": "LN 2026 (43), TLN (7173) : 11 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PP-2022-55",
+   "target_bpk_id": 233488,
+   "label": "PP No. 55 Tahun 2022",
+   "about": "Penyesuaian Pengaturan di Bidang Pajak Penghasilan"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 4 ayat (2) huruf e Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 teatang Cipta Kerja menjadi Undang-Undang, perlu menetapkan Peraturan Pemerintah tentang Perubahan atas Peraturan Pemerintah Nomor 55 Tahun 2022 tentang Penyesuaian Pengaturan di Bidang Pajak Penghasilan.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945; UU No. 7 Tahun 1983; dan PP No. 55 Tahun 2022.\nPP ini mengubah beberapa ketentuan dalam PP No. 55 Tahun 2022.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 22 April 2026.\nPP ini mengubah PP No. 55 Tahun 2022.\nLampiran file: 23 hlm (batang tubuh hlm 1 sd 11 dan penjelasan hlm 12 sd 23)",
+ "citations": [
+  "UU-1983-7",
+  "UU-2023-6",
+  "PERPPU-2022-2",
+  "PP-2022-55"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/413101/PP%20Nomor%2020%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:27:51Z"
+}

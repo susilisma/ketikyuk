@@ -1,0 +1,42 @@
+{
+ "id": "PERMENKUMHAM-2024-16",
+ "source": "bpk",
+ "bpk_id": 298123,
+ "url": "https://peraturan.bpk.go.id/Details/298123/permenkumham-no-16-tahun-2024",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "16",
+ "number_raw": "16",
+ "year": 2024,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 16 Tahun 2024 tentang Pedoman Pengarusutamaan Hak Asasi Manusia dalam Pembentukan Peraturan Perundang-undangan",
+ "about": "Pedoman Pengarusutamaan Hak Asasi Manusia dalam Pembentukan Peraturan Perundang-undangan",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA - HAK ASASI MANUSIA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-06-12",
+ "date_promulgated": "2024-06-19",
+ "date_effective": "2024-06-19",
+ "gazette": "BN 2024 (326) : 4 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133210,
+   "label": "Permenkumham No. 24 Tahun 2017",
+   "about": "Pedoman Materi Muatan Hak Asasi Manusia Dalam Pembentukan Peraturan Perundang-Undangan"
+  }
+ ],
+ "abstract": "Untuk meningkatkan pengarusutamaan hak asasi manusia dalam pembentukan peraturan perundang-undangan sebagai wujud kewajiban dan tanggung jawab pemerintah dalam penghormatan, pelindungan, pemenuhan, penegakan, dan pemajuan hak asasi manusia, perlu mengganti Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 24 Tahun 2017 tentang Pedoman Materi Muatan Hak Asasi Manusia dalam Pembentukan Peraturan Perundang-undangan karena tidak sesuai dengan perkembangan hukum dan kebutuhan masyarakat saat ini.\nDasar hukum Permenkumham ini adalah Pasal 17 ayat (3) UUD 1945; UU Nomor 39 Tahun 1999; UU Nomor 39 Tahun 2008; Perpres Nomor 18 Tahun 2023; dan Permenkumham Nomor 28 Tahun 2023.\nPermenkumham ini mengatur mengenai Pedoman Pengarusutamaan Hak Asasi Manusia dalam Pembentukan Peraturan Perundang-undangan dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Pengarusutamaan Hak Asasi Manusia dalam Pembentukan Peraturan Perundang-undangan merupakan upaya untuk mengintegrasikan prinsip dan nilai Hak Asasi Manusia dalam Materi Muatan Peraturan Perundang-Undangan.",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 19 Juni 2024.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 24 Tahun 2017 tentang Pedoman Materi Muatan Hak Asasi Manusia dalam Pembentukan Peraturan Perundang-undangan (Berita Negara Republik Indonesia Nomor 1690 Tahun 2017), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 44 hlm.",
+ "citations": [
+  "PERMENKUMHAM-2017-24",
+  "UU-1999-39",
+  "UU-2008-39",
+  "PERPRES-2023-18"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/357701/Permenkumham%20Nomor%2016%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:42:39Z"
+}

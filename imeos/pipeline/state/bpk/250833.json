@@ -1,0 +1,55 @@
+{
+ "id": "PERPRES-2023-38",
+ "source": "bpk",
+ "bpk_id": 250833,
+ "url": "https://peraturan.bpk.go.id/Details/250833/perpres-no-38-tahun-2023",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "38",
+ "number_raw": "38",
+ "year": 2023,
+ "title": "Peraturan Presiden (Perpres) Nomor 38 Tahun 2023 tentang Kementerian Kelautan dan Perikanan",
+ "about": "Kementerian Kelautan dan Perikanan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "",
+ "date_enacted": "2023-06-16",
+ "date_promulgated": "2023-06-16",
+ "date_effective": "2023-06-16",
+ "gazette": "LN.2023/No.89, jdih.setneg.go.id: 20 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-193",
+   "target_bpk_id": 306935,
+   "label": "Perpres No. 193 Tahun 2024",
+   "about": "Kementerian Kelautan dan Perikanan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2017-2",
+   "target_bpk_id": 62144,
+   "label": "PERPRES No. 2 Tahun 2017",
+   "about": "Perubahan Atas Peraturan Presiden No 63 Tahun 2015 Tentang Kementerian Kelautan dan Perikanan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2015-63",
+   "target_bpk_id": 41803,
+   "label": "PERPRES No. 63 Tahun 2015",
+   "about": "Kementerian Kelautan dan Perikanan"
+  }
+ ],
+ "abstract": "Sebagai tindak lanjut ditetapkannya Keputusan Presiden Nomor 113/P Tahun 2019 tentang Pembentukan Kementerian Negara dan Pengangkatan Menteri Negara Kabinet Indonesia Maju Periode Tahun 2019-2024 dan untuk melaksanakan ketentuan Pasal 11 Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara, perlu menetapkan Peraturan Presiden tentang Kementerian Kelautan dan Perikanan.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 39 Tahun 2008; dan Perpres Nomor 68 Tahun 2019.\nPerpres ini mengatur mengenai: 1) kedudukan, tugas dan fungsi; 2) susunan organisasi; 3) unit pelaksana teknis; 4) tata kerja; 5) dan pendanaan terkait Kementerian Kelautan dan Perikanan. Kementerian Kelautan dan Perikanan berada di bawah dan bertanggungjawab kepada presiden yang dipimpin oleh Menteri. Kementerian Kelautan dan Perikanan mempunyai tugas menyelenggarakan urusan pemerintahan di bidang kelautan dan perikanan untuk membantu Presiden dalam menyelenggarakan pemerintahan negara.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 16 Juni 2023.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 63 Tahun 2015 tentang Kementerian Kelautan dan Perikanan (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 111) sebagaimana telah diubah dengan Peraturan, Presiden Nomor 2 Tahun 2017 tentang Perubahan atas Peraturan Presiden Nomor 63 Tahun 2015 tentang Kementerian Kelautan dan Perikanan (Lembaran Negara Republik Indonesia Tahun 2017 Nomor 5), dicabut dan dinyatakan tidak berlaku.\nSegala pendanaan yang diperlukan untuk pelaksanaan tugas dan fungsi Kementerian Kelautan dan Perikanan bersumber dari Anggaran Pendapatan dan Belanja Negara.\nLampiran file: 20 hlm.",
+ "citations": [
+  "KEPPRES-2019-113",
+  "UU-2008-39",
+  "PERPRES-2019-68"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/307434/Perpres%20Nomor%2038%20Tahun%202023.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:50Z"
+}

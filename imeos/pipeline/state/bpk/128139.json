@@ -1,0 +1,58 @@
+{
+ "id": "PMK-2019-117",
+ "source": "bpk",
+ "bpk_id": 128139,
+ "url": "https://peraturan.bpk.go.id/Details/128139/pmk-no-117pmk032019",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "117",
+ "number_raw": "117/PMK.03/2019",
+ "year": 2019,
+ "title": "Peraturan Menteri Keuangan Nomor 117/PMK.03/2019 Tahun 2019 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 39/PMK.03/2018 tentang Tata Cara Pengembalian Pendahuluan Kelebihan Pembayaran Pajak",
+ "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 39/PMK.03/2018 tentang Tata Cara Pengembalian Pendahuluan Kelebihan Pembayaran Pajak",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "",
+ "date_enacted": "2019-08-16",
+ "date_promulgated": "2019-08-19",
+ "date_effective": "2019-08-19",
+ "gazette": "BN.2019/NO.934, JDIH.KEMENKEU.GO.ID : 9 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2026-28",
+   "target_bpk_id": 348562,
+   "label": "PMK No. 28 Tahun 2026",
+   "about": "Tata Cara Pengembalian Pendahuluan Kelebihan Pembayaran Pajak"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2021-209",
+   "target_bpk_id": 209395,
+   "label": "PMK No. 209/PMK.03/2021",
+   "about": "Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 39/PMK.03/2018 tentang Tata Cara Pengembalian Pendahuluan Kelebihan Pembayaran Pajak"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2021-209",
+   "target_bpk_id": 209395,
+   "label": "PMK No. 209/PMK.03/2021",
+   "about": "Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 39/PMK.03/2018 tentang Tata Cara Pengembalian Pendahuluan Kelebihan Pembayaran Pajak"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PMK-2018-39",
+   "target_bpk_id": 112141,
+   "label": "PMK No. 39/PMK.03/2018",
+   "about": "Tata Cara Pengembalian Pendahuluan Kelebihan Pembayaran Pajak"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 19 Agustus 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/119134/117~PMK.03~2019Per.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:31:01Z"
+}

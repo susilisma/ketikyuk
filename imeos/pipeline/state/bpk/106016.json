@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2019-17",
+ "source": "bpk",
+ "bpk_id": 106016,
+ "url": "https://peraturan.bpk.go.id/Details/106016/perpres-no-17-tahun-2019",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "17",
+ "number_raw": "17",
+ "year": 2019,
+ "title": "Peraturan Presiden (Perpres) Nomor 17 Tahun 2019 tentang Pengadaan Barang/Jasa Pemerintah untuk Percepatan Pembangunan Kesejahteraan di Provinsi Papua dan Provinsi Papua Barat",
+ "about": "Pengadaan Barang/Jasa Pemerintah untuk Percepatan Pembangunan Kesejahteraan di Provinsi Papua dan Provinsi Papua Barat",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KONSTRUKSI, SIPIL, ARSITEK, BANGUNAN, DAN INFRASTRUKTUR - PROGRAM, RENCANA PEMBANGUNAN DAN RENCANA KERJA",
+ "field": "",
+ "date_enacted": "2019-03-22",
+ "date_promulgated": "2019-03-28",
+ "date_effective": "2019-03-28",
+ "gazette": "LN.2019/NO.60, LL SETKAB : 25 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2025-108",
+   "target_bpk_id": 338403,
+   "label": "Perpres No. 108 Tahun 2025",
+   "about": "Pengadaan Barang/Jasa Pemerintah dalam Rangka Percepatan Pembangunan di Papua"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2012-84",
+   "target_bpk_id": 41329,
+   "label": "PERPRES No. 84 Tahun 2012",
+   "about": "Pengadaan Barang/jasa Pemerintah dalam Rangka Percepatan Pembangunan Provinsi Papua dan Provinsi Papua Barat"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 28 Maret 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/96973/Perpres%20Nomor%2017%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:28Z"
+}

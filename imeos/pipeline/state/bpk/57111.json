@@ -1,0 +1,37 @@
+{
+ "id": "PP-1995-44",
+ "source": "bpk",
+ "bpk_id": 57111,
+ "url": "https://peraturan.bpk.go.id/Details/57111/pp-no-44-tahun-1995",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "44",
+ "number_raw": "44",
+ "year": 1995,
+ "title": "Peraturan Pemerintah (PP) Nomor 44 Tahun 1995 tentang Pembenihan Tanaman",
+ "about": "Pembenihan Tanaman",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KEHUTANAN DAN PERKEBUNAN",
+ "field": "",
+ "date_enacted": "1995-12-30",
+ "date_promulgated": "1995-12-30",
+ "date_effective": "1995-12-30",
+ "gazette": "LN. 1995 No. 85, TLN No. 3616, LL Setkab : 27 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2026-7",
+   "target_bpk_id": 347926,
+   "label": "PP No. 7 Tahun 2026",
+   "about": "Peraturan Pelaksanaan Undang-Undang Nomor 22 Tahun 2019 tentang Sistem Budi Daya Pertanian Berkelanjutan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 30 Desember 1995.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/46564/PP%20No.%2044%20Th%201995.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:28:32Z"
+}

@@ -1,0 +1,47 @@
+{
+ "id": "PERMENDAG-2026-14",
+ "source": "bpk",
+ "bpk_id": 351342,
+ "url": "https://peraturan.bpk.go.id/Details/351342/permendag-no-14-tahun-2026",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "14",
+ "number_raw": "14",
+ "year": 2026,
+ "title": "Peraturan Menteri Perdagangan Nomor 14 Tahun 2026 tentang Barang dan Persyaratan Barang yang Dapat Disimpan dalam Sistem Resi Gudang",
+ "about": "Barang dan Persyaratan Barang yang Dapat Disimpan dalam Sistem Resi Gudang",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-05-11",
+ "date_promulgated": "2026-11-18",
+ "date_effective": "2026-11-18",
+ "gazette": "BN.2026 (314/7 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2020-33",
+   "target_bpk_id": 160256,
+   "label": "Permendag No. 33 Tahun 2020",
+   "about": "Barang dan Persyaratan Barang yang Dapat Disimpan dalam Sistem Resi Gudang"
+  }
+ ],
+ "abstract": "a. bahwa ketentuan mengenai barang dan persyaratan barang yang dapat disimpan dalam sistem resi gudang yang telah diatur dalam Peraturan Menteri Perdagangan Nomor 33 Tahun 2020 tentang Barang dan Persyaratan Barang yang Dapat Disimpan dalam Sistem Resi Gudang sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Perdagangan Nomor 1 Tahun 2025 tentang Perubahan Ketiga atas Peraturan Menteri Perdagangan Nomor 33 Tahun 2020 tentang Barang dan Persyaratan Barang yang Dapat Disimpan dalam Sistem Resi Gudang sudah tidak sesuai dengan kebutuhan dan perkembangan hukum, sehingga perlu diganti;\nb. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan untuk melaksanakan ketentuan Pasal 3 ayat (3) Peraturan Pemerintah Nomor 36 Tahun 2007 tentang Pelaksanaan Undang-Undang Nomor 9 Tahun 2006 tentang Sistem Resi Gudang sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 70 Tahun 2013 tentang Perubahan atas Peraturan Pemerintah Nomor 36 Tahun 2007 tentang Pelaksanaan Undang-Undang Nomor 9 Tahun 2006 tentang Sistem Resi Gudang, perlu menetapkan Peraturan Menteri Perdagangan tentang Barang dan Persyaratan Barang yang Dapat Disimpan dalam Sistem Resi Gudang;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 9 Tahun 2006, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 7 Tahun 2014, Peraturan Pemerintah Nomor 36 Tahun 2007, Peraturan Presiden Nomor 168 Tahun 2024 dan Peraturan Menteri Perdagangan Nomor 6 Tahun 2025\nPeraturan ini mengatur tentang ketentuan umum, resi gudang dan barang yang apat disimpan di gudang sistem resi gudang.",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 18 November 2026.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan Menteri Perdagangan Nomor 33 Tahun 2020 tentang Barang dan Persyaratan Barang yang Dapat Disimpan dalam Sistem Resi Gudang sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Perdagangan Nomor 1 Tahun 2025 tentang Perubahan Ketiga atas Peraturan Menteri Perdagangan Nomor 33 Tahun 2020 tentang Barang dan Persyaratan Barang yang Dapat Disimpan dalam Sistem Resi Gudang",
+ "citations": [
+  "PERMENDAG-2020-33",
+  "PERMENDAG-2025-1",
+  "PP-2007-36",
+  "UU-2006-9",
+  "PP-2013-70",
+  "UU-2008-39",
+  "UU-2014-7",
+  "PERPRES-2024-168",
+  "PERMENDAG-2025-6"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/415121/permendag-no-14-tahun-2026.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:35:54Z"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "POJK-2017-2",
+ "source": "bpk",
+ "bpk_id": 129731,
+ "url": "https://peraturan.bpk.go.id/Details/129731/peraturan-ojk-no-2pojk052017-tahun-2017",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "2",
+ "number_raw": "2/POJK.05/2017",
+ "year": 2017,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 2/POJK.05/2017 Tahun 2017 tentang Penyelenggaraan Usaha Lembaga Penjamin",
+ "about": "Penyelenggaraan Usaha Lembaga Penjamin",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "PEREKONOMIAN",
+ "field": "",
+ "date_enacted": "2017-01-11",
+ "date_promulgated": "2017-01-11",
+ "date_effective": "2017-01-11",
+ "gazette": "LN.2017/NO.7, Jdih.ojk.go.id: 67 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 323031,
+   "label": "Peraturan OJK No. 11 Tahun 2025",
+   "about": "Penyelenggaraan Usaha Lembaga Penjamin"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 11 Januari 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/120635/SAL%20-%20POJK%20tentang%20Penyelenggaraan%20Usaha%20Lembaga%20Penjamin.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:43:48Z"
+}

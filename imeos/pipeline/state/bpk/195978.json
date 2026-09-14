@@ -1,0 +1,51 @@
+{
+ "id": "PERMENAKER-2021-10",
+ "source": "bpk",
+ "bpk_id": 195978,
+ "url": "https://peraturan.bpk.go.id/Details/195978/permenaker-no-10-tahun-2021",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "10",
+ "number_raw": "10",
+ "year": 2021,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 10 Tahun 2021 tentang Rencana Strategis Kementerian Ketenagakerjaan Tahun 2020-2024",
+ "about": "Rencana Strategis Kementerian Ketenagakerjaan Tahun 2020-2024",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "PROGRAM, RENCANA PEMBANGUNAN DAN RENCANA KERJA",
+ "field": "",
+ "date_enacted": "2021-07-09",
+ "date_promulgated": "2021-07-09",
+ "date_effective": "2021-07-09",
+ "gazette": "BN.2021/No.794, jdih.kemnaker.go.id : 5 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENAKER-2025-9",
+   "target_bpk_id": 332124,
+   "label": "Permenaker No. 9 Tahun 2025",
+   "about": "Rencana Strategis Kementerian Ketenagakerjaan Tahun 2025-2029"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENAKER-2022-8",
+   "target_bpk_id": 231400,
+   "label": "Permenaker No. 8 Tahun 2022",
+   "about": "Perubahan atas Peraturan Menteri Ketenagakerjaan Nomor 10 Tahun 2021 tentang Rencana Strategis Kementerian Ketenagakerjaan Tahun 2020-2024"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENAKER-2020-12",
+   "target_bpk_id": 146445,
+   "label": "Permenaker No. 12 Tahun 2020",
+   "about": "Rencana Strategis Kementerian Ketenagakerjaan Tahun 2020-2024"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 09 Juli 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/189817/Permenaker%20Nomor%2010%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:41:08Z"
+}

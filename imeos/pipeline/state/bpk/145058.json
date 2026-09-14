@@ -1,0 +1,37 @@
+{
+ "id": "PERMENAKER-2016-33",
+ "source": "bpk",
+ "bpk_id": 145058,
+ "url": "https://peraturan.bpk.go.id/Details/145058/permenaker-no-33-tahun-2016",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "33",
+ "number_raw": "33",
+ "year": 2016,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 33 Tahun 2016 tentang Tata Cara Pengawasan Ketenagakerjaan",
+ "about": "Tata Cara Pengawasan Ketenagakerjaan",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "KETENAGAKERJAAN",
+ "field": "",
+ "date_enacted": "2016-11-17",
+ "date_promulgated": "2016-11-17",
+ "date_effective": "2016-11-17",
+ "gazette": "BN.2016/No.1753, jdih.kemnaker.go.id : 32 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENAKER-2026-11",
+   "target_bpk_id": 351282,
+   "label": "Permenaker No. 11 Tahun 2026",
+   "about": "Tata Cara Pengawasan Ketenagakerjaan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Ketenagakerjaan Republik Indonesia ini mulai berlaku pada tanggal 17 November 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/251107/Kemnaker%20No.%2033%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:40:32Z"
+}

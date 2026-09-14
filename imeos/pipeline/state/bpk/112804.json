@@ -1,0 +1,37 @@
+{
+ "id": "PMK-2017-114",
+ "source": "bpk",
+ "bpk_id": 112804,
+ "url": "https://peraturan.bpk.go.id/Details/112804/pmk-no-114pmk022017",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "114",
+ "number_raw": "114/PMK.02/2017",
+ "year": 2017,
+ "title": "Peraturan Menteri Keuangan Nomor 114/PMK.02/2017 Tahun 2017 tentang Tata Cara Pembayaran Imbalan (Fee) Kepada Penjual Minyak Dan/Atau Gas Bumi Bagian Negara Yang Dibebankan Pada Bagian Negara Dari Penerimaan Hasil Penjualan Minyak Dan/Atau Gas Bumi",
+ "about": "Tata Cara Pembayaran Imbalan (Fee) Kepada Penjual Minyak Dan/Atau Gas Bumi Bagian Negara Yang Dibebankan Pada Bagian Negara Dari Penerimaan Hasil Penjualan Minyak Dan/Atau Gas Bumi",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERTAMBANGAN MIGAS, MINERAL DAN ENERGI",
+ "field": "",
+ "date_enacted": "2017-08-15",
+ "date_promulgated": "2017-08-16",
+ "date_effective": "2017-08-16",
+ "gazette": "BN.2017/NO.1134, jdih.kemenkeu.go.id : 9 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-139",
+   "target_bpk_id": 312058,
+   "label": "PMK No. 139 Tahun 2024",
+   "about": "Tata Cara Pembayaran atas Tagihan kepada Pemerintah dalam Kegiatan Usaha Hulu Minyak dan Gas Bumi"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 16 Agustus 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/103765/PMK%20Nomor%20114%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:34:00Z"
+}

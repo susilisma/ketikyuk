@@ -1,0 +1,47 @@
+{
+ "id": "PP-2021-39",
+ "source": "bpk",
+ "bpk_id": 161927,
+ "url": "https://peraturan.bpk.go.id/Details/161927/pp-no-39-tahun-2021",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "39",
+ "number_raw": "39",
+ "year": 2021,
+ "title": "Peraturan Pemerintah (PP) Nomor 39 Tahun 2021 tentang Penyelenggaraan Bidang Jaminan Produk Halal",
+ "about": "Penyelenggaraan Bidang Jaminan Produk Halal",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KEAGAMAAN, IBADAH, DAN PENYELENGGARAAN HAJI - PERLINDUNGAN KONSUMEN - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI - CIPTA KERJA",
+ "field": "",
+ "date_enacted": "2021-02-02",
+ "date_promulgated": "2021-02-02",
+ "date_effective": "2021-02-02",
+ "gazette": "LN.2021/No.49, TLN No.6651, jdih.setkab.go.id : 87 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-42",
+   "target_bpk_id": 304896,
+   "label": "PP No. 42 Tahun 2024",
+   "about": "Penyelenggaraan Bidang Jaminan Produk Halal"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2019-31",
+   "target_bpk_id": 161941,
+   "label": "PP No. 31 Tahun 2019",
+   "about": "Peraturan Pelaksanaan Undang-undang Nomor 33 Tahun 2014 tentang Jaminan Produk Halal"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 48 dan Pasal 185 huruf b Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja, perlu menetapkan Peraturan Pemerintah tentang Penyelenggaraan Bidang Jaminan Produk Halal.\nDasar hukum PP ini adalah Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 33 Tahun 2014; dan UU Nomor 11 Tahun 2020.\nPP ini mengatur mengenai antara lain: 1) penyelenggaraan Jaminan Produk Halal (JPH) oleh Badan Penyelenggara Jaminan Produk Halal (BPJPH); 2) pemisahan lokasi, tempat, dan alat Proses Produk Halal (PPH) yang wajib dipisahkan dari lokasi, tempat, dan alat proses tidak haIal, yaitu meliputi proses penyembelihan, pengolahan, penyimpanan, pengemasan, pendistribusian, penjualan, dan penyajian Produk; 3) tata cara pendirian, akreditasi, lingkup kegiatan, dan pencabutan persetujuan pendirian Lembaga Pemeriksa Halal (LPH), serta pengangkatan dan pemberhentian Auditor Halal; 4) hak dan kewajiban Pelaku Usaha serta tata cara penetapan, tugas, dan fasilitasi Penyelia Halal; 5) tata cara pengajuan permohonan, perpanjangan, dan penetapan Sertifikat Halal oleh BPJPH; 6) kemudahan sertifikasi halal bagi Pelaku Usaha mikro dan kecil yang memenuhi standar halal yang ditetapkan oleh BPJPH; 7) pencantuman Label Halal dan keterangan tidak halal; 8) pengawasan JPH oleh BPJPH; dan lain-lain.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 02 Februari 2021.\nPada saat PP ini mulai berlaku, PP Nomor 31 Tahun 2019 tentang Peraturan Pelaksanaan Undang-Undang Nomor 33 Tahun 2014 tentang Jaminan Produk Halal, dicabut dan dinyatakan tidak berlaku.\nPenjelasan 23 hlm.",
+ "citations": [
+  "UU-2020-11",
+  "UU-2014-33"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/154605/PP%20Nomor%2039%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:29:53Z"
+}

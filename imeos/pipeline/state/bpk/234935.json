@@ -1,0 +1,275 @@
+{
+ "id": "UU-2023-1",
+ "source": "bpk",
+ "bpk_id": 234935,
+ "url": "https://peraturan.bpk.go.id/Details/234935/uu-no-1-tahun-2023",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "1",
+ "number_raw": "1",
+ "year": 2023,
+ "title": "Undang-undang (UU) Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana",
+ "about": "Kitab Undang-Undang Hukum Pidana",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HUKUM PIDANA, PERDATA, DAN DAGANG - TINDAK PIDANA",
+ "field": "HUKUM PIDANA",
+ "date_enacted": "2023-01-02",
+ "date_promulgated": "2023-01-02",
+ "date_effective": "2026-01-02",
+ "gazette": "LN.2023/No.1, TLN No.6842 , jdih.setneg.go.id: 229 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2026-1",
+   "target_bpk_id": 337869,
+   "label": "UU No. 1 Tahun 2026",
+   "about": "Penyesuaian Pidana"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1999-27",
+   "target_bpk_id": 45342,
+   "label": "UU No. 27 Tahun 1999",
+   "about": "Perubahan Kitab-Kitab Undang-Undang Hukum Pidana yang Berkaitan dengan Kejahatan Terhadap Keamanan Negara"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1976-4",
+   "target_bpk_id": 47208,
+   "label": "UU No. 4 Tahun 1976",
+   "about": "Perubahan dan Penambahan Beberapa Pasal Dalam Kitab Undang-Undang Hukum Pidana Bertalian Dengan Perluasan Berlakunya Ketentuan Perundang-Undangan Pidana, Kejahatan Penerbangan, dan Kejahatan Terhadap Sarana/Prasarana Penerbangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1974-7",
+   "target_bpk_id": 47415,
+   "label": "UU No. 7 Tahun 1974",
+   "about": "Penertiban Perjudian"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 53472,
+   "label": "PERPU No. 18 Tahun 1960",
+   "about": "Perubahan Jumlah Hukuman Denda Dalam Kitab Undang-Undang Hukum Pidana Dan Dalam Ketentuan-Ketentuan Pidana Lainnya Yang Dikeluarkan Sebelum Tanggal 17 Agustus 1945"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 53465,
+   "label": "PERPU No. 16 Tahun 1960",
+   "about": "Beberapa Perubahan Dalam Kitab Undang-Undang Hukum Pidana"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1960-1",
+   "target_bpk_id": 51291,
+   "label": "UU No. 1 Tahun 1960",
+   "about": "Perubahan Kitab Undang-Undang Hukum Pidana"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1958-73",
+   "target_bpk_id": 52862,
+   "label": "UU No. 73 Tahun 1958",
+   "about": "Menyatakan Berlakunya Undang-Undang No. 1 Tahun 1946 Republik Indonesia Tentang Peraturan Hukum Pidana Untuk Seluruh Wilayah Republik Indonesia Dan Mengubah Kitab Undang-Undang Hukum Pidana"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1946-1",
+   "target_bpk_id": 25029,
+   "label": "UU No. 1 Tahun 1946",
+   "about": "Peraturan tentang Hukum Pidana"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-2018-5",
+   "target_bpk_id": 82689,
+   "label": "UU No. 5 Tahun 2018",
+   "about": "Perubahan atas Undang-Undang Nomor 15 Tahun 2003 tentang Penetapan Peraturan Pemerintah Pengganti Undang Undang Nomor 1 Tahun 2002 tentang Pemberantasan Tindak Pidana Terorisme Menjadi Undang-Undang"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-2016-19",
+   "target_bpk_id": 37582,
+   "label": "UU No. 19 Tahun 2016",
+   "about": "Perubahan Atas Undang-Undang Nomor 11 Tahun 2008 Tentang Informasi Dan Transaksi Elektronik"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-2016-17",
+   "target_bpk_id": 37575,
+   "label": "UU No. 17 Tahun 2016",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2016 Tentang Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun 2002 Tentang Perlindungan Anak Menjadi Undang-Undang"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-2014-35",
+   "target_bpk_id": 38723,
+   "label": "UU No. 35 Tahun 2014",
+   "about": "Perubahan atas Undang-Undang Nomor 23 Tahun 2002 Tentang Perlindungan Anak"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-2014-31",
+   "target_bpk_id": 38701,
+   "label": "UU No. 31 Tahun 2014",
+   "about": "Perubahan atas Undang-Undang Nomor 13 Tahun 2006 Tentang Perlindungan Saksi dan Korban"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-2013-9",
+   "target_bpk_id": 38846,
+   "label": "UU No. 9 Tahun 2013",
+   "about": "Pencegahan dan Pemberantasan Tindak Pidana Pendanaan Terorisme"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-2012-18",
+   "target_bpk_id": 39100,
+   "label": "UU No. 18 Tahun 2012",
+   "about": "Pangan"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-2011-7",
+   "target_bpk_id": 39182,
+   "label": "UU No. 7 Tahun 2011",
+   "about": "Mata Uang"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-2011-6",
+   "target_bpk_id": 39140,
+   "label": "UU No. 6 Tahun 2011",
+   "about": "Keimigrasian"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-2010-8",
+   "target_bpk_id": 38547,
+   "label": "UU No. 8 Tahun 2010",
+   "about": "Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-2009-36",
+   "target_bpk_id": 38778,
+   "label": "UU No. 36 Tahun 2009",
+   "about": "Kesehatan"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-2009-35",
+   "target_bpk_id": 38776,
+   "label": "UU No. 35 Tahun 2009",
+   "about": "Narkotika"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-2009-24",
+   "target_bpk_id": 38661,
+   "label": "UU No. 24 Tahun 2009",
+   "about": "Bendera, Bahasa, dan Lambang Negara, serta Lagu Kebangsaan"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-2008-44",
+   "target_bpk_id": 39740,
+   "label": "UU No. 44 Tahun 2008",
+   "about": "Pornografi"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-2008-40",
+   "target_bpk_id": 39733,
+   "label": "UU No. 40 Tahun 2008",
+   "about": "Penghapusan Diskriminasi Ras dan Etnis"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-2008-11",
+   "target_bpk_id": 37589,
+   "label": "UU No. 11 Tahun 2008",
+   "about": "Informasi dan Transaksi Elektronik"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-2007-21",
+   "target_bpk_id": 39849,
+   "label": "UU No. 21 Tahun 2007",
+   "about": "Pemberantasan Tindak Pidana Perdagangan Orang"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-2006-13",
+   "target_bpk_id": 40178,
+   "label": "UU No. 13 Tahun 2006",
+   "about": "Perlindungan Saksi dan Korban"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-2003-20",
+   "target_bpk_id": 43920,
+   "label": "UU No. 20 Tahun 2003",
+   "about": "Sistem Pendidikan Nasional"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-2003-15",
+   "target_bpk_id": 43015,
+   "label": "UU No. 15 Tahun 2003",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2002 Tentang Pemberantasan Tindak Pidana Terorisme, Menjadi Undang-Undang"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-2002-23",
+   "target_bpk_id": 44473,
+   "label": "UU No. 23 Tahun 2002",
+   "about": "Perlindungan Anak"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-2001-20",
+   "target_bpk_id": 44900,
+   "label": "UU No. 20 Tahun 2001",
+   "about": "Perubahan Atas Undang-Undang Nomor 31 Tahun 1999 tentang Pemberantasan Tindak Pidana Korupsi"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-2000-26",
+   "target_bpk_id": 44993,
+   "label": "UU No. 26 Tahun 2000",
+   "about": "Pengadilan Hak Asasi Manusia"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-1999-31",
+   "target_bpk_id": 45350,
+   "label": "UU No. 31 Tahun 1999",
+   "about": "Pemberantasan Tindak Pidana Korupsi"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": null,
+   "target_bpk_id": 51959,
+   "label": "UUDrt No. 12 Tahun 1951",
+   "about": "Mengubah \"Ordonnantie Tijdelijke Bijzondere Strafbepalingen\" (Stbl. 1948 No.17) dan Undang-Undang R.I. Dahulu Nr 8 Tahun 1948"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": null,
+   "target_bpk_id": 51906,
+   "label": "UUDrt No. 1 Tahun 1951",
+   "about": "Tindakan-Tindakan Sementara untuk Menyelenggarakan Kesatuan Susunan Kekuasaan dan Acara Pengadilan-Pengadilan Sipil"
+  }
+ ],
+ "abstract": "Untuk mewujudkan hukum pidana nasional Negara Kesatuan Republik Indonesia yang berdasarkan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 serta asas hukum umum yang diakui masyarakat bangsa-bangsa, perlu disusun hukum pidana nasional untuk mengganti Kitab Undang-Undang Hukum Pidana warisan pemerintah kolonial Hindia Belanda.\nDasar hukum UU ini adalah Pasal 5 ayat (1) dan Pasal 20 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.\nUU ini mengatur mengenai Kitab Undang-undang Hukum Pidana (KUHP). UU ini berisi Buku Kesatu dan Buku Kedua. Buku Kesatu UU ini Buku Kesatu berisi aturan umum sebagai pedoman bagi penerapan Buku Kedua serta Undang-Undang di luar Undang-Undang ini, Peraturan Daerah Provinsi, dan Peraturan Daerah kabupaten/Kota, kecuali ditentukan lain menurut Undang-Undang sehingga Buku Kesatu juga menjadi dasar bagi Undang-Undang di luar Undang-Undang ini.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 02 Januari 2026.\nUU ini mencabut beberapa ketentuan dan UU sebagaimana diatur dalam Pasal 622 ayat (1).\nUndang-Undang ini mulai berlaku setelah 3 (tiga) tahun terhitung sejak tanggal diundangkan.\nLampiran file: 345 hlm (Batang tubuh hlm 1 sd 229; Lampiran hlm 230 sd 345).",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/287456/UU%20Nomor%201%20Tahun%202023.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:23:21Z"
+}

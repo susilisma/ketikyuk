@@ -1,0 +1,37 @@
+{
+ "id": "PERMENPERIN-2021-2",
+ "source": "bpk",
+ "bpk_id": 166797,
+ "url": "https://peraturan.bpk.go.id/Details/166797/permenperin-no-2-tahun-2021",
+ "form": "PERMENPERIN",
+ "form_long": "Peraturan Menteri Perindustrian",
+ "number": "2",
+ "number_raw": "2",
+ "year": 2021,
+ "title": "Peraturan Menteri Perindustrian Nomor 2 Tahun 2021 tentang Pemberlakuan Standar Nasional Indonesia Batang Konduktor Dari Tembaga (Copper Bus Bars) Secara Wajib",
+ "about": "Pemberlakuan Standar Nasional Indonesia Batang Konduktor Dari Tembaga (Copper Bus Bars) Secara Wajib",
+ "issuer": "Kementerian Perindustrian",
+ "subject": "STANDAR / PEDOMAN",
+ "field": "",
+ "date_enacted": "2021-01-25",
+ "date_promulgated": "2021-02-04",
+ "date_effective": "2021-08-04",
+ "gazette": "BN 2021/ No 114; http://jdih.kemenperin.go.id/; 25 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENPERIN-2024-54",
+   "target_bpk_id": 307976,
+   "label": "Permenperin No. 54 Tahun 2024",
+   "about": "Pemberlakuan Standar Nasional Indonesia untuk Bus Bar Tembaga (Copper Bus Bars) Secara Wajib."
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perindustrian ini mulai berlaku pada tanggal 04 Agustus 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/159723/Permenperin_No._2_Tahun_2021_1.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:39:21Z"
+}

@@ -1,0 +1,46 @@
+{
+ "id": "PERMENPERIN-2024-47",
+ "source": "bpk",
+ "bpk_id": 307907,
+ "url": "https://peraturan.bpk.go.id/Details/307907/permenperin-no-47-tahun-2024",
+ "form": "PERMENPERIN",
+ "form_long": "Peraturan Menteri Perindustrian",
+ "number": "47",
+ "number_raw": "47",
+ "year": 2024,
+ "title": "Peraturan Menteri Perindustrian Nomor 47 Tahun 2024 tentang Jaminan Pemenuhan Kebutuhan Bahan Baku untuk Industri Gula",
+ "about": "Jaminan Pemenuhan Kebutuhan Bahan Baku untuk Industri Gula",
+ "issuer": "Kementerian Perindustrian",
+ "subject": "PERINDUSTRIAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-10-15",
+ "date_promulgated": "2024-10-18",
+ "date_effective": "2024-10-18",
+ "gazette": "BN.2024 (712)/19 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENPERIN-2021-3",
+   "target_bpk_id": 166801,
+   "label": "Permenperin No. 3 Tahun 2021",
+   "about": "Jaminan Ketersediaan Bahan Baku Industri Gula Dalam Rangka Pemenuhan Kebutuhan Gula Nasional"
+  }
+ ],
+ "abstract": "Peraturan Menteri Perindustrian Nomor 10/ MIND/PER/3/2017 tentang Fasilitas Memperoleh Bahan Baku Dalam Rangka Pembangunan Industri Gula dan Peraturan Menteri Perindustrian Nomor 3 Tahun 2021 tentang Jaminan Ketersediaan Bahan Baku Industri Gula Dalam Rangka Pemenuhan Kebutuhan Gula Nasional sudah tidak sesuai dengan perkembangan dan kebutuhan hukum, sehingga perlu diganti.\nPasal 17 ayat (3) UUD NRI Tahun 1945, UU Nomor 39 Tahun 2008, UU Nomor 3 Tahun 2014, PP Nomor 28 Tahun 2021, Perpres Nomor 107 Tahun 2020, Perpres Nomor 40 Tahun 2023, Perpres Nomor 61 Tahun 2024 dan Permenperin Nomor 8 Tahun 2023.\nPeraturan ini mengatur mengenai Jaminan Pemenuhan Bahan Baku untuk Industri Gula. Perusahaan Industri Gula terdiri atas: a. Perusahaan Industri Gula Berbasis Tebu; dan b. Perusahaan Industri Gula Kristal Rafinasi.Perusahaan Industri Gula harus menggunakan bahan baku dalam proses produksi secara efisien, ramah lingkungan, dan berkelanjutan. Perusahaan Industri Gula harus mengutamakan penggunaan bahan baku yang berasal dari dalam negeri.",
+ "note": "Peraturan Menteri Perindustrian ini mulai berlaku pada tanggal 18 Oktober 2024.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas :\na. Peraturan Menteri Perindustrian Nomor 10/M-IND/ PER/3/2017 tentang Fasilitas Memperoleh Bahan Baku Dalam Rangka Pembangunan Industri Gula\nb. Peraturan Menteri Perindustrian Nomor 3 Tahun 2021 tentang Jaminan Ketersedian Bahan Baku Industri Gula Dalam Rangka Pemenuhan Kebutuhan Gula Nasional",
+ "citations": [
+  "PERMENPERIN-2021-3",
+  "UU-2008-39",
+  "UU-2014-3",
+  "PP-2021-28",
+  "PERPRES-2020-107",
+  "PERPRES-2023-40",
+  "PERPRES-2024-61",
+  "PERMENPERIN-2023-8"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/368334/2024pmperin047.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:39:28Z"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "UU-2024-25",
+ "source": "bpk",
+ "bpk_id": 290720,
+ "url": "https://peraturan.bpk.go.id/Details/290720/uu-no-25-tahun-2024",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "25",
+ "number_raw": "25",
+ "year": 2024,
+ "title": "Undang-undang (UU) Nomor 25 Tahun 2024 tentang Kota Pematangsiantar di Provinsi Sumatera Utara",
+ "about": "Kota Pematangsiantar di Provinsi Sumatera Utara",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-07-02",
+ "date_promulgated": "2024-07-02",
+ "date_effective": "2024-07-02",
+ "gazette": "LN 2024 (123), TLN (6945): 6 HLM.; JDIH.SETNEG.GO.ID",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut sebagian",
+   "target": null,
+   "target_bpk_id": 105541,
+   "label": "UUDrt No. 8 Tahun 1956",
+   "about": "Pembentukan Daerah Otonom Kota-Kota Besar, Dalam Lingkungan Daerah Propinsi Sumatera Utara"
+  }
+ ],
+ "abstract": "Undang-Undang Darurat Nomor 8 Tahun 1956 tentang Pembentukan Daerah Otonom Kota-Kota Besar, Dalam Lingkungan Daerah Propinsi Sumatera Utara, sudah tidak sesuai lagi dengan perkembangan hukum sehingga perlu diganti.\nDasar hukum UU ini adalah Pasal 18, Pasal 18A, Pasal 18B ayat (2), Pasal 20, Pasal 21, dan Pasal 22D ayat (2) UUD 1945\nUU ini mengatur mengenai Kota Pemantangsiantar di Provensi Sumatra Utara dengan menetapkan batasan istilah yang digunakan dalam pengaturannya.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 02 Juli 2024.\nPada saat Undang-Undang ini mulai berlaku, ketentuan yang mengatur mengenai Kota Pematangsiantar dalam Undang- Undang Darurat Nomor 8 Tahun 1956 tentang Pembentukan Daerah Otonom Kota-Kota Besar, Dalam Lingkungan Daerah Propinsi Sumatera Utara (Lembaran Negara Nomor 59 Tahun 1956, Tambahan Lembaran Negara Nomor 1O92), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 8 hlm (batang tubuh hlm 1 sd 5, penjelasan hlm 6 sd 8)",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/349995/UU%20Nomor%2025%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:27:20Z"
+}

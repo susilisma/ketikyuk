@@ -1,0 +1,43 @@
+{
+ "id": "PMK-2026-10",
+ "source": "bpk",
+ "bpk_id": 345961,
+ "url": "https://peraturan.bpk.go.id/Details/345961/pmk-no-10-tahun-2026",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "10",
+ "number_raw": "10",
+ "year": 2026,
+ "title": "Peraturan Menteri Keuangan Nomor 10 Tahun 2026 tentang Pengelolaan Dana Bagi Hasil Perkebunan Sawit",
+ "about": "Pengelolaan Dana Bagi Hasil Perkebunan Sawit",
+ "issuer": "Kementerian Keuangan",
+ "subject": "KEHUTANAN DAN PERKEBUNAN - PENGELOLAAN KEUANGAN NEGARA / DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-03-03",
+ "date_promulgated": "2026-03-06",
+ "date_effective": "2026-03-06",
+ "gazette": "BN.2026 (162)/51 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2023-91",
+   "target_bpk_id": 269312,
+   "label": "PMK No. 91 Tahun 2023",
+   "about": "Pengelolaan Dana Bagi Hasil Perkebunan Sawit"
+  }
+ ],
+ "abstract": "a. bahwa untuk meningkatkan pengelolaan dana bagi hasil\nperkebunan sawit yang akuntabel dan mendorong\npenggunaan oleh daerah secara optimal dan tepat\nsasaran, perlu disusun peraturan pengelolaan dana bagi\nhasil perkebunan sawit;\nb. bahwa Peraturan Menteri Keuangan Nomor 91 Tahun\n2023 tentang Pengelolaan Dana Bagi Hasil Perkebunan\nSawit perlu diselaraskan dengan perkembangan regulasi\ndan tata kelola keuangan negara, sehingga perlu\ndilakukan penggantian;\nc. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a dan huruf b serta untuk\nmelaksanakan ketentuan Pasal 16 Peraturan Pemerintah\nNomor 38 Tahun 2023 tentang Dana Bagi Hasil\nPerkebunan Sawit, perlu menetapkan Peraturan Menteri\nKeuangan tentang Pengelolaan Dana Bagi Hasil\nPerkebunan Sawit;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 38 Tahun 2023, Peraturan Presiden Nomor 158 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengatur tentang ketentuan umum, pejabat perbendaharaan negara pengelolaan dana bagi hasil perkebunan sawit, penganggaran dana bagi hasil perkebunan sawit, pengalokasian dana bagi hasil perkebunan sawit, penggunaan dana bagi hasil perkebunan sawit, penyaluran dan penghentian penyaluran, pemantauan dan evaluasi, perhitungan dan penetapan alokasi kurang bayar/lebih bayar dana bagi hasil perkebunan sawit, peyampaian dokumen perencanaan dan pelaporan dana bagi hasil perkebunan sawit, ralksasi penggunaan dan/atau penyaluran dana bagi hasil perkebunan sawit, ketentuan peralihan dan ketentuan penutup.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 06 Maret 2026.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan Menteri ini mulai berlaku, Peraturan Menteri\nKeuangan Nomor 91 Tahun 2023 tentang Pengelolaan Dana Bagi\nHasil Perkebunan Sawit",
+ "citations": [
+  "PMK-2023-91",
+  "PP-2023-38",
+  "UU-2008-39",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/409315/2026pmkeuangan010.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:31:20Z"
+}

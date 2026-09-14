@@ -1,0 +1,37 @@
+{
+ "id": "PMK-2017-37",
+ "source": "bpk",
+ "bpk_id": 112629,
+ "url": "https://peraturan.bpk.go.id/Details/112629/pmk-no-37pmk032017",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "37",
+ "number_raw": "37/PMK.03/2017",
+ "year": 2017,
+ "title": "Peraturan Menteri Keuangan Nomor 37/PMK.03/2017 Tahun 2017 tentang Tata Cara Pembayaran Dan Pelaporan Pajak Penghasilan Atas Penghasilan Dari Pengalihan Real Estat Dalam Skema Kontrak Investasi Kolektif Tertentu",
+ "about": "Tata Cara Pembayaran Dan Pelaporan Pajak Penghasilan Atas Penghasilan Dari Pengalihan Real Estat Dalam Skema Kontrak Investasi Kolektif Tertentu",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PENANAMAN MODAL DAN INVESTASI - PERPAJAKAN",
+ "field": "",
+ "date_enacted": "2017-03-03",
+ "date_promulgated": "2017-03-06",
+ "date_effective": "2017-03-06",
+ "gazette": "BN.2017/NO.374, jdih.kemenkeu.go.id : 10 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-81",
+   "target_bpk_id": 306614,
+   "label": "PMK No. 81 Tahun 2024",
+   "about": "Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 06 Maret 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/103569/PMK%20Nomor%2037%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:35:04Z"
+}

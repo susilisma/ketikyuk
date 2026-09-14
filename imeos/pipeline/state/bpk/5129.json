@@ -1,0 +1,44 @@
+{
+ "id": "PP-2011-7",
+ "source": "bpk",
+ "bpk_id": 5129,
+ "url": "https://peraturan.bpk.go.id/Details/5129/x",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "7",
+ "number_raw": "7",
+ "year": 2011,
+ "title": "Peraturan Pemerintah (PP) Nomor 7 Tahun 2011 tentang Pelayanan Darah",
+ "about": "Pelayanan Darah",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KESEHATAN",
+ "field": "",
+ "date_enacted": "2011-02-04",
+ "date_promulgated": "2011-02-04",
+ "date_effective": "2011-02-04",
+ "gazette": "LN. 2011 No. 18, TLN No. 5197, LL SETNEG : 5 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-28",
+   "target_bpk_id": 294077,
+   "label": "PP No. 28 Tahun 2024",
+   "about": "Peraturan Pelaksanaan Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-1980-18",
+   "target_bpk_id": 66579,
+   "label": "PP No. 18 Tahun 1980",
+   "about": "Transfusi Darah"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 04 Februari 2011.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/35792/PP%20No.7%20TH%202011.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:23Z"
+}

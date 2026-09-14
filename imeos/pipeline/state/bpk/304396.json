@@ -1,0 +1,39 @@
+{
+ "id": "UU-2024-61",
+ "source": "bpk",
+ "bpk_id": 304396,
+ "url": "https://peraturan.bpk.go.id/Details/304396/uu-no-61-tahun-2024",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "61",
+ "number_raw": "61",
+ "year": 2024,
+ "title": "Undang-undang (UU) Nomor 61 Tahun 2024 tentang Perubahan atas Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara",
+ "about": "Perubahan atas Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "HUKUM TATA NEGARA",
+ "date_enacted": "2024-10-15",
+ "date_promulgated": "2024-10-15",
+ "date_effective": "2024-10-15",
+ "gazette": "LN 2024 (225), TLN (6994) : 5 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "UU-2008-39",
+   "target_bpk_id": 39719,
+   "label": "UU No. 39 Tahun 2008",
+   "about": "Kementerian Negara"
+  }
+ ],
+ "abstract": "UU Nomor 39 Tahun 2008 tentang Kementerian Negara masih memerlukan penyempurnaan untuk dapat menampung kebutuhan dalam penyelenggaraan pemerintahan dan menindaklanjuti Putusan Mahkamah Konstitusi sehingga perlu diubah.\nDasar hukum UU ini adalah Pasal 4 ayat (1), Pasal 17, Pasal 20, dan Pasal 21 UUD 1945 dan UU Nomor 39 Tahun 2008.\nUU ini mengubah beberapa ketentuan dalam UU Nomor 39 Tahun 2008. Dalam hal tertentu, pembentukan kementerian tersendiri dapat didasarkan pada suburusan pemerintahan atau perincian urusan pemerintahan sepanjang memiliki keterkaitan ruang lingkup\nurusan pemerintahan. Jumlah keseluruhan Kementerian yang dibentuk ditetapkan sesuai dengan kebutuhan penyelenggaraan pemerintahan oleh Presiden.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 15 Oktober 2024.\nUU ini mengubah UU Nomor 39 Tahun 2008.\nLampiran file: 8 hlm (batang tubuh hlm 1 sd 5, penjelasan hlm 6 sd 8)",
+ "citations": [
+  "UU-2008-39"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/364403/UU%20Nomor%2061%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:26:26Z"
+}

@@ -1,0 +1,40 @@
+{
+ "id": "PERPRES-2025-3",
+ "source": "bpk",
+ "bpk_id": 313405,
+ "url": "https://peraturan.bpk.go.id/Details/313405/perpres-no-3-tahun-2025",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "3",
+ "number_raw": "3",
+ "year": 2025,
+ "title": "Peraturan Presiden (Perpres) Nomor 3 Tahun 2025 tentang Susunan Keanggotaan Panitia Seleksi dan Tata Cara Pelaksanaan Seleksi Anggota Dewan Komisioner Lembaga Penjamin Simpanan",
+ "about": "Susunan Keanggotaan Panitia Seleksi dan Tata Cara Pelaksanaan Seleksi Anggota Dewan Komisioner Lembaga Penjamin Simpanan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-01-21",
+ "date_promulgated": "2025-01-21",
+ "date_effective": "2025-01-21",
+ "gazette": "LN 2025 (6) : 7 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2025-97",
+   "target_bpk_id": 331628,
+   "label": "Perpres No. 97 Tahun 2025",
+   "about": "Perubahan atas Peraturan Presiden Nomor 3 Tahun 2025 tentang Susunan Keanggotaan Panitia Seleksi dan Tata Cara Pelaksanaan Seleksi Anggota Dewan Komisioner Lembaga Penjamin Simpanan"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 65 ayat (6) Undang-Undang Nomor 24 Tahun 2004 tentang Lembaga Penjamin Simpanan Sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 4 Tahun 2023 tentang Pengembangan dan Penguatan Sektor Keuangan, perlu menetapkan Peraturan Presiden tentang Susunan Keanggotaan Panitia Seleksi dan Tata Cara Pelaksanaan Seleksi Anggota Dewan Komisioner Lembaga Penjamin Simpanan.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD NRI Tahun 1945 dan UU Nomor 24 Tahun 2004.\nPerpres ini mengatur mengenai Susunan Keanggotaan Panitia Seleksi dan Tata Cara Pelaksanaan Seleksi Anggota Dewan Komisioner Lembaga Penjamin Simpanan. Pemilihan calon anggota Dewan Komisioner yang akan diusulkan Presiden kepada Dewan Perwakilan Rakyat dilakukan oleh Panitia Seleksi.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 21 Januari 2025.\nLampiran file: 7 hlm.",
+ "citations": [
+  "UU-2004-24",
+  "UU-2023-4"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/374296/Perpres%20Nomor%203%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:39Z"
+}

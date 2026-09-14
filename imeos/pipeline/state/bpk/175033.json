@@ -1,0 +1,47 @@
+{
+ "id": "PP-2021-81",
+ "source": "bpk",
+ "bpk_id": 175033,
+ "url": "https://peraturan.bpk.go.id/Details/175033/pp-no-81-tahun-2021",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "81",
+ "number_raw": "81",
+ "year": 2021,
+ "title": "Peraturan Pemerintah (PP) Nomor 81 Tahun 2021 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Badan Pemeriksa Keuangan",
+ "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Badan Pemeriksa Keuangan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
+ "field": "",
+ "date_enacted": "2021-08-10",
+ "date_promulgated": "2021-08-10",
+ "date_effective": "2021-09-09",
+ "gazette": "LN.2021/No.177, TLN No.6707, jdih.setneg.go.id : 6 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2026-17",
+   "target_bpk_id": 349410,
+   "label": "PP No. 17 Tahun 2026",
+   "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Badan Pemeriksa Keuangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2013-76",
+   "target_bpk_id": 5411,
+   "label": "PP No. 76 Tahun 2013",
+   "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Badan Pemeriksa Keuangan"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 4 ayat (3), Pasal 8 ayat (3), dan Pasal 10 ayat (2) UU Nomor 9 Tahun 2018 tentang Penerimaan Negara Bukan Pajak, perlu menetapkan PP tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak (PNBP) yang Berlaku pada Badan Pemeriksa Keuangan (BPK).\nDasar hukum PP ini adalah Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 9 Tahun 2018; dan PP Nomor 69 Tahun 2020.\nPP ini mengatur mengenai lima jenis PNBP yang berlaku pada BPK yang meliputi penerimaan pada: 1) jasa penyelenggaraan pelatihan pemeriksaan keuangan negara; 2) jasa penilaian kompetensi; 3) jasa penggunaan sarana dan prasarana sesuai dengan tugas dan fungsi; 4) jasa pengembangan aplikasi audit; dan 5) jasa pemeriksaan eksternal. Selain jenis PNBP tersebut, BPK dapat menyelenggarakan jasa pelatihan struktural kepemimpinan administrator, pelatihan struktural kepemimpinan pengawas, dan pelatihan dasar calon pegawai negeri sipil yang dilaksanakan berdasarkan Peraturan Perundang-undangan. Tarif atas PNBP dimaksud mengacu kepada PP mengenai jenis dan tarif atas Penerimaan Negara Bukan Pajak yang berlaku pada Lembaga Administrasi Negara. Dengan pertimbangan tertentu, tarif atas jenis PNBP pada BPK untuk nomor 1 sampai dengan 4 dapat ditetapkan sampai dengan Rp0,00 (nol Rupiah) atau 0% (nol persen).",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 09 September 2021.\nPP ini mencabut PP Nomor 76 Tahun 2013 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Badan Pemeriksa Keuangan.\nSeluruh PNBP yang berlaku pada BPK wajib disetor ke Kas Negara.\nPenjelasan 5 hlm dan Lampiran 3 hlm.",
+ "citations": [
+  "UU-2018-9",
+  "PP-2020-69"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/168299/Salinan%20PP%20Nomor%2081%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:28:01Z"
+}

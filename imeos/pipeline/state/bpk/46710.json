@@ -1,0 +1,37 @@
+{
+ "id": "UU-1990-5",
+ "source": "bpk",
+ "bpk_id": 46710,
+ "url": "https://peraturan.bpk.go.id/Details/46710/uu-no-5-tahun-1990",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "5",
+ "number_raw": "5",
+ "year": 1990,
+ "title": "Undang-undang (UU) Nomor 5 Tahun 1990 tentang Konservasi Sumber Daya Alam Hayati dan Ekosistemnya",
+ "about": "Konservasi Sumber Daya Alam Hayati dan Ekosistemnya",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KEHUTANAN DAN PERKEBUNAN",
+ "field": "",
+ "date_enacted": "1990-08-10",
+ "date_promulgated": "1990-08-10",
+ "date_effective": "1990-08-10",
+ "gazette": "website peraturan.go.id : 14 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2024-32",
+   "target_bpk_id": 295135,
+   "label": "UU No. 32 Tahun 2024",
+   "about": "Perubahan atas Undang-Undang Nomor 5 Tahun 1990 tentang Konservasi Sumber Daya Alam Hayati dan Ekosistemnya"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 10 Agustus 1990.\nPada saat mulai berlakunya Undang-undang ini maka:\n1. Ordonansi Perburuan (Jachtordonnantie 1931 Staatsblad 1931 Nummer 133);\n2. Ordonansi Perlindungan Binatang-binatang Liar (Dierenbeschermingsordonnantie\n1931 Staatsblad 1931 Nummer 134);\n3. Ordonansi Perburuan Jawa dan Madura (Jachtcrdonnantie Java en Madoera 1940\nStaatsblad 1939 Nummer 733);\n4. Ordonansi Perlindungan Alam (Natuurbeschermingsordonnantie 1941 Staatsblad\n1941 Nummer 167);\ndinyatakan tidak berlaku lagi",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/35455/UU%20Nomor%205%20Tahun%201990.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:27:09Z"
+}

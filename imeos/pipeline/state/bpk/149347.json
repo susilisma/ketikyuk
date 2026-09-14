@@ -1,0 +1,60 @@
+{
+ "id": "PP-2020-58",
+ "source": "bpk",
+ "bpk_id": 149347,
+ "url": "https://peraturan.bpk.go.id/Details/149347/pp-no-58-tahun-2020",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "58",
+ "number_raw": "58",
+ "year": 2020,
+ "title": "Peraturan Pemerintah (PP) Nomor 58 Tahun 2020 tentang Pengelolaan Penerimaan Negara Bukan Pajak",
+ "about": "Pengelolaan Penerimaan Negara Bukan Pajak",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PENGELOLAAN KEUANGAN NEGARA / DAERAH - PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
+ "field": "",
+ "date_enacted": "2020-10-08",
+ "date_promulgated": "2020-10-12",
+ "date_effective": "2020-10-12",
+ "gazette": "LN.2020/No.230, TLN No.6563, jdih.setneg.go.id: 41 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2025-44",
+   "target_bpk_id": 331115,
+   "label": "PP No. 44 Tahun 2025",
+   "about": "Tata Cara Penetapan Tarif, Pengelolaan, dan Penyelesaian Keberatan, Keringanan, dan Pengembalian Penerimaan Negara Bukan Pajak"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2009-29",
+   "target_bpk_id": 4947,
+   "label": "PP No. 29 Tahun 2009",
+   "about": "Tata Cara Penentuan Jumlah Pembayaran Dan Penyetoran Penerimaan Negara Bukan Pajak Yang Terutang"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2004-1",
+   "target_bpk_id": 51742,
+   "label": "PP No. 1 Tahun 2004",
+   "about": "Tata Cara Penyampaian Rencana Dan Laporan Realisasi Penerimaan Negara Bukan Pajak"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-1999-73",
+   "target_bpk_id": 54416,
+   "label": "PP No. 73 Tahun 1999",
+   "about": "Tatacara Penggunaan Penerimaan Negara Bukan Pajak Yang Bersumber Dari Kegiatan Tertentu"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 19 ayat (3), Pasal 24, Pasal 40, Pasal 44, dan Pasal 46 ayat (4) Undang-Undang Nomor 9 Tahun 2018 tentang Penerimaan Negara Bukan Pajak, perlu menetapkan Peraturan Pemerintah tentang Pengelolaan Penerimaan Negara Bukan Pajak.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945 dan UU Nomor 9 Tahun 2018 tentang Penerimaan Negara Bukan Pajak.\nPP ini mengatur mengenai pengelolaan PNBP yang terdiri atas: 1) perencanaan PNBP yang mengikuti siklus penyusunan Anggaran Pendapatan dan Belanja Negara; 2) pelaksanaan PNBP yang mempertimbangkan manajemen pengelolaan PNBP yang profesional, transparan, dan akuntabel, serta memberikan kepastian hukum terhadap hak dan kewajiban Instansi Pengelola PNBP, Mitra Instansi Pengelola PNBP, dan Wajib Bayar; 3) pertanggungjawaban PNBP yang memberikan gambaran atas proses perencanaan dan pelaksanaan PNBP; dan 4) pengawasan PNBP yang mengatur kewenangan Aparat Pengawasan Intern Pemerintah dan Unit yang ditunjuk oleh Menteri dalam rangka meningkatkan kualitas perencanaan, pelaksanaan dan pertanggungjawaban.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 12 Oktober 2020.\nPP ini mencabut PP Nomor 73 Tahun 1999, PP Nomor 1 Tahun 2004, dan PP Nomor 29 Tahun 2009.",
+ "citations": [
+  "UU-2018-9"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/141386/PP%20Nomor%2058%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:29:00Z"
+}

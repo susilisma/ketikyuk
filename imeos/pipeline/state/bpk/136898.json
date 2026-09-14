@@ -1,0 +1,46 @@
+{
+ "id": "PMK-2020-27",
+ "source": "bpk",
+ "bpk_id": 136898,
+ "url": "https://peraturan.bpk.go.id/Details/136898/pmk-no-27pmk082020",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "27",
+ "number_raw": "27/PMK.08/2020",
+ "year": 2020,
+ "title": "Peraturan Menteri Keuangan Nomor 27/PMK.08/2020 Tahun 2020 tentang Penjualan Sura Utang Negara Ritel Di Pasar Perdana Domestik",
+ "about": "Penjualan Sura Utang Negara Ritel Di Pasar Perdana Domestik",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PIUTANG, UTANG, DAN HIBAH NEGARA / DAERAH",
+ "field": "",
+ "date_enacted": "2020-03-30",
+ "date_promulgated": "2020-03-31",
+ "date_effective": "2020-03-31",
+ "gazette": "BN. 2020/NO. 304, JDIH.KEMENKEU.GO.ID : 24 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-94",
+   "target_bpk_id": 337028,
+   "label": "PMK No. 94 Tahun 2025",
+   "about": "Penjualan Surat Utang Negara dengan Cara Pengumpulan Pemesanan di Pasar Perdana Domestik"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2018-31",
+   "target_bpk_id": 112057,
+   "label": "PMK No. 31/PMK.08/2018",
+   "about": "Penjualan Surat Utang Negara Ritel Di Pasar Perdana Domestik"
+  }
+ ],
+ "abstract": "Bahwa untuk melakukan penyempurnaan pengaturan penjualan Surat Utang Negara dengan mengakomodir penyelenggara perdagangan melalui sistem elektronik untuk dapat ditunjuk menjadi mitra distribusi Pemerintah terhadap penjualan Surat Utang Negara Ritel di pasar perdana domestik, perlu melakukan pengaturan kembali Peraturan Menteri Keuangan Nomor 31/PMK.08/2018 dengan menetapkan Peraturan Menteri Keuangan tentang Penjualan Surat Utang Negara Ritel di Pasar Perdana Domestik.\nDasar Hukum Peraturan ini adalah:\nPasal 17 ayat (3) UUD 1945, UU 24 Tahun 2002 (LN Tahun 2002 No.110, TLN No.4236), UU 39 Tahun 2008 (LN Tahun 2008 No.166, TLN No.4916), Perpres RI 28 Tahun 2015 (LN Tahun 2015 No.51).\nDalam Peraturan Menteri Keuangan Republik Indonesia ini diatur: Dalam rangka penjualan SUN Ritel, Pemerintah dapat menetapkan Mitra Distribusi untuk membantu dalam melakukan pemasaran, penawaran dan/atau penjualan SUN Ritel. Dokumen penjualan SUN Ritel meliputi Memorandum Informasi dan ketentuan dan persyaratan (terms and conditions) SUN Ritel. Setelmen penjualan SUN Ritel dilakukan pada 2 (dua) Hari Kerja setelah penetapan hasil penjualan SUN Ritel. Dalam hal terjadi Keadaan Kahar dalam pelaksanaan penjualan SUN Ritel, Direktur Jenderal dapat mengambil langkah yang diperlukan untuk tindak lanjut atas penyelesaian Keadaan Kahar. Seluruh hasil penjualan SUN Ritel dicatat dalam Anggaran Pendapatan dan Belanja Negara. Hasil penjualan SUN Ritel diumumkan kepada publik setelah penetapan hasil penjualan SUN Ritel.",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 31 Maret 2020.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 31/PMK.08/2018 tentang Penjualan Surat Utang Negara Ritel di Pasar Perdana Domestik (Berita Negara Republik Indonesia Tahun 2018 Nomor 434), dicabut dan dinyatakan tidak berlaku.\n-\n24 HLM, Lampiran Halaman 23 s.d. 24.",
+ "citations": [
+  "PMK-2018-31"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/127807/27_PMK.08_2020.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:32:16Z"
+}

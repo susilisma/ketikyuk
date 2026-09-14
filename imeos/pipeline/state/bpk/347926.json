@@ -1,0 +1,75 @@
+{
+ "id": "PP-2026-7",
+ "source": "bpk",
+ "bpk_id": 347926,
+ "url": "https://peraturan.bpk.go.id/Details/347926/pp-no-7-tahun-2026",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "7",
+ "number_raw": "7",
+ "year": 2026,
+ "title": "Peraturan Pemerintah (PP) Nomor 7 Tahun 2026 tentang Peraturan Pelaksanaan Undang-Undang Nomor 22 Tahun 2019 tentang Sistem Budi Daya Pertanian Berkelanjutan",
+ "about": "Peraturan Pelaksanaan Undang-Undang Nomor 22 Tahun 2019 tentang Sistem Budi Daya Pertanian Berkelanjutan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PANGAN, PERTANIAN DAN PETERNAKAN",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2026-02-09",
+ "date_promulgated": "2026-02-09",
+ "date_effective": "2026-02-09",
+ "gazette": "LN 2026 (17), TLN (7160): 53 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PP-2010-18",
+   "target_bpk_id": 5026,
+   "label": "PP No. 18 Tahun 2010",
+   "about": "Usaha Budidaya Tanaman"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2001-81",
+   "target_bpk_id": 53101,
+   "label": "PP No. 81 Tahun 2001",
+   "about": "Alat Dan Mesin Budidaya Tanaman"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2001-8",
+   "target_bpk_id": 52718,
+   "label": "PP No. 8 Tahun 2001",
+   "about": "Pupuk Budidaya Tanaman"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-1995-6",
+   "target_bpk_id": 57024,
+   "label": "PP No. 6 Tahun 1995",
+   "about": "Perlindungan Tanaman"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-1995-44",
+   "target_bpk_id": 57111,
+   "label": "PP No. 44 Tahun 1995",
+   "about": "Pembenihan Tanaman"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-1973-7",
+   "target_bpk_id": 68075,
+   "label": "PP No. 7 Tahun 1973",
+   "about": "Pengawasan Atas Peredaran, Penyimpanan Dan Penggunaan Pestisida"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 13 ayat (3), Pasal 15 ayat (3), Pasal 16 ayat(4), Pasal 24, Pasal 27 ayat (6), Pasal 28 ayat (4), Pasal 30 ayat (5), Pasal 46 ayat (2), Pasal 50 ayat (2), Pasal 54, Pasal 55 ayat (3), Pasal 62, Pasal 63 ayat (2), Pasal 64 ayat (2), Pasal 70 ayat (4), Pasal 74, Pasal 81, Pasal 90, dan Pasal 108 ayat (3) Undang-Undang Nomor 22 Tahun 2019 tentang Sistem Budi Daya Pertanian Berkelanjutan sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2O23 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang, perlu menetapkan Peraturan Pemerintah tentang Peraturan Pelaksanaan Undang-Undang Nomor 22 Tahun 2019 tentang Sistem Budi Daya Pertanian Berkelanjutan.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945 dan UU No. 22 Tahun 2019.\nSecara umum materi muatan dalam Peraturan Pemerintah ini meliputi budi daya yang terdiri atas prasarana berupa Lahan dan air, serta sarana berupa benih, Pupuk, pestisida, Alat dan Mesin, Pelindungan Tanaman, panen dan pascapanen, permodalan, diversilikasi, penzinan, dan pungutan, pembinaan dan pengawasan, serta sanksi.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 09 Februari 2026.\nPP ini mencabut PP No. 7 Tahun 1973; PP No. 6 Tahun 1995; PP No. 44 Tahun 1995; PP No. 8 Tahun 2001; PP No. 81 Tahun 2001; dan PP No. 18 Tahun 2010.\nLampiran file: 74 hlm (batang tubuh hlm 1 sd 53, lampiran hlm 54 sd 74)",
+ "citations": [
+  "UU-2019-22",
+  "PERPPU-2022-2"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/411501/PP%20Nomor%207%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:28:27Z"
+}

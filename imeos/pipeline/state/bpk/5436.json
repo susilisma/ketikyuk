@@ -1,0 +1,51 @@
+{
+ "id": "PP-2013-99",
+ "source": "bpk",
+ "bpk_id": 5436,
+ "url": "https://peraturan.bpk.go.id/Details/5436/pp-no-99-tahun-2013",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "99",
+ "number_raw": "99",
+ "year": 2013,
+ "title": "Peraturan Pemerintah (PP) Nomor 99 Tahun 2013 tentang Pengelolaan Aset Jaminan Sosial Ketenagakerjaan",
+ "about": "Pengelolaan Aset Jaminan Sosial Ketenagakerjaan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KETENAGAKERJAAN",
+ "field": "",
+ "date_enacted": "2013-12-27",
+ "date_promulgated": "2013-12-27",
+ "date_effective": "2014-01-01",
+ "gazette": "LN. 2013 No.256, LL SETNEG : 40 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2026-27",
+   "target_bpk_id": 351383,
+   "label": "PP No. 27 Tahun 2026",
+   "about": "Perubahan Kedua atas Peraturan Pemerintah Nomor 99 Tahun 2013 tentang Pengelolaan Aset Jaminan Sosial Ketenagakerjaan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2015-55",
+   "target_bpk_id": 5627,
+   "label": "PP No. 55 Tahun 2015",
+   "about": "Perubahan atas Peraturan Pemerintah Nomor 99 Tahun 2013 Tentang Pengelolaan Aset Jaminan Sosial Ketenagakerjaan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2004-22",
+   "target_bpk_id": 51862,
+   "label": "PP No. 22 Tahun 2004",
+   "about": "Pengelolaan Dan Investasi Dana Program Jaminan Sosial Tenaga Kerja"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 01 Januari 2014.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/33954/PP%20Nomor%2099%20Tahun%202013.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:27:39Z"
+}

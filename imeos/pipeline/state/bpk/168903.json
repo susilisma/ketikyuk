@@ -1,0 +1,45 @@
+{
+ "id": "PERBKPM-2021-4",
+ "source": "bpk",
+ "bpk_id": 168903,
+ "url": "https://peraturan.bpk.go.id/Details/168903/peraturan-bkpm-no-4-tahun-2021",
+ "form": "PERBKPM",
+ "form_long": "Peraturan Badan Koordinasi Penanaman Modal",
+ "number": "4",
+ "number_raw": "4",
+ "year": 2021,
+ "title": "Peraturan Badan Koordinasi Penanaman Modal Nomor 4 Tahun 2021 tentang Pedoman dan Tata Cara Pelayanan Perizinan Berusaha Berbasis Risiko dan Fasilitas Penanaman Modal",
+ "about": "Pedoman dan Tata Cara Pelayanan Perizinan Berusaha Berbasis Risiko dan Fasilitas Penanaman Modal",
+ "issuer": "Badan Koordinasi Penanaman Modal",
+ "subject": "PENANAMAN MODAL DAN INVESTASI - STANDAR / PEDOMAN",
+ "field": "",
+ "date_enacted": "2021-03-29",
+ "date_promulgated": "2021-04-01",
+ "date_effective": "2021-06-02",
+ "gazette": "BN 2021/ NO 272; https://jdih.bkpm.go.id/ : 128 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 168905,
+   "label": "Peraturan BKPM No. 5 Tahun 2019",
+   "about": "Perubahan Atas Peraturan Badan Koordinasi Penanaman Modal Nomor 6 Tahun 2018 Tentang Pedoman Dan Tata Cara Perizinan Dan Fasilitas Penanaman Modal"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 168904,
+   "label": "Peraturan BKPM No. 6 Tahun 2018",
+   "about": "Pedoman dan Tata Cara Perizinan dan Fasilitas Penanaman Modal"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Badan Koordinasi Penanaman Modal ini mulai berlaku pada tanggal 02 Juni 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/161978/2021._4_Salinan_Perbkpm_Pelayanan_.pdf",
+  "https://peraturan.bpk.go.id/Download/161979/2021._4_Salinan_Lampiran_Pelayanan_.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:31:40Z"
+}

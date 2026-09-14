@@ -1,0 +1,41 @@
+{
+ "id": "PERPRES-2026-1",
+ "source": "bpk",
+ "bpk_id": 343427,
+ "url": "https://peraturan.bpk.go.id/Details/343427/perpres-no-1-tahun-2026",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "1",
+ "number_raw": "1",
+ "year": 2026,
+ "title": "Peraturan Presiden (Perpres) Nomor 1 Tahun 2026 tentang Perubahan atas Peraturan Presiden Nomor 148 Tahun 2024 tentang Kementerian Sekretariat Negara",
+ "about": "Perubahan atas Peraturan Presiden Nomor 148 Tahun 2024 tentang Kementerian Sekretariat Negara",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-01-08",
+ "date_promulgated": "2026-01-08",
+ "date_effective": "2026-01-08",
+ "gazette": "LN 2026 (3) : 12 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2024-148",
+   "target_bpk_id": 306600,
+   "label": "Perpres No. 148 Tahun 2024",
+   "about": "Kementerian Sekretariat Negara"
+  }
+ ],
+ "abstract": "Beberapa ketentuan dalam Peraturan Presiden Nomor 148 Tahun 2024 tentang Kementerian Sekretariat Negara perlu disesuaikan dengan perkembangan hukum dan kebutuhan organisasi.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UD 1945; UU No. 39 Tahun 2008; Perpres No. 140 Tahun 2024; dan Perpres No. 148 Tahun 2024.\nPerpres ini mengubah beberapa ketentuan dalam Perpres No. 148 Tahun 2024.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 08 Januari 2026.\nPerpres ini mengubah Perpres No. 148 Tahun 2024.\nLampiran file: 12 hlm.",
+ "citations": [
+  "PERPRES-2024-148",
+  "UU-2008-39",
+  "PERPRES-2024-140"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/406640/Perpres%20Nomor%201%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:28:29Z"
+}

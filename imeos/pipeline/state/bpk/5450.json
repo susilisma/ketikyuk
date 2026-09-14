@@ -1,0 +1,44 @@
+{
+ "id": "PP-2014-13",
+ "source": "bpk",
+ "bpk_id": 5450,
+ "url": "https://peraturan.bpk.go.id/Details/5450/pp-no-13-tahun-2014",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "13",
+ "number_raw": "13",
+ "year": 2014,
+ "title": "Peraturan Pemerintah (PP) Nomor 13 Tahun 2014 tentang Jenis Dan Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Berlaku Pada Kementerian Riset Dan Teknologi",
+ "about": "Jenis Dan Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Berlaku Pada Kementerian Riset Dan Teknologi",
+ "issuer": "Pemerintah Pusat",
+ "subject": "ILMU PENGETAHUAN DAN TEKNOLOGI - PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
+ "field": "",
+ "date_enacted": "2014-02-14",
+ "date_promulgated": "2014-02-14",
+ "date_effective": "2014-03-15",
+ "gazette": "LN. 2014 No. 37, TLN No. 5507, LL SETNEG : 58 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2026-13",
+   "target_bpk_id": 349363,
+   "label": "PP No. 13 Tahun 2026",
+   "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Badan Riset dan Inovasi Nasional"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2009-47",
+   "target_bpk_id": 4970,
+   "label": "PP No. 47 Tahun 2009",
+   "about": "Jenis Dan Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Berlaku Pada Kementerian Negara Riset Dan Teknologi"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 15 Maret 2014.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/30007/PP%20Nomor%2013%20Tahun%202014.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:28:18Z"
+}

@@ -1,0 +1,56 @@
+{
+ "id": "PMK-2024-93",
+ "source": "bpk",
+ "bpk_id": 311431,
+ "url": "https://peraturan.bpk.go.id/Details/311431/pmk-no-93-tahun-2024",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "93",
+ "number_raw": "93",
+ "year": 2024,
+ "title": "Peraturan Menteri Keuangan Nomor 93 Tahun 2024 tentang Platform Digital Sinergi Kebijakan Fiskal Nasional",
+ "about": "Platform Digital Sinergi Kebijakan Fiskal Nasional",
+ "issuer": "Kementerian Keuangan",
+ "subject": "KEBIJAKAN PEMERINTAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-12-02",
+ "date_promulgated": "2024-12-10",
+ "date_effective": "2024-12-10",
+ "gazette": "BN.2024 (929/46 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2020-24",
+   "target_bpk_id": 136894,
+   "label": "PMK No. 24/PMK.07/2020",
+   "about": "Perubahan Atas Peraturan Menteri Keuangan Nomor 74/PMK.07/2016 Tentang Penyelenggaraan Sistem Informasi Keuangan Daerah"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2020-231",
+   "target_bpk_id": 157747,
+   "label": "PMK No. 231/PMK.07/2020",
+   "about": "Tata Cara Penyampaian Informasi Keuangan Daerah, Laporan Data Bulanan, dan Laporan Pemerintah Daerah Lainnya"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2016-74",
+   "target_bpk_id": 136911,
+   "label": "PMK No. 74/PMK.07/2016",
+   "about": "Penyelenggaraan Sistem Informasi Keuangan Daerah"
+  }
+ ],
+ "abstract": "bahwa untuk melaksanakan ketentuan Pasal 32 dan Pasal 35\nPeraturan Pemerintah Nomor 1 Tahun 2024 tentang Harmonisasi Kebijakan Fiskal Nasional, perlu menetapkan Peraturan Menteri Keuangan tentang Platform Digital Sinergi Kebijakan Fiskal Nasional;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 1 Tahun 2024, Peraturan Presiden Nomor 158 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 118/PMK.01/2021\nPeraturan ini mengatur tentang ketentuan umum, yang menjelaskan istilah dan definisi yang digunakan dalam peraturan ini, penyelenggaraan Platform Digital SKFN, mencakup sistem utama dan sistem mitra, serta tujuan dari penggunaan platform tersebut, sistem Informasi Keuangan Daerah secara Nasional, termasuk tanggung jawab dan tata cara penyelenggaraannya, digitalisasi Pengelolaan Hubungan Keuangan antara Pemerintah Pusat dan Pemerintahan Daerah, data dan Informasi Digital, yang mengatur tentang penyediaan dan penggunaan data, tata Cara Penyampaian Data dan Informasi Digital, termasuk metode dan waktu penyampaian, konsolidasi Informasi Keuangan Pemerintah Daerah, mengatur tentang konsolidasi data nasional, penyajian Informasi Keuangan Daerah, koordinasi, Kerja Sama, dan Pembinaan dalam rangka penyelenggaraan platform, pemantauan dan Evaluasi, serta sanksi dan insentif untuk pemerintah daerah yang terlibat dan ketentuan peralihan dan penutup, yang mengatur mengenai berlakunya peraturan ini dan pencabutan peraturan sebelumnya.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 10 Desember 2024.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas :\n1. Peraturan Menteri Keuangan Nomor 74/PMK.07/2016 tentang Penyelenggaraan Sistem Informasi Keuangan Daerah\n2. Peraturan Menteri Keuangan Nomor 24/PMK.07/2020 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 74/PMK.07/2016 tentang Penyelenggaraan Sistem Informasi Keuangan Daerah\n3. Peraturan Menteri Keuangan Nomor 231/PMK.07/2020\ntentang Tata Cara Penyampaian Informasi Keuangan Daerah, Laporan Data Bulanan, dan Laporan Pemerintah Daerah Lainnya",
+ "citations": [
+  "PP-2024-1",
+  "UU-2008-39",
+  "PERPRES-2024-158",
+  "PMK-2021-118"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/372130/93%20th%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:34:26Z"
+}

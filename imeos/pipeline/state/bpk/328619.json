@@ -1,0 +1,41 @@
+{
+ "id": "PP-2025-33",
+ "source": "bpk",
+ "bpk_id": 328619,
+ "url": "https://peraturan.bpk.go.id/Details/328619/pp-no-33-tahun-2025",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "33",
+ "number_raw": "33",
+ "year": 2025,
+ "title": "Peraturan Pemerintah (PP) Nomor 33 Tahun 2025 tentang Pencabutan Peraturan Pemerintah Nomor 9 Tahun 2018 tentang Tata Cara Pengendalian Impor Komoditas Perikanan dan Komoditas Pergaraman sebagai Bahan Baku dan Bahan Penolong Industri",
+ "about": "Pencabutan Peraturan Pemerintah Nomor 9 Tahun 2018 tentang Tata Cara Pengendalian Impor Komoditas Perikanan dan Komoditas Pergaraman sebagai Bahan Baku dan Bahan Penolong Industri",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERIKANAN DAN KELAUTAN",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2025-07-29",
+ "date_promulgated": "2025-07-29",
+ "date_effective": "2025-07-29",
+ "gazette": "LN 2025 (117) : 4 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PP-2018-9",
+   "target_bpk_id": 72811,
+   "label": "PP No. 9 Tahun 2018",
+   "about": "Tata Cara Pengendalian Impor Komoditas Perikanan dan Komoditas Pergaraman sebagai Bahan Baku dan Bahan Penolong Industri"
+  }
+ ],
+ "abstract": "Peraturan Pemerintah Nomor 9 Tahun 2018 tentang Tata Cara Pengendalian Impor Komoditas Perikanan dan Komoditas Pergaraman sebagai Bahan Baku dan Bahan Penolong Industri sudah tidak sesuai lagi dengan perkembangan hukum sehingga perlu dicabut.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945; UU Nomor 3 Tahun 2014; dan UU Nomor 7 Tahun 2016.\nPeraturan Pemerintah Nomor 9 Tahun 2018 tentang Tata Cara Pengendalian Impor Komoditas Perikanan dan Komoditas Pergaraman sebagai Bahan Baku dan Bahan Penolong Industri (Lembaran Negara Republik Indonesia Tahun 2018 Nomor 31, Tambahan Lembaran Negara Republik Indonesia Nomor 6188), dicabut dan dinyatakan tidak berlaku.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 29 Juli 2025.\nPP ini mencabut PP Nomor 33 Tahun 2025.\nLampiran file: 4 hlm.",
+ "citations": [
+  "PP-2018-9",
+  "UU-2014-3",
+  "UU-2016-7"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/390486/PP%20Nomor%2033%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:29:19Z"
+}

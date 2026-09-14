@@ -1,0 +1,65 @@
+{
+ "id": "UU-2012-18",
+ "source": "bpk",
+ "bpk_id": 39100,
+ "url": "https://peraturan.bpk.go.id/Details/39100/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "18",
+ "number_raw": "18",
+ "year": 2012,
+ "title": "Undang-undang (UU) Nomor 18 Tahun 2012 tentang Pangan",
+ "about": "Pangan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PEREKONOMIAN",
+ "field": "",
+ "date_enacted": "2012-11-16",
+ "date_promulgated": "2012-11-17",
+ "date_effective": "2012-11-17",
+ "gazette": "LN.2012/No. 227, TLN No. 5360, LL SETNEG: 58 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2023-1",
+   "target_bpk_id": 234935,
+   "label": "UU No. 1 Tahun 2023",
+   "about": "Kitab Undang-Undang Hukum Pidana"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 234926,
+   "label": "PERPU No. 2 Tahun 2022",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1996-7",
+   "target_bpk_id": 46097,
+   "label": "UU No. 7 Tahun 1996",
+   "about": "Pangan"
+  }
+ ],
+ "abstract": "Pangan merupakan kebutuhan dasar manusia yang paling utama dan pemenuhannya merupakan bagian dari hak asasi manusia yang dijamin di dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 sebagai komponen dasar untuk mewujudkan sumber daya manusia yang berkualitas. Negara berkewajiban mewujudkan ketersediaan, keterjangkauan, dan pemenuhan konsumsi Pangan yang cukup, aman, bermutu, dan bergizi seimbang, baik pada tingkat nasional maupun daerah hingga perseorangan secara merata di seluruh wilayah Negara Kesatuan Republik Indonesia sepanjang waktu dengan memanfaatkan sumber daya, kelembagaan, dan budaya lokal. Sebagai negara dengan jumlah penduduk yang besar dan di sisi lain memiliki sumber daya alam dan sumber Pangan yang beragam, Indonesia mampu memenuhi kebutuhan Pangannya secara berdaulat dan mandiri.\nDasar Hukum Undang-Undang ini adalah : Pasal 20, Pasal 21, Pasal 28A, dan Pasal 28C ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.\nUndang-Undang ini mengatur tentang Pangan. Dalam Undang-Undang ini Pangan dimaksudkan sebagai ri sumber hayati produk pertanian, perkebunan, kehutanan, perikanan, peternakan, perairan, dan air, baik yang diolah maupun tidak diolah yang diperuntukkan sebagai makanan atau minuman bagi konsumsi manusia.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 17 November 2012.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/28501/UU%20Nomor%2018%20Tahun%202012.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:45Z"
+}

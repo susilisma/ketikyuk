@@ -1,0 +1,37 @@
+{
+ "id": "PP-2001-8",
+ "source": "bpk",
+ "bpk_id": 52718,
+ "url": "https://peraturan.bpk.go.id/Details/52718/pp-no-8-tahun-2001",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "8",
+ "number_raw": "8",
+ "year": 2001,
+ "title": "Peraturan Pemerintah (PP) Nomor 8 Tahun 2001 tentang Pupuk Budidaya Tanaman",
+ "about": "Pupuk Budidaya Tanaman",
+ "issuer": "Pemerintah Pusat",
+ "subject": "ILMU PENGETAHUAN DAN TEKNOLOGI",
+ "field": "",
+ "date_enacted": "2001-02-19",
+ "date_promulgated": "2001-02-19",
+ "date_effective": "2001-02-19",
+ "gazette": "LN. 2001 No. 14, TLN No. 4079, LL SETNEG : 12 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2026-7",
+   "target_bpk_id": 347926,
+   "label": "PP No. 7 Tahun 2026",
+   "about": "Peraturan Pelaksanaan Undang-Undang Nomor 22 Tahun 2019 tentang Sistem Budi Daya Pertanian Berkelanjutan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 19 Februari 2001.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/42085/PP%20NO%208%20TH%202001.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:28:30Z"
+}

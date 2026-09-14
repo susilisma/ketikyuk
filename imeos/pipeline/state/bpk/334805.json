@@ -1,0 +1,37 @@
+{
+ "id": "PERMENAKER-2025-11",
+ "source": "bpk",
+ "bpk_id": 334805,
+ "url": "https://peraturan.bpk.go.id/Details/334805/permenaker-no-11-tahun-2025",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "11",
+ "number_raw": "11",
+ "year": 2025,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 11 Tahun 2025 tentang Perubahan atas Peraturan Menteri Ketenagakerjaan Nomor 8 Tahun 2025 tentang Pedoman Pemberian Bantuan Pemerintah Program Pemagangan Lulusan Perguruan Tinggi",
+ "about": "Perubahan atas Peraturan Menteri Ketenagakerjaan Nomor 8 Tahun 2025 tentang Pedoman Pemberian Bantuan Pemerintah Program Pemagangan Lulusan Perguruan Tinggi",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "STANDAR / PEDOMAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-10-29",
+ "date_promulgated": "2025-10-30",
+ "date_effective": "2025-10-30",
+ "gazette": "BN 2025 (887); 5 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERMENAKER-2025-8",
+   "target_bpk_id": 330637,
+   "label": "Permenaker No. 8 Tahun 2025",
+   "about": "Pedoman Pemberian Bantuan Pemerintah Program Pemagangan Lulusan Perguruan Tinggi"
+  }
+ ],
+ "abstract": "bahwa untuk mengoptimalkan pelaksanaan program\npemagangan lulusan perguruan tinggi, perlu dilakukan\nperluasan cakupan penyelenggara program\npemagangan lulusan perguruan tinggi\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD 1945;\nUU 13/2003 sebagaimana beberapa kali diubah terakhir dengan UU 6/2023;\nUU 39/2008 sebagaimana diubah dengan UU 61/2024;\nUU 12/2012;\nPerpres 164/2024;\nPMK 168/2015 sebagaimana beberapa kali diubah terakhir dengan PMK 132/2021;\nPermenaker 20/2024;\nPermenaker 8/2025.\nPeratruan ini mengubah beberapa ketentuan dalam Peraturan Menteri\nKetenagakerjaan Nomor 8 Tahun 2025 tentang Pedoman\nPemberian Bantuan Pemerintah Program Pemagangan\nLulusan Perguruan Tinggi, yaitu Pasal 1, dan Pasal 8 ayat (1) huruf b",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 30 Oktober 2025.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/397371/permenaker-no-11-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:41:04Z"
+}

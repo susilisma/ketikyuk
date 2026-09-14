@@ -1,0 +1,41 @@
+{
+ "id": "PMK-2023-135",
+ "source": "bpk",
+ "bpk_id": 283361,
+ "url": "https://peraturan.bpk.go.id/Details/283361/pmk-no-135-tahun-2023",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "135",
+ "number_raw": "135",
+ "year": 2023,
+ "title": "Peraturan Menteri Keuangan Nomor 135 Tahun 2023 tentang Perubahan Kedua Atas Peraturan Menteri Keuangan Nomor 118/PMK.01/2021 tentang Organisasi Dan Tata Kerja Kementerian Keuangan",
+ "about": "Perubahan Kedua Atas Peraturan Menteri Keuangan Nomor 118/PMK.01/2021 tentang Organisasi Dan Tata Kerja Kementerian Keuangan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "STATUTA ORGANISASI / LEMBAGA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2023-12-07",
+ "date_promulgated": "2023-12-11",
+ "date_effective": "2023-12-11",
+ "gazette": "BN.2023 (977)/158 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-124",
+   "target_bpk_id": 353894,
+   "label": "PMK No. 124 Tahun 2024",
+   "about": "Organisasi dan Tata Kerja Kementerian Keuangan"
+  }
+ ],
+ "abstract": "a. bahwa untuk mewujudkan sistem penyelenggaraan pemerintahan menjadi lebih efektif dan efisien guna meningkatkan kinerja Kementerian Keuangan, perlu dilakukan penyederhanaan struktur organisasi pada Direktorat Jenderal Anggaran, Direktorat Jenderal Pengelolaan Pembiayaan dan Risiko, dan Badan Pendidikan dan Pelatihan Keuangan;\nb. bahwa perubahan organisasi dan tata kerja Direktorat Jenderal Anggaran, Direktorat Jenderal Pengelolaan Pembiayaan dan Risiko, dan Badan Pendidikan dan Pelatihan Keuangan sebagaimana dimaksud dalam huruf a, telah mendapatkan persetujuan dari Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi melalui surat Nomor B/815/M.KT.01/2023 tanggal 24\nJuli 2023;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a dan huruf b, perlu menetapkan Peraturan Menteri Keuangan tentang Perubahan Kedua atas Peraturan Menteri Keuangan Nomor l 18/PMK.01/2021 ten tang Organisasi dan Tata Kerja Kementerian Keuangan\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008,Peraturan Presiden Nomor 57 Tahun 2020 dan Peraturan Menteri Keuangan Nomor 118/PMK.01/2021\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 118/PMK.01/2021 tentang Organisasi dan Tata Kerja Kementerian Keuangan yaitu tentang fungsi Sekretariat Direktorat Jenderal, yaitu tentang fungsi Sekretaris Direkorat Jenderal, bagian dari Sekretariat Direktat Jenderal",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 11 Desember 2023.",
+ "citations": [
+  "UU-2008-39",
+  "PERPRES-2020-57",
+  "PMK-2021-118"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/342358/2023pmkeuangan135.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:34:07Z"
+}

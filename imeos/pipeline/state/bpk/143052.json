@@ -1,0 +1,61 @@
+{
+ "id": "POJK-2020-36",
+ "source": "bpk",
+ "bpk_id": 143052,
+ "url": "https://peraturan.bpk.go.id/Details/143052/peraturan-ojk-no-36pojk022020-tahun-2020",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "36",
+ "number_raw": "36/POJK.02/2020",
+ "year": 2020,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 36/POJK.02/2020 Tahun 2020 tentang Perubahan Ketiga atas Peraturan Otoritas Jasa Keuangan Nomor 4/POJK.04/2014 tentang Tata Cara Penagihan Sanksi Administratif Berupa Denda di Sektor Jasa Keuangan",
+ "about": "Perubahan Ketiga atas Peraturan Otoritas Jasa Keuangan Nomor 4/POJK.04/2014 tentang Tata Cara Penagihan Sanksi Administratif Berupa Denda di Sektor Jasa Keuangan",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN - BANTUAN, SUMBANGAN, BENCANA / KEBENCANAAN, DAN PENANGGULANGAN BENCANA - PEREKONOMIAN - COVID-19 / CORONA",
+ "field": "",
+ "date_enacted": "2020-05-29",
+ "date_promulgated": "2020-06-02",
+ "date_effective": "2020-06-02",
+ "gazette": "LN.2020/NO.140, TLN NO.6521, ojk.go.id : 5 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 347481,
+   "label": "Peraturan OJK No. 39 Tahun 2025",
+   "about": "Tata Cara Penagihan Sanksi Administratif Berupa Denda di Sektor Jasa Keuangan"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 128687,
+   "label": "Peraturan OJK No. 26 /POJK.02/2018 Tahun 2018",
+   "about": "Perubahan Kedua atas POJK Nomor 4/POJK.04/2014 tentang Tata Cara Penagihan Sanksi Administratif Berupa Denda di Sektor Jasa Keuangan"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 128865,
+   "label": "Peraturan OJK No. 7/POJK.04/2015 Tahun 2015",
+   "about": "Perubahan atas Peraturan Otoritas Jasa Keuangan No. 4/POJK.04/2014 tentang Tata Cara Penagihan Sanksi Administratif Berupa Denda di Sektor Jasa Keuangan"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 129949,
+   "label": "Peraturan OJK No. 4/POJK.04/2014 Tahun 2014",
+   "about": "Tata Cara Penagihan Sanksi Administratif berupa Denda di Sektor Jasa Keuangan"
+  }
+ ],
+ "abstract": "Implikasi pandemi Corona Virus Disease 2019 (COVID-19) telah berdampak pada sistem keuangan yang telah mengakibatkan menurunnya produktivitas dari para pelaku industri jasa keuangan sehingga pada akhirnya akan mengurangi kemampuan pelaku industri jasa keuangan untuk memenuhi kewajiban sesuai peraturan perundang-undangan, termasuk kewajiban membayar Sanksi Administratif Berupa Denda dan/atau Bunga.\nDasar hukum Peraturan OJK ini adalah UU Nomor 21 Tahun 2011; PP Nomor 11 Tahun 2014; dan Peraturan OJK Nomor 4/POJK.04/2014.\nPeraturan OJK ini mengatur mengenai perubahan ketentuan mengenai Penundaan pemberian surat teguran dan pengenaan Bunga karena terjadinya pandemi Corona Virus Disease 2019 (Covid-19) berlaku untuk pengenaan sanksi yang ditetapkan sejak tanggal 1 Januari 2020.",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 02 Juni 2020.",
+ "citations": [
+  "UU-2011-21",
+  "PP-2014-11"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/134505/Peraturan%20OJK%20Nomor%2036%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:43:07Z"
+}

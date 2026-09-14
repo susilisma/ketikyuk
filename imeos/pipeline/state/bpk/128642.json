@@ -1,0 +1,37 @@
+{
+ "id": "PP-2019-88",
+ "source": "bpk",
+ "bpk_id": 128642,
+ "url": "https://peraturan.bpk.go.id/Details/128642/pp-no-88-tahun-2019",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "88",
+ "number_raw": "88",
+ "year": 2019,
+ "title": "Peraturan Pemerintah (PP) Nomor 88 Tahun 2019 tentang Kesehatan Kerja",
+ "about": "Kesehatan Kerja",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KESEHATAN - KETENAGAKERJAAN",
+ "field": "",
+ "date_enacted": "2019-12-26",
+ "date_promulgated": "2019-12-26",
+ "date_effective": "2019-12-26",
+ "gazette": "LN.2019/NO.251, TLN NO.6444, JDIH.SETNEG.GO.ID : 14 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-28",
+   "target_bpk_id": 294077,
+   "label": "PP No. 28 Tahun 2024",
+   "about": "Peraturan Pelaksanaan Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 26 Desember 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/119577/PP%20Nomor%2088%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:30:37Z"
+}

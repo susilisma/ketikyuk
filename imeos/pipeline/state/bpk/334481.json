@@ -1,0 +1,55 @@
+{
+ "id": "UU-2025-18",
+ "source": "bpk",
+ "bpk_id": 334481,
+ "url": "https://peraturan.bpk.go.id/Details/334481/uu-no-18-tahun-2025",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "18",
+ "number_raw": "18",
+ "year": 2025,
+ "title": "Undang-undang (UU) Nomor 18 Tahun 2025 tentang Perubahan Ketiga atas Undang-Undang Nomor 10 Tahun 2009 tentang Kepariwisataan",
+ "about": "Perubahan Ketiga atas Undang-Undang Nomor 10 Tahun 2009 tentang Kepariwisataan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PARIWISATA DAN KEBUDAYAAN",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2025-10-29",
+ "date_promulgated": "2025-10-29",
+ "date_effective": "2025-10-29",
+ "gazette": "LN 2025 (180), TLN (7145) : 35 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2009-10",
+   "target_bpk_id": 38598,
+   "label": "UU No. 10 Tahun 2009",
+   "about": "Kepariwisataan"
+  }
+ ],
+ "abstract": "Beberapa ketentuan di dalam Undang-Undang Nomor 10 Tahun 2009 tentang Kepariwisataan sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang sudah tidak sesuai lagi dengan perkembangan, tuntutan, dan kebutuhan hukum dalam masyarakat saat ini, sehingga perlu diubah.\nDasar hukum UU ini adalah Pasal 20, Pasal 21, Pasal 28C ayat (1), dan Pasal 32 ayat (1) UUD NRI Tahun 1945 dan UU No. 10 Tahun 2009.\nUU ini mengubah beberapa ketentuan dalam UU No. 10 Tahun 2009. Secara umum, Undang-Undang ini mengatur perubahan materi muatan mengenai dasar, asas, dan tujuan; prinsip penyelenggaraan Kepariwisataan; penyelenggaraan Kepariwisataan; perencanaan pembangunan Kepariwisataan; Destinasi Pariwisata; pemasaran Pariwisata; Kawasan Strategis Pariwisata; Industri Pariwisata; Daya Tarik Wisata; sarana dan prasarana; teknologi informasi dan komunikasi; Pariwisata berbasis masyarakat lokal; kreasi kegiatan; hak dan kewajiban; wewenang dan tanggung jawab Pemerintah dan Pemerintah Daerah; penguatan promosi Pariwisata berbasis budaya; peningkatan kualitas Sumber Daya Manusia Pariwisata dan pendidikan Pariwisata; dan partisipasi masyarakat.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 29 Oktober 2025.\nUU ini mengubah UU Nomor 10 Tahun 2009.\nLampiran file: 54 hlm (batang tubuh hlm 1 sd 35 dan penjelasan hlm 36 sd 54)",
+ "citations": [
+  "UU-2009-10",
+  "UU-2023-6",
+  "PERPPU-2022-2"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/397044/UU%20Nomor%2018%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:23:36Z"
+}

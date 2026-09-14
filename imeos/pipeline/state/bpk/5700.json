@@ -1,0 +1,46 @@
+{
+ "id": "PP-2015-121",
+ "source": "bpk",
+ "bpk_id": 5700,
+ "url": "https://peraturan.bpk.go.id/Details/5700/pp-no-121-tahun-2015",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "121",
+ "number_raw": "121",
+ "year": 2015,
+ "title": "Peraturan Pemerintah (PP) Nomor 121 Tahun 2015 tentang Pengusahaan Sumber Daya Air",
+ "about": "Pengusahaan Sumber Daya Air",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "",
+ "date_enacted": "2015-12-28",
+ "date_promulgated": "2015-12-28",
+ "date_effective": "2015-12-28",
+ "gazette": "LN. 2015 No. 344, TLN No. 5801, LL SETNEG : 40 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-30",
+   "target_bpk_id": 295844,
+   "label": "PP No. 30 Tahun 2024",
+   "about": "Pengelolaan Sumber Daya Air"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-1982-22",
+   "target_bpk_id": 65183,
+   "label": "PP No. 22 Tahun 1982",
+   "about": "Tata Pengaturan Air"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 11 Undang-Undang Nomor 11 Tahun 1974 tentang Pengairan, perlu menetapkan Peraturan Pemerintah tentang Pengusahaan\nSumber Daya Air.\nDasar hukum PP ini adalah Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945 dan Undang-Undang Nomor 11 Tahun 1974 tentang Pengairan.\nDalam PP ini diatur mengenai penyelenggaraan pengusaan sumber daya air yang meliputi sumber daya air permukaan dan air tanah. Pengusahaan sumber daya air tersebut, dapat diselenggarakan apabila air untuk kebutuhan pokok sehari-hari dan pertanian rakyat telah terpenuhi, serta sepanjang ketersediaan air masih mencukupi. Pengawasan pengusahaan sumber daya air dilakukan oleh menteri yang menyelenggarakan urusan pemerintahan di bidang sumber daya air, gubernur, atau bupati/walikota sesuai dengan kewenangannya dan dapat melibatkan peran masyarakat.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 28 Desember 2015.\nPada saat peraturan pemerintah ini mulai berlaku ketentuan yang mengatur mengenai Izin Penggunaan Air dan/atau Sumber Air untuk keperluan usaha yang tertuang dalam PP Nomor 22 Tahun 1982 tentang Tata Pengaturan Air, dicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "UU-1974-11"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/28463/PP%20Nomor%20121%20Tahun%202015.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:30:26Z"
+}

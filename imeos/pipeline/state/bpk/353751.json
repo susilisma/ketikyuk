@@ -1,0 +1,43 @@
+{
+ "id": "PMK-2026-62",
+ "source": "bpk",
+ "bpk_id": 353751,
+ "url": "https://peraturan.bpk.go.id/Details/353751/pmk-no-62-tahun-2026",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "62",
+ "number_raw": "62",
+ "year": 2026,
+ "title": "Peraturan Menteri Keuangan Nomor 62 Tahun 2026 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Bersifat Volatil yang Berlaku pada Kementerian Pariwisata",
+ "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Bersifat Volatil yang Berlaku pada Kementerian Pariwisata",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-08-11",
+ "date_promulgated": "2026-08-21",
+ "date_effective": "2026-09-04",
+ "gazette": "BN.2026 (586)/25 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2023-54",
+   "target_bpk_id": 254028,
+   "label": "PMK No. 54 Tahun 2023",
+   "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Bersifat Volatil atas Pengelolaan Hotel Praktik Politeknik Pariwisata yang Berlaku pada Kementerian Pariwisata dan Ekonomi Kreatif/Badan Pariwisata dan Ekonomi Kreatif"
+  }
+ ],
+ "abstract": "a. bahwa untuk melaksanakan penyesuaian jenis dan tarif atas jenis Penerimaan Negara Bukan Pajak yang bersifat volatil yang berlaku pada Kementerian Pariwisata, sebagaimana telah diatur dalam Peraturan Menteri Keuangan Nomor 54 Tahun 2023 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Bersifat Volatil atas Pengelolaan Hotel Praktik Politeknik Pariwisata yang Berlaku pada Kementerian Pariwisata dan Ekonomi Kreatif/Badan Pariwisata dan Ekonomi Kreatif perlu mengatur jenis dan tarif atas jenis Penerimaan Negara Bukan Pajak yang bersifat volatil yang berlaku pada Kementerian Pariwisata;\nb. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan untuk melaksanakan ketentuan ketentuan Pasal 12 ayat (2) dan Pasal 14 ayat (1) huruf a dan ayat (2) Peraturan Pemerintah Nomor 44 Tahun 2025 tentang Tata Cara Penetapan Tarif, Pengelolaan, dan Penyelesaian Keberatan, Keringanan, dan Pengembalian Penerimaan Negara Bukan Pajak, perlu menetapkan Peraturan Menteri Keuangan tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Bersifat Volatil yang Berlaku pada Kementerian Pariwisata;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 44 Tahun 2025, Peraturan Presiden Nomor 158 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengatur tentang Jenis Penerimaan Negara Bukan Pajak yang bersifat volatil yang berlaku pada Kementerian Pariwisata, Tarif penggunaan kamar, Tarif penjualan produk makanan dan minuman, Tarif layanan jasa binatu (laundry), Metode penghitungan, Biaya tambahan (extra charge) atas kehilangan atau kerusakan barang fasilitas hotel",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 04 September 2026.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan Menteri Keuangan Nomor 54 Tahun 2023 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Bersifat Volatil atas Pengelolaan Hotel Praktik Politeknik Pariwisata yang Berlaku pada Kementerian Pariwisata dan Ekonomi Kreatif/Badan Pariwisata dan Ekonomi Kreatif",
+ "citations": [
+  "PMK-2023-54",
+  "PP-2025-44",
+  "UU-2008-39",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/417654/2026pmkeuangan062.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:30:15Z"
+}

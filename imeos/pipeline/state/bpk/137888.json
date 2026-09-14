@@ -1,0 +1,42 @@
+{
+ "id": "PMK-2020-52",
+ "source": "bpk",
+ "bpk_id": 137888,
+ "url": "https://peraturan.bpk.go.id/Details/137888/pmk-no-52pmk042020",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "52",
+ "number_raw": "52/PMK.04/2020",
+ "year": 2020,
+ "title": "Peraturan Menteri Keuangan Nomor 52/PMK.04/2020 Tahun 2020 tentang Bentuk Fisik, Spesifikasi, dan Desain Pita Cukai",
+ "about": "Bentuk Fisik, Spesifikasi, dan Desain Pita Cukai",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN",
+ "field": "",
+ "date_enacted": "2020-05-19",
+ "date_promulgated": "2020-05-20",
+ "date_effective": "2020-05-20",
+ "gazette": "BN. 2020/NO. 502, JDIH.KEMENKEU.GO.ID : 5 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2026-57",
+   "target_bpk_id": 353724,
+   "label": "PMK No. 57 Tahun 2026",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 52/PMK.04/2020 tentang Bentuk Fisik, Spesifikasi dan Desain Pita Cukai"
+  }
+ ],
+ "abstract": "bahwa ketentuan mengenai bentuk fisik, spesifikasi, dan desain pita cukai telah diatur dalam Peraturan Menteri Keuangan Nomor 191/PMK.04/2009, untuk optimalisasi pengawasan dan pengamanan pita cukai untuk barang kena cukai, serta untuk melaksanakan ketentuan Pasal 7 ayat (4) Undang-Undang Nomor 39 Tahun 2007 tentang Perubahan atas Undang-Undang Nomor 11 Tahun 1995 tentang Cukai, perlu menetapkan Peraturan Menteri Keuangan tentang Bentuk Fisik, Spesifikasi, dan Desain Pita Cukai;\nDasar Hukum Peraturan ini adalah:\nPasal 17 ayat (3) UUD RI Tahun 1945; UU No. 11 Tahun 1995 (LN Tahun 1995 No. 76, TLN No. Nomor 3613) sebagaimana telah diubah dengan UU No. 39 Tahun 2007 (LN Tahun 2007 No. 105, TLN No. 4755); UU No. 39 Tahun 2008 (LN Tahun 2008 No. 166, TLN No. 4916); Perpres RI No. 57 Tahun 2020 (LN Tahun 2020 No. 98); Permenkeu RI No. 217/PMK.01/2018 (BN Tahun 2018 No. 1862) sebagaimana telah beberapa kali diubah, terakhir dengan Permenkeu RI No. 229/PMK.01/2019 (BN Tahun 2019 No. 1745);\nDalam Peraturan Menteri Keuangan Republik Indonesia ini diatur:\nKetentuanmengenai Pita cukai yang merupakan dokumen sekuriti sebagai tanda pelunasan cukai. Pita Cukai memiliki bentuk fisik, spesifikasi, dan desain tertentu serta memiliki sifat atau unsur sekuriti. Pita cukai disediakan oleh Menteri Keuangan Republik Indonesia dan dikelola oleh Direktorat Jenderal Bea dan Cukai.\nKetentuan teknis mengenai bentuk fisik, spesifikasi, dan desain pita cukai, ditetapkan oleh Direktur Jenderal Bea dan Cukai.",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 20 Mei 2020.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 191/PMK.04/2009 tentang Bentuk Fisik dan/atau Spesifikasi Desain Pita Cukai Hasil Tembakau dan Minuman Mengandung Etil Alkohol, dicabut dan dinyatakan tidak berlaku.\n-\n5 HLM.",
+ "citations": [
+  "PMK-2009-191",
+  "UU-2007-39",
+  "UU-1995-11",
+  "UU-2008-39"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/128953/52_PMK.04_2020.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:30:25Z"
+}

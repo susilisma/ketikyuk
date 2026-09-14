@@ -1,0 +1,88 @@
+{
+ "id": "UU-2026-1",
+ "source": "bpk",
+ "bpk_id": 337869,
+ "url": "https://peraturan.bpk.go.id/Details/337869/uu-no-1-tahun-2026",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "1",
+ "number_raw": "1",
+ "year": 2026,
+ "title": "Undang-undang (UU) Nomor 1 Tahun 2026 tentang Penyesuaian Pidana",
+ "about": "Penyesuaian Pidana",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HUKUM PIDANA, PERDATA, DAN DAGANG",
+ "field": "HUKUM PIDANA",
+ "date_enacted": "2026-01-02",
+ "date_promulgated": "2026-01-02",
+ "date_effective": "2026-01-02",
+ "gazette": "LN 2026 (1), TLN (7153) : 51 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2023-1",
+   "target_bpk_id": 234935,
+   "label": "UU No. 1 Tahun 2023",
+   "about": "Kitab Undang-Undang Hukum Pidana"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2022-13",
+   "target_bpk_id": 212810,
+   "label": "UU No. 13 Tahun 2022",
+   "about": "Perubahan Kedua atas Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-Undangan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2019-15",
+   "target_bpk_id": 121716,
+   "label": "UU No. 15 Tahun 2019",
+   "about": "Perubahan atas Undang-Undang Nomor 12 Tahun 2011 Tentang Pembentukan Peraturan Perundang-Undangan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2015-9",
+   "target_bpk_id": 38209,
+   "label": "UU No. 9 Tahun 2015",
+   "about": "Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2015-2",
+   "target_bpk_id": 37678,
+   "label": "UU No. 2 Tahun 2015",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2014 tentang Perubahan atas Undang-Undang Nomor 23 Tahun 2014 Tentang Pemerintahan Daerah Menjadi Undang-Undang"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2014-23",
+   "target_bpk_id": 38685,
+   "label": "UU No. 23 Tahun 2014",
+   "about": "Pemerintahan Daerah"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2011-12",
+   "target_bpk_id": 39188,
+   "label": "UU No. 12 Tahun 2011",
+   "about": "Pembentukan Peraturan Perundang-Undangan"
+  }
+ ],
+ "abstract": "Penyesuaian terhadap ketentuan pidana dalam setiap Undang-Undang di luar Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana dan Peraturan Daerah dengan Buku Kesatu Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana serta penyesuaian ketentuan dalam Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana mendesak dilakukan sebelum berlaku pada tanggal 2 Januari 2026 guna menghindari disparitas penegakan hukum, duplikasi pengaturan pidana, serta dampak negatif terhadap kepastian hukum dan rasa keadilan di masyarakat.\nDasar hukum UU ini adalah Pasal 5 ayat (1), Pasal 20, dan Pasal 28D ayat (1) UUD 1945 dan UU No. 1 Tahun 2023.\nUU ini mengatur mengenai penyesuaian terhadap ketentuan pidana dalam setiap undang-undang di luar UU No. 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana dan Peraturan Daerah dengan Buku Kesatu Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana serta penyesuaian ketentuan dalam Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 02 Januari 2026.\nLampiran file: 260 hlm (batang tubuh hlm 1 sd 51, penjelasan hlm 51 sd 71, dan lampiran hlm 72 sd 260)",
+ "citations": [
+  "UU-2023-1"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/400929/UU%20Nomor%201%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:23:19Z"
+}

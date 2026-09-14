@@ -1,0 +1,65 @@
+{
+ "id": "PERMENKUMHAM-2014-8",
+ "source": "bpk",
+ "bpk_id": 133335,
+ "url": "https://peraturan.bpk.go.id/Details/133335/permenkumham-no-8-tahun-2014",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "8",
+ "number_raw": "8",
+ "year": 2014,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 8 Tahun 2014 tentang Paspor Biasa dan Surat Perjalanan Laksana Paspor",
+ "about": "Paspor Biasa dan Surat Perjalanan Laksana Paspor",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "KEWARGANEGARAAN DAN IMIGRASI",
+ "field": "",
+ "date_enacted": "2014-04-30",
+ "date_promulgated": "2014-05-16",
+ "date_effective": "2014-05-16",
+ "gazette": "BN.2014/No.649, peraturan.go.id :24 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 352504,
+   "label": "Permen Imipas No. 11 Tahun 2026",
+   "about": "Paspor Biasa dan Surat Perjalanan Laksana Paspor"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 352505,
+   "label": "Permenkumham No. 19 Tahun 2024",
+   "about": "Perubahan Kedua atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 8 Tahun 2014 tentang Paspor Biasa dan Surat Perjalanan Laksana Paspor"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 280232,
+   "label": "Permenkumham No. 18 Tahun 2022",
+   "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 8 Tahun 2014 tentang Paspor Biasa dan Surat Perjalanan Laksana Paspor"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133374,
+   "label": "Permenkumham No. 16 Tahun 2013",
+   "about": "Perubahan Ketiga atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 7 Tahun 2012 tentang Spesifikasi Teknis Pengaman Paspor Biasa dan Surat Perjalanan Laksana Paspor"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 134399,
+   "label": "Permenkumham No. 7 Tahun 2012",
+   "about": "Spesifikasi Teknis Pengaman Paspor Biasa dan Surat Perjalanan Laksana Paspor"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 16 Mei 2014.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/124122/Permenkumham%20Nomor%208%20Tahun%202014.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:42:30Z"
+}

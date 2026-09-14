@@ -1,0 +1,45 @@
+{
+ "id": "PMK-2026-34",
+ "source": "bpk",
+ "bpk_id": 349330,
+ "url": "https://peraturan.bpk.go.id/Details/349330/pmk-no-34-tahun-2026",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "34",
+ "number_raw": "34",
+ "year": 2026,
+ "title": "Peraturan Menteri Keuangan Nomor 34 Tahun 2026 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 82 Tahun 2024 tentang Tata Cara Pembebasan Cukai",
+ "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 82 Tahun 2024 tentang Tata Cara Pembebasan Cukai",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-05-20",
+ "date_promulgated": "2026-05-25",
+ "date_effective": "2026-05-25",
+ "gazette": "BN.2026 (338/7 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PMK-2024-82",
+   "target_bpk_id": 306671,
+   "label": "PMK No. 82 Tahun 2024",
+   "about": "Tata Cara Pembebasan Cukai"
+  }
+ ],
+ "abstract": "a. bahwa ketentuan mengenai tata cara pembebasan cukai\ntelah diatur dalam Peraturan Menteri Keuangan Nomor 82\nTahun 2024 tentang Tata Cara Pembebasan Cukai;\nb. bahwa untuk mendukung program pemerintah di bidang\nketahanan energi nasional serta mewujudkan transisi dan\npemanfaatan energi bersih melalui kegiatan pencampuran\nbarang kena cukai berupa etil alkohol dengan produk hasil\nkilang minyak bumi, Peraturan Menteri Keuangan Nomor\n82 Tahun 2024 tentang Tata Cara Pembebasan Cukai\nperlu dilakukan perubahan;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a dan huruf b, serta untuk melaksanakan\nketentuan Pasal 9 ayat (4) Undang-Undang Nomor 11\nTahun 1995 tentang Cukai sebagaimana telah diubah\ndengan Undang-Undang Nomor 39 Tahun 2007 tentang\nPerubahan atas Undang-Undang Nomor 11 Tahun 1995\ntentang Cukai, perlu menetapkan Peraturan Menteri\nKeuangan tentang Perubahan atas Peraturan Menteri\nKeuangan Nomor 82 Tahun 2024 tentang Tata Cara\nPembebasan Cukai;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 10 Tahun 1995, Undang-Undang Nomor 11 Tahun 1995, Undang-Undang Nomor 39 Tahun 2008, Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Menteri Keuangan Nomor 82 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengubah Pasal 8 dalam Peraturan Menteri Keuangan Nomor\n82 Tahun 2024 tentang Tata Cara Pembebasan Cukai yaitu tentang persyaratan pendaftaran pembebasan cukai",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 25 Mei 2026.\nPeraturan Menteri Keuangan Nomor\n82 Tahun 2024 tentang Tata Cara Pembebasan Cukai diubah sebagian",
+ "citations": [
+  "PMK-2024-82",
+  "UU-1995-11",
+  "UU-2007-39",
+  "UU-1995-10",
+  "UU-2008-39",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/413011/2026pmkeuangan034.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:30:50Z"
+}

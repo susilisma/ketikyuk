@@ -1,0 +1,37 @@
+{
+ "id": "PERPRES-2015-103",
+ "source": "bpk",
+ "bpk_id": 41852,
+ "url": "https://peraturan.bpk.go.id/Details/41852/perpres-no-103-tahun-2015",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "103",
+ "number_raw": "103",
+ "year": 2015,
+ "title": "Peraturan Presiden (Perpres) Nomor 103 Tahun 2015 tentang Badan Pengelola Transportasi Jakarta, Bogor, Depok, Tangerang, dan Bekasi",
+ "about": "Badan Pengelola Transportasi Jakarta, Bogor, Depok, Tangerang, dan Bekasi",
+ "issuer": "Pemerintah Pusat",
+ "subject": "TRANSPORTASI DARAT / LAUT / UDARA - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "",
+ "date_enacted": "2015-09-18",
+ "date_promulgated": "2015-09-22",
+ "date_effective": "2015-09-22",
+ "gazette": "LN.2015/NO.216, LL SETKAB : 10 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-173",
+   "target_bpk_id": 306856,
+   "label": "Perpres No. 173 Tahun 2024",
+   "about": "Kementerian Perhubungan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 22 September 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/34786/Perpres%20Nomor%20103%20Tahun%202015.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:27:42Z"
+}

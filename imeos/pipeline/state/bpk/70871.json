@@ -1,0 +1,37 @@
+{
+ "id": "PP-1966-10",
+ "source": "bpk",
+ "bpk_id": 70871,
+ "url": "https://peraturan.bpk.go.id/Details/70871/x",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "10",
+ "number_raw": "10",
+ "year": 1966,
+ "title": "Peraturan Pemerintah (PP) Nomor 10 Tahun 1966 tentang Wajib Simpan Rahasia Kedokteran",
+ "about": "Wajib Simpan Rahasia Kedokteran",
+ "issuer": "Pemerintah Pusat",
+ "subject": "ILMU PENGETAHUAN DAN TEKNOLOGI - KESEHATAN - JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "",
+ "date_enacted": "1966-05-21",
+ "date_promulgated": "1966-05-21",
+ "date_effective": "1966-05-21",
+ "gazette": "LN. 1966/ No 21, TLN No 2803, LL Bphn : 2 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-28",
+   "target_bpk_id": 294077,
+   "label": "PP No. 28 Tahun 2024",
+   "about": "Peraturan Pelaksanaan Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 21 Mei 1966.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/61334/pp%20no%20010%20tahun%201966.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:31Z"
+}

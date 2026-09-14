@@ -1,0 +1,54 @@
+{
+ "id": "PMK-2023-51",
+ "source": "bpk",
+ "bpk_id": 248651,
+ "url": "https://peraturan.bpk.go.id/Details/248651/pmk-no-51-tahun-2023",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "51",
+ "number_raw": "51",
+ "year": 2023,
+ "title": "Peraturan Menteri Keuangan Nomor 51 Tahun 2023 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 118/PMK.02/2019 tentang Tata Cara Pembayaran Domestic Market Obligation Fee, Over Lifting Kontraktor dan/atau Under Lifting Kontraktor dalam Kegiatan Usaha Hulu Minyak dan Gas Bumi",
+ "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 118/PMK.02/2019 tentang Tata Cara Pembayaran Domestic Market Obligation Fee, Over Lifting Kontraktor dan/atau Under Lifting Kontraktor dalam Kegiatan Usaha Hulu Minyak dan Gas Bumi",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERTAMBANGAN MIGAS, MINERAL DAN ENERGI - PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
+ "field": "",
+ "date_enacted": "2023-05-02",
+ "date_promulgated": "2023-05-04",
+ "date_effective": "2023-05-04",
+ "gazette": "BN.2023/No.365, jdih.kemenkeu.go.id: 10 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-139",
+   "target_bpk_id": 312058,
+   "label": "PMK No. 139 Tahun 2024",
+   "about": "Tata Cara Pembayaran atas Tagihan kepada Pemerintah dalam Kegiatan Usaha Hulu Minyak dan Gas Bumi"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PMK-2019-118",
+   "target_bpk_id": 128140,
+   "label": "PMK No. 118/PMK.02/2019",
+   "about": "Tentang Tata Cara Pembayaran Domestic Market Obligation Fee, Over Lifting Kontraktor Dan/Atau Under Lifting Kontraktor Dalam Kegiatan Usaha Hulu Minyak Dan Gas Bumi"
+  }
+ ],
+ "abstract": "a. bahwa untuk mengoptimalkan penerimaan negara\nserta memenuhi kebutuhan dan perkembangan\npelaksanaan kegiatan usaha hulu minyak dan gas\nbumi, perlu dilakukan penyesuaian terhadap Peraturan\nMenteri Keuangan Nomor 118/PMK.02/2019 tentang\nTata Cara Pembayaran Domestic Market Obligation Fee,\nOver Lifting Kontraktor dan/atau Under Lifting\nKontraktor dalam Kegiatan Usaha Hulu Minyak dan\nGas Bumi;\nb. bahwa untuk memberikan landasan hukum serta\nkepastian hukum terkait penyelesaian hak dan\nkewajiban negara, ketentuan mengenai penyelesaian\nDomestic Market Obligation Fee, Over Lifting Kontraktor\ndan/atau Under Lifting Kontraktor dalam kegiatan\nusaha hulu minyak dan gas bumi dapat diperhitungkan\ndengan nilai kewajiban lain kontraktor kepada\npemerintah atas pelaksanaan kegiatan usaha hulu\nmin yak dan gas bumi di dalam dan / a tau di luar wilayah\nkerja, sepanjang mendukung pelaksanaan kegiatan\nusaha hulu minyak dan gas bumi;\nc. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a dan huruf b, perlu\nmenetapkan Peraturan Menteri Keuangan tentang\nPerubahan atas Peraturan Menteri Keuangan Nomor\n118/PMK.02/2019 tentang Tata Cara Pembayaran\nDomestic Market Obligation Fee, Over Lifting Kontraktor\ndan/ atau Under Lifting Kontraktor dalam Kegiatan\nUsaha Hulu Minyak dan Gas Bumi;\nPasal 17 ayat (3) UUD 1945, UU Nomor 22 Tahun 2001, UU Nomor 17 tahun 2003, UU Nomor 39 tahun 2008, UU Nomor 9 Tahun 2018, PP Nomor 35 Tahun 2004, PP Nomor 23 Tahun 2015, Perpres Nomor 95 Tahun 2012, Perpres Nomor 9 Tahun 2013, Perpres 57 Tahun 2020, Permenkeu Nomor 118/PMK.02/2019, Permenkeu Nomor 118/PMK.01/2021 dan Permenkeu Nomor 212/PMK.02/2021\nPeraturan Menteri ini mengubah beberapa ketentuan Peraturan Menteri Keuangan Nomor 118/PMK.02/2019 tentang Tata Cara Pembayaran Domestik Market Obligation Fee, Over Lifting Kontraktor dan/atau Under Lifting Kontraktor dalam Kegiatan Usaha Hulu dan Gas Bumi yaitu tentang ketentuan umum, Permintaan pembayaran DMO Fee Kontraktor, perhitungan pembayaran, kewajiban Pemerintah kepada Kontraktor dan penelitian",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 04 Mei 2023.\nPeraturan Menteri Keuangan Nomor 118/PMK.02/2019 tentang Tata Cara Pembayaran Domestik Market Obligation Fee, Over Lifting Kontraktor dan/atau Under Lifting Kontraktor dalam Kegiatan Usaha Hulu dan Gas Bumi diubah sebagian",
+ "citations": [
+  "PMK-2019-118",
+  "UU-2001-22",
+  "UU-2003-17",
+  "UU-2008-39",
+  "UU-2018-9",
+  "PP-2004-35",
+  "PP-2015-23",
+  "PERPRES-2012-95",
+  "PERPRES-2013-9"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/305000/2023pmkeuangan051.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:33:55Z"
+}

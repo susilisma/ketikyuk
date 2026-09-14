@@ -1,0 +1,47 @@
+{
+ "id": "PMK-2025-119",
+ "source": "bpk",
+ "bpk_id": 341450,
+ "url": "https://peraturan.bpk.go.id/Details/341450/pmk-no-119-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "119",
+ "number_raw": "119",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 119 Tahun 2025 tentang Pengelolaan Dana Alokasi Khusus Nonfisik",
+ "about": "Pengelolaan Dana Alokasi Khusus Nonfisik",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PENGELOLAAN KEUANGAN NEGARA / DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-12-31",
+ "date_promulgated": "2025-12-31",
+ "date_effective": "2025-12-31",
+ "gazette": "BN.2025 (1210)/90 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2022-204",
+   "target_bpk_id": 238717,
+   "label": "PMK No. 204/PMK.07/2022",
+   "about": "Pengelolaan Dana Alokasi Khusus Nonfisik"
+  }
+ ],
+ "abstract": "a. bahwa untuk menyesuaikan pengaturan alur proses\nbisnis antar unit eselon I dan kementerian/lembaga\nterkait perencanaan, penganggaran, pengalokasian,\npenyaluran, pelaporan, pemantauan dan evaluasi dana\nalokasi khusus nonfisik, perlu disusun pengaturan\nmengenai pengelolaan dana alokasi khusus nonfisik;\nb. bahwa Peraturan Menteri Keuangan Nomor\n204/PMK.07/2022 tentang Pengelolaan Dana Alokasi\nKhusus Nonfisik belum sejalan dengan perkembangan\nregulasi dan tata kelola keuangan negara, sehingga\nperlu diganti;\nc. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a dan huruf b, serta sesuai\ndengan ketentuan Pasal 106 huruf c dan Pasal 131 ayat\n(3) huruf b Undang-Undang Nomor 1 Tahun 2022\ntentang Hubungan Keuangan antara Pemerintah Pusat\ndan Pemerintahan Daerah, Pasal 31 ayat (1) huruf b dan\nayat (3) Peraturan Pemerintah Nomor 37 Tahun 2023\ntentang Pengelolaan Transfer ke Daerah, dan Pasal 113\nayat (1) Peraturan Pemerintah Nomor 45 Tahun 2013\ntentang Tata Cara Pelaksanaan Anggaran Pendapatan\ndan Belanja Negara sebagaimana telah diubah dengan\nPeraturan Pemerintah Nomor 50 Tahun 2018 tentang\nPerubahan atas Peraturan Pemerintah Nomor 45 Tahun\n2013 tentang Tata Cara Pelaksanaan Anggaran\nPendapatan dan Belanja Negara, perlu menetapkan\nPeraturan Menteri Keuangan tentang Pengelolaan Dana\nAlokasi Khusus Nonfisik;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 1 Tahun 2022, Peraturan Pemerintah Nomor 45 Tahun 2013, Peraturan Pemerintah Nomor 37 Tahun 2023, Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Menteri Keuangan Nomor 62 Tahun 2023 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengatur tentang ketentuan umum, pejabat perbendaharaan negara pengelola dana alokasi khusus nonfisik,perencanaan dan penganggaran dana alokasi khusus nonfisik, pengalokasian, persiapan pelaksanaan penyaluran dana alokasi khusus nonfisik, dokumen pelaksanaan anggaran, penyaluran dana alokasi khusus nonfisik, penatausahaan, pertanggungjawaban dan pelaporan, penggunaan dana alokasi khusus nonfisik, pemantauan dan evaluasi, pengawasan, ketentuan lain-lain, ketentuan peralihan dan ketentuan penutup.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 31 Desember 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan\nMenteri Keuangan Nomor 204/PMK.07/2022 tentang\nPengelolaan Dana Alokasi Khusus Nonfisik",
+ "citations": [
+  "PMK-2022-204",
+  "UU-2022-1",
+  "PP-2023-37",
+  "PP-2013-45",
+  "PP-2018-50",
+  "UU-2008-39",
+  "PERPRES-2024-158",
+  "PMK-2023-62",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/404569/2025pmkeuangan119.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:31:32Z"
+}

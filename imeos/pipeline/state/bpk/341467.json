@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2025-93",
+ "source": "bpk",
+ "bpk_id": 341467,
+ "url": "https://peraturan.bpk.go.id/Details/341467/pmk-no-93-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "93",
+ "number_raw": "93",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 93 Tahun 2025 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak Kebutuhan Mendesak yang Berlaku pada Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah",
+ "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak Kebutuhan Mendesak yang Berlaku pada Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-12-18",
+ "date_promulgated": "2025-12-31",
+ "date_effective": "2026-02-14",
+ "gazette": "BN.2025 (1216)/6 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2023-117",
+   "target_bpk_id": 271147,
+   "label": "PMK No. 117 Tahun 2023",
+   "about": "Jenis Dan Tarif Atas Jenis Penerimaan Negara Bukan Pajak Kebutuhan Mendesak Yang Berlaku Pada Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah"
+  }
+ ],
+ "abstract": "a. bahwa untuk mewujudkan percepatan transformasi digital di bidang Pengadaan Barang/Jasa Pemerintah dan penyesuaian pelaksanaan Penerimaan Negara Bukan Pajak pada Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah, perlu dilakukan penyempurnaan atas ketentuan yang diatur dalam Peraturan Menteri Keuangan Nomor 117 Tahun 2023 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak Kebutuhan Mendesak yang Berlaku pada Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah; b. Mengingat bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan untuk melaksanakan ketentuan Pasal 14 ayat (1) Peraturan Pemerintah Nomor 44 Tahun 2025 tentang Tata Cara Penetapan Tarif, Pengelolaan, dan Penyelesaian Keberatan, Keringanan, dan Pengembalian Penerimaan Negara Bukan Pajak, perlu menetapkan Peraturan Menteri Keuangan tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak Kebutuhan Mendesak yang Berlaku pada Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 44 Tahun 2025, Peraturan Presiden Nomor 17 Tahun 2023, Peraturan Presiden Nomor 158 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengatur tentang Jenis Penerimaan Negara Bukan Pajak kebutuhan mendesak yang berlaku pada Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah berupa layanan pemilihan penyedia barang/jasa dalam sistem pengadaan secara elektronik",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 14 Februari 2026.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan Menteri Keuangan Nomor 117 Tahun 2023 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak Kebutuhan Mendesak yang Berlaku pada Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah",
+ "citations": [
+  "PMK-2023-117",
+  "PP-2025-44",
+  "UU-2008-39",
+  "PERPRES-2023-17",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/404588/2025pmkeuangan093.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:32:18Z"
+}

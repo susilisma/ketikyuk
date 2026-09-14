@@ -1,0 +1,37 @@
+{
+ "id": "PERMENAKER-2017-6",
+ "source": "bpk",
+ "bpk_id": 145520,
+ "url": "https://peraturan.bpk.go.id/Details/145520/permenaker-no-6-tahun-2017",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "6",
+ "number_raw": "6",
+ "year": 2017,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 6 Tahun 2017 tentang Keselamatan dan Kesehatan Kerja Elevator dan Eskalator",
+ "about": "Keselamatan dan Kesehatan Kerja Elevator dan Eskalator",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "KETENAGAKERJAAN - STANDAR / PEDOMAN",
+ "field": "",
+ "date_enacted": "2017-07-06",
+ "date_promulgated": "2017-07-06",
+ "date_effective": "2017-07-06",
+ "gazette": "BN.2017/No.909, jdih.kemnaker.go.id : 59 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PERMENAKER-2026-11",
+   "target_bpk_id": 351282,
+   "label": "Permenaker No. 11 Tahun 2026",
+   "about": "Tata Cara Pengawasan Ketenagakerjaan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Ketenagakerjaan Republik Indonesia ini mulai berlaku pada tanggal 06 Juli 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/251564/Kemnaker%20No.%206%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:40:35Z"
+}

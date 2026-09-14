@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2016-68",
+ "source": "bpk",
+ "bpk_id": 145210,
+ "url": "https://peraturan.bpk.go.id/Details/145210/pmk-no-68pmk022016",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "68",
+ "number_raw": "68/PMK.02/2016",
+ "year": 2016,
+ "title": "Peraturan Menteri Keuangan Nomor 68/PMK.02/2016 Tahun 2016 tentang Tata Cara Penyediaan, Pencairan, dan Pertanggungjawaban Dana Subsidi Pupuk",
+ "about": "Tata Cara Penyediaan, Pencairan, dan Pertanggungjawaban Dana Subsidi Pupuk",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PENGELOLAAN KEUANGAN NEGARA / DAERAH - SUBSIDI, PSO",
+ "field": "",
+ "date_enacted": "2016-04-26",
+ "date_promulgated": "2016-04-27",
+ "date_effective": "2016-04-27",
+ "gazette": "BN.2016/NO.641, https:jdih.kemenkeu.go.id : 7 Hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2025-47",
+   "target_bpk_id": 326222,
+   "label": "PMK No. 47 Tahun 2025",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 68/PMK.02/2016 tentang Tata Cara Penyediaan, Pencairan, dan Pertanggungjawaban Dana Subsidi Pupuk"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2013-209",
+   "target_bpk_id": 126786,
+   "label": "PMK No. 209/PMK.02/2013",
+   "about": "Tata Cara Penyediaan, Pencairan, Dan Pertanggungjawaban Dana Subsidi Pupuk"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 27 April 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/137014/PMK%2068_PMK.02_2016.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:33:29Z"
+}

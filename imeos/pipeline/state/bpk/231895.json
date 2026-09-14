@@ -1,0 +1,58 @@
+{
+ "id": "PERMENDAG-2022-50",
+ "source": "bpk",
+ "bpk_id": 231895,
+ "url": "https://peraturan.bpk.go.id/Details/231895/permendag-no-50-tahun-2022",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "50",
+ "number_raw": "50",
+ "year": 2022,
+ "title": "Peraturan Menteri Perdagangan Nomor 50 Tahun 2022 tentang Ketentuan Ekspor Crude Palm Oil, Refined, Bleached, And Deodorized Palm Oil, Refined, Bleached, And Deodorized Palm Oilen, Dan Used Cooking OIl",
+ "about": "Ketentuan Ekspor Crude Palm Oil, Refined, Bleached, And Deodorized Palm Oil, Refined, Bleached, And Deodorized Palm Oilen, Dan Used Cooking OIl",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN",
+ "field": "",
+ "date_enacted": "2022-09-29",
+ "date_promulgated": "2022-10-03",
+ "date_effective": "2022-10-10",
+ "gazette": "BN.2022/No.1009, http://jdih.kemendag.go.id/: 41 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2024-26",
+   "target_bpk_id": 305841,
+   "label": "Permendag No. 26 Tahun 2024",
+   "about": "Ketentuan Ekspor Produk Turunan Kelapa Sawit"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2022-39",
+   "target_bpk_id": 223726,
+   "label": "Permendag No. 39 Tahun 2022",
+   "about": "Perubahan Atas Permendag Nomor 30 Tahun 2022 tentang Ketentuan Ekspor Crude Palm Oil, Refined, Bleached and Deodorized Palm Oil, Refined, Bleached and Deodorized Palm Olein, dan Used Cooking Oil"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2022-38",
+   "target_bpk_id": 223725,
+   "label": "Permendag No. 38 Tahun 2022",
+   "about": "Program Percepatan Penyaluran Crude Palm Oil, Refined, Bleached and Deodorized Palm Oil, Refined, Bleached and Deodorized Palm Olein, dan Used Cooking Oil Melalui Ekspor"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2022-30",
+   "target_bpk_id": 223716,
+   "label": "Permendag No. 30 Tahun 2022",
+   "about": "Ketentuan Ekspor Crude Palm Oil, Refined,Bleached And Deodorized Palm Oil, Refined, Bleached, And Deodorized Palm Oilen And Used Cooking Oil"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 10 Oktober 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/270030/Permendag%2050%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:37:38Z"
+}

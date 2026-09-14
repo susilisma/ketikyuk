@@ -1,0 +1,37 @@
+{
+ "id": "PERMENDAG-2014-52",
+ "source": "bpk",
+ "bpk_id": 129129,
+ "url": "https://peraturan.bpk.go.id/Details/129129/permendag-no-52m-dagper92014-tahun-2014",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "52",
+ "number_raw": "52/M-DAG/PER/9/2014",
+ "year": 2014,
+ "title": "Peraturan Menteri Perdagangan Nomor 52/M-DAG/PER/9/2014 Tahun 2014 tentang Tata Cara Seleksi Lembaga Pelaksana Penjamin Sistem Resi Gudang",
+ "about": "Tata Cara Seleksi Lembaga Pelaksana Penjamin Sistem Resi Gudang",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "",
+ "date_enacted": "2014-09-02",
+ "date_promulgated": null,
+ "date_effective": "2014-09-02",
+ "gazette": "JDIH.KEMENDAG.GO.ID : 5 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2025-48",
+   "target_bpk_id": 343102,
+   "label": "Permendag No. 48 Tahun 2025",
+   "about": "Tata Cara Seleksi Lembaga Pelaksana Penjaminan Sistem Resi Gudang"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 02 September 2014.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/266136/Permendag%20No.%2052%20Tahun%202014.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:36:29Z"
+}

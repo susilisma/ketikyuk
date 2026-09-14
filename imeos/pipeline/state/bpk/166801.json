@@ -1,0 +1,37 @@
+{
+ "id": "PERMENPERIN-2021-3",
+ "source": "bpk",
+ "bpk_id": 166801,
+ "url": "https://peraturan.bpk.go.id/Details/166801/permenperin-no-3-tahun-2021",
+ "form": "PERMENPERIN",
+ "form_long": "Peraturan Menteri Perindustrian",
+ "number": "3",
+ "number_raw": "3",
+ "year": 2021,
+ "title": "Peraturan Menteri Perindustrian Nomor 3 Tahun 2021 tentang Jaminan Ketersediaan Bahan Baku Industri Gula Dalam Rangka Pemenuhan Kebutuhan Gula Nasional",
+ "about": "Jaminan Ketersediaan Bahan Baku Industri Gula Dalam Rangka Pemenuhan Kebutuhan Gula Nasional",
+ "issuer": "Kementerian Perindustrian",
+ "subject": "PERINDUSTRIAN",
+ "field": "",
+ "date_enacted": "2021-01-28",
+ "date_promulgated": "2021-02-11",
+ "date_effective": "2021-02-11",
+ "gazette": "BN 2021/ No 129; http://jdih.kemenperin.go.id/; 13 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENPERIN-2024-47",
+   "target_bpk_id": 307907,
+   "label": "Permenperin No. 47 Tahun 2024",
+   "about": "Jaminan Pemenuhan Kebutuhan Bahan Baku untuk Industri Gula"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perindustrian ini mulai berlaku pada tanggal 11 Februari 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/159727/Permenperin_No._3_Tahun_2021_1.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:39:29Z"
+}

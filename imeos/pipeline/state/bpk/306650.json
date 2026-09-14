@@ -1,0 +1,62 @@
+{
+ "id": "PERPRES-2024-152",
+ "source": "bpk",
+ "bpk_id": 306650,
+ "url": "https://peraturan.bpk.go.id/Details/306650/perpres-no-152-tahun-2024",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "152",
+ "number_raw": "152",
+ "year": 2024,
+ "title": "Peraturan Presiden (Perpres) Nomor 152 Tahun 2024 tentang Kementerian Agama",
+ "about": "Kementerian Agama",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KETATANEGARAAN, KENEGARAAN - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "HUKUM TATA NEGARA",
+ "date_enacted": "2024-11-05",
+ "date_promulgated": "2024-11-05",
+ "date_effective": "2024-11-05",
+ "gazette": "LN 2024 (348) : 29 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PERPRES-2025-92",
+   "target_bpk_id": 331574,
+   "label": "Perpres No. 92 Tahun 2025",
+   "about": "Kementerian Haji dan Umrah"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2026-18",
+   "target_bpk_id": 349419,
+   "label": "Perpres No. 18 Tahun 2026",
+   "about": "Perubahan atas Peraturan Presiden Nomor 152 Tahun 2024 tentang Kementerian Agama"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2023-12",
+   "target_bpk_id": 241254,
+   "label": "PERPRES No. 12 Tahun 2023",
+   "about": "Kementerian Agama"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2011-63",
+   "target_bpk_id": 41181,
+   "label": "PERPRES No. 63 Tahun 2011",
+   "about": "Organisasi dan Tata Kerja Instansi Vertikal Kementerian Agama"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 11 Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara sebagaimana telah diubah dengan Undang-Undang Nomor 61 Tahun 2024 tenteag perubahan atas Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara, perlu menetapkan Peraturan Presiden tentang Kementerian Agama.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) dan Pasal 17 UUD NRI Tahun 1945; UU Nomor 39 Tahun 2008; dan Perpres Nomor 140 Tahun 2024.\nPerpres ini mengatur mengenai Kementerian Agama yang menyelenggarakan urusan pemerintahan di bidang agama. Kementerian ini berada di bawah dan bertanggung jawab kepada Presiden. Dalam Kementerian, Menteri dapat dibantu oleh wakil menteri sesuai dengan penunjukan presiden, Wakil menteri berada di bawah dan bertanggung jawab kepada Menteri. Kementerian ini mempunyai tugas menyelenggarakan urusan pemerintahan di bidang agama untuk membantu Presiden dalam menyelenggarakan pemerintahan negara. Dalam melaksanakan tugas kementerian menyelenggarakan fungsi antara lain sebagai berikut; 1. perumusan, penetapan, dan pelaksanaan kebijakan di bidang bimbingan masyarakat Islam, Kristen, Katolik, Hindu, Buddha, dan Khonghucu, penyelenggaraan haji dan umrah, serta pendidikan agama dan pendidikan keagamaan; 2. pelaksanaan bimbingan teknis dan supervisi atas pelaksanaan urusan Kementerian di daerah; dan 3. koordinasi pelaksanaan tugas, pembinaan, dan pemberian dukungan administrasi kepada seluruh unsur organisasi di lingkungan Kementerian.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 05 November 2024.\nPada saat Peraturan Presiden ini mulai berlaku:\na. Peraturan Presiden Nomor 63 Tahun 2011 tentang Organisasi dan Tata Kerja Instansi Vertikal Kementerian Agama; dan\nb. Peraturan Presiden Nomor 12 Tahun 2023 tentang Kementerian Agama (Lembaran Negara Republik Indonesia Tahun 2023 Nomor 21), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 29 hlm",
+ "citations": [
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2024-140"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/366925/Perpres%20Nomor%20152%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:31:41Z"
+}

@@ -1,0 +1,60 @@
+{
+ "id": "UU-2009-22",
+ "source": "bpk",
+ "bpk_id": 38654,
+ "url": "https://peraturan.bpk.go.id/Details/38654/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "22",
+ "number_raw": "22",
+ "year": 2009,
+ "title": "Undang-undang (UU) Nomor 22 Tahun 2009 tentang Lalu Lintas Dan Angkutan Jalan",
+ "about": "Lalu Lintas Dan Angkutan Jalan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "TRANSPORTASI DARAT / LAUT / UDARA",
+ "field": "",
+ "date_enacted": "2009-06-22",
+ "date_promulgated": "2009-06-22",
+ "date_effective": "2009-06-22",
+ "gazette": "LN. 2009/ No. 96, TLN NO. 5025, LL SETNEG : 143 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 234926,
+   "label": "PERPU No. 2 Tahun 2022",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1992-14",
+   "target_bpk_id": 46607,
+   "label": "UU No. 14 Tahun 1992",
+   "about": "Lalu Lintas Dan Angkutan Jalan"
+  }
+ ],
+ "abstract": "bahwa Lalu Lintas dan Angkutan Jalan mempunyai peran strategis dalam mendukung pembangunan dan integrasi nasional sebagai bagian dari upaya memajukan kesejahteraan umum sebagaimana diamanatkan oleh Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;\nbahwa Lalu Lintas dan Angkutan Jalan sebagai bagian dari sistem transportasi nasional harus dikembangkan potensi dan perannya untuk mewujudkan keamanan, keselamatan, ketertiban, dan kelancaran berlalu lintas dan Angkutan Jalan dalam rangka mendukung pembangunan ekonomi dan pengembangan wilayah;\nbahwa perkembangan lingkungan strategis nasional dan internasional menuntut penyelenggaraan Lalu Lintas dan Angkutan Jalan yang sesuai dengan perkembangan ilmu pengetahuan dan teknologi, otonomi daerah, serta akuntabilitas penyelenggaraan negara;\nbahwa Undang-Undang Nomor 14 Tahun 1992 tentang Lalu Lintas dan Angkutan Jalan sudah tidak sesuai lagi dengan kondisi, perubahan lingkungan strategis, dan kebutuhan penyelenggaraan Lalu Lintas dan Angkutan Jalan saat ini sehingga perlu diganti dengan undang-undang yang baru.\nPasal 5 ayat (1) serta Pasal 20 ayat (1) dan ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.\n1. KETENTUAN UMUM\n2. ASAS DAN TUJUAN\n3. RUANG LINGKUP KEBERLAKUAN UNDANG-UNDANG\n4. PEMBINAAN\n5. PENYELENGGARAAN\n6. JARINGAN LALU LINTAS DAN ANGKUTAN JALAN\n7. KENDARAAN\n8. PENGEMUDI\n9. LALU LINTAS\n10. ANGKUTAN\n11. KEAMANAN DAN KESELAMATAN\nLALU LINTAS DAN ANGKUTAN JALAN\n12. DAMPAK LINGKUNGAN\n13. PENGEMBANGAN INDUSTRI DAN TEKNOLOGI SARANA\nDAN PRASARANA LALU LINTAS DAN ANGKUTAN JALAN\n14. KECELAKAAN LALU LINTAS\n15. PERLAKUAN KHUSUS BAGI PENYANDANG CACAT,\nMANUSIA USIA LANJUT, ANAK-ANAK, WANITA HAMIL, DAN ORANG SAKIT\n16. SISTEM INFORMASI DAN KOMUNIKASI\nLALU LINTAS DAN ANGKUTAN JALAN\n17. SUMBER DAYA MANUSIA\n18. PERAN SERTA MASYARAKAT\n19. PENYIDIKAN DAN PENINDAKAN PELANGGARAN\nLALU LINTAS DAN ANGKUTAN JALAN\n20. KETENTUAN PIDANA\n21. KETENTUAN PERALIHAN\n22. KETENTUAN PENUTUP",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 22 Juni 2009.\nMencabut. Undang-Undang Nomor 14 Tahun 1992 tentang Lalu Lintas dan Angkutan Jalan, dicabut dan dinyatakan tidak berlaku.\nKetentuan lebih lanjut mengenai penyusunan dan penetapan Rencana Induk Jaringan Lalu Lintas dan Angkutan Jalan diatur dengan peraturan pemerintah.\nKetentuan lebih lanjut mengenai jalan kelas khusus sebagaimana dimaksud pada ayat (2) huruf d diatur dengan peraturan pemerintah.\nKetentuan lebih lanjut mengenai pengelompokan kelas jalan sebagaimana dimaksud dalam Pasal 19 dan tata cara penetapan kelas jalan sebagaimana dimaksud pada ayat (1) dan ayat (2) diatur dengan peraturan pemerintah.\ndan lainnya.\n203",
+ "citations": [
+  "UU-1992-14"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/27961/UU%20Nomor%2022%20Tahun%202009.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:33:04Z"
+}

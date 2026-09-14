@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2022-159",
+ "source": "bpk",
+ "bpk_id": 231151,
+ "url": "https://peraturan.bpk.go.id/Details/231151/pmk-no-159pmk022022",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "159",
+ "number_raw": "159/PMK.02/2022",
+ "year": 2022,
+ "title": "Peraturan Menteri Keuangan Nomor 159/PMK.02/2022 Tahun 2022 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 159/PMK.02/2021 tentang Tata Cara Penyediaan, Pencairan, dan Pertanggungjawaban Dana Kompensasi atas Kekurangan Penerimaan Badan Usaha Akibat Kebijakan Penetapan Harga Jual Eceran Bahan Bakar Minyak dan Tarif Tenaga Listrik",
+ "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 159/PMK.02/2021 tentang Tata Cara Penyediaan, Pencairan, dan Pertanggungjawaban Dana Kompensasi atas Kekurangan Penerimaan Badan Usaha Akibat Kebijakan Penetapan Harga Jual Eceran Bahan Bakar Minyak dan Tarif Tenaga Listrik",
+ "issuer": "Kementerian Keuangan",
+ "subject": "APBN - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN - PERTAMBANGAN MIGAS, MINERAL DAN ENERGI",
+ "field": "",
+ "date_enacted": "2022-11-07",
+ "date_promulgated": "2022-11-14",
+ "date_effective": "2022-11-14",
+ "gazette": "BN.2022/NO. 1139; https:jdih.kemenkeu.go.id : 16 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-73",
+   "target_bpk_id": 333927,
+   "label": "PMK No. 73 Tahun 2025",
+   "about": "Tata Cara Penyediaan, Penghitungan, Pembayaran dan Pertanggungjawaban Dana Kompensasi Atas Kekuarangan Penerimaan Badan Usaha Akibat Kebijakan Penetapan Harga Jual Ecer Bahan Bakar Minyak dan Tarif Tenaga Listrik"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PMK-2021-159",
+   "target_bpk_id": 187672,
+   "label": "PMK No. 159/PMK.02/2021",
+   "about": "Tata Cara Penyediaan, Pencairan, dan Pertanggungjawaban Dana Kompensasi atas Kekurangan Penerimaan Badan Usaha Akibat Kebijakan Penetapan Harga Jual Eceran Bahan Bakar Minyak dan Tarif Tenaga Listrik"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 14 November 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/259626/159_PMK.05_2022.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:32:44Z"
+}

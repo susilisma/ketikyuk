@@ -1,0 +1,72 @@
+{
+ "id": "PMK-2021-118",
+ "source": "bpk",
+ "bpk_id": 177395,
+ "url": "https://peraturan.bpk.go.id/Details/177395/pmk-no-118pmk012021",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "118",
+ "number_raw": "118/PMK.01/2021",
+ "year": 2021,
+ "title": "Peraturan Menteri Keuangan Nomor 118/PMK.01/2021 Tahun 2021 tentang Organisasi dan Tata Kerja Kementerian Keuangan",
+ "about": "Organisasi dan Tata Kerja Kementerian Keuangan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "",
+ "date_enacted": "2021-09-08",
+ "date_promulgated": "2021-09-09",
+ "date_effective": "2021-09-09",
+ "gazette": "BN.2021/NO. 1031; https:jdih.kemenkeu.go.id : 960 Hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2022-141",
+   "target_bpk_id": 228079,
+   "label": "PMK No. 141/PMK.01/2022",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 118/PMK.01/2021 tentang Organisasi dan Tata Kerja Kementerian Keuangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2019-87",
+   "target_bpk_id": 128080,
+   "label": "PMK No. 87/PMK.01/2019",
+   "about": "Perubahan Atas Peraturan Menteri Keuangan Nomor 217 /PMK.01/2018 Tentang Organisasi dan Tata Kerja Kementerian Keuangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2019-229",
+   "target_bpk_id": 137108,
+   "label": "PMK No. 229/PMK.01/2019",
+   "about": "Perubahan Kedua Atas Peraturan Menteri Keuangan Nomor 217/PMK.01/2018 Tentang Organiasai Dan Tata Kerja Kementerian Keuangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2018-217",
+   "target_bpk_id": 144460,
+   "label": "PMK No. 217/PMK.01/2018",
+   "about": "Organisasi Dan Tata Kerja Kementerian Keuangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2018-1",
+   "target_bpk_id": 111911,
+   "label": "PMK No. 1/PMK.01/2018",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 206.4/PMK.01/2014 tentang Organisasi dan Tata Kerja Kantor Pengelolaan Pemulihan Data"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 150686,
+   "label": "PMK No. 206.4/PMK.01/2014",
+   "about": "Organisasi Dan Tata Kerja Kantor Pengelolaan Pemulihan Data"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 09 September 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/170755/118_PMK.010_2021_.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:34:09Z"
+}

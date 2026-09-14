@@ -1,0 +1,37 @@
+{
+ "id": "PP-2013-49",
+ "source": "bpk",
+ "bpk_id": 5382,
+ "url": "https://peraturan.bpk.go.id/Details/5382/pp-no-49-tahun-2013",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "49",
+ "number_raw": "49",
+ "year": 2013,
+ "title": "Peraturan Pemerintah (PP) Nomor 49 Tahun 2013 tentang Badan Pengawasan Rumah Sakit",
+ "about": "Badan Pengawasan Rumah Sakit",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KESEHATAN - PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA",
+ "field": "",
+ "date_enacted": "2013-07-08",
+ "date_promulgated": "2013-07-08",
+ "date_effective": "2013-07-08",
+ "gazette": "LN. 2013 No. 111, TLN No. 5428, LL SETNEG : 20 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-28",
+   "target_bpk_id": 294077,
+   "label": "PP No. 28 Tahun 2024",
+   "about": "Peraturan Pelaksanaan Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 08 Juli 2013.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/33580/PP%20Nomor%2049%20Tahun%202013.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:30:52Z"
+}

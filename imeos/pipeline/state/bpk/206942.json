@@ -1,0 +1,46 @@
+{
+ "id": "PERMENPERIN-2021-27",
+ "source": "bpk",
+ "bpk_id": 206942,
+ "url": "https://peraturan.bpk.go.id/Details/206942/permenperin-no-27-tahun-2021",
+ "form": "PERMENPERIN",
+ "form_long": "Peraturan Menteri Perindustrian",
+ "number": "27",
+ "number_raw": "27",
+ "year": 2021,
+ "title": "Peraturan Menteri Perindustrian Nomor 27 Tahun 2021 tentang Tata Cara Penerbitan Rekomendasi Persetujuan Impor Bahan Baku Minuman Beralkohol Dalam Rangka Pengendalian Dan Pengawasan Industri Minuman Beralkohol",
+ "about": "Tata Cara Penerbitan Rekomendasi Persetujuan Impor Bahan Baku Minuman Beralkohol Dalam Rangka Pengendalian Dan Pengawasan Industri Minuman Beralkohol",
+ "issuer": "Kementerian Perindustrian",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN - PERIZINAN, PELAYANAN PUBLIK - PERINDUSTRIAN",
+ "field": "",
+ "date_enacted": "2021-10-25",
+ "date_promulgated": "2021-11-02",
+ "date_effective": "2021-11-02",
+ "gazette": "BN 2021 NO ; 1222 ; PERATURAN GO.ID; 20 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENPERIN-2024-19",
+   "target_bpk_id": 295388,
+   "label": "Permenperin No. 19 Tahun 2024",
+   "about": "Tata Cara Penerbitan Pertimbangan Teknis Impor Bahan Baku Minuman Beralkohol Dan Preparat Bau-Bauan Mengandung Alkohol"
+  }
+ ],
+ "abstract": "a. bahwa untuk memberikan perlindungan serta menjaga\nkesehatan, ketertiban, dan ketentraman masyarakat dari\ndampak buruk penyalahgunaan minuman beralkohol,\ntelah ditetapkan Peraturan Presiden Nomor 74 Tahun\n2013 tentang Pengendalian dan Pengawasan Minuman\nBeralkohol;\nb. bahwa untuk pemenuhan kebutuhan bahan baku\nminuman beralkohol yang tidak dapat diproduksi di\ndalam negeri, perusahaan industri dapat melakukan\nimportasi;\nc. bahwa untuk dapat melakukan importasi bahan baku\nminuman beralkohol dan dalam rangka pengendalian\ndan pengawasan industri minuman beralkohol,\nperusahaan industri harus mendapatkan rekomendasi\ndari Kementerian Perindustrian;\nd. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a, huruf b, dan huruf c, perlu\nmenetapkan Peraturan Menteri Perindustrian tentang Tata Cara Penerbitan Rekomendasi Persetujuan Impor\nBahan Baku Minuman Beralkohol Dalam Rangka\nPengendalian dan Pengawasan Industri Minuman\nBeralkohol;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945,Undang-Undang Nomor 39 Tahun 2008,Undang-Undang Nomor 3 Tahun 2014,Peraturan Pemerintah Nomor 5 Tahun 2021,Peraturan Pemerintah Nomor 28 Tahun 2021,Peraturan Presiden Nomor 74 Tahun 2013,Peraturan Presiden Nomor 107 Tahun 2020,Peraturan Menteri Perindustrian Nomor 17 Tahun 2019 dan Peraturan Menteri Perindustrian Nomor 7 Tahun 2021\nPeraturan Menteri ini mengatur tentang ketentuan umum, tata cara penerbitan rekomendasi, pelaporan dan pengawasan, sanksi dan ketentuan penutup",
+ "note": "Peraturan Menteri Perindustrian ini mulai berlaku pada tanggal 02 November 2021.",
+ "citations": [
+  "PERPRES-2013-74",
+  "UU-2008-39",
+  "UU-2014-3",
+  "PP-2021-5",
+  "PP-2021-28",
+  "PERPRES-2020-107",
+  "PERMENPERIN-2019-17",
+  "PERMENPERIN-2021-7"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/200974/Permenperin%20Nomor%2027%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:40:09Z"
+}

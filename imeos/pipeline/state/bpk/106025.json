@@ -1,0 +1,59 @@
+{
+ "id": "PP-2019-28",
+ "source": "bpk",
+ "bpk_id": 106025,
+ "url": "https://peraturan.bpk.go.id/Details/106025/pp-no-28-tahun-2019",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "28",
+ "number_raw": "28",
+ "year": 2019,
+ "title": "Peraturan Pemerintah (PP) Nomor 28 Tahun 2019 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Kementerian Hukum dan Hak Asasi Manusia",
+ "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Kementerian Hukum dan Hak Asasi Manusia",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
+ "field": "",
+ "date_enacted": "2019-04-18",
+ "date_promulgated": "2019-04-18",
+ "date_effective": "2019-05-03",
+ "gazette": "LN.2019/NO.71, TLN NO.6335, LL SETKAB : 10 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-45",
+   "target_bpk_id": 305293,
+   "label": "PP No. 45 Tahun 2024",
+   "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Kementerian Hukum dan Hak Asasi Manusia"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2016-45",
+   "target_bpk_id": 5766,
+   "label": "PP No. 45 Tahun 2016",
+   "about": "Perubahan Kedua Atas Peraturan Pemerintah Nomor 45 Tahun 2014 Tentang Jenis Dan Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Berlaku Pada Kementerian Hukum Dan Hak Asasi Manusia"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2015-10",
+   "target_bpk_id": 5571,
+   "label": "PP No. 10 Tahun 2015",
+   "about": "Perubahan Atas Peraturan Pemerintah Nomor 45 Tahun 2014 Tentang Jenis Dan Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Berlaku Pada Kementerian Hukum Dan Hak Asasi Manusia"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2014-45",
+   "target_bpk_id": 5484,
+   "label": "PP No. 45 Tahun 2014",
+   "about": "Jenis Dan Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Berlaku Pada Kementerian Hukum Dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 03 Mei 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/96985/PP%20Nomor%2028%20Tahun%202019.pdf",
+  "https://peraturan.bpk.go.id/Download/96986/PP%20Nomor%2028%20Tahun%202019%20-%20Lampiran.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:29:40Z"
+}

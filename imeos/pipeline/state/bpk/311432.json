@@ -1,0 +1,43 @@
+{
+ "id": "PMK-2024-94",
+ "source": "bpk",
+ "bpk_id": 311432,
+ "url": "https://peraturan.bpk.go.id/Details/311432/pmk-no-94-tahun-2024",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "94",
+ "number_raw": "94",
+ "year": 2024,
+ "title": "Peraturan Menteri Keuangan Nomor 94 Tahun 2024 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak Kebutuhan Mendesak Berupa Tarif Layanan Kesehatan yang Berlaku pada Rumah Sakit di Lingkungan Kementerian Kesehatan",
+ "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak Kebutuhan Mendesak Berupa Tarif Layanan Kesehatan yang Berlaku pada Rumah Sakit di Lingkungan Kementerian Kesehatan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-12-02",
+ "date_promulgated": "2024-12-17",
+ "date_effective": "2024-12-17",
+ "gazette": "BN.2024 (956)/110 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2022-122",
+   "target_bpk_id": 220251,
+   "label": "PMK No. 122/PMK.02/2022",
+   "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak Kebutuhan Mendesak Berupa Tarif Layanan Kesehatan yang Berlaku pada Rumah Sakit Umum Pusat Kementerian Kesehatan di Provinsi Maluku, Provinsi Nusa Tenggara Timur, dan Provinsi Papua"
+  }
+ ],
+ "abstract": "a. bahwa dalam hal terdapat kebutuhan mendesak berupa perubahan organisasi dan tata kerja di lingkungan Kementerian Kesehatan terutama pada organisasi rumah sakit sebagaimana telah diatur dalam Peraturan Presiden Nomor 18 Tahun 2021 tentang Kementerian Kesehatan, perlu mengatur jenis dan tarif atas jenis Penerimaan Negara Bukan Pajak kebutuhan mendesak yang berlaku pada rumah sakit di lingkungan Kementerian Kesehatan;\nb. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a serta untuk melaksanakan ketentuan Pasal\n8 ayat (1) Peraturan Pemerintah Nomor 69 Tahun 2020 tentang Tata Cara Penetapan Tarif atas Jenis Penerimaan Negara Bukan Pajak, perlu menetapkan Peraturan Menteri Keuangan tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak Kebutuhan Mendesak Berupa Tarif Layanan Kesehatan yang Berlaku pada Rumah Sakit di Lingkungan Kementerian Kesehatan;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 69 Tahun 2020, Peraturan Presiden Nomor 158 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 118/PMK.01/2021\nPeraturan ini mengatur tentang jenis dan tarif PNBP kebutuhan mendesak",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 17 Desember 2024.",
+ "citations": [
+  "PERPRES-2021-18",
+  "PP-2020-69",
+  "UU-2008-39",
+  "PERPRES-2024-158",
+  "PMK-2021-118"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/372131/94%20th%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:34:24Z"
+}

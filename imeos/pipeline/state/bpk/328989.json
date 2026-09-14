@@ -1,0 +1,49 @@
+{
+ "id": "PERPRES-2025-89",
+ "source": "bpk",
+ "bpk_id": 328989,
+ "url": "https://peraturan.bpk.go.id/Details/328989/perpres-no-89-tahun-2025",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "89",
+ "number_raw": "89",
+ "year": 2025,
+ "title": "Peraturan Presiden (Perpres) Nomor 89 Tahun 2025 tentang Perubahan Kedua atas Peraturan Presiden Nomor 4 Tahun 2016 tentang Percepatan Pembangunan Infrastruktur Ketenagalistrikan",
+ "about": "Perubahan Kedua atas Peraturan Presiden Nomor 4 Tahun 2016 tentang Percepatan Pembangunan Infrastruktur Ketenagalistrikan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KONSTRUKSI, SIPIL, ARSITEK, BANGUNAN, DAN INFRASTRUKTUR - PERTAMBANGAN MIGAS, MINERAL DAN ENERGI",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2025-09-02",
+ "date_promulgated": "2025-09-02",
+ "date_effective": "2025-09-02",
+ "gazette": "LN 2025 (137) : 7 hlm.; jdih.esdm.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2017-14",
+   "target_bpk_id": 62164,
+   "label": "PERPRES No. 14 Tahun 2017",
+   "about": "Perubahan Atas Peraturan Presiden No 4 Tahun 2016 tentang Percepatan Pembangunan Infrastruktur Ketenagalistrikan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2016-4",
+   "target_bpk_id": 38203,
+   "label": "PERPRES No. 4 Tahun 2016",
+   "about": "Percepatan Pembangunan Infrastruktur Ketenagalistrikan"
+  }
+ ],
+ "abstract": "Perpres Nomor 4 Tahun 2016 tentang Percepatan Pembangunan Infrastruktur Ketenagalistrikan sebagaimana telah diubah dengan Perpres Nomor 14 Tahun 2017 tentang Perubahan atas Perpres Nomor 4 Tahun 2016 tentang Percepatan Pembangunan Infrastruktur Ketenagalistrikan belum memenuhi kebutuhan hukum dalam mendukung percepatan pembangunan infrastruktur ketenagalistrikan sehingga perlu diubah.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD 1945; UU Nomor 30 Tahun 2009; PP Nomor 14 Tahun 2012; dan Perpres Nomor 4 Tahun 2016.\nPerpres ini mengubah beberapa ketentuan dalam Perpres Nomor 4 Tahun 2016 tentang Percepatan Pembangunan Infrastruktur Ketenagalistrikan sebagaimana telah diubah dengan Perpres Nomor 14 Tahun 2017 tentang Perubahan atas Perpres Nomor 4 Tahun 2016 tentang Percepatan Pembangunan Infrastruktur Ketenagalistrikan.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 02 September 2025.\nPerpres ini mengubah Perpres Nomor 4 Tahun 2016.\nLampiran file: 7 hlm.",
+ "citations": [
+  "PERPRES-2016-4",
+  "PERPRES-2017-14",
+  "UU-2009-30",
+  "PP-2012-14"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/390891/Perpres%20Nomor%2089%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:48Z"
+}

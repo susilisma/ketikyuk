@@ -1,0 +1,48 @@
+{
+ "id": "PERPRES-2025-72",
+ "source": "bpk",
+ "bpk_id": 321610,
+ "url": "https://peraturan.bpk.go.id/Details/321610/perpres-no-72-tahun-2025",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "72",
+ "number_raw": "72",
+ "year": 2025,
+ "title": "Peraturan Presiden (Perpres) Nomor 72 Tahun 2025 tentang Standar Harga Satuan Regional",
+ "about": "Standar Harga Satuan Regional",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH - PENGELOLAAN KEUANGAN NEGARA / DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-06-18",
+ "date_promulgated": "2025-06-18",
+ "date_effective": "2025-06-18",
+ "gazette": "LN 2025 (105) : 82 hlm.; https://djpk.kemenkeu.go.id/",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2023-53",
+   "target_bpk_id": 263640,
+   "label": "PERPRES No. 53 Tahun 2023",
+   "about": "Perubahan atas Peraturan Presiden Nomor 33 Tahun 2020 tentang Standar Harga Satuan Regional"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2020-33",
+   "target_bpk_id": 132592,
+   "label": "PERPRES No. 33 Tahun 2020",
+   "about": "Standar Harga Satuan Regional"
+  }
+ ],
+ "abstract": "Untuk menyesuaikan dengan perkembangan kebutuhan hukum dan mempertimbangkan amar Putusan Mahkamah Agung Nomor 12 P/HUM/2024, Perpres Nomor 33 Tahun 2020 tentang Standar Harga Satuan Regional sebagaimana telah diubah dengan Perpres Nomor 53 Tahun 2023 perlu diganti.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 dan PP No. 12 Tahun 2019.\nPerpres ini mengatur mengenai standar harga satuan regional, yang meliputi: 1) satuan biaya honorarium; 2) satuan biaya perjalanan dinas dalam negeri; 3) satuan biaya rapat atau pertemuan di dalam dan di luar kantor; 4) satuan biaya pengadaan kendaraan dinas; dan satuan biaya pemeliharaan.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 18 Juni 2025.\nPada saat Perpres ini mulai berlaku: Perpres Nomor 33 Tahun 2020 dan Perpres Nomor 53 Tahun 2023, dicabut dan dinyatakan tidak berlaku.\nLampiran file: 82 hlm. (batang tubuh hlm 1 s.d. 5 dan lampiran hlm 6 s.d. 82)",
+ "citations": [
+  "PERPRES-2020-33",
+  "PERPRES-2023-53",
+  "PP-2019-12"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/383355/Perpres%20Nomor%2072%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:33:11Z"
+}

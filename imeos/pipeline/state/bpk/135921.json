@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2020-55",
+ "source": "bpk",
+ "bpk_id": 135921,
+ "url": "https://peraturan.bpk.go.id/Details/135921/perpres-no-55-tahun-2020",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "55",
+ "number_raw": "55",
+ "year": 2020,
+ "title": "Peraturan Presiden (Perpres) Nomor 55 Tahun 2020 tentang Sekretariat Kabinet",
+ "about": "Sekretariat Kabinet",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA - STRUKTUR ORGANISASI",
+ "field": "",
+ "date_enacted": "2020-04-06",
+ "date_promulgated": "2020-04-06",
+ "date_effective": "2020-04-06",
+ "gazette": "LN.2020/NO.95, JDIH.SETNEG.GO.ID : 28 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-148",
+   "target_bpk_id": 306600,
+   "label": "Perpres No. 148 Tahun 2024",
+   "about": "Kementerian Sekretariat Negara"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2015-25",
+   "target_bpk_id": 41753,
+   "label": "PERPRES No. 25 Tahun 2015",
+   "about": "Sekretariat Kabinet"
+  }
+ ],
+ "abstract": "Dalam rangka meningkatkan efektifitas pemberian dukungan teknis, administrasi, analisis, dan pemikiran kepada Presiden dan Wakil Presiden dalam penyelenggaraan pemerintahan, perlu menetapkan Peraturan Presiden (Perpres) tentang Sekretariat Kabinet.\nDasar hukum perpres ini adalah Pasal 4 ayat (1) UUD 1945.\nPerpres ini menetapkan adanya Sekretariat Kabinet (Setkab) yang dipimpin oleh Sekretaris Kabinet dengan kedudukan berada di bawah dan bertanggung jawab kepada Presiden. Setkab mempunyai tugas memberikan dukungan manajemen kabinet kepada Presiden dan Wakil Presiden dalam penyelenggaraan pemerintahan. Struktur Setkab terdiri dari Wakil Sekretaris Kabinet, 6 bidang Deputi, dan staf ahli.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 06 April 2020.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 25 Tahun 2015 tentang Sekretariat Kabinet dinyatakan dicabut dan tidak berlaku.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/126784/Perpres%20Nomor%2055%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:28:31Z"
+}

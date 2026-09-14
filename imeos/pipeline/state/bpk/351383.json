@@ -1,0 +1,49 @@
+{
+ "id": "PP-2026-27",
+ "source": "bpk",
+ "bpk_id": 351383,
+ "url": "https://peraturan.bpk.go.id/Details/351383/pp-no-27-tahun-2026",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "27",
+ "number_raw": "27",
+ "year": 2026,
+ "title": "Peraturan Pemerintah (PP) Nomor 27 Tahun 2026 tentang Perubahan Kedua atas Peraturan Pemerintah Nomor 99 Tahun 2013 tentang Pengelolaan Aset Jaminan Sosial Ketenagakerjaan",
+ "about": "Perubahan Kedua atas Peraturan Pemerintah Nomor 99 Tahun 2013 tentang Pengelolaan Aset Jaminan Sosial Ketenagakerjaan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PENGELOLAAN BARANG MILIK NEGARA / DAERAH",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2026-06-29",
+ "date_promulgated": "2026-06-29",
+ "date_effective": "2026-06-29",
+ "gazette": "LN 2026 (67), TLN (7184) : 33 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PP-2015-55",
+   "target_bpk_id": 5627,
+   "label": "PP No. 55 Tahun 2015",
+   "about": "Perubahan atas Peraturan Pemerintah Nomor 99 Tahun 2013 Tentang Pengelolaan Aset Jaminan Sosial Ketenagakerjaan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PP-2013-99",
+   "target_bpk_id": 5436,
+   "label": "PP No. 99 Tahun 2013",
+   "about": "Pengelolaan Aset Jaminan Sosial Ketenagakerjaan"
+  }
+ ],
+ "abstract": "Peraturan Pemerintah Nomor 99 Tahun 2013 tentang Pengelolaan Aset Jaminan Sosial Ketenagakerjaan sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 55 Tahun 2015 tentang Perubahan atas Peraturan Pemerintah Nomor 99 Tahun 2013 tentang Pengelolaan Aset Jaminan Sosial Ketenagakerjaan sudah tidak sesuai dengan perkembangan dan kebutuhan investasi Badan Penyelenggara Jaminan Sosial Ketenagakerjaan saat ini, sehingga perlu menetapkan PP ini.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945; UU No. 40 Tahun 2004; UU No. 24 Tahun 2011; dan PP No. 99 Tahun 2013.\nPeraturan Pemerintah ini memuat pengaturan antara lain mengenai perubahan kebijakan persentase sumber Dana Operasional yang dapat diambil dari Dana Jaminan Sosial Ketenagakerjaan, kebijakan pengembangan aset Dana Jaminan Sosial Ketenagakerjaan, perubahan dan penambahan instrumen Investasi, perubahan kebijakan pemanfaatan Surplus atas kesehatan keuangan BPJS Ketenagakerjaan, target pengembangan Investasi aset Dana Jaminan Sosial Ketenagakerjaan, dan pengelolaan aset Jaminan Sosial Ketenagakerjaan berdasarkan prinsip syariah.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 29 Juni 2026.\nPP ini mengubah PP No. 99 Tahun 2013.\nLampiran file: 47 hlm (batang tubuh hlm 1 sd 33; penjelasan hlm 34 sd 47)",
+ "citations": [
+  "PP-2013-99",
+  "PP-2015-55",
+  "UU-2004-40",
+  "UU-2011-24"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/415163/PP%20Nomor%2027%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:27:37Z"
+}

@@ -1,0 +1,43 @@
+{
+ "id": "PMK-2023-109",
+ "source": "bpk",
+ "bpk_id": 271188,
+ "url": "https://peraturan.bpk.go.id/Details/271188/pmk-no-109-tahun-2023",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "109",
+ "number_raw": "109",
+ "year": 2023,
+ "title": "Peraturan Menteri Keuangan Nomor 109 Tahun 2023 tentang Mekanisme Pelaksanaan Anggaran Atas Pekerjaan Yang Belum Diselesaikan Pada Akhir Tahun Anggaran",
+ "about": "Mekanisme Pelaksanaan Anggaran Atas Pekerjaan Yang Belum Diselesaikan Pada Akhir Tahun Anggaran",
+ "issuer": "Kementerian Keuangan",
+ "subject": "STANDAR / PEDOMAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2023-10-09",
+ "date_promulgated": "2023-10-13",
+ "date_effective": "2023-10-13",
+ "gazette": "BN.2023 (806)/29 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-84",
+   "target_bpk_id": 334053,
+   "label": "PMK No. 84 Tahun 2025",
+   "about": "Mekanisme Pelaksanaan Anggaran atas Pekerjaan yang Belum Diselesaikan pada Akhir Tahun Anggaran Melalui Rekening Penampungan"
+  }
+ ],
+ "abstract": "a. bahwa berdasarkan ketentuan Pasal 7 ayat (2) huruf a Undang-Undang Nomor 1 Tahun 2004 tentang Perbendaharaan Negara, Menteri Keuangan selaku Bendahara Umum Negara berwenang menetapkan kebijakan dan pedoman pelaksanaan anggaran;\nb. bahwa untuk menjaga prinsip pembayaran setelah barang/jasa diterima serta mendukung optimalisasi\ndan efektivitas pelaksanaan anggaran atas pekerjaan yang belum diselesaikan pada akhir tahun anggaran, perlu dibuka rekening penampungan akhir tahun\nanggaran untuk menampung dana dalam rangka penyelesaian pekerjaan dimaksud;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu\nmenetapkan Peraturan Menteri Keuangan tentang\nMekanisme Pelaksanaan Anggaran atas Pekerjaan yang Belum Diselesaikan pada Akhir Tahun Anggaran;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 1 Tahun 2004, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 45 Tahun 2013, Peraturan Presiden Nomor 57 Tahun 2020 dan PMK Nomor 118/PMK.01/2021\nPeraturan Menteri ini mengatur tentang ketentuan umum, rekening penampungan akhir tahun anggaran, pengajuan SPM penampungan, pembayaran atas penyelesaian pekerjaan, monitoring dan pelaporan, ketentuan lain-lain dan ketentuan penutup",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 13 Oktober 2023.\nPeraturan Keuangan Nomor 163/PMK.05/2013 tentang Pedoman Pelaksanaan Penerirnaan dan Pengeluaran Negara pada Akhir Tahun Anggaran sebagaimana diubah dengan Peraturan Menteri Keuangan Nomor 186/PMK.05/2017 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 163/PMK.05/2013 tentang Pedoman Pelaksanaan Penerimaan dan Pengeluaran Negara pada Akhir Tahun Anggaran dan Peraturan Menteri Keuangan Nomor 145/PMK.05/2017\ntentang Tata Cara Pembayaran atas Beban Anggaran Pendapatan dan Belanja Negara sebelum Barang/Jasa Diterima dicabut dan dinyatakan tidak berlaku",
+ "citations": [
+  "UU-2004-1",
+  "UU-2008-39",
+  "PP-2013-45",
+  "PERPRES-2020-57",
+  "PMK-2021-118"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/329161/2023pmkeuangan109.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:32:33Z"
+}

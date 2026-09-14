@@ -1,0 +1,48 @@
+{
+ "id": "PERPRES-2024-170",
+ "source": "bpk",
+ "bpk_id": 306752,
+ "url": "https://peraturan.bpk.go.id/Details/306752/perpres-no-170-tahun-2024",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "170",
+ "number_raw": "170",
+ "year": 2024,
+ "title": "Peraturan Presiden (Perpres) Nomor 170 Tahun 2024 tentang Kementerian Pekerjaan Umum",
+ "about": "Kementerian Pekerjaan Umum",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KETATANEGARAAN, KENEGARAAN - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "HUKUM TATA NEGARA",
+ "date_enacted": "2024-11-05",
+ "date_promulgated": "2024-11-05",
+ "date_effective": "2024-11-05",
+ "gazette": "LN 2024 (366) : 24 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2024-24",
+   "target_bpk_id": 277602,
+   "label": "PERPRES No. 24 Tahun 2024",
+   "about": "Perubahan atas  Peraturan Presiden Nomor 27 Tahun 2020 tentang Kementerian Pekerjaan Umum dan Perumahan Rakyat"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2020-27",
+   "target_bpk_id": 132020,
+   "label": "PERPRES No. 27 Tahun 2020",
+   "about": "Kementerian Pekerjaan Umum dan Perumahan Rakyat"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 11 Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara sebagaimana telah diubah dengan Undang-Undang Nomor 61 Tahun 2024 tentang Perubahan atas Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara, perlu menetapkan Peraturan Presiden tentang Kementerian Pekerjaan Umum.\nDasar Hukum Perpres ini adalah Pasal 4 ayat (1) dan Pasal 17 UUD NRI Tahun 1945; UU Nomor 39 Tahun 2008; dan Perpres Nomor 140 Tahun 2024\nPerpres ini mengatur mengenai Kementerian Pekerjaan Umum yang menyelenggarakan urusan pemerintahan di bidang pekerjaan umum. Kementerian ini dipimpin oleh Menteri berada di bawah dan bertanggung jawab kepada Presiden. Dalam memimpin Kementerian, Menteri dapat dibantu oleh wakil menteri sesuai dengan penunjukan Presiden, Wakil menteri berada di bawah dan bertanggung jawab kepada Menteri. Kementerian mempunyai tugas menyelenggarakan urusan pemerintahan di bidang pekerjaan umum untuk membantu Presiden dalam menyelenggarakan pemerintahan negara. Dalam melaksanakan tugas Kementerian menyelenggarakan fungsi antara lain sebagai berikut; 1. perumusan, penetapan, dan pelaksanaan kebijakan sumber daya air, penyelenggaraan jalan, penyelenggaraan sistem penyediaan air minum, pengelolaan air limbah domestik, pengelolaan drainase lingkungan, dan pengelolaan persampahan, penataan bangunan gedung, pengembangan infrastruktur kawasan strategis nasional dan kawasan strategis nasional tertentu, pengembangan sarana prasarana strategis, pelaksanaan pembiayaan infrastruktur pekerjaan umum, serta pembinaan jasa konstruksi; 2. pelaksanaan bimbingan teknis dan supervisi atas pelaksanaan umsan Kementerian di daerah; dan 3. koordinasi pelaksanaan tugas, pembinaan, dan pemberian dukungan administrasi kepada seluruh unsur organisasi di lingkungan Kementerian.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 05 November 2024.\nPeraturan Presiden Nomor 27 Tahun 2020 tentang Kementerian Pekerjaan Umum dan Perumahan Ralryat (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 40) sebagaimana telah diubah dengan Peraturan Presiden Nomor 24 Tahlun 2024 tentang Perubahan atas Peraturan Presiden Nomor 27 Tahun 2020 tentang Kementerian Pekerjaan Umum dan Perumahan Rakyat (Lembaran Negara Republik Indonesia Tahun 2024 Nomor 37), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 24 hlm",
+ "citations": [
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2024-140"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/367038/Perpres%20Nomor%20170%20tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:27:47Z"
+}

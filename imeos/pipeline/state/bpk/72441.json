@@ -1,0 +1,37 @@
+{
+ "id": "PP-1962-20",
+ "source": "bpk",
+ "bpk_id": 72441,
+ "url": "https://peraturan.bpk.go.id/Details/72441/x",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "20",
+ "number_raw": "20",
+ "year": 1962,
+ "title": "Peraturan Pemerintah (PP) Nomor 20 Tahun 1962 tentang Lafal Sumpah Janji Apoteker",
+ "about": "Lafal Sumpah Janji Apoteker",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KESEHATAN",
+ "field": "",
+ "date_enacted": "1962-09-20",
+ "date_promulgated": "1962-09-20",
+ "date_effective": "1962-09-20",
+ "gazette": "LN. 1962/No. 69, LL : 2 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-28",
+   "target_bpk_id": 294077,
+   "label": "PP No. 28 Tahun 2024",
+   "about": "Peraturan Pelaksanaan Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 20 September 1962.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/62920/pp%20no%20020%20tahun%201962.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:34Z"
+}

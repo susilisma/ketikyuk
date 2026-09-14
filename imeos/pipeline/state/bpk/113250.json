@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2018-138",
+ "source": "bpk",
+ "bpk_id": 113250,
+ "url": "https://peraturan.bpk.go.id/Details/113250/pmk-no-138pmk012018",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "138",
+ "number_raw": "138/PMK.01/2018",
+ "year": 2018,
+ "title": "Peraturan Menteri Keuangan Nomor 138/PMK.01/2018 Tahun 2018 tentang Pedoman Pelaksanaan Analisis Jabatan Di Lingkungan Kementerian Keuangan",
+ "about": "Pedoman Pelaksanaan Analisis Jabatan Di Lingkungan Kementerian Keuangan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "STANDAR / PEDOMAN",
+ "field": "",
+ "date_enacted": "2018-09-21",
+ "date_promulgated": "2018-10-01",
+ "date_effective": "2018-10-01",
+ "gazette": "BN.2018/NO.1394, JDIH.KEMENKEU.GO.ID : 21 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-95",
+   "target_bpk_id": 341470,
+   "label": "PMK No. 95 Tahun 2025",
+   "about": "Pedoman Pelaksanaan Analisis Jabatan dan Analisis Beban Kerja di Lingkungan Kementerian Keuangan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2021-130",
+   "target_bpk_id": 179350,
+   "label": "PMK No. 130/PMK.01/2021",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 138/PMK.01/2018 tentang Pedoman Pelaksanaan Analisis Jabatan di Lingkungan Kementerian Keuangan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 01 Oktober 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/104207/PMK%20Nomor%20138%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:32:12Z"
+}

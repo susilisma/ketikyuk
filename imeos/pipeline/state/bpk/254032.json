@@ -1,0 +1,50 @@
+{
+ "id": "PMK-2023-57",
+ "source": "bpk",
+ "bpk_id": 254032,
+ "url": "https://peraturan.bpk.go.id/Details/254032/pmk-no-57-tahun-2023",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "57",
+ "number_raw": "57",
+ "year": 2023,
+ "title": "Peraturan Menteri Keuangan Nomor 57 Tahun 2023 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 231/PMK.05/2022 tentang Kebijakan Akuntansi Pemerintah Pusat",
+ "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 231/PMK.05/2022 tentang Kebijakan Akuntansi Pemerintah Pusat",
+ "issuer": "Kementerian Keuangan",
+ "subject": "KEBIJAKAN AKUNTANSI",
+ "field": "",
+ "date_enacted": "2023-05-23",
+ "date_promulgated": "2023-05-24",
+ "date_effective": "2023-05-24",
+ "gazette": "BN 2023 (402); 3 Halaman, jdih.kemenkeu.go.id",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-100",
+   "target_bpk_id": 341740,
+   "label": "PMK No. 100 Tahun 2025",
+   "about": "Kebijakan Akuntansi Pemerintah Pusat"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PMK-2022-231",
+   "target_bpk_id": 238762,
+   "label": "PMK No. 231/PMK.05/2022",
+   "about": "Kebijakan Akuntansi Pemerintah Pusat"
+  }
+ ],
+ "abstract": "Untuk memberikan kepastian hukum penyempurnaan pengaturan penyelenggaraan akuntansi dan pelaporan keuangan atas kebijakan akuntansi kewajiban utang berdasarkan Standar Akuntansi Pemerintahan di lingkungan pemerintah pusat, perlu mengubah Peraturan Menteri Keuangan Nomor 231/PMK.05/2022 tentang Kebijakan Akuntansi Pemerintah Pusat.\nDasar Hukum PMK Ini adalah Pasal 17 ayat (3) UUD 1945; UU No. 1 Tahun 2004; UU no. 39 Tahun 2008; PP No. 71 Tahun 2010; Perpres No. 57 2020; PMK No. 118/PMK.01/2021; dan PMK No. 231/PMK.05/2022.\nPMK ini mengubah Ketentuan Bab XI dalam Lampiran Peraturan Menteri Keuangan Nomor 231/PMK.05/2022 tentang Kebijakan Akuntansi Pemerintah Pusat (Berita Negara Republik Indonesia Tahun 2022 Nomor 1451) diubah, sehingga menjadi sebagaimana tercantum dalam Lampiran yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 24 Mei 2023.\nPMK ini mengubah PMK Nomor 231/PMK.05/2022 tentang Kebijakan Akuntansi Pemerintah Pusat\nLampiran file: 23 hlm. (batang tubuh halaman 1 sampai dengan 3; lampiran halaman 4 sampai dengan 23)",
+ "citations": [
+  "PMK-2022-231",
+  "UU-2004-1",
+  "UU-2008-39",
+  "PP-2010-71",
+  "PMK-2021-118"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/310682/2023pmkeuangan057.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:32:01Z"
+}

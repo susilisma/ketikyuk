@@ -1,0 +1,37 @@
+{
+ "id": "PP-2014-79",
+ "source": "bpk",
+ "bpk_id": 5523,
+ "url": "https://peraturan.bpk.go.id/Details/5523/pp-no-79-tahun-2014",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "79",
+ "number_raw": "79",
+ "year": 2014,
+ "title": "Peraturan Pemerintah (PP) Nomor 79 Tahun 2014 tentang Kebijakan Energi Nasional",
+ "about": "Kebijakan Energi Nasional",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERTAMBANGAN MIGAS, MINERAL DAN ENERGI",
+ "field": "",
+ "date_enacted": "2014-10-17",
+ "date_promulgated": "2014-10-17",
+ "date_effective": "2014-10-17",
+ "gazette": "LN. 2014 No.300, TLN No. 5609, LL SETNEG : 25 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2025-40",
+   "target_bpk_id": 328789,
+   "label": "PP No. 40 Tahun 2025",
+   "about": "Kebijakan Energi Nasional"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 17 Oktober 2014.\nPeraturan Pemerintah ini mencabut Perpres Nomor 5 Tahun 2006 tentang Kebijakan Energi Nasional.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/33346/PP%20Nomor%2079%20Tahun%202014.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:29:04Z"
+}

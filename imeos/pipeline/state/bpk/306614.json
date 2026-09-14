@@ -1,0 +1,268 @@
+{
+ "id": "PMK-2024-81",
+ "source": "bpk",
+ "bpk_id": 306614,
+ "url": "https://peraturan.bpk.go.id/Details/306614/pmk-no-81-tahun-2024",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "81",
+ "number_raw": "81",
+ "year": 2024,
+ "title": "Peraturan Menteri Keuangan Nomor 81 Tahun 2024 tentang Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan",
+ "about": "Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-10-14",
+ "date_promulgated": "2024-10-18",
+ "date_effective": "2024-12-31",
+ "gazette": "BN.2024 (771)/642hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2026-1",
+   "target_bpk_id": 342160,
+   "label": "PMK No. 1 Tahun 2026",
+   "about": "Perubahan Keempat atas Peraturan Menteri Keuangan Nomor 81 Tahun 2024 Tentang Ketentuan Perpajakan dalam rangka Pelaksanaan Sistem Inti Administrasi Perpajakan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2025-54",
+   "target_bpk_id": 326365,
+   "label": "PMK No. 54 Tahun 2025",
+   "about": "Perubahan Ketiga atas Peraturan Menteri Keuangan Nomor 81 Tahun 2024 tentang Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2025-53",
+   "target_bpk_id": 326338,
+   "label": "PMK No. 53 Tahun 2025",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 11 Tahun 2025 tentang Ketentuan Nilai Lain sebagai Dasar Pengenaan Pajak dan Besaran Tertentu Pajak Pertambahan Nilai"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2022-68",
+   "target_bpk_id": 215539,
+   "label": "PMK No. 68/PMK.03/2022",
+   "about": "Pajak Pertambahan Nilai dan Pajak Penghasilan atas Transaksi Perdagangan Aset Kripto"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2022-67",
+   "target_bpk_id": 215536,
+   "label": "PMK No. 67/PMK.03/2022",
+   "about": "Pajak Pertambahan Nilai atas Penyerahan Jasa Agen Asuransi, Jasa Pialang Asuransi, dan Jasa Pialang Reasuransi"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2022-61",
+   "target_bpk_id": 206311,
+   "label": "PMK No. 61/PMK.03/2022",
+   "about": "Pajak Pertambahan Nilai atas Kegiatan Membangun Sendiri"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2022-60",
+   "target_bpk_id": 215498,
+   "label": "PMK No. 60/PMK.03/2022",
+   "about": "Tata Cara Penunjukan Pemungut, Pemungutan, Penyetoran, dan Pelaporan Pajak Pertambahan Nilai atas Pemanfaatan Barang Kena Pajak Tidak Berwujud dan/atau Jasa Kena Pajak dari Luar Daerah Pabean di Dalam Daerah Pabean melalui Perdagangan melalui Sistem Elektronik"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2021-8",
+   "target_bpk_id": 160062,
+   "label": "PMK No. 8/PMK.03/2021",
+   "about": "Tata Cara Pemungutan, Penyetoran dan Pelaporan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan Atas Barang Mewah oleh Badan Usaha Milik Negara dan Perusahaan Tertentu Yang Dimiliki Secara Langsung oleh Badan Usaha Milik Negara sebagai Pemungut Pajak Pertambahan Nilai"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2021-63",
+   "target_bpk_id": 168956,
+   "label": "PMK No. 63/PMK.03/2021",
+   "about": "Tata Cara Pelaksanaan Hak dan Pemenuhan Kewajiban Perpajakan serta Penerbitan, Penandatanganan, dan Pengiriman Keputusan atau Ketetapan Pajak secara Elektronik"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2021-54",
+   "target_bpk_id": 168825,
+   "label": "PMK No. 54/PMK.03/2021",
+   "about": "Tata Cara Melakukan Pencatatan dan Kriteria Tertentu serta Tata Cara Menyelenggarakan Pembukuan untuk Tujuan Perpajakan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2021-48",
+   "target_bpk_id": 167386,
+   "label": "PMK No. 48/PMK.03/2021",
+   "about": "Tata Cara Pendaftaran, Pelaporan, dan Pendataan Objek Pajak Pajak Bumi dan Bangunan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2020-153",
+   "target_bpk_id": 148409,
+   "label": "PMK No. 153/PMK.010/2020",
+   "about": "Pemberian Pengurangan Penghasilan Bruto Atas Kegiatan Penelitian Dan Pengembangan Tertentu Di Indonesia"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2020-11",
+   "target_bpk_id": 136789,
+   "label": "PMK No. 11/PMK.010/2020",
+   "about": "Pelaksanaan Peraturan Pemerintah Nomor 78 Tahun 2019 Tentang Fasilitas Pajak Penghasilan Untuk Penanaman Modal Di Bidang-Bidang Usaha Tertentu Dan/Atau Di Daerah-Daerah Tertentu"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2019-32",
+   "target_bpk_id": 128020,
+   "label": "PMK No. 32/PMK.010/2019",
+   "about": "Batasan Kegiatan Dan Jenis Jasa Kena Pajak Yang Atas Ekspornya Dikenai Pajak Pertambahan Nilai"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2019-120",
+   "target_bpk_id": 128142,
+   "label": "PMK No. 120/PMK.03/2019",
+   "about": "Tata Cara Pengajuan Dan Penyelesaian Permintaan Kembali Pajak Pertambahan Nilai Barang Bawaan Orang Pribadi Pemegang Paspor Luar Negeri"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2018-215",
+   "target_bpk_id": 113790,
+   "label": "PMK No. 215/PMK.03/2018",
+   "about": "Penghitungan Angsuran Pajak Penghasilan Dalam Tahun Pajak Berjalan Yang Harus Dibayar Sendiri Oleh Wajib Pajak Baru, Bank, Badan Usaha Milik Negara, Badan Usaha Milik Daerah, Wajib Pajak Masuk Bursa, Wajib Pajak Lainnya Yang Berdasarkan Ketentuan Diharuskan Membuat Laporan Keuangan Berkala Dan Wajib Pajak Orang Pribadi Pengusaha Tertentu"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2018-166",
+   "target_bpk_id": 113502,
+   "label": "PMK No. 166/PMK.03/2018",
+   "about": "Penunjukan Pemegang Izin Usaha Pertambangan Khusus Operasi Produksi Untuk Memungut, Menyetor, Dan Melaporkan Pajak Pertambahan Nilai Atau Pajak Pertambahan Nilai Dan Pajak Penjualan Atas Barang Mewah, Serta Tata Cara Pemungutan, Penyetoran, Dan Pelaporannya"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2017-52",
+   "target_bpk_id": 112648,
+   "label": "PMK No. 52/PMK.010/2017",
+   "about": "Penggunaan Nilai Buku Atas Pengalihan Dan Perolehan Harta Dalam Rangka Penggabungan, Peleburan, Pemekaran, Atau Pengambilalihan Usaha"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2017-37",
+   "target_bpk_id": 112629,
+   "label": "PMK No. 37/PMK.03/2017",
+   "about": "Tata Cara Pembayaran Dan Pelaporan Pajak Penghasilan Atas Penghasilan Dari Pengalihan Real Estat Dalam Skema Kontrak Investasi Kolektif Tertentu"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2017-34",
+   "target_bpk_id": 112623,
+   "label": "PMK No. 34/PMK.010/2017",
+   "about": "Pemungutan Pajak Penghasilan Pasal 22 Sehubungan Dengan Pembayaran Atas Penyerahan Barang Dan Kegiatan Di Bidang Impor Atau Kegiatan Usaha Di Bidang Lain"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2017-147",
+   "target_bpk_id": 112849,
+   "label": "PMK No. 147/PMK.03/2017",
+   "about": "Tata Cara Pendaftaran Wajib Pajak Dan Penghapusan Nomor Pokok Wajib Pajak Serta Pengukuhan Dan Pencabutan Pengukuhan Pengusaha Kena Pajak"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2016-261",
+   "target_bpk_id": 121423,
+   "label": "PMK No. 261/PMK.03/2016",
+   "about": "Tata Cara Penyetoran, Pelaporan, Dan Pengecualian Pengenaan Pajak Penghasilan Atas Penghasilan Dari Pengalihan Hak Atas Tanah Dan/ Atau Bangunan, Dan Perjanjian Pengikatan Jual Beli Atas Tanah Dan/ Atau Bangunan Beserta Perubahannya"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2015-244",
+   "target_bpk_id": 147246,
+   "label": "PMK No. 244/PMK.03/2015",
+   "about": "Tata Cara Penghitungan dan Pengembalian Kelebihan Pembayaran Pajak"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2015-187",
+   "target_bpk_id": 121783,
+   "label": "PMK No. 187/PMK.03/2015",
+   "about": "Tata Cara Pengembalian Atas Kelebihan Pembayaran Pajak Yang Seharusnya Tidak Terutang"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2014-243",
+   "target_bpk_id": 122018,
+   "label": "PMK No. 243/PMK.03/2014",
+   "about": "Surat Pemberitahuan (SPT)"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2014-242",
+   "target_bpk_id": 121991,
+   "label": "PMK No. 242/PMK.03/2014",
+   "about": "Tata Cara Pembayaran Dan Penyetoran Pajak"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2013-10",
+   "target_bpk_id": 149601,
+   "label": "PMK No. 10/PMK.03/2013",
+   "about": "Tata Cara Pengembalian atas Kelebihan Pembayaran Pajak yang Seharusnya Tidak Terutang"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2012-79",
+   "target_bpk_id": 167730,
+   "label": "PMK No. 79/PMK.02/2012",
+   "about": "Tata Cara Penyetoran dan Pelaporan Penerimaan Negara Dari Kegiatan Usaha Hulu Minyak Bumi dan/atau Gas Bumi dan Penghitungan Pajak Penghasilan untuk Keperluan Pembayaran Pajak Penghasilan Minyak Bumi dan/atau Gas Bumi Berupa Volume Minyak Bumi dan/atau Gas Bumi"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2011-257",
+   "target_bpk_id": 127265,
+   "label": "PMK No. 257/PMK.011/2011",
+   "about": "Tata Cara Pemotongan Dan Pembayaran Pajak Penghasilan Atas Penghasilan Lain Kontraktor Berupa Uplift Atau Imbalan Lain Yang Sejenis Dan/Atau Penghasilan Kontraktor Dari Pengalihan Participating Interest"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2011-17",
+   "target_bpk_id": 119218,
+   "label": "PMK No. 17/PMK.03/2011",
+   "about": "Permohonan Pengembalian Kelebihan Pembayaran Pajak Bumi Dan Bangunan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2010-73",
+   "target_bpk_id": 174104,
+   "label": "PMK No. 73/PMK.03/2010",
+   "about": "Penunjukan Kontraktor Kontrak Kerja Sama Pengusahaan Minyak dan Gas Bumi dan Kontraktor atau Pemegang Kuasa/Pemegang Izin Pengusahaan Sumber Daya Panas Bumi untuk Memungut, Menyetor, dan Melaporkan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, Serta Tata Cara Pemungutan, Penyetoran, dan Pelaporannya"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2010-65",
+   "target_bpk_id": 174340,
+   "label": "PMK No. 65/PMK.03/2010",
+   "about": "Tata Cara Pengurangan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Barang Kena Pajak yang Dikembalikan dan Pajak Pertambahan Nilai atas Jasa Kena Pajak yang Dibatalkan"
+  }
+ ],
+ "abstract": "a. bahwa untuk melaksanakan pembaruan sistem administrasi perpajakan yang lebih transparan, efektif, efisien, akuntabel dan fleksibel, perlu dilakukan penataan peraturan perundang-undangan di bidang perpajakan yang berkeadilan dan berkepastian hukum guna meningkatkan penerimaan pajak dan mendukung perekonomian nasional;\nb. bahwa penataan peraturan perundang-undangan di bidang perpajakan dilakukan dalam lingkup proses bisnis, serta teknologi informasi dan basis diantaranta melalui penyesuaian pengaturan pendafataran wajib pajak, pembayaran dan penyetoran pajak, pelaporan pajak serta layanan administrasi perpajakan;\nc. berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, serta untuk melaksanakan ketentuan Pasal 9 Peraturan Presdien Nomor 40 Tahun 2018 tentang Pembaruan Sistem Administrasi Perpajakan, perlu menetapkan Peraturan Menteri Keuangan tentang Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Admnistrasi Perpajakan;\nPasal 17 ayat (3) UUD 1945, UU Nomor 6 Tahun 1983, UU Nomor 7 Tahun 1983, UU Nomor 8 Tahun 1983, UU Nomor 12 Tahun 1985, UU Nomor 39 Tahun 2008, UU Nomor 10 Tahun 2020, UU Nomor 7 Tahun 2021, PP Nomor 23 Tahun 2015, PP Nomor 93 Tahun 2021, PP Nomor 50 Tahun 2022, Perprs Nomor 57 Tahun 2020, PMK Nomor 18/PMK.03/2021, PMK Nomor 18/PMK.03/2021, PMK Nomor 118/PMK.01/2021 dan PMK Nomor 112/PMK.03/2022\nPeraturan ini mengatur tentang ketentuan umum, ruang lingkup, tata cara pelaksanaan hak dan pemenuhan kewajiban perpajakan dan penerbitan, penandatanganan, serta pengiriman keputusan dan dokumen elektronik, ketentuan peralihan dan ketentuan penutup",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 31 Desember 2024.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas :\n1. Keputusan Menteri Keuangan Nomor 624/KMK.04/1994;\n2. Keputusan Menteri Keuangan Nomor 282/KMK.04/1997;\n3. Keputusan Menteri Keuangan Nomor 434/KMK.04/1999;\n4. Pasal 7 ayat (2) dan ayat (3) PMK Nomor 196/PMK.03/2007;\n5. Pasal 6 ayat (2) PMK Nomor 40/PMK.03/2010;\n6. PMK Nomor 65/PMK.03/2010;\n7. PMK Nomor 73/PMK.03/2010;\n8. Pasal 5 ayat (3) PMK Nomor 111/PMK.03/2010;\n9. Pasal 6 ayat (3) PMK Nomor 112/PMK.03/2010;\n10. PMK 17/PMK.03/2011;\n11. Pasal 8 ayat (3) PMK Nomor 85/PMK.03/2011\n12. PMK Nomor 257/PMK.011/2011;\n13. PMK Nomor 79/PMK.02/2012;\n14. PMK Nomor 10/PMK.03/2013;\n15 Pasal 23 dan 24 PMK Nomor 76/PMK.03/2013;\n16. PMK Nomor 242/PMK.03/2014;\n17. PMK Nomor 243/PMK.03/2014;\n18. PMK Nomor 187/PMK.03/2015;\n19. Pasal 4 dan Pasal 5 PMK Nomor 200/PMK.03/2015;\n20. PMK Nomor 244/PMK.03/2015;\n21. PMK Nomor 261/PMK.03/2016;\n22. PMK Nomor 34/PMK.010/2017;\n23. PMK Nomor 37/PMK.03/2017;\n24. PMK Nomor 52/PMK.010/2017;\n25. PMK 147/PMK.03/2017;\n26. PMK Nomor 166/PMK.03/2018;\n27. PMK Nomor 215/PMK.03/2018;\n28. PMK Nomor 32/PMK.010/2019;\n29. PMK Nomor 120/PMK.03/2019;\n30. Pasal 2 sampai dengan Pasal 7 dan Pasal 23 PMK Nomor 231/PMK.03/2019;\n31. PMK Nomor 11 /PMK.010/2020;\n32. PMK Nomor 16/PMK.010/2020;\n33. PMK Nomor 153/PMK.010/2020\n34. PMK Nomor 8/PMK.03/2021;\n35. Pasal 7 sampai dengan Pasal 13, Pasal 37 sampai dengan Pasal 41, Pasal 62 sampai dengan Pasal 78, Pasal 83 sampai dengan Pasal 102, Pasal 106, Pasal 109 dan Pasal 111 PMK Nomor 18/PMK.03/2021;\n36. PMK Nomor 48/PMK.03/2021;\n37. PMK Nomor 54/PMK.03/2021;\n38. PMK 63/PMK.03/2021;\n39. PMK Nomor 60/PMK.03/2022;\n40. PMK Nomor 61/PMK.03/2022;\n41. PMK Nomor 67/PMK.03/2022 dan\n42. PMK Nomor 68/PMK.03/2022.",
+ "citations": [
+  "UU-1983-6",
+  "UU-1983-7",
+  "UU-1983-8",
+  "UU-1985-12",
+  "UU-2008-39",
+  "UU-2020-10",
+  "UU-2021-7",
+  "PP-2015-23",
+  "PP-2021-93",
+  "PP-2022-50",
+  "PMK-2021-18",
+  "PMK-2021-118",
+  "PMK-2022-112"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/366884/2024pmkeuangan081.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:33:18Z"
+}

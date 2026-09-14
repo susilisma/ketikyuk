@@ -1,0 +1,49 @@
+{
+ "id": "PERPRES-2025-92",
+ "source": "bpk",
+ "bpk_id": 331574,
+ "url": "https://peraturan.bpk.go.id/Details/331574/perpres-no-92-tahun-2025",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "92",
+ "number_raw": "92",
+ "year": 2025,
+ "title": "Peraturan Presiden (Perpres) Nomor 92 Tahun 2025 tentang Kementerian Haji dan Umrah",
+ "about": "Kementerian Haji dan Umrah",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-09-08",
+ "date_promulgated": "2025-09-08",
+ "date_effective": "2025-09-08",
+ "gazette": "LN 2025 (143) : 28 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2024-154",
+   "target_bpk_id": 306669,
+   "label": "Perpres No. 154 Tahun 2024",
+   "about": "Badan Penyelenggara Haji"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "PERPRES-2024-152",
+   "target_bpk_id": 306650,
+   "label": "Perpres No. 152 Tahun 2024",
+   "about": "Kementerian Agama"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 11 Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara sebagaimana telah diubah dengan Undang-Undang Nomor 61 Tahun 2024 tentang Perubahan atas Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara dan Pasal 106A ayat (4) Undang-Undang Nomor 14 Tahun 2025 tentang Perubahan Ketiga atas Undang-Undang Nomor 8 Tahun 2019 tentang Penyelenggaraan Ibadah Haji dan Umrah, perlu menetapkan Peraturan Presiden tentang Kementerian Haji dan Umrah.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) dan Pasal 17 UUD NRI Tahun 1945; UU Nomor 39 Tahun 2008; dan UU Nomor 14 Tahun 2025.\nPerpres ini mengatur mengenai Kementerian Haji dan Umrah. Kementerian Haji dan Umrah adalah kementerian yang menyelenggarakan suburusan pemerintahan haji dan umrah yang merupakan lingkup urusan pemerintahan di bidang agama. Kementerian berada di bawah dan bertanggung jawab kepada Presiden. Kementerian mempunyai tugas menyelenggarakan suburusan pemerintahan haji dan umrah yang merupakan lingkup urusan pemerintahan di bidang agama untuk membantu Presiden dalam menyelenggarakan pemerintahan negara.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 08 September 2025.\nPada saat Peraturan Presiden ini mulai berlaku: 1) Peraturan Presiden Nomor 152 Tahun 2024 tentang Kementerian Agama (Lembaran Negara Republik Indonesia Tahun 2024 Nomor 348) sepanjang yang mengatur mengenai tugas dan fungsi di bidang penyelenggaraan haji dan umrah; dan 2) Peraturan Presiden Nomor 154 Tahun 2024 tentang Badan Penyelenggara Haji (Lembaran Negara Republik Indonesia Tahun 2024 Nomor 350), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 28 hlm.",
+ "citations": [
+  "UU-2008-39",
+  "UU-2024-61",
+  "UU-2025-14",
+  "UU-2019-8"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/393609/Perpres%20Nomor%2092%20tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:41Z"
+}

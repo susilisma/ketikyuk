@@ -1,0 +1,53 @@
+{
+ "id": "PP-2025-25",
+ "source": "bpk",
+ "bpk_id": 319772,
+ "url": "https://peraturan.bpk.go.id/Details/319772/pp-no-25-tahun-2025",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "25",
+ "number_raw": "25",
+ "year": 2025,
+ "title": "Peraturan Pemerintah (PP) Nomor 25 Tahun 2025 tentang Perubahan atas Peraturan Pemerintah Nomor 41 Tahun 2021 tentang Penyelenggaraan Kawasan Perdagangan Bebas dan Pelabuhan Bebas",
+ "about": "Perubahan atas Peraturan Pemerintah Nomor 41 Tahun 2021 tentang Penyelenggaraan Kawasan Perdagangan Bebas dan Pelabuhan Bebas",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PENANAMAN MODAL DAN INVESTASI - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN - PEREKONOMIAN - KAWASAN EKONOMI KHUSUS / KEK",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2025-06-03",
+ "date_promulgated": "2025-06-03",
+ "date_effective": "2025-06-03",
+ "gazette": "LN 2025 (94), TLN (7112) : 7 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2026-23",
+   "target_bpk_id": 351378,
+   "label": "PP No. 23 Tahun 2026",
+   "about": "Perubahan Kedua atas Peraturan Pemerintah Nomor 41 Tahun 2021 tentang Penyelenggaraan Kawasan Perdagangan Bebas dan Pelabuhan Bebas"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PP-2021-41",
+   "target_bpk_id": 161958,
+   "label": "PP No. 41 Tahun 2021",
+   "about": "Penyelenggaraan Kawasan Perdagangan Bebas dan Pelabuhan Bebas"
+  }
+ ],
+ "abstract": "Dalam rangka efektivitas dan pemberian kepastian hukum penerbitan perizinan berusaha di Kawasan Perdagangan Bebas dan Pelabuhan Bebas, perlu menetapkan Peraturan Pemerintah tentang Perubahan atas Peraturan Pemerintah Nomor 41 Tahun 2021 tentang Penyelenggaraan Kawasan Perdagangan Bebas dan Pelabuhan Bebas.\nDasar hukum PP ini adalah Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU No. 6 Tahun 1983; UU No. 7 Tahun 1983; UU No. 8 Tahun 1983; UU No. 10 Tahun 1995; UU No. 11 Tahun 1995; UU No. 36 Tahun 2000; UU No. 6 Tahun 2023; dan PP No. 41 Tahun 2021.\nPP ini mengatur mengenai Perubahan atas beberapa ketentuan dalam Peraturan Pemerintah Nomor 41 Tahun 2021 tentang Penyelenggaraan Kawasan Perdagangan Bebas dan Pelabuhan Bebas.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 03 Juni 2025.\nPP ini mengubah PP Nomor 41 Tahun 2021.\nLampiran file: 15 hlm. (batang tubuh hlm 1 s.d. 7, penjelasan hlm 8 s.d. 9, dan Lampiran hlm 10 s.d. 15).",
+ "citations": [
+  "PP-2021-41",
+  "UU-1983-6",
+  "UU-1983-7",
+  "UU-1983-8",
+  "UU-1995-10",
+  "UU-1995-11",
+  "UU-2000-36",
+  "UU-2023-6"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/381374/PP%20Nomor%2025%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:27:43Z"
+}

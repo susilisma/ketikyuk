@@ -1,0 +1,292 @@
+{
+ "id": "UU-1950-14",
+ "source": "bpk",
+ "bpk_id": 59691,
+ "url": "https://peraturan.bpk.go.id/Details/59691/uu-no-14-tahun-1950",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "14",
+ "number_raw": "14",
+ "year": 1950,
+ "title": "Undang-undang (UU) Nomor 14 Tahun 1950 tentang Pemerintahan Daerah Kabupaten dalam Lingkungan Propinsi Djawa Barat",
+ "about": "Pemerintahan Daerah Kabupaten dalam Lingkungan Propinsi Djawa Barat",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH",
+ "field": "",
+ "date_enacted": "1950-08-08",
+ "date_promulgated": "1950-08-08",
+ "date_effective": null,
+ "gazette": "LL BPHN : 4 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-99",
+   "target_bpk_id": 307380,
+   "label": "UU No. 99 Tahun 2024",
+   "about": "Kabupaten Sukabumi di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-97",
+   "target_bpk_id": 307373,
+   "label": "UU No. 97 Tahun 2024",
+   "about": "Kabupaten Cianjur di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-118",
+   "target_bpk_id": 307430,
+   "label": "UU No. 118 Tahun 2024",
+   "about": "Kabupaten Tangerang di Provinsi Banten"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-117",
+   "target_bpk_id": 307428,
+   "label": "UU No. 117 Tahun 2024",
+   "about": "Kabupaten Serang di Provinsi Banten"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-116",
+   "target_bpk_id": 307425,
+   "label": "UU No. 116 Tahun 2024",
+   "about": "Kabupaten Pandeglang di Provinsi Banten"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-115",
+   "target_bpk_id": 307415,
+   "label": "UU No. 115 Tahun 2024",
+   "about": "Kabupaten Lebak di Provinsi Banten"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-114",
+   "target_bpk_id": 307414,
+   "label": "UU No. 114 Tahun 2024",
+   "about": "Kabupaten Karawang di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-113",
+   "target_bpk_id": 307413,
+   "label": "UU No. 113 Tahun 2024",
+   "about": "Kabupaten Majalengka di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-112",
+   "target_bpk_id": 307408,
+   "label": "UU No. 112 Tahun 2024",
+   "about": "Kabupaten Indramayu di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-111",
+   "target_bpk_id": 307406,
+   "label": "UU No. 111 Tahun 2024",
+   "about": "Kabupaten Tasikmalaya di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-110",
+   "target_bpk_id": 307403,
+   "label": "UU No. 110 Tahun 2024",
+   "about": "Kabupaten Garut di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-109",
+   "target_bpk_id": 307401,
+   "label": "UU No. 109 Tahun 2024",
+   "about": "Kabupaten Ciamis di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-107",
+   "target_bpk_id": 307398,
+   "label": "UU No. 107 Tahun 2024",
+   "about": "Kabupaten Cirebon di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-106",
+   "target_bpk_id": 307397,
+   "label": "UU No. 106 Tahun 2024",
+   "about": "Kabupaten Kuningan di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-105",
+   "target_bpk_id": 307395,
+   "label": "UU No. 105 Tahun 2024",
+   "about": "Kabupaten Sumedang di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-103",
+   "target_bpk_id": 307389,
+   "label": "UU No. 103 Tahun 2024",
+   "about": "Kabupaten Bandung di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-102",
+   "target_bpk_id": 307385,
+   "label": "UU No. 102 Tahun 2024",
+   "about": "Kabupaten Bogor di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-101",
+   "target_bpk_id": 307383,
+   "label": "UU No. 101 Tahun 2024",
+   "about": "Kabupaten Bekasi di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-99",
+   "target_bpk_id": 307380,
+   "label": "UU No. 99 Tahun 2024",
+   "about": "Kabupaten Sukabumi di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-97",
+   "target_bpk_id": 307373,
+   "label": "UU No. 97 Tahun 2024",
+   "about": "Kabupaten Cianjur di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-118",
+   "target_bpk_id": 307430,
+   "label": "UU No. 118 Tahun 2024",
+   "about": "Kabupaten Tangerang di Provinsi Banten"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-117",
+   "target_bpk_id": 307428,
+   "label": "UU No. 117 Tahun 2024",
+   "about": "Kabupaten Serang di Provinsi Banten"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-116",
+   "target_bpk_id": 307425,
+   "label": "UU No. 116 Tahun 2024",
+   "about": "Kabupaten Pandeglang di Provinsi Banten"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-115",
+   "target_bpk_id": 307415,
+   "label": "UU No. 115 Tahun 2024",
+   "about": "Kabupaten Lebak di Provinsi Banten"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-114",
+   "target_bpk_id": 307414,
+   "label": "UU No. 114 Tahun 2024",
+   "about": "Kabupaten Karawang di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-113",
+   "target_bpk_id": 307413,
+   "label": "UU No. 113 Tahun 2024",
+   "about": "Kabupaten Majalengka di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-112",
+   "target_bpk_id": 307408,
+   "label": "UU No. 112 Tahun 2024",
+   "about": "Kabupaten Indramayu di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-111",
+   "target_bpk_id": 307406,
+   "label": "UU No. 111 Tahun 2024",
+   "about": "Kabupaten Tasikmalaya di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-110",
+   "target_bpk_id": 307403,
+   "label": "UU No. 110 Tahun 2024",
+   "about": "Kabupaten Garut di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-109",
+   "target_bpk_id": 307401,
+   "label": "UU No. 109 Tahun 2024",
+   "about": "Kabupaten Ciamis di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-107",
+   "target_bpk_id": 307398,
+   "label": "UU No. 107 Tahun 2024",
+   "about": "Kabupaten Cirebon di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-106",
+   "target_bpk_id": 307397,
+   "label": "UU No. 106 Tahun 2024",
+   "about": "Kabupaten Kuningan di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-105",
+   "target_bpk_id": 307395,
+   "label": "UU No. 105 Tahun 2024",
+   "about": "Kabupaten Sumedang di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-103",
+   "target_bpk_id": 307389,
+   "label": "UU No. 103 Tahun 2024",
+   "about": "Kabupaten Bandung di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-102",
+   "target_bpk_id": 307385,
+   "label": "UU No. 102 Tahun 2024",
+   "about": "Kabupaten Bogor di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-101",
+   "target_bpk_id": 307383,
+   "label": "UU No. 101 Tahun 2024",
+   "about": "Kabupaten Bekasi di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-1968-4",
+   "target_bpk_id": 49136,
+   "label": "UU No. 4 Tahun 1968",
+   "about": "Pembentukan Kabupaten Purwakarta dan Kabupaten Subang dengan Mengubah Undang-Undang No.14 Tahun 1950 tentang Pembentukan Daerah-Daerah Kabupaten Dalam Lingkungan Provinsi Jawa Barat"
+  }
+ ],
+ "abstract": "bahwa telah tiba saatnja untuk membentuk daerah-daerah kabupaten, jang berhak mengatur dan mengurus rumah tangganja sendiri dalam lingkungan Propinsi Djawa Barat termaksud dalam Undang-undang No. 22 tahun 1948 tentang Pemerintahan Daerah\npasal 5 ajat (1) pasal 20 ajat (1) pasal IV Aturan Peralihan Undang-undang Dasar, Maklumat Wakil Presiden tanggal 16 Oktober 1945 No. X, Undang-undang No. 22 tahun 1948 dan Undang-undang No. 11 tahun 1950\nMenetapkan pembentukan daerah-daerah kabupaten dalam lingkungan Propinsi Djawa Barat dengan peraturan sebagai berikut:BAB IKETENTUAN UMUMPasal 1Daerah-daerah jang meliputi daerah kabupaten: 1. Tanggerang (Djakarta), 2. Djatinegara, 3. sebagian Krawang, jang terdiri dari kawedanan-kawedanan Tambun, Srengseng, Tjikarang, Rengasdengklok, Tjikampek dan Krawang, 4. bagian Krawang ketinggalannja jang terdiri dari kawedanan-kawedanan Subang, Segalaherang, Pamanukan, Tjiasem, dan Purwakarta, 5. Serang, 6. Pandeglang, 7. Lebak, 8. Bogor, 9. Sukabumi, 10. Tjiandjur, 11. Bandung, 12. Sumedang, 13. Garut, 14. Tasikmalaja, 15. Tjiamis, 16. Tjirebon, 17. Kuningan, 18. Indramaju dan 19. Madjalengka,ditetapkan mendjadi Kabupaten:1. Tanggerang, 2. Bekasi, 3. Krawang, 4. Purwakarta, 5. Serang, 6. Pandeglang, 7. Lebak, 8. Bogor, 9. Sukabumi, 10. Tjiandjur, 11. Bandung, 12. Sumedang, 13. Garut, 14. Tasikmalaja, 15. Tjiamis, 16. Tjirebon, 17. Kuningan, 18. Indramaju dan 19. Madjalengka",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal .\nUU ini mencabut Staatsblad 1925 No. 379 s/d No. 396 tentang pembentukan daerah-daerah otonoom kabupaten dalam lingkungan Propinsi Djawa Barat.\nUndang-undang ini mulai berlaku pada hari jang akan ditetapkan dalam Peraturan Pemerintah\n9",
+ "citations": [
+  "UU-1948-22",
+  "UU-1950-11"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/49258/UU%20Nomor%2014%20Tahun%201950.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:25:10Z"
+}

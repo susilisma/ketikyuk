@@ -1,0 +1,58 @@
+{
+ "id": "UU-1997-10",
+ "source": "bpk",
+ "bpk_id": 45931,
+ "url": "https://peraturan.bpk.go.id/Details/45931/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "10",
+ "number_raw": "10",
+ "year": 1997,
+ "title": "Undang-undang (UU) Nomor 10 Tahun 1997 tentang Ketenaganukliran",
+ "about": "Ketenaganukliran",
+ "issuer": "Pemerintah Pusat",
+ "subject": "ILMU PENGETAHUAN DAN TEKNOLOGI - PERTAMBANGAN MIGAS, MINERAL DAN ENERGI",
+ "field": "",
+ "date_enacted": "1997-04-10",
+ "date_promulgated": "1997-04-10",
+ "date_effective": "1997-04-10",
+ "gazette": "LN. 1997/ No. 23, TLN NO. 3676, LL SETNEG : 17 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 234926,
+   "label": "PERPU No. 2 Tahun 2022",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1964-31",
+   "target_bpk_id": 50390,
+   "label": "UU No. 31 Tahun 1964",
+   "about": "Ketentuan-Ketentuan Pokok Tenaga Atom"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 10 April 1997.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/34484/UU%20Nomor%2010%20Tahun%201997.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:25:51Z"
+}

@@ -1,0 +1,50 @@
+{
+ "id": "PERPRES-2020-95",
+ "source": "bpk",
+ "bpk_id": 147507,
+ "url": "https://peraturan.bpk.go.id/Details/147507/perpres-no-95-tahun-2020",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "95",
+ "number_raw": "95",
+ "year": 2020,
+ "title": "Peraturan Presiden (Perpres) Nomor 95 Tahun 2020 tentang Kementerian Ketenagakerjaan",
+ "about": "Kementerian Ketenagakerjaan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI - STRUKTUR ORGANISASI",
+ "field": "",
+ "date_enacted": "2020-09-23",
+ "date_promulgated": "2020-09-25",
+ "date_effective": "2020-09-25",
+ "gazette": "LN.2020/No.213, jdih.setneg.go.id : 21 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-164",
+   "target_bpk_id": 306728,
+   "label": "Perpres No. 164 Tahun 2024",
+   "about": "Kementerian Ketenagakerjaan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2015-18",
+   "target_bpk_id": 41741,
+   "label": "PERPRES No. 18 Tahun 2015",
+   "about": "Kementerian Ketenagakerjaan"
+  }
+ ],
+ "abstract": "Sebagai tindak lanjut ditetapkannya Keputusan Presiden Nomor 113/P Tahun 2019 tentang Pembentukan Kementerian Negara dan Pengangkatan Menteri Negara Kabinet Indonesia Maju Periode Tahun 2019-2024, serta untuk melaksanakan ketentuan Pasal 11 Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara, perlu menetapkan Peraturan Presiden tentang Kementerian Ketenagakerjaan.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) dan Pasal 17 UUD 1945; UU Nomor 39 Tahun 2008; Perpres Nomor 60 Tahun 2012; Perpres Nomor 67 Tahun 2019; dan Perpres Nomor 68 Tahun 2019\nPerpres ini mengatur mengenai penetapan Kementerian Ketenagakerjaan yang mempunyai kedudukan berada di bawah dan bertanggungjawab kepada presiden. Kementerian Ketenagakerjaan mempunyai tugas menyelenggarakan urusan pemerintahan di bidang ketenagakerjaan untuk membantu Presiden dalam menyelenggarakan pemerintahan negara.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 25 September 2020.",
+ "citations": [
+  "KEPPRES-2019-113",
+  "UU-2008-39",
+  "PERPRES-2012-60",
+  "PERPRES-2019-67",
+  "PERPRES-2019-68"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/139396/Perpres%20Nomor%2095%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:28:02Z"
+}

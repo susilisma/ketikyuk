@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>计算器 · Indonesia Market Entry OS</title>
+<link rel="stylesheet" href="/imeos/assets/os.css">
+<style>
+.two{display:grid;grid-template-columns:360px 1fr;gap:20px;align-items:start}
+@media (max-width:900px){.two{grid-template-columns:1fr}}
+.bars{display:grid;gap:6px;font-size:12.5px}
+.bars .b{display:grid;grid-template-columns:60px 1fr 120px;gap:8px;align-items:center}
+.bars .b i{display:block;height:14px;background:var(--brand2);border-radius:3px}
+.kv{display:grid;grid-template-columns:1fr auto;gap:4px 14px;font-size:13.5px}
+.kv b{font-variant-numeric:tabular-nums}
+.pane{display:none}.pane.on{display:block}
+</style>
+</head>
+<body>
+<main class="wrap">
+  <div class="hero"><div class="eyebrow">Calculators</div><h1>计算器</h1>
+    <p class="lede">汇率：1 USD = <input type="number" id="fxusd" style="width:90px" > IDR，1 CNY = <input type="number" id="fxcny" style="width:90px"> IDR <button class="btn sm ghost" id="fxsave">保存</button></p></div>
+  <div class="tabs" id="tabs"><button data-p="setup" class="on">PMA 设立成本</button><button data-p="pay">工资 / PPh 21 / BPJS</button><button data-p="excise">HPTL 消费税</button><button data-p="landed">进口到岸成本</button></div>
+
+  <!-- setup -->
+  <section class="pane on" id="p-setup"><div class="two">
+    <form class="card" onsubmit="return false">
+      <div class="fld"><label class="f">进入模式</label><select id="s-mode"><option value="pma">PT PMA</option><option value="rep">代表处</option><option value="distributor">分销商模式</option></select></div>
+      <div class="fld"><label class="f">行业</label><select id="s-sector"></select></div>
+      <div class="fld"><label class="f">投资额（亿 IDR）</label><input type="number" id="s-inv" value="10"></div>
+      <div class="fld"><label class="f">活动</label><div class="chips-in" id="s-acts"><label><input type="checkbox" value="import" checked><span>进口</span></label><label><input type="checkbox" value="manufacture"><span>生产</span></label><label><input type="checkbox" value="ecommerce"><span>电商</span></label></div></div>
+      <div class="grid" style="grid-template-columns:1fr 1fr;gap:10px"><div class="fld"><label class="f">本地员工</label><input type="number" id="s-staff" value="10"></div><div class="fld"><label class="f">外籍人员</label><input type="number" id="s-exp" value="2"></div></div>
+      <div class="fld"><label class="f">环境文件</label><select id="s-env"><option>SPPL</option><option>UKL-UPL</option><option>AMDAL</option></select></div>
+      <div class="fld"><label class="f">产品认证项</label><div class="chips-in" id="s-certs"></div></div>
+      <button class="btn" id="s-go">计算</button>
+    </form>
+    <div class="card" id="s-out"></div></div></section>
+
+  <!-- payroll -->
+  <section class="pane" id="p-pay"><div class="two">
+    <form class="card" onsubmit="return false">
+      <div class="fld"><label class="f">月工资总额（基本工资 + 固定津贴，IDR）</label><input type="number" id="w-gross" value="8000000" step="100000"></div>
+      <div class="fld"><label class="f">参考最低工资</label><select id="w-ump"></select><div class="help">2025 年数值，2026 年请核对省长决定</div></div>
+      <div class="grid" style="grid-template-columns:1fr 1fr;gap:10px">
+        <div class="fld"><label class="f">婚姻</label><select id="w-married"><option value="0">未婚</option><option value="1">已婚</option></select></div>
+        <div class="fld"><label class="f">受抚养人（≤3）</label><input type="number" id="w-dep" value="0" min="0" max="3"></div>
+        <div class="fld"><label class="f">JKK 风险等级</label><select id="w-jkk"></select></div>
+        <div class="fld"><label class="f">THR（月数/年）</label><input type="number" id="w-thr" value="1" step="0.5"></div>
+        <div class="fld"><label class="f">有 NPWP</label><select id="w-npwp"><option value="1">是</option><option value="0">否（+20%）</option></select></div>
+        <div class="fld"><label class="f">税务身份</label><select id="w-res"><option value="1">税务居民</option><option value="0">非居民（PPh 26 20%）</option></select></div>
+      </div>
+      <div class="fld"><label class="f">员工人数（汇总）</label><input type="number" id="w-n" value="1" min="1"></div>
+      <button class="btn" id="w-go">计算</button>
+    </form>
+    <div class="card" id="w-out"></div></div></section>
+
+  <!-- excise -->
+  <section class="pane" id="p-excise"><div class="two">
+    <form class="card" onsubmit="return false">
+      <div class="fld"><label class="f">产品类型</label><select id="e-type"></select></div>
+      <div class="fld"><label class="f">税率年份</label><select id="e-year"></select></div>
+      <div class="fld"><label class="f">每零售单位容量（ml 或 g）</label><input type="number" id="e-vol" value="2" step="0.1"><div class="help">封闭式烟弹：每颗烟弹的 ml 数；一盒多颗按单颗计算后乘以数量</div></div>
+      <div class="fld"><label class="f">拟定零售价 HJE（IDR / 单位）</label><input type="number" id="e-hje" value="45000" step="500"><div class="help">低于最低 HJE 时按最低值计算</div></div>
+      <div class="fld"><label class="f">数量（件）</label><input type="number" id="e-units" value="10000"></div>
+      <button class="btn" id="e-go">计算</button>
+    </form>
+    <div><div class="card" id="e-out"></div><div class="card" id="e-hist" style="margin-top:16px"></div></div></div></section>
+
+  <!-- landed -->
+  <section class="pane" id="p-landed"><div class="two">
+    <form class="card" onsubmit="return false">
+      <div class="fld"><label class="f">CIF 货值（IDR）</label><input type="number" id="l-cif" value="1000000000" step="1000000"></div>
+      <div class="fld"><label class="f">进口关税率</label><input type="number" id="l-duty" value="5" step="0.5"> %<div class="help">MFN 或 ACFTA 协定税率（需 Form E）</div></div>
+      <div class="fld"><label class="f">反倾销 / 保障措施税</label><input type="number" id="l-add" value="0" step="0.5"> %</div>
+      <div class="fld"><label class="f">PPh 22</label><select id="l-pph"><option value="0.025">2.5%（持 API）</option><option value="0.075">7.5%（无 API）</option><option value="0.10">10%（特定商品）</option></select></div>
+      <div class="fld"><label class="f">奢侈品税 PPnBM</label><input type="number" id="l-lux" value="0" step="5"> %</div>
+      <button class="btn" id="l-go">计算</button>
+    </form>
+    <div class="card" id="l-out"></div></div></section>
+  <p class="disclaimer">费用区间为 2025–2026 年雅加达/西爪哇市场经验值；税率与缴费基数以现行法规为准。</p>
+</main>
+<script src="/imeos/assets/common.js"></script><script src="/imeos/assets/kb.js"></script><script src="/imeos/assets/calc.js"></script>
+<script>
+/* fx */
+const F = fx(); $("#fxusd").value = F.usd; $("#fxcny").value = F.cny;
+$("#fxsave").onclick = () => { store.set("fx", { usd: +$("#fxusd").value, cny: +$("#fxcny").value }); location.reload(); };
+/* tabs */
+$$("#tabs button").forEach((b) => b.onclick = () => { $$("#tabs button").forEach((x) => x.classList.toggle("on", x === b)); $$(".pane").forEach((p) => p.classList.toggle("on", p.id === "p-" + b.dataset.p)); location.hash = b.dataset.p; });
+if (location.hash) { const b = $(`#tabs button[data-p="${location.hash.slice(1)}"]`); b && b.click(); }
+
+/* setup */
+$("#s-sector").innerHTML = KB.sectors.map((s) => `<option value="${s.id}">${s.zh}</option>`).join("");
+$("#s-certs").innerHTML = Object.entries(KB.certs).filter(([k, c]) => c.cost[1] > 0).map(([k, c]) => `<label><input type="checkbox" value="${k}"><span>${esc(c.zh)}</span></label>`).join("");
+$("#s-sector").onchange = () => { const s = KB.sectors.find((x) => x.id === $("#s-sector").value); $$("#s-certs input").forEach((i) => i.checked = s.certs.includes(i.value)); };
+$("#s-sector").onchange();
+$("#s-go").onclick = () => {
+  const input = { mode: $("#s-mode").value, sector: $("#s-sector").value, investment: +$("#s-inv").value, activities: $$("#s-acts input:checked").map((i) => i.value), staff: +$("#s-staff").value, expats: +$("#s-exp").value };
+  const B = CALC.setupBudget(input, $$("#s-certs input:checked").map((i) => i.value), $("#s-env").value);
+  $("#s-out").innerHTML = `<h3>费用估算</h3><div class="tbl-wrap"><table><thead><tr><th>项目</th><th>类型</th><th class="num">低</th><th class="num">高</th></tr></thead><tbody>${B.rows.map((r) => `<tr><td>${esc(r.zh)}${r.mult > 1 ? " × " + r.mult : ""}</td><td>${{ setup: "一次性", annual: "每年", perExpat: "每人" }[r.phase]}</td><td class="num">${idr(r.lo)}</td><td class="num">${idr(r.hi)}</td></tr>`).join("")}</tbody>
+  <tfoot><tr><td colspan="2">一次性合计</td><td class="num">${idr(B.oneOff.lo)}<br><small>¥${num(toCNY(B.oneOff.lo))} / $${num(toUSD(B.oneOff.lo))}</small></td><td class="num">${idr(B.oneOff.hi)}<br><small>¥${num(toCNY(B.oneOff.hi))} / $${num(toUSD(B.oneOff.hi))}</small></td></tr><tr><td colspan="2">年度固定</td><td class="num">${idr(B.annual.lo)}<br><small>¥${num(toCNY(B.annual.lo))}</small></td><td class="num">${idr(B.annual.hi)}<br><small>¥${num(toCNY(B.annual.hi))}</small></td></tr></tfoot></table></div>
+  ${input.mode === "pma" ? `<p class="note">PMA 另需实缴资本 ≥ Rp100 亿（≈ ¥${num(toCNY(10e9))}），属公司自有资金。</p>` : ""}`;
+};
+$("#s-go").click();
+
+/* payroll */
+$("#w-ump").innerHTML = `<option value="">—</option>` + KB.labor.ump2025.map((u) => `<option value="${u[1]}">${esc(u[0])} ${idr(u[1])}</option>`).join("");
+$("#w-ump").onchange = () => { if ($("#w-ump").value) $("#w-gross").value = $("#w-ump").value; };
+$("#w-jkk").innerHTML = KB.bpjs.tk.jkk.map((j, i) => `<option value="${i}">${esc(j[0])} ${(j[1] * 100).toFixed(2)}%</option>`).join("");
+$("#w-go").onclick = () => {
+  const n = +$("#w-n").value || 1;
+  const r = CALC.payroll({ gross: +$("#w-gross").value, married: $("#w-married").value === "1", dependents: +$("#w-dep").value, jkkClass: +$("#w-jkk").value, thrMonths: +$("#w-thr").value, hasNpwp: $("#w-npwp").value === "1", resident: $("#w-res").value === "1" });
+  const row = (k, v, b) => `<span>${k}</span><b>${b ? "<b>" : ""}${idr(v)}${b ? "</b>" : ""}</b>`;
+  $("#w-out").innerHTML = `<h3>每名员工 · 月度</h3><div class="grid g2"><div><h4 class="mute">雇主成本</h4><div class="kv">${row("工资", r.gross)}${row("JKK 工伤", r.emp.jkk)}${row("JKM 身故", r.emp.jkm)}${row("JHT 养老储蓄 3.7%", r.emp.jht)}${row("JP 养老金 2%", r.emp.jp)}${row("BPJS 健康 4%", r.emp.kes)}${row("THR 摊提", r.thr / 12)}${row("雇主月成本", r.employerCost, 1)}</div></div>
+  <div><h4 class="mute">员工扣款与到手</h4><div class="kv">${row("JHT 2%", r.ee.jht)}${row("JP 1%", r.ee.jp)}${row("BPJS 健康 1%", r.ee.kes)}${row("PPh 21（月均）", r.monthlyTax)}${row("到手工资", r.takeHome, 1)}</div></div></div>
+  <h4 class="mute" style="margin-top:14px">PPh 21 年度口径</h4><div class="kv">${row("年度应税总收入（含 THR 与应税福利）", r.annualGross)}${row("职务费用扣除 5%", -r.jobCost)}${row("养老缴费扣除", -r.pension)}${row("PTKP 免税额", -r.ptkp)}${row("应纳税所得 PKP", r.pkp)}${row("全年 PPh 21", r.annualTax, 1)}</div>
+  ${n > 1 ? `<div class="note">${n} 名员工：雇主年成本约 <b>${idr(r.employerCost * 12 * n)}</b>（≈ ¥${num(toCNY(r.employerCost * 12 * n))}），年度 PPh 21 代扣 ${idr(r.annualTax * n)}</div>` : ""}
+  <p class="help">${esc(KB.pph21.note)} JKK/JKM/BPJS 健康雇主缴费计入员工应税收入，JHT/JP 雇主部分不计入。${esc(KB.bpjs.tk.jpCapNote)}。</p>`;
+};
+$("#w-go").click();
+
+/* excise */
+$("#e-type").innerHTML = KB.excise.types.map((t) => `<option value="${t[0]}">${esc(t[1])}</option>`).join("");
+$("#e-year").innerHTML = Object.keys(KB.excise.years).reverse().map((y) => `<option value="${y}">${y}</option>`).join("");
+$("#e-go").onclick = () => {
+  const type = $("#e-type").value, year = +$("#e-year").value;
+  const r = CALC.excise({ type, year, volume: +$("#e-vol").value, hje: +$("#e-hje").value, units: +$("#e-units").value });
+  const t = KB.excise.types.find((x) => x[0] === type); const unit = t[2], hjeUnit = t[3] || t[2];
+  $("#e-out").innerHTML = `<h3>${year} 年 · ${esc(t[1])}</h3><div class="kv">
+    <span>税率</span><b>${idr(r.rate)} / ${unit}</b><span>最低 HJE</span><b>${idr(r.minHje)} / ${hjeUnit}</b><span>采用 HJE（单位）</span><b>${idr(r.hjeUsed)}</b>
+    <span>消费税 Cukai</span><b>${idr(r.cukai)}</b><span>增值税 9.9% × HJE</span><b>${idr(r.ppn)}</b><span>烟草税 10% × Cukai</span><b>${idr(r.pajakRokok)}</b><span>单位税负合计</span><b><b>${idr(r.totalTax)}</b>（占 HJE ${pct(r.share, 1)}）</b>
+    <span>批次 ${num(+$("#e-units").value)} 件税负</span><b><b>${idr(r.batch.total)}</b>（≈ ¥${num(toCNY(r.batch.total))}）</b></div>
+    <p class="help" style="margin-top:10px">依据 ${regLink(r.src)}${r.note ? " · " + esc(r.note) + verifyTag() : ""}。${esc(KB.excise.note)} 进口另有关税与 PPh 22。</p>`;
+  const years = Object.keys(KB.excise.years);
+  const max = Math.max(...years.map((y) => KB.excise.years[y][type][0]));
+  $("#e-hist").innerHTML = `<h3>历年税率 · ${esc(t[1])}</h3><div class="bars">${years.map((y) => { const [rate, hje] = KB.excise.years[y][type]; return `<div class="b"><span>${y}</span><i style="width:${(rate / max) * 100}%"></i><span>${idr(rate)}/${unit} · HJE ${idr(hje)}</span></div>`; }).join("")}</div>
+  <p class="help">来源：${[...new Set(years.map((y) => KB.excise.years[y].src))].map(regLink).join(" · ")}（由法规情报库 PDF 解析并经 Diff 校验）</p>`;
+};
+$("#e-go").click();
+
+/* landed */
+$("#l-go").onclick = () => {
+  const r = CALC.landed({ cif: +$("#l-cif").value, dutyRate: +$("#l-duty").value / 100, addRate: +$("#l-add").value / 100, pph22: +$("#l-pph").value, luxury: +$("#l-lux").value / 100 });
+  $("#l-out").innerHTML = `<h3>到岸税费</h3><div class="kv"><span>进口关税</span><b>${idr(r.duty)}</b><span>反倾销/保障税</span><b>${idr(r.add)}</b><span>增值税 11%（12%×11/12）</span><b>${idr(r.ppn)}</b><span>奢侈品税</span><b>${idr(r.ppnbm)}</b><span>PPh 22</span><b>${idr(r.pph)}</b><span>清关现金支出</span><b><b>${idr(r.cashOut)}</b></b><span>其中可抵扣（PPN + PPh 22）</span><b>${idr(r.creditable)}</b><span>到岸总成本（含不可抵扣税）</span><b><b>${idr(r.total - r.creditable)}</b></b></div><p class="help">未含港杂费、报关行费、LS 检验费与仓储。依据 ${regLink("PMK-2022-26")} · ${regLink("PMK-2024-131")}。</p>`;
+};
+$("#l-go").click();
+</script>
+</body>
+</html>

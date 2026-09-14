@@ -1,0 +1,63 @@
+{
+ "id": "PERMENDAG-2024-18",
+ "source": "bpk",
+ "bpk_id": 296850,
+ "url": "https://peraturan.bpk.go.id/Details/296850/permendag-no-18-tahun-2024",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "18",
+ "number_raw": "18",
+ "year": 2024,
+ "title": "Peraturan Menteri Perdagangan Nomor 18 Tahun 2024 tentang Minyak Goreng Sawit Kemasan Dan Tata Kelola Minyak Goreng Rakyat",
+ "about": "Minyak Goreng Sawit Kemasan Dan Tata Kelola Minyak Goreng Rakyat",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "HUKUM DAGANG",
+ "date_enacted": "2024-08-13",
+ "date_promulgated": "2024-08-14",
+ "date_effective": "2024-08-14",
+ "gazette": "BN.2024 (482)/18 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2025-43",
+   "target_bpk_id": 337358,
+   "label": "Permendag No. 43 Tahun 2025",
+   "about": "Minyak Goreng Sawit Kemasan dan Tata Kelola Minyak Goreng Rakyat"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2022-49",
+   "target_bpk_id": 231890,
+   "label": "Permendag No. 49 Tahun 2022",
+   "about": "Tata Kelola Program Minyak Goreng Rakyat"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2020-36",
+   "target_bpk_id": 160258,
+   "label": "Permendag No. 36 Tahun 2020",
+   "about": "Minyak Goreng Sawit Wajib Kemasan"
+  }
+ ],
+ "abstract": "a. bahwa untuk menjamin mutu dan keamanan minyak\ngoreng sawit yang dijual kepada konsumen sebagai bahan pangan kebutuhan dasar masyarakat yang sesuai dengan standar keamanan, mutu, dan gizi pangan dan mengoptimalkan tata kelola minyak goreng rakyat agar mudah diperoleh masyarakat di seluruh wilayah\nIndonesia dengan harga yang terjangkau, perlu mengatur kembali ketentuan mengenai minyak goreng sawit kemasan dan menyelaraskan kebijakan tata kelola minyak goreng rakyat;\nb. bahwa Peraturan Menteri Perdagangan Nomor 36 Tahun\n2020 tentang Minyak Goreng Sawit Wajib Kemasan sebagaimana telah diubah dengan Peraturan Menteri Perdagangan Nomor 72 Tahun 2021 tentang Perubahan atas Peraturan Menteri Perdagangan Nomor 36 Tahun\n2020 tentang Minyak Goreng Sawit Wajib Kemasan dan\nPeraturan Menteri Perdagangan Nomor 49 Tahun 2022 tentang Tata Kelola Program Minyak Goreng Rakyat sudah tidak sesuai dengan perkembangan hukum dan kebutuhan masyarakat sehingga perlu diganti;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Menteri Perdagangan tentang Minyak Goreng Sawit Kemasan dan Tata Kelola Minyak Goreng Rakyat;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 18 Tahun 2012, Undang-Undang Nomor 7 Tahun 2014, Peraturan Pemerintah Nomor 86 Tahun 2019, Peraturan Presiden Nomor 71 Tahun 2015, Peraturan Presiden Nomor 11 Tahun 2022, Peraturan Presiden Nomor 125 Tahun 2022 dan Peraturan Menteri Perdagangan Nomor 29 Tahun 2022\nPeraturan ini mengatur tentang ketentuan umum, minyak goreng sawit kemasan, tata kelola minyak goreng rakyat, penggunaan merek minyakkita dalam program minyak goreng rakyat, pembinaan dan pengawasan program minyak goreng rakyat, sanksi administratif, ketentuan peralihan dan ketentuan penutup",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 14 Agustus 2024.\nPeraturan Menteri Perdagangan Nomor 36 Tahun 2020 tentang Minyak Goreng Sawit Wajib Kemasan dan Peraturan Menteri Perdagangan Nomor 49 Tahun 2022 dicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "PERMENDAG-2020-36",
+  "PERMENDAG-2021-72",
+  "PERMENDAG-2022-49",
+  "UU-2008-39",
+  "UU-2012-18",
+  "UU-2014-7",
+  "PP-2019-86",
+  "PERPRES-2015-71",
+  "PERPRES-2022-11",
+  "PERPRES-2022-125",
+  "PERMENDAG-2022-29"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/356288/PERMENDAG%2018%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:36:38Z"
+}

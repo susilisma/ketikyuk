@@ -1,0 +1,62 @@
+{
+ "id": "PP-2021-41",
+ "source": "bpk",
+ "bpk_id": 161958,
+ "url": "https://peraturan.bpk.go.id/Details/161958/pp-no-41-tahun-2021",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "41",
+ "number_raw": "41",
+ "year": 2021,
+ "title": "Peraturan Pemerintah (PP) Nomor 41 Tahun 2021 tentang Penyelenggaraan Kawasan Perdagangan Bebas dan Pelabuhan Bebas",
+ "about": "Penyelenggaraan Kawasan Perdagangan Bebas dan Pelabuhan Bebas",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PENANAMAN MODAL DAN INVESTASI - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN - PERIZINAN, PELAYANAN PUBLIK - PEREKONOMIAN - CIPTA KERJA",
+ "field": "",
+ "date_enacted": "2021-02-02",
+ "date_promulgated": "2021-02-02",
+ "date_effective": "2021-02-02",
+ "gazette": "LN.2021/No.51, TLN No.6653, jdih.setkab.go.id : 64 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2026-23",
+   "target_bpk_id": 351378,
+   "label": "PP No. 23 Tahun 2026",
+   "about": "Perubahan Kedua atas Peraturan Pemerintah Nomor 41 Tahun 2021 tentang Penyelenggaraan Kawasan Perdagangan Bebas dan Pelabuhan Bebas"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2025-25",
+   "target_bpk_id": 319772,
+   "label": "PP No. 25 Tahun 2025",
+   "about": "Perubahan atas Peraturan Pemerintah Nomor 41 Tahun 2021 tentang Penyelenggaraan Kawasan Perdagangan Bebas dan Pelabuhan Bebas"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2012-10",
+   "target_bpk_id": 5222,
+   "label": "PP No. 10 Tahun 2012",
+   "about": "Perlakuan Kepabeanan Perpajakan Dan Cukai Serta Tata Laksana Pemasukan Dan Pengeluaran Barang Ke Dan Dari Serta Berada Di Kawasan Yang Telah Ditetapkan Sebagai Kawasan Perdagangan Bebas Dan Pelabuhan Bebas"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 115A ayat (2) Undang-Undang Nomor 17 Tahun 2006 tentang Perubahan atas Undang-Undang Nomor 10 Tahun 1995 tentang Kepabeanan, ketentuan Pasal 168 ayat (1) Undang-Undang Nomor 42 Tahun 2009 tentang Perubahan Ketiga atas Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah, serta ketentuan Pasal 152 dan Pasal 185 huruf b Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja, perlu menetapkan PP tentang Penyelenggaraan Kawasan Perdagangan Bebas dan Pelabuhan Bebas.\nDasar hukum PP ini adalah Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 6 Tahun 1983; UU Nomor 7 Tahun 1983; UU Nomor 8 Tahun 1983; UU Nomor 10 Tahun 1995; UU Nomor 11 Tahun 1995; UU Nomor 36 Tahun 2020; dan UU Nomor 11 Tahun 2020.\nPP ini mengatur mengenai kelembagaan KPBPB; pelayanan perizinan; pengembangan dan pemanfaatan aset; fasilitas dan kemudahan; pengembangan dan pengelolaan kawasan Batam, Bintan, dan Karimun; dan sanksi. Kelembagaan KPBPB terdiri atas Dewan Kawasan dan Badan Pengusahaan. Dewan Kawasan\nadalah dewan yang dibentuk untuk menetapkan kebijakan umum, membina, mengawasi, dan mengoordinasikan kegiatan Badan Pengusahaan Kawasan Perdagangan Bebas dan Pelabuhan Bebas. Sedangkan Badan Pengusahaan adalah badan yang dibentuk untuk melaksanakan pengelolaan, pengembangan, dan pembangunan KPBPB. Badan Pengusahaan berwenang untuk menerbitkan seluruh Perizinan Berusaha bagi para pengusaha yang mendirikan dan menjalankan usaha di KPBPB dalam rangka mengembangkan kegiatan di bidang ekonomi dan menetapkan jenis dan jumlah Barang Konsumsi serta menerbitkan perizinan pemasukannya.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 02 Februari 2021.\nPP ini mencabut PP Nomor 10 Tahun 2012 tentang Perlakuan Kepabeanan, Perpajakan, dan Cukai Serta Tata Laksana Pemasukan dan Pengeluaran Barang ke dan dari Serta Berada di Kawasan yang Telah Ditetapkan Sebagai Kawasan Perdagangan Bebas dan Pelabuhan Bebas.\nPeraturan pelaksanaan dari PP ini harus ditetapkan paling lama 4 (empat) bulan sejak PP ini diundangkan.\nPenjelasan 13 hlm.",
+ "citations": [
+  "UU-2006-17",
+  "UU-1995-10",
+  "UU-2009-42",
+  "UU-1983-8",
+  "UU-2020-11",
+  "UU-1983-6",
+  "UU-1983-7",
+  "UU-1995-11",
+  "UU-2020-36"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/154636/PP%20Nomor%2041%20Tahun%202021.pdf",
+  "https://peraturan.bpk.go.id/Download/154637/PP%20Nomor%2041%20Tahun%202021%20-%20Lampiran.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:27:44Z"
+}

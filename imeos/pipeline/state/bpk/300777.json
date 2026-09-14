@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKOMINFO-2019-8",
+ "source": "bpk",
+ "bpk_id": 300777,
+ "url": "https://peraturan.bpk.go.id/Details/300777/permenkominfo-no-8-tahun-2019",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Informatika",
+ "number": "8",
+ "number_raw": "8",
+ "year": 2019,
+ "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 8 Tahun 2019 tentang Penyelenggaraan Urusan Pemerintahan",
+ "about": "Penyelenggaraan Urusan Pemerintahan",
+ "issuer": "Kementerian Komunikasi dan Informatika",
+ "subject": "TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2019-08-31",
+ "date_promulgated": "2019-09-09",
+ "date_effective": "2019-09-09",
+ "gazette": "BN 2024 (1026); 48 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 299331,
+   "label": "Permenkominfo No. 4 Tahun 2024",
+   "about": "PENYELENGGARAAN URUSAN PEMERINTAHAN KONKUREN \r\nBIDANG KOMUNIKASI DAN INFORMATIKA"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Komunikasi dan Informatika ini mulai berlaku pada tanggal 09 September 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/360566/PerMenKominfo%20No.%208%20tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:42:09Z"
+}

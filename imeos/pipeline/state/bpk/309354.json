@@ -1,0 +1,39 @@
+{
+ "id": "UU-2024-151",
+ "source": "bpk",
+ "bpk_id": 309354,
+ "url": "https://peraturan.bpk.go.id/Details/309354/uu-no-151-tahun-2024",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "151",
+ "number_raw": "151",
+ "year": 2024,
+ "title": "Undang-undang (UU) Nomor 151 Tahun 2024 tentang Perubahan atas Undang-Undang Nomor 2 Tahun 2024 tentang Provinsi Daerah Khusus Jakarta",
+ "about": "Perubahan atas Undang-Undang Nomor 2 Tahun 2024 tentang Provinsi Daerah Khusus Jakarta",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2024-11-30",
+ "date_promulgated": "2024-11-30",
+ "date_effective": "2024-11-30",
+ "gazette": "LN 2024 (399), TLN (7089) : 4 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "UU-2024-2",
+   "target_bpk_id": 283616,
+   "label": "UU No. 2 Tahun 2024",
+   "about": "Provinsi Daerah Khusus Jakarta"
+  }
+ ],
+ "abstract": "Perpindahan ibu kota negara yang harus menunggu penetapan Keppres memengaruhi perubahan nomenklatur jabatan Gubernur, Wakil Gubernur, Anggota Dewan Perwakilan Rakyat Daerah, Anggota Dewan Perwakilan Rakyat, dan Anggota Dewan Perwakilan Daerah, menjadi melekat kepada atau berasal dari daerah pemilihan Provinsi Daerah Khusus Jakarta.\nDasar hukum UU ini adalah Pasal 18, Pasal 18A, Pasal 18B, Pasal 20, Pasal 21, dan Pasal 22D ayat (2) UUD 1945 dan UU Nomor 2 Tahun 2024.\nUU ini menyisipkan 4 (empat) pasal di antara Pasal 70 dan Pasal 71, yakni Pasal 70A, Pasal 70B, Pasal 70C, dan Pasal 70D.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 30 November 2024.\nUU ini mengubah UU Nomor 2 Tahun 2024.\nUndang-Undang ini mulai berlaku pada tanggal diundangkan. Keputusan Presiden mengenai pemindahan Ibu Kota Negara Kesatuan Republik Indonesia dari Provinsi Daerah Khusus Ibukota Jakarta ke Ibu Kota Nusantara ditetapkan kemudian.\nLampiran file: 6 hlm. (batang tubuh hlm 1 s.d. 4 dan penjelasan hlm 5 s.d. 6)",
+ "citations": [
+  "UU-2024-2"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/369854/UU%20Nomor%20151%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:24:23Z"
+}

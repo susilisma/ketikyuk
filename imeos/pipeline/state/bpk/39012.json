@@ -1,0 +1,53 @@
+{
+ "id": "UU-2012-2",
+ "source": "bpk",
+ "bpk_id": 39012,
+ "url": "https://peraturan.bpk.go.id/Details/39012/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "2",
+ "number_raw": "2",
+ "year": 2012,
+ "title": "Undang-undang (UU) Nomor 2 Tahun 2012 tentang Pengadaan Tanah Bagi Pembangunan Untuk Kepentingan Umum",
+ "about": "Pengadaan Tanah Bagi Pembangunan Untuk Kepentingan Umum",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PENGADAAN BARANG / JASA - PENGELOLAAN BARANG MILIK NEGARA / DAERAH",
+ "field": "",
+ "date_enacted": "2012-01-14",
+ "date_promulgated": "2012-01-14",
+ "date_effective": "2012-01-14",
+ "gazette": "LN.2012/No. 22, TLN No. 5280, LL SETNEG: 28 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 234926,
+   "label": "PERPU No. 2 Tahun 2022",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  }
+ ],
+ "abstract": "bahwa dalam rangka mewujudkan masyarakat yang adil, makmur, dan sejahtera berdasarkan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, pemerintah perlu melaksanakan pembangunan;\nbahwa untuk menjamin terselenggaranya pembangunan untuk kepentingan umum, diperlukan tanah yang pengadaannya dilaksanakan dengan mengedepankan prinsip kemanusiaan, demokratis, dan adil;\nbahwa peraturan perundang-undangan di bidang pengadaan tanah bagi pembangunan untuk kepentingan umum belum dapat menjamin perolehan tanah untuk pelaksanaan pembangunan.\nPasal 5 ayat (1), Pasal 18B ayat (2), Pasal 20, Pasal 28G ayat (1), Pasal 28H, Pasal 28I ayat (5), Pasal 28J ayat (2), serta Pasal 33 ayat (3) dan ayat (4) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;\nUndang-Undang Nomor 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria (Lembaran Negara Republik Indonesia Tahun 1960 Nomor 104, Tambahan Lembaran Negara Republik Indonesia Nomor 2034).\nPemerintah dan Pemerintah Daerah menjamin tersedianya tanah untuk Kepentingan Umum dan pendanaannya.\nPengadaan Tanah untuk Kepentingan Umum diselenggarakan sesuai dengan:\nRencana Tata Ruang Wilayah;\nRencana Pembangunan Nasional/Daerah;\nRencana Strategis; dan\nRencana Kerja setiap Instansi yang memerlukan tanah.\nPengadaan Tanah diselenggarakan melalui perencanaan dengan melibatkan semua pemangku dan pengampu kepentingan.\nPenyelenggaraan Pengadaan Tanah memperhatikan keseimbangan antara kepentingan pembangunan dan kepentingan masyarakat.\nPengadaan Tanah untuk Kepentingan Umum dilaksanakan dengan pemberian Ganti Kerugian yang layak dan adil.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 14 Januari 2012.\n-\nKetentuan mengenai mekanisme pelaksanaan pendanaan Pengadaan Tanah untuk Kepentingan Umum diatur dengan Peraturan Presiden.\n43",
+ "citations": [
+  "UU-1960-5"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/28381/UU%20Nomor%202%20Tahun%202012.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:44Z"
+}

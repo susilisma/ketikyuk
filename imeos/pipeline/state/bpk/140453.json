@@ -1,0 +1,37 @@
+{
+ "id": "PERATURANMENTERI-2018-17",
+ "source": "bpk",
+ "bpk_id": 140453,
+ "url": "https://peraturan.bpk.go.id/Details/140453/permen-ristekdikti-no-17-tahun-2018",
+ "form": "PERATURANMENTERI",
+ "form_long": "Peraturan Menteri Riset, Teknologi, Dan Pendidikan Tinggi Republik Indonesia",
+ "number": "17",
+ "number_raw": "17",
+ "year": 2018,
+ "title": "Peraturan Menteri Riset, Teknologi, Dan Pendidikan Tinggi Republik Indonesia Nomor 17 Tahun 2018 tentang Statuta Universitas Sriwijaya",
+ "about": "Statuta Universitas Sriwijaya",
+ "issuer": "Kementerian Riset, Teknologi, dan Pendidikan Tinggi",
+ "subject": "STRUKTUR ORGANISASI - STANDAR / PEDOMAN",
+ "field": "",
+ "date_enacted": "2018-05-07",
+ "date_promulgated": "2018-05-14",
+ "date_effective": "2018-05-14",
+ "gazette": "BN 2018/ NO 634; PERATURAN.GO.ID : 71 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-32",
+   "target_bpk_id": 296654,
+   "label": "PP No. 32 Tahun 2024",
+   "about": "Perguruan Tinggi Negeri Badan Hukum Universitas Sriwijaya"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Riset, Teknologi, Dan Pendidikan Tinggi Republik Indonesia ini mulai berlaku pada tanggal 14 Mei 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/131836/Permenristekdikti%20Nomor%2017%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:30:19Z"
+}

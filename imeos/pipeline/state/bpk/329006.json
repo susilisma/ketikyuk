@@ -1,0 +1,40 @@
+{
+ "id": "PERPRES-2025-84",
+ "source": "bpk",
+ "bpk_id": 329006,
+ "url": "https://peraturan.bpk.go.id/Details/329006/perpres-no-84-tahun-2025",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "84",
+ "number_raw": "84",
+ "year": 2025,
+ "title": "Peraturan Presiden (Perpres) Nomor 84 Tahun 2025 tentang Perubahan atas Peraturan Presiden Nomor 66 Tahun 2019 tentang Susunan Organisasi Tentara Nasional Indonesia",
+ "about": "Perubahan atas Peraturan Presiden Nomor 66 Tahun 2019 tentang Susunan Organisasi Tentara Nasional Indonesia",
+ "issuer": "Pemerintah Pusat",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-08-05",
+ "date_promulgated": "2025-08-05",
+ "date_effective": "2025-08-05",
+ "gazette": "LN 2025 (120) : 52 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2019-66",
+   "target_bpk_id": 123703,
+   "label": "PERPRES No. 66 Tahun 2019",
+   "about": "Susunan Organisasi Tentara Nasional Indonesia"
+  }
+ ],
+ "abstract": "Beberapa ketentuan dalam Peraturan Presiden Nomor 66 Tahun 2019 tentang Susunan Organisasi Tentara Nasional Indonesia sudah tidak sesuai dengan perkembangan hukum dan kebutuhan organisasi, sehingga perlu diubah.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1), Pasal 10, dan Pasal 30 ayat (5) UUD 1945; UU Nomor 34 Tahun 2004; dan Perpres Nomor 66 Tahun 2019.\nPerpres ini mengatur mengenai perubahan beberapa ketentuan dalam Perpres Nomor 66 Tahun 2019.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 05 Agustus 2025.\nPerpres ini mengubah Perpres Nomor 66 Tahun 2019.\nLampiran file: 73 hlm (batang tubuh hlm 1 sd 52 dan lampiran hlm 53 sd 73)",
+ "citations": [
+  "PERPRES-2019-66",
+  "UU-2004-34"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/390909/Perpres%20Nomor%2084%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:33:03Z"
+}

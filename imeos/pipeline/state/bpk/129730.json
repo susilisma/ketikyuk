@@ -1,0 +1,37 @@
+{
+ "id": "POJK-2017-1",
+ "source": "bpk",
+ "bpk_id": 129730,
+ "url": "https://peraturan.bpk.go.id/Details/129730/peraturan-ojk-no-1pojk052017-tahun-2017",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "1",
+ "number_raw": "1/POJK.05/2017",
+ "year": 2017,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 1/POJK.05/2017 Tahun 2017 tentang Perizinan Usaha dan Kelembagaan Lembaga Penjamin",
+ "about": "Perizinan Usaha dan Kelembagaan Lembaga Penjamin",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "PERIZINAN, PELAYANAN PUBLIK",
+ "field": "",
+ "date_enacted": "2017-01-11",
+ "date_promulgated": "2017-01-11",
+ "date_effective": "2017-01-11",
+ "gazette": "LN.2017/NO.6, Jdih.ojk.go.id: 112 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 322915,
+   "label": "Peraturan OJK No. 10 Tahun 2025",
+   "about": "Perizinan Usaha dan Kelembagaan Lembaga Penjamin"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 11 Januari 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/120634/SAL%20-%20POJK%20Perizinan%20dan%20Kelembagaan%20Lembaga%20Penjamin.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:43:50Z"
+}

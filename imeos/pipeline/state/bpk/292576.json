@@ -1,0 +1,46 @@
+{
+ "id": "PMK-2024-38",
+ "source": "bpk",
+ "bpk_id": 292576,
+ "url": "https://peraturan.bpk.go.id/Details/292576/pmk-no-38-tahun-2024",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "38",
+ "number_raw": "38",
+ "year": 2024,
+ "title": "Peraturan Menteri Keuangan Nomor 38 Tahun 2024 tentang Penetapan Barang Ekspor Yang Dikenakan Bea Keluar Dan Tarif Bea Keluar",
+ "about": "Penetapan Barang Ekspor Yang Dikenakan Bea Keluar Dan Tarif Bea Keluar",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-05-31",
+ "date_promulgated": "2024-06-03",
+ "date_effective": "2024-06-03",
+ "gazette": "BN.2024 (294)/20 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2025-68",
+   "target_bpk_id": 332098,
+   "label": "PMK No. 68 Tahun 2025",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 38 Tahun 2024 tentang Penetapan Barang Ekspor yang Dikenakan Bea Keluar dan Tarif Bea Keluar"
+  }
+ ],
+ "abstract": "a. bahwa jenis barang ekspor yang dikenakan bea keluar dan tarif bea keluar telah diatur dalam Peraturan Menteri Keuangan Nomor 39/PMK.010/2022 tentang Penetapan Barang Ekspor yang Dikenakan Bea Keluar dan Tarif Bea Keluar sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 71 Tahun 2023 tentang Perubahan Ketiga atas Peraturan Menteri Keuangan Nomor 39/PMK.010/2022 tentang Penetapan Barang Ekspor yang Dikenakan Bea Keluar dan Tarif Bea Keluar;\nb. untuk mendukung kebijakan hilirisasi industri mineral logam di dalam negeri melalui pemanfaatan fasilitas pemurnian mineral logam, dan sebagai kelanjutan dari penyelesaian pembangunan fasilitas pemurnian mineral logam, serta untuk simplifikasi ketentuan mengenai penetapan barang ekspor yang dikenakan bea keluar dan tarif bea keluar, Peraturan Menteri Keuangan Nomor\n39/PMK.010/2022 tentang Penetapan Barang Ekspor yang Dikenakan Bea Keluar dan Tarif Bea Keluar sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 71 Tahun 2023 tentang Perubahan Ketiga atas Peraturan Menteri Keuangan Nomor 39/PMK.010/2022 tentang Penetapan Barang Ekspor yang Dikenakan Bea Keluar dan Tarif Bea Keluar perlu diganti;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, serta untuk melaksanakan ketentuan Pasal 2 ayat (3) dan Pasal 3 ayat (5) Peraturan Pemerintah Nomor 55 Tahun 2008 tentang Pengenaan Bea Keluar terhadap Barang Ekspor, perlu menetapkan Peraturan Menteri Keuangan tentang Penetapan Barang Ekspor yang Dikenakan Bea Keluar dan Tarif Bea Keluar;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 10 Tahun 1995, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 55 Tahun 2008, Peraturan Presiden Nomor 57 Tahun 2020, Peraturan Menteri Keuangan Nomor 118/PMK.01/2021 dan Peraturan Menteri Keuangan Nomor 26/PMK.010/2022\nPeraturan ini mengatur tentang ketentuan umum, bea keluar, besaran tarif bea kelaur atas barang ekspor, Daftar merek Refined, Bleached, and Deodorized crude palm oil, harga referensi dan perhitungan bea keluar.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 03 Juni 2024.",
+ "citations": [
+  "PMK-2022-39",
+  "PMK-2023-71",
+  "PP-2008-55",
+  "UU-1995-10",
+  "UU-2008-39",
+  "PERPRES-2020-57",
+  "PMK-2021-118",
+  "PMK-2022-26"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/351878/2024pmkeuangan038.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:32:55Z"
+}

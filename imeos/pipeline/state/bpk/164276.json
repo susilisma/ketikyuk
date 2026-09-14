@@ -1,0 +1,37 @@
+{
+ "id": "PMK-2012-128",
+ "source": "bpk",
+ "bpk_id": 164276,
+ "url": "https://peraturan.bpk.go.id/Details/164276/pmk-no-128pmk082012",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "128",
+ "number_raw": "128/PMK.08/2012",
+ "year": 2012,
+ "title": "Peraturan Menteri Keuangan Nomor 128/PMK.08/2012 Tahun 2012 tentang Penjualan Surat Utang Negara dalam Valuta Asing di Pasar Perdana Domestik dengan Cara Bookbuilding",
+ "about": "Penjualan Surat Utang Negara dalam Valuta Asing di Pasar Perdana Domestik dengan Cara Bookbuilding",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PIUTANG, UTANG, DAN HIBAH NEGARA / DAERAH",
+ "field": "",
+ "date_enacted": "2012-08-07",
+ "date_promulgated": "2012-08-07",
+ "date_effective": "2012-08-07",
+ "gazette": "BN 2012/ NO 784; PERATURAN.GO.ID : 8 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-94",
+   "target_bpk_id": 337028,
+   "label": "PMK No. 94 Tahun 2025",
+   "about": "Penjualan Surat Utang Negara dengan Cara Pengumpulan Pemesanan di Pasar Perdana Domestik"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 07 Agustus 2012.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/157087/PMK%20Nomor%20128%20Tahun%202012.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:32:17Z"
+}

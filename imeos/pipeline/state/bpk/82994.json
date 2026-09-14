@@ -1,0 +1,38 @@
+{
+ "id": "PP-2018-24",
+ "source": "bpk",
+ "bpk_id": 82994,
+ "url": "https://peraturan.bpk.go.id/Details/82994/x",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "24",
+ "number_raw": "24",
+ "year": 2018,
+ "title": "Peraturan Pemerintah (PP) Nomor 24 Tahun 2018 tentang Pelayanan Perizinan Berusaha Terintegrasi Secara Elektronik",
+ "about": "Pelayanan Perizinan Berusaha Terintegrasi Secara Elektronik",
+ "issuer": "Pemerintah Pusat",
+ "subject": "APBD - APBN - PERIZINAN, PELAYANAN PUBLIK - KEBIJAKAN PEMERINTAH",
+ "field": "",
+ "date_enacted": "2018-06-21",
+ "date_promulgated": "2018-06-21",
+ "date_effective": "2018-06-21",
+ "gazette": "LN.2018/NO.90, TLN NO.6215, LL SETKAB : 59 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2021-5",
+   "target_bpk_id": 161835,
+   "label": "PP No. 5 Tahun 2021",
+   "about": "Penyelenggaraan Perizinan Berusaha Berbasis Risiko"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 21 Juni 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/75913/PP%20Nomor%2024%20Tahun%202018.pdf",
+  "https://peraturan.bpk.go.id/Download/75914/PP%20Nomor%2024%20Tahun%202018%20-%20Lampiran.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:19Z"
+}

@@ -1,0 +1,46 @@
+{
+ "id": "PMK-2020-11",
+ "source": "bpk",
+ "bpk_id": 136789,
+ "url": "https://peraturan.bpk.go.id/Details/136789/pmk-no-11pmk0102020",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "11",
+ "number_raw": "11/PMK.010/2020",
+ "year": 2020,
+ "title": "Peraturan Menteri Keuangan Nomor 11/PMK.010/2020 Tahun 2020 tentang Pelaksanaan Peraturan Pemerintah Nomor 78 Tahun 2019 Tentang Fasilitas Pajak Penghasilan Untuk Penanaman Modal Di Bidang-Bidang Usaha Tertentu Dan/Atau Di Daerah-Daerah Tertentu",
+ "about": "Pelaksanaan Peraturan Pemerintah Nomor 78 Tahun 2019 Tentang Fasilitas Pajak Penghasilan Untuk Penanaman Modal Di Bidang-Bidang Usaha Tertentu Dan/Atau Di Daerah-Daerah Tertentu",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PENANAMAN MODAL DAN INVESTASI - PERPAJAKAN",
+ "field": "",
+ "date_enacted": "2020-02-11",
+ "date_promulgated": "2020-02-11",
+ "date_effective": "2020-02-11",
+ "gazette": "BN. 2020/NO. 114, JDIH.KEMENKEU.GO.ID : 28 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-81",
+   "target_bpk_id": 306614,
+   "label": "PMK No. 81 Tahun 2024",
+   "about": "Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2015-89",
+   "target_bpk_id": 116420,
+   "label": "PMK No. 89/PMK.010/2015",
+   "about": "Tata Cara Pemberian Fasilitas Pajak Penghasilan, Untuk Penanaman Modal Di Bidang-Bidang Usaha Tertentu Dan/Atau Di Daerah-Daerah Tertentu Serta Pengalihan Aktiva Dan Sanksi Bagi Wajib Pajak Badan Dalam Negeri Yang Diberikan Fasilltas Pajak Penghasilan"
+  }
+ ],
+ "abstract": "Bahwa untuk melaksanakan ketentuan Pasal 3 ayat (5), Pasal 5 ayat (4), Pasal 6 ayat (3), dan Pasal 7 ayat (3) Peraturan Pemerintah Nomor 78 Tahun 2019 tentang Fasilitas Pajak Penghasilan untuk Penanaman Modal di Bidang-Bidang Usaha Tertentu dan/ atau di Daerah-Daerah Tertentu, perlu menetapkan Peraturan Menteri Keuangan tentang Pelaksanaan Peraturan Pemerintah Nomor 78 Tahun 2019 tentang Fasilitas Pajak Penghasilan untuk Penanaman Modal di Bidang-Bidang Usaha Tertentu dan/ atau di Daerah-Daerah Tertentu.\n- Dasar Hukum Peraturan ini adalah:\nPasal 17 ayat (3) UUD Tahun 1945, PP 78 Tahun 2019 (LN Tahun 2019 No.218\nTLN No.6418).\nDalam Peraturan Menteri Keuangan Republik Indonesia ini diatur:\nUntuk memanfaatkan fasilitas Pajak Penghasilan sebagaimana dimaksud dalam Pasal 3 ayat (1) huruf d angka 3, angka 4, angka 5, angka 6, angka 7 dan angka 8, Wajib Pajak harus mengajukan permohonan kepada Direktur Jenderal Pajak secara daring melalui sistem OSS. Wajib Pajak yang telah memperoleh keputusan persetujuan pemberian fasilitas Pajak Penghasilan wajib menyampaikan laporan mengenai jumlah realisasi Penanaman Modal dan jumlah realisasi produksi.\nDalam hal Wajib Pajak yang telah memperoleh fasilitas Pajak Penghasilan tetapi tidak lagi memenuhi ketentuan sebagaimana dimaksud dalam Pasal 2, Pasal 6 ayat (4), dan/ atau Pasal 16 dikenai sanksi administratif berupa pencabutan fasilitas Pajak Penghasilan yang telah diberikan berdasarkan Peraturan Menteri ini dan dikenai pajak dan sanksi sesuai dengan ketentuan peraturan perundang-undangan di bidang perpajakan. Wajib Pajak tidak dapat lagi, diberikan fasilitas Pajak Penghasilan untuk Penanaman Modal di bidangbida ng usaha tertentu dan/ atau di daerah-daerah tertentu.",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 11 Februari 2020.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 89/PMK.010/2015 (Berita Negara Republik Indonesia Tahun 2015 Nomor 652), dicabut dan dinyatakan tidak berlaku.\n-\n37 HLM, Lampiran Halaman 29 - 37.",
+ "citations": [
+  "PP-2019-78"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/127695/11_PMK.010_2020.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:34:57Z"
+}

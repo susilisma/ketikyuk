@@ -1,0 +1,42 @@
+{
+ "id": "PERMENKUM-2025-3",
+ "source": "bpk",
+ "bpk_id": 314768,
+ "url": "https://peraturan.bpk.go.id/Details/314768/permenkum-no-3-tahun-2025",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "3",
+ "number_raw": "3",
+ "year": 2025,
+ "title": "Peraturan Menteri Hukum Nomor 3 Tahun 2025 tentang Tata Naskah Dinas Kementerian Hukum",
+ "about": "Tata Naskah Dinas Kementerian Hukum",
+ "issuer": "Kementerian Hukum",
+ "subject": "PEDOMAN PENULISAN / TATA NASKAH DINAS",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-02-04",
+ "date_promulgated": "2025-02-12",
+ "date_effective": "2025-02-12",
+ "gazette": "BN 2025 (99) : 37 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 288661,
+   "label": "Permenkumham No. 14 Tahun 2024",
+   "about": "Tata Naskah Dinas Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "Untuk mewujudkan administrasi kedinasan yang tertib, autentik, terpercaya, memiliki kepastian, dapat dipertanggungjawabkan serta adanya perubahan nomenklatur, organisasi, dan tata kerja Kementerian, perlu mengatur tata naskah dinas di lingkungan Kementerian Hukum.\nDasar hukum Permenkum ini adalah Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 39 Tahun 2008; UU Nomor 43 Tahun 2009; PP Nomor 28 Tahun 2012; Perpres Nomor 155 Tahun 2024; Permenkum Nomor 1 Tahun 2024; dan Permenkum Nomor 2 Tahun 2024.\nPermenkum ini mengatur mengenai tata naskah dinas di lingkungan Kementerian Hukum dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Tata Naskah Dinas adalah pengaturan tentang jenis, susunan dan bentuk, pembuatan, pengamanan, pejabat penandatanganan, dan pengendalian yang digunakan dalam komunikasi kedinasan. Tata Naskah Dinas merupakan acuan dalam pengelolaan Naskah Dinas di lingkungan Kementerian. Ruang lingkup Tata Naskah Dinas yang diatur dalam Peraturan ini meliputi: a. jenis, susunan, dan bentuk Naskah Dinas; b. pembuatan Naskah Dinas; c. pengamanan Naskah Dinas; d. pejabat penandatanganan Naskah Dinas; dan e. pengendalian Naskah Dinas.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 12 Februari 2025.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 14 Tahun 2024 tentang Tata Naskah Dinas Kementerian Hukum dan Hak Asasi Manusia (Berita Negara Republik Indonesia Tahun 2024 Nomor 301), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 189 hlm. (batang tubuh hlm 1 s.d. 37 dan lampiran hlm 38 s.d. 189)",
+ "citations": [
+  "UU-2008-39",
+  "UU-2009-43",
+  "PP-2012-28",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/375764/Permenkum%20Nomor%203%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:42:44Z"
+}

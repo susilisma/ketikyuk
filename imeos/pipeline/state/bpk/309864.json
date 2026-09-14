@@ -1,0 +1,58 @@
+{
+ "id": "PERMENAKER-2024-13",
+ "source": "bpk",
+ "bpk_id": 309864,
+ "url": "https://peraturan.bpk.go.id/Details/309864/permenaker-no-13-tahun-2024",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "13",
+ "number_raw": "13",
+ "year": 2024,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 13 Tahun 2024 tentang Pedoman Penyaluran Bantuan Pemerintah di Kementerian Ketenagakerjaan Tahun Anggaran 2025",
+ "about": "Pedoman Penyaluran Bantuan Pemerintah di Kementerian Ketenagakerjaan Tahun Anggaran 2025",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "BANTUAN, SUMBANGAN, BENCANA / KEBENCANAAN, DAN PENANGGULANGAN BENCANA - STANDAR / PEDOMAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-11-05",
+ "date_promulgated": "2024-11-08",
+ "date_effective": "2024-11-08",
+ "gazette": "BN 2024 (823); 11 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENAKER-2025-10",
+   "target_bpk_id": 332125,
+   "label": "Permenaker No. 10 Tahun 2025",
+   "about": "Pedoman Penyaluran Bantuan Pemerintah di\r\nLingkungan Kementerian Ketenagakerjaan Tahun\r\nAnggaran 2026"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENAKER-2024-7",
+   "target_bpk_id": 288037,
+   "label": "Permenaker No. 7 Tahun 2024",
+   "about": "Perubahan Atas Peraturan Menteri Ketenagakerjaan Nomor 13 Tahun 2023 tentang Pedoman Penyaluran Bantuan Pemerintah di Kementerian Ketenagakerjaan Tahun Anggaran 2024"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENAKER-2023-13",
+   "target_bpk_id": 282469,
+   "label": "Permenaker No. 13 Tahun 2023",
+   "about": "Pedoman Penyaluran Bantuan Pemerintah di Kementerian Ketenagakerjaan Tahun Anggaran 2024"
+  }
+ ],
+ "abstract": "bahwa pengguna anggaran perlu menyusun pedoman\numum dan petunjuk teknis untuk penyaluran bantuan\npemerintah sebagaimana diatur dalam Pasal 6 ayat (1)\nPeraturan Menteri Keuangan Nomor 168/PMK.05/2015\ntentang Mekanisme Pelaksanaan Anggaran Bantuan\nPemerintah pada Kementerian Negara/Lembaga\nsebagaimana telah beberapa kali diubah terakhir\ndengan Peraturan Menteri Keuangan Nomor\n132/PMK.05/2021 tentang Perubahan Kedua atas\nPeraturan Menteri Keuangan Nomor 168/PMK.05/2015\ntentang Mekanisme Pelaksanaan Anggaran Bantuan\nPemerintah pada Kementerian Negara/Lembaga\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD 1945; UU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024; Perpres Nomor 95 Tahun 2020; Permenaker Nomor 1 Tahun 2021\nPeraturan ini mengatur mengenai pemberian bantuan pemerintah; pembinaan, monitoring, evaluasi, dan pelaporan",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 08 November 2024.\nPada saat Peraturan Menteri ini mulai berlaku:\na. Peraturan Menteri Ketenagakerjaan Nomor 13 Tahun\n2023 tentang Pedoman Penyaluran Bantuan\nPemerintah di Kementerian Ketenagakerjaan Tahun\nAnggaran 2024 (Berita Negara Republik Indonesia\nTahun 2023 Nomor 953): dan\nb. Peraturan Menteri Ketenagakerjaan Republik Indonesia\nNomor 7 Tahun 2024 tentang Perubahan atas\nPeraturan Menteri Ketenagakerjaan Nomor 13 Tahun\n2023 tentang Pedoman Penyaluran Bantuan\nPemerintah di Kementerian Ketenagakerjaan Tahun\nAnggaran 2024 (Berita Negara Republik Indonesia\nTahun 2024 Nomor 280),\ndicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "PMK-2015-168",
+  "PMK-2021-132",
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2020-95",
+  "PERMENAKER-2021-1"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/370413/Permenaker%20Nomor%2013%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:41:06Z"
+}

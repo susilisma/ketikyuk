@@ -1,0 +1,57 @@
+{
+ "id": "PP-2026-21",
+ "source": "bpk",
+ "bpk_id": 349944,
+ "url": "https://peraturan.bpk.go.id/Details/349944/pp-no-21-tahun-2026",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "21",
+ "number_raw": "21",
+ "year": 2026,
+ "title": "Peraturan Pemerintah (PP) Nomor 21 Tahun 2026 tentang Perubahan Ketiga atas Peraturan Pemerintah Nomor 36 Tahun 2023 tentang Devisa Hasil Ekspor dari Kegiatan Pengusahaan, Pengelolaan, dan/atau Pengolahan Sumber Daya Alam",
+ "about": "Perubahan Ketiga atas Peraturan Pemerintah Nomor 36 Tahun 2023 tentang Devisa Hasil Ekspor dari Kegiatan Pengusahaan, Pengelolaan, dan/atau Pengolahan Sumber Daya Alam",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERTAMBANGAN MIGAS, MINERAL DAN ENERGI",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2026-05-06",
+ "date_promulgated": "2026-05-06",
+ "date_effective": "2026-06-01",
+ "gazette": "LN 2026 (50), TLN (7175) : 5 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PP-2026-2",
+   "target_bpk_id": 349943,
+   "label": "PP No. 2 Tahun 2026",
+   "about": "Perubahan Kedua atas Peraturan Pemerintah Nomor 36 Tahun 2023 tentang Devisa Hasil Ekspor dari Kegiatan Pengusahaan, Pengelolaan, dan/atau Pengolahan Sumber Daya Alam"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PP-2025-8",
+   "target_bpk_id": 314625,
+   "label": "PP No. 8 Tahun 2025",
+   "about": "Perubahan atas Peraturan Pemerintah Nomor 36 Tahun 2023 tentang Devisa Hasil Ekspor dari Kegiatan Pengusahaan, Pengelolaan, dan/atau Pengolahan Sumber Daya Alam"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PP-2023-36",
+   "target_bpk_id": 255125,
+   "label": "PP No. 36 Tahun 2023",
+   "about": "Devisa Hasil Ekspor dari Kegiatan Pengusahaan, Pengelolaan, dan/atau Pengolahan Sumber Daya Alam"
+  }
+ ],
+ "abstract": "Untuk menjalankan amanat Pasal 33 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 serta meningkatkan efektivitas kebijakan pemasukan, penempatan, dan penggunaan devisa hasil ekspor sumber daya alam dalam sistem keuangan Indonesia, perlu menetapkan Peraturan Pemerintah tentang Perubahan Ketiga atas Peraturan Pemerintah Nomor 36 Tahun 2023.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD Tahun 1945; UU No. 10 Tahun 1995 sebagaimana telah diubah dengan UU No. 17 Tahun 2006; UU No. 24 Tahun 1999; PP No. 36 Tahun 2023 sebagaimana telah beberapa kali diubah terakhir dengan PP No. 2 Tahun 2026.\nDalam PP ini diatur mengenai perubahan ketentuan Pasal 18A terkait pelaksanaan perjanjian bilateral atau kesepahaman/kesepakatan lainnya di bidang perdagangan. Peraturan ini juga mengatur ketentuan peralihan terhadap PPE yang diterbitkan sejak atau sebelum 1 Juni 2026.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 01 Juni 2026.\nPP ini mengubah PP No. 36 Tahun 2023 sebagaimana telah beberapa kali diubah terakhir dengan PP No. 2 Tahun 2026.\nLampiran file: 9 hlm (batang tubuh hlm 1 sd 5; penjelasan hlm 6 sd 9)",
+ "citations": [
+  "PP-2023-36",
+  "UU-1995-10",
+  "UU-2006-17",
+  "UU-1999-24",
+  "PP-2026-2"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/413644/PP%20Nomor%2021%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:27:46Z"
+}

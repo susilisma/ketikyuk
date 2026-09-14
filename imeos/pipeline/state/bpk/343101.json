@@ -1,0 +1,46 @@
+{
+ "id": "PERMENDAG-2025-47",
+ "source": "bpk",
+ "bpk_id": 343101,
+ "url": "https://peraturan.bpk.go.id/Details/343101/permendag-no-47-tahun-2025",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "47",
+ "number_raw": "47",
+ "year": 2025,
+ "title": "Peraturan Menteri Perdagangan Nomor 47 Tahun 2025 tentang Barang yang Dilarang untuk Impor",
+ "about": "Barang yang Dilarang untuk Impor",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-12-29",
+ "date_promulgated": "2025-12-30",
+ "date_effective": "2026-01-01",
+ "gazette": "BN 2025 (1156); 24 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2021-18",
+   "target_bpk_id": 204855,
+   "label": "Permendag No. 18 Tahun 2021",
+   "about": "Barang Dilarang Ekspor dan Barang Dilarang Impor"
+  }
+ ],
+ "abstract": "a. bahwa barang yang dilarang untuk diimpor sebagaimana\ndiatur dalam Peraturan Menteri Perdagangan Nomor 18\nTahun 2021 tentang Barang Dilarang Ekspor dan Barang\nDilarang Impor sebagaimana telah diubah dengan\nPeraturan Menteri Perdagangan Nomor 40 Tahun 2022\ntentang Perubahan atas Peraturan Menteri Perdagangan\nNomor 18 Tahun 2021 tentang Barang Dilarang Ekspor\ndan Barang Dilarang Impor sudah tidak sesuai dengan\nperkembangan dan kebutuhan hukum, sehingga perlu\ndiganti;\nb. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a dan untuk melaksanakan\nketentuan Pasal 10 ayat (4) Peraturan Pemerintah Nomor\n29 Tahun 2021 tentang Penyelenggaraan Bidang\nPerdagangan, perlu menetapkan Peraturan Menteri\nPerdagangan tentang Barang yang Dilarang untuk\nDiimpor;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 10 Tahun 1995, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 7 Tahun 2014, Peraturan Pemerintah Nomor 29 Tahun 2021, Peraturan Presiden Nomor 168 Tahun 2024 dan Peraturan Menteri Perdagangan Nomor 6 Tahun 2025\nPeraturan ini mengatur tentang ketentuan umum, larangan impor dan sanksi",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 01 Januari 2026.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas:\na. Peraturan Menteri Perdagangan Nomor 18 Tahun 2021\ntentang Barang Dilarang Ekspor dan Barang Dilarang\nImpor;\nb. kebijakan dan pengaturan Impor elektronik berbasis\nsistem pendingin dan barang berbasis sistem pendingin\nyang menggunakan hidroklorofluorokarbon 123 sebagaimana diatur dalam Peraturan Menteri\nPerdagangan Nomor 21 Tahun 2025 tentang Kebijakan\ndan Pengaturan Impor Barang Elektronik dan Telematika",
+ "citations": [
+  "PERMENDAG-2021-18",
+  "PERMENDAG-2022-40",
+  "PP-2021-29",
+  "UU-1995-10",
+  "UU-2008-39",
+  "UU-2014-7",
+  "PERPRES-2024-168",
+  "PERMENDAG-2025-6"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/406288/Permendag%20Nomor%2047%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:36:31Z"
+}

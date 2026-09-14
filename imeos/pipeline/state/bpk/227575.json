@@ -1,0 +1,39 @@
+{
+ "id": "PERPRES-2022-120",
+ "source": "bpk",
+ "bpk_id": 227575,
+ "url": "https://peraturan.bpk.go.id/Details/227575/perpres-no-120-tahun-2022",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "120",
+ "number_raw": "120",
+ "year": 2022,
+ "title": "Peraturan Presiden (Perpres) Nomor 120 Tahun 2022 tentang Penugasan Khusus Dalam Rangka Percepatan Pelaksanaan Pembangunan Infrastruktur",
+ "about": "Penugasan Khusus Dalam Rangka Percepatan Pelaksanaan Pembangunan Infrastruktur",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KONSTRUKSI, SIPIL, ARSITEK, BANGUNAN, DAN INFRASTRUKTUR - PELIMPAHAN KEWENANGAN / PENUGASAN PEJABAT NEGARA / PENUGASAN BUMN",
+ "field": "",
+ "date_enacted": "2022-09-27",
+ "date_promulgated": "2022-09-27",
+ "date_effective": "2022-09-27",
+ "gazette": "LN.2022/No.193, jdih.setneg.go.id: 6 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2026-21",
+   "target_bpk_id": 349422,
+   "label": "Perpres No. 21 Tahun 2026",
+   "about": "Penugasan Khusus Dalam Rangka Percepatan Pelaksanaan Pembangunan Infrastruktur"
+  }
+ ],
+ "abstract": "Untuk menjalankan fungsi lain Kementerian Pekerjaan Umum dan Perumahan Rakyat yang ditugaskan oleh Presiden sebagaimana yang diatur ddam Pasal 5 huruf i Perpres Nomor 27 Tahun 2020 tentang Kementerian Pekerjaan Umum dan Perumahan Rakyat dalam rangka percepatan pelaksanaan pembangunan infrastruktur di berbagai daerah dan mendorong pertumbuhan ekonomi negara, perlu penugasan khusus.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 dan Perpres Nomor 27 Tahun 2020.\nPerpres ini mengatur mengenai penugasan khusus Presiden kepada Kementerian Pekerjaan Umum dan Perumahan Rakyat dalam rangka percepatan pelaksanaan pembangunan infrastruktur. Dalam pelaksanaan penugasan khusus, Menteri Pekerjaan Umum dan Perumahan Rakyat dapat melakukan penunjukan langsung dalam proses pengadaan barang/jasa pemerintah sesuai dengan ketentuan peraturan perundang-undangan.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 27 September 2022.\nPercepatan pelaksanaan pembangunan infrastruktur dapat dilakukan melalui skema Kerja Sama Pemerintah dengan Badan Usaha sesuai dengan ketentuan peraturan peruldang-undangan.\nPendanaan yang diperlukan untuk pelaksanaem penugasan khusus bersumber dari APBN dan/atau sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan peraturan perundang-undangan.\nLampiran: 6 hlm.",
+ "citations": [
+  "PERPRES-2020-27"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/222384/Perpres%20Nomor%20120%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:31:36Z"
+}

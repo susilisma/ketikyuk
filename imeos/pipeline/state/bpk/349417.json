@@ -1,0 +1,41 @@
+{
+ "id": "PERPRES-2026-16",
+ "source": "bpk",
+ "bpk_id": 349417,
+ "url": "https://peraturan.bpk.go.id/Details/349417/perpres-no-16-tahun-2026",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "16",
+ "number_raw": "16",
+ "year": 2026,
+ "title": "Peraturan Presiden (Perpres) Nomor 16 Tahun 2026 tentang Perubahan atas Peraturan Presiden Nomor 173 Tahun 2024 tentang Kementerian Perhubungan",
+ "about": "Perubahan atas Peraturan Presiden Nomor 173 Tahun 2024 tentang Kementerian Perhubungan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-03-27",
+ "date_promulgated": "2026-03-27",
+ "date_effective": "2026-03-27",
+ "gazette": "LN 2026 (29) : 3 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2024-173",
+   "target_bpk_id": 306856,
+   "label": "Perpres No. 173 Tahun 2024",
+   "about": "Kementerian Perhubungan"
+  }
+ ],
+ "abstract": "Untuk mengoptimalkan penyelenggaraan transportasi sungai, danau, dan penyeberangan sebagai satu kesatuan fungsi di bidang pelayaran, perlu melakukan penyesuaian fungsi Direktorat Jenderal Perhubungan Darat.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) dan Pasal 17 UUD 1945; UU No. 39 Tahun 2008; Perpres No. 140 Tahun 2024; dan Perpres No. 173 Tahun 2024.\nPerpres ini mengubah ketentuan Pasal 13 dalam Perpres No. 173 Tahun 2024.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 27 Maret 2026.\nPerpres ini mengubah Perpres No. 173 Tahun 2024\nLampiran file: 3 hlm.",
+ "citations": [
+  "UU-2008-39",
+  "PERPRES-2024-140",
+  "PERPRES-2024-173"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/413103/Perpres%20No.%2016%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:31:44Z"
+}

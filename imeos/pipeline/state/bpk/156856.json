@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKOMINFO-2012-16",
+ "source": "bpk",
+ "bpk_id": 156856,
+ "url": "https://peraturan.bpk.go.id/Details/156856/permenkominfo-no-16-tahun-2012",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Informatika",
+ "number": "16",
+ "number_raw": "16",
+ "year": 2012,
+ "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 16 Tahun 2012 tentang Petunjuk Pelaksanaan Pengakuan Balai Uji Negara Asing",
+ "about": "Petunjuk Pelaksanaan Pengakuan Balai Uji Negara Asing",
+ "issuer": "Kementerian Komunikasi dan Informatika",
+ "subject": "TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET",
+ "field": "",
+ "date_enacted": "2012-05-25",
+ "date_promulgated": "2012-06-07",
+ "date_effective": "2012-06-07",
+ "gazette": "BN.2012/No.578, peraturan.go.id : 7 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 302515,
+   "label": "Permenkominfo No. 5 Tahun 2024",
+   "about": "Penetapan Balai Uji Alat Telekomunikasi dan/atau Perangkat Telekomunikasi"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Komunikasi dan Informatika ini mulai berlaku pada tanggal 07 Juni 2012.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/149294/Kemen%20Kominfo%20Nomor%2016%20Tahun%202012.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:42:06Z"
+}

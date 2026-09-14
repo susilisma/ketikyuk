@@ -1,0 +1,37 @@
+{
+ "id": "KEPPRES-1992-1",
+ "source": "bpk",
+ "bpk_id": 61804,
+ "url": "https://peraturan.bpk.go.id/Details/61804/keppres-no-1-tahun-1992",
+ "form": "KEPPRES",
+ "form_long": "Keputusan Presiden (Keppres)",
+ "number": "1",
+ "number_raw": "1",
+ "year": 1992,
+ "title": "Keputusan Presiden (Keppres) Nomor 1 Tahun 1992 tentang Pengelolaan Taman Wisata Candi Borobudur Dan Taman Wisata Candi Prambanan Serta Pengendalian Lingkungan Kawasannya",
+ "about": "Pengelolaan Taman Wisata Candi Borobudur Dan Taman Wisata Candi Prambanan Serta Pengendalian Lingkungan Kawasannya",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PARIWISATA DAN KEBUDAYAAN",
+ "field": "",
+ "date_enacted": "1992-01-02",
+ "date_promulgated": null,
+ "date_effective": "1992-01-02",
+ "gazette": "",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PERPRES-2024-101",
+   "target_bpk_id": 300512,
+   "label": "Perpres No. 101 Tahun 2024",
+   "about": "Tata Kelola Kompleks Candi Borobudur"
+  }
+ ],
+ "abstract": "",
+ "note": "Keputusan Presiden (KEPPRES) ini mulai berlaku pada tanggal 02 Januari 1992.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/51845/Keppres%20No%201%20TH%201992.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:29:53Z"
+}

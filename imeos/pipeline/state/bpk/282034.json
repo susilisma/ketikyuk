@@ -1,0 +1,42 @@
+{
+ "id": "PERMENKOMINFO-2024-2",
+ "source": "bpk",
+ "bpk_id": 282034,
+ "url": "https://peraturan.bpk.go.id/Details/282034/permenkominfo-no-2-tahun-2024",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Informatika",
+ "number": "2",
+ "number_raw": "2",
+ "year": 2024,
+ "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 2 Tahun 2024 tentang Klasifikasi Gim",
+ "about": "Klasifikasi Gim",
+ "issuer": "Kementerian Komunikasi dan Informatika",
+ "subject": "ILMU PENGETAHUAN DAN TEKNOLOGI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-01-16",
+ "date_promulgated": "2024-01-24",
+ "date_effective": "2024-01-24",
+ "gazette": "BN 2024 (50); 13 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 150532,
+   "label": "Permenkominfo No. 11 Tahun 2016",
+   "about": "Klasifikasi Permainan Interaktif Elektronik"
+  }
+ ],
+ "abstract": "Untuk memfasilitasi pemanfaatan teknologi informasi dan melindungi kepentingan umum dari segala jenis gangguan sebagai akibat penyalahgunaan informasi dan transaksi elektronik yang mengganggu ketertiban umum, pemerintah perlu melindungi masyarakat dalam penggunaan produk teknologi informasi berupa gim yang sesuai dengan karakter budaya dan norma di Indonesia. untuk memenuhi kebutuhan pengaturan guna melindungi masyarakat dalam penggunaan produk teknologi informasi berupa gim, pemerintah telah menetapkan Peraturan Menteri Komunikasi dan Informatika Nomor 11 Tahun 2016 tentang Klasifikasi Permainan Interaktif Elektronik. Peraturan Menteri Komunikasi dan Informatika Nomor 11 Tahun 2016 tentang Klasifikasi Permainan Interaktif Elektronik sudah tidak sesuai lagi dengan perkembangan kebutuhan hukum masyarakat sehingga perlu diganti dengan menetapkan Peraturan Menteri Komunikasi dan Informatika tentang Klasifikasi Gim.\nDasar Hukum Peraturan Menteri ini adalah: Pasal 17 ayat (3) UUD 1945; UU No. 39 Tahun 2008; PP No. 71 Tahun 2019; Perpres No. 22 Tahun 2023; Permenkominfo No. 12 Tahun 2021.\nDalam Peraturan Menteri ini diatur tentang Klasifikasi Gim dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Gim adalah piranti lunak di mana penggunanya dapat berinteraksi melalui piranti keras untuk bermain dan mendapat umpan balik audiovisual. Penerbit Gim yang selanjutnya disebut Penerbit adalah setiap orang perseorangan, badan usaha dan/atau badan hukum yang memasarkan produk Gim. Pengguna Gim yang selanjutnya disebut Pengguna adalah setiap orang yang menggunakan Gim. Klasifikasi Gim adalah kegiatan pengelompokan permainan berdasarkan konten dan usia Pengguna melalui asesmen yang dilakukan secara mandiri oleh Penerbit dan hasilnya akan dilakukan uji kesesuaian oleh penguji klasifikasi gim. Peraturan Menteri ini bertujuan untuk menjadi acuan bagi: Penerbit, dalam melakukan Klasifikasi Gim secara mandiri; Kementerian, dalam melakukan pengawasan terhadap Klasifikasi Gim; dan Masyarakat atau Pengguna, dalam menyampaikan pengaduan atas ketidaksesuaian hasil Klasifikasi Gim. Tata cara klasifikasi Gim bagi Penerbit Gim yaitu Penerbit wajib melakukan pendaftaran sebagai Penyelenggara Sistem Elektronik (PSE) Lingkup Privat melalui Sistem OSS berbasis risiko, penerbit wajib melakukan Klasifikasi Gim secara mandiri dalam mengiklankan dan/atau memasarkan Gim di wilayah Negara Kesatuan Republik Indonesia, Penerbit dapat melakukan pemasaran Gim setelah Menteri menerbitkan hasil Klasifikasi Gim. Gim tidak dapat diklasifikasikan apabila memuat konten: menampilkan dan/atau memperdengarkan pornografi; merupakan kegiatan permainan yang didasarkan pada peruntungan belaka atau segala pertaruhan (judi) yang dapat menggunakan alat pembayaran yang sah, mata uang asing, uang elektronik, atau komoditi tidak berwujud berupa asset digital yang dapat diperdagangkan dan ditukarkan menjadi alat pembayaran yang sah dan menyediakan/mendukung/memfasilitasi adanya fitur pencairan (cash out); dan melanggar ketentuan peraturan perundang-undangan. Hasil Klasifikasi Gim secara mandiri oleh Penerbit dilakukan uji kesesuaian oleh penguji Klasifikasi Gim. Menteri melakukan pengawasan terhadap penyelenggaraan Klasifikasi Gim. Penerbit Gim dapat mengajukan keberatan atas hasil uji kesesuaian kepada Menteri. Pengguna Gim atau Masyarakat dapat menyampaikan pengaduan atas ketidaksesuaian hasil Klasifikasi Gim kepada Menteri. Menteri dapat mengenakan sanksi administratif kepada Penerbit yang melanggar ketentuan peraturan perundang-undangan.﻿",
+ "note": "Peraturan Menteri Komunikasi dan Informatika ini mulai berlaku pada tanggal 24 Januari 2024.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Komunikasi dan Informatika Nomor 11 Tahun 2016 tentang Klasifikasi Permainan Interaktif Elektronik (Berita Negara Republik Indonesia Tahun 2016 Nomor 1056), dicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "PERMENKOMINFO-2016-11",
+  "UU-2008-39",
+  "PP-2019-71",
+  "PERPRES-2023-22"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/340972/Permen%20Kominfo_Nomor_2_Tahun_2024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:42:12Z"
+}

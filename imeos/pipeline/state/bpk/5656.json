@@ -1,0 +1,44 @@
+{
+ "id": "PP-2015-78",
+ "source": "bpk",
+ "bpk_id": 5656,
+ "url": "https://peraturan.bpk.go.id/Details/5656/x",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "78",
+ "number_raw": "78",
+ "year": 2015,
+ "title": "Peraturan Pemerintah (PP) Nomor 78 Tahun 2015 tentang Pengupahan",
+ "about": "Pengupahan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA - KETENAGAKERJAAN",
+ "field": "",
+ "date_enacted": "2015-10-23",
+ "date_promulgated": "2015-10-23",
+ "date_effective": "2015-10-23",
+ "gazette": "LN. 2015 No. 237, TLN No. 5747, LL SETNEG : 33 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2021-36",
+   "target_bpk_id": 161909,
+   "label": "PP No. 36 Tahun 2021",
+   "about": "Pengupahan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-1981-8",
+   "target_bpk_id": 65307,
+   "label": "PP No. 8 Tahun 1981",
+   "about": "Perlindungan Upah"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 23 Oktober 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/29622/PP%20Nomor%2078%20Tahun%202015.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:22Z"
+}

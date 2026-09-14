@@ -1,0 +1,43 @@
+{
+ "id": "PERMENAKER-2024-11",
+ "source": "bpk",
+ "bpk_id": 309823,
+ "url": "https://peraturan.bpk.go.id/Details/309823/permenaker-no-11-tahun-2024",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "11",
+ "number_raw": "11",
+ "year": 2024,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 11 Tahun 2024 tentang Pakaian Dinas Pejabat Fungsional Pengawas Ketenagakerjaan",
+ "about": "Pakaian Dinas Pejabat Fungsional Pengawas Ketenagakerjaan",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "PAKAIAN DINAS",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-11-05",
+ "date_promulgated": "2024-11-08",
+ "date_effective": "2024-11-08",
+ "gazette": "BN 2024 (821); 36 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENAKER-2015-9",
+   "target_bpk_id": 145980,
+   "label": "Permenaker No. 9 Tahun 2015",
+   "about": "Pedoman Pakaian Dinas, Atribut, dan Kelengkapan Pengawas Ketenagakerjaan"
+  }
+ ],
+ "abstract": "bahwa penggunaan pakaian dinas bagi Pengawas\nKetenagakerjaan telah mendapatkan persetujuan\nMenteri Pendayagunaan Aparatur Negara dan\nReformasi Birokrasi melalui surat Nomor\nB/141/M.KT.02/2024 tanggal 16 April 2024 tentang\nIzin Prinsip Pakaian Dinas Jabatan Fungsional\nPengawas Ketenagakerjaan\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD 1945; UU Nomor 3 Tahun 1951; UU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024; Perpres Nomor 95 Tahun 2020; Permenaker Nomor 1 Tahun 2021\nPeraturan ini mengatur mengenai Pakaian Dinas Jabatan Fungsional\nPengawas Ketenagakerjaan yang terdiri atas Pakaian Dinas Harian (PDH), Pakaian Dinas Upacara (PDU), dan Pakaian Dinas Lapangan (PDL); Logo Pengawas Ketenagakerjaan; dan Pendanaan",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 08 November 2024.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan\nMenteri Ketenagakerjaan Nomor 9 Tahun 2015 tentang\nPakaian Dinas, Atribut dan Kelengkapan Pengawasan\nKetenagakerjaan (Berita Negara Republik Indonesia Tahun\n2015 Nomor 428), dicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "UU-1951-3",
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2020-95",
+  "PERMENAKER-2021-1"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/370370/Permenaker%20Nomor%2011%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:41:34Z"
+}

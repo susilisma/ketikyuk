@@ -1,0 +1,48 @@
+{
+ "id": "PERMENDAG-2026-11",
+ "source": "bpk",
+ "bpk_id": 351302,
+ "url": "https://peraturan.bpk.go.id/Details/351302/permendag-no-11-tahun-2026",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "11",
+ "number_raw": "11",
+ "year": 2026,
+ "title": "Peraturan Menteri Perdagangan Nomor 11 Tahun 2026 tentang Perubahan Kedua atas Peraturan Menteri Perdagangan Nomor 18 Tahun 2025 tentang Kebijakan dan Pengaturan Impor Barang",
+ "about": "Perubahan Kedua atas Peraturan Menteri Perdagangan Nomor 18 Tahun 2025 tentang Kebijakan dan Pengaturan Impor Barang",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-04-21",
+ "date_promulgated": "2026-04-24",
+ "date_effective": "2026-05-08",
+ "gazette": "BN.2026 (262/229 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERMENDAG-2025-18",
+   "target_bpk_id": 323120,
+   "label": "Permendag No. 18 Tahun 2025",
+   "about": "Kebijakan dan Pengaturan Impor Barang Pertanian dan Peternakan"
+  }
+ ],
+ "abstract": "a. bahwa untuk mendukung program swasembada pangan\ndan substitusi impor barang pertanian, perlu mengubah\nPeraturan Menteri Perdagangan Nomor 18 Tahun 2025\ntentang Kebijakan dan Pengaturan Impor Barang\nPertanian dan Peternakan sebagaimana telah diubah\ndengan Peraturan Menteri Perdagangan Nomor 31 Tahun\n2025 tentang Perubahan atas Peraturan Menteri\nPerdagangan Nomor 18 Tahun 2025 tentang Kebijakan\ndan Pengaturan Impor Barang Pertanian dan Peternakan;\nb. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a, perlu menetapkan Peraturan Menteri\nPerdagangan tentang Perubahan Kedua atas Peraturan\nMenteri Perdagangan Nomor 18 Tahun 2025 tentang\nKebijakan dan Pengaturan Impor Barang Pertanian dan\nPeternakan;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 10 Tahun 1995, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 7 Tahun 2014, Peraturan Pemerintah Nomor 29 Tahun 2021, Peraturan Pemerintah Nomor 41 Tahun 2021, Peraturan Presiden Nomor 168 Tahun 2024, Peraturan Menteri Perdagangan Nomor 6 Tahun 2025, Peraturan Menteri Perdagangan Nomor 16 Tahun 2025 dan Peraturan Menteri Perdagangan Nomor 18 Tahun 2025\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri Perdagangan\nNomor 18 Tahun 2025 tentang Kebijakan dan Pengaturan\nImpor Barang Pertanian dan Peternakan sebagaimana telah\ndiubah dengan Peraturan Menteri Perdagangan Nomor 31\nTahun 2025 tentang Perubahan atas Peraturan Menteri\nPerdagangan Nomor 18 Tahun 2025 tentang Kebijakan dan\nPengaturan Impor Barang Pertanian dan Peternakan yaitu tentang Barang Pertanian dan Peternakan yang terkena pengaturan impor, Pemasukan Barang Pertanian dan Peternakan, Impor Barang Pertanian dan Peternakan, pengeluaran Barang Pertanian dan Peternakan berupa hewan dan produk hewan, beras keperluan lain API-P dan Ketentuan Lampiran I, Lampiran II, Lampiran III, dan\nLampiran IV Peraturan Menteri Perdagangan Nomor 18\nTahun 2025 tentang Kebijakan dan Pengaturan Impor\nBarang Pertanian dan Peternakan sebagaimana telah\ndiubah dengan Peraturan Menteri Perdagangan Nomor 31\nTahun 2025 tentang Perubahan atas Peraturan Menteri\nPerdagangan Nomor 18 Tahun 2025 tentang Kebijakan\ndan Pengaturan Impor Barang Pertanian dan Peternakan\ndiubah sehingga menjadi sebagaimana tercantum dalam\nLampiran I, Lampiran II, Lampiran III, dan Lampiran IV .",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 08 Mei 2026.\nPeraturan Menteri Perdagangan\nNomor 18 Tahun 2025 tentang Kebijakan dan Pengaturan\nImpor Barang Pertanian dan Peternakan sebagaimana telah\ndiubah dengan Peraturan Menteri Perdagangan Nomor 31\nTahun 2025 tentang Perubahan atas Peraturan Menteri\nPerdagangan Nomor 18 Tahun 2025 tentang Kebijakan dan\nPengaturan Impor Barang Pertanian dan Peternakan diubah sebagian",
+ "citations": [
+  "PERMENDAG-2025-18",
+  "PERMENDAG-2025-31",
+  "UU-1995-10",
+  "UU-2008-39",
+  "UU-2014-7",
+  "PP-2021-29",
+  "PP-2021-41",
+  "PERPRES-2024-168",
+  "PERMENDAG-2025-6",
+  "PERMENDAG-2025-16"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/415080/permendag-no-11-tahun-2026.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:36:00Z"
+}

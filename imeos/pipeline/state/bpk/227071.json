@@ -1,0 +1,45 @@
+{
+ "id": "POJK-2020-57",
+ "source": "bpk",
+ "bpk_id": 227071,
+ "url": "https://peraturan.bpk.go.id/Details/227071/peraturan-ojk-no-57pojk042020-tahun-2020",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "57",
+ "number_raw": "57/POJK.04/2020",
+ "year": 2020,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 57/POJK.04/2020 Tahun 2020 tentang Penawaran Efek Melalui Layanan Urun Dana Berbasis Teknologi Informasi",
+ "about": "Penawaran Efek Melalui Layanan Urun Dana Berbasis Teknologi Informasi",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "ILMU PENGETAHUAN DAN TEKNOLOGI",
+ "field": "",
+ "date_enacted": "2020-12-10",
+ "date_promulgated": "2020-12-11",
+ "date_effective": "2020-12-11",
+ "gazette": "LN.2020/NO.281, TLN NO.6594, peraturan.go.id : 62 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 327332,
+   "label": "Peraturan OJK No. 17 Tahun 2025",
+   "about": "Penawaran Efek Melalui Layanan Urun Dana Berbasis Teknologi Informasi"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 227227,
+   "label": "Peraturan OJK No. 16/POJK.04/2021 Tahun 2021",
+   "about": "Perubahan Atas Peraturan Otoritas Jasa Keuangan Nomor 57/POJK.04/2020 Tentang Penawaran Efek Melalui Layanan Urun Dana Berbasis Teknologi Informasi"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 11 Desember 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/221796/Peraturan%20OJK%20No.%2057%20Tahun%202020.pdf",
+  "https://peraturan.bpk.go.id/Download/221797/Peraturan%20OJK%20No.%2057%20Tahun%202020_Penjelasan.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:43:40Z"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "POJK-2017-15",
+ "source": "bpk",
+ "bpk_id": 129725,
+ "url": "https://peraturan.bpk.go.id/Details/129725/peraturan-ojk-no-15pojk032017-tahun-2017",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "15",
+ "number_raw": "15/POJK.03/2017",
+ "year": 2017,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 15/POJK.03/2017 Tahun 2017 tentang Penetapan Status dan Tindak Lanjut Pengawasan Bank Umum",
+ "about": "Penetapan Status dan Tindak Lanjut Pengawasan Bank Umum",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "",
+ "date_enacted": "2017-04-04",
+ "date_promulgated": "2017-04-07",
+ "date_effective": "2017-04-07",
+ "gazette": "LN.2017/NO.65, TLN NO.6039, Jdih.ojk.go.id: 44 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 301687,
+   "label": "Peraturan OJK No. 5 Tahun 2024",
+   "about": "Penetapan Status Pengawasan dan Penanganan Permasalahan Bank Umum"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 07 April 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/120629/SAL%20POJK%2015%20Exit%20Policy%20Bank%20%20%20%20%20Umum.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:44:46Z"
+}

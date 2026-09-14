@@ -1,0 +1,50 @@
+{
+ "id": "PERMENPERIN-2024-29",
+ "source": "bpk",
+ "bpk_id": 295998,
+ "url": "https://peraturan.bpk.go.id/Details/295998/permenperin-no-29-tahun-2024",
+ "form": "PERMENPERIN",
+ "form_long": "Peraturan Menteri Perindustrian",
+ "number": "29",
+ "number_raw": "29",
+ "year": 2024,
+ "title": "Peraturan Menteri Perindustrian Nomor 29 Tahun 2024 tentang Pemberlakuan Standar Nasional Indonesia Untuk Alat Pemeliharaan Tanaman-Sprayer Gendong Secara Wajib",
+ "about": "Pemberlakuan Standar Nasional Indonesia Untuk Alat Pemeliharaan Tanaman-Sprayer Gendong Secara Wajib",
+ "issuer": "Kementerian Perindustrian",
+ "subject": "STANDAR / PEDOMAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-07-15",
+ "date_promulgated": "2024-08-29",
+ "date_effective": "2024-11-29",
+ "gazette": "BN.2024 (432)/70 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENPERIN-2020-25",
+   "target_bpk_id": 167007,
+   "label": "Permenperin No. 25 Tahun 2020",
+   "about": "Pemberlakuan Standar Nasional Indonesia Alat Pemeliharaan Tanaman-Sprayer Gendong Semi Otomatis dan Alat Pemeliharaan Tanaman-Sprayer Gendong Elektrik Secara Wajib"
+  }
+ ],
+ "abstract": "a. bahwa untuk menjamin keamanan, kesehatan, dan keselamatan manusia, serta pemeliharaan fungsi lingkungan hidup dari penggunaan alat pemeliharaan tanaman-sprayer gendong, meningkatkan daya saing, efisiensi, dan kinerja industri penggunaan alat pemeliharaan tanaman-sprayer gendong, dan menciptakan persaingan usaha yang sehat, telah ditetapkan pemberlakuan standar nasional Indonesia untuk alat pemeliharaan tanaman – sprayer gendong semi otomatis dan alat pemeliharaan tanaman – sprayer gendong elektrik secara wajib;\nb. bahwa Peraturan Menteri Perindustrian Nomor 25\nTahun 2020 tentang Pemberlakuan Standar Nasional Indonesia Alat Pemeliharaan Tanaman – Sprayer Gendong Semi Otomatis dan Alat Pemeliharaan Tanaman – Sprayer Gendong Elektrik Secara Wajib sudah tidak sesuai dengan perkembangan standar nasional Indonesia alat pemeliharaan tanaman – sprayer gendong semi otomatis dan alat pemeliharaan tanaman – sprayer gendong elektrik dan kebijakan di bidang standardisasi industri, sehingga perlu diganti;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan untuk\nmelaksanakan ketentuan Pasal 52 ayat (1) Undang- Undang Nomor 3 Tahun 2014 tentang Perindustrian sebagaimana telah diubah dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun\n2022 tentang Cipta Kerja Menjadi Undang-Undang, perlu menetapkan Peraturan Menteri Perindustrian\ntentang Pemberlakuan Standar Nasional Indonesia untuk Alat Pemeliharaan Tanaman - Sprayer Gendong Secara Wajib;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 3 Tahun 2014, Undang-Undang Nomor 20 Tahun 2014, Peraturan Pemerintah Nomor 2 Tahun 2017, Peraturan Pemerintah Nomor 34 Tahun 2018, Peraturan Pemerintah Nomor 28 Tahun 2021, Peraturan Presiden Nomor 107 Tahun 2020, Peraturan Menteri Perindustrian Nomor 45 Tahun 2022 dan Peraturan Menteri Perindustrian Nomor 8 Tahun 2023,\nPeraturan ini mengatur tentang ketetuan umum, lingkup pemberlakuan standar nasional Indonesia secara wajib, penilaian kesesuaian, ketentuan lain-lain, ketentuan peralihan dan ketentuan penutup",
+ "note": "Peraturan Menteri Perindustrian ini mulai berlaku pada tanggal 29 November 2024.\nPeraturan Menteri ini mulai berlaku Peraturan\nMenteri Perindustrian Nomor 25 Tahun 2020 tentang Pemberlakuan Standar Nasional Indonesia Alat Pemeliharaan Tanaman – Sprayer Gendong Semi Otomatis dan Alat Pemeliharaan Tanaman – Sprayer Gendong Elektrik Secara Wajib dicabut dan dinyatakan tidak berlaku",
+ "citations": [
+  "PERMENPERIN-2020-25",
+  "UU-2023-6",
+  "PERPPU-2022-2",
+  "UU-2008-39",
+  "UU-2014-3",
+  "UU-2014-20",
+  "PP-2017-2",
+  "PP-2018-34",
+  "PP-2021-28",
+  "PERPRES-2020-107",
+  "PERMENPERIN-2022-45",
+  "PERMENPERIN-2023-8"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/355399/permenperin-no-29-tahun-2024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:39:52Z"
+}

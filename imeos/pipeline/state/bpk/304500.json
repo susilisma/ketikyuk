@@ -1,0 +1,50 @@
+{
+ "id": "PERMENKUMHAM-2024-23",
+ "source": "bpk",
+ "bpk_id": 304500,
+ "url": "https://peraturan.bpk.go.id/Details/304500/permenkumham-no-23-tahun-2024",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "23",
+ "number_raw": "23",
+ "year": 2024,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 23 Tahun 2024 tentang Penilaian Indeks Reformasi Hukum pada Kementerian/Lembaga dan Pemerintah Daerah",
+ "about": "Penilaian Indeks Reformasi Hukum pada Kementerian/Lembaga dan Pemerintah Daerah",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA - PERIZINAN, PELAYANAN PUBLIK",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-09-18",
+ "date_promulgated": "2024-09-23",
+ "date_effective": "2024-09-23",
+ "gazette": "BN 2024 (571) : 3 hlm.; peraturan.go.id",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 317706,
+   "label": "Permenkum No. 11 Tahun 2025",
+   "about": "Penilaian Indeks Reformasi Hukum pada Kementerian/Lembaga dan Pemerintah Daerah"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 225569,
+   "label": "Permenkumham No. 17 Tahun 2022",
+   "about": "Penilaian Indeks Reformasi Hukum pada Kementerian/Lembaga dan Pemerintah Daerah"
+  }
+ ],
+ "abstract": "Untuk mengoptimalkan pelaksanaan penilaian indeks reformasi hukum pada kementerian/lembaga dan pemerintah daerah guna mewujudkan birokrasi yang bersih dan akuntabel, perlu mengganti Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 17 Tahun 2022 tentang Penilaian Indeks Reformasi Hukum pada Kementerian/Lembaga dan Pemerintah Daerah, karena sudah tidak sesuai dengan kebutuhan hukum dan perkembangan penilaian indeks reformasi hukum saat ini.\nDasar hukum Permenkumham ini adalah Pasal 17 ayat (3) UUD 1945; UU Nomor 39 Tahun 2008; Perpres Nomor 81 Tahun 2010; Perpres Nomor 33 Tahun 2012; Perpres Nomor 18 Tahun 2023; dan Permenkumham Nomor 28 Tahun 2023.\nPermenkumham ini mengatur mengenai Penilaian Indeks Reformasi Hukum pada Kementerian/Lembaga dan Pemerintah Daerah. Peraturan Menteri ini bertujuan sebagai pedoman untuk pelaksanaan penilaian indeks reformasi hukum pada kementerian/lembaga dan pemerintah daerah. Peserta penilaian indeks reformasi hukum merupakan kementerian/lembaga dan pemerintah daerah.",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 23 September 2024.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 17 Tahun 2022 tentang Penilaian Indeks Reformasi Hukum pada Kementerian/Lembaga dan Pemerintah Daerah (Berita Negara Republik Indonesia Tahun 2022 Nomor 867), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 3 hlm.",
+ "citations": [
+  "PERMENKUMHAM-2022-17",
+  "UU-2008-39",
+  "PERPRES-2010-81",
+  "PERPRES-2012-33",
+  "PERPRES-2023-18"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/364564/Permenkumham%20Nomor%2023%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:42:20Z"
+}

@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2010-73",
+ "source": "bpk",
+ "bpk_id": 174104,
+ "url": "https://peraturan.bpk.go.id/Details/174104/pmk-no-73pmk032010",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "73",
+ "number_raw": "73/PMK.03/2010",
+ "year": 2010,
+ "title": "Peraturan Menteri Keuangan Nomor 73/PMK.03/2010 Tahun 2010 tentang Penunjukan Kontraktor Kontrak Kerja Sama Pengusahaan Minyak dan Gas Bumi dan Kontraktor atau Pemegang Kuasa/Pemegang Izin Pengusahaan Sumber Daya Panas Bumi untuk Memungut, Menyetor, dan Melaporkan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, Serta Tata Cara Pemungutan, Penyetoran, dan Pelaporannya",
+ "about": "Penunjukan Kontraktor Kontrak Kerja Sama Pengusahaan Minyak dan Gas Bumi dan Kontraktor atau Pemegang Kuasa/Pemegang Izin Pengusahaan Sumber Daya Panas Bumi untuk Memungut, Menyetor, dan Melaporkan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, Serta Tata Cara Pemungutan, Penyetoran, dan Pelaporannya",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERTAMBANGAN MIGAS, MINERAL DAN ENERGI - PERPAJAKAN",
+ "field": "",
+ "date_enacted": "2010-03-31",
+ "date_promulgated": "2010-03-31",
+ "date_effective": "2010-04-01",
+ "gazette": "BN 2010/ NO 156; https://peraturan.go.id/ : 6 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-81",
+   "target_bpk_id": 306614,
+   "label": "PMK No. 81 Tahun 2024",
+   "about": "Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2005-11",
+   "target_bpk_id": 174108,
+   "label": "PMK No. 11/PMK.03/2005",
+   "about": "Penunjukan Kontraktor Perjanjian Kerjasama Pengusahaan Pertambangan Minyak dan Gas Bumi untuk Memungut, Menyetor, dan Melaporkan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah Beserta Tata Cra Pemungutan, Penyetoran dan Pelaporannya"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 01 April 2010.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/167300/PMK%20Nomor%2073%20Tahun%202010.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:35:18Z"
+}

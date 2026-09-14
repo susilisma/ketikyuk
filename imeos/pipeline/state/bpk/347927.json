@@ -1,0 +1,43 @@
+{
+ "id": "PP-2026-8",
+ "source": "bpk",
+ "bpk_id": 347927,
+ "url": "https://peraturan.bpk.go.id/Details/347927/pp-no-8-tahun-2026",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "8",
+ "number_raw": "8",
+ "year": 2026,
+ "title": "Peraturan Pemerintah (PP) Nomor 8 Tahun 2026 tentang Perubahan atas Peraturan Pemerintah Nomor 23 Tahun 2021 tentang Penyelenggaraan Kehutanan",
+ "about": "Perubahan atas Peraturan Pemerintah Nomor 23 Tahun 2021 tentang Penyelenggaraan Kehutanan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KEHUTANAN DAN PERKEBUNAN",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2026-03-02",
+ "date_promulgated": "2026-03-02",
+ "date_effective": "2026-03-02",
+ "gazette": "LN 2026 (18), TLN (7161): 4 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PP-2021-23",
+   "target_bpk_id": 161853,
+   "label": "PP No. 23 Tahun 2021",
+   "about": "Penyelenggaraan Kehutanan"
+  }
+ ],
+ "abstract": "Untuk mendorong dan meningkatkan daya saing dan pertumbuhan ekonomi di Kawasan Perdagangan Bebas dan Pelabuhan Bebas Batam, pengaturan mengenai perencanaan kehutanan, perubahan peruntukan kawasan hutan dan perubahan fungsi kawasan hutan, penggunaan kawasan hutan, tata hutan dan penyusunan rencana pengelolaan hutan serta pemanfaatan hutan, pengelolaan perhutanan sosial, perlindungan hutan, dan pengawasan kehutanan di Kawasan Perdagangan Bebas dan Pelabuhan Bebas Batam perlu dilakukan penyesuaian.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945; UU No. 41 Tahun 1999; UU No. 36 Tahun 2000; PP No. 46 Tahun 2007; PP No. 23 Tahun 2021; dan PP No. 41 Tahun 2021.\nPP ini menambah PAsal 293A diantara Pasal 293 dan Pasal 294 PP No. 23 Tahun 2021.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 02 Maret 2026.\nPP ini mengubah PP No. 23 Tahun 2021\nLampiran file: 6 hlm. (batang tubuh hlm. 1 sd 4, penjelasan hlm. 5 sd 6)",
+ "citations": [
+  "UU-1999-41",
+  "UU-2000-36",
+  "PP-2007-46",
+  "PP-2021-23",
+  "PP-2021-41"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/411502/PP%20Nomor%208%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:28:25Z"
+}

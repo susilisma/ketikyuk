@@ -1,0 +1,65 @@
+{
+ "id": "UU-2002-2",
+ "source": "bpk",
+ "bpk_id": 44418,
+ "url": "https://peraturan.bpk.go.id/Details/44418/uu-no-2-tahun-2002",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "2",
+ "number_raw": "2",
+ "year": 2002,
+ "title": "Undang-undang (UU) Nomor 2 Tahun 2002 tentang Kepolisian Negara Republik Indonesia",
+ "about": "Kepolisian Negara Republik Indonesia",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2002-01-08",
+ "date_promulgated": "2002-01-08",
+ "date_effective": "2002-01-08",
+ "gazette": "LN. 2002/ No. 2, TLN NO. 4168, LL SETNEG : 17 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2026-5",
+   "target_bpk_id": 350096,
+   "label": "UU No. 5 Tahun 2026",
+   "about": "Perubahan Ketiga atas Undang-Undang Nomor 2 Tahun 2002 tentang Kepolisian Negara Republik Indonesia"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 234926,
+   "label": "PERPU No. 2 Tahun 2022",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1997-28",
+   "target_bpk_id": 46044,
+   "label": "UU No. 28 Tahun 1997",
+   "about": "Kepolisian Negara Republik Indonesia"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 08 Januari 2002.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/32689/UU%20Nomor%202%20Tahun%202002.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:23:11Z"
+}

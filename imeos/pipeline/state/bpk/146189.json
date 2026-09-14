@@ -1,0 +1,37 @@
+{
+ "id": "PERMENAKER-2016-30",
+ "source": "bpk",
+ "bpk_id": 146189,
+ "url": "https://peraturan.bpk.go.id/Details/146189/permenaker-no-30-tahun-2016",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "30",
+ "number_raw": "30",
+ "year": 2016,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 30 Tahun 2016 tentang Pedoman Pembentukan dan Penyelenggaraan Layanan Satu Atap Penempatan Tenaga Kerja Luar Negeri",
+ "about": "Pedoman Pembentukan dan Penyelenggaraan Layanan Satu Atap Penempatan Tenaga Kerja Luar Negeri",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "KETENAGAKERJAAN - KEWARGANEGARAAN DAN IMIGRASI - STANDAR / PEDOMAN",
+ "field": "",
+ "date_enacted": "2016-10-06",
+ "date_promulgated": "2016-10-06",
+ "date_effective": "2016-10-06",
+ "gazette": "BN.2016/No.1487, jdih.kemnaker.go.id : 8 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENAKER-2024-10",
+   "target_bpk_id": 309820,
+   "label": "Permenaker No. 10 Tahun 2024",
+   "about": "Pedoman Pembentukan dan Penyelenggaraan Layanan Terpadu Satu\r\nAtap Pekerja Migran Indonesia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Ketenagakerjaan Republik Indonesia ini mulai berlaku pada tanggal 06 Oktober 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/252324/Kemnaker%20No.%2030%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:41:38Z"
+}

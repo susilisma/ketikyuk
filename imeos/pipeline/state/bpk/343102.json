@@ -1,0 +1,45 @@
+{
+ "id": "PERMENDAG-2025-48",
+ "source": "bpk",
+ "bpk_id": 343102,
+ "url": "https://peraturan.bpk.go.id/Details/343102/permendag-no-48-tahun-2025",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "48",
+ "number_raw": "48",
+ "year": 2025,
+ "title": "Peraturan Menteri Perdagangan Nomor 48 Tahun 2025 tentang Tata Cara Seleksi Lembaga Pelaksana Penjaminan Sistem Resi Gudang",
+ "about": "Tata Cara Seleksi Lembaga Pelaksana Penjaminan Sistem Resi Gudang",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-12-29",
+ "date_promulgated": "2025-12-31",
+ "date_effective": "2025-12-31",
+ "gazette": "BN 2025 (1226); 11 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2014-52",
+   "target_bpk_id": 129129,
+   "label": "Permendag No. 52/M-DAG/PER/9/2014 Tahun 2014",
+   "about": "Tata Cara Seleksi Lembaga Pelaksana Penjamin Sistem Resi Gudang"
+  }
+ ],
+ "abstract": "a. bahwa dengan ditetapkannya Peraturan Pemerintah\nNomor 29 Tahun 2022 tentang Perubahan atas Peraturan\nPemerintah Nomor 10 Tahun 2014 tentang Persyaratan\ndan Tata Cara Penetapan Lembaga Pelaksana Penjaminan\nResi Gudang, Peraturan Menteri Perdagangan Nomor\n52/M-DAG/PER/9/2014 tentang Tata Cara Seleksi\nLembaga Pelaksana Penjaminan Sistem Resi Gudang\nsudah tidak sesuai lagi dengan perkembangan hukum\nsehingga perlu diganti;\nb. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a dan untuk melaksanakan ketentuan Pasal\n4 ayat (4) Peraturan Pemerintah Nomor 10 Tahun 2014\ntentang Persyaratan dan Tata Cara Penetapan Lembaga\nPelaksana Penjaminan Resi Gudang sebagaimana telah\ndiubah dengan Peraturan Pemerintah Nomor 29 Tahun\n2022 tentang Perubahan atas Peraturan Pemerintah\nNomor 10 Tahun 2014 tentang Persyaratan dan Tata Cara\nPenetapan Lembaga Pelaksana Penjaminan Resi Gudang,\nperlu menetapkan Peraturan Menteri Perdagangan tentang\nTata Cara Seleksi Lembaga Pelaksana Penjaminan Sistem\nResi Gudang;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 7 Tahun 2014,Peraturan Pemerintah Nomor 10 Tahun 2014, Peraturan Presiden Nomor 168 Tahun 2024 dan Peraturan Menteri Perdagangan Nomor 6 Tahun 2025\nPeraturan ini mengatuer tentang ketentuan umum, Tim Seleksi, dokumen persyaratan penilaian kompetensi dan penetapan hasil Seleksi calon Lembaga\nPelaksana",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 31 Desember 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan\nMenteri Perdagangan Nomor 52/M-DAG/PER/9/2014 tentang\nTata Cara Seleksi Lembaga Pelaksana Penjaminan Sistem Resi\nGudang",
+ "citations": [
+  "PP-2022-29",
+  "PERMENDAG-2014-52",
+  "PP-2014-10",
+  "UU-2008-39",
+  "UU-2014-7",
+  "PERPRES-2024-168",
+  "PERMENDAG-2025-6"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/406289/Permendag%2048%20tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:36:28Z"
+}

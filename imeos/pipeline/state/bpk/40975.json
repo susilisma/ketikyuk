@@ -1,0 +1,37 @@
+{
+ "id": "PERPRES-2016-71",
+ "source": "bpk",
+ "bpk_id": 40975,
+ "url": "https://peraturan.bpk.go.id/Details/40975/perpres-no-71-tahun-2016",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "71",
+ "number_raw": "71",
+ "year": 2016,
+ "title": "Peraturan Presiden (Perpres) Nomor 71 Tahun 2016 tentang Institut Agama Islam Negeri Metro",
+ "about": "Institut Agama Islam Negeri Metro",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PENDIDIKAN",
+ "field": "",
+ "date_enacted": "2016-08-01",
+ "date_promulgated": "2016-08-03",
+ "date_effective": "2016-08-03",
+ "gazette": "LN 2016/No. 159, LL Setneg : 4 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2025-57",
+   "target_bpk_id": 320254,
+   "label": "Perpres No. 57 Tahun 2025",
+   "about": "Universitas Islam Negeri Jurai Siwo Lampung"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 03 Agustus 2016.\nPada saat Peraturan Presiden ini mulai berlaku, ketentuan yang berkaitan dengan Sekolah Tinggi Agama\nIslam Negeri Jurai Siwo Metro sebagaimana diatur dalam Keputusan Presiden Nomor 11 Tahun 1997 tentang\nPendirian Sekolah Tinggi Agama Islam Negeri, dicabut dan dinyatakan tidak berlaku.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/33179/Perpres%20Nomor%2071%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:25:52Z"
+}

@@ -1,0 +1,45 @@
+{
+ "id": "PERMENAKER-2025-9",
+ "source": "bpk",
+ "bpk_id": 332124,
+ "url": "https://peraturan.bpk.go.id/Details/332124/permenaker-no-9-tahun-2025",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "9",
+ "number_raw": "9",
+ "year": 2025,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 9 Tahun 2025 tentang Rencana Strategis Kementerian Ketenagakerjaan Tahun 2025-2029",
+ "about": "Rencana Strategis Kementerian Ketenagakerjaan Tahun 2025-2029",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "PROGRAM, RENCANA PEMBANGUNAN DAN RENCANA KERJA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-10-10",
+ "date_promulgated": "2025-10-15",
+ "date_effective": "2025-10-15",
+ "gazette": "BN 2025 (818); 128 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENAKER-2021-10",
+   "target_bpk_id": 195978,
+   "label": "Permenaker No. 10 Tahun 2021",
+   "about": "Rencana Strategis Kementerian Ketenagakerjaan Tahun 2020-2024"
+  }
+ ],
+ "abstract": "bahwa untuk melaksanakan ketentuan Pasal 19 ayat (2)\nUndang-Undang Nomor 25 Tahun 2004 tentang\nSistemPerencanaan Pembangunan Nasional, Pasal 17 ayat\n(3) Peraturan Pemerintah Nomor 40 Tahun 2006 tentang\nTata Cara Penyusunan Rencana Pembangunan Nasional,\ndan Pasal 19 ayat (1) Peraturan Presiden Nomor 80 Tahun\n2025 tentang Penyusunan Rencana Strategis dan Rencana\nKerja Kementerian/Lembaga\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD NRI Tahun 1945; UU Nomor 25 Tahun 2004; UU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024; PP Nomor 40 Tahun 2006; Perpres Nomor 164 Tahun 2024; Perpres Nomor 80 Tahun 2025; Permenaker Nomor 20 Tahun 2024\nPeraturan ini mengatur mengenai dokumen perencanaan strategis\nKementerian Ketenagakerjaan untuk periode 5 (lima) tahun,\nyakni terhitung mulai tahun 2025 sampai dengan 2029\nyang merupakan penjabaran dari rencana pembangunan\njangka menengah nasional Tahun 2025-2029 serta Data dan informasi kinerja Rencana Strategis Kementerian\nKetenagakerjaan Tahun 2025-2029 yang termuat dalam\nSistem Informasi Kolaborasi Perencanaan dan Informasi\nKinerja Anggaran Rencana Strategis Kementerian/Lembaga\n(Sistem Informasi KRISNA-RENSTRAKL)",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 15 Oktober 2025.",
+ "citations": [
+  "UU-2004-25",
+  "PP-2006-40",
+  "PERPRES-2025-80",
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2024-164",
+  "PERMENAKER-2024-20"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/394175/permenaker-no-9-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:41:07Z"
+}

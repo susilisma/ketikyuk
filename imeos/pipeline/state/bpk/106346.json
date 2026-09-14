@@ -1,0 +1,72 @@
+{
+ "id": "UU-2019-8",
+ "source": "bpk",
+ "bpk_id": 106346,
+ "url": "https://peraturan.bpk.go.id/Details/106346/uu-no-8-tahun-2019",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "8",
+ "number_raw": "8",
+ "year": 2019,
+ "title": "Undang-undang (UU) Nomor 8 Tahun 2019 tentang Penyelenggaraan Ibadah Haji dan Umrah",
+ "about": "Penyelenggaraan Ibadah Haji dan Umrah",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KEAGAMAAN, IBADAH, DAN PENYELENGGARAAN HAJI",
+ "field": "",
+ "date_enacted": "2019-04-26",
+ "date_promulgated": "2019-04-29",
+ "date_effective": "2019-04-29",
+ "gazette": "LN.2019/NO.75, TLN NO.6338, LL SETKAB : 63 HLM.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2025-14",
+   "target_bpk_id": 331538,
+   "label": "UU No. 14 Tahun 2025",
+   "about": "Perubahan Ketiga atas Undang-Undang Nomor 8 Tahun 2019 tentang Ibadah Haji dan Umrah"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 234926,
+   "label": "PERPU No. 2 Tahun 2022",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-2009-34",
+   "target_bpk_id": 38774,
+   "label": "UU No. 34 Tahun 2009",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2009 tentang Perubahan Atas Undang-Undang Nomor 13 Tahun 2008 tentang Penyelenggaraan Ibadah Haji Menjadi Undang-Undang"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-2008-13",
+   "target_bpk_id": 39044,
+   "label": "UU No. 13 Tahun 2008",
+   "about": "Penyelenggaraan Ibadah Haji"
+  }
+ ],
+ "abstract": "Negara menjamin kemerdekaan tiap-tiap penduduk untuk memeluk agamanya masing-masing dan untuk beribadat menurut agama dan kepercayaannya itu. Salah satu jaminan negara atas kemerdekaan beribadah ialah memberikan pembinaan, pelayanan, dan pelindungan bagi warga negara yang menunaikan ibadah haji dan umrah secara aman, nyaman, tertib, dan sesuai dengan ketentuan syariat. Semakin meningkatnya jumlah warga negara untuk menunaikan ibadah haji dan umrah, perlu peningkatan kualitas penyelenggaraan ibadah haji dan umrah secara aman, nyaman, tertib, dan sesuai dengan ketentuan syariat.\nPasal 20, Pasal 21, dan Pasal 29 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945\nBAB I Ketentuan Umum\nBAB II Jemaah Haji\nBAB III Penyelenggaraan Ibadah Haji Reguler\nBAB IV Biaya Penyelenggaraan Ibadah Haji\nBAB V Kelompok Bimbingan Ibadah Haji dan Umrah\nBAB VI Penyelenggaraan Ibadah Haji Khusus\nBAB VII Penyelenggaraan Ibadah Umrah\nBAB VIII Koordinasi\nBAB IX Peran Serta Masyarakat\nBAB X Penyidikan\nBAB XI Larangan\nBAB XII Ketentuan Pidana\nBAB XIII Ketentuan Peralihan\nBAB XIV Ketentuan Penutup",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 29 April 2019.\nUndang-Undang Nomor 13 Tahun 2008 tentang Penyelenggaraan Ibadah Haji sebagaimana telah diubah dengan Undang-Undang Nomor 34 Tahun 2009 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2009 tentang Perubahan atas Undang-Undang Nomor 13 Tahun 2008 tentang Penyelenggaraan Ibadah Haji menjadi Undang-Undang.\n20",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/97310/UU%20Nomor%208%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:23:45Z"
+}

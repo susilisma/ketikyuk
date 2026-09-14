@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2008-80",
+ "source": "bpk",
+ "bpk_id": 42257,
+ "url": "https://peraturan.bpk.go.id/Details/42257/perpres-no-80-tahun-2008",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "80",
+ "number_raw": "80",
+ "year": 2008,
+ "title": "Peraturan Presiden (Perpres) Nomor 80 Tahun 2008 tentang Perubahan Atas Keputusan Presiden Nomor 75 Tahun 1999 Tentang Komisi Pengawas Persaingan Usaha",
+ "about": "Perubahan Atas Keputusan Presiden Nomor 75 Tahun 1999 Tentang Komisi Pengawas Persaingan Usaha",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA",
+ "field": "",
+ "date_enacted": "2008-12-30",
+ "date_promulgated": null,
+ "date_effective": "2008-12-30",
+ "gazette": "LLSETKAB : 4 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-100",
+   "target_bpk_id": 298849,
+   "label": "Perpres No. 100 Tahun 2024",
+   "about": "Komisi Pengawas Persaingan Usaha"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 58433,
+   "label": "KEPPRES No. 75 Tahun 1999",
+   "about": "Komisi Pengawas Persaingan Usaha"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 30 Desember 2008.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/70752/PERPRES%20NO%2080%20TH%202008.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:29:56Z"
+}

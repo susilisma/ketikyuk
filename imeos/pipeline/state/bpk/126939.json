@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2012-111",
+ "source": "bpk",
+ "bpk_id": 126939,
+ "url": "https://peraturan.bpk.go.id/Details/126939/pmk-no-111pmk072012",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "111",
+ "number_raw": "111/PMK.07/2012",
+ "year": 2012,
+ "title": "Peraturan Menteri Keuangan Nomor 111/PMK.07/2012 Tahun 2012 tentang Tata Cara Penerbitan dan Pertanggungjawaban Obligasi Daerah",
+ "about": "Tata Cara Penerbitan dan Pertanggungjawaban Obligasi Daerah",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PASAR MODAL DAN PERDAGANGAN BERJANGKA KOMODITI",
+ "field": "",
+ "date_enacted": "2012-06-29",
+ "date_promulgated": "2012-06-29",
+ "date_effective": "2012-06-29",
+ "gazette": "BN.2012/NO.666, jdih.kemenkeu.go.id : 6 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-87",
+   "target_bpk_id": 307186,
+   "label": "PMK No. 87 Tahun 2024",
+   "about": "Tata Cara Panerbitan dan Pembelian Kembali Obligasi Daerah dan Sukuk Daerah Oleh Pemerintah Daerah"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2015-180",
+   "target_bpk_id": 121748,
+   "label": "PMK No. 180/PMK.07/2015",
+   "about": "Perubahan Atas Peraturan Menteri Keuangan Nomor 111/PMK.07/2012 Tentang Tata Cara Penerbitan Dan Pertanggungjawaban Obligasi Daerah"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 29 Juni 2012.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/117962/2012%20PMK%20111.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:34:37Z"
+}

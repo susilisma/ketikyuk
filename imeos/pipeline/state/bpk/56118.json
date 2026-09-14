@@ -1,0 +1,100 @@
+{
+ "id": "KEPPRES-2003-30",
+ "source": "bpk",
+ "bpk_id": 56118,
+ "url": "https://peraturan.bpk.go.id/Details/56118/keppres-no-30-tahun-2003",
+ "form": "KEPPRES",
+ "form_long": "Keputusan Presiden (Keppres)",
+ "number": "30",
+ "number_raw": "30",
+ "year": 2003,
+ "title": "Keputusan Presiden (Keppres) Nomor 30 Tahun 2003 tentang Perubahan Atas Keputusan Presiden Nomor 103 Tahun 2001 Tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, Dan Tata Kerja Lembaga Pemerintah Non Departemen Sebagaimana Telah Beberapa Kali Diubah Terakhir Dengan Keputusan Presiden Nomor 46 Tahun 2002",
+ "about": "Perubahan Atas Keputusan Presiden Nomor 103 Tahun 2001 Tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, Dan Tata Kerja Lembaga Pemerintah Non Departemen Sebagaimana Telah Beberapa Kali Diubah Terakhir Dengan Keputusan Presiden Nomor 46 Tahun 2002",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA - STRUKTUR ORGANISASI",
+ "field": "",
+ "date_enacted": "2003-05-26",
+ "date_promulgated": null,
+ "date_effective": "2003-05-26",
+ "gazette": "",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PERPRES-2024-180",
+   "target_bpk_id": 306857,
+   "label": "Perpres No. 180 Tahun 2024",
+   "about": "Kementerian Kependudukan dan Pembangunan Keluarga"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2015-145",
+   "target_bpk_id": 41905,
+   "label": "PERPRES No. 145 Tahun 2015",
+   "about": "Perubahan Kedelapan atas Keputusan Presiden Nomor 103 Tahun 2001 tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, dan Tata Kerja Lembaga Pemerintah Non Kementerian"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2013-3",
+   "target_bpk_id": 41373,
+   "label": "PERPRES No. 3 Tahun 2013",
+   "about": "Perubahan Ketujuh atas Keputusan Presiden Nomor 103 Tahun 2001 tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, dan Tata Kerja Lembaga Pemerintah Non Kementerian"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2005-64",
+   "target_bpk_id": 42591,
+   "label": "PERPRES No. 64 Tahun 2005",
+   "about": "Perubahan Keenam atas Keputusan Presiden Nomor 103 Tahun 2001 Tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, dan Tata Kerja Lembaga Pemerintah Non Departemen"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 55563,
+   "label": "KEPPRES No. 9 Tahun 2004",
+   "about": "Perubahan Atas Keputusan Presiden Nomor 103 Tahun 2001 Tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, Dan Tata Kerja Lembaga Pemerintah Non Departemen Sebagaimana Telah Beberapa Kali Diubah Terakhir Dengan Keputusan Presiden Nomor 30 Tahun 2003"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 56694,
+   "label": "KEPPRES No. 46 Tahun 2002",
+   "about": "Perubahan Atas Keputusan Presiden Nomor 103 Tahun 2001 Tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, Dan Tata Kerja Lembaga Pemerintah Non Departemen Sebagaimana Telah Diubah Dengan Keputusan Presiden Nomor 3 Tahun 2002"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 56126,
+   "label": "KEPPRES No. 34 Tahun 2003",
+   "about": "Kebijakan Nasional Di Bidang Pertanahan"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 56694,
+   "label": "KEPPRES No. 46 Tahun 2002",
+   "about": "Perubahan Atas Keputusan Presiden Nomor 103 Tahun 2001 Tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, Dan Tata Kerja Lembaga Pemerintah Non Departemen Sebagaimana Telah Diubah Dengan Keputusan Presiden Nomor 3 Tahun 2002"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 56485,
+   "label": "KEPPRES No. 3 Tahun 2002",
+   "about": "Perubahan Atas Keputusan Presiden Nomor 103 Tahun 2001 Tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, Dan Tata Kerja Lembaga Pemerintah Non Departemen"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 57340,
+   "label": "KEPPRES No. 103 Tahun 2001",
+   "about": "Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, dan Tata Kerja Lembaga Pemerintah Non Departemen"
+  }
+ ],
+ "abstract": "",
+ "note": "Keputusan Presiden (KEPPRES) ini mulai berlaku pada tanggal 26 Mei 2003.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/45604/KEPPRES%20No.30%20TH%202003.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:27:19Z"
+}

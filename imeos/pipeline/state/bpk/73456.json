@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2017-112",
+ "source": "bpk",
+ "bpk_id": 73456,
+ "url": "https://peraturan.bpk.go.id/Details/73456/perpres-no-112-tahun-2017",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "112",
+ "number_raw": "112",
+ "year": 2017,
+ "title": "Peraturan Presiden (Perpres) Nomor 112 Tahun 2017 tentang Tunjangan Kinerja Pegawai di Lingkungan Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan",
+ "about": "Tunjangan Kinerja Pegawai di Lingkungan Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA",
+ "field": "",
+ "date_enacted": "2017-12-15",
+ "date_promulgated": "2017-12-15",
+ "date_effective": "2017-12-15",
+ "gazette": "LN.2017/NO.256, LL SETKAB : 5 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-102",
+   "target_bpk_id": 302982,
+   "label": "Perpres No. 102 Tahun 2024",
+   "about": "Tunjangan Kinerja Pegawai di Lingkungan Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2015-109",
+   "target_bpk_id": 41858,
+   "label": "PERPRES No. 109 Tahun 2015",
+   "about": "Tunjangan Kinerja Pegawai di Lingkungan Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 15 Desember 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/63946/Perpres%20Nomor%20112%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:29:51Z"
+}

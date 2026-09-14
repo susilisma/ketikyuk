@@ -1,0 +1,44 @@
+{
+ "id": "PERMENDAG-2021-22",
+ "source": "bpk",
+ "bpk_id": 166542,
+ "url": "https://peraturan.bpk.go.id/Details/166542/permendag-no-22-tahun-2021",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "22",
+ "number_raw": "22",
+ "year": 2021,
+ "title": "Peraturan Menteri Perdagangan Nomor 22 Tahun 2021 tentang Tata Cara Pelaporan Distribusi",
+ "about": "Tata Cara Pelaporan Distribusi",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "",
+ "date_enacted": "2021-04-01",
+ "date_promulgated": "2021-04-01",
+ "date_effective": "2021-05-01",
+ "gazette": "BN.2021/No. 278; http://jdih.kemendag.go.id : 8 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2025-41",
+   "target_bpk_id": 337417,
+   "label": "Permendag No. 41 Tahun 2025",
+   "about": "Tata Cara Pelaporan Distribusi Barang Kebutuhan Pokok dan Barang Penting"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2017-20",
+   "target_bpk_id": 128672,
+   "label": "Permendag No. 20/M-DAG/PER/3/2017 Tahun 2017",
+   "about": "Pendaftaran Pelaku Usaha Distribusi Barang Kebutuhan Pokok"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 01 Mei 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/269170/Permendag%20Nomor%2022%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:36:42Z"
+}

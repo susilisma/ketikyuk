@@ -1,0 +1,43 @@
+{
+ "id": "PERPRES-2025-102",
+ "source": "bpk",
+ "bpk_id": 330902,
+ "url": "https://peraturan.bpk.go.id/Details/330902/perpres-no-102-tahun-2025",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "102",
+ "number_raw": "102",
+ "year": 2025,
+ "title": "Peraturan Presiden (Perpres) Nomor 102 Tahun 2025 tentang Perubahan atas Peraturan Presiden Nomor 121 Tahun 2022 tentang Badan Pengarah Percepatan Pembangunan Otonomi Khusus Papua",
+ "about": "Perubahan atas Peraturan Presiden Nomor 121 Tahun 2022 tentang Badan Pengarah Percepatan Pembangunan Otonomi Khusus Papua",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH - PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-10-07",
+ "date_promulgated": "2025-10-07",
+ "date_effective": "2025-10-07",
+ "gazette": "LN 2025 (164): 11 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2022-121",
+   "target_bpk_id": 230044,
+   "label": "PERPRES No. 121 Tahun 2022",
+   "about": "Badan Pengarah Percepatan Pembangunan Otonomi Khusus Papua"
+  }
+ ],
+ "abstract": "Dalam rangka mewujudkan percepatan pembangunan dan pelaksanaan Otonomi Khusus di wilayah Papua, Peraturan Presiden Nomor 121 Tahun 2022 tentang Badan Pengarah Percepatan Pembangunan Otonomi Khusus Papua perlu diubah.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD 1945; UU Nomor 21 Tahun 2001; UU Nomor 23 Tahun 2014; PP Nomor 106 Tahun 2021; PP Nomor 107 Tahun 2021; dan Perpres Nomor 121 Tahun 2022.\nPerpres ini mengubah beberapa ketentuan dalam Peraturan Presiden Nomor 121 Tahun 2022 tentang Badan Pengarah Percepatan Pembangunan Otonomi Khusus Papua (Lembaran Negara Republik Indonesia Tahun 2022 Nomor 201).",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 07 Oktober 2025.\nPerpres ini mengubah Perpres Nomor 121 Tahun 2022.\nLampiran file: 11 hlm.",
+ "citations": [
+  "PERPRES-2022-121",
+  "UU-2001-21",
+  "UU-2014-23",
+  "PP-2021-106",
+  "PP-2021-107"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/392919/Perpres%20Nomor%20102%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:33Z"
+}

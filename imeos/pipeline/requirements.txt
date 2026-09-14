@@ -1,0 +1,6 @@
+requests>=2.31
+pypdf>=4.0
+anthropic>=0.60
+pymupdf>=1.24
+pytesseract>=0.3.10
+pillow>=10.0

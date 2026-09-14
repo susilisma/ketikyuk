@@ -1,0 +1,48 @@
+{
+ "id": "PMK-2022-60",
+ "source": "bpk",
+ "bpk_id": 215498,
+ "url": "https://peraturan.bpk.go.id/Details/215498/pmk-no-60pmk032022",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "60",
+ "number_raw": "60/PMK.03/2022",
+ "year": 2022,
+ "title": "Peraturan Menteri Keuangan Nomor 60/PMK.03/2022 Tahun 2022 tentang Tata Cara Penunjukan Pemungut, Pemungutan, Penyetoran, dan Pelaporan Pajak Pertambahan Nilai atas Pemanfaatan Barang Kena Pajak Tidak Berwujud dan/atau Jasa Kena Pajak dari Luar Daerah Pabean di Dalam Daerah Pabean melalui Perdagangan melalui Sistem Elektronik",
+ "about": "Tata Cara Penunjukan Pemungut, Pemungutan, Penyetoran, dan Pelaporan Pajak Pertambahan Nilai atas Pemanfaatan Barang Kena Pajak Tidak Berwujud dan/atau Jasa Kena Pajak dari Luar Daerah Pabean di Dalam Daerah Pabean melalui Perdagangan melalui Sistem Elektronik",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN - PERPAJAKAN",
+ "field": "",
+ "date_enacted": "2022-03-30",
+ "date_promulgated": "2022-03-30",
+ "date_effective": "2022-04-01",
+ "gazette": "BN.2022/NO. 360; https:jdih.kemenkeu.go.id :17 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-81",
+   "target_bpk_id": 306614,
+   "label": "PMK No. 81 Tahun 2024",
+   "about": "Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2020-48",
+   "target_bpk_id": 136933,
+   "label": "PMK No. 48/PMK.03/2020",
+   "about": "Tata Cara Penunjukan Pemungut, Pemungutan, Dan Penyetoran, Serta Pelaporan Pajak Pertambahan Nilai Atas Pemanfaatan Barang Kena Pajak Tidak Berwujud Dan/Atau Jasa Kena Pajak Dari Luar Daerah Pabean Di Dalam Daerah Pabean Melalui Perdagangan Melalui Sistem Elektronik"
+  }
+ ],
+ "abstract": "Bahwa Peraturan Menteri Keuangan Nomor 48/PMK.03/2020 tentang Tata Cara\nPenunjukan Pemungut, Pemungutan, dan Penyetoran, serta Pelaporan Pajak\nPertambahan Nilai atas Pemanfaatan Barang Kena Pajak Tidak Berwujud dan/atau Jasa\nKena Pajak dari Luar Daerah Pabean di Dalam Daerah Pabean melalui Perdagangan\nmelalui Sistem Elektronik belum dapat menampung perkembangan pengaturan\npenyesuaian tarif Pajak Pertambahan Nilai. Untuk lebih memberikan kepastian hukum,\nkeadilan, dan menyelaraskan ketentuan mengenai tarif pajak pertambahan nilai dan\npelaporan pajak pertambahan nilai, serta untuk melaksanakan ketentuan Pasal 44E\nayat (2) huruf f Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan\nTata Cara Perpajakan sebagaimana telah beberapa kali diubah terakhir dengan\nUndang-Undang Nomor 7 Tahun 2021 tentang Harmonisasi Peraturan Perpajakan,\nperlu menetapkan Peraturan Menteri Keuangan tentang Tata Cara Penunjukan\nPemungut, Pemungutan, Penyetoran, dan Pelaporan Pajak Pertambahan Nilai atas\nPemanfaatan Barang Kena Pajak Tidak Berwujud dan/atau Jasa Kena Pajak dari Luar\nDaerah Pabean di Dalam Daerah Pabean melalui Perdagangan melalui Sistem\nElektronik.\nPasal 17 ayat (3) UUD Tahun 1945, UU 6 Tahun 1983 (LN Tahun 1983 No. 49, TLN No.\n3262) sebagaimana telah beberapa kali diubah terakhir dengan UU 7 Tahun 2021 (LN\nTahun 2021 No. 246, TLN No. 6736), UU 8 Tahun 1983 (LN Tahun 1983 No. 51, TLN No.\n3264) sebagaimana telah beberapa kali diubah terakhir dengan UU 7 Tahun 2021 (LN\nTahun 2021 No. 246, TLN No. 6736), UU 39 Tahun 2008 (LN Tahun 2008 No. 166, TLN\nNo. 4916), Perpres 57 Tahun 2020 (LN Tahun 2020 No. 98), Permenkeu RI\n118/PMK.01/2021 (BN Tahun 2021 No. 1031).\nDalam Peraturan Menteri Keuangan Republik Indonesia ini diatur:\nPajak Pertambahan Nilai dikenakan atas pemanfaatan Barang Kena Pajak tidak\nberwujud dan/atau Jasa Kena Pajak dari luar Daerah Pabean di dalam Daerah Pabean\nmelalui Perdagangan Melalui Sistem Elektronik. Pajak Pertambahan Nilai dipungut,\ndisetorkan, dan dilaporkan oleh Pelaku Usaha Perdagangan Melalui Sistem Elektronik\nyang ditunjuk oleh Menteri. Pajak Pertambahan Nilai yang terutang atas pemanfaatan\nBarang Kena Pajak tidak berwujud dan/atau Jasa Kena Pajak dari luar Daerah Pabean\ndi dalam Daerah Pabean yang berasal dari transaksi antara Pedagang Luar Negeri atau\nPenyedia Jasa Luar Negeri dan Pembeli Barang dan/atau Penerima Jasa secara\nlangsung, dipungut, disetorkan, dan dilaporkan oleh Pedagang Luar Negeri atau\nPenyedia Jasa Luar Negeri tersebut yang ditunjuk sebagai Pemungut Pajak\nPertambahan Nilai Perdagangan Melalui Sistem Elektronik. Pelaku Usaha Perdagangan\nMelalui Sistem Elektronik yang ditunjuk sebagai Pemungut Pajak Pertambahan Nilai\nPerdagangan Melalui Sistem Elektronik merupakan Pelaku Usaha Perdagangan Melalui\nSistem Elektronik yang telah memenuhi kriteria tertentu. Pajak Pertambahan Nilai yang harus dipungut oleh Pemungut Pajak Pertambahan Nilai Perdagangan Melalui Sistem Elektronik yaitu: sebesar 11% (sebelas persen) dikalikan dengan dasar pengenaan pajak, yang mulai berlaku pada tanggal 1 April 2022; dan sebesar 12% (dua belas persen) dikalikan dengan dasar pengenaan pajak, yang mulai berlaku pada saat diberlakukannya penerapan tarif Pajak Pertambahan Nilai sebagaimana diatur dalam\nPasal 7 ayat (1) huruf b Undang-Undang Pajak Pertambahan Nilai.",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 01 April 2022.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 48/PMK.03/2020 tentang Tata Cara Penunjukan Pemungut, Pemungutan, dan Penyetoran, serta Pelaporan Pajak Pertambahan Nilai atas Pemanfaatan Barang Kena Pajak Tidak Berwujud dan/atau Jasa Kena Pajak dari Luar Daerah Pabean di Dalam Daerah Pabean melalui Perdagangan melalui Sistem Elektronik (Berita Negara Republik Indonesia Tahun 2020 Nomor 445), dicabut dan dinyatakan tidak berlaku.\n17 HLM",
+ "citations": [
+  "PMK-2020-48",
+  "UU-1983-6",
+  "UU-2021-7"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/209780/60_PMK.03_2022.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:34:49Z"
+}

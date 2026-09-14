@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2024-127",
+ "source": "bpk",
+ "bpk_id": 313088,
+ "url": "https://peraturan.bpk.go.id/Details/313088/pmk-no-127-tahun-2024",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "127",
+ "number_raw": "127",
+ "year": 2024,
+ "title": "Peraturan Menteri Keuangan Nomor 127 Tahun 2024 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 65 Tahun 2024 tentang Peta Kapasitas Fiskal Daerah",
+ "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 65 Tahun 2024 tentang Peta Kapasitas Fiskal Daerah",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PENGELOLAAN KEUANGAN NEGARA / DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-12-31",
+ "date_promulgated": "2024-12-31",
+ "date_effective": "2024-12-31",
+ "gazette": "BN 2024 (1104) : 2 hlm.; jdih.kemenkeu.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PMK-2024-65",
+   "target_bpk_id": 305647,
+   "label": "PMK No. 65 Tahun 2024",
+   "about": "Peta Kapasitas Fiskal Daerah"
+  }
+ ],
+ "abstract": "Untuk pemutakhiran data peta kapasitas fiskal daerah, perlu dilakukan penyesuaian terhadap rincian peta kapasitas fiskal daerah sebagaimana tercantum dalam Lampiran Peraturan Menteri Keuangan Nomor 65 Tahun 2024 tentang Peta Kapasitas Fiskal Daerah.\nDasar hukum PMK ini adalah Pasal 17 ayat (3) UUD 1945; UU Nomor 39 Tahun 2008; PP Nomor 2 Tahun 2012; PP Nomor 1 Tahun 2024; Perpres Nomor 158 Tahun 2024; PMK Nomor 65 Tahun 2024; dan PMK Nomor 124 Tahun 2024.\nPMK ini mengubah ketentuan yang ada pada Lampiran Peraturan Menteri Keuangan Nomor 65 Tahun 2024 tentang Peta Kapasitas Fiskal Daerah (Berita Negara Republik Indonesia Tahun 2024 Nomor 628) diubah, sehingga menjadi sebagaimana tercantum dalam Lampiran yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 31 Desember 2024.\nPMK ini mengubah PMK Nomor 65 Tahun 2024.\nLampiran file: 22 hlm (batang tubuh hlm 1 sd 2, lampiran hlm 3 sd 22)",
+ "citations": [
+  "PMK-2024-65",
+  "UU-2008-39",
+  "PP-2012-2",
+  "PP-2024-1",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/373939/2024pmkeuangan127.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:34:04Z"
+}

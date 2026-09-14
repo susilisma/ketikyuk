@@ -1,0 +1,65 @@
+{
+ "id": "PERMENKOMINFO-2019-2",
+ "source": "bpk",
+ "bpk_id": 255615,
+ "url": "https://peraturan.bpk.go.id/Details/255615/permenkominfo-no-2-tahun-2019",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Informatika",
+ "number": "2",
+ "number_raw": "2",
+ "year": 2019,
+ "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 2 Tahun 2019 tentang Penggunaan Spektrum Frekuensi Radio untuk Keperluan Microwave Link Titik ke Titik (Point - To - Point)",
+ "about": "Penggunaan Spektrum Frekuensi Radio untuk Keperluan Microwave Link Titik ke Titik (Point - To - Point)",
+ "issuer": "Kementerian Komunikasi dan Informatika",
+ "subject": "TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET - SISTEM PENGENDALIAN INTERN",
+ "field": "",
+ "date_enacted": "2019-05-19",
+ "date_promulgated": "2019-05-29",
+ "date_effective": "2019-05-29",
+ "gazette": "BN 2019 (616): 11 Halaman, jdih.kominfo.go.id",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 309376,
+   "label": "Permenkominfo No. 8 Tahun 2024",
+   "about": "Penggunaan Spektrum Frekuensi Radio untuk Sistem Komunikasi Microwave Link"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 150117,
+   "label": "Permenkominfo No. 13 Tahun 2017",
+   "about": "Perubahan atas Peraturan Menteri Komunikasi dan Informatika Nomor 33 Tahun 2015 tentang Perencanaan Penggunaan Pita Frekuensi Radio Microwave Link Titik Ke Titik (Point-To-Point)"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 151146,
+   "label": "Permenkominfo No. 34 Tahun 2015",
+   "about": "Persyaratan Teknis Perangkat Komunikasi Radio Microwave Link Titik ke Titik Dengan Sistem Digital Hybrid"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 151145,
+   "label": "Permenkominfo No. 33 Tahun 2015",
+   "about": "Perencanaan Penggunaan Pita Frekuensi Radio Microwave Link Titik Ke Titik (Point-To-Point)"
+  }
+ ],
+ "abstract": "Dalam rangka simplifikasi regulasi serta memberikan kemudahan kepada masyarakat dari para pemangku kepentingan perlu menggabungkan Peraturan Menteri Komunikasi dan Informatika Nomor 33 Tahun 2015 tentang Perencanaan Penggunaan Pita Frekuensi Radio Microwave Link Titik ke Titik (Point-to-Point) dan Peraturan Menteri Komunikasi dan Informatika Nomor 34 Tahun 2015 tentang Persyaratan Teknis Perangkat Komunikasi Radio Microwave Link Titik ke Titik dengan Sistem Digital Hybrid.\nDasar Hukum Peraturan Kominfo ini adalah; UU No. 36 Tahun 1999; PP No. 52 Tahun 2000; PP No. 53 Tahun 2000; Perpres No. 54 Tahun 2015; Peraturan Kominfo No. 6 Tahun 2018; Peraturan Kominfo No. 9 Tahun 2018; dan Peraturan Kominfo No. 13 Tahun 2018.\nPeraturan menteri ini mengatur tentang penggunaan spektrum frekuensi radio untuk keperluan microwave Link Titik ke Titik (Point-to-Point) dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Setiap Alat dan/atau Perangkat Microwave Link Titik ke Titik (Point-to-Point) yang dibuat, dirakit, dimasukkan untuk diperdagangkan dan/atau digunakan di Wilayah Negara Kesatuan Republik Indonesia wajib memenuhi persyaratan teknis sebagaimana tercantum dalam Lampiran II yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini. Pemenuhan persyaratan teknis dimaksud dibuktikan dengan sertifikat yang diterbitkan melalui Sertifikasi sesuai dengan ketentuan peraturan perundang-undangan.",
+ "note": "Peraturan Menteri Komunikasi dan Informatika ini mulai berlaku pada tanggal 29 Mei 2019.\nPeraturan menteri ini mencabut Peraturan Menteri Komunikasi dan Informatika Nomor 33 Tahun 2015, Peraturan Menteri Komunikasi dan Informatika Nomor 34 Tahun 2015, dan Peraturan Direktur Jenderal Pos dan Telekomunikasi Nomor 193/DIRJEN/2005.\nLampiran File; 65 Halaman",
+ "citations": [
+  "PERMENKOMINFO-2015-33",
+  "PERMENKOMINFO-2015-34",
+  "UU-1999-36",
+  "PP-2000-52",
+  "PP-2000-53",
+  "PERPRES-2015-54"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/312303/2019permen2..pdf"
+ ],
+ "fetched_at": "2026-09-14T06:42:00Z"
+}

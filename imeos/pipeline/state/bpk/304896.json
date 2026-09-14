@@ -1,0 +1,41 @@
+{
+ "id": "PP-2024-42",
+ "source": "bpk",
+ "bpk_id": 304896,
+ "url": "https://peraturan.bpk.go.id/Details/304896/pp-no-42-tahun-2024",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "42",
+ "number_raw": "42",
+ "year": 2024,
+ "title": "Peraturan Pemerintah (PP) Nomor 42 Tahun 2024 tentang Penyelenggaraan Bidang Jaminan Produk Halal",
+ "about": "Penyelenggaraan Bidang Jaminan Produk Halal",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KEAGAMAAN, IBADAH, DAN PENYELENGGARAAN HAJI - PERLINDUNGAN KONSUMEN - PANGAN, PERTANIAN DAN PETERNAKAN - PERIZINAN, PELAYANAN PUBLIK - PEREKONOMIAN - KEBIJAKAN PEMERINTAH - STANDAR / PEDOMAN - CIPTA KERJA",
+ "field": "HUKUM DAGANG",
+ "date_enacted": "2024-10-17",
+ "date_promulgated": "2024-10-17",
+ "date_effective": "2024-10-17",
+ "gazette": "LN 2024 (229), TLN (6998) : 74 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PP-2021-39",
+   "target_bpk_id": 161927,
+   "label": "PP No. 39 Tahun 2021",
+   "about": "Penyelenggaraan Bidang Jaminan Produk Halal"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 21 ayat (3), Pasal 46 ayat (3), Pasal 47 ayat (4), Pasal 52, Pasal 67 ayat (3), Pasal 48 angka 7, Pasal 48 angka 10, Pasal 48 angka 11, Pasal 48 angka 13, Pasal 48 angka 14, Pasal 48 angka 15, Pasal 48 angka 17, Pasal 48 angka 19, Pasal 48 angka 20, Pasal 48 angka 23, Pasal 48 angka 24, Pasal 48 angka 25, Pasal 48 angka 27, dan Pasal 48 angka 31 Undang-Undang Nomor 33 Tahun 2014 tentang Jaminan produk Halal sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang penetapan Peraturan Pemerintah pengganti undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang, perlu menetapkan Peraturan Pemerintah tentang Penyelenggaraan Bidang Jaminan produk Halal.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD NRI Tahun 1945 dan UU Nomor 33 Tahun 2014.\nPeraturan Pemerintah tentang Penyelenggaraan Bidang Jaminan produk Halal dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Peraturan ini mengatur mengenai Jaminan Produk Halal (JPH) yang merupakan kepastian hukum terhadap kehalalan suatu produk yang dibuktikan dengan sertifikat halal. Produk adalah barang dan/atau jasa yang terkait dengan makanan, minuman, obat, kosmetik, produk kimiawi, produk biologi, produk rekayasa genetik, serta barang gunaan yang dipakai, digunakan, atau dimanfaatkan oleh masyarakat. Produk yang masuk, beredar, dan diperdagangkan di wilayah Indonesia wajib bersertifikat halal. Produk yang berasal dari Bahan yang diharamkan dikecualikan dari kewajiban bersertifikat halal dan wajib diberikan keterangan tidak halal.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 17 Oktober 2024.\nPada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 39 Tahun 2021 tentang Penyelenggaraan Bidang Jaminan Produk Halal (Lembaran Negara Republik Indonesia Tahun 2O21 Nomor 49, Tambahan Lembaran Negara Republik Indonesia Nomor 6651), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 96 hlm (batang tubuh hlm 1 sd 74, lampiran hlm 75 sd 96)",
+ "citations": [
+  "UU-2014-33",
+  "UU-2023-6",
+  "PERPPU-2022-2"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/365010/PP%20Nomor%2042%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:29:52Z"
+}

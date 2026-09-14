@@ -1,0 +1,44 @@
+{
+ "id": "PERMENPERIN-2025-37",
+ "source": "bpk",
+ "bpk_id": 333111,
+ "url": "https://peraturan.bpk.go.id/Details/333111/permenperin-no-37-tahun-2025",
+ "form": "PERMENPERIN",
+ "form_long": "Peraturan Menteri Perindustrian",
+ "number": "37",
+ "number_raw": "37",
+ "year": 2025,
+ "title": "Peraturan Menteri Perindustrian Nomor 37 Tahun 2025 tentang Standar Kegiatan Usaha dan/atau Standar Produk/Jasa pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Perindustrian",
+ "about": "Standar Kegiatan Usaha dan/atau Standar Produk/Jasa pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Perindustrian",
+ "issuer": "Kementerian Perindustrian",
+ "subject": "PERIZINAN, PELAYANAN PUBLIK - PERINDUSTRIAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-10-02",
+ "date_promulgated": "2025-10-03",
+ "date_effective": "2025-10-05",
+ "gazette": "BN.2025 (739/38 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENPERIN-2021-9",
+   "target_bpk_id": 205773,
+   "label": "Permenperin No. 9 Tahun 2021",
+   "about": "Standar Kegiatan Usaha Dan/Atau Produk Pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Perindustrian"
+  }
+ ],
+ "abstract": "bahwa untuk melaksanakan ketentuan Pasal 5 ayat (7),\nPasal 151 ayat (4), Pasal 279, Pasal 422 ayat (2), dan Pasal\n423 ayat (3) Peraturan Pemerintah Nomor 28 Tahun 2025\ntentang Penyelenggaraan Perizinan Berusaha Berbasis\nRisiko, perlu Peraturan Menteri Perindustrian tentang\nStandar Kegiatan Usaha dan/atau Standar Produk/Jasa\npada Penyelenggaraan Perizinan Berusaha Berbasis Risiko\nSektor Perindustrian;\nPasal 17 ayat (3) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 3 Tahun 2014, Peraturan Pemerintah Nomor 20 Tahun 2024, Peraturan Pemerintah Nomor 28 Tahun 2025, Peraturan Presiden Nomor 167 Tahun 2024 dan Peraturan Menteri Perindustrian Nomor 1 Tahun 2025\nPeraturan ini mengatur tentang ketentuan umum, standar kegiatan usaha dan standar produk dan/atau jasa, mekanisme penerbitan, industri tertentu yang dikecualikan dari kewajiban berlokasi di kawasan industri, sanksi administratif, ketentuan lain-lain, ketentuan peralihan dan ketentuan penutup.",
+ "note": "Peraturan Menteri Perindustrian ini mulai berlaku pada tanggal 05 Oktober 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas:\na. Peraturan Menteri Perindustrian Nomor 15 Tahun 2019\ntentang Penerbitan Izin Usaha Industri dan Izin\nPerluasan dalam Kerangka Pelayanan Perizinan\nBerusaha Terintegrasi Secara Elektronik;\nb. Peraturan Menteri Perindustrian Nomor 45 Tahun 2019\ntentang Tata Cara Pemberian Izin Usaha Kawasan\nIndustri dan Izin Perluasan Kawasan Industri dalam\nKerangka Pelayanan Perizinan Berusaha Terintegrasi\nSecara Elektronik; dan\nPeraturan Menteri Perindustrian Nomor 9 Tahun 2021\ntentang Standar Kegiatan Usaha dan/atau Produk pada\nPenyelenggaraan Perizinan Berusaha Berbasis Risiko\nSektor Perindustrian.",
+ "citations": [
+  "PP-2025-28",
+  "UU-2008-39",
+  "UU-2014-3",
+  "PP-2024-20",
+  "PERPRES-2024-167",
+  "PERMENPERIN-2025-1"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/395302/permenperin-no-37-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:38:29Z"
+}

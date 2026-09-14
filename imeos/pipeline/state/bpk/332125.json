@@ -1,0 +1,44 @@
+{
+ "id": "PERMENAKER-2025-10",
+ "source": "bpk",
+ "bpk_id": 332125,
+ "url": "https://peraturan.bpk.go.id/Details/332125/permenaker-no-10-tahun-2025",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "10",
+ "number_raw": "10",
+ "year": 2025,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 10 Tahun 2025 tentang Pedoman Penyaluran Bantuan Pemerintah di",
+ "about": "Pedoman Penyaluran Bantuan Pemerintah di",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "STANDAR / PEDOMAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-10-13",
+ "date_promulgated": "2025-10-15",
+ "date_effective": "2025-10-15",
+ "gazette": "BN 2025 (820); 9 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENAKER-2024-13",
+   "target_bpk_id": 309864,
+   "label": "Permenaker No. 13 Tahun 2024",
+   "about": "Pedoman Penyaluran Bantuan Pemerintah di Kementerian Ketenagakerjaan Tahun Anggaran 2025"
+  }
+ ],
+ "abstract": "bahwa untuk mengoptimalkan program pendidikan dan\npelatihan vokasi serta program pembinaan\nketenagakerjaan, perlu penyaluran bantuan\npemerintah;\nbahwa berdasarkan ketentuan Pasal 6 ayat (1)\nPeraturan Menteri Keuangan Nomor 168/PMK.05/2015\ntentang Mekanisme Pelaksanaan Anggaran Bantuan\nPemerintah pada Kementerian Negara/Lembaga\nsebagaimana telah beberapa kali diubah terakhir\ndengan Peraturan Menteri Keuangan Nomor\n132/PMK.05/2021 tentang Perubahan Kedua atas\nPeraturan Menteri Keuangan Nomor 168/PMK.05/2015\ntentang Mekanisme Pelaksanaan Anggaran Bantuan\nPemerintah pada Kementerian Negara/Lembaga, perlu\nmengatur mengenai penyaluran bantuan pemerintah di\nlingkungan Kementerian Ketenagakerjaan\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD NRI Tahun 1945; UU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024; Perpres Nomor 164 Tahun 2024; PMK Nomor 168 Tahun 2015 sebagaimana telah beberapa kali diubah terakhir dengan PMK Nomor 132 Tahun 2021; Permenaker Nomor 20 Tahun 2024.\nPeraturan ini mengatur mengenai program, jenis, penerima, dan bentuk bantuan pemerintah; pembinaan; pemantauan, evaluasi, dan pelaporan",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 15 Oktober 2025.",
+ "citations": [
+  "PMK-2015-168",
+  "PMK-2021-132",
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2024-164",
+  "PERMENAKER-2024-20"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/394176/permenaker-no-10-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:41:05Z"
+}

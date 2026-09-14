@@ -1,0 +1,42 @@
+{
+ "id": "POJK-2024-8",
+ "source": "bpk",
+ "bpk_id": 301700,
+ "url": "https://peraturan.bpk.go.id/Details/301700/peraturan-ojk-no-8-tahun-2024",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "8",
+ "number_raw": "8",
+ "year": 2024,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 8 Tahun 2024 tentang Produk Asuransi dan Saluran Pemasaran Produk Asuransi",
+ "about": "Produk Asuransi dan Saluran Pemasaran Produk Asuransi",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2024-04-25",
+ "date_promulgated": "2024-04-29",
+ "date_effective": "2024-10-29",
+ "gazette": "LN.2024 (10)/57 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 128838,
+   "label": "Peraturan OJK No. 23 /POJK.05/2015 Tahun 2015",
+   "about": "Produk Asuransi dan Pemasaran Produk Asuransi"
+  }
+ ],
+ "abstract": "a. bahwa untuk melaksanakan ketentuan Pasal 5A dan Pasal 11 ayat (4) Undang-Undang Nomor 40 Tahun 2014 tentang Perasuransian sebagaimana telah diubah dengan Undang-Undang Nomor 4 Tahun 2023 tentang Pengembangan dan Penguatan Sektor Keuangan, diperlukan penyesuaian terhadap ketentuan mengenai penggunaan polis asuransi secara elektronik atau digital dan tata kelola perhitungan premi/kontribusi secara lebih hati-hati dalam rangka memastikan perusahaan asuransi atau perusahaan asuransi syariah dapat memenuhi seluruh kewajiban kepada pemegang polis, tertanggung, atau peserta;\nb. bahwa Peraturan Otoritas Jasa Keuangan Nomor 23/POJK.05/2015 tentang Produk Asuransi dan Pemasaran Produk Asuransi perlu disesuaikan dengan perkembangan inovasi produk asuransi dan pemasaran produk asuransi yang semakin variatif serta dinamis, sehingga perlu dilakukan penyederhanaan proses persetujuan produk asuransi dengan tetap mengedepankan aspek prudensial dan perilaku pasar;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Otoritas Jasa Keuangan tentang Produk Asuransi dan Saluran Pemasaran Produk Asuransi;\n1. Undang-Undang Nomor 21 Tahun 2011 tentang Otoritas Jasa Keuangan sebagaimana telah diubah dengan Undang-Undang Nomor 4 Tahun 2023 tentang Pengembangan dan Penguatan Sektor Keuangan\n2. Undang-Undang Nomor 40 Tahun 2014 tentang Perasuransian sebagaimana telah diubah dengan Undang-Undang Nomor 4 Tahun 2023 tentang Pengembangan dan Penguatan Sektor\nKeuangan (Lembaran Negara Republik Indonesia Tahun 2023 Nomor 4, Tambahan Lembaran Negara Republik Indonesia Nomor 6845)\n1. Bahwa untuk meningkatkan pelayanan proses perizinan kepada stakeholders yang efektif, perlu dilakukan penyempurnaan pengaturan mengenai produk asuransi dan saluran pemasaran produk asuransi yang selaras dengan perkembangan inovasi produk asuransi yang semakin variatif dan dinamis\n2. Penyempurnaan yang dilakukan antara lain mengenai jenis dan kriteria produk asuransi, penguatan ketentuan PAYDI, klausul polis asuransi, mekanisme perhitungan dan penetapan premi/kontribusi, mekanisme persetujuan dan pelaporan produk asuransi, penyelenggaraan produk asuransi secara digital, pemenuhan prinsip syariah, kajian atas pengembangan produk asuransi, pemantauan kinerja produk asuransi, komite pengembangan produk asuransi, dan penghentian produk asuransi",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 29 Oktober 2024.\n1. Peraturan Otoritas Jasa Keuangan Nomor 23/POJK.05/2015 tentang Produk Asuransi dan Pemasaran Produk Asuransi\n2. Pasal 50 Peraturan Otoritas Jasa Keuangan Nomor 73/POJK.05/2016 tentang Tata Kelola Perusahaan yang Baik untuk Perusahaan Perasuransian\ndicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "UU-2014-40",
+  "UU-2023-4",
+  "POJK-2015-23",
+  "UU-2011-21"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/361544/POJK%208%20Tahun%202024%20Produk%20Asuransi%20dan%20Saluran%20Pemasaran%20Produk%20Asuransi.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:44:34Z"
+}

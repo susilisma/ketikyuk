@@ -1,0 +1,48 @@
+{
+ "id": "POJK-2025-17",
+ "source": "bpk",
+ "bpk_id": 327332,
+ "url": "https://peraturan.bpk.go.id/Details/327332/peraturan-ojk-no-17-tahun-2025",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "17",
+ "number_raw": "17",
+ "year": 2025,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 17 Tahun 2025 tentang Penawaran Efek Melalui Layanan Urun Dana Berbasis Teknologi Informasi",
+ "about": "Penawaran Efek Melalui Layanan Urun Dana Berbasis Teknologi Informasi",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN - TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-07-11",
+ "date_promulgated": "2025-07-25",
+ "date_effective": "2025-07-25",
+ "gazette": "BN.2025 (25)/174 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 227227,
+   "label": "Peraturan OJK No. 16/POJK.04/2021 Tahun 2021",
+   "about": "Perubahan Atas Peraturan Otoritas Jasa Keuangan Nomor 57/POJK.04/2020 Tentang Penawaran Efek Melalui Layanan Urun Dana Berbasis Teknologi Informasi"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 227071,
+   "label": "Peraturan OJK No. 57/POJK.04/2020 Tahun 2020",
+   "about": "Penawaran Efek Melalui Layanan Urun Dana Berbasis Teknologi Informasi"
+  }
+ ],
+ "abstract": "a. bahwa untuk mengembangkan industri keuangan yang\nmenyediakan alternatif pembiayaan dari sektor pasar\nmodal bagi masyarakat dan pelaku usaha melalui\npenerbitan efek dengan memanfaatkan layanan urun\ndana yang diselenggarakan oleh penyelenggara layanan\nurun dana, perlu dilakukan pengembangan produk dan\nlayanan keuangan dengan memanfaatkan teknologi\ninformasi;\nb. bahwa pemanfaatan teknologi informasi melalui\nlayanan urun dana berbasis teknologi informasi\ndiharapkan dapat memperluas akses pembiayaan bagi\nusaha kecil dan menengah dan pelaku usaha pemula\nuntuk mendapatkan pendanaan melalui pasar modal\nserta meningkatkan kualitas industri layanan urun\ndana dan meningkatkan pelindungan pelaku usaha dan\npemodal;\nc. bahwa Peraturan Otoritas Jasa Keuangan Nomor\n57/POJK.04/2020 tentang Penawaran Efek melalui\nLayanan Urun Dana Berbasis Teknologi Informasi\nsebagaimana telah diubah dengan Peraturan Otoritas\nJasa Keuangan Nomor 16/POJK.04/2021 tentang\nPerubahan atas Peraturan Otoritas Jasa Keuangan\nNomor 57/POJK.04/2020 tentang Penawaran Efek\nmelalui Layanan Urun Dana Berbasis Teknologi\nInformasi memerlukan penyesuaian dan\npenyempurnaan untuk dapat menampung kebutuhan\nhukum masyarakat dan kebutuhan industri, sehingga\nperlu diganti;\nd. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a, huruf b, dan huruf c, perlu\nmenetapkan Peraturan Otoritas Jasa Keuangan tentang\nPenawaran Efek melalui Layanan Urun Dana Berbasis\nTeknologi Informasi;\nUndang-Undang Nomor 8 Tahun 1995 dan Undang-Undang Nomor 21 Tahun 2011\nPeraturan ini mengatur tentang ketentuan umum, kegiatan usaha dan kelembagaan penyelenggara, perizinan penyelenggara, penilaian kemampuan dan kepatutan pihak utama penyelenggara, kewajiban dan larangan penyelenggara, layanan urun dana, penerbit, pemodal, perjanjian layanan urun dana, mitigasi resiko, tata kelola sistem teknologi informasi penyelenggaraan layanan urun dana, edukasi dan perlindungan pengguna layanan urun dana, penerapan program anti pencucian uang, pencegahan pendanaan terorisme dan pencegahan pendanaan proliferasi sejata pemusnah massal, asosiasi penyelenggara, ketentuan lain-lain, ketentuan peralihan dan ketentuan penutup.",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 25 Juli 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan Otoritas Jasa Keuangan Nomor\n57/POJK.04/2020 tentang Penawaran Efek melalui\nLayanan Urun Dana Berbasis Teknologi Informasi sebagaimana telah diubah dengan Peraturan\nOtoritas Jasa Keuangan Nomor 16/POJK.04/2021 tentang\nPerubahan atas Peraturan Otoritas Jasa Keuangan Nomor\n57/POJK.04/2020 tentang Penawaran Efek melalui\nLayanan Urun Dana Berbasis Teknologi Informasi",
+ "citations": [
+  "POJK-2020-57",
+  "UU-1995-8",
+  "UU-2011-21"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/389125/POJK%2017%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:43:38Z"
+}

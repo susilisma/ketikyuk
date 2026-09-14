@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2015-187",
+ "source": "bpk",
+ "bpk_id": 121783,
+ "url": "https://peraturan.bpk.go.id/Details/121783/pmk-no-187pmk032015",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "187",
+ "number_raw": "187/PMK.03/2015",
+ "year": 2015,
+ "title": "Peraturan Menteri Keuangan Nomor 187/PMK.03/2015 Tahun 2015 tentang Tata Cara Pengembalian Atas Kelebihan Pembayaran Pajak Yang Seharusnya Tidak Terutang",
+ "about": "Tata Cara Pengembalian Atas Kelebihan Pembayaran Pajak Yang Seharusnya Tidak Terutang",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "",
+ "date_enacted": "2015-09-30",
+ "date_promulgated": "2015-09-30",
+ "date_effective": "2015-09-30",
+ "gazette": "BN.2015/NO.1471,jdih.kemenkeu.go.id : 30 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-81",
+   "target_bpk_id": 306614,
+   "label": "PMK No. 81 Tahun 2024",
+   "about": "Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2013-10",
+   "target_bpk_id": 149601,
+   "label": "PMK No. 10/PMK.03/2013",
+   "about": "Tata Cara Pengembalian atas Kelebihan Pembayaran Pajak yang Seharusnya Tidak Terutang"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 30 September 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/112553/187~PMK.03~2015Per.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:35:10Z"
+}

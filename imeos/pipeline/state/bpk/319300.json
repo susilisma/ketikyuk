@@ -1,0 +1,51 @@
+{
+ "id": "PMK-2025-30",
+ "source": "bpk",
+ "bpk_id": 319300,
+ "url": "https://peraturan.bpk.go.id/Details/319300/pmk-no-30-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "30",
+ "number_raw": "30",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 30 Tahun 2025 tentang Tarif Layanan Badan Layanan Umum Badan Pengelola Dana Perkebunan Pada Kementerian Keuangan",
+ "about": "Tarif Layanan Badan Layanan Umum Badan Pengelola Dana Perkebunan Pada Kementerian Keuangan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BADAN LAYANAN UMUM",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-05-05",
+ "date_promulgated": "2025-05-14",
+ "date_effective": "2025-05-17",
+ "gazette": "BN.2025 (321/13 hlm)",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-69",
+   "target_bpk_id": 332100,
+   "label": "PMK No. 69 Tahun 2025",
+   "about": "Tarif Layanan Badan Layanan Umum Badan Pengelola Dana Perkebunan pada Kementerian Keuangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2024-62",
+   "target_bpk_id": 301469,
+   "label": "PMK No. 62 Tahun 2024",
+   "about": "Tarif Layanan Badan Layanan Umum Badan Pengelola Dana Perkebunan Kelapa Sawit Pada Kementerian Keuangan"
+  }
+ ],
+ "abstract": ": a. bahwa untuk meningkatkan produktivitas produk perkebunan dan memberikan nilai tambah produk hilir di tingkat petani diperlukan penyesuaian nilai pungutan dana perkebunan atas ekspor hasil komoditas perkebunan dan/atau turunan hasil komoditas perkebunan, melalui pengaturan tarif layanan atas barang atau jasa yang diberikan oleh Badan Layanan Umum Badan Pengelola Dana Perkebunan pada Kementerian Keuangan;\nb. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan sesuai dengan ketentuan\nPasal 9 ayat (8) Peraturan Pemerintah Nomor 23 Tahun\n2005 tentang Pengelolaan Keuangan Badan Layanan\nUmum sebagaimana telah diubah dengan Peraturan\nPemerintah Nomor 74 Tahun 2012 tentang Perubahan atas Peraturan Pemerintah Nomor 23 Tahun 2005 tentang Pengelolaan Keuangan Badan Layanan Umum, perlu menetapkan Peraturan Menteri Keuangan tentang Tarif Layanan Badan Layanan Umum Badan Pengelola Dana Perkebunan pada Kementerian Keuangan;\nPasal 17 ayat (3) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945, Undang-Undang Nomor 1 Tahun 2004, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 23 Tahun 2005, Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Menteri Keuangan Nomor 129/PMK.05/2020 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengatur tentang Tarif layanan Badan Layanan Umum Badan Pengelola Dana Perkebunan pada Kementerian Keuangan, Tarif Pungutan, pengenaan Tarif Pungutan dan evalusi oleh kementerian.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 17 Mei 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan Menteri Keuangan Nomor 62 Tahun 2024 tentang Tarif Layanan Badan Layanan Umum Badan Pengelola Dana Perkebunan Kelapa Sawit pada Kementerian Keuangan",
+ "citations": [
+  "PP-2005-23",
+  "UU-2004-1",
+  "UU-2008-39",
+  "PERPRES-2024-158",
+  "PMK-2020-129",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/380860/30%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:32:52Z"
+}

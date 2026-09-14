@@ -1,0 +1,44 @@
+{
+ "id": "PP-2012-109",
+ "source": "bpk",
+ "bpk_id": 5324,
+ "url": "https://peraturan.bpk.go.id/Details/5324/pp-no-109-tahun-2012",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "109",
+ "number_raw": "109",
+ "year": 2012,
+ "title": "Peraturan Pemerintah (PP) Nomor 109 Tahun 2012 tentang Pengamanan Bahan Yang Mengandung Zat Adiktif Berupa Produk Tembakau Bagi Kesehatan",
+ "about": "Pengamanan Bahan Yang Mengandung Zat Adiktif Berupa Produk Tembakau Bagi Kesehatan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KESEHATAN - LINGKUNGAN HIDUP",
+ "field": "",
+ "date_enacted": "2012-12-24",
+ "date_promulgated": "2012-12-24",
+ "date_effective": "2012-12-24",
+ "gazette": "LN. 2012 No. 278, TLN No. 5380, LL SETNEG : 32 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-28",
+   "target_bpk_id": 294077,
+   "label": "PP No. 28 Tahun 2024",
+   "about": "Peraturan Pelaksanaan Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2003-19",
+   "target_bpk_id": 52180,
+   "label": "PP No. 19 Tahun 2003",
+   "about": "Pengamanan Rokok Bagi Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 24 Desember 2012.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/34279/PP%20Nomor%20109%20Tahun%202012.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:30:54Z"
+}

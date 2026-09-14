@@ -1,0 +1,67 @@
+{
+ "id": "UU-2004-31",
+ "source": "bpk",
+ "bpk_id": 40763,
+ "url": "https://peraturan.bpk.go.id/Details/40763/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "31",
+ "number_raw": "31",
+ "year": 2004,
+ "title": "Undang-undang (UU) Nomor 31 Tahun 2004 tentang Perikanan",
+ "about": "Perikanan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERIKANAN DAN KELAUTAN",
+ "field": "",
+ "date_enacted": "2004-10-06",
+ "date_promulgated": "2004-10-06",
+ "date_effective": "2004-10-06",
+ "gazette": "LN. 2004/ No. 118, TLN NO. 4433, LL SETNEG : 51 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 234926,
+   "label": "PERPU No. 2 Tahun 2022",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2009-45",
+   "target_bpk_id": 38790,
+   "label": "UU No. 45 Tahun 2009",
+   "about": "Perubahan Atas Undang-Undang Nomor 31 Tahun 2004 Tentang Perikanan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1985-9",
+   "target_bpk_id": 46958,
+   "label": "UU No. 9 Tahun 1985",
+   "about": "Perikanan"
+  }
+ ],
+ "abstract": "UU Nomor 9 Tahun 1985 tentang Perikanan yang berlaku hingga sekarang belum menampung semua aspek pengelolaan sumber daya ikan dan kurang mampu mengantisipasi perkembangan kebutuhan hukum serta perkembangan teknologi dalam rangka pengelolaan sumber daya ikan, dan oleh karena itu perlu diganti.\nDasar hukum UU ini adalah Pasal 20, Pasal 21, dan Pasal 33 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.\nDalam UU ini diatur mengenai ruang lingkup pemberlakuan UU perikanan; wilayah pengelolaan perikanan; pengelolaan perikanan; usaha perikanan; sistem informasi dan data statistik perikanan; pungutan perikanan; penelitian dan pengembangan perikanan; pendidikan, pelatihan, dan penyuluhan perikanan; pemberdayaan nelayan kecil dan pembudidaya ikan kecil; penyerahan urusan dan tugas pembantuan; pengawasan perikanan; pengadilan perikanan; penyidikan, penuntutan, dan pemeriksaan di sidang pengadilan perikanan; dan ketentuan pidana.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 06 Oktober 2004.\nPada saat Undang-Undang ini mulai berlaku: UU Nomor 9 Tahun 1985 tentang Perikanan dan ketentuan tentang pidana denda dalam Pasal 16 ayat (1) Undang-Undang Nomor 5 Tahun 1983 tentang Zona Ekonomi Eksklusif Indonesia, khususnya yang berkaitan dengan tindak pidana di bidang perikanan, dicabut dan dinyatakan tidak berlaku.\nPenjelasan : 35 hlm.",
+ "citations": [
+  "UU-1985-9"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/30499/UU%20Nomor%2031%20Tahun%202004.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:33:15Z"
+}

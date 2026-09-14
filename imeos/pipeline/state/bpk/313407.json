@@ -1,0 +1,51 @@
+{
+ "id": "PERPRES-2025-6",
+ "source": "bpk",
+ "bpk_id": 313407,
+ "url": "https://peraturan.bpk.go.id/Details/313407/perpres-no-6-tahun-2025",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "6",
+ "number_raw": "6",
+ "year": 2025,
+ "title": "Peraturan Presiden (Perpres) Nomor 6 Tahun 2025 tentang Tata Kelola Pupuk Bersubsidi",
+ "about": "Tata Kelola Pupuk Bersubsidi",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PANGAN, PERTANIAN DAN PETERNAKAN - SUBSIDI, PSO",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2025-01-30",
+ "date_promulgated": "2025-01-30",
+ "date_effective": "2025-01-30",
+ "gazette": "LN 2025 (10) : 10 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2025-113",
+   "target_bpk_id": 334740,
+   "label": "Perpres No. 113 Tahun 2025",
+   "about": "Perubahan atas Peraturan Presiden Nomor 6 Tahun 2025 tentang Tata Kelola Pupuk Bersubsidi"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2011-15",
+   "target_bpk_id": 41149,
+   "label": "PERPRES No. 15 Tahun 2011",
+   "about": "Perubahan atas Peraturan Presiden Nomor 77 Tahun 2005 tentang Penetapan Pupuk Bersubsidi Sebagai Barang dalam Pengawasan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2005-77",
+   "target_bpk_id": 42603,
+   "label": "PERPRES No. 77 Tahun 2005",
+   "about": "Penetapan Pupuk Bersubsidi Sebagai Barang dalam Pengawasan"
+  }
+ ],
+ "abstract": "Dalam rangka peningkatan produksi pertanian dan perikanan, diperlukan tata kelola yang baik dalam pengadaan dan penyaluran pupuk bersubsidi.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD NRI Tahun 1945.\nPerpres ini mengatur mengenai tata kelola pupuk bersubsidi dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Sasaran Tata Kelola Pupuk Bersubsidi untuk memastikan jenis, tepat\nPengadaan dan Penyaluran Pupuk Bersubsidi yang tepat jumlah, tepat\nharga, tepat tempat, tepat waktu, tepat mutu, dan tepat penerima.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 30 Januari 2025.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 77 Tahun 2005 tentang Penetapan Pupuk Bersubsidi sebagai Barang dalam Pengawasan sebagaimana telah diubah dengan Peraturan Presiden Nomor 15 Tahun 2011 tentang Perubahan atas Peraturan Presiden Nomor 77 Tahun 2005 tentang Penetapan Pupuk Bersubsidi sebagai Barang dalam Pengawasan, dicabut dan dinyatakan tidak berlaku.\nLampiran file: 10 hlm.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/374298/Perpres%20Nomor%206%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:19Z"
+}

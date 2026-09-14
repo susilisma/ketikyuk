@@ -1,0 +1,42 @@
+{
+ "id": "POJK-2024-24",
+ "source": "bpk",
+ "bpk_id": 323253,
+ "url": "https://peraturan.bpk.go.id/Details/323253/peraturan-ojk-no-24-tahun-2024",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "24",
+ "number_raw": "24",
+ "year": 2024,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 24 Tahun 2024 tentang Kualitas Aset Bank Perekonomian Rakyat Syariah",
+ "about": "Kualitas Aset Bank Perekonomian Rakyat Syariah",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "PENGELOLAAN BARANG MILIK NEGARA / DAERAH - PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-11-29",
+ "date_promulgated": "2024-11-29",
+ "date_effective": "2024-11-29",
+ "gazette": "BN.2024 (34)/114 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 128515,
+   "label": "Peraturan OJK No. 29/POJK.03/2019 Tahun 2019",
+   "about": "Kualitas Aset Produktif dan Pembentukan Penyisihan Penghapusan Aset Produktif Bank Pembiayaan Rakyat Syariah"
+  }
+ ],
+ "abstract": "a. bahwa untuk mendukung industri bank perekonomian\nrakyat syariah yang sehat dan memiliki daya saing yang\ntinggi, bank perekonomian rakyat syariah dalam\nmenjalankan kegiatan usaha khususnya pengelolaan\naset harus senantiasa memperhatikan prinsip kehatihatian, manajemen risiko, dan prinsip syariah;\nb. bahwa sejalan dengan perkembangan terkini standar\nakuntansi keuangan, bank perekonomian rakyat\nsyariah dituntut untuk menyajikan laporan keuangan\nyang akurat, komprehensif, dan mencerminkan kinerja\nbank perekonomian rakyat syariah sesuai dengan\nstandar akuntansi keuangan;\nc. bahwa untuk melaksanakan ketentuan Pasal 40\nUndang-Undang Nomor 21 Tahun 2008 tentang\nPerbankan Syariah sebagaimana telah beberapa kali\ndiubah terakhir dengan Undang-Undang Nomor 4\nTahun 2023 tentang Pengembangan dan Penguatan\nSektor Keuangan;\nd. bahwa Peraturan Otoritas Jasa Keuangan Nomor\n29/POJK.03/2019 tentang Kualitas Aset Produktif dan\nPembentukan Penyisihan Penghapusan Aset Produktif\nBank Pembiayaan Rakyat Syariah sudah tidak sesuai\ndengan kebutuhan, sehingga perlu diganti;\ne. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a, huruf b, huruf c, dan huruf\nd, perlu menetapkan Peraturan Otoritas Jasa Keuangan\ntentang Kualitas Aset Bank Perekonomian Rakyat\nSyariah;\nUU No.21 Tahun 2008 dan UU No.21 Tahun 2011.\nPeraturan ini mengatur tentang ketentuan umum, kualitas aset, penempatan dana pada bank konvensional, PPKA dan CKPN, restrukturisasi pembiayaan, properti terbengkalai, AYDA, hapus buku, kebijakan pembiayaan dan prosedur pembiayaan, ketentuan peralihan dan ketentuan penutup.",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 29 November 2024.\nPeraturam ini mencabut dan menyatakan tidak berlaku atas:\na. Pasal 7\nayat (4) dan Pasal 8 ayat (5) Peraturan Otoritas Jasa\nKeuangan Nomor 66/POJK.03/2016 tentang Kewajiban\nPenyediaan Modal Minimum dan Pemenuhan Modal Inti\nMinimum Bank Pembiayaan Rakyat Syariah;\nb. Peraturan Otoritas Jasa Keuangan Nomor\n29/POJK.03/2019 tentang Kualitas Aset Produktif dan\nPembentukan Penyisihan Penghapusan Aset Produktif Bank\nPembiayaan Rakyat Syariah.",
+ "citations": [
+  "UU-2008-21",
+  "UU-2023-4",
+  "POJK-2019-29",
+  "UU-2011-21"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/385076/Peraturan%20OJK%20Nomor%2024%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:44:14Z"
+}

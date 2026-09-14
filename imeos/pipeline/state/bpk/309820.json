@@ -1,0 +1,52 @@
+{
+ "id": "PERMENAKER-2024-10",
+ "source": "bpk",
+ "bpk_id": 309820,
+ "url": "https://peraturan.bpk.go.id/Details/309820/permenaker-no-10-tahun-2024",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "10",
+ "number_raw": "10",
+ "year": 2024,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 10 Tahun 2024 tentang Pedoman Pembentukan dan Penyelenggaraan Layanan Terpadu Satu",
+ "about": "Pedoman Pembentukan dan Penyelenggaraan Layanan Terpadu Satu",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "KETENAGAKERJAAN - KEWARGANEGARAAN DAN IMIGRASI - STANDAR / PEDOMAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-11-05",
+ "date_promulgated": "2024-11-08",
+ "date_effective": "2024-11-08",
+ "gazette": "BN 2024 (820); 25 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENAKER-2026-2",
+   "target_bpk_id": 344084,
+   "label": "Permenaker No. 2 Tahun 2026",
+   "about": "Pencabutan Peraturan Menteri Ketenagakerjaan Bidang Penempatan dan Pelindungan Pekerja Migran Indonesia"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENAKER-2016-30",
+   "target_bpk_id": 146189,
+   "label": "Permenaker No. 30 Tahun 2016",
+   "about": "Pedoman Pembentukan dan Penyelenggaraan Layanan Satu Atap Penempatan Tenaga Kerja Luar Negeri"
+  }
+ ],
+ "abstract": "bahwa untuk melaksanakan ketentuan Pasal 34 Peraturan\nPemerintah Nomor 59 Tahun 2021 tentang Pelaksanaan\nPelindungan Pekerja Migran Indonesia\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD 1945; UU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024; UU Nomor 18 Tahun 2017; UU Nomor 6 Tahun 2023; PP Nomor 59 Tahun 2021; Perpres Nomor 95 Tahun 2020; Permenaker Nomor 1 Tahun 2021\nPeraturan ini mengatur mengenai pembentukan layanan terpadu satu atap pekerja migran Indonesia; sarana dan prasarana; tata cara penyelenggaraan layanan terpadu satu atap pekerja migran Indonesia; etika pelayanan layanan terpadu satu atap pekerja migran Indonesia; sistem informasi; pendanaan dan pelaporan",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 08 November 2024.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan\nMenteri Ketenagakerjaan Nomor 30 Tahun 2016 tentang\nPedoman Pembentukan dan Penyelenggaraan Layanan Satu\nAtap Penempatan Tenaga Kerja Luar Negeri (Berita Negara Republik Indonesia Tahun 2016 Nomor 1487), dicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "UU-2008-39",
+  "UU-2024-61",
+  "UU-2017-18",
+  "UU-2023-6",
+  "PP-2021-59",
+  "PERPRES-2020-95",
+  "PERMENAKER-2021-1"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/370367/Permenaker%20Nomor%2010%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:41:36Z"
+}

@@ -1,0 +1,57 @@
+{
+ "id": "PP-2022-40",
+ "source": "bpk",
+ "bpk_id": 230053,
+ "url": "https://peraturan.bpk.go.id/Details/230053/pp-no-40-tahun-2022",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "40",
+ "number_raw": "40",
+ "year": 2022,
+ "title": "Peraturan Pemerintah (PP) Nomor 40 Tahun 2022 tentang Perubahan Kedua atas Peraturan Pemerintah Nomor 94 Tahun 2012 tentang Hak Keuangan dan Fasilitas Hakim yang Berada di Bawah Mahkamah Agung",
+ "about": "Perubahan Kedua atas Peraturan Pemerintah Nomor 94 Tahun 2012 tentang Hak Keuangan dan Fasilitas Hakim yang Berada di Bawah Mahkamah Agung",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA",
+ "field": "",
+ "date_enacted": "2022-10-21",
+ "date_promulgated": "2022-10-21",
+ "date_effective": "2022-10-21",
+ "gazette": "LN.2022/No.203, TLN No.6822, jdih.setneg.go.id: 4 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2024-44",
+   "target_bpk_id": 305090,
+   "label": "PP No. 44 Tahun 2024",
+   "about": "Perubahan Ketiga atas Peraturan Pemerintah Nomor 94 Tahun 2012 tentang Hak Keuangan dan Fasilitas Hakim yang Berada di Bawah Mahkamah Agung"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PP-2016-74",
+   "target_bpk_id": 5795,
+   "label": "PP No. 74 Tahun 2016",
+   "about": "Perubahan Atas Peraturan Pemerintah Nomor 94 Tahun 2012 Tentang Hak Keuangan Dan Fasilitas Hakim Yang Berada Di Bawah Mahkamah Agung"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PP-2012-94",
+   "target_bpk_id": 5309,
+   "label": "PP No. 94 Tahun 2012",
+   "about": "Hak Keuangan Dan Fasilitas Hakim Yang Berada  Di Bawah Mahkamah Agung"
+  }
+ ],
+ "abstract": "Dengan adanya Putusan Mahkamah Agung Nomor 25 P/HUM/2017 tanggal 18 Desember 2018, perlu dilakukan perubahan terhadap PP Nomor 94 Tahun 2012 tentang Hak Keuangan dan Fasilitas Hakim yang Berada di Bawah Mahkamah Agung sebagaimana telah diubah dengan PP Nomor 74 Tahun 2016 tentang Perubahan atas Peraturan Pemerintah Nomor 94 Tahun 2012 tentang Hak Keuangan dan Fasilitas Hakim yang Berada di Bawah Mahkamah Agung.\nDasar hukum PP ini adalah Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 14 Tahun 1985; UU Nomor 48 Tahun 2009; dan PP Nomor 94 Tahun 2012.\nPP ini mengatur mengenai perubahan Pasal 4 dalam PP Nomor 94 Tahun 2014. Perubahan terhadap Peraturan Pemerintah Nomor 94 Tahun 2012 tentang Hak Keuangan dan Fasilitas Hakim yang Berada di Bawah Mahkamah Agung sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 74 Tahun 2016 tentang Perubahan atas Peraturan Pemerintah Nomor 94 Tahun 2012 tentang Hak Keuangan dan Fasilitas Hakim yang Berada di Bawah Mahkamah Agung dilakukan setelah adanya Putusan Mahkamah Agung Nomor 25 P/HUM/2017 tanggal 18 Desember 2018 yang menetapkan pemberian tunjangan jabatan bagi Panitera Matrkamah Agung dan Panitera Muda Mahkamah Agung",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 21 Oktober 2022.\nPP ini mengubah PP Nomor 94 Tahun 2012\nLampiran: 6 hlm.",
+ "citations": [
+  "PP-2012-94",
+  "PP-2016-74",
+  "UU-1985-14",
+  "UU-2009-48",
+  "PP-2014-94"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/230236/PP%20Nomor%2040%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:29:48Z"
+}

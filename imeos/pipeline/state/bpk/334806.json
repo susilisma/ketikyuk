@@ -1,0 +1,39 @@
+{
+ "id": "PERMENAKER-2025-12",
+ "source": "bpk",
+ "bpk_id": 334806,
+ "url": "https://peraturan.bpk.go.id/Details/334806/permenaker-no-12-tahun-2025",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "12",
+ "number_raw": "12",
+ "year": 2025,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 12 Tahun 2025 tentang Perubahan Kedua atas Peraturan Menteri Ketenagakerjaan Nomor 35 Tahun 2016 tentang Tata",
+ "about": "Perubahan Kedua atas Peraturan Menteri Ketenagakerjaan Nomor 35 Tahun 2016 tentang Tata",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "KETENAGAKERJAAN - STANDAR / PEDOMAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-11-06",
+ "date_promulgated": "2025-11-10",
+ "date_effective": "2025-11-10",
+ "gazette": "BN 2025 (918); 5 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERMENAKER-2016-35",
+   "target_bpk_id": 146205,
+   "label": "Permenaker No. 35 Tahun 2016",
+   "about": "Tata Cara Pemberian, Persyaratan, dan Jenis Manfaat Layanan Tambahan Dalam Program Jaminan Hari Tua"
+  }
+ ],
+ "abstract": "bahwa Peraturan Menteri Ketenagakerjaan Nomor 17\nTahun 2021 tentang Perubahan atas Peraturan Menteri\nKetenagakerjaan Nomor 35 Tahun 2016 tentang Tata\nCara Pemberian, Persyaratan, dan Jenis Manfaat\nLayanan Tambahan dalam Program Jaminan Hari Tua\nsudah tidak sesuai dengan kebutuhan hukum di\nmasyarakat, sehingga perlu diubah\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD 1945;\nUU 40/2004 sebagaimana beberapa kali diubah terakhir dengan UU 6/2023;\nUU 39/2008 sebagaimana diubah dengan UU 61/2024;\nUU 24/2011 sebagaimana beberapa kali diubah terakhir dengan UU 6/2023;\nPP 99/2013 sebagaimana diubah dengan PP 55/2015;\nPP 46/2015 sebagaimana diubah dengan PP 60/2015;\nPerpres 164/2024;\nPermenaker 35/2016 sebagaimana diubah dengan Permenaker 17/2021.\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri\nKetenagakerjaan Nomor 35 Tahun 2016 tentang Tata Cara\nPemberian, Persyaratan, dan Jenis Manfaat Layanan\nTambahan dalam Program Jaminan Hari Tua sebagaimana\ntelah diubah dengan Peraturan Menteri Ketenagakerjaan\nNomor 17 Tahun 2021 tentang Perubahan atas Peraturan\nMenteri Ketenagakerjaan Nomor 35 Tahun 2016 tentang\nTata Cara Pemberian, Persyaratan, dan Jenis Manfaat\nLayanan Tambahan dalam Program Jaminan Hari Tua, yaitu ketentuan Pasal 9 ayat (5) dan (6) serta ketentuan Pasal 11 ayat (4) dan (5)",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 10 November 2025.",
+ "citations": [
+  "PERMENAKER-2021-17"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/397373/permenaker-no-12-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:41:02Z"
+}

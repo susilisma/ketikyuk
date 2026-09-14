@@ -1,0 +1,48 @@
+{
+ "id": "PERPRES-2023-7",
+ "source": "bpk",
+ "bpk_id": 240598,
+ "url": "https://peraturan.bpk.go.id/Details/240598/perpres-no-7-tahun-2023",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "7",
+ "number_raw": "7",
+ "year": 2023,
+ "title": "Peraturan Presiden (Perpres) Nomor 7 Tahun 2023 tentang Perubahan atas Peraturan Presiden Nomor 65 Tahun 2020 tentang Kementerian Pemberdayaan Perempuan dan Perlindungan Anak",
+ "about": "Perubahan atas Peraturan Presiden Nomor 65 Tahun 2020 tentang Kementerian Pemberdayaan Perempuan dan Perlindungan Anak",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "",
+ "date_enacted": "2023-01-19",
+ "date_promulgated": "2023-01-19",
+ "date_effective": "2023-01-19",
+ "gazette": "LN.2023/No.15, jdih.setneg.go.id: 6 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-186",
+   "target_bpk_id": 306742,
+   "label": "Perpres No. 186 Tahun 2024",
+   "about": "Kementerian Pemberdayaan Perempuan dan Perlindungan Anak"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2020-65",
+   "target_bpk_id": 137562,
+   "label": "PERPRES No. 65 Tahun 2020",
+   "about": "Kementerian Pemberdayaan Perempuan dan Perlindungan Anak"
+  }
+ ],
+ "abstract": "Dalam rangka meningkatkan kinerja Kementerian Pemberdayaan Perempuan dan Perlindungan Anak diperlukan perubahan strategi untuk melakukan penataan struktur organisasi guna mengoptimalkan organisasi yang responsif, efisien, dan efektif.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 39 Tahun 2008; UU Nomor 23 Tahun 2014; Perpres 68 Tahun 2019; dan Perpres Nomor 65 Tahun 2020.\nPerpres ini mengubah beberapa ketentuan dalam Perpres Nomor 65 Tahun 2020. Pasal yang diubah yaitu Pasal 3, Pasal 4, Pasal 24 dan penambahan pasal baru yaitu Pasal 30A.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 19 Januari 2023.\nPerpres ini mengubah Perpres Nomor 65 Tahun 2020.\nLampiran file 6 hlm.",
+ "citations": [
+  "UU-2008-39",
+  "UU-2014-23",
+  "PERPRES-2020-65"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/295734/Perpres%20Nomor%207%20Tahun%202023.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:27:05Z"
+}

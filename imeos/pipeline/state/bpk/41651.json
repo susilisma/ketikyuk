@@ -1,0 +1,37 @@
+{
+ "id": "PERPRES-2014-141",
+ "source": "bpk",
+ "bpk_id": 41651,
+ "url": "https://peraturan.bpk.go.id/Details/41651/perpres-no-141-tahun-2014",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "141",
+ "number_raw": "141",
+ "year": 2014,
+ "title": "Peraturan Presiden (Perpres) Nomor 141 Tahun 2014 tentang Perubahan Sekolah Tinggi Agama Islam Negeri Palopo Menjadi Institut Agama Islam Negeri Palopo",
+ "about": "Perubahan Sekolah Tinggi Agama Islam Negeri Palopo Menjadi Institut Agama Islam Negeri Palopo",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PENDIDIKAN",
+ "field": "",
+ "date_enacted": "2014-10-17",
+ "date_promulgated": "2014-10-17",
+ "date_effective": "2014-10-17",
+ "gazette": "LN.2014/NO.282, LL SETKAB : 5 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2025-59",
+   "target_bpk_id": 320322,
+   "label": "Perpres No. 59 Tahun 2025",
+   "about": "Universitas Islam Negeri Palopo"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 17 Oktober 2014.\nPada saat Peraturan Presiden ini mulai berlaku, ketentuan yang berkaitan dengan Sekolah Tinggi Agama Islam Negeri Palopo sebagaimana diatur dalam Keputusan Presiden Nomor 11 Tahun 1997 tentang Pendirian Sekolah Tinggi Agama Islam Negeri, dicabut dan dinyatakan tidak berlaku.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/67021/Perpres%20Nomor%20141%20Tahun%202014.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:33:26Z"
+}

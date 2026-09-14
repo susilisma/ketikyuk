@@ -1,0 +1,37 @@
+{
+ "id": "POJK-2019-21",
+ "source": "bpk",
+ "bpk_id": 128529,
+ "url": "https://peraturan.bpk.go.id/Details/128529/peraturan-ojk-no-21pojk032019-tahun-2019",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "21",
+ "number_raw": "21/POJK.03/2019",
+ "year": 2019,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 21/POJK.03/2019 Tahun 2019 tentang Penggabungan, Peleburan, dan Pengambilalihan Bank Perkreditan Rakyat Dan Bank Pembiayaan Rakyat Syariah",
+ "about": "Penggabungan, Peleburan, dan Pengambilalihan Bank Perkreditan Rakyat Dan Bank Pembiayaan Rakyat Syariah",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "",
+ "date_enacted": "2019-09-11",
+ "date_promulgated": "2019-09-13",
+ "date_effective": "2019-09-11",
+ "gazette": "LN.2019/NO.164, TLN NO.6383, Jdih.ojk.go.id: 77 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 301695,
+   "label": "Peraturan OJK No. 7 Tahun 2024",
+   "about": "Bank Perekonomian Rakyat dan Bank Perekonomian Rakyat Syariah"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 11 September 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/119467/pojk%2021-2019.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:44:39Z"
+}

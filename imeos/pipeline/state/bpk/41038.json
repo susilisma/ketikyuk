@@ -1,0 +1,51 @@
+{
+ "id": "PERPRES-2010-15",
+ "source": "bpk",
+ "bpk_id": 41038,
+ "url": "https://peraturan.bpk.go.id/Details/41038/perpres-no-15-tahun-2010",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "15",
+ "number_raw": "15",
+ "year": 2010,
+ "title": "Peraturan Presiden (Perpres) Nomor 15 Tahun 2010 tentang Percepatan Penanggulangan Kemiskinan",
+ "about": "Percepatan Penanggulangan Kemiskinan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PROGRAM, RENCANA PEMBANGUNAN DAN RENCANA KERJA - BANTUAN, SUMBANGAN, BENCANA / KEBENCANAAN, DAN PENANGGULANGAN BENCANA - KEBIJAKAN PEMERINTAH",
+ "field": "",
+ "date_enacted": "2010-02-25",
+ "date_promulgated": null,
+ "date_effective": "2010-02-25",
+ "gazette": "LL SETKAB : 21 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-163",
+   "target_bpk_id": 306716,
+   "label": "Perpres No. 163 Tahun 2024",
+   "about": "Badan Percepatan Pengentasan Kemiskinan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2015-96",
+   "target_bpk_id": 41841,
+   "label": "PERPRES No. 96 Tahun 2015",
+   "about": "Perubahan atas Peraturan Presiden Nomor 15 Tahun 2010 tentang Percepatan Penanggulangan Kemiskinan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2009-13",
+   "target_bpk_id": 42296,
+   "label": "PERPRES No. 13 Tahun 2009",
+   "about": "Koordinasi Penanggulangan Kemiskinan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 25 Februari 2010.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/69727/Perpres%20No.15%20Tahun%202010.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:28:06Z"
+}

@@ -1,0 +1,51 @@
+{
+ "id": "PERMENAKER-2019-22",
+ "source": "bpk",
+ "bpk_id": 145277,
+ "url": "https://peraturan.bpk.go.id/Details/145277/permenaker-no-22-tahun-2019",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "22",
+ "number_raw": "22",
+ "year": 2019,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 22 Tahun 2019 tentang Perubahan Kedua atas Peraturan Menteri Ketenagakerjaan Nomor 10 Tahun 2017 tentang Pedoman Pemberian Tunjangan Kinerja bagi Pegawai Kementerian Ketenagakerjaan",
+ "about": "Perubahan Kedua atas Peraturan Menteri Ketenagakerjaan Nomor 10 Tahun 2017 tentang Pedoman Pemberian Tunjangan Kinerja bagi Pegawai Kementerian Ketenagakerjaan",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA - STANDAR / PEDOMAN",
+ "field": "",
+ "date_enacted": "2019-10-18",
+ "date_promulgated": "2019-10-22",
+ "date_effective": "2020-01-01",
+ "gazette": "BN.2019/No.1266, jdih.kemnaker.go.id : 8 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENAKER-2024-15",
+   "target_bpk_id": 309878,
+   "label": "Permenaker No. 15 Tahun 2024",
+   "about": "Pemberian Tunjangan Kinerja Pegawai di Lingkungan Kementerian Ketenagakerjaan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENAKER-2018-14",
+   "target_bpk_id": 146306,
+   "label": "Permenaker No. 14 Tahun 2018",
+   "about": "Perubahan atas Peraturan Menteri Ketenagakerjaan Nomor 10 Tahun 2017 tentang Pedoman Pemberian Tunjangan Kinerja bagi Pegawai Kementerian Ketenagakerjaan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENAKER-2017-10",
+   "target_bpk_id": 145522,
+   "label": "Permenaker No. 10 Tahun 2017",
+   "about": "Pedoman Pemberian Tunjangan Kinerja bagi Pegawai Kementerian Ketenagakerjaan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Ketenagakerjaan Republik Indonesia ini mulai berlaku pada tanggal 01 Januari 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/137081/Permenaker%20No.%2022%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:41:26Z"
+}

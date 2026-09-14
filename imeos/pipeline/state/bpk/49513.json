@@ -1,0 +1,51 @@
+{
+ "id": "UU-1967-1",
+ "source": "bpk",
+ "bpk_id": 49513,
+ "url": "https://peraturan.bpk.go.id/Details/49513/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "1",
+ "number_raw": "1",
+ "year": 1967,
+ "title": "Undang-undang (UU) Nomor 1 Tahun 1967 tentang Penanaman Modal Asing",
+ "about": "Penanaman Modal Asing",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PENANAMAN MODAL DAN INVESTASI",
+ "field": "",
+ "date_enacted": "1967-01-10",
+ "date_promulgated": "1967-01-10",
+ "date_effective": "1967-01-10",
+ "gazette": "LN. 1967/ No.1 , TLN NO. 2818 , LL SETNEG : 15 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2007-25",
+   "target_bpk_id": 39903,
+   "label": "UU No. 25 Tahun 2007",
+   "about": "Penanaman Modal"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-1983-7",
+   "target_bpk_id": 46988,
+   "label": "UU No. 7 Tahun 1983",
+   "about": "Pajak Penghasilan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-1970-11",
+   "target_bpk_id": 47864,
+   "label": "UU No. 11 Tahun 1970",
+   "about": "Perubahan dan Tambahan Undang-Undang No. 1 Tahun 1967 tentang Penanaman Modal Asing"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 10 Januari 1967.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/38792/UU%20Nomor%201%20Tahun%201967.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:11Z"
+}

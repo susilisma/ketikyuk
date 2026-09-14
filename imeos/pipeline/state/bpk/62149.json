@@ -1,0 +1,58 @@
+{
+ "id": "PERPRES-2017-5",
+ "source": "bpk",
+ "bpk_id": 62149,
+ "url": "https://peraturan.bpk.go.id/Details/62149/perpres-no-5-tahun-2017",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "5",
+ "number_raw": "5",
+ "year": 2017,
+ "title": "Peraturan Presiden (Perpres) Nomor 5 Tahun 2017 tentang Perubahan Atas Peraturan Presiden Nomor 52 Tahun 2010 tentang Susunan Organisasi dan Tata Kerja Kepolisian Negara Republik Indonesia",
+ "about": "Perubahan Atas Peraturan Presiden Nomor 52 Tahun 2010 tentang Susunan Organisasi dan Tata Kerja Kepolisian Negara Republik Indonesia",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERTAHANAN DAN KEAMANAN, MILITER",
+ "field": "",
+ "date_enacted": "2017-01-17",
+ "date_promulgated": "2017-01-19",
+ "date_effective": "2017-01-19",
+ "gazette": "LN. 2017/ No. 15 , LL : 17 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2024-90",
+   "target_bpk_id": 296572,
+   "label": "Perpres No. 90 Tahun 2024",
+   "about": "Perubahan Keempat atas Peraturan Presiden Nomor 52 Tahun 2010 tentang Susunan Organisasi dan Tata Kerja Kepolisian Negara Republik Indonesia"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2024-122",
+   "target_bpk_id": 304499,
+   "label": "Perpres No. 122 Tahun 2024",
+   "about": "Perubahan Kelima atas Peraturan Presiden Nomor 52 Tahun 2010 tentang Susunan Organisasi dan Tata Kerja Kepolisian Negara Republik Indonesia"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2022-54",
+   "target_bpk_id": 205754,
+   "label": "PERPRES No. 54 Tahun 2022",
+   "about": "Perubahan Kedua atas Peraturan Presiden Nomor 52 Tahun 2010 tentang Susunan Organisasi dan Tata Kerja Kepolisian Negara Republik Indonesia"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2010-52",
+   "target_bpk_id": 41109,
+   "label": "PERPRES No. 52 Tahun 2010",
+   "about": "Susunan Organisasi dan Tata Kerja Kepolisian Negara Republik Indonesia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 19 Januari 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/52199/Perpres%20Nomor%205%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:29:22Z"
+}

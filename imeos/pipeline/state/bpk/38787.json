@@ -1,0 +1,55 @@
+{
+ "id": "UU-2009-42",
+ "source": "bpk",
+ "bpk_id": 38787,
+ "url": "https://peraturan.bpk.go.id/Details/38787/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "42",
+ "number_raw": "42",
+ "year": 2009,
+ "title": "Undang-undang (UU) Nomor 42 Tahun 2009 tentang Perubahan Ketiga Atas Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa",
+ "about": "Perubahan Ketiga Atas Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERPAJAKAN",
+ "field": "",
+ "date_enacted": "2009-10-15",
+ "date_promulgated": "2009-10-15",
+ "date_effective": "2010-04-01",
+ "gazette": "LN. 2009/ No. 150, TLN NO. 5069, LL SETNEG : 25 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2021-7",
+   "target_bpk_id": 185162,
+   "label": "UU No. 7 Tahun 2021",
+   "about": "Harmonisasi Peraturan Perpajakan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1994-11",
+   "target_bpk_id": 46235,
+   "label": "UU No. 11 Tahun 1994",
+   "about": "Perubahan atas Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1983-8",
+   "target_bpk_id": 46990,
+   "label": "UU No. 8 Tahun 1983",
+   "about": "Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah"
+  }
+ ],
+ "abstract": "Dalam rangka lebih meningkatkan kepastian hukum dan keadilan, menciptakan sistem perpajakan yang lebih sederhana, serta mengamankan penerimaan negara agar pembangunan nasional dapat dilaksanakan secara mandiri perlu dilakukan perubahan terhadap Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 18 Tahun 2000 tentang Perubahan Kedua atas Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah.\nDasar Hukum Undang-Undang ini adalah Pasal 5 ayat (1), Pasal 20, dan Pasal 23A Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, UU No. 6 Tahun 1983, dan UU No. 8 Tahun 1983.\nDalam Undang-Undang ini mengatur tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah. Perubahan Undang-Undang Pajak Pertambahan Nilai ini mencakup; ketentuan mengenai perkembangan transaksi bisnis, terutama jasa, telah menciptakan jenis dan pola transaksi baru yang ditegaskan lebih lanjut, penyederhanaan sistem pajak pertambahan nilai, menegaskan fungsi pajak sebagai sumber penerimaan negara yang akan menunjang proses pembangunan dan pertumbuhan negara serta meningkatkan kepatuhan wajib pajak.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 01 April 2010.\nUndang-Undang ini mengubah UU No. 8 Tahun 1983 dan UU No. 11 Tahun 1994.\nLampiran file: 73 hlm (batang tubuh hlm 1 sd 25 dan penjelasan hlm 26 sd 73)",
+ "citations": [
+  "UU-1983-8",
+  "UU-2000-18",
+  "UU-1983-6"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/28116/UU%20Nomor%2042%20Tahun%202009.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:12Z"
+}

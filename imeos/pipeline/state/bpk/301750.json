@@ -1,0 +1,41 @@
+{
+ "id": "POJK-2024-13",
+ "source": "bpk",
+ "bpk_id": 301750,
+ "url": "https://peraturan.bpk.go.id/Details/301750/peraturan-ojk-no-13-tahun-2024",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "13",
+ "number_raw": "13",
+ "year": 2024,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 13 Tahun 2024 tentang Transparansi dan Publikasi Suku Bunga Dasar Kredit Bagi Bank Umum Konvensional",
+ "about": "Transparansi dan Publikasi Suku Bunga Dasar Kredit Bagi Bank Umum Konvensional",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2024-07-30",
+ "date_promulgated": "2024-08-12",
+ "date_effective": "2024-08-12",
+ "gazette": "Website Otoritas Jasa Keuangan",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah sebagian",
+   "target": null,
+   "target_bpk_id": 128445,
+   "label": "Peraturan OJK No. 37/POJK.03/2019 Tahun 2019",
+   "about": "Transparansi dan Publikasi Laporan Bank"
+  }
+ ],
+ "abstract": "untuk melaksanakan amanat Pasal 8A UndangUndang Nomor 7 Tahun 1992 tentang Perbankan sebagaimana telah beberapa kali diubah terakhir dengan\nUndang-Undang Nomor 4 Tahun 2023 tentang Pengembangan dan Penguatan Sektor Keuangan, perlu menetapkan Peraturan Otoritas Jasa Keuangan tentang Transparansi dan Publikasi Suku Bunga Dasar Kredit bagi Bank Umum Konvensional\nUndang-Undang Nomor 7 Tahun 1992 tentang Perbankan dan Undang-Undang Nomor 21 Tahun 2011 tentang Otoritas Jasa Keuangan\nDalam POJK ini mengatur antara lain:\na. SBDK sebagai indikasi suku bunga efektif terendah yang mencerminkan Harga\nPokok Dana untuk Kredit (HPDK), overhead cost, dan margin, untuk selanjutnya\ndigunakan sebagai acuan dalam penetapan suku bunga kredit.\nb. Format Publikasi SBDK lebih informatif, yaitu dengan mengumumkan masingmasing komponen pembentuk SBDK (i.e. HPDK, overhead, dan margin) serta\nmenambahkan jenis SBDK pada sektor UMKM yang lebih detail (i.e. adanya\npublikasi kredit menengah dan kredit kecil).\nc. Dalam penyusunan SBDK, BUK agar mempertimbangkan suku bunga acuan dari\notoritas yang berwenang dan perkembangan kondisi ekonomi.\nd. BUK agar memperhatikan aspek perlindungan kepada konsumen dalam bentuk\npemberitahuan perubahan suku bunga dan konversi flat ke efektif dalam\noffering letter.",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 12 Agustus 2024.\nPasal 2 ayat (2) huruf d, Pasal 2 ayat (4) huruf b, Pasal 29, dan Pasal 30 Peraturan Otoritas Jasa Keuangan Nomor 37/POJK.03/2019 tentang Transparansi dan Publikasi Laporan Bank dan ketentuan pelaksanaan terkait SBDK dalam ketentuan Otoritas Jasa Keuangan mengenai transparansi dan publikasi laporan bank umum konvensional pada: batang tubuh butir I angka 1 huruf d dan lampiran butir IV mengenai Pedoman Penyusunan\nLaporan Publikasi Suku Bunga Dasar Kredit, dicabut dan dinyatakan tidak berlaku.\n-",
+ "citations": [
+  "UU-2023-4",
+  "UU-1992-7",
+  "UU-2011-21"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/361600/POJK%2013%20Tahun%202024%20Transparansi%20dan%20Publikasi%20Suku%20Bunga%20Dasar%20Kredit%20bagi%20Bank%20Umum%20Konvensional.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:44:24Z"
+}

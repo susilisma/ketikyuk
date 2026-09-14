@@ -1,0 +1,65 @@
+{
+ "id": "PERMENDAG-2024-24",
+ "source": "bpk",
+ "bpk_id": 305838,
+ "url": "https://peraturan.bpk.go.id/Details/305838/permendag-no-24-tahun-2024",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "24",
+ "number_raw": "24",
+ "year": 2024,
+ "title": "Peraturan Menteri Perdagangan Nomor 24 Tahun 2024 tentang Kegiatan Tera dan Tera Ulang Alat Ukur, Alat Takar, Alat Timbang, dan Alat Perlengkapan Metrologi Legal",
+ "about": "Kegiatan Tera dan Tera Ulang Alat Ukur, Alat Takar, Alat Timbang, dan Alat Perlengkapan Metrologi Legal",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-10-04",
+ "date_promulgated": "2024-10-10",
+ "date_effective": "2024-10-10",
+ "gazette": "BN.2024 (669)/41 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2018-68",
+   "target_bpk_id": 128427,
+   "label": "Permendag No. 68 Tahun 2018",
+   "about": "Tera Dan Tera Ulang Alat-Alat Ukur, Takar, Timbang, dan Perlengkapannya"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2018-67",
+   "target_bpk_id": 173447,
+   "label": "Permendag No. 67 Tahun 2018",
+   "about": "Alat-Alat Ukur, Takar, Timbang, dan Perlengkapannya Yang Wajib Ditera dan Ditera Ulang"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2018-125",
+   "target_bpk_id": 128517,
+   "label": "Permendag No. 125 Tahun 2018",
+   "about": "Tanda Tera"
+  }
+ ],
+ "abstract": "a. bahwa untuk meningkatkan efektifitas dalam kegiatan tera dan tera ulang alat ukur, alat takar, alat timbang, dan alat perlengkapan metrologi legal, perlu mengatur kembali ketentuan kegiatan tera dan tera ulang alat ukur, alat takar, alat timbang, dan alat perlengkapan metrologi legal;\nb. bahwa Peraturan Menteri Perdagangan Nomor 69 Tahun 2014 tentang Pengelolaan Sumber Daya Manusia Kemetrologian, Peraturan Menteri Perdagangan Nomor 67\nTahun 2018 tentang Alat-alat Ukur, Takar, Timbang, dan Perlengkapannya yang Wajib Ditera dan Ditera Ulang, Peraturan Menteri Perdagangan Nomor 68 Tahun 2018 tentang Tera dan Tera Ulang Alat-Alat Ukur, Takar, Timbang, dan Perlengkapannya dan Peraturan Menteri Perdagangan Nomor 125 Tahun 2018 tentang Tanda Tera sudah tidak sesuai dengan perkembangan hukum dan kebutuhan masyarakat, sehingga perlu diganti;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b serta untuk melaksanakan ketentuan Pasal 13, Pasal 14 ayat (2), dan Pasal 19 Undang-Undang Nomor 2 Tahun 1981 tentang Metrologi Legal sebagaimana telah diubah dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja Menjadi Undang- Undang dan Pasal 2 sampai dengan Pasal 11 Peraturan Pemerintah Nomor 2 Tahun 1985 tentang Wajib dan Pembebasan untuk Ditera dan/atau Ditera Ulang serta Syarat-syarat bagi Alat-alat Ukur, Takar, Timbang, dan Perlengkapannya, perlu menetapkan Peraturan Menteri Perdagangan tentang Kegiatan Tera dan Tera Ulang Alat Ukur, Alat Takar, Alat Timbang, dan Alat Perlengkapan Metrologi Legal;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 2 Tahun 1981, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 23 Tahun 2014, Peraturan Pemerintah Nomor 2 Tahun 1985, Peraturan Presiden Nomor 11 Tahun 2022, Peraturan Menteri Perdagangan Nomor 29 Tahun 2022 dan Peraturan Menteri Perdagangan Nomor 55 Tahun 2022\nPeraturan ini mengatur tentang ketentuan umum, pelaksanaan kegiatan tera dan tera ulang, ketentuan peralihan dan ketentuan penutup",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 10 Oktober 2024.\na. Peraturan Menteri Perdagangan Nomor 69/M- DAG/PER/10/2014 tentang Pengelolaan Sumber Daya Manusia Kemetrologian.\nb. Peraturan Menteri Perdagangan Nomor 67 Tahun 2018\ntentang Alat-alat Ukur, Takar, Timbang, dan Pelengkapannya yang Wajib Ditera dan Ditera Ulang.\nc. Peraturan Menteri Perdagangan Nomor 68 Tahun 2018 tentang Tera dan Tera Ulang Alat-alat Ukur, Takar, Timbang, dan Pelengkapannya.\nd. Peraturan Menteri Perdagangan Nomor 125 Tahun 2018 tentang Tanda Tera\nDicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "PERMENDAG-2014-69",
+  "PERMENDAG-2018-67",
+  "PERMENDAG-2018-68",
+  "PERMENDAG-2018-125",
+  "UU-1981-2",
+  "UU-2023-6",
+  "PERPPU-2022-2",
+  "PP-1985-2",
+  "UU-2008-39",
+  "UU-2014-23",
+  "PERPRES-2022-11",
+  "PERMENDAG-2022-29",
+  "PERMENDAG-2022-55"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/365992/Permendag%20Nomor%2024%20Tahun%202024%20tentang%20Kegiatan%20Tera%20dan%20Tera%20Ulang%20Alat%20Ukur,%20Alat%20Takar,%20Alat%20Timbang,%20dan%20Alat%20Perlengkapan%20Metrologi%20Legal.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:37:41Z"
+}

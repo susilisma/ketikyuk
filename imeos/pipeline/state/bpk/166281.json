@@ -1,0 +1,48 @@
+{
+ "id": "PERPRES-2021-32",
+ "source": "bpk",
+ "bpk_id": 166281,
+ "url": "https://peraturan.bpk.go.id/Details/166281/perpres-no-32-tahun-2021",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "32",
+ "number_raw": "32",
+ "year": 2021,
+ "title": "Peraturan Presiden (Perpres) Nomor 32 Tahun 2021 tentang Perubahan atas Peraturan Presiden Nomor 68 Tahun 2019 tentang Organisasi Kementerian Negara",
+ "about": "Perubahan atas Peraturan Presiden Nomor 68 Tahun 2019 tentang Organisasi Kementerian Negara",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "",
+ "date_enacted": "2021-04-28",
+ "date_promulgated": "2021-04-28",
+ "date_effective": "2021-04-28",
+ "gazette": "LN.2021/No.106, jdih.setkab.go.id : 5 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-140",
+   "target_bpk_id": 305099,
+   "label": "Perpres No. 140 Tahun 2024",
+   "about": "Organisasi Kementerian Negara"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2019-68",
+   "target_bpk_id": 122754,
+   "label": "PERPRES No. 68 Tahun 2019",
+   "about": "Organisasi Kementerian Negara"
+  }
+ ],
+ "abstract": "Dalam rangka penguatan riset nasional dan untuk peningkatan investasi serta penciptaan lapangan kerja dipandang perlu untuk mengubah susunan Kabinet Indonesia Maju Periode Tahun 2019-2024.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 39 Tahun 2008; UU Nomor 5 Tahun 2014; dan Perpres Nomor 68 Tahun 2019.\nPerpres ini mengubah ketentuan dalam Pasal 1 Perpres Nomor 68 Tahun 2019. Pada nomor urut 12 dan 33, nomenklatur Kementerian berubah menjadi Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, dan Kementerian Investasi/Badan Koordinasi Penanaman Modal.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 28 April 2021.\nPerpres ini mengubah Perpres Nomor 68 Tahun 2019.",
+ "citations": [
+  "UU-2008-39",
+  "UU-2014-5",
+  "PERPRES-2019-68"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/159198/Perpres%20Nomor%2032%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:28:45Z"
+}

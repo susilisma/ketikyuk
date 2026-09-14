@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKUMHAM-2020-31",
+ "source": "bpk",
+ "bpk_id": 174149,
+ "url": "https://peraturan.bpk.go.id/Details/174149/permenkumham-no-31-tahun-2020",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "31",
+ "number_raw": "31",
+ "year": 2020,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 31 Tahun 2020 tentang Tata Naskah Dinas Kementerian Hukum dan Hak Asasi Manusia",
+ "about": "Tata Naskah Dinas Kementerian Hukum dan Hak Asasi Manusia",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA",
+ "field": "",
+ "date_enacted": "2020-12-18",
+ "date_promulgated": "2020-12-22",
+ "date_effective": "2020-12-22",
+ "gazette": "BN.2020/No.1579, peraturan.go.id : 5 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 288661,
+   "label": "Permenkumham No. 14 Tahun 2024",
+   "about": "Tata Naskah Dinas Kementerian Hukum dan Hak Asasi Manusia"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133239,
+   "label": "Permenkumham No. 15 Tahun 2016",
+   "about": "Tata Naskah Dinas di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 22 Desember 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/167345/31%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:42:45Z"
+}

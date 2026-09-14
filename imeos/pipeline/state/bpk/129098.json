@@ -1,0 +1,37 @@
+{
+ "id": "PERMENDAG-2014-33",
+ "source": "bpk",
+ "bpk_id": 129098,
+ "url": "https://peraturan.bpk.go.id/Details/129098/permendag-no-33m-dagper62014-tahun-2014",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "33",
+ "number_raw": "33/M-DAG/PER/6/2014",
+ "year": 2014,
+ "title": "Peraturan Menteri Perdagangan Nomor 33/M-DAG/PER/6/2014 Tahun 2014 tentang Organisasi dan Tata Kerja Komite Anti Dumping Indonesia",
+ "about": "Organisasi dan Tata Kerja Komite Anti Dumping Indonesia",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN - STRUKTUR ORGANISASI",
+ "field": "",
+ "date_enacted": "2014-06-30",
+ "date_promulgated": null,
+ "date_effective": "2014-06-30",
+ "gazette": "JDIH.KEMENDAG.GO.ID : 6 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2024-14",
+   "target_bpk_id": 294659,
+   "label": "Permendag No. 14 Tahun 2024",
+   "about": "Organisasi Dan Tata Kerja Komite Antidumping Indonesia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 30 Juni 2014.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/265788/Permendag%20No.%2033%20Tahun%202014.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:38:00Z"
+}

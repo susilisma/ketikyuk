@@ -1,0 +1,50 @@
+{
+ "id": "PERPRES-2023-53",
+ "source": "bpk",
+ "bpk_id": 263640,
+ "url": "https://peraturan.bpk.go.id/Details/263640/perpres-no-53-tahun-2023",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "53",
+ "number_raw": "53",
+ "year": 2023,
+ "title": "Peraturan Presiden (Perpres) Nomor 53 Tahun 2023 tentang Perubahan atas Peraturan Presiden Nomor 33 Tahun 2020 tentang Standar Harga Satuan Regional",
+ "about": "Perubahan atas Peraturan Presiden Nomor 33 Tahun 2020 tentang Standar Harga Satuan Regional",
+ "issuer": "Pemerintah Pusat",
+ "subject": "APBD - PENGELOLAAN KEUANGAN NEGARA / DAERAH - STANDAR / PEDOMAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2023-09-11",
+ "date_promulgated": "2023-09-11",
+ "date_effective": "2023-09-11",
+ "gazette": "LN 2023 (112) : 7 hlm., jdih.setneg.go.id",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2025-72",
+   "target_bpk_id": 321610,
+   "label": "Perpres No. 72 Tahun 2025",
+   "about": "Standar Harga Satuan Regional"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2020-33",
+   "target_bpk_id": 132592,
+   "label": "PERPRES No. 33 Tahun 2020",
+   "about": "Standar Harga Satuan Regional"
+  }
+ ],
+ "abstract": "Untuk mendukung kelancaran penyelenggaraan pemerintahan daerah, perlu dilakukan penyesuaian pengaturan mengenai mekanisme pertanggungiawaban dan beberapa harga satuan biaya dalam Peraturan Presiden Nomor 33 Tahun 2020 tentang Standar Harga Satuan Regional dengan tetap berdasarkan pada prinsip efisiensi, efektivitas, dan akuntabilitas.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 1 Tahun 2022; PP Nomor 12 Tahun 2019; dan Perpres Nomor 33 Tahun 2020.\nPerpres ini mengatur tentang perubahan atas Perpres Nomor 33 tahun 2020 entang Standar Harga Satuan Regional. Di antara Pasal 3 dan Pasal 4 disisipkan 1 (satu) pasal, yakni Pasal 3A yang menyatakan bahwa Pertanggungjawaban biaya perjalanan dinas dalam negeri sebagaimana dimaksud dalam Pasal 1 ayat (2) huruf b dilakukan secara at cost (biaya riil). Pertanggungiawaban perjalanan dinas dalam negeri bagi pimpinan dan anggota Dewan Perwakilan Rakyat Daerah dilakukan secara lumpsum dengan memperhatikan prinsip efisiensi, efektivitas, kepatutan, kewajaran, dan akuntabel.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 11 September 2023.\nPerpres ini mengubah Perpres Nomor 33 Tahun 2020.\nKetentuan mengenai pertanggungiawaban perjalanan dinas dalam negeri bagi pimpinan dan anggota Dewan Perwakilan Rakyat Daerah secara lumpsum digunakan paling lambat tahun anggaran 2024.\nLampiran file: 3 berkas.",
+ "citations": [
+  "PERPRES-2020-33",
+  "UU-2022-1",
+  "PP-2019-12"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/320758/Perpres%20Nomor%2053%20Tahun%202023.pdf",
+  "https://peraturan.bpk.go.id/Download/320759/Perpres%20Nomor%2053%20Tahun%202023%20-%20Lampiran%20I.pdf",
+  "https://peraturan.bpk.go.id/Download/320760/Perpres%20Nomor%2053%20Tahun%202023%20-%20Lampiran%20II.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:33:12Z"
+}

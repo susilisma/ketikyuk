@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2018-93",
+ "source": "bpk",
+ "bpk_id": 94735,
+ "url": "https://peraturan.bpk.go.id/Details/94735/perpres-no-93-tahun-2018",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "93",
+ "number_raw": "93",
+ "year": 2018,
+ "title": "Peraturan Presiden (Perpres) Nomor 93 Tahun 2018 tentang Perubahan atas Peraturan Presiden Nomor 67 Tahun 2017 tentang Tunjangan Kinerja Pegawai di Lingkungan Kementerian Ketenagakerjaan",
+ "about": "Perubahan atas Peraturan Presiden Nomor 67 Tahun 2017 tentang Tunjangan Kinerja Pegawai di Lingkungan Kementerian Ketenagakerjaan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA",
+ "field": "",
+ "date_enacted": "2018-10-02",
+ "date_promulgated": "2018-10-05",
+ "date_effective": "2018-10-05",
+ "gazette": "LN.2018/NO.180, LL SETNEG : 5 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-133",
+   "target_bpk_id": 305102,
+   "label": "Perpres No. 133 Tahun 2024",
+   "about": "Tunjangan Kinerja Pegawai di Lingkungan Kementerian Ketenagakerjaan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2017-67",
+   "target_bpk_id": 73028,
+   "label": "PERPRES No. 67 Tahun 2017",
+   "about": "Tunjangan Kinerja Pegawai di Lingkungan Kementerian Ketenagakerjaan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 05 Oktober 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/85221/Perpres%20Nomor%2093%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:28:58Z"
+}

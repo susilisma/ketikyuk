@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2016-44",
+ "source": "bpk",
+ "bpk_id": 40374,
+ "url": "https://peraturan.bpk.go.id/Details/40374/x",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "44",
+ "number_raw": "44",
+ "year": 2016,
+ "title": "Peraturan Presiden (Perpres) Nomor 44 Tahun 2016 tentang Daftar Bidang Usaha Yang Tertutup Dan Bidang Usaha Yang Terbuka Dengan Persyaratan Di Bidang Penanaman Modal",
+ "about": "Daftar Bidang Usaha Yang Tertutup Dan Bidang Usaha Yang Terbuka Dengan Persyaratan Di Bidang Penanaman Modal",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PENANAMAN MODAL DAN INVESTASI",
+ "field": "",
+ "date_enacted": "2016-05-12",
+ "date_promulgated": "2016-05-18",
+ "date_effective": "2016-05-18",
+ "gazette": "LN.2016/No.97, LL SETNEG : 11 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2021-10",
+   "target_bpk_id": 161806,
+   "label": "PERPRES No. 10 Tahun 2021",
+   "about": "Bidang Usaha Penanaman Modal"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2014-39",
+   "target_bpk_id": 40388,
+   "label": "PERPRES No. 39 Tahun 2014",
+   "about": "Daftar Bidang Usaha Yang Tertutup Dan Bidang Usaha Yang Terbuka Dengan Persyaratan Di Bidang Penanaman Modal"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 18 Mei 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/226323/Perpres%20Nomor%2044%20Tahun%202016-.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:39Z"
+}

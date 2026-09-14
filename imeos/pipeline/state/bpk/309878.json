@@ -1,0 +1,56 @@
+{
+ "id": "PERMENAKER-2024-15",
+ "source": "bpk",
+ "bpk_id": 309878,
+ "url": "https://peraturan.bpk.go.id/Details/309878/permenaker-no-15-tahun-2024",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "15",
+ "number_raw": "15",
+ "year": 2024,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 15 Tahun 2024 tentang Pemberian Tunjangan Kinerja Pegawai di Lingkungan Kementerian Ketenagakerjaan",
+ "about": "Pemberian Tunjangan Kinerja Pegawai di Lingkungan Kementerian Ketenagakerjaan",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-12-02",
+ "date_promulgated": "2024-12-04",
+ "date_effective": "2024-12-04",
+ "gazette": "BN 2024 (913); 12 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENAKER-2019-22",
+   "target_bpk_id": 145277,
+   "label": "Permenaker No. 22 Tahun 2019",
+   "about": "Perubahan Kedua atas Peraturan Menteri Ketenagakerjaan Nomor 10 Tahun 2017 tentang Pedoman Pemberian Tunjangan Kinerja bagi Pegawai Kementerian Ketenagakerjaan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENAKER-2018-14",
+   "target_bpk_id": 146306,
+   "label": "Permenaker No. 14 Tahun 2018",
+   "about": "Perubahan atas Peraturan Menteri Ketenagakerjaan Nomor 10 Tahun 2017 tentang Pedoman Pemberian Tunjangan Kinerja bagi Pegawai Kementerian Ketenagakerjaan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENAKER-2017-10",
+   "target_bpk_id": 145522,
+   "label": "Permenaker No. 10 Tahun 2017",
+   "about": "Pedoman Pemberian Tunjangan Kinerja bagi Pegawai Kementerian Ketenagakerjaan"
+  }
+ ],
+ "abstract": "bahwa untuk melaksanakan ketentuan Pasal 12 Peraturan\nPresiden Nomor 133 Tahun 2024 tentang Tunjangan Kinerja\nPegawai di Lingkungan Kementerian Ketenagakerjaan\nDasar hukum peraturan ini adalah PAsal 17 ayat (3) UUD 1945; UU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024; Perpres Nomor 133 Tahun 2024; Perpres Nomor 164 Tahun 2024\nPeraturan ini mengatur mengenai pemberian tunjangan kinerja; komponen besaran tunjangan kinerja; pemotongan tunjangan kinerja; tunjangan kinerja lainnya; penghitungan tunjangan kinerja; pemberhentian pemberian tunjangan kinerja; pembayaran tunjangan kinerja",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 04 Desember 2024.\nPada saat Peraturan Menteri ini mulai berlaku:\na. Peraturan Menteri Ketenagakerjaan Nomor 10 Tahun 2017\ntentang Pedoman Pemberian Tunjangan Kinerja bagi\nPegawai Kementerian Ketenagakerjaan (Berita Negara\nRepublik Indonesia Tahun 2017 Nomor 1142);\nb. Peraturan Menteri Ketenagakerjaan Nomor 14 Tahun 2018\ntentang Perubahan atas Peraturan Menteri\nKetenagakerjaan Nomor 10 Tahun 2017 tentang Pedoman\nPemberian Tunjangan Kinerja bagi Pegawai Kementerian\nKetenagakerjaan (Berita Negara Republik Indonesia Tahun\n2018 Nomor 1526); dan\nc. Peraturan Menteri Ketenagakerjaan Nomor 22 Tahun 2019\ntentang Perubahan Kedua atas Peraturan Menteri\nKetenagakerjaan Nomor 10 Tahun 2017 tentang Pedoman\nPemberian Tunjangan Kinerja bagi Pegawai Kementerian\nKetenagakerjaan (Berita Negara Republik Indonesia Tahun\n2019 Nomor 1266),\ndicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2024-133",
+  "PERPRES-2024-164"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/370427/Permenaker%20Nomor%2015%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:41:25Z"
+}

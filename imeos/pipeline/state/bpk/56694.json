@@ -1,0 +1,100 @@
+{
+ "id": "KEPPRES-2002-46",
+ "source": "bpk",
+ "bpk_id": 56694,
+ "url": "https://peraturan.bpk.go.id/Details/56694/keppres-no-46-tahun-2002",
+ "form": "KEPPRES",
+ "form_long": "Keputusan Presiden (Keppres)",
+ "number": "46",
+ "number_raw": "46",
+ "year": 2002,
+ "title": "Keputusan Presiden (Keppres) Nomor 46 Tahun 2002 tentang Perubahan Atas Keputusan Presiden Nomor 103 Tahun 2001 Tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, Dan Tata Kerja Lembaga Pemerintah Non Departemen Sebagaimana Telah Diubah Dengan Keputusan Presiden Nomor 3 Tahun 2002",
+ "about": "Perubahan Atas Keputusan Presiden Nomor 103 Tahun 2001 Tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, Dan Tata Kerja Lembaga Pemerintah Non Departemen Sebagaimana Telah Diubah Dengan Keputusan Presiden Nomor 3 Tahun 2002",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA - STRUKTUR ORGANISASI",
+ "field": "",
+ "date_enacted": "2002-07-01",
+ "date_promulgated": null,
+ "date_effective": "2002-07-01",
+ "gazette": "",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PERPRES-2024-181",
+   "target_bpk_id": 306842,
+   "label": "Perpres No. 181 Tahun 2024",
+   "about": "Badan Kependudukan dan Keluarga Berencana Nasional"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PERPRES-2024-180",
+   "target_bpk_id": 306857,
+   "label": "Perpres No. 180 Tahun 2024",
+   "about": "Kementerian Kependudukan dan Pembangunan Keluarga"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2015-145",
+   "target_bpk_id": 41905,
+   "label": "PERPRES No. 145 Tahun 2015",
+   "about": "Perubahan Kedelapan atas Keputusan Presiden Nomor 103 Tahun 2001 tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, dan Tata Kerja Lembaga Pemerintah Non Kementerian"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2005-64",
+   "target_bpk_id": 42591,
+   "label": "PERPRES No. 64 Tahun 2005",
+   "about": "Perubahan Keenam atas Keputusan Presiden Nomor 103 Tahun 2001 Tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, dan Tata Kerja Lembaga Pemerintah Non Departemen"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 55536,
+   "label": "KEPPRES No. 11 Tahun 2005",
+   "about": "Tim Koordinasi Pemberantasan Tindak Pidana Korupsi"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 55563,
+   "label": "KEPPRES No. 9 Tahun 2004",
+   "about": "Perubahan Atas Keputusan Presiden Nomor 103 Tahun 2001 Tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, Dan Tata Kerja Lembaga Pemerintah Non Departemen Sebagaimana Telah Beberapa Kali Diubah Terakhir Dengan Keputusan Presiden Nomor 30 Tahun 2003"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 56118,
+   "label": "KEPPRES No. 30 Tahun 2003",
+   "about": "Perubahan Atas Keputusan Presiden Nomor 103 Tahun 2001 Tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, Dan Tata Kerja Lembaga Pemerintah Non Departemen Sebagaimana Telah Beberapa Kali Diubah Terakhir Dengan Keputusan Presiden Nomor 46 Tahun 2002"
+  },
+  {
+   "type": "Diubah sebagian dengan",
+   "target": "PERPRES-2010-34",
+   "target_bpk_id": 41052,
+   "label": "PERPRES No. 34 Tahun 2010",
+   "about": "Badan Intelijen Negara"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 57340,
+   "label": "KEPPRES No. 103 Tahun 2001",
+   "about": "Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, dan Tata Kerja Lembaga Pemerintah Non Departemen"
+  },
+  {
+   "type": "Mengubah sebagian",
+   "target": null,
+   "target_bpk_id": 56485,
+   "label": "KEPPRES No. 3 Tahun 2002",
+   "about": "Perubahan Atas Keputusan Presiden Nomor 103 Tahun 2001 Tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, Dan Tata Kerja Lembaga Pemerintah Non Departemen"
+  }
+ ],
+ "abstract": "",
+ "note": "Keputusan Presiden (KEPPRES) ini mulai berlaku pada tanggal 01 Juli 2002.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/46186/KEPPRES%20No.46%20TH%202002.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:27:21Z"
+}

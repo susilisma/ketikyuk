@@ -1,0 +1,40 @@
+{
+ "id": "PERPRES-2025-71",
+ "source": "bpk",
+ "bpk_id": 338421,
+ "url": "https://peraturan.bpk.go.id/Details/338421/perpres-no-71-tahun-2025",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "71",
+ "number_raw": "71",
+ "year": 2025,
+ "title": "Peraturan Presiden (Perpres) Nomor 71 Tahun 2025 tentang Perubahan atas Peraturan Presiden Nomor 57 Tahun 2024 tentang Petunjuk Teknis Dana Alokasi Khusus Fisik",
+ "about": "Perubahan atas Peraturan Presiden Nomor 57 Tahun 2024 tentang Petunjuk Teknis Dana Alokasi Khusus Fisik",
+ "issuer": "Pemerintah Pusat",
+ "subject": "APBN - PENGELOLAAN KEUANGAN NEGARA / DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-06-16",
+ "date_promulgated": "2025-06-16",
+ "date_effective": "2025-06-16",
+ "gazette": "LN 2025 (102) : 4 hlm.; https://djpk.kemenkeu.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2024-57",
+   "target_bpk_id": 284228,
+   "label": "Perpres No. 57 Tahun 2024",
+   "about": "Petunjuk Teknis Dana Alokasi Khusus Fisik"
+  }
+ ],
+ "abstract": "Untuk menyesuaikan dengan rencana kerja pemerintah dan rencana pembangunan jangka menengah nasional, perlu dilakukan penyesuaian terhadap petunjuk teknis pada beberapa bidang dana alokasi khusus fisik.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD 1945; PP No. 37 Tahun 2023; dan Perpres No. 57 Tahun 2024.\nPerpres ini mengatur mengenai perubahan beberapa ketentuan dalam Peraturan Presiden Nomor 57 Tahun 2024 tentang Petunjuk Teknis Dana Alokasi Khusus Fisik (Lembaran Negara Republik Indonesia Tahun 2024 Nomor 75).",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 16 Juni 2025.\nPerpres ini mengubah Perpres No. 57 Tahun 2024.\nLampiran file: 4 hlm.",
+ "citations": [
+  "PP-2023-37",
+  "PERPRES-2024-57"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/401487/Perpres%20Nomor%2071%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:33:14Z"
+}

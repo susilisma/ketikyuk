@@ -1,0 +1,49 @@
+{
+ "id": "PMK-2020-24",
+ "source": "bpk",
+ "bpk_id": 136894,
+ "url": "https://peraturan.bpk.go.id/Details/136894/pmk-no-24pmk072020",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "24",
+ "number_raw": "24/PMK.07/2020",
+ "year": 2020,
+ "title": "Peraturan Menteri Keuangan Nomor 24/PMK.07/2020 Tahun 2020 tentang Perubahan Atas Peraturan Menteri Keuangan Nomor 74/PMK.07/2016 Tentang Penyelenggaraan Sistem Informasi Keuangan Daerah",
+ "about": "Perubahan Atas Peraturan Menteri Keuangan Nomor 74/PMK.07/2016 Tentang Penyelenggaraan Sistem Informasi Keuangan Daerah",
+ "issuer": "Kementerian Keuangan",
+ "subject": "APBD - PENGELOLAAN KEUANGAN NEGARA / DAERAH",
+ "field": "",
+ "date_enacted": "2020-03-23",
+ "date_promulgated": "2020-03-24",
+ "date_effective": "2020-03-24",
+ "gazette": "BN. 2020/NO. 281, JDIH.KEMENKEU.GO.ID : 8 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-93",
+   "target_bpk_id": 311431,
+   "label": "PMK No. 93 Tahun 2024",
+   "about": "Platform Digital Sinergi Kebijakan Fiskal Nasional"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PMK-2016-74",
+   "target_bpk_id": 136911,
+   "label": "PMK No. 74/PMK.07/2016",
+   "about": "Penyelenggaraan Sistem Informasi Keuangan Daerah"
+  }
+ ],
+ "abstract": "bahwa untuk meningkatkan efektivitas penyelenggaraan Sistem Informasi Keuangan Daerah perlu dilakukan penyempurnaan atas Peraturan Menteri Keuangan Nomor 74/PMK.07/2016 tentang Penyelenggaraan Sistem Informasi Keuangan Daerah, perlu menetapkan Peraturan Menteri Keuangan tentang Perubahan atas Peraturan Menteri Keuangan Nomor 74/PMK.07/2016 tentang Penyelenggaraan Sistem Informasi Keuangan Daerah;\nDasar Hukum Peraturan ini adalah:\nPasal 17 ayat (3) UUD RI Tahun 1945; UU No. 39 Tahun 2008 (LN Tahun 2008 No. 166, TLN No. 4916); PP No. 56 Tahun 2005 (LN Tahun 2005 No. 138, TLN No. 4576) sebagaimana telah diubah dengan PP No. 65 Tahun 2010 (LN Tahun 2010 No. 110, TLN No. 5155); Perpres RI No. 28 Tahun 2015 (LN Tahun 2015 No. 51); Permenkeu RI No. 74/PMK.07/2016 (BN Tahun 2016 No. 667); Permenkeu RI No. 217/PMK.01/2018 (BN Tahun 2018 No. 1862) sebagaimana telah beberapa kali diubah, terakhir dengan Permenkeu RI No. 229/PMK.01/2019 (BN Tahun 2019 No. 1745);\nDalam Peraturan Menteri Keuangan Republik Indonesia ini diatur: Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 74/PMK.07/2016 tentang Penyelenggaraan Sistem Informasi Keuangan Daerah, diubah sebagai berikut:\n1. ketentuan mengenai pengertian umum/istilah yang terdapat dalam Peraturan Menteri Keuangan Nomor 74/PMK.07/2016 (vide Pasal 1);\n2. ketentuan mengenai Data SIKD (vide Pasal 21 ayat (2)); dan\n3. ketentuan mengenai penyelenggaraan SIKD (vide Pasal 36).",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 24 Maret 2020.\nPerubahan Atas Peraturan Menteri Keuangan Nomor 74/PMK.07/2016 Tentang Penyelenggaraan Sistem Informasi Keuangan Daerah\nPenyelenggaraan Data Transaksi Pemerintah Daerah dilaksanakan paling lambat tanggal 31 Desember 2021.\n8 HLM.",
+ "citations": [
+  "PMK-2016-74",
+  "UU-2008-39",
+  "PP-2005-56",
+  "PP-2010-65"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/127803/24_PMK.07_2020.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:34:27Z"
+}

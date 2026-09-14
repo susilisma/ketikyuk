@@ -1,0 +1,45 @@
+{
+ "id": "PMK-2025-86",
+ "source": "bpk",
+ "bpk_id": 337124,
+ "url": "https://peraturan.bpk.go.id/Details/337124/pmk-no-86-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "86",
+ "number_raw": "86",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 86 Tahun 2025 tentang Organisasi dan Tata Kerja Lembaga National Single Window",
+ "about": "Organisasi dan Tata Kerja Lembaga National Single Window",
+ "issuer": "Kementerian Keuangan",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-12-08",
+ "date_promulgated": "2025-12-18",
+ "date_effective": "2025-12-18",
+ "gazette": "BN 2025 (1081); 24 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2022-78",
+   "target_bpk_id": 215623,
+   "label": "PMK No. 78/PMK.01/2022",
+   "about": "Organisasi dan Tata Kerja Lembaga National Single Window"
+  }
+ ],
+ "abstract": "a. bahwa adanya dinamika perubahan lingkungan strategis\nglobal dan penambahan penugasan kepada organisasi,\nserta untuk meningkatkan daya saing nasional, kinerja\nlogistik nasional, dan iklim ekosistem investasi, serta\nmendukung kemudahan berusaha, perlu dilakukan\npenataan organisasi dan tata kerja Lembaga National\nSingle Window;\nb. bahwa Peraturan Menteri Keuangan Nomor\n78/PMK.01/2022 tentang Organisasi dan Tata Kerja\nLembaga National Single Window sudah tidak sesuai\ndengan perkembangan hukum dan kebutuhan organisasi,\nsehingga perlu diganti;\nc. bahwa penataan organisasi dan tata kerja Lembaga\nNational Single Window sebagaimana dimaksud dalam\nhuruf a, telah mendapatkan persetujuan tertulis dari\nMenteri Pendayagunaan Aparatur Negara dan Reformasi\nBirokrasi;\nd. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a, huruf b, dan huruf c, perlu\nmenetapkan Peraturan Menteri Keuangan tentang\nOrganisasi dan Tata Kerja Lembaga National Single\nWindow;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 28 Tahun 2025, Peraturan Presiden Nomor 44 Tahun 2018, Peraturan Presiden Nomor 95 Tahun 2018, Peraturan Presiden Nomor 158 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengatur tentang ketentuan umum, kedudukan, tugas dan fungsi, susunan organisasi, sekretariat, direktorat efisiensi proses bisnis, direktorat teknologi informasi, direktorat pengelolaan layanan, data dan kemitraan, tata kerja, penataan organisasi, ketentuan peralihan dan ketentuan penutup.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 18 Desember 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan Menteri ini mulai berlaku, Peraturan\nMenteri Keuangan Nomor 78/PMK.01/2022 tentang\nOrganisasi dan Tata Kerja Lembaga National Single Window",
+ "citations": [
+  "PMK-2022-78",
+  "UU-2008-39",
+  "PP-2025-28",
+  "PERPRES-2018-44",
+  "PERPRES-2018-95",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/400023/86%20th%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:32:29Z"
+}

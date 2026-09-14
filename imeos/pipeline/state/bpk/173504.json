@@ -1,0 +1,48 @@
+{
+ "id": "PERPRES-2021-62",
+ "source": "bpk",
+ "bpk_id": 173504,
+ "url": "https://peraturan.bpk.go.id/Details/173504/perpres-no-62-tahun-2021",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "62",
+ "number_raw": "62",
+ "year": 2021,
+ "title": "Peraturan Presiden (Perpres) Nomor 62 Tahun 2021 tentang Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi",
+ "about": "Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PARIWISATA DAN KEBUDAYAAN - PENDIDIKAN - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "",
+ "date_enacted": "2021-07-15",
+ "date_promulgated": "2021-07-16",
+ "date_effective": "2021-07-16",
+ "gazette": "LN.2021/No.156, jdih.setkab.go.id : 26 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-188",
+   "target_bpk_id": 306926,
+   "label": "Perpres No. 188 Tahun 2024",
+   "about": "Kementerian Pendidikan Dasar dan Menengah"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2019-82",
+   "target_bpk_id": 127675,
+   "label": "PERPRES No. 82 Tahun 2019",
+   "about": "Kementerian Pendidikan dan Kebudayaan"
+  }
+ ],
+ "abstract": "Dengan ditetapkannya Keputusan Presiden Nomor 72/P Tahun 2021 tentang Pembentukan dan Pengubahan Kementerian serta Pengangkatan Beberapa Menteri Negara Kabinet Indonesia Maju Periode Tahun 2019-2024, perlu menetapkan Peraturan Presiden tentang Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) dan Pasal 17 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 39 Tahun 2008; dan Perpres Nomor 68 Tahun 2019.\nPerpres ini mengatur mengenai : 1) kedudukan, tugas dan fungsi; 2) organisasi; 3) Unit Pelaksana Teknis; 4) tata kerja; dan 5) pendanaan Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi. Kementerian ini berada di bawah dan bertanggung jawab kepada presiden yang dipimpin oleh Menteri. Dalam memimpin kementerian, Menteri dibantu oleh Wakil Menteri sesuai dengan penunjukkan presiden. Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi mempunyai tugas menyelenggarakan urusan pemerintahan di bidang pendidikan, kebudayaan, ilmu pengetahuan, dan teknologi untuk membantu Presiden dalam menyelenggarakan pemerintahan negara. Segala pendanaan yang diperlukan untuk pelaksanaan tugas dan fungsi Kementerian dibebankan kepada APBN.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 16 Juli 2021.\nPerpres ini mencabut Perpres Nomor 82 Tahun 2019 dan Perpres Nomor 50 Tahun 2020.",
+ "citations": [
+  "KEPPRES-2021-72",
+  "UU-2008-39",
+  "PERPRES-2019-68"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/166697/Perpres%20Nomor%2062%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:27:01Z"
+}

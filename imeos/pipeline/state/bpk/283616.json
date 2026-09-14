@@ -1,0 +1,48 @@
+{
+ "id": "UU-2024-2",
+ "source": "bpk",
+ "bpk_id": 283616,
+ "url": "https://peraturan.bpk.go.id/Details/283616/uu-no-2-tahun-2024",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "2",
+ "number_raw": "2",
+ "year": 2024,
+ "title": "Undang-undang (UU) Nomor 2 Tahun 2024 tentang Provinsi Daerah Khusus Jakarta",
+ "about": "Provinsi Daerah Khusus Jakarta",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-04-25",
+ "date_promulgated": "2024-04-25",
+ "date_effective": null,
+ "gazette": "LN 2024 (76), TLN (6913) : 44 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2024-151",
+   "target_bpk_id": 309354,
+   "label": "UU No. 151 Tahun 2024",
+   "about": "Perubahan atas Undang-Undang Nomor 2 Tahun 2024 tentang Provinsi Daerah Khusus Jakarta"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-2007-29",
+   "target_bpk_id": 39922,
+   "label": "UU No. 29 Tahun 2007",
+   "about": "Pemerintahan Provinsi Daerah Khusus Ibukota Jakarta sebagai Ibukota Negara Kesatuan Republik Indonesia"
+  }
+ ],
+ "abstract": "Undang-Undang Nomor 3 Tahun 2022 tentang Ibu Kota Negara sebagaimana telah diubah dengan Undang-Undang Nomor 21 Tahun 2023 tentang Perubahan atas Undang-Undang Nomor 3 Tahun 2022 tentang lbu Kota Negara telah mengamanatkan untuk melakukan perubahan terhadap Undang-Undang Nomor 29 Tahun 2007 tentang Pemerintahan Provinsi Daerah Khusus Ibukota Jakarta sebagai Ibukota Negara Kesatuan Republik Indonesia beserta peraturan pelaksanaannya untuk menyesuaikan dengan kebutuhan hukum dan kekhususan yang diberikan undang-undang.\nDasar hukum UU ini adalah Pasal 18, Pasal 18A, Pasal 18B, Pasal 20, Pasal 21, dan Pasal 22D ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 dan UU Nomor 3 Tahun 2022 sebagaimana telah diubah dengan UU Nomor 21 Tahun 2023.\nUU ini mengatur mengenai Provinsi Daerah Khusus Jakarta dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Dengan Undang-Undang ini, Provinsi Daerah Khusus Ibukota Jakarta diubah menjadi Provinsi Daerah Khusus Jakarta. Provinsi Daerah Khusus Jakarta merupakan daerah otonom pada tingkat provinsi yang berkedudukan sebagai Pusat Perekonomian Nasional dan Kota Global. Pusat Perekonomian Nasional adalah pusat aktivitas ekonomi dan bisnis nasional berskala global yang menjadi penopang pembangunan perekonomian nasional secara berkelanjutan. Sedangkan Kota Global adalah kota yang menyelenggarakan kegiatan internasional di bidang perdagangan, investasi, bisnis, pariwisata, kebudayaan, pendidikan, kesehatan, dan menjadi lokasi kantor pusat perusahaan dan lembaga baik nasional, regional, maupun internasional, serta menjadi pusat produksi produk strategis internasional, sehingga menciptakan nilai ekonomi yang besar, baik bagi kota yang bersangkutan maupun bagi daerah sekitar. Penyelenggara Pemerintahan Provinsi Daerah Khusus Jakarta terdiri atas Gubernur dan DPRD dibantu oleh perangkat daerah. Pemerintah Provinsi Daerah Khusus Jakarta dipimpin oleh satu orang Gubernur dibantu oleh satu orang Wakil Gubernur yang dipilih secara langsung melalui pemilihan umum Kepala Daerah dan Wakil Kepala Daerah.\nPemerintah Provinsi Daerah Khusus Jakarta dapat melakukan kerja sama dengan daerah, badan usaha dan lembaga, baik di dalam negeri maupun di luar negeri secara langsung. Dalam hal kerja sama dimaksud berkaitan dengan aspek keuangan negara, Pemerintah Provinsi Daerah Khusus Jakarta terlebih dahulu melakukan koordinasi dengan menteri yang menyelenggarakan urusan pemerintahan di bidang keuangan negara.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal .\nPada saat Undang-Undang ini mulai berlaku, Undang-Undang Nomor 29 Tahun 2007 tentang Pemerintahan Provinsi Daerah Khusus Ibukota Jakarta sebagai Ibukota Negara Kesatuan Republik Indonesia (Lembaran Negara Republik lndonesia Tahun 2007 Nomor 93, Tambahan Lembaran Negara Republik Indonesia Nomor 4744), dicabut dan dinyatakan tidak berlaku.\nUndang-Undang ini mulai berlaku pada saat ditetapkan Keputusan Presiden mengenai pemindahan lbu Kota Negara Kesatuan Republik Indonesia dari Provinsi Daerah Khusus Ibukota Jakarta ke Ibu Kota Nusantara.\nLampiran file: 60 hlm. (batang tubuh hlm 1 sd 44; penjelasan hlm 45 sd 60)",
+ "citations": [
+  "UU-2022-3",
+  "UU-2023-21",
+  "UU-2007-29"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/342638/UU%20Nomor%202%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:24:24Z"
+}

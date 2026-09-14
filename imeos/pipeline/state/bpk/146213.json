@@ -1,0 +1,37 @@
+{
+ "id": "PERMENAKER-2016-39",
+ "source": "bpk",
+ "bpk_id": 146213,
+ "url": "https://peraturan.bpk.go.id/Details/146213/permenaker-no-39-tahun-2016",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "39",
+ "number_raw": "39",
+ "year": 2016,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 39 Tahun 2016 tentang Penempatan Tenaga Kerja",
+ "about": "Penempatan Tenaga Kerja",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "KETENAGAKERJAAN",
+ "field": "",
+ "date_enacted": "2016-12-27",
+ "date_promulgated": "2016-12-27",
+ "date_effective": "2016-12-27",
+ "gazette": "BN.2016/No.1990, jdih.kemnaker.go.id : 50 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENAKER-2024-18",
+   "target_bpk_id": 312746,
+   "label": "Permenaker No. 18 Tahun 2024",
+   "about": "Penempatan Tenaga Kerja Dalam Negeri"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Ketenagakerjaan Republik Indonesia ini mulai berlaku pada tanggal 27 Desember 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/252373/Kemnaker%20No.%2039%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:41:22Z"
+}

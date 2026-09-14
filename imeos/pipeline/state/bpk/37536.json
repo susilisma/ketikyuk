@@ -1,0 +1,67 @@
+{
+ "id": "UU-2016-13",
+ "source": "bpk",
+ "bpk_id": 37536,
+ "url": "https://peraturan.bpk.go.id/Details/37536/uu-no-13-tahun-2016",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "13",
+ "number_raw": "13",
+ "year": 2016,
+ "title": "Undang-undang (UU) Nomor 13 Tahun 2016 tentang Paten",
+ "about": "Paten",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HAK ATAS KEKAYAAN INTELEKTUAL",
+ "field": "",
+ "date_enacted": "2016-08-26",
+ "date_promulgated": "2016-08-26",
+ "date_effective": "2016-08-26",
+ "gazette": "LN.2016/NO.176, TLN NO.5922,LL SETNEG : 75 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2024-65",
+   "target_bpk_id": 306515,
+   "label": "UU No. 65 Tahun 2024",
+   "about": "Perubahan Ketiga atas Undang-Undang Nomor 13 Tahun 2016 tentang Paten"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 234926,
+   "label": "PERPU No. 2 Tahun 2022",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-2001-14",
+   "target_bpk_id": 37540,
+   "label": "UU No. 14 Tahun 2001",
+   "about": "Paten"
+  }
+ ],
+ "abstract": "bahwa paten merupakan kekayaan intelektual yang diberikan oleh negara kepada inventor atas hasil invensinya di bidang teknologi yang mempunyai peranan strategis dalam mendukung pembangunan bangsa dan memajukan kesejahteraan umum; bahwa perkembangan teknologi dalam berbagai bidang telah sedemikian pesat sehingga diperlukan peningkatan pelindungan bagi inventor dan pemegang paten,bahwa peningkatan pelindungan paten sangat penting bagi inventor dan pemegang paten karena dapat emotivasi inventor untuk meningkatkan hasil karya, baik secara kuantitas maupun kualitas untuk mendorong kesejahteraan bangsa dan negara serta menciptakan iklim usaha yang sehat,bahwa Undang-Undang Nomor 14 Tahun 2001 tentang Paten sudah tidak sesuai dengan perkembangan hukum, baik nasional maupun internasional sehingga perlu diganti,bahwa berdasarkan pertimbangan perlu membentuk Undang-Undang tentang Paten;\nPasal 5 ayat (1), Pasal 20, Pasal 28C ayat (1), dan Pasal 33 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945\nPerkembangan teknologi diarahkan pada peningkatan kualitas penguasaan dan pemanfaatan teknologi dalam rangka - mendukung transformasiperekonomian nasional menuju perekonomian yang berbasis pada keunggulan kompetitif. salah satu kebijakan diarahkan kepada meningkatkan pendayagunaan teknologi dalam sektor produksi untuk peningkatan perekonomian nasional dalam penghargaan terhadap teknologi dalam negeri.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 26 Agustus 2016.\n75 halaman",
+ "citations": [
+  "UU-2001-14"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/26629/UU%20Nomor%2013%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:26:18Z"
+}

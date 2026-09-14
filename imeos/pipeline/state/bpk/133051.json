@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2020-35",
+ "source": "bpk",
+ "bpk_id": 133051,
+ "url": "https://peraturan.bpk.go.id/Details/133051/perpres-no-35-tahun-2020",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "35",
+ "number_raw": "35",
+ "year": 2020,
+ "title": "Peraturan Presiden (Perpres) Nomor 35 Tahun 2020 tentang Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan",
+ "about": "Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI - STRUKTUR ORGANISASI",
+ "field": "",
+ "date_enacted": "2020-02-25",
+ "date_promulgated": "2020-02-26",
+ "date_effective": "2020-02-26",
+ "gazette": "LN.2020/NO.60, JDIH.SETKAB.GO.ID : 22 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-144",
+   "target_bpk_id": 306486,
+   "label": "Perpres No. 144 Tahun 2024",
+   "about": "Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2015-9",
+   "target_bpk_id": 41730,
+   "label": "PERPRES No. 9 Tahun 2015",
+   "about": "Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 26 Februari 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/123837/Perpres%20Nomor%2035%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:28:38Z"
+}

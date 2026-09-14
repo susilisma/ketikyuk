@@ -1,0 +1,52 @@
+{
+ "id": "PMK-2015-244",
+ "source": "bpk",
+ "bpk_id": 147246,
+ "url": "https://peraturan.bpk.go.id/Details/147246/pmk-no-244pmk032015",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "244",
+ "number_raw": "244/PMK.03/2015",
+ "year": 2015,
+ "title": "Peraturan Menteri Keuangan Nomor 244/PMK.03/2015 Tahun 2015 tentang Tata Cara Penghitungan dan Pengembalian Kelebihan Pembayaran Pajak",
+ "about": "Tata Cara Penghitungan dan Pengembalian Kelebihan Pembayaran Pajak",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "",
+ "date_enacted": "2015-12-28",
+ "date_promulgated": "2015-12-29",
+ "date_effective": "2015-12-29",
+ "gazette": "BN.2015/NO.1964, JDIH.KEMENKEU.GO.ID : 18 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-81",
+   "target_bpk_id": 306614,
+   "label": "PMK No. 81 Tahun 2024",
+   "about": "Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2015-185",
+   "target_bpk_id": 121778,
+   "label": "PMK No. 185/PMK.03/2015",
+   "about": "Perubahan Atas Peraturan Menteri Keuangan Nomor 16/PMK.03/2011 Tentang Tata Cara Penghitungan Dan Pengembalian Kelebihan Pembayaran Pajak"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2011-16",
+   "target_bpk_id": 147251,
+   "label": "PMK No. 16/PMK.03/2011",
+   "about": "Tata Cara Penghitungan dan Pengembalian Kelebihan Pembayaran Pajak"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 29 Desember 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/139127/244_PMK.03_2015.pdf",
+  "https://peraturan.bpk.go.id/Download/139128/244_PMK.03_2015..pdf"
+ ],
+ "fetched_at": "2026-09-14T06:35:09Z"
+}

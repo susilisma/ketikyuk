@@ -1,0 +1,48 @@
+{
+ "id": "PP-2024-45",
+ "source": "bpk",
+ "bpk_id": 305293,
+ "url": "https://peraturan.bpk.go.id/Details/305293/pp-no-45-tahun-2024",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "45",
+ "number_raw": "45",
+ "year": 2024,
+ "title": "Peraturan Pemerintah (PP) Nomor 45 Tahun 2024 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Kementerian Hukum dan Hak Asasi Manusia",
+ "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Kementerian Hukum dan Hak Asasi Manusia",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-10-18",
+ "date_promulgated": "2024-10-18",
+ "date_effective": "2024-12-17",
+ "gazette": "LN 2024 (240), TLN (7000) : 11 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PP-2026-30",
+   "target_bpk_id": 351388,
+   "label": "PP No. 30 Tahun 2026",
+   "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Kementerian Hukum"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2019-28",
+   "target_bpk_id": 106025,
+   "label": "PP No. 28 Tahun 2019",
+   "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "Untuk melakukan penyesuaian jenis dan tarif atas jenis Penerimaan Negara Bukan Pajak yang berlaku pada Kementerian Hukum dan Hak Asasi Manusia sebagaimana telah diatur dalam Peraturan Pemerintah Nomor 28 Tahun 2019 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Kementerian Hukum dan Hak Asasi Manusia, perlu mengatur kembali jenis dan tarif atas jenis Penerimaan Negara Bukan Pajak yang berlaku pada Kementerian Hukum dan Hak Asasi Manusia.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945; UU Nomor 9 Tahun 2018; dan PP Nomor 69 Tahun 2000.\nPP ini mengatur mengenai Jenis Penerimaan Negara Bukan Pajak yang berlaku pada Kementerian Hukum dan Hak Asasi Manusia meliputi penerimaan dari: 1) pelayanan jasa hukum; 2) penyelenggaraan pelatihan\nfungsional perancang peraturan perundang-undangan; 3) pelayanan keimigrasian; 4) pelayanan kekayaan intelektual; 5) penggunaan sarana dan prasarana sesuai dengan tugas dan fungsi; 6) denda administratif; 7) jasa layanan kesehatan; dan 8) hasil kegiatan pembinaan kemandirian warga binaan pemasyarakatan. Seluruh Penerimaan Negara Bukan Pajak yang berlaku pada Kementerian Hukum dan Hak Asasi Manusia wajib disetor ke Kas Negara.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 17 Desember 2024.\nPada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 28 Tahun 2019 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Kementerian Hukum dan Hak Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 2019 Nomor 71, Tambahan Lembaran Negara Republik Indonesia Nomor 6335), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 65 hlm (batang tubuh hlm 1 sd 11, penjelasan hlm 12 sd 17, dan lampiran hlm 18 sd 65)",
+ "citations": [
+  "PP-2019-28",
+  "UU-2018-9",
+  "PP-2000-69"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/365416/PP%20Nomor%2045%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:27:35Z"
+}

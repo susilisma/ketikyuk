@@ -1,0 +1,43 @@
+{
+ "id": "PMK-2026-63",
+ "source": "bpk",
+ "bpk_id": 353754,
+ "url": "https://peraturan.bpk.go.id/Details/353754/pmk-no-63-tahun-2026",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "63",
+ "number_raw": "63",
+ "year": 2026,
+ "title": "Peraturan Menteri Keuangan Nomor 63 Tahun 2026 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 98 Tahun 2024 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Bersifat Volatil yang Berlaku pada Kementerian Agraria dan Tata Ruang/Badan Pertanahan Nasional",
+ "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 98 Tahun 2024 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Bersifat Volatil yang Berlaku pada Kementerian Agraria dan Tata Ruang/Badan Pertanahan Nasional",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-08-11",
+ "date_promulgated": "2026-08-21",
+ "date_effective": "2026-09-05",
+ "gazette": "BN.2026 (587)/6 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PMK-2024-98",
+   "target_bpk_id": 311472,
+   "label": "PMK No. 98 Tahun 2024",
+   "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Bersifat Volatil yang Berlaku pada Kementerian Agraria dan Tata Ruang/Badan Pertahanan Nasional"
+  }
+ ],
+ "abstract": "a. bahwa untuk meningkatkan pemberian pelayanan\nkepada pengguna layanan pada Kementerian Agraria\ndan Tata Ruang/Badan Pertanahan Nasional perlu\ndilakukan penambahan jenis Penerimaan Negara Bukan\nPajak bersifat volatil berupa jasa akses informasi\ngeospasial tematik pertanahan dan ruang;\nb. bahwa Peraturan Menteri Keuangan Nomor 98 Tahun\n2024 tentang Jenis dan Tarif atas Jenis Penerimaan\nNegara Bukan Pajak yang Bersifat Volatil yang Berlaku\npada Kementerian Agraria dan Tata Ruang/Badan\nPertanahan Nasional belum mengatur jenis Penerimaan\nNegara Bukan Pajak yang bersifat volatil berupa jasa\nakses informasi geospasial tematik pertanahan dan\nruang sebagaimana dimaksud dalam huruf a;\nc. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a dan huruf b, perlu menetapkan\nPeraturan Menteri Keuangan tentang Perubahan atas\nPeraturan Menteri Keuangan Nomor 98 Tahun 2024\ntentang Jenis dan Tarif atas Jenis Penerimaan Negara\nBukan Pajak yang Bersifat Volatil yang Berlaku pada\nKementerian Agraria dan Tata Ruang/Badan\nPertanahan Nasional;\nPasal 17 ayat (3) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 44 Tahun 2025, Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Menteri Keuangan Nomor 98 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 98 Tahun 2024 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Bersifat Volatil yang Berlaku pada Kementerian Agraria dan Tata Ruang/Badan Pertanahan Nasional yaitu tentang Jenis Penerimaan Negara Bukan Pajak yang bersifat\nvolatil yang berlaku pada Kementerian Agraria dan\nTata Ruang/Badan Pertanahan Nasional",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 05 September 2026.\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 98 Tahun 2024 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Bersifat Volatil yang Berlaku pada Kementerian Agraria dan Tata Ruang/Badan Pertanahan Nasional",
+ "citations": [
+  "PMK-2024-98",
+  "UU-2008-39",
+  "PP-2025-44",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/417657/2026pmkeuangan063.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:30:13Z"
+}

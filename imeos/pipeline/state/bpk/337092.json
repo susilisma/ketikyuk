@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2025-89",
+ "source": "bpk",
+ "bpk_id": 337092,
+ "url": "https://peraturan.bpk.go.id/Details/337092/pmk-no-89-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "89",
+ "number_raw": "89",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 89 Tahun 2025 tentang Penimbunan, Pemasukan, Pengeluaran, dan Pengangkutan Barang Kena Cukai",
+ "about": "Penimbunan, Pemasukan, Pengeluaran, dan Pengangkutan Barang Kena Cukai",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2025-12-18",
+ "date_promulgated": "2025-12-24",
+ "date_effective": "2025-12-31",
+ "gazette": "BN 2025 (1115); 12 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2014-226",
+   "target_bpk_id": 149553,
+   "label": "PMK No. 226/PMK.04/2014",
+   "about": "Penimbunan, Pemasukan, Pengeluaran, dan Pengangkutan Barang Kena Cukai"
+  }
+ ],
+ "abstract": "a. bahwa untuk meningkatkan pengawasan dan pelayanan,\nsimplifikasi proses bisnis, serta mengakomodasi\nperkembangan jenis penimbunan dan mutasi barang kena\ncukai sesuai perkembangan dunia usaha, perlu dilakukan\npenyesuaian pengaturan mengenai penimbunan,\npemasukan, pengeluaran, dan pengangkutan barang kena\ncukai;\nb. bahwa ketentuan mengenai penimbunan, pemasukan,\npengeluaran, dan pengangkutan barang kena cukai\nsebagaimana diatur dalam Peraturan Menteri Keuangan\nNomor 226/PMK.04/2014 tentang Penimbunan,\nPemasukan, Pengeluaran, dan Pengangkutan Barang\nKena Cukai belum menyesuaikan pengaturan\nperkembangan jenis penimbunan dan mutasi barang kena\ncukai, sehingga perlu dilakukan penggantian;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a dan huruf b, serta untuk melaksanakan\nketentuan Pasal 24 ayat (3), Pasal 25 ayat (5), Pasal 26 ayat\n(4), dan Pasal 27 ayat (5) Undang-Undang Nomor 11 Tahun\n1995 tentang Cukai sebagaimana telah beberapa kali\ndiubah terakhir dengan Undang-Undang Nomor 7 Tahun\n2021 tentang Harmonisasi Peraturan Perpajakan, perlu\nmenetapkan Peraturan Menteri Keuangan tentang\nPenimbunan, Pemasukan, Pengeluaran, dan\nPengangkutan Barang Kena Cukai\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 11 Tahun 1995, Undang-Undang Nomor 39 Tahun 2008,Peraturan Presiden Nomor 158 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024.\nPeraturan ini mengatur tentang ketentuan umum, penimbunan barang kena cukai, pemasukan, pengeluaran dan pengangkutan barang kena cukai dan ketentuan penutup.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 31 Desember 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan\nMenteri Keuangan Nomor 226/PMK.04/2014 tentang\nPenimbunan, Pemasukan, Pengeluaran, dan Pengangkutan\nBarang Kena Cukai",
+ "citations": [
+  "PMK-2014-226",
+  "UU-1995-11",
+  "UU-2021-7",
+  "UU-2008-39",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/399989/89%20th%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:32:25Z"
+}

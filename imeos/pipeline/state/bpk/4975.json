@@ -1,0 +1,58 @@
+{
+ "id": "PP-2009-51",
+ "source": "bpk",
+ "bpk_id": 4975,
+ "url": "https://peraturan.bpk.go.id/Details/4975/x",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "51",
+ "number_raw": "51",
+ "year": 2009,
+ "title": "Peraturan Pemerintah (PP) Nomor 51 Tahun 2009 tentang Pekerjaan Kefarmasian",
+ "about": "Pekerjaan Kefarmasian",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KESEHATAN",
+ "field": "",
+ "date_enacted": "2009-09-01",
+ "date_promulgated": "2009-09-01",
+ "date_effective": "2009-09-01",
+ "gazette": "LN. 2009 No.125, TLN No. 5044, LL SETNEG : 29 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-28",
+   "target_bpk_id": 294077,
+   "label": "PP No. 28 Tahun 2024",
+   "about": "Peraturan Pelaksanaan Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-1990-41",
+   "target_bpk_id": 60951,
+   "label": "PP No. 41 Tahun 1990",
+   "about": "Masa Bakti Dan Izin Kerja Apoteker"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-1980-25",
+   "target_bpk_id": 66597,
+   "label": "PP No. 25 Tahun 1980",
+   "about": "Perubahan Atas Peraturan Pemerintah Nomor 26 Tahun 1965 Tentang Apotik"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-1965-26",
+   "target_bpk_id": 71419,
+   "label": "PP No. 26 Tahun 1965",
+   "about": "Apotik"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 01 September 2009.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/36608/PP_No_51_2009.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:24Z"
+}

@@ -1,0 +1,53 @@
+{
+ "id": "UU-2025-14",
+ "source": "bpk",
+ "bpk_id": 331538,
+ "url": "https://peraturan.bpk.go.id/Details/331538/uu-no-14-tahun-2025",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "14",
+ "number_raw": "14",
+ "year": 2025,
+ "title": "Undang-undang (UU) Nomor 14 Tahun 2025 tentang Perubahan Ketiga atas Undang-Undang Nomor 8 Tahun 2019 tentang Ibadah Haji dan Umrah",
+ "about": "Perubahan Ketiga atas Undang-Undang Nomor 8 Tahun 2019 tentang Ibadah Haji dan Umrah",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KEAGAMAAN, IBADAH, DAN PENYELENGGARAAN HAJI",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2025-09-04",
+ "date_promulgated": "2025-09-04",
+ "date_effective": "2025-09-04",
+ "gazette": "LN 2025 (139), TLN (7132) : 54 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2019-8",
+   "target_bpk_id": 106346,
+   "label": "UU No. 8 Tahun 2019",
+   "about": "Penyelenggaraan Ibadah Haji dan Umrah"
+  }
+ ],
+ "abstract": "Undang-Undang Nomor 8 Tahun 2019 tentang Penyelenggaraan Ibadah Haji dan Umrah masih terdapat kekurangan dan belum menampung perkembangan hukum, kebutuhan di masyarakat, dan dinamika penyelenggaraan ibadah haji dan umrah, baik di tingkat nasional maupun internasional, serta perkembangan teknologi, sehingga perlu diubah.\nDasar hukum UU ini adalah Pasal 20, Pasal 21, Pasal 28E ayat (1), Pasal 28I ayat (4), dan Pasal 29 UUD NRI Tahun 1945 dan UU Nomor 8 Tahun 2019.\nUU ini mengubah beberapa ketentuan dalam UU Nomor 8 Tahun 2019. Pokok perubahan dalam Undang-Undang ini meliputi penguatan kelembagaan dan tanggung jawab Penyelenggara Ibadah Haji dan Umrah, perwujudan ekosistem ekonomi haji dan umrah, mekanisme pembahasan kuota haji, kuota haji tambahan, pemanfaatan sisa kuota, visa haji nonkuota, mekanisme pembinaan, keadaan luar biasa dan kondisi darurat, pengawasan, pemantauan, dan evaluasi terhadap Penyelenggaraan Ibadah Haji dan Umrah, mekanisme pembahasan perubahan BPIH, serta Sistem Informasi Kementerian.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 04 September 2025.\nUU ini mengubah UU Nomor 8 Tahun 2019.\nLampiran file: 79 hlm (batang tubuh hlm 1 sd 54 dan penjelasan hlm 55 sd 79)",
+ "citations": [
+  "UU-2019-8"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/393571/UU%20Nomor%2014%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:23:44Z"
+}

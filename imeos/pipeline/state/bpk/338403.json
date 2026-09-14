@@ -1,0 +1,41 @@
+{
+ "id": "PERPRES-2025-108",
+ "source": "bpk",
+ "bpk_id": 338403,
+ "url": "https://peraturan.bpk.go.id/Details/338403/perpres-no-108-tahun-2025",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "108",
+ "number_raw": "108",
+ "year": 2025,
+ "title": "Peraturan Presiden (Perpres) Nomor 108 Tahun 2025 tentang Pengadaan Barang/Jasa Pemerintah dalam Rangka Percepatan Pembangunan di Papua",
+ "about": "Pengadaan Barang/Jasa Pemerintah dalam Rangka Percepatan Pembangunan di Papua",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KONSTRUKSI, SIPIL, ARSITEK, BANGUNAN, DAN INFRASTRUKTUR - PENGADAAN BARANG / JASA",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2025-10-09",
+ "date_promulgated": "2025-10-09",
+ "date_effective": "2025-10-09",
+ "gazette": "LN 2025 (170) : 23 hlm.; jdih.lkpp.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2019-17",
+   "target_bpk_id": 106016,
+   "label": "PERPRES No. 17 Tahun 2019",
+   "about": "Pengadaan Barang/Jasa Pemerintah untuk Percepatan Pembangunan Kesejahteraan di Provinsi Papua dan Provinsi Papua Barat"
+  }
+ ],
+ "abstract": "Perlu diatur kekhususan pemberlakuan atas Peraturan Presiden Nomor 16 Tahun 2018 tentang Pengadaan Barang/Jasa Pemerintah sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025 tentang Perubahan Kedua atas Peraturan Presiden Nomor 16 Tahun 2018 tentang Pengadaan Barang/Jasa Pemerintah, guna memberikan nilai manfaat yang sebesar-besarnya (value for money) dan kontribusi dalam pembangunan kesejahteraan di Papua, termasuk peningkatan peran usaha mikro, usaha kecil, dan koperasi serta memberikan kesempatan dan peran yang lebih besar kepada Pelaku Usaha Orang Asli Papua.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD 1945; UU No. 21 Tahun 2001; dan Perpres No. 16 Tahun 2018.\nPerpres ini mengatur mengenai Pengadaan Barang/Jasa Pemerintah dalam rangka Percepatan Pembangunan di Papua. Pengadaan Barang/Jasa di kementerian/lembaga/pemerintah daerah di Papua dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan di bidang Pengadaan Barang/ Jasa Pemerintah kecuali diatur khusus dalam Peraturan Presiden ini.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 09 Oktober 2025.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 17 Tahun 2019 tentang Pengadaan Barang/Jasa Pemerintah untuk Percepatan Pembangunan Kesejahteraan di Provinsi Papua dan Provinsi Papua Barat (Lembaran Negara Republik Indonesia Tahun 2019 Nomor 60), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 27 hlm (batang tubuh hlm 1 sd 23 dan lampiran hlm 24 sd 27)",
+ "citations": [
+  "PERPRES-2018-16",
+  "PERPRES-2025-46",
+  "UU-2001-21"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/401469/Perpres%20Nomor%20108%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:27Z"
+}

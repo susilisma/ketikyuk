@@ -1,0 +1,39 @@
+{
+ "id": "PP-2024-46",
+ "source": "bpk",
+ "bpk_id": 305295,
+ "url": "https://peraturan.bpk.go.id/Details/305295/pp-no-46-tahun-2024",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "46",
+ "number_raw": "46",
+ "year": 2024,
+ "title": "Peraturan Pemerintah (PP) Nomor 46 Tahun 2024 tentang Penyelenggaraan Keolahragaan",
+ "about": "Penyelenggaraan Keolahragaan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PEMUDA DAN OLAH RAGA",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2024-10-18",
+ "date_promulgated": "2024-10-18",
+ "date_effective": "2024-10-18",
+ "gazette": "LN 2024 (241), TLN (7001) : 89 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PP-2007-16",
+   "target_bpk_id": 4737,
+   "label": "PP No. 16 Tahun 2007",
+   "about": "Penyelenggaraan Keolahragaan"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 16, Pasal 32, Pasal 42, Pasal 72, Pasal 74, Pasal 84 ayat (4), dan Pasal 101 ayat (4) Undang-Undang Nomor 11 Tahun 2022 tentang Keolahragaan, perlu menetapkan Peraturan Pemerintah tentang Penyelenggaraan Keolahragaan.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945 dan UU Nomor 11 Tahun 2022.\nPP ini mengatur mengenai penyelenggaraan keolahragaan dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Pemerintah Pusat mempunyai tugas: 1) menetapkan dan melaksanakan kebijakan Keolahragaan secara nasional; dan 2) mengoordinasikan, mengawasi, dan mengevaluasi pelaksanaan kebijakan Keolahragaan secara nasional. Sedangkan Pemerintah Daerah mempunyai tugas: 1) menetapkan dan melaksanakan kebijakan Keolahragaan di daerah berdasarkan kebijakan keolahragaan; dan 2) mengoordinasikan, mengawasi, dan mengevaluasi pelaksanaan kebijakan Keolahragaan di daerah berdasarkan kebijakan keolahragaan.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 18 Oktober 2024.\nPada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 16 Tahun 2007 tentang Penyelenggaraan Keolahragaan (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 35, Tambahan Lembaran Negara Republik Indonesia Nomor 4702), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 111 hlm. (batang tubuh hlm 1 sd 89; penjelasan hlm 90 sd 111)",
+ "citations": [
+  "UU-2022-11"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/365419/PP%20Nomor%2046%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:29:38Z"
+}

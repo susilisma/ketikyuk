@@ -1,0 +1,37 @@
+{
+ "id": "PERMENPERIN-2020-25",
+ "source": "bpk",
+ "bpk_id": 167007,
+ "url": "https://peraturan.bpk.go.id/Details/167007/permenperin-no-25-tahun-2020",
+ "form": "PERMENPERIN",
+ "form_long": "Peraturan Menteri Perindustrian",
+ "number": "25",
+ "number_raw": "25",
+ "year": 2020,
+ "title": "Peraturan Menteri Perindustrian Nomor 25 Tahun 2020 tentang Pemberlakuan Standar Nasional Indonesia Alat Pemeliharaan Tanaman-Sprayer Gendong Semi Otomatis dan Alat Pemeliharaan Tanaman-Sprayer Gendong Elektrik Secara Wajib",
+ "about": "Pemberlakuan Standar Nasional Indonesia Alat Pemeliharaan Tanaman-Sprayer Gendong Semi Otomatis dan Alat Pemeliharaan Tanaman-Sprayer Gendong Elektrik Secara Wajib",
+ "issuer": "Kementerian Perindustrian",
+ "subject": "STANDAR / PEDOMAN",
+ "field": "",
+ "date_enacted": "2020-09-08",
+ "date_promulgated": "2020-09-14",
+ "date_effective": "2021-09-14",
+ "gazette": "BN 2020/ No 1029; http://jdih.kemenperin.go.id/; 21 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENPERIN-2024-29",
+   "target_bpk_id": 295998,
+   "label": "Permenperin No. 29 Tahun 2024",
+   "about": "Pemberlakuan Standar  Nasional Indonesia Untuk Alat Pemeliharaan Tanaman-Sprayer Gendong Secara Wajib"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perindustrian ini mulai berlaku pada tanggal 14 September 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/159937/Permenperin_No._25_Tahun_2020_1.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:39:53Z"
+}

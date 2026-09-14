@@ -1,0 +1,46 @@
+{
+ "id": "PMK-2025-10",
+ "source": "bpk",
+ "bpk_id": 313517,
+ "url": "https://peraturan.bpk.go.id/Details/313517/pmk-no-10-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "10",
+ "number_raw": "10",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 10 Tahun 2025 tentang Pajak Penghasilan Pasal 21 Atas Penghasilan Tertentu Yang Ditanggung Pemerintah Dalam Rangka Stimulus Ekonomi Tahun Anggaran 2025",
+ "about": "Pajak Penghasilan Pasal 21 Atas Penghasilan Tertentu Yang Ditanggung Pemerintah Dalam Rangka Stimulus Ekonomi Tahun Anggaran 2025",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-02-04",
+ "date_promulgated": "2025-02-04",
+ "date_effective": "2025-02-04",
+ "gazette": "BN.2025 (77)/23 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2025-72",
+   "target_bpk_id": 332145,
+   "label": "PMK No. 72 Tahun 2025",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 10 Tahun 2025 tentang Pajak Penghasilan Pasal 21 atas Penghasilan Tertentu yang Ditanggung Pemerintah dalam Rangka Stimulus Ekonomi Tahun Anggaran 2025"
+  }
+ ],
+ "abstract": "a. bahwa untuk menjaga keberlangsungan daya beli masyarakat dan menjalankan fungsi stabilisasi ekonomi dan sosial, telah ditetapkan paket stimulus ekonomi sebagai upaya pemerintah dalam menjaga tingkat kesejahteraan masyarakat antara lain dengan pemberian fasilitas fiskal berupa pajak ditanggung pemerintah;\nb. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, perlu menetapkan Peraturan Menteri Keuangan tentang Pajak Penghasilan Pasal 21 atas Penghasilan Tertentu yang Ditanggung Pemerintah dalam Rangka Stimulus Ekonomi Tahun Anggaran 2025;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 7 Tahun 1983, Undang-Undang Nomor 17 Tahun 2003, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 62 Tahun 2024, Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Presiden Nomor 201 Tahun 2024, Peraturan Menteri Keuangan Nomor 92 Tahun 2023 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengatur tentang ketentuan umum, insentif pajak penghasilan Pasal 21 ditanggung pemerintah, kriteria dan persyaratan, pemanfaatan dan pelaporan, pengawasan dan petanggungjawaban dan ketentuan penutup.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 04 Februari 2025.",
+ "citations": [
+  "UU-1983-7",
+  "UU-2003-17",
+  "UU-2008-39",
+  "UU-2024-62",
+  "PERPRES-2024-158",
+  "PERPRES-2024-201",
+  "PMK-2023-92",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/374407/2025pmkeuangan10.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:32:48Z"
+}

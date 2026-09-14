@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2020-31",
+ "source": "bpk",
+ "bpk_id": 132209,
+ "url": "https://peraturan.bpk.go.id/Details/132209/perpres-no-31-tahun-2020",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "31",
+ "number_raw": "31",
+ "year": 2020,
+ "title": "Peraturan Presiden (Perpres) Nomor 31 Tahun 2020 tentang Kementerian Sekretariat Negara",
+ "about": "Kementerian Sekretariat Negara",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "",
+ "date_enacted": "2020-02-14",
+ "date_promulgated": "2020-02-17",
+ "date_effective": "2020-02-17",
+ "gazette": "LN.2020/NO.45, JDIH.SETKAB.GO.ID : 42 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-148",
+   "target_bpk_id": 306600,
+   "label": "Perpres No. 148 Tahun 2024",
+   "about": "Kementerian Sekretariat Negara"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2015-24",
+   "target_bpk_id": 41751,
+   "label": "PERPRES No. 24 Tahun 2015",
+   "about": "Kementerian Sekretariat Negara"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 17 Februari 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/123001/Perpres%20Nomor%2031%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:28:32Z"
+}

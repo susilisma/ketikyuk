@@ -1,0 +1,58 @@
+{
+ "id": "PERMENAKER-2022-10",
+ "source": "bpk",
+ "bpk_id": 231403,
+ "url": "https://peraturan.bpk.go.id/Details/231403/permenaker-no-10-tahun-2022",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "10",
+ "number_raw": "10",
+ "year": 2022,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 10 Tahun 2022 tentang Pedoman Pemberian Bantuan Pemerintah Berupa Subsidi Gaji/Upah bagi Pekerja/Buruh",
+ "about": "Pedoman Pemberian Bantuan Pemerintah Berupa Subsidi Gaji/Upah bagi Pekerja/Buruh",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "KETENAGAKERJAAN - BANTUAN, SUMBANGAN, BENCANA / KEBENCANAAN, DAN PENANGGULANGAN BENCANA - STANDAR / PEDOMAN",
+ "field": "",
+ "date_enacted": "2022-09-05",
+ "date_promulgated": "2022-09-05",
+ "date_effective": "2022-09-05",
+ "gazette": "BN.2022/No.842, peraturan.go.id: 8 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENAKER-2025-5",
+   "target_bpk_id": 319732,
+   "label": "Permenaker No. 5 Tahun 2025",
+   "about": "Perubahan atas Peraturan Menteri Ketenagakerjaan Nomor 10 Tahun 2022 tentang Pedoman Pemberian Bantuan Pemerintah Berupa Subsidi Gaji/Upah bagi Pekerja/Buruh"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENAKER-2021-21",
+   "target_bpk_id": 195993,
+   "label": "Permenaker No. 21 Tahun 2021",
+   "about": "Perubahan Kedua atas Peraturan Menteri Ketenagakerjaan Nomor 14 Tahun 2020 tentang Pedoman Pemberian Bantuan Pemerintah Berupa Subsidi Gaji/Upah Bagi Pekerja/Buruh Dalam Penanganan Dampak Corona Virus Disease 2019 (Covid-19)"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENAKER-2021-16",
+   "target_bpk_id": 173585,
+   "label": "Permenaker No. 16 Tahun 2021",
+   "about": "Perubahan atas Peraturan Menteri Ketenagakerjaan Nomor 14 Tahun 2020 tentang Pedoman Pemberian Bantuan Pemerintah Berupa Subsidi Gaji/Upah bagi Pekerja/Buruh dalam Penanganan Dampak Corona Virus Disease 2019 (Covid-19)"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENAKER-2020-14",
+   "target_bpk_id": 145072,
+   "label": "Permenaker No. 14 Tahun 2020",
+   "about": "Pedoman Pemberian Bantuan Pemerintah Berupa Subsidi Gaji/Upah bagi Pekerja/Buruh dalam Penanganan Dampak Corona Virus Disease 2019 (COVID-19)"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 05 September 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/264896/Permenaker%20Nomor%2010%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:41:14Z"
+}

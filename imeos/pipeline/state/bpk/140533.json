@@ -1,0 +1,37 @@
+{
+ "id": "PERATURANMENTERI-2018-42",
+ "source": "bpk",
+ "bpk_id": 140533,
+ "url": "https://peraturan.bpk.go.id/Details/140533/permen-ristekdikti-no-42-tahun-2018",
+ "form": "PERATURANMENTERI",
+ "form_long": "Peraturan Menteri Riset, Teknologi, Dan Pendidikan Tinggi Republik Indonesia",
+ "number": "42",
+ "number_raw": "42",
+ "year": 2018,
+ "title": "Peraturan Menteri Riset, Teknologi, Dan Pendidikan Tinggi Republik Indonesia Nomor 42 Tahun 2018 tentang Statuta Universitas Negeri Jakarta",
+ "about": "Statuta Universitas Negeri Jakarta",
+ "issuer": "Kementerian Riset, Teknologi, dan Pendidikan Tinggi",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "",
+ "date_enacted": "2018-09-21",
+ "date_promulgated": "2018-09-29",
+ "date_effective": "2018-09-29",
+ "gazette": "BN 2018/ NO 1382; PERATURAN.GO.ID : 66 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-31",
+   "target_bpk_id": 296643,
+   "label": "PP No. 31 Tahun 2024",
+   "about": "Perguruan Tinggi Negeri Badan Hukum Universitas Negeri Jakarta"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Riset, Teknologi, Dan Pendidikan Tinggi Republik Indonesia ini mulai berlaku pada tanggal 29 September 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/131916/Permenristekdikti%20Nomor%2042%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:30:23Z"
+}

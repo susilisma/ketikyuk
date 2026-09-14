@@ -1,0 +1,54 @@
+{
+ "id": "UU-2014-31",
+ "source": "bpk",
+ "bpk_id": 38701,
+ "url": "https://peraturan.bpk.go.id/Details/38701/uu-no-31-tahun-2014",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "31",
+ "number_raw": "31",
+ "year": 2014,
+ "title": "Undang-undang (UU) Nomor 31 Tahun 2014 tentang Perubahan atas Undang-Undang Nomor 13 Tahun 2006 Tentang Perlindungan Saksi dan Korban",
+ "about": "Perubahan atas Undang-Undang Nomor 13 Tahun 2006 Tentang Perlindungan Saksi dan Korban",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HAK ASASI MANUSIA - HUKUM ACARA DAN PERADILAN - HUKUM PIDANA, PERDATA, DAN DAGANG - TINDAK PIDANA KORUPSI, PENCEGAHAN KORUPSI",
+ "field": "",
+ "date_enacted": "2014-10-17",
+ "date_promulgated": "2014-10-17",
+ "date_effective": "2014-10-17",
+ "gazette": "LN.2014/No. 293, TLN No. 5602, LL SETNEG: 25 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2026-3",
+   "target_bpk_id": 349942,
+   "label": "UU No. 3 Tahun 2026",
+   "about": "Pelindungan Saksi dan Korban"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2023-1",
+   "target_bpk_id": 234935,
+   "label": "UU No. 1 Tahun 2023",
+   "about": "Kitab Undang-Undang Hukum Pidana"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2006-13",
+   "target_bpk_id": 40178,
+   "label": "UU No. 13 Tahun 2006",
+   "about": "Perlindungan Saksi dan Korban"
+  }
+ ],
+ "abstract": "1. Jaminan perlindungan terhadap saksi dan korban memiliki peranan penting dalam proses peradilan pidana sehingga dengan keterangan saksi dan korban yang diberikan secara bebas dari rasa takut dan ancaman dapat mengungkap suatu tindak pidana;\n2. untuk meningkatkan upaya pengungkapan secara menyeluruh suatu tindak pidana, khususnya tindak pidana transnasional yang terorganisasi, perlu juga diberikan perlindungan terhadap saksi, pelaku, pelapor, dan saksi.\nPasal 1 ayat (3), Pasal 5 ayat (1), Pasal 20, Pasal 28G, Pasal 28I, dan Pasal 28J Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.\nUndang-Undang Nomor 8 Tahun 1981 tentang Hukum Acara Pidana\nUndang-Undang Nomor 13 Tahun 2006 tentang Perlindungan Saksi dan Korban.\n1. Penguatan kelembagaan LPSK, antara lain peningkatan sekretariat menjadi sekretariat jenderal dan pembentukan dewan penasihat;\n2. penguatan kewenangan LPSK;\n3. perluasan subjek perlindungan;\n4. perluasan pelayanan perlindungan terhadap korban;\n5. peningkatan kerja sama dan kordinasi antarlembaga;\n6. pemberian penghargaan dan penanganan khusus yang diberikan terhadap saksi pelaku;\n7. mekanisme penggantian anggota LPSK antar waktu;\n8. perubahan ketentuan pidana, termasuk tindak pidana yang dilakukan oleh korporsi.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 17 Oktober 2014.\nPeraturan yang diubah:\nPasal 16, Pasal 18, Pasal 23, Pasal 28, Pasal 29, Pasal 37, Pasal 38, Pasal 39, Pasal 40, Pasal 41, Pasal 43",
+ "citations": [
+  "UU-1981-8",
+  "UU-2006-13"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/28030/UU%20Nomor%2031%20Tahun%202014.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:23:16Z"
+}

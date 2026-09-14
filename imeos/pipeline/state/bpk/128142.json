@@ -1,0 +1,58 @@
+{
+ "id": "PMK-2019-120",
+ "source": "bpk",
+ "bpk_id": 128142,
+ "url": "https://peraturan.bpk.go.id/Details/128142/pmk-no-120pmk032019",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "120",
+ "number_raw": "120/PMK.03/2019",
+ "year": 2019,
+ "title": "Peraturan Menteri Keuangan Nomor 120/PMK.03/2019 Tahun 2019 tentang Tata Cara Pengajuan Dan Penyelesaian Permintaan Kembali Pajak Pertambahan Nilai Barang Bawaan Orang Pribadi Pemegang Paspor Luar Negeri",
+ "about": "Tata Cara Pengajuan Dan Penyelesaian Permintaan Kembali Pajak Pertambahan Nilai Barang Bawaan Orang Pribadi Pemegang Paspor Luar Negeri",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "",
+ "date_enacted": "2019-08-23",
+ "date_promulgated": "2019-08-23",
+ "date_effective": "2019-10-01",
+ "gazette": "PERATURAN.GO.ID : 18 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-81",
+   "target_bpk_id": 306614,
+   "label": "PMK No. 81 Tahun 2024",
+   "about": "Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2013-100",
+   "target_bpk_id": 149940,
+   "label": "PMK No. 100/PMK.03/2013",
+   "about": "Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 76/PMK.03/2010 tentang Tata Cara Pengajuan dan Penyelesaian Permintaan Kembali Pajak Pertambahan Nilai Barang Bawaan Orang Pribadi Pemegang Paspor Luar Negeri"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2011-18",
+   "target_bpk_id": 149942,
+   "label": "PMK No. 18/PMK.03/2011",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 76/PMK.03/2010 tentang Tata Cara Pengajuan dan Penyelesaian Permintaan Kembali Pajak Pertambahan Nilai Barang Bawaan Orang Pribadi Pemegang Paspor Luar Negeri"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2010-76",
+   "target_bpk_id": 149941,
+   "label": "PMK No. 76/PMK.03/2010",
+   "about": "Tata Cara Pengajuan dan Penyelesaian Permintaan Kembali Pajak Pertambahan Nilai Barang Bawaan Orang Pribadi Pemegang Paspor Luar Negeri"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 01 Oktober 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/119137/120~PMK.03~2019Per.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:34:59Z"
+}

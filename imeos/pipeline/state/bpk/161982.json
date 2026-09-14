@@ -1,0 +1,41 @@
+{
+ "id": "PP-2021-47",
+ "source": "bpk",
+ "bpk_id": 161982,
+ "url": "https://peraturan.bpk.go.id/Details/161982/pp-no-47-tahun-2021",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "47",
+ "number_raw": "47",
+ "year": 2021,
+ "title": "Peraturan Pemerintah (PP) Nomor 47 Tahun 2021 tentang Penyelenggaraan Bidang Perumahsakitan",
+ "about": "Penyelenggaraan Bidang Perumahsakitan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KESEHATAN - PERIZINAN, PELAYANAN PUBLIK - CIPTA KERJA",
+ "field": "",
+ "date_enacted": "2021-02-02",
+ "date_promulgated": "2021-02-02",
+ "date_effective": "2021-02-02",
+ "gazette": "LN.2021/No.57, TLN No.6659, jdih.setkab.go.id : 59 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-28",
+   "target_bpk_id": 294077,
+   "label": "PP No. 28 Tahun 2024",
+   "about": "Peraturan Pelaksanaan Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 61 dan Pasal 185 huruf b Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja, perlu menetapkan Peraturan Pemerintah tentang Penyelenggaraan Bidang Perumahsakitan.\nDasar hukum PP ini adalah Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 44 Tahun 2009; dan UU Nomor 11 Tahun 2020.\nPP ini mengatur mengenai klasifikasi rumah sakit; kewajiban rumah sakit; akreditasi rumah sakit; pembinaan dan pengawasan rumah sakit; dan tata cara pengenaan sanksi administratif. Berdasarkan jenis pelayanan yang diberikan, Rumah Sakit dikategorikan dalam Rumah Sakit umum dan Rumah Sakit khusus. Dalam upaya peningkatan mutu pelayanan Rumah Sakit, wajib dilakukan Akreditasi secara berkala minimal 3 (tiga) tahun sekali. Akreditasi tersebut dilakukan oleh Rumah Sakit paling lambat setelah beroperasi 2 (dua) tahun sejak memperoleh izin berusaha untuk pertama kali.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 02 Februari 2021.\nPenjelasan 21 hlm.",
+ "citations": [
+  "UU-2020-11",
+  "UU-2009-44"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/154661/PP%20Nomor%2047%20Tahun%202021.pdf",
+  "https://peraturan.bpk.go.id/Download/154662/PP%20Nomor%2047%20Tahun%202021%20-%20Lampiran.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:30:35Z"
+}

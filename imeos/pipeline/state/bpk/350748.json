@@ -1,0 +1,49 @@
+{
+ "id": "PERMENAKER-2026-9",
+ "source": "bpk",
+ "bpk_id": 350748,
+ "url": "https://peraturan.bpk.go.id/Details/350748/permenaker-no-9-tahun-2026",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "9",
+ "number_raw": "9",
+ "year": 2026,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 9 Tahun 2026 tentang Perubahan Kedua atas Peraturan Menteri Ketenagakerjaan Nomor 8 Tahun 2025 tentang Pedoman Pemberian Bantuan Pemerintah Program Pemagangan Lulusan Perguruan Tinggi",
+ "about": "Perubahan Kedua atas Peraturan Menteri Ketenagakerjaan Nomor 8 Tahun 2025 tentang Pedoman Pemberian Bantuan Pemerintah Program Pemagangan Lulusan Perguruan Tinggi",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "BANTUAN, SUMBANGAN, BENCANA / KEBENCANAAN, DAN PENANGGULANGAN BENCANA - STANDAR / PEDOMAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-06-09",
+ "date_promulgated": "2026-06-11",
+ "date_effective": "2026-06-11",
+ "gazette": "BN 2026 (376); 5 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERMENAKER-2025-8",
+   "target_bpk_id": 330637,
+   "label": "Permenaker No. 8 Tahun 2025",
+   "about": "Pedoman Pemberian Bantuan Pemerintah Program Pemagangan Lulusan Perguruan Tinggi"
+  }
+ ],
+ "abstract": "bahwa untuk mengoptimalkan pelaksanaan program\npemagangan lulusan perguruan tinggi, perlu dilakukan\nperluasan cakupan kepesertaan dan manfaat program\npemagangan lulusan perguruan tinggi\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD NRI Tahun 1945; UU Nomor 13 Tahun 2003 sebagaimana telah beberapa kali diubah terakhir dengan UU Nomor 6 Tahun 2023; UU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024; UU Nomor 12 Tahun 2012; Perpres Nomor 164 Tahun 2024; PMK Nomor 168/PMK.05/2015 sebagaimana telah beberapa kali diubah terakhir dengan PMK Nomor 132/PMK.05/2021; Permenaker Nomor 20 Tahun 2024; Permenaker Nomor 8 Tahun 2025 sebagaimana telah diubah dengan Permenaker Nomor 11 Tahun 2025.\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri\nKetenagakerjaan Nomor 8 Tahun 2025 tentang Pedoman\nPemberian Bantuan Pemerintah Program Pemagangan\nLulusan Perguruan Tinggi (Berita Negara Republik Indonesia\nTahun 2025 Nomor 730) sebagaimana telah diubah dengan\nPeraturan Menteri Ketenagakerjaan Nomor 11 Tahun 2025\ntentang Perubahan atas Peraturan Menteri Ketenagakerjaan\nNomor 8 Tahun 2025 tentang Pedoman Pemberian Bantuan\nPemerintah Program Pemagangan Lulusan Perguruan Tinggi",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 11 Juni 2026.",
+ "citations": [
+  "UU-2003-13",
+  "UU-2023-6",
+  "UU-2008-39",
+  "UU-2024-61",
+  "UU-2012-12",
+  "PERPRES-2024-164",
+  "PMK-2015-168",
+  "PMK-2021-132",
+  "PERMENAKER-2024-20",
+  "PERMENAKER-2025-8",
+  "PERMENAKER-2025-11"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/414494/permenaker-no-9-tahun-2026.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:40:44Z"
+}

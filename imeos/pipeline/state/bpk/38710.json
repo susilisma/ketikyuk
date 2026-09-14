@@ -1,0 +1,58 @@
+{
+ "id": "UU-2014-32",
+ "source": "bpk",
+ "bpk_id": 38710,
+ "url": "https://peraturan.bpk.go.id/Details/38710/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "32",
+ "number_raw": "32",
+ "year": 2014,
+ "title": "Undang-undang (UU) Nomor 32 Tahun 2014 tentang Kelautan",
+ "about": "Kelautan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERIKANAN DAN KELAUTAN",
+ "field": "",
+ "date_enacted": "2014-10-17",
+ "date_promulgated": "2014-10-17",
+ "date_effective": "2014-10-17",
+ "gazette": "LN.2014/No. 294, TLN No. 5603, LL SETNEG: 38 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 234926,
+   "label": "PERPU No. 2 Tahun 2022",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1996-6",
+   "target_bpk_id": 46096,
+   "label": "UU No. 6 Tahun 1996",
+   "about": "Perairan Indonesia"
+  }
+ ],
+ "abstract": "a. Negara Kesatuan Republik Indonesia sebagai negara kepulauan memiliki sumber daya alam yang melimpah yang merupakan rahmat dan karunia Tuhan Yang Maha Esa bagi seluruh bangsa dan negara Indonesia yang harus dikelola secara berkelanjutan untuk memajukan kesejahteraan umum sebagaimana diamanatkan dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;\nb. bahwa wilayah laut sebagai bagian terbesar dari wilayah Indonesia yang memiliki posisi dan nilai strategis dari berbagai aspek kehidupan yang mencakup politik, ekonomi, sosial budaya, pertahanan, dan keamanan, merupakan modal dasar pembangunan nasional;\nc. bahwa pengelolaan sumber daya kelautan dilakukan melalui sebuah kerangka hukum untuk memberikan kepastian hukum dan manfaat bagi seluruh masyarakat sebagai negara kepulauan yang berciri nusantara.\nPasal 20, Pasal 22D ayat (1), Pasal 25A, dan Pasal 33 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.\nWilayah laut, pembangunan kelautan, pengelolaan kelautan, pengembangan kelautan, pengelolaan ruang laut, dan pelindungan lingkungan laut, pertahanan, keamanan, penegakan hukum, keselamatan di laut, tata kelola dan kelembagaan, serta peran serta masyarakat.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 17 Oktober 2014.\nPasal 24 ayat (3) Undang-Undang Nomor 6 Tahun 1996 tentang Perairan Indonesia.\nPeraturan Pelaksanaan\n60",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/28039/UU%20Nomor%2032%20Tahun%202014.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:37Z"
+}

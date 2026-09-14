@@ -1,0 +1,58 @@
+{
+ "id": "PERMENDAG-2022-7",
+ "source": "bpk",
+ "bpk_id": 204909,
+ "url": "https://peraturan.bpk.go.id/Details/204909/permendag-no-7-tahun-2022",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "7",
+ "number_raw": "7",
+ "year": 2022,
+ "title": "Peraturan Menteri Perdagangan Nomor 7 Tahun 2022 tentang Pendistribusian dan Pengawasan Bahan Berbahaya",
+ "about": "Pendistribusian dan Pengawasan Bahan Berbahaya",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN - PERIZINAN, PELAYANAN PUBLIK - CIPTA KERJA",
+ "field": "",
+ "date_enacted": "2022-02-08",
+ "date_promulgated": "2022-02-10",
+ "date_effective": "2022-02-10",
+ "gazette": "BN.2022/No.166, jdih.kemendag.go.id: 24 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah sebagian dengan",
+   "target": "PERMENDAG-2024-25",
+   "target_bpk_id": 305839,
+   "label": "Permendag No. 25 Tahun 2024",
+   "about": "Perubahan Atas Peraturan Menteri Perdagangan Nomor 7 Tahun 2022 tentang Pendistribusian dan Pengawasan Bahan Berbahaya"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2019-47",
+   "target_bpk_id": 128600,
+   "label": "Permendag No. 47 Tahun 2019",
+   "about": "Perubahan Ketiga Atas Peraturan Menteri Perdagangan Nomor 44/M-Dag/Per/9/2009 Tentang Pengadaan, Distribusi Dan Pengawasan Bahan Berbahaya"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2014-75",
+   "target_bpk_id": 129147,
+   "label": "Permendag No. 75/M-DAG/PER/10/2014 Tahun 2014",
+   "about": "Perubahan Kedua atas Peraturan Menteri Perdagangan Nomor 44/M-DAG/PER/9/2009 Tentang Pengadaan, Distribusi dan Pengawasan Bahan Berbahaya"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2009-44",
+   "target_bpk_id": 131804,
+   "label": "Permendag No. 44/M-DAG/PER/9/2009 Tahun 2009",
+   "about": "Pengadaan, Distribusi dan Pengawasan Bahan Berbahaya"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 10 Februari 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/269597/Permendag%20Nomor%207%20tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:37:40Z"
+}

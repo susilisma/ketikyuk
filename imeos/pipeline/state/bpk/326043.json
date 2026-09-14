@@ -1,0 +1,52 @@
+{
+ "id": "PMK-2025-58",
+ "source": "bpk",
+ "bpk_id": 326043,
+ "url": "https://peraturan.bpk.go.id/Details/326043/pmk-no-58-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "58",
+ "number_raw": "58",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 58 Tahun 2025 tentang Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 82/PMK.02/2016 tentang Tata Cara Penyediaan, Pencairan, dan Pertanggungjawaban Dana Bantuan Operasional Layanan Pos Universal",
+ "about": "Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 82/PMK.02/2016 tentang Tata Cara Penyediaan, Pencairan, dan Pertanggungjawaban Dana Bantuan Operasional Layanan Pos Universal",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BANTUAN, SUMBANGAN, BENCANA / KEBENCANAAN, DAN PENANGGULANGAN BENCANA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-07-30",
+ "date_promulgated": "2025-08-05",
+ "date_effective": "2025-08-05",
+ "gazette": "BN.2025 (571/5 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PMK-2017-72",
+   "target_bpk_id": 112709,
+   "label": "PMK No. 72/PMK.02/2017",
+   "about": "Perubahan Atas Peraturan Menteri Keuangan Nomor 82/PMK.02/2016 Tentang Tata Cara Penyediaan, Pencairan, Dan Pertanggungjawaban Dana Bantuan Operasional Layanan Pos Universal"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PMK-2016-82",
+   "target_bpk_id": 145624,
+   "label": "PMK No. 82/PMK.02/2016",
+   "about": "Tata Cara Penyediaan, Pencairan, dan Pertanggungjawaban Dana Bantuan Operasional Layanan Pos Universal"
+  }
+ ],
+ "abstract": "a. bahwa sehubungan dengan perubahan nomenklatur\norganisasi dan tata kerja di lingkungan kementerian\nyang menyelenggarakan urusan pemerintahan di\nbidang komunikasi dan informasi, perlu dilakukan\npenyesuaian ketentuan penunjukan kuasa pengguna\nanggaran serta penyesuaian nomenklatur organisasi\nsebagaimana diatur dalam Peraturan Menteri\nKeuangan Nomor 82/PMK.02/2016 tentang Tata\nCara Penyediaan, Pencairan, dan\nPertanggungjawaban Dana Bantuan Operasional\nLayanan Pos Universal sebagaimana telah diubah\ndengan Peraturan Menteri Keuangan Nomor\n72/PMK.02/2017 tentang Perubahan atas Peraturan\nMenteri Keuangan Nomor 82/PMK.02/2016 tentang\nTata Cara Penyediaan, Pencairan, dan\nPertanggungjawaban Dana Bantuan Operasional\nLayanan Pos Universal;\nb. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a, perlu menetapkan\nPeraturan Menteri Keuangan tentang Perubahan\nKedua atas Peraturan Menteri Keuangan Nomor\n82/PMK.02/2016 tentang Tata Cara Penyediaan,\nPencairan, dan Pertanggungjawaban Dana Bantuan\nOperasional Layanan Pos Universal;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 1 Tahun 2004, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 45 Tahun 2013, Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Menteri Keuangan Nomor 82/PMK.02/2016 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 82/PMK.02/2016 tentang Tata Cara Penyediaan, Pencairan, dan Pertanggungjawaban Dana Bantuan Operasional Layanan Pos Universal yaitu tentang definisi, Pelaksanaan pemeriksaan atas kegiatan Bantuan Operasional Layanan Pos Universal, monitoring dan evaluasi atas pelaksanaan kegiatan Bantuan Operasional Layanan Pos Universal dan Tata cara permintaan dana, pengujian, dan laporan pertanggungjawaban Penyelenggara Pos kepada KPA",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 05 Agustus 2025.\nPeraturan ini mengubah :\na. PMK 82/PMK.02/2016 tentang Tata Cara Penyediaan, Pencairan, dan Pertanggungjawaban Dana Bantuan Operasional Layanan Pos Universal.\nb. PMK 72/PMK.02/2017 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 82/PMK.02/2016 tentang Tata Cara Penyediaan, Pencairan, dan Pertanggungjawaban Dana Bantuan Operasional Layanan Pos Universal.",
+ "citations": [
+  "PMK-2017-72",
+  "PMK-2016-82",
+  "UU-2004-1",
+  "UU-2008-39",
+  "PP-2013-45",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/387834/58%20th%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:33:10Z"
+}

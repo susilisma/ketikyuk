@@ -1,0 +1,48 @@
+{
+ "id": "PP-2023-51",
+ "source": "bpk",
+ "bpk_id": 270269,
+ "url": "https://peraturan.bpk.go.id/Details/270269/pp-no-51-tahun-2023",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "51",
+ "number_raw": "51",
+ "year": 2023,
+ "title": "Peraturan Pemerintah (PP) Nomor 51 Tahun 2023 tentang Perubahan atas Peraturan Pemerintah Nomor 36 Tahun 2021 tentang Pengupahan",
+ "about": "Perubahan atas Peraturan Pemerintah Nomor 36 Tahun 2021 tentang Pengupahan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KETENAGAKERJAAN - CIPTA KERJA",
+ "field": "HUKUM PERBURUHAN",
+ "date_enacted": "2023-11-10",
+ "date_promulgated": "2023-11-10",
+ "date_effective": "2023-11-10",
+ "gazette": "LN 2023 (146), TLN (6899): 16 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2025-49",
+   "target_bpk_id": 339037,
+   "label": "PP No. 49 Tahun 2025",
+   "about": "Perubahan Kedua Atas Peraturan Pemerintah Nomor 36 Tahun 2021 tentang Pengupahan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PP-2021-36",
+   "target_bpk_id": 161909,
+   "label": "PP No. 36 Tahun 2021",
+   "about": "Pengupahan"
+  }
+ ],
+ "abstract": "Untuk menjaga daya beli Pekerja/Buruh dan stabilitas ekonomi nasional serta memperhatikan dinamika perkembangan hubungan industrial, ketentuan mengenai Upah minimum sebagaimana telah diatur dalam Peraturan Pemerintah Nomor 36 Tahun 2021 tentang Pengupahan sudah tidak sesuai dengan kebutuhan hukum sehingga perlu diubah.\nDasar hukum PP ini adalah Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 13 Tahun 2003; UU Nomor 6 Tahun 2023; dan PP Nomor 36 Tahun 2021.\nPP ini mengubah beberapa ketentuan dalam PP Nomor 36 Tahun 2021. Ruang lingkup perubahan PP Nomor 36 Tahun 2021 ini mencakup perubahan atas ketentuan mengenai formula penghitungan Upah minimum, penetapan dan pemberlakuan Upah minimum, serta penguatan peran dewan pengupahan di daerah.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 10 November 2023.\nPP ini mengubah PP Nomor 36 Tahun 2021 tentang Pengupahan\nLampiran file: 27 hlm.",
+ "citations": [
+  "PP-2021-36",
+  "UU-2003-13",
+  "UU-2023-6"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/328142/PP%20Nomor%2051%20Tahun%202023.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:28:47Z"
+}

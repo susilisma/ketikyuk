@@ -1,0 +1,43 @@
+{
+ "id": "PMK-2025-64",
+ "source": "bpk",
+ "bpk_id": 327277,
+ "url": "https://peraturan.bpk.go.id/Details/327277/pmk-no-64-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "64",
+ "number_raw": "64",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 64 Tahun 2025 tentang Organisasi dan Tata Kerja Sekretariat Komite Stabilitas Sistem Keuangan",
+ "about": "Organisasi dan Tata Kerja Sekretariat Komite Stabilitas Sistem Keuangan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "HUKUM TATA NEGARA",
+ "date_enacted": "2025-08-28",
+ "date_promulgated": "2025-09-04",
+ "date_effective": "2025-09-04",
+ "gazette": "BN.2025 (666)/14 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2017-92",
+   "target_bpk_id": 112738,
+   "label": "PMK No. 92/PMK.01/2017",
+   "about": "Organisasi Dan Tata Kerja Sekretariat Komite Stabilitas Sistem Keuangan"
+  }
+ ],
+ "abstract": "a. bahwa dengan berlakunya Undang-Undang Nomor 9\nTahun 2016 tentang Pencegahan dan Penanganan Krisis\nSistem Keuangan sebagaimana telah diubah dengan\nUndang-Undang Nomor 4 Tahun 2023 tentang\nPengembangan dan Penguatan Sektor Keuangan serta\nuntuk mewujudkan organisasi dan tata kerja yang efektif\ndan efisien guna meningkatkan kinerja pelaksanaan\ntugas dan fungsi Sekretariat Komite Stabilitas Sistem\nKeuangan, perlu dilakukan penataan organisasi dan tata\nkerja pada Sekretariat Komite Stabilitas Sistem\nKeuangan;\nb. bahwa penataan organisasi dan tata kerja Sekretariat\nKomite Stabilitas Sistem Keuangan sebagaimana\ndimaksud dalam huruf a, telah mendapatkan\npersetujuan dari Menteri Pendayagunaan Aparatur\nNegara dan Reformasi Birokrasi;\nc. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a dan huruf b, perlu menetapkan\nPeraturan Menteri Keuangan tentang Organisasi dan\nTata Kerja Sekretariat Komite Stabilitas Sistem\nKeuangan;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 9 Tahun 2016, Peraturan Presiden Nomor 158 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengatur tentant ketentuan umum, kedudukan, tugas dan fungsi, susunan organisasi, tata kerja, penataan organisasi, sumber daya manusia, ketentuan peralihan dan ketentuan penutup",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 04 September 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan\nMenteri Keuangan Nomor 92/PMK.01/2017 tentang\nOrganisasi dan Tata Kerja Sekretariat Komite Stabilitas Sistem\nKeuangan",
+ "citations": [
+  "UU-2016-9",
+  "UU-2023-4",
+  "UU-2008-39",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/389076/64%20th%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:33:01Z"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "PERMENDAG-2017-85",
+ "source": "bpk",
+ "bpk_id": 128735,
+ "url": "https://peraturan.bpk.go.id/Details/128735/permendag-no-85-tahun-2017",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "85",
+ "number_raw": "85",
+ "year": 2017,
+ "title": "Peraturan Menteri Perdagangan Nomor 85 Tahun 2017 tentang Standar Kompetensi Teknis Daerah Bidang Perdagangan",
+ "about": "Standar Kompetensi Teknis Daerah Bidang Perdagangan",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "",
+ "date_enacted": "2017-11-06",
+ "date_promulgated": "2017-11-10",
+ "date_effective": "2018-06-10",
+ "gazette": "BN 2017/NO 1590; KEMENDAG.GO.ID : 175 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2024-13",
+   "target_bpk_id": 294653,
+   "label": "Permendag No. 13 Tahun 2024",
+   "about": "Kamus Kompetensi Teknis Bidang Perdagangan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 10 Juni 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/119672/Permendag%20No.%2085Tahun%202017.PDF"
+ ],
+ "fetched_at": "2026-09-14T06:38:02Z"
+}

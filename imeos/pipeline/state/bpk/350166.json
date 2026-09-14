@@ -1,0 +1,48 @@
+{
+ "id": "UU-2026-4",
+ "source": "bpk",
+ "bpk_id": 350166,
+ "url": "https://peraturan.bpk.go.id/Details/350166/uu-no-4-tahun-2026",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "4",
+ "number_raw": "4",
+ "year": 2026,
+ "title": "Undang-undang (UU) Nomor 4 Tahun 2026 tentang Perubahan atas Undang-Undang Nomor 4 Tahun 2023 tentang Pengembangan dan Penguatan Sektor Keuangan",
+ "about": "Perubahan atas Undang-Undang Nomor 4 Tahun 2023 tentang Pengembangan dan Penguatan Sektor Keuangan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN - PEREKONOMIAN - KEBIJAKAN PEMERINTAH",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2026-06-17",
+ "date_promulgated": "2026-06-17",
+ "date_effective": "2026-06-17",
+ "gazette": "LN 2026 (62), TLN (7180) : 137 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "UU-2023-4",
+   "target_bpk_id": 240203,
+   "label": "UU No. 4 Tahun 2023",
+   "about": "Pengembangan dan Penguatan Sektor Keuangan"
+  }
+ ],
+ "abstract": "Undang-Undang Nomor 4 Tahun 2023 tentang Pengembangan dan Penguatan Sektor Keuangan perlu dilakukan perbaikan sebagai tindak lanjut Putusan Mahkamah Konstitusi dan sesuai dengan kebutuhan hukum masyarakat.\nDasar hukum UU ini adalah Pasal 20, Pasal 21, Pasal 23D, Pasal 33, dan Pasal 34 UUD 1945; UU No. 34 Tahun 1964; UU No. 7 Tahun 1992; UU No. 8 Tahun 1995; UU No. 23 Tahun 1999; UU No. 24 Tahun 2004; UU No. 21 Tahun 2008; UU No. 21 Tahun 2011; UU No. 40 Tahun 2014; UU No. 9 Tahun 2016; dan UU No. 4 Tahun 2023.\nUU ini mengubah beberapa ketentuan dalam UU No. 4 Tahun 2023. Materi muatan Undang-Undang ini meliputi perbaikan, penyesuaian, serta pengaturan terhadap beberapa materi muatan antara lain mengenai: 1) penguatan status Lembaga Penjamin Simpanan sebagai badan hukum dan lembaga negara yang independen; penyempurnaan pengaturan mengenai susunan, persyaratan, proses seleksi, pemberhentian dan penggantian anggota Dewan Komisioner; serta penguatan mekanisme penyusunan anggaran Lembaga Penjamin Simpanan; 2) penambahan tugas Otoritas Jasa Keuangan untuk melakukan pengawasan dan pengaturan terhadap bursa mineral dan komoditas strategis, termasuk kegiatan pengelolaan dana publik lainnya; 3) penguatan pasar modal Indonesia melalui demutualisasi Bursa Efek Indonesia untuk memperkuat tata kelola, meningkatkan kepercayaan investor, dan memperluas partisipasi pemangku kepentingan; 4) penyempurnaan pengaturan penyelidikan dan penyidikan di sektor jasa keuangan, serta mekanisme keadilan restoratif yang diselaraskan dengan pengaturan dalam Kitab Undang-Undang Hukum Acara Pidana; 5) pengaturan mengenai bursa mineral dan komoditas strategis; dan lain-lain.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 17 Juni 2026.\nUU ini mengubah UU No. 4 Tahun 2023.\nLampiran file: 207 hlm (batang tubuh hlm 1 sd 137 dan penjelasan hlm 138 sd 207)",
+ "citations": [
+  "UU-2023-4",
+  "UU-1964-34",
+  "UU-1992-7",
+  "UU-1995-8",
+  "UU-1999-23",
+  "UU-2004-24",
+  "UU-2008-21",
+  "UU-2011-21",
+  "UU-2014-40",
+  "UU-2016-9"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/413875/UU%20Nomor%204%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:23:13Z"
+}

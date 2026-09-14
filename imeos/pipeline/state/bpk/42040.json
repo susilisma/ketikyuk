@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2006-111",
+ "source": "bpk",
+ "bpk_id": 42040,
+ "url": "https://peraturan.bpk.go.id/Details/42040/perpres-no-111-tahun-2006",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "111",
+ "number_raw": "111",
+ "year": 2006,
+ "title": "Peraturan Presiden (Perpres) Nomor 111 Tahun 2006 tentang Perubahan Sekolah Tinggi Agama Islam Negeri Ambon Menjadi Institut Agama Islam Ambon",
+ "about": "Perubahan Sekolah Tinggi Agama Islam Negeri Ambon Menjadi Institut Agama Islam Ambon",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PENDIDIKAN",
+ "field": "",
+ "date_enacted": null,
+ "date_promulgated": null,
+ "date_effective": null,
+ "gazette": "LLSETKAB : 2 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2025-60",
+   "target_bpk_id": 320329,
+   "label": "Perpres No. 60 Tahun 2025",
+   "about": "Universitas Islam Negeri Abdul Muthalib Sangadji Ambon"
+  },
+  {
+   "type": "Mengubah sebagian",
+   "target": null,
+   "target_bpk_id": 59561,
+   "label": "KEPPRES No. 11 Tahun 1997",
+   "about": "Pendirian Sekolah Tinggi Agama Islam Negeri"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal .",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/73188/PRPS%20NO%20111%20TH%202006.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:33:24Z"
+}

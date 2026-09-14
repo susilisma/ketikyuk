@@ -1,0 +1,37 @@
+{
+ "id": "PERMENDAG-2020-25",
+ "source": "bpk",
+ "bpk_id": 160252,
+ "url": "https://peraturan.bpk.go.id/Details/160252/permendag-no-25-tahun-2020",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "25",
+ "number_raw": "25",
+ "year": 2020,
+ "title": "Peraturan Menteri Perdagangan Nomor 25 Tahun 2020 tentang Laporan Keuangan Tahunan Perusahaan",
+ "about": "Laporan Keuangan Tahunan Perusahaan",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "",
+ "date_enacted": "2020-03-16",
+ "date_promulgated": "2020-03-19",
+ "date_effective": "2020-03-19",
+ "gazette": "BN.2020/No.266, peraturan.go.id : 12 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2025-26",
+   "target_bpk_id": 331163,
+   "label": "Permendag No. 26 Tahun 2025",
+   "about": "Pencabutan 4 (Empat) Peraturan Menteri Perdagangan Di Bidang Perdagangan Dalam Negeri"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 19 Maret 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/152842/Permendag%20Nomor%2025%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:37:13Z"
+}

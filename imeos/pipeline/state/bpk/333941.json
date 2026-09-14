@@ -1,0 +1,49 @@
+{
+ "id": "PMK-2025-77",
+ "source": "bpk",
+ "bpk_id": 333941,
+ "url": "https://peraturan.bpk.go.id/Details/333941/pmk-no-77-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "77",
+ "number_raw": "77",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 77 Tahun 2025 tentang Pengelolaan Barang Milik Negara yang Berasal dari Perjanjian Kerja Sama/Karya Pengusahaan Pertambangan Batubara",
+ "about": "Pengelolaan Barang Milik Negara yang Berasal dari Perjanjian Kerja Sama/Karya Pengusahaan Pertambangan Batubara",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PENGELOLAAN BARANG MILIK NEGARA / DAERAH - PERTAMBANGAN MIGAS, MINERAL DAN ENERGI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-11-07",
+ "date_promulgated": "2025-11-19",
+ "date_effective": "2025-11-19",
+ "gazette": "BN.2025 (949/51 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2021-225",
+   "target_bpk_id": 209956,
+   "label": "PMK No. 225/PMK.06/2021",
+   "about": "Pengelolaan Barang Milik Negara yang Berasal dari Perjanjian Kerjasama/Karya Pengusahaan Pertambangan Batubara"
+  }
+ ],
+ "abstract": "a. bahwa untuk melaksanakan ketentuan Pasal 104\nPeraturan Pemerintah Nomor 27 Tahun 2014 tentang\nPengelolaan Barang Milik Negara/Daerah sebagaimana\ntelah diubah dengan Peraturan Pemerintah Nomor 28\nTahun 2020 tentang Perubahan atas Peraturan\nPemerintah Nomor 27 Tahun 2014 tentang Pengelolaan\nBarang Milik Negara/Daerah, telah ditetapkan Peraturan\nMenteri Keuangan Nomor 225/PMK.06/2021 tentang\nPengelolaan Barang Milik Negara yang Berasal dari\nPerjanjian Kerja Sama/Karya Pengusahaan Pertambangan\nBatubara;\nb. bahwa untuk menyempurnakan tata kelola pengelolaan\nbarang milik negara yang berasal dari perjanjian kerja\nsama/karya pengusahaan pertambangan batubara,\npenunjukan Kuasa Pengguna Anggaran Bendahara Umum\nNegara untuk penganggaran Bagian Anggaran Bendahara\nUmum Negara, dan untuk menyesuaikan dengan\nperubahan ketentuan peraturan perundang-undangan di\nbidang pertambangan mineral dan batubara, Peraturan\nMenteri Keuangan Nomor 225/PMK.06/2021 tentang\nPengelolaan Barang Milik Negara yang Berasal dari\nPerjanjian Kerja Sama/Karya Pengusahaan Pertambangan\nBatubara perlu diganti;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a dan huruf b, perlu menetapkan Peraturan\nMenteri Keuangan tentang Pengelolaan Barang Milik\nNegara yang Berasal dari Perjanjian Kerja Sama/Karya\nPengusahaan Pertambangan Batubara;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 17 Tahun 2003, Undang-Undang Nomor 1 Tahun 2004, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 4 Tahun 2009, Peraturan Pemerintah Nomor 27 Tahun 2014, Peraturan Pemerintah Nomor 96 Tahun 2021, Peraturan Pemerintah Nomor 15 Tahun 2022, Keputusan Presiden Nomor 75 Tahun 1996, Peraturan Presiden Nomor 158 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengatur tentang ketentuan umum, tugas dan kewenangan, perencanaan kebutuhan, penganggaran dan pengadaan, penggunaan, pengamanan, pemeliharaan, pemanfaatan, penilaian, penyerahan BMN PKP2B kepada pemerintah, pemindahan status penggunaan, pemindahtanganan, pemusnahan, penghapusan, penatausahaan, pembinaan, pengawasan dan pengendalian, pengelolaan lebih lanjut BMN PKP2B pada kementerian teknis, penyelesaian ganti kerugian, anggaran biaya pengelolaan BMN PKP2P,ketentuan lain-lain, ketentuan peralihan dan ketentuan penutup.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 19 November 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan Menteri ini mulai berlaku, Peraturan\nMenteri Keuangan Nomor 225/PMK.06/2021 tentang\nPengelolaan Barang Milik Negara yang Berasal dari Perjanjian\nKerja Sama/Karya Pengusahaan Pertambangan Batubara",
+ "citations": [
+  "PP-2014-27",
+  "PP-2020-28",
+  "UU-2003-17",
+  "UU-2004-1",
+  "UU-2008-39",
+  "UU-2009-4",
+  "PP-2021-96",
+  "PP-2022-15",
+  "KEPPRES-1996-75",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/396495/77%20th%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:32:35Z"
+}

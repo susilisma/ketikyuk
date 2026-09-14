@@ -1,0 +1,65 @@
+{
+ "id": "UU-2009-16",
+ "source": "bpk",
+ "bpk_id": 38624,
+ "url": "https://peraturan.bpk.go.id/Details/38624/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "16",
+ "number_raw": "16",
+ "year": 2009,
+ "title": "Undang-undang (UU) Nomor 16 Tahun 2009 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 5 Tahun 2008 Tentang Perubahan Keempat Atas Undang-Undang Nomor 6 Tahun 1983 Tentang Ketentuan Umum dan Tata Cara Perpajakan Menjadi Undang-Undang",
+ "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 5 Tahun 2008 Tentang Perubahan Keempat Atas Undang-Undang Nomor 6 Tahun 1983 Tentang Ketentuan Umum dan Tata Cara Perpajakan Menjadi Undang-Undang",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERPAJAKAN",
+ "field": "",
+ "date_enacted": "2009-03-25",
+ "date_promulgated": "2009-03-25",
+ "date_effective": "2009-03-25",
+ "gazette": "LN. 2009/ No.211, TLN NO. 4953, LL SETNEG : 4 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2021-7",
+   "target_bpk_id": 185162,
+   "label": "UU No. 7 Tahun 2021",
+   "about": "Harmonisasi Peraturan Perpajakan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 135060,
+   "label": "PERPU No. 1 Tahun 2020",
+   "about": "Kebijakan Keuangan Negara dan Stabilitas Sistem Keuangan untuk Penanganan Pandemi Corona Virus Disease 2019 (COVID-19) dan/atau dalam Rangka Menghadapi Ancaman yang Membahayakan Perekonomian Nasional dan/atau Stabilitas Sistem Keuangan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2007-28",
+   "target_bpk_id": 39916,
+   "label": "UU No. 28 Tahun 2007",
+   "about": "Perubahan Ketiga atas Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1994-9",
+   "target_bpk_id": 46230,
+   "label": "UU No. 9 Tahun 1994",
+   "about": "Perubahan atas Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1983-6",
+   "target_bpk_id": 46986,
+   "label": "UU No. 6 Tahun 1983",
+   "about": "Ketentuan Umum dan Tata Cara Perpajakan"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 25 Maret 2009.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/27897/UU%20Nomor%2016%20Tahun%202009.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:13Z"
+}

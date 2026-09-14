@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2024-163",
+ "source": "bpk",
+ "bpk_id": 306716,
+ "url": "https://peraturan.bpk.go.id/Details/306716/perpres-no-163-tahun-2024",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "163",
+ "number_raw": "163",
+ "year": 2024,
+ "title": "Peraturan Presiden (Perpres) Nomor 163 Tahun 2024 tentang Badan Percepatan Pengentasan Kemiskinan",
+ "about": "Badan Percepatan Pengentasan Kemiskinan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KETATANEGARAAN, KENEGARAAN - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "HUKUM TATA NEGARA",
+ "date_enacted": "2024-11-05",
+ "date_promulgated": "2024-11-05",
+ "date_effective": "2024-11-05",
+ "gazette": "LN 2024 (359) : 13 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2015-96",
+   "target_bpk_id": 41841,
+   "label": "PERPRES No. 96 Tahun 2015",
+   "about": "Perubahan atas Peraturan Presiden Nomor 15 Tahun 2010 tentang Percepatan Penanggulangan Kemiskinan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2010-15",
+   "target_bpk_id": 41038,
+   "label": "PERPRES No. 15 Tahun 2010",
+   "about": "Percepatan Penanggulangan Kemiskinan"
+  }
+ ],
+ "abstract": "Dalam rangka mewujudkan efektivitas penyelenggaraan percepatan pengentasan kemiskinan secara sinergis dan terpadu perlu menetapkan Peraturan Presiden tentang Badan Percepatan Pengentasan Kemiskinan.\nDasar Hukum Perpres ini adalah Pasal 4 ayat (1) UUD NRI Tahun 1945.\nPerpres ini mengatur mengenai Badan Percepatan Pengentasan Kemiskinan. Badan merupakan lembaga nonstruktural yang berada di bawah dan bertanggung jawab kepada Presiden. Badan dipimpin oleh Kepala. Dalam memimpin Badan, Kepala dibantu oleh Wakil Kepala sesuai dengan penunjukan Presiden. Wakil Kepala berada di bawah dan bertanggung jawab kepada Kepala. Badan mempunyai tugas menyelenggarakan dukungan percepatan pengentasan kemiskinan secara terpadu. Dalam melaksanakan tugas Badan menyelenggarakan fungsi antara lain sebagai berikut; 1. peyusunan rencana induk dan program percepatan pengentasan kemiskinan; 2. penyelarasan kebijakan dan program percepatan pengentasan kemiskinan di kementerian/lembaga; dan 3. koordinasi dan sinkronisasi pelaksanaan kebijakan dan program percepatan pengentasan kemiskinan di kementerian/lembaga.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 05 November 2024.\nPada saat Peraturan Presiden ini mulai berlaku:\na. Peraturan Presiden Nomor 15 Tahun 2010 tentang Percepatan Penanggulangan Kemiskinan; dan\nb. Peraturan Presiden Nomor 96 Tahun 2015 tentang Perubahan atas Peraturan Presiden Nomor 15 Tahun 2010 tentang Percepatan Penanggulangan Kemiskinan (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 199), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 13 hlm",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/367003/Perpres%20Nomor%20163%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:28:04Z"
+}

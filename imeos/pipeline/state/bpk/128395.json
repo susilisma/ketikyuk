@@ -1,0 +1,44 @@
+{
+ "id": "POJK-2016-71",
+ "source": "bpk",
+ "bpk_id": 128395,
+ "url": "https://peraturan.bpk.go.id/Details/128395/peraturan-ojk-no-71pojk052016-tahun-2016",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "71",
+ "number_raw": "71/POJK.05/2016",
+ "year": 2016,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 71/POJK.05/2016 Tahun 2016 tentang Kesehatan Keuangan Perusahaan Asuransi dan Perusahaan Reasuransi",
+ "about": "Kesehatan Keuangan Perusahaan Asuransi dan Perusahaan Reasuransi",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "ASURANSI - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "",
+ "date_enacted": "2016-12-23",
+ "date_promulgated": "2016-12-28",
+ "date_effective": "2017-07-01",
+ "gazette": "LN.2016/NO.304, ojk.go.id: 50 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 347470,
+   "label": "Peraturan OJK No. 26 Tahun 2025",
+   "about": "Pengelolaan Aset dan Liabilitas Perusahaan Asuransi dan Perusahaan Reasuransi"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 260749,
+   "label": "Peraturan OJK No. 5 Tahun 2023",
+   "about": "Perubahan Kedua Atas Peraturan Otoritas Jasa Keuangan Nomor 71/POJK.05/2016 tentang Kesehatan Keuangan Perusahaan Asuransi dan Perusahaan Reasuransi"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 01 Juli 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/134967/POJK%20Nomor%2071%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:43:24Z"
+}

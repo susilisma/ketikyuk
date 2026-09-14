@@ -1,0 +1,40 @@
+{
+ "id": "PP-2021-34",
+ "source": "bpk",
+ "bpk_id": 161898,
+ "url": "https://peraturan.bpk.go.id/Details/161898/pp-no-34-tahun-2021",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "34",
+ "number_raw": "34",
+ "year": 2021,
+ "title": "Peraturan Pemerintah (PP) Nomor 34 Tahun 2021 tentang Penggunaan Tenaga Kerja Asing",
+ "about": "Penggunaan Tenaga Kerja Asing",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KETENAGAKERJAAN - KEWARGANEGARAAN DAN IMIGRASI - CIPTA KERJA",
+ "field": "",
+ "date_enacted": "2021-02-02",
+ "date_promulgated": "2021-02-02",
+ "date_effective": "2021-04-01",
+ "gazette": "LN.2021/No.44, TLN No.6646, jdih.setkab.go.id : 28 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2018-20",
+   "target_bpk_id": 73594,
+   "label": "PERPRES No. 20 Tahun 2018",
+   "about": "Penggunaan Tenaga Kerja Asing"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 81 dan Pasal 185 huruf b UU Nomor 11 Tahun 2020 tentang Cipta Kerja, perlu menetapkan PP tentang Penggunaan Tenaga Kerja Asing.\nDasar hukum PP ini adalah Pasal 5 ayat (2) Undang-undang Dasar Negara Republik Indonesia; UU Nomor 13 Tahun 2003; dan UU Nomor 11 Tahun 2020.\nPP ini mengatur mengenai kewajiban dan larangan pemberi kerja TKA, permohonan, perpanjangan, dan perubahan pengesahan Rencana Penggunaan Tenaga Kerja Asing (RPTKA), pengaturan Dana Kompensasi Penggunaan TKA (DKPTKA), penerbitan izin tinggal bagi TKA, pelaksanaan pendidikan dan pelatihan kerja bagi tenaga kerja pendamping TKA, pendidikan dan pelatihan bahasa Indonesia bagi TKA, pelaporan, pembinaan, dan pengawasan serta sanksi administratif serta pelanggaran norma penggunaan TKA.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 01 April 2021.\nPP ini mencabut PP Nomor 20 Tahun 2018 tentang Penggunaan Tenaga Kerja Asing.\nPenjelasan 12 hlm.",
+ "citations": [
+  "UU-2020-11",
+  "UU-2003-13"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/154576/PP%20Nomor%2034%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:31:22Z"
+}

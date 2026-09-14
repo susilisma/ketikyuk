@@ -1,0 +1,51 @@
+{
+ "id": "PMK-2014-243",
+ "source": "bpk",
+ "bpk_id": 122018,
+ "url": "https://peraturan.bpk.go.id/Details/122018/pmk-no-243pmk032014",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "243",
+ "number_raw": "243/PMK.03/2014",
+ "year": 2014,
+ "title": "Peraturan Menteri Keuangan Nomor 243/PMK.03/2014 Tahun 2014 tentang Surat Pemberitahuan (SPT)",
+ "about": "Surat Pemberitahuan (SPT)",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "",
+ "date_enacted": "2014-12-24",
+ "date_promulgated": "2014-12-24",
+ "date_effective": "2014-12-24",
+ "gazette": "BN.2014/NO.1974,jdih.kemenkeu.go.id : 11 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-81",
+   "target_bpk_id": 306614,
+   "label": "PMK No. 81 Tahun 2024",
+   "about": "Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2021-18",
+   "target_bpk_id": 162653,
+   "label": "PMK No. 18/PMK.03/2021",
+   "about": "Pelaksanaan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja di Bidang Pajak Penghasilan, Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, serta Ketentuan Umum dan Tata Cara Perpajakan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2018-9",
+   "target_bpk_id": 111956,
+   "label": "PMK No. 9/PMK.03/2018",
+   "about": "Perubahan Atas Peraturan Menteri Keuangan Nomor 243/PMK.03/2014 Tentang Surat Pemberitahuan (Spt)"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 24 Desember 2014.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/112788/2014%20PMK%20243.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:35:11Z"
+}

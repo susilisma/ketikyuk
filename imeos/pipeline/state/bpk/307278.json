@@ -1,0 +1,39 @@
+{
+ "id": "UU-2024-83",
+ "source": "bpk",
+ "bpk_id": 307278,
+ "url": "https://peraturan.bpk.go.id/Details/307278/uu-no-83-tahun-2024",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "83",
+ "number_raw": "83",
+ "year": 2024,
+ "title": "Undang-undang (UU) Nomor 83 Tahun 2024 tentang Kabupaten Lombok Tengah di Provinsi Nusa Tenggara Barat",
+ "about": "Kabupaten Lombok Tengah di Provinsi Nusa Tenggara Barat",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-10-28",
+ "date_promulgated": "2024-10-28",
+ "date_effective": "2024-10-28",
+ "gazette": "LN 2024 (269), TLN (7020): 6 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-1958-69",
+   "target_bpk_id": 52348,
+   "label": "UU No. 69 Tahun 1958",
+   "about": "Pembentukan Daerah-Daerah Tingkat II Dalam Wilayah Daerah-Daerah Tingkat I Bali, Nusa Tenggara Barat dan Nusa Tenggara Timur"
+  }
+ ],
+ "abstract": "Undang-Undang Nomor 69 Tahun 1958 tentang pembentukan Daerah-daerah tingkat II dalam wilayah Daerah-daerah tingkat I Bali, Nusa Tenggara Barat dan Nusa Tenggara Timur, yang menjadi dasar pembentukan Kabupaten Lombok Tengah, sudah tidak sesuai lagi dengan perkembangan hukum sehingga perlu diganti.\nDasar hukum UU ini adalah Pasal 18, Pasal 18A, Pasal 18B ayat (2), Pasal 20, Pasal 21, dan Pasal 22D ayat (2) UUD 1945.\nUU ini mengatur mengenai Kabupaten Lombok Tengah di Provinsi Nusa Tenggara Barat dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Kabupaten Lombok Tengah terdiri atas 12 (dua belas) Kecamatan. Ibu Kota Kabupaten Lombok Tengah berkedudukan di Kecamatan Praya.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 28 Oktober 2024.\nPada saat Undang-Undang ini mulai berlaku, ketentuan yang mengatur mengenai Kabupaten Lombok Tengah dalam Undang-Undang Nomor 69 Tahun 1958 tentang pembentukan Daerah-daerah tingkat II dalam wilayah Daerah-daerah tingkat I Bali, Nusa Tenggara Barat dan Nusa Tenggara Timur (Lembaran Negara Republik Indonesia Tahun 1958 Nomor 122,Tambahan Lembaran Negara Republik Indonesia Nomor 1655), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 9 hlm (batang tubuh hlm 1 sd 6, penjelasan hlm 7 sd 9)",
+ "citations": [
+  "UU-1958-69"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/367672/UU%20Nomor%2083%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:25:53Z"
+}

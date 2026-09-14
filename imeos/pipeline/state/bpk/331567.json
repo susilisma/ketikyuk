@@ -1,0 +1,42 @@
+{
+ "id": "PERPRES-2025-91",
+ "source": "bpk",
+ "bpk_id": 331567,
+ "url": "https://peraturan.bpk.go.id/Details/331567/perpres-no-91-tahun-2025",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "91",
+ "number_raw": "91",
+ "year": 2025,
+ "title": "Peraturan Presiden (Perpres) Nomor 91 Tahun 2025 tentang Perubahan atas Peraturan Presiden Nomor 144 Tahun 2024 tentang Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan",
+ "about": "Perubahan atas Peraturan Presiden Nomor 144 Tahun 2024 tentang Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-09-08",
+ "date_promulgated": "2025-09-08",
+ "date_effective": "2025-09-08",
+ "gazette": "LN 2025 (142) : 4 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2024-144",
+   "target_bpk_id": 306486,
+   "label": "Perpres No. 144 Tahun 2024",
+   "about": "Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan"
+  }
+ ],
+ "abstract": "Dalam pembentukan Kementerian Haji dan Umrah dan untuk mengoptimalkan koordinasi, sinkronisasi, dan pengendalian pelaksanaan urusan kementerian dalam penyelenggaraan pemerintahan di bidang pembangunan manusia dan kebudayaan, perlu melakukan penataan Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) dan Pasal 17 UUD NRI Tahun 1945; UU Nomor 39 Tahun 2008; Perpres Nomor 140 Tahun 2024; dan Perpres Nomor 144 Tahun 2024.\nPerpres ini mengubah beberapa ketentuan dalam Perpres Nomor 144 Tahun 2025. Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan mengoordinasikan Kementerian Agama, Kementerian Haji dan Umrah, Kementerian Pendidikan Dasar dan Menengah, Kementerian Pendidikan Tinggi, Sains, dan Teknologi, Kementerian Kebudayaan, Kementerian Kesehatan, Kementerian Pemberdayaan Perempuan dan Perlindungan Anak, Kementerian Kependudukan dan Pembangunan Keluarga/Badan Kependudukan dan Keluarga Berencana Nasional, Kementerian Pemuda dan Olah Raga, dan instansi lain yang dianggap perlu.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 08 September 2025.\nPerpres ini mengubah Perpres Nomor 144 Tahun 2024.\nLampiran file: 4 hlm.",
+ "citations": [
+  "UU-2008-39",
+  "PERPRES-2024-140",
+  "PERPRES-2024-144",
+  "PERPRES-2025-144"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/393601/Perpres%20Nomor%2091%20tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:43Z"
+}

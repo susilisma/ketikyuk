@@ -1,0 +1,41 @@
+{
+ "id": "PP-2025-46",
+ "source": "bpk",
+ "bpk_id": 330888,
+ "url": "https://peraturan.bpk.go.id/Details/330888/pp-no-46-tahun-2025",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "46",
+ "number_raw": "46",
+ "year": 2025,
+ "title": "Peraturan Pemerintah (PP) Nomor 46 Tahun 2025 tentang Perubahan atas Peraturan Pemerintah Nomor 106 Tahun 2021 tentang Kewenangan dan Kelembagaan Pelaksanaan Kebijakan Otonomi Khusus Provinsi Papua",
+ "about": "Perubahan atas Peraturan Pemerintah Nomor 106 Tahun 2021 tentang Kewenangan dan Kelembagaan Pelaksanaan Kebijakan Otonomi Khusus Provinsi Papua",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-10-07",
+ "date_promulgated": "2025-10-07",
+ "date_effective": "2025-10-07",
+ "gazette": "LN 2025 (163) : 4 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PP-2021-106",
+   "target_bpk_id": 184671,
+   "label": "PP No. 106 Tahun 2021",
+   "about": "Kewenangan dan Kelembagaan Pelaksanaan Kebijakan Otonomi Khusus Provinsi Papua"
+  }
+ ],
+ "abstract": "Dalam rangka mewujudkan percepatan pembangunan dan pelaksanaan otonomi khusus di wilayah Provinsi Papua, Peraturan Pemerintah Nomor 106 Tahun 2021 tentang Kewenangan dan Kelembagaan Pelaksanaan Kebijakan Otonomi Khusus Provinsi Papua perlu diubah.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945; UU Nomor 21 Tahun 2001; UU Nomor 23 Tahun 2014; dan PP Nomor 106 Tahun 2021.\nPP ini mengubah beberapa ketentuan dalam PP Nomor 106 Tahun 2021 tentang Kewenangan dan Kelembagaan Pelaksanaan Kebijakan Otonomi Khusus Provinsi Papua (Lembaran Negara Republik Indonesia Tahun 2021 Nomor 238, Tambahan Lembaran Negara Republik Indonesia Nomor 6730).",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 07 Oktober 2025.\nPP ini mengubah PP Nomor 106 Tahun 2021.\nLampiran file: 4 hlm.",
+ "citations": [
+  "PP-2021-106",
+  "UU-2001-21",
+  "UU-2014-23"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/392901/PP%20Nomor%2046%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:28:51Z"
+}

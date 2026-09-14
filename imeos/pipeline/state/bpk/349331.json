@@ -1,0 +1,46 @@
+{
+ "id": "PMK-2026-35",
+ "source": "bpk",
+ "bpk_id": 349331,
+ "url": "https://peraturan.bpk.go.id/Details/349331/pmk-no-35-tahun-2026",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "35",
+ "number_raw": "35",
+ "year": 2026,
+ "title": "Peraturan Menteri Keuangan Nomor 35 Tahun 2026 tentang Pengelolaan Dana Bagi Hasil dan Dana Alokasi Umum",
+ "about": "Pengelolaan Dana Bagi Hasil dan Dana Alokasi Umum",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PENGELOLAAN KEUANGAN NEGARA / DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-05-20",
+ "date_promulgated": "2026-05-25",
+ "date_effective": "2026-05-25",
+ "gazette": "BN.2026 (339/109 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2024-67",
+   "target_bpk_id": 305815,
+   "label": "PMK No. 67 Tahun 2024",
+   "about": "Pengelolaan Dana Bagi Hasil dan Dana Alokasi Umum"
+  }
+ ],
+ "abstract": "a. bahwa untuk menyesuaikan pengaturan alur proses bisnis\nterkait perencanaan, penganggaran, pengalokasian,\npenyaluran, pelaporan, pemantauan dan evaluasi dana bagi\nhasil dan dana alokasi umum, perlu disusun pengaturan\nmengenai pengelolaan dana bagi hasil dan dana alokasi\numum;\nb. bahwa Peraturan Menteri Keuangan Nomor 67 Tahun 2024\ntentang Pengelolaan Dana Bagi Hasil dan Dana Alokasi\nUmum belum sejalan dengan perkembangan regulasi dan\ntata kelola keuangan negara, sehingga perlu diganti;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a dan huruf b, serta sesuai dengan ketentuan\nPasal 106 huruf a dan huruf b Undang-Undang Nomor 1\nTahun 2022 tentang Hubungan Keuangan antara\nPemerintah Pusat dan Pemerintahan Daerah, Pasal 21\nayat (7), Pasal 24, dan Pasal 61 ayat (5) Peraturan\nPemerintah Nomor 37 Tahun 2023 tentang Pengelolaan\nTransfer ke Daerah, dan Pasal 116 Peraturan Pemerintah\nNomor 45 Tahun 2013 tentang Tata Cara Pelaksanaan\nAnggaran Pendapatan dan Belanja Negara sebagaimana\ntelah diubah dengan Peraturan Pemerintah Nomor 50\nTahun 2018 tentang Perubahan atas Peraturan Pemerintah\nNomor 45 Tahun 2013 tentang Tata Cara Pelaksanaan\nAnggaran Pendapatan dan Belanja Negara, perlu\nmenetapkan Peraturan Menteri Keuangan tentang\nPengelolaan Dana Bagi Hasil dan Dana Alokasi Umum;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 1 Tahun 2022, Peraturan Pemerintah Nomor 45 Tahun 2013, Peraturan Pemerintah Nomor 37 Tahun 2023, Peraturan Presiden Nomor 158 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengatur tentang ketentuan umum, pejabat perbendaharaan negara pengelolaan dana bagi hasil dan dana alokasi umum, indikasi kebutuhan dana, dana bagi hasil pajak, penghitungn kurang bayar dan lebih bayar dana bagi hasil, dana alokasi umum, perubahan alokasi, pengaturan untuk daerah otonomi baru, dokumen pelaksanaan anggaran, penyaluran, pedoman penggunaan dana bagi hasil dan dana alokasi umum, penundaan penyaluran, penyaluran kembali, pemotongan penyaluran, penghentian penyaluran, dan penyaluran dalam kondisi tertentu dana bagi hasil dan/atau dana alokasi umum, penatausahaan, pertanggungjawaban dan pelaporan, pemantaua dan evaluasi, ketentuan lain-lain, ketentuan peralihan dan ketentuan penutup.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 25 Mei 2026.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan Menteri ini mulai berlaku, Peraturan\nMenteri Keuangan Nomor 67 Tahun 2024 tentang Pengelolaan\nDana Bagi Hasil dan Dana Alokasi Umum",
+ "citations": [
+  "PMK-2024-67",
+  "UU-2022-1",
+  "PP-2013-45",
+  "PP-2018-50",
+  "UU-2008-39",
+  "PP-2023-37",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/413012/2026pmkeuangan035.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:30:47Z"
+}

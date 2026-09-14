@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2025-66",
+ "source": "bpk",
+ "bpk_id": 332076,
+ "url": "https://peraturan.bpk.go.id/Details/332076/pmk-no-66-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "66",
+ "number_raw": "66",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 66 Tahun 2025 tentang Nomor dan Nama Rekening Kas Umum Negara",
+ "about": "Nomor dan Nama Rekening Kas Umum Negara",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-09-23",
+ "date_promulgated": "2025-10-10",
+ "date_effective": "2025-10-10",
+ "gazette": "BN.2025 (788/4 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2012-31",
+   "target_bpk_id": 150728,
+   "label": "PMK No. 31/PMK.05/2012",
+   "about": "Nomor dan Nama Rekening Kas Umum Negara"
+  }
+ ],
+ "abstract": "a. bahwa untuk melaksanakan ketentuan Pasal 5 ayat (3)\nPeraturan Menteri Keuangan Nomor 218/PMK.05/2007\ntentang Tata Cara Pembukaan dan Pengelolaan Rekening\nMilik Bendahara Umum Negara, telah ditetapkan\nPeraturan Menteri Keuangan Nomor 31/PMK.05/2012\ntentang Nomor dan Nama Rekening Kas Umum Negara;\nb. bahwa sehubungan dengan adanya kebutuhan untuk\nmembuka rekening kas umum negara dalam valuta selain\nrupiah untuk menampung seluruh penerimaan negara\ndan/atau membayar seluruh pengeluaran negara pada\nbank sentral, perlu mengatur kembali ketentuan mengenai\nnomor dan nama rekening kas umum negara yang\nsebelumnya diatur dengan Peraturan Menteri Keuangan\nNomor 31/PMK.05/2012 tentang Nomor dan Nama\nRekening Kas Umum Negara;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a dan huruf b, perlu menetapkan Peraturan\nMenteri Keuangan tentang Nomor dan Nama Rekening Kas\nUmum Negara;\nasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008,Peraturan Pemerintah Nomor 39 Tahun 2007, Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Menteri Keuangan Nomor 218/PMK.05/2007 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengatur tentang ketentuan umum, nama dan nomor rekekning KUN, penggunaan rekening KUN dan ketentuan penutup.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 10 Oktober 2025.\nPeraturan mencabut dan menyatakan tidak berlaku atas Peraturan\nMenteri Keuangan Nomor 31/PMK.05/2012 tentang Nomor\ndan Nama Rekening Kas Umum Negara",
+ "citations": [
+  "PMK-2007-218",
+  "PMK-2012-31",
+  "UU-2008-39",
+  "PP-2007-39",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/394116/66%20th%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:32:57Z"
+}

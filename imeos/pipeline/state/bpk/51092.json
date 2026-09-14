@@ -1,0 +1,51 @@
+{
+ "id": "UU-1956-9",
+ "source": "bpk",
+ "bpk_id": 51092,
+ "url": "https://peraturan.bpk.go.id/Details/51092/uu-no-9-tahun-1956",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "9",
+ "number_raw": "9",
+ "year": 1956,
+ "title": "Undang-undang (UU) Nomor 9 Tahun 1956 tentang Pembentukan Daerah Otonom Kota-Besar Dalam Lingkungan Daerah Propisi Sumatera Tengah",
+ "about": "Pembentukan Daerah Otonom Kota-Besar Dalam Lingkungan Daerah Propisi Sumatera Tengah",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH",
+ "field": "",
+ "date_enacted": "1956-03-19",
+ "date_promulgated": "1956-03-23",
+ "date_effective": "1956-03-23",
+ "gazette": "LL SETNEG : 6 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-40",
+   "target_bpk_id": 295197,
+   "label": "UU No. 40 Tahun 2024",
+   "about": "Kota Jambi di Provinsi Jambi"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-55",
+   "target_bpk_id": 295286,
+   "label": "UU No. 55 Tahun 2024",
+   "about": "Kota Padang di Provinsi Sumatera Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-53",
+   "target_bpk_id": 295284,
+   "label": "UU No. 53 Tahun 2024",
+   "about": "Kota Bukittinggi di Provinsi Sumatera Barat"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 23 Maret 1956.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/40343/UU%20Nomor%209%20Tahun%201956.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:26:37Z"
+}

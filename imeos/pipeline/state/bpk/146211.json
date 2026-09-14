@@ -1,0 +1,37 @@
+{
+ "id": "PERMENAKER-2016-37",
+ "source": "bpk",
+ "bpk_id": 146211,
+ "url": "https://peraturan.bpk.go.id/Details/146211/permenaker-no-37-tahun-2016",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "37",
+ "number_raw": "37",
+ "year": 2016,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 37 Tahun 2016 tentang Keselamatan dan Kesehatan Kerja Bejana Tekanan dan Tangki Timbun",
+ "about": "Keselamatan dan Kesehatan Kerja Bejana Tekanan dan Tangki Timbun",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "KESEHATAN - KETENAGAKERJAAN",
+ "field": "",
+ "date_enacted": "2016-12-27",
+ "date_promulgated": "2016-12-27",
+ "date_effective": "2016-12-27",
+ "gazette": "BN.2016/No.1988, jdih.kemnaker.go.id : 44 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PERMENAKER-2026-11",
+   "target_bpk_id": 351282,
+   "label": "Permenaker No. 11 Tahun 2026",
+   "about": "Tata Cara Pengawasan Ketenagakerjaan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Ketenagakerjaan Republik Indonesia ini mulai berlaku pada tanggal 27 Desember 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/138030/Kemnaker%20No.%2037%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:40:39Z"
+}

@@ -1,0 +1,58 @@
+{
+ "id": "UU-2002-32",
+ "source": "bpk",
+ "bpk_id": 44500,
+ "url": "https://peraturan.bpk.go.id/Details/44500/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "32",
+ "number_raw": "32",
+ "year": 2002,
+ "title": "Undang-undang (UU) Nomor 32 Tahun 2002 tentang Penyiaran",
+ "about": "Penyiaran",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERS, POS, DAN PERIKLANAN",
+ "field": "",
+ "date_enacted": "2002-12-28",
+ "date_promulgated": "2002-12-28",
+ "date_effective": "2002-12-28",
+ "gazette": "LN. 2002/ No. 139, TLN NO. 4252, LL SETNEG : 27 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 234926,
+   "label": "PERPU No. 2 Tahun 2022",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1997-24",
+   "target_bpk_id": 46021,
+   "label": "UU No. 24 Tahun 1997",
+   "about": "Penyiaran"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 28 Desember 2002.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/32772/UU%20Nomor%2032%20Tahun%202002.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:33:17Z"
+}

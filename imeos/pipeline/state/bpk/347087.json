@@ -1,0 +1,52 @@
+{
+ "id": "PMK-2026-15",
+ "source": "bpk",
+ "bpk_id": 347087,
+ "url": "https://peraturan.bpk.go.id/Details/347087/pmk-no-15-tahun-2026",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "15",
+ "number_raw": "15",
+ "year": 2026,
+ "title": "Peraturan Menteri Keuangan Nomor 15 Tahun 2026 tentang Tata Cara Penyaluran Dana Alokasi Umum/Dana Bagi Hasil atau Dana Desa dalam Rangka Percepatan Pembangunan Fisik Gerai, Pergudangan dan Kelengkapan Koperasi Desa/Kelurahan Merah Putih",
+ "about": "Tata Cara Penyaluran Dana Alokasi Umum/Dana Bagi Hasil atau Dana Desa dalam Rangka Percepatan Pembangunan Fisik Gerai, Pergudangan dan Kelengkapan Koperasi Desa/Kelurahan Merah Putih",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PENGELOLAAN KEUANGAN NEGARA / DAERAH - DESA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-03-16",
+ "date_promulgated": "2026-04-01",
+ "date_effective": "2026-04-01",
+ "gazette": "BN.2026 (215/13 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2025-63",
+   "target_bpk_id": 327276,
+   "label": "PMK No. 63 Tahun 2025",
+   "about": "Penggunaan Saldo Anggaran Lebih Pada Tahun Anggaran 2025 Untuk Pemberian Dukungan Kepada Bank Yang Menyalurkan Pinjaman Kepada Koperasi Desa/kelurahan Merah Putih"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2025-49",
+   "target_bpk_id": 326276,
+   "label": "PMK No. 49 Tahun 2025",
+   "about": "Tata Cara Pinjaman Dalam Rangka Pendanaan Koperasi Desa/Kelurahan Merah Putih"
+  }
+ ],
+ "abstract": "a. bahwa melalui Instruksi Presiden Nomor 17 Tahun 2025\ntentang Percepatan Pembangunan Fisik Gerai, Pergudangan,\ndan Kelengkapan Koperasi Desa/Kelurahan Merah Putih,\nMenteri Keuangan diinstruksikan antara lain untuk\nmelakukan penyaluran dana alokasi umum/dana bagi hasil\natau dana desa untuk pembayaran seluruh kewajiban yang\ntimbul atas pelaksanaan kegiatan percepatan pembangunan\nfisik gerai, pergudangan, dan kelengkapan Koperasi\nDesa/Kelurahan Merah Putih sesuai dengan ketentuan\nperaturan perundang-undangan;\nb. bahwa untuk memberikan pedoman dalam penyaluran dana\nalokasi umum/dana bagi hasil atau dana desa sebagaimana\ndimaksud dalam huruf a, perlu diatur tata kelola dalam\npenyaluran dana alokasi umum/dana bagi hasil atau dana\ndesa untuk pembayaran seluruh kewajiban yang timbul atas\npelaksanaan kegiatan percepatan pembangunan fisik gerai,\npergudangan, dan kelengkapan Koperasi Desa/Kelurahan\nMerah Putih;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a dan huruf b perlu menetapkan Peraturan\nMenteri Keuangan tentang Tata Cara Penyaluran Dana\nAlokasi Umum/Dana Bagi Hasil atau Dana Desa dalam\nRangka Percepatan Pembangunan Fisik Gerai, Pergudangan,\ndan Kelengkapan Koperasi Desa/Kelurahan Merah Putih;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 25 Tahun 1992, Undang-Undang Nomor 1 Tahun 2004, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 1 Tahun 2022, Peraturan Pemerintah Nomor 37 Tahun 2023, Peraturan Presiden Nomor 158 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengatur tentang ketentuan umum, pejabat perbendaharaan, penyaluran dana alokasi umum/dana bagi hasil atau dana desa, akuntansi dan pelaporan dan ketentuan penutup.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 01 April 2026.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas:\n1. Peraturan Menteri Keuangan Nomor 49 Tahun 2025 tentang\nTata Cara Pinjaman dalam Rangka Pendanaan Koperasi\nDesa/Kelurahan Merah Putih.\n2. Peraturan Menteri Keuangan Nomor 63 Tahun 2025 tentang\nPenggunaan Saldo Anggaran Lebih pada Tahun Anggaran\n2025 untuk Pemberian Dukungan Kepada Bank yang\nMenyalurkan Pinjaman Kepada Koperasi Desa/Kelurahan Merah Putih",
+ "citations": [
+  "UU-1992-25",
+  "UU-2004-1",
+  "UU-2008-39",
+  "UU-2022-1",
+  "PP-2023-37",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/410516/2026pmkeuangan015.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:31:15Z"
+}

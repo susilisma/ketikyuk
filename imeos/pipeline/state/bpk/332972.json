@@ -1,0 +1,51 @@
+{
+ "id": "PERMENDAG-2025-37",
+ "source": "bpk",
+ "bpk_id": 332972,
+ "url": "https://peraturan.bpk.go.id/Details/332972/x",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "37",
+ "number_raw": "37",
+ "year": 2025,
+ "title": "Peraturan Menteri Perdagangan Nomor 37 Tahun 2025 tentang Perubahan Atas Peraturan Menteri Perdagangan Nomor 16 Tahun 2025 tentang Kebijakan dan Pengaturan Impor",
+ "about": "Perubahan Atas Peraturan Menteri Perdagangan Nomor 16 Tahun 2025 tentang Kebijakan dan Pengaturan Impor",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN - KEBIJAKAN PEMERINTAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-10-22",
+ "date_promulgated": "2025-10-22",
+ "date_effective": "2025-11-05",
+ "gazette": "BN.2025 (855/25 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERMENDAG-2025-16",
+   "target_bpk_id": 323106,
+   "label": "Permendag No. 16 Tahun 2025",
+   "about": "Kebijakan dan Pengaturan Impor"
+  }
+ ],
+ "abstract": "a. bahwa untuk memberikan kepastian dan kemudahan\nberusaha bagi pelaku usaha pemilik nomor identitas\nberusaha yang berlaku sebagai angka pengenal importir\nserta efektivitas pengendalian impor sebagaimana diatur\ndalam Peraturan Menteri Perdagangan Nomor 16 Tahun\n2025 tentang Kebijakan dan Pengaturan Impor, perlu\ndilakukan perubahan;\nb. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a, perlu menetapkan Peraturan Menteri\nPerdagangan tentang Perubahan atas Peraturan Menteri\nPerdagangan Nomor 16 Tahun 2025 tentang Kebijakan\ndan Pengaturan Impor;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 7 Tahun 1994, Undang-Undang Nomor 10 Tahun 1995, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 7 Tahun 2014, Peraturan Pemerintah Nomor 32 Tahun 2009, Peraturan Pemerintah Nomor 83 Tahun 2010, Peraturan Pemerintah Nomor 28 Tahun 2021, Peraturan Pemerintah Nomor 29 Tahun 2021, Peraturan Pemerintah Nomor 40 Tahun 2021, Peraturan Pemerintah Nomor 41 Tahun 2021, Peraturan Presiden Nomor 168 Tahun 2024, Peraturan Menteri Perdagangan Nomor 6 Tahun 2025 dan Peraturan Menteri Perdagangan Nomor 16 Tahun 2025\nPeraturan ini mengubah beberapa ketentuan yaitu tentang Nomor Induk Berusaha dan Angka Pengenal Impor, Verifikasi atau Penelusuran Teknis, Pemasukan Barang ke KPBPB dari luar Daerah Pabean dan pengecualian Impor dilakukan terhadap kegiatan usaha",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 05 November 2025.\nPeraturan Menteri Perdagangan Nomor 16 Tahun 2025 tentang Kebijakan dan Pengaturan Impor diubah sebagian",
+ "citations": [
+  "PERMENDAG-2025-16",
+  "UU-1994-7",
+  "UU-1995-10",
+  "UU-2008-39",
+  "UU-2014-7",
+  "PP-2009-32",
+  "PP-2010-83",
+  "PP-2021-28",
+  "PP-2021-29",
+  "PP-2021-40",
+  "PP-2021-41",
+  "PERPRES-2024-168",
+  "PERMENDAG-2025-6"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/395126/Permendag%20Nomor%2037%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:45Z"
+}

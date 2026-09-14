@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2023-70",
+ "source": "bpk",
+ "bpk_id": 267151,
+ "url": "https://peraturan.bpk.go.id/Details/267151/perpres-no-70-tahun-2023",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "70",
+ "number_raw": "70",
+ "year": 2023,
+ "title": "Peraturan Presiden (Perpres) Nomor 70 Tahun 2023 tentang Pengalokasian Lahan bagi Penataan Investasi",
+ "about": "Pengalokasian Lahan bagi Penataan Investasi",
+ "issuer": "Pemerintah Pusat",
+ "subject": "AGRARIA, PERTANAHAN, TATA RUANG - PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA - PENANAMAN MODAL DAN INVESTASI - PERIZINAN, PELAYANAN PUBLIK",
+ "field": "HUKUM AGRARIA",
+ "date_enacted": "2023-10-16",
+ "date_promulgated": "2023-10-16",
+ "date_effective": "2023-10-16",
+ "gazette": "LN 2023 (138) : 16 hlm., jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PP-2025-39",
+   "target_bpk_id": 331105,
+   "label": "PP No. 39 Tahun 2025",
+   "about": "Perubahan Kedua atas Peraturan Pemerintah Nomor 96 Tahun 2021 tentang Pelaksanaan Kegiatan Usaha Pertambangan Mineral dan Batubara"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2024-76",
+   "target_bpk_id": 292906,
+   "label": "Perpres No. 76 Tahun 2024",
+   "about": "Perubahan atas Peraturan Presiden Nomor 70 Tahun 2023 tentang Pengalokasian Lahan Bagi Penataan Investasi"
+  }
+ ],
+ "abstract": "Untuk mewujudkan penataan penggunaan dan pemanfaatan lahan bagi pemerataan investasi, perlu diatur penataan perizinan berusaha untuk pertambangan, perkebunan, dan pemanfaatan hutan bagi badan usaha milik desa, badan usaha milik daerah, badan usaha yang berbadan hukum yang dimiliki oleh organisasi kemasyarakatan, koperasi, dan badan usaha yang dimiliki oleh usaha kecil dan menengah.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.\nPerpres ini mengatur tentang pengalokasian lahan bagi penataan investasi dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Selain itu, dalam Perpres ini dibentuk Satuan Tugas Penataan Penggunaan Lahan dan Penataan Investasi (Satuan Tugas) adalah satuan tugas yang dibentuk oleh Presiden dalam rangka penataan penggunaan lahan secara berkeadilan, penataan perizinan berusaha untuk sektor pertambangan, perkebunan dan pemanfaatan hutan, serta dalam rangka meningkatkan efektivitas dan efisiensi untuk optimalisasi pemanfaatan sumber daya alam.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 16 Oktober 2023.\nLampiran file: 16 hlm.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/324443/Perpres%20Nomor%2070%20Tahun%202023.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:29:08Z"
+}

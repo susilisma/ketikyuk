@@ -1,0 +1,44 @@
+{
+ "id": "PP-1961-11",
+ "source": "bpk",
+ "bpk_id": 72696,
+ "url": "https://peraturan.bpk.go.id/Details/72696/x",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "11",
+ "number_raw": "11",
+ "year": 1961,
+ "title": "Peraturan Pemerintah (PP) Nomor 11 Tahun 1961 tentang Penyakit Karantina",
+ "about": "Penyakit Karantina",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KESEHATAN",
+ "field": "",
+ "date_enacted": "1961-03-23",
+ "date_promulgated": "1961-03-23",
+ "date_effective": "1961-03-23",
+ "gazette": "LN. 1961/No. 29",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-28",
+   "target_bpk_id": 294077,
+   "label": "PP No. 28 Tahun 2024",
+   "about": "Peraturan Pelaksanaan Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-1959-53",
+   "target_bpk_id": 76123,
+   "label": "PP No. 53 Tahun 1959",
+   "about": "Penyakit Karantina"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 23 Maret 1961.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/63181/pp%20no%20011%20tahun%201961.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:35Z"
+}

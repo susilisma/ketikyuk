@@ -1,0 +1,37 @@
+{
+ "id": "PMK-2012-69",
+ "source": "bpk",
+ "bpk_id": 165029,
+ "url": "https://peraturan.bpk.go.id/Details/165029/pmk-no-69pmk042012",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "69",
+ "number_raw": "69/PMK.04/2012",
+ "year": 2012,
+ "title": "Peraturan Menteri Keuangan Nomor 69/PMK.04/2012 Tahun 2012 tentang Pembebasan Bea Masuk dan/atau Cukai atas Impor Barang Kiriman Hadiah/Hibah untuk Kepentingan Penanggulangan Bencana Alam",
+ "about": "Pembebasan Bea Masuk dan/atau Cukai atas Impor Barang Kiriman Hadiah/Hibah untuk Kepentingan Penanggulangan Bencana Alam",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN - BANTUAN, SUMBANGAN, BENCANA / KEBENCANAAN, DAN PENANGGULANGAN BENCANA",
+ "field": "",
+ "date_enacted": "2012-05-07",
+ "date_promulgated": "2012-05-07",
+ "date_effective": "2012-08-05",
+ "gazette": "BN 2012/ NO 491; PERATURAN.GO.ID : 15 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-99",
+   "target_bpk_id": 341739,
+   "label": "PMK No. 99 Tahun 2025",
+   "about": "Pembebasan Bea Masuk dan/atau Cukai atas Impor Barang Kiriman Hadiah/Hibah untuk Keperluan Ibadah Untuk Umum, Amal, Sosial, kebudayaan atau untuk Kepentingan Penanggulangan Bencana Alam"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 05 Agustus 2012.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/157918/PMK%20Nomor%2069%20Tahun%202012.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:32:06Z"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "POJK-2015-4",
+ "source": "bpk",
+ "bpk_id": 128876,
+ "url": "https://peraturan.bpk.go.id/Details/128876/peraturan-ojk-no-4pojk032015-tahun-2015",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "4",
+ "number_raw": "4/POJK.03/2015",
+ "year": 2015,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 4/POJK.03/2015 Tahun 2015 tentang Penerapan Tata Kelola bagi Bank Perkreditan Rakyat",
+ "about": "Penerapan Tata Kelola bagi Bank Perkreditan Rakyat",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "",
+ "date_enacted": "2015-03-31",
+ "date_promulgated": "2015-04-01",
+ "date_effective": "2015-04-01",
+ "gazette": "LN.2015/NO.72, TLN NO.5685, Jdih.ojk.go.id: 59 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 301713,
+   "label": "Peraturan OJK No. 9 Tahun 2024",
+   "about": "Penerapan Tata Kelola bagi Bank Perekonomian Rakyat dan Bank Perekonomian Rakyat Syariah"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 01 April 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/119811/POJK%204.%20Penerapan%20Tata%20Kelola%20Bagi%20BPR.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:44:33Z"
+}

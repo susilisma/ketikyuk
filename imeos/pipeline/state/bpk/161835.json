@@ -1,0 +1,54 @@
+{
+ "id": "PP-2021-5",
+ "source": "bpk",
+ "bpk_id": 161835,
+ "url": "https://peraturan.bpk.go.id/Details/161835/pp-no-5-tahun-2021",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "5",
+ "number_raw": "5",
+ "year": 2021,
+ "title": "Peraturan Pemerintah (PP) Nomor 5 Tahun 2021 tentang Penyelenggaraan Perizinan Berusaha Berbasis Risiko",
+ "about": "Penyelenggaraan Perizinan Berusaha Berbasis Risiko",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERIZINAN, PELAYANAN PUBLIK - CIPTA KERJA",
+ "field": "",
+ "date_enacted": "2021-02-02",
+ "date_promulgated": "2021-02-02",
+ "date_effective": "2021-02-02",
+ "gazette": "LN.2021/No.15, TLN No.6617, peraturan.go.id : 349 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2025-28",
+   "target_bpk_id": 319773,
+   "label": "PP No. 28 Tahun 2025",
+   "about": "Penyelenggaraan Perizinan Berusaha Berbasis Risiko"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PP-2023-11",
+   "target_bpk_id": 244907,
+   "label": "PP No. 11 Tahun 2023",
+   "about": "Penangkapan Ikan Terukur"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2018-24",
+   "target_bpk_id": 82994,
+   "label": "PP No. 24 Tahun 2018",
+   "about": "Pelayanan Perizinan Berusaha Terintegrasi Secara Elektronik"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 12 Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja, perlu menetapkan Peraturan Pemerintah tentang Penyelenggaraan Perizinan Berusaha Berbasis Risiko.\nDasar hukum PP ini adalah Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 dan UU Nomor 11 Tahun 2020.\nPP ini mengatur mengenai Perizinan Berusaha berdasarkan tingkat Risiko kegiatan usaha. Penyelenggaraan Perizinan Berusaha Berbasis Risiko meliputi: 1) pengaturan Perizinan Berusaha Berbasis Risiko; 2) norma, standar, prosedur, dan kriteria Perizinan Berusaha Berbasis Risiko; 3) Perizinan Berusaha Berbasis Risiko melalui layanan Sistem Online Single Submission/OSS; 4) tata cara Pengawasan Perizinan Berusaha Berbasis Risiko; 5) evaluasi dan reformasi kebijakan Perizinan Berusaha Berbasis Risiko; 6) pendanaan Perizinan Berusaha Berbasis Risiko; 7) penyelesaian permasalahan dan hambatan Perizinan Berusaha Berbasis Risiko; dan 8) sanksi.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 02 Februari 2021.\nPP ini mencabut PP Nomor 24 Tahun 2018 tentang Pelayanan Perizinan Berusaha Terintegrasi Secara Elektronik.\nPeraturan pelaksanaan dari PP ini wajib ditetapkan paling lama 2 (dua) bulan sejak PP ini diundangkan dan pelaksanaan Perizinan Berusaha Berbasis Risiko melalui Sistem OSS mulai berlaku efektif 4 (empat) bulan sejak PP ini diundangkan.\nPenjelasan 64 hlm.",
+ "citations": [
+  "UU-2020-11"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/197880/PP%20Nomor%205%20Tahun%202021.pdf",
+  "https://peraturan.bpk.go.id/Download/197881/PP%20Nomor%205%20Tahun%202021_penjelasan.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:29:26Z"
+}

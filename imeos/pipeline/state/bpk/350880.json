@@ -1,0 +1,54 @@
+{
+ "id": "PMK-2026-41",
+ "source": "bpk",
+ "bpk_id": 350880,
+ "url": "https://peraturan.bpk.go.id/Details/350880/pmk-no-41-tahun-2026",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "41",
+ "number_raw": "41",
+ "year": 2026,
+ "title": "Peraturan Menteri Keuangan Nomor 41 Tahun 2026 tentang Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 62 Tahun 2023 tentang Perencanaan Anggaran, Pelaksanaan Anggaran, Serta Akuntansi dan Pelaporan Keuangan",
+ "about": "Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 62 Tahun 2023 tentang Perencanaan Anggaran, Pelaksanaan Anggaran, Serta Akuntansi dan Pelaporan Keuangan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PROGRAM, RENCANA PEMBANGUNAN DAN RENCANA KERJA - KEBIJAKAN AKUNTANSI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-06-12",
+ "date_promulgated": "2026-06-22",
+ "date_effective": "2026-06-22",
+ "gazette": "BN.2026 (409)/541 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PMK-2024-107",
+   "target_bpk_id": 315595,
+   "label": "PMK No. 107 Tahun 2024",
+   "about": "Perubahan Atas Peraturan Menteri Keuangan Nomor 62 Tahun 2023 tentang Perencanaan Anggaran, Pelaksanaan Anggaran Serta Akuntansi dan Pelaporan Keuangan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PMK-2023-62",
+   "target_bpk_id": 254789,
+   "label": "PMK No. 62 Tahun 2023",
+   "about": "Perencanaan Anggaran, Pelaksanaan Anggaran, serta Akuntansi dan Pelaporan Keuangan"
+  }
+ ],
+ "abstract": "a. bahwa untuk pelaksanaan anggaran yang lebih efektif, efisien\ndan tepat sasaran, serta menindaklanjuti dinamika\npengelolaan anggaran agar tetap akuntabel, diperlukan\ndukungan pemerintah melalui kebijakan perencanaan\nanggaran dan pelaksanaan anggaran, antara lain berupa\npemenuhan prioritas penganggaran berdasarkan arahan\nPresiden;\nb. bahwa ketentuan dalam Peraturan Menteri Keuangan Nomor\n62 Tahun 2023 tentang Perencanaan Anggaran, Pelaksanaan\nAnggaran, serta Akuntansi dan Pelaporan Keuangan\nsebagaimana telah diubah dengan Peraturan Menteri\nKeuangan Nomor 107 Tahun 2024 tentang Perubahan atas\nPeraturan Menteri Keuangan Nomor 62 Tahun 2023 tentang\nPerencanaan Anggaran, Pelaksanaan Anggaran, serta\nAkuntansi dan Pelaporan Keuangan belum menampung\nkebutuhan penyesuaian kebijakan di bidang perencanaan\nanggaran dan pelaksanaan anggaran sebagaimana dimaksud\ndalam huruf a, sehingga perlu dilakukan perubahan;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a dan huruf b, perlu menetapkan Peraturan\nMenteri Keuangan tentang Perubahan Kedua atas Peraturan\nMenteri Keuangan Nomor 62 Tahun 2023 tentang\nPerencanaan Anggaran, Pelaksanaan Anggaran, serta\nAkuntansi dan Pelaporan Keuangan;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 45 Tahun 2013, Peraturan Pemerintah Nomor 19 Tahun 2022, Peraturan Pemerintah Nomor 6 Tahun 2023, Peraturan Presiden Nomor 42 Tahun 2020, Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Menteri Keuangan Nomor 62 Tahun 2023 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 62 Tahun 2023 tentang Perencanaan Anggaran, Pelaksanaan\nAnggaran, serta Akuntansi dan Pelaporan Keuangan sebagaimana telah diubah dengan Peraturan Menteri Keuangan\nNomor 107 Tahun 2024 tentang Perubahan atas Peraturan\nMenteri Keuangan Nomor 62 Tahun 2023 tentang Perencanaan\nAnggaran, Pelaksanaan Anggaran, serta Akuntansi dan\nPelaporan Keuangan yaitu tentang ketentuan umum, bagian anggaran dan satuan biaya",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 22 Juni 2026.\nPeraturan Menteri Keuangan Nomor 62 Tahun 2023 tentang Perencanaan Anggaran, Pelaksanaan\nAnggaran diubah sebagian",
+ "citations": [
+  "PMK-2023-62",
+  "UU-2008-39",
+  "PP-2013-45",
+  "PP-2022-19",
+  "PP-2023-6",
+  "PERPRES-2020-42",
+  "PERPRES-2024-158",
+  "PMK-2024-124",
+  "PMK-2024-107"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/414635/2026pmkeuangan041.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:30:40Z"
+}

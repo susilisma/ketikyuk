@@ -1,0 +1,54 @@
+{
+ "id": "PERMENAKER-2026-4",
+ "source": "bpk",
+ "bpk_id": 347420,
+ "url": "https://peraturan.bpk.go.id/Details/347420/permenaker-no-4-tahun-2026",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "4",
+ "number_raw": "4",
+ "year": 2026,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 4 Tahun 2026 tentang Indikator Kinerja Kementerian Ketenagakerjaan Tahun 2025-2029",
+ "about": "Indikator Kinerja Kementerian Ketenagakerjaan Tahun 2025-2029",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "KETENAGAKERJAAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-03-30",
+ "date_promulgated": "2026-04-01",
+ "date_effective": "2026-04-01",
+ "gazette": "BN 2026 (211); 123 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENAKER-2022-9",
+   "target_bpk_id": 231401,
+   "label": "Permenaker No. 9 Tahun 2022",
+   "about": "Perubahan atas Peraturan Menteri Ketenagakerjaan Nomor 11 Tahun 2021 tentang Indikator Kinerja Utama Kementerian Ketenagakerjaan Tahun 2020-2024"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENAKER-2021-11",
+   "target_bpk_id": 195979,
+   "label": "Permenaker No. 11 Tahun 2021",
+   "about": "Indikator Kinerja Utama Kementerian Ketenagakerjaan Tahun 2020-2024"
+  }
+ ],
+ "abstract": "bahwa berdasarkan Peraturan Menteri\nKetenagakerjaan Nomor 9 Tahun 2025 tentang Rencana\nStrategis Kementerian Ketenagakerjaan Tahun 20252029, perlu mengatur indikator kinerja Kementerian\nKetenagakerjaan tahun 2025-2029\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD 1945; UU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024; PP Nomor 8 Tahun 2006; PP Nomor 60 Tahun 2008; Perpres Nomor 29 Tahun 2014; Perpres Nomor 164 Tahun 2024; Perpres Nomor 80 Tahun 2025; Permenaker Nomor 20 Tahun 2024; Permenaker Nomor 9 Tahun 2025.\nPeraturan ini mengatur mengenai Indikator Kinerja di Kementerian Ketenagakerjaan yang terdiri atas a. Indikator Kinerja Sasaran Strategis (IKSS);\nb. Indikator Kinerja Program (IKP); dan\nc. Indikator Kinerja Kegiatan (IKK).",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 01 April 2026.\nPada saat Peraturan Menteri ini mulai berlaku:\na. Peraturan Menteri Ketenagakerjaan Nomor 11 Tahun\n2021 tentang Indikator Kinerja Utama Kementerian\nKetenagakerjaan Tahun 2020-2024 (Berita Negara\nRepublik Indonesia Tahun 2021 Nomor 795); dan\nb. Peraturan Menteri Ketenagakerjaan Nomor 9 Tahun\n2022 tentang Perubahan atas Peraturan Menteri\nKetenagakerjaan Nomor 11 Tahun 2021 tentang\nIndikator Kinerja Utama Kementerian Ketenagakerjaan\nTahun 2020-2024 (Berita Negara Republik Indonesia\nTahun 2022 Nomor 841),\ndicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "UU-2008-39",
+  "UU-2024-61",
+  "PP-2006-8",
+  "PP-2008-60",
+  "PERPRES-2014-29",
+  "PERPRES-2024-164",
+  "PERPRES-2025-80",
+  "PERMENAKER-2024-20",
+  "PERMENAKER-2025-9"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/410932/permenaker-no-4-tahun-2026.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:40:52Z"
+}

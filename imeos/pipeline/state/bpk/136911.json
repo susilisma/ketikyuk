@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2016-74",
+ "source": "bpk",
+ "bpk_id": 136911,
+ "url": "https://peraturan.bpk.go.id/Details/136911/pmk-no-74pmk072016",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "74",
+ "number_raw": "74/PMK.07/2016",
+ "year": 2016,
+ "title": "Peraturan Menteri Keuangan Nomor 74/PMK.07/2016 Tahun 2016 tentang Penyelenggaraan Sistem Informasi Keuangan Daerah",
+ "about": "Penyelenggaraan Sistem Informasi Keuangan Daerah",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PENGELOLAAN KEUANGAN NEGARA / DAERAH",
+ "field": "",
+ "date_enacted": "2016-04-28",
+ "date_promulgated": "2016-04-29",
+ "date_effective": "2016-04-29",
+ "gazette": "JDIH.KEMENKEU.GO.ID : 107 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-93",
+   "target_bpk_id": 311431,
+   "label": "PMK No. 93 Tahun 2024",
+   "about": "Platform Digital Sinergi Kebijakan Fiskal Nasional"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2020-24",
+   "target_bpk_id": 136894,
+   "label": "PMK No. 24/PMK.07/2020",
+   "about": "Perubahan Atas Peraturan Menteri Keuangan Nomor 74/PMK.07/2016 Tentang Penyelenggaraan Sistem Informasi Keuangan Daerah"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 29 April 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/127818/74_PMK.07_2016Per.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:34:30Z"
+}

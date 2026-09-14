@@ -1,0 +1,61 @@
+{
+ "id": "PMK-2021-8",
+ "source": "bpk",
+ "bpk_id": 160062,
+ "url": "https://peraturan.bpk.go.id/Details/160062/pmk-no-8pmk032021",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "8",
+ "number_raw": "8/PMK.03/2021",
+ "year": 2021,
+ "title": "Peraturan Menteri Keuangan Nomor 8/PMK.03/2021 Tahun 2021 tentang Tata Cara Pemungutan, Penyetoran dan Pelaporan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan Atas Barang Mewah oleh Badan Usaha Milik Negara dan Perusahaan Tertentu Yang Dimiliki Secara Langsung oleh Badan Usaha Milik Negara sebagai Pemungut Pajak Pertambahan Nilai",
+ "about": "Tata Cara Pemungutan, Penyetoran dan Pelaporan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan Atas Barang Mewah oleh Badan Usaha Milik Negara dan Perusahaan Tertentu Yang Dimiliki Secara Langsung oleh Badan Usaha Milik Negara sebagai Pemungut Pajak Pertambahan Nilai",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "",
+ "date_enacted": "2021-01-29",
+ "date_promulgated": "2021-02-01",
+ "date_effective": "2021-02-01",
+ "gazette": "BN.2021/NO. 75, https:jdih.kemenkeu.go.id : 10 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-81",
+   "target_bpk_id": 306614,
+   "label": "PMK No. 81 Tahun 2024",
+   "about": "Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2015-37",
+   "target_bpk_id": 146416,
+   "label": "PMK No. 37/PMK.03/2015",
+   "about": "Penunjukan Badan Usaha Tertentu untuk Memungut, Menyetor, dan Melaporkan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, Serta Tata Cara Pemungutan, Penyetoran, dan Pelaporannya"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2012-85",
+   "target_bpk_id": 126891,
+   "label": "PMK No. 85/PMK.03/2012",
+   "about": "Penunjukan Badan Usaha Milik Negara Untuk Memungut, Menyetor, Dan Melaporkan Pajak Pertambahan Nilai Atau Pajak Pertambahan Nilai Dan Pajak Penjualan Atas Barang Mewah, Serta Tata Cara Pemungutan, Penyetoran, Dan Pelaporannya"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 126985,
+   "label": "PMK No. 136/PMK. 03/2012",
+   "about": "Perubahan Atas Peraturan Menteri Keuangan Nomor 85/PMK.03/2012 Tentang Penunjukan Badan Usaha Milik Negara Untuk Memungut, Menyetor, Dan Melaporkan Pajak Pertambahan Nilai Atau Pajak Pertambahan Nilai Dan Pajak Penjualan Atas Barang Mewah, Serta Tata Cara Pemungutan, Penyetoran, Dan Pelaporannya"
+  }
+ ],
+ "abstract": "Bahwa sesuai dengan ketentuan Pasal 16A ayat (2) Undang-Undang Nomor 18 Tahun 2000 tentang\nPerubahan Kedua atas Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai\nBarang dan Jasa dan Pajak Penjualan atas Barang Mewah, perlu menetapkan Peraturan Menteri\nKeuangan tentang Tata Cara Pemungutan, Penyetoran, dan Pelaporan Pajak Pertambahan Nilai atau\nPajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah oleh Badan Usaha Milik Negara\ndan Perusahaan Tertentu yang Dimiliki secara Langsung oleh Badan Usaha Milik Negara sebagai\nPemungut Pajak Pertambahan Nilai.\nPasal 17 ayat (3) UUD Tahun 1945, UU 6 Tahun 1983 (LN Tahun 1983 No. 49, TLN No. 3262)\nsebagaimana telah beberapa kali diubah terakhir dengan UU 16 Tahun 2009 (LN Tahun 2009No. 62,\nTLN No. 4999), UU 8 Tahun 1983 (LN Tahun 1983No. 51, TLN No. 3264)sebagaimana telah beberapa\nkali diubah terakhir dengan UU 42 Tahun 2009 (LN Tahun 2009No. 150, TLN No. 5069), UU 39 Tahun\n2008 (LN Tahun 2008 No. 166, TLN No. 4916), UU 11 Tahun 2020 (LN Tahun 2020No. 245, TLN No.\n6573), Perpres 57 Tahun 2020 (LN Tahun 2020 No. 98), Permenkeu RI 217/PMK.01/2018 (BN Tahun\n2018 No. 1862) sebagaimana telah beberapa kali diubah terakhir dengan Permenkeu RI\n229/PMK.01/2019 (BN Tahun 2019 No. 1745).\nPPN atau PPN dan PPnBM yang terutang atas penyerahan BKP dan/atau JKP oleh rekanan kepada\npemungut PPN dipungut, disetor, dan dilaporkan oleh pemungut PPN. Rekanan dimaksud\nmerupakan Pengusaha Kena Pajak yang melakukan penyerahan BKP dan/atau JKP kepada\npemungut PPN. Pemungut PPN meliputi BUMN, BUMN yang dilakukan restrukturisasi oleh\nPemerintah setelah tanggal 1 April 2015 melalui pengalihan saham milik negara kepada BUMN\nlainnya, dan perusahaan tertentu yang dimiliki secara langsung oleh BUMN dengan kepemilikan\nsaham di atas 25% yang ditetapkan dengan Keputusan Menteri Keuangan. Dalam hal perusahaan\ntidak lagi dimiliki secara langsung oleh BUMN, perusahaan dimaksud tidak lagi ditunjuk sebagai\npemungut PPN. Jumlah PPN yang dipungut oleh pemungut PPN yaitu sebesar 10% dikalikan dengan\nDasar Pengenaan Pajak. Pemungutan PPN atau PPN dan PPnBM dilakukan pada saat penyerahan\nBKP dan/atau penyerahan JKP, penerimaan pembayaran dalam hal penerimaan pembayaran terjadi\nsebelum penyerahan BKP dan/atau sebelum penyerahan JKP, atau penerimaan pembayaran termin\ndalam halpenyerahan sebagian tahap pekerjaan.",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 01 Februari 2021.\nPada saat Peraturan Menteri ini berlaku, Permenkeu RI 85/PMK.03/2012 sebagaimana telah diubah\ndengan Permenkeu RI 136/PMK.03/2012 dan Permenkeu RI 37/PMK.03/2015, dicabut dan\ndinyatakan tidak berlaku.\n12 HLM, Lampiran halaman 11-12",
+ "citations": [
+  "UU-2000-18",
+  "UU-1983-8"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/152647/8_PMK.03_2021.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:34:51Z"
+}

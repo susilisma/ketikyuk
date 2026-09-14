@@ -1,0 +1,37 @@
+{
+ "id": "POJK-2016-72",
+ "source": "bpk",
+ "bpk_id": 128397,
+ "url": "https://peraturan.bpk.go.id/Details/128397/peraturan-ojk-no-72pojk052016-tahun-2016",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "72",
+ "number_raw": "72/POJK.05/2016",
+ "year": 2016,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 72/POJK.05/2016 Tahun 2016 tentang Kesehatan Keuangan Perusahaan Asuransi dan Perusahaan Reasuransi dengan Prinsip Syariah",
+ "about": "Kesehatan Keuangan Perusahaan Asuransi dan Perusahaan Reasuransi dengan Prinsip Syariah",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "ASURANSI - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "",
+ "date_enacted": "2016-12-23",
+ "date_promulgated": "2016-12-28",
+ "date_effective": "2017-07-01",
+ "gazette": "LN.2016/NO.305, Jdih.ojk.go.id: 61 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 347472,
+   "label": "Peraturan OJK No. 27 Tahun 2025",
+   "about": "Pengelolaan Aset dan Liabilitas Perusahaan Asuransi dan Perusahaan Reasuransi dengan Prinsip Syariah"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 01 Juli 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/134966/POJK%20Nomor%2072%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:43:20Z"
+}

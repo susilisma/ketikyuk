@@ -1,0 +1,52 @@
+{
+ "id": "PERPRES-2020-116",
+ "source": "bpk",
+ "bpk_id": 154668,
+ "url": "https://peraturan.bpk.go.id/Details/154668/perpres-no-116-tahun-2020",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "116",
+ "number_raw": "116",
+ "year": 2020,
+ "title": "Peraturan Presiden (Perpres) Nomor 116 Tahun 2020 tentang Kementerian Luar Negeri",
+ "about": "Kementerian Luar Negeri",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "",
+ "date_enacted": "2020-12-07",
+ "date_promulgated": "2020-12-07",
+ "date_effective": "2020-12-07",
+ "gazette": "LN.2020/No.272, jdih.setkab.go.id : 35 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-150",
+   "target_bpk_id": 306631,
+   "label": "Perpres No. 150 Tahun 2024",
+   "about": "Kementerian Luar Negeri"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2015-56",
+   "target_bpk_id": 41796,
+   "label": "PERPRES No. 56 Tahun 2015",
+   "about": "Kementerian Luar Negeri"
+  }
+ ],
+ "abstract": "Sebagai tindak lanjut ditetapkannya Keputusan Presiden Nomor 113/P Tahun 2019 tentang Pembentukan Kementerian Negara dan Pengangkatan Menteri Negara Kabinet Indonesia Maju Periode Tahun 2019-2024 dan untuk melaksanakan ketentuan Pasal 11 Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara, perlu menetapkan Perpres tentang Kementerian Luar Negeri.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) dan Pasal 17 UUD 1945; UU Nomor 37 Tahun 1999; UU Nomor 39 Tahun 2008; Perpres Nomor 60 Tahun 2012 sebagaimana telah diubah dengan Perpres Nomor 134 Tahun 2014; Perpres Nomor 67 Tahun 2019; dan Perpres Nomor 68 Tahun 2019.\nPerpres ini mengatur mengenai penetapan Kementerian Luar Negeri yang berada di bawah dan bertanggung jawab kepada presiden. Kementerian Luar Negeri dipimpin oleh Menteri dan dibantu oleh Wakil Menteri sesuai dengan penunjukan presiden. Kementerian Luar Negeri mempunyai tugas menyelenggarakan urusan pemerintahan di bidang luar negeri untuk membantu Presiden dalam menyelenggarakan pemerintahan negara. Susunan organisasi Kementerian Luar Negeri terdiri atas Sekretariat Jenderal, 7 (tujuh) Dirjen, Inspektorat Jenderal, Badan Strategi Kebijakan Luar Negeri, dan Staf ahli pada beberapa bidang yang ditentukan dalam Perpres ini.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 07 Desember 2020.\nPada saat Perpres ini mulai berlaku, Perpres Nomor 56 Tahun 2015 tentang Kementerian Luar Negeri, dicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "KEPPRES-2019-113",
+  "UU-2008-39",
+  "UU-1999-37",
+  "PERPRES-2012-60",
+  "PERPRES-2014-134",
+  "PERPRES-2019-67",
+  "PERPRES-2019-68"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/146984/Perpres%20Nomor%20116%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:28:25Z"
+}

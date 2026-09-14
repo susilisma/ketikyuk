@@ -1,0 +1,37 @@
+{
+ "id": "PMK-2016-197",
+ "source": "bpk",
+ "bpk_id": 146026,
+ "url": "https://peraturan.bpk.go.id/Details/146026/pmk-no-197pmk042016",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "197",
+ "number_raw": "197/PMK.04/2016",
+ "year": 2016,
+ "title": "Peraturan Menteri Keuangan Nomor 197/PMK.04/2016 Tahun 2016 tentang Pedoman Penyelenggaraan Pembukuan di Bidang Kepabeanan dan Cukai",
+ "about": "Pedoman Penyelenggaraan Pembukuan di Bidang Kepabeanan dan Cukai",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN - STANDAR / PEDOMAN",
+ "field": "",
+ "date_enacted": "2016-12-19",
+ "date_promulgated": "2016-12-20",
+ "date_effective": "2017-01-19",
+ "gazette": "BN.2016/NO.1945, https:jdih.kemenkeu.go.id : 9 Hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2024-104",
+   "target_bpk_id": 311481,
+   "label": "PMK No. 104 Tahun 2024",
+   "about": "Pedoman Penyelenggaraan Pembukuan di Bidang Kepabeanan dan Cukai"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 19 Januari 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/137840/PMK%20197_PMK.04_2016.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:34:15Z"
+}

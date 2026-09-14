@@ -1,0 +1,41 @@
+{
+ "id": "PMK-2026-58",
+ "source": "bpk",
+ "bpk_id": 353726,
+ "url": "https://peraturan.bpk.go.id/Details/353726/pmk-no-58-tahun-2026",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "58",
+ "number_raw": "58",
+ "year": 2026,
+ "title": "Peraturan Menteri Keuangan Nomor 58 Tahun 2026 tentang Organisasi dan Tata Kerja Instansi Vertikal Direktorat Jenderal Bea dan Cukai",
+ "about": "Organisasi dan Tata Kerja Instansi Vertikal Direktorat Jenderal Bea dan Cukai",
+ "issuer": "Kementerian Keuangan",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-07-30",
+ "date_promulgated": "2026-08-10",
+ "date_effective": "2026-08-10",
+ "gazette": "BN.2026 (559)/99 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2016-188",
+   "target_bpk_id": 146009,
+   "label": "PMK No. 188/PMK.01/2016",
+   "about": "Organisasi dan Tata Kerja Instansi Vertikal Direktorat Jenderal Bea dan Cukai"
+  }
+ ],
+ "abstract": "a. bahwa untuk mengoptimalkan peran Direktorat Jenderal Bea dan Cukai dalam memfasilitasi perdagangan dan industri, menjaga wilayah perbatasan dan melindungi masyarakat Indonesia dari penyelundupan dan perdagangan ilegal, menghimpun penerimaan negara di sektor kepabeanan dan cukai, memberikan pelayanan kepada pengguna jasa kepabeanan dan cukai, dan meningkatkan efektivitas dan kinerja organisasi guna mewujudkan tata kelola pemerintahan yang baik pada Direktorat Jenderal Bea dan Cukai, perlu dilakukan penataan organisasi dan tata kerja instansi vertikal Direktorat Jenderal Bea dan Cukai;\nb. bahwa berdasarkan ketentuan Pasal 73 ayat (2) Peraturan Presiden Nomor 158 Tahun 2024 tentang Kementerian Keuangan, untuk melaksanakan tugas pokok di daerah, Menteri Keuangan berwenang dan menetapkan organisasi dan tata kerja instansi vertikal Direktorat Jenderal Bea dan Cukai;\nc. bahwa penataan organisasi dan tata kerja instansi vertikal Direktorat Jenderal Bea dan Cukai telah mendapatkan persetujuan tertulis dari Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi;\nd. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Menteri Keuangan tentang Organisasi dan Tata Kerja Instansi Vertikal Direktorat Jenderal Bea dan Cukai;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Peraturan Presiden Nomor 158 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengatur tentang ketentuan umum, instansi vertikal, Kantor Wilayah Direktorat Jenderal Bea dan Cukai, kantor pengawasan dan pelayanan bea dan cukai, jabatan fungsional dan jabatan pelaksana, tata kerja, jumlah, nama, lokasi dan wilayah kerja, jabatan, penataan organisasi, ketentuan lain-lain, ketentuan peralihan dan ketentuan penutup.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 10 Agustus 2026.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas tentang Organisasi dan Tata Kerja Instansi Vertikal Direktorat Jenderal Bea dan Cukai sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 183/PMK.01/2020 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 188/PMK.01/2016 tentang Organisasi dan Tata Kerja Instansi Vertikal Direktorat Jenderal Bea dan Cukai",
+ "citations": [
+  "PERPRES-2024-158",
+  "UU-2008-39",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/417629/2026pmkeuangan058.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:30:22Z"
+}

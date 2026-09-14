@@ -1,0 +1,46 @@
+{
+ "id": "PERMENPERIN-2024-31",
+ "source": "bpk",
+ "bpk_id": 296049,
+ "url": "https://peraturan.bpk.go.id/Details/296049/permenperin-no-31-tahun-2024",
+ "form": "PERMENPERIN",
+ "form_long": "Peraturan Menteri Perindustrian",
+ "number": "31",
+ "number_raw": "31",
+ "year": 2024,
+ "title": "Peraturan Menteri Perindustrian Nomor 31 Tahun 2024 tentang Perubahan Atas Peraturan Menteri Perindustrian Nomor 42 Tahun 2022 Tentang Program Restrukturisasi Mesin Dan/Atau Peralatan Industri Pengolahan Kayu",
+ "about": "Perubahan Atas Peraturan Menteri Perindustrian Nomor 42 Tahun 2022 Tentang Program Restrukturisasi Mesin Dan/Atau Peralatan Industri Pengolahan Kayu",
+ "issuer": "Kementerian Perindustrian",
+ "subject": "PERINDUSTRIAN",
+ "field": "HUKUM DAGANG",
+ "date_enacted": "2024-07-16",
+ "date_promulgated": "2024-07-29",
+ "date_effective": "2024-07-29",
+ "gazette": "BN.2024 (433)/26 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah sebagian",
+   "target": "PERMENPERIN-2022-42",
+   "target_bpk_id": 227888,
+   "label": "Permenperin No. 42 Tahun 2022",
+   "about": "Program Restrukturisasi Mesin dan/atau Peralatan Industri Pengolahan Kayu"
+  }
+ ],
+ "abstract": "a. bahwa untuk meningkatkan efektivitas pelaksanaan program restrukturisasi mesin dan/atau peralatan industri pengolahan kayu, perlu menyesuaikan kebijakan program restrukturisasi mesin dan/atau peralatan industri pengolahan kayu;\nb. bahwa Peraturan Menteri Perindustrian Nomor 42\nTahun 2022 tentang Program Restrukturisasi Mesin dan/atau Peralatan Industri Pengolahan Kayu belum\nmenampung perkembangan kebijakan sebagaimana dimaksud dalam huruf a, sehingga perlu diubah;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Menteri Perindustrian tentang Perubahan atas Peraturan Menteri Perindustrian Nomor 42 Tahun 2022 tentang Program Restrukturisasi Mesin dan/atau Peralatan Industri Pengolahan Kayu;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 3 Tahun 2014, Peraturan Pemerintah Nomor 14 Tahun 2015, Peraturan Presiden Nomor 107 Tahun 2020, Peraturan Presiden Nomor 74 Tahun 2022, Peraturan Menteri Perindustrian Nomor 45 Tahun\n2020, Peraturan Menteri Perindustrian Nomor 42 Tahun 2022 dan Peraturan Menteri Perindustrian Nomor 8 Tahun 2023\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri Perindustrian Nomor 42 Tahun 2022 tentang Program Restrukturisasi Mesin dan/atau Peralatan Industri Pengolahan Kayu yaitu tentang ketentuan umum, program restrukturisasi mesin dan/atau peralatan Industri pengolahan kayu, penggantian, penunjukan LPPR, tim teknis, verifikasi lapangan dan permohonan realisasi.",
+ "note": "Peraturan Menteri Perindustrian ini mulai berlaku pada tanggal 29 Juli 2024.\nPeraturan Menteri Perindustrian Nomor 42 Tahun 2022 tentang Program Restrukturisasi Mesin dan/atau Peralatan Industri Pengolahan Kayu diubah sebagian",
+ "citations": [
+  "PERMENPERIN-2022-42",
+  "UU-2008-39",
+  "UU-2014-3",
+  "PP-2015-14",
+  "PERPRES-2020-107",
+  "PERPRES-2022-74",
+  "PERMENPERIN-2020-45",
+  "PERMENPERIN-2023-8"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/355450/permenperin-no-31-tahun-2024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:39:48Z"
+}

@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2022-202",
+ "source": "bpk",
+ "bpk_id": 234556,
+ "url": "https://peraturan.bpk.go.id/Details/234556/pmk-no-202pmk052022",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "202",
+ "number_raw": "202/PMK.05/2022",
+ "year": 2022,
+ "title": "Peraturan Menteri Keuangan Nomor 202/PMK.05/2022 Tahun 2022 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 129/PMK.05/2020 tentang Pedoman Pengelolaan Badan Layanan Umum",
+ "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 129/PMK.05/2020 tentang Pedoman Pengelolaan Badan Layanan Umum",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BADAN LAYANAN UMUM - STANDAR / PEDOMAN",
+ "field": "",
+ "date_enacted": "2022-12-19",
+ "date_promulgated": "2022-12-20",
+ "date_effective": "2022-12-20",
+ "gazette": "BN.2022/NO. 1300; https:jdih.kemenkeu.go.id : 74 Hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2025-76",
+   "target_bpk_id": 333932,
+   "label": "PMK No. 76 Tahun 2025",
+   "about": "Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 129/PMK.05/2020 tentang Pedoman Pengelolaan Badan Layanan Umum"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PMK-2020-129",
+   "target_bpk_id": 146690,
+   "label": "PMK No. 129/PMK.05/2020",
+   "about": "Pedoman Pengelolaan Badan Layanan Umum"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 20 Desember 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/286880/202_PMK.05_2022.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:32:39Z"
+}

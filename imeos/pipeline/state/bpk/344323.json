@@ -1,0 +1,51 @@
+{
+ "id": "PMK-2026-2",
+ "source": "bpk",
+ "bpk_id": 344323,
+ "url": "https://peraturan.bpk.go.id/Details/344323/pmk-no-2-tahun-2026",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "2",
+ "number_raw": "2",
+ "year": 2026,
+ "title": "Peraturan Menteri Keuangan Nomor 2 Tahun 2026 tentang Perubahan Kedua Atas Peraturan Menteri Keuangan Nomor 110 Tahun 2023 tentang Indikator Tingkat Kinerja Daerah dan Petunjuk Teknis Bagian Dana Alokasi Umum yang Ditentukan Penggunakannya",
+ "about": "Perubahan Kedua Atas Peraturan Menteri Keuangan Nomor 110 Tahun 2023 tentang Indikator Tingkat Kinerja Daerah dan Petunjuk Teknis Bagian Dana Alokasi Umum yang Ditentukan Penggunakannya",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PENGELOLAAN KEUANGAN NEGARA / DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-01-26",
+ "date_promulgated": "2026-02-09",
+ "date_effective": "2026-02-09",
+ "gazette": "BN.2026 (91)/72 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PMK-2024-102",
+   "target_bpk_id": 311480,
+   "label": "PMK No. 102 Tahun 2024",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 110 Tahun 2023 tentang Indikator Tingkat Kinerja Daerah dan Petunjuk Teknis Bagian Dana Alokasi Umum yang Ditentukan Pengunaannya"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PMK-2023-110",
+   "target_bpk_id": 271175,
+   "label": "PMK No. 110 Tahun 2023",
+   "about": "Indikator Tingkat Kinerja Daerah Dan Petunjuk Teknis Bagian Dana Alokasi Umum Yang Ditentukan Penggunaanya"
+  }
+ ],
+ "abstract": "a. bahwa untuk melakukan penyesuaian rincian subkegiatan yang dapat didanai dari dana alokasi umum yang ditentukan penggunaannya bidang pendidikan, bidang kesehatan, dan bidang pekerjaan umum sesuai dengan usulan dari kementerian/lembaga terkait, perlu dilakukan perubahan kedua terhadap Peraturan Menteri Keuangan Nomor 110 Tahun 2023 tentang Indikator Tingkat Kinerja Daerah dan Petunjuk Teknis Bagian Dana Alokasi Umum yang Ditentukan Penggunaannya sebagaimana telah\ndiubah dengan Peraturan Menteri Keuangan Nomor 102\nTahun 2024 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 110 Tahun 2023 tentang Indikator Tingkat Kinerja Daerah dan Petunjuk Teknis Bagian Dana Alokasi Umum yang Ditentukan Penggunaannya;\nb. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, perlu menetapkan Peraturan Menteri Keuangan tentang Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 110 Tahun 2023 tentang Indikator Tingkat Kinerja Daerah dan Petunjuk Teknis Bagian Dana Alokasi Umum yang Ditentukan Penggunaannya;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 37 Tahun 2023, Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Menteri Keuangan Nomor 110 Tahun 2023 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengubah Ketentuan dalam Lampiran Peraturan Menteri Keuangan Nomor\n110 Tahun 2023 tentang Indikator Tingkat Kinerja Daerah dan\nPetunjuk Teknis Bagian Dana Alokasi Umum yang Ditentukan\nPenggunaannya sebagaimana telah diubah dengan Peraturan\nMenteri Keuangan Nomor 102 Tahun 2024 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 110 Tahun 2023 tentang Indikator Tingkat Kinerja Daerah dan Petunjuk Teknis Bagian Dana Alokasi Umum yang Ditentukan Penggunaannya",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 09 Februari 2026.\nPeraturan Menteri Keuangan Nomor\n110 Tahun 2023 tentang Indikator Tingkat Kinerja Daerah dan\nPetunjuk Teknis Bagian Dana Alokasi Umum yang Ditentukan\nPenggunaannya sebagaimana telah diubah dengan Peraturan\nMenteri Keuangan Nomor 102 Tahun 2024 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 110 Tahun 2023 tentang Indikator Tingkat Kinerja Daerah dan Petunjuk Teknis Bagian Dana Alokasi Umum yang Ditentukan Penggunaannya diubah",
+ "citations": [
+  "PMK-2023-110",
+  "PMK-2024-102",
+  "UU-2008-39",
+  "PP-2023-37",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/407570/2026pmkeuangan002.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:34:18Z"
+}

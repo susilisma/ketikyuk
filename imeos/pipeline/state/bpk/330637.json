@@ -1,0 +1,61 @@
+{
+ "id": "PERMENAKER-2025-8",
+ "source": "bpk",
+ "bpk_id": 330637,
+ "url": "https://peraturan.bpk.go.id/Details/330637/permenaker-no-8-tahun-2025",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "8",
+ "number_raw": "8",
+ "year": 2025,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 8 Tahun 2025 tentang Pedoman Pemberian Bantuan Pemerintah Program Pemagangan Lulusan Perguruan Tinggi",
+ "about": "Pedoman Pemberian Bantuan Pemerintah Program Pemagangan Lulusan Perguruan Tinggi",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "BANTUAN, SUMBANGAN, BENCANA / KEBENCANAAN, DAN PENANGGULANGAN BENCANA - STANDAR / PEDOMAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-09-29",
+ "date_promulgated": "2025-09-30",
+ "date_effective": "2025-09-30",
+ "gazette": "BN 2025 (730); 9 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENAKER-2026-9",
+   "target_bpk_id": 350748,
+   "label": "Permenaker No. 9 Tahun 2026",
+   "about": "Perubahan Kedua atas Peraturan Menteri Ketenagakerjaan Nomor 8 Tahun 2025 tentang Pedoman Pemberian Bantuan Pemerintah Program Pemagangan Lulusan Perguruan Tinggi"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENAKER-2026-12",
+   "target_bpk_id": 353711,
+   "label": "Permenaker No. 12 Tahun 2026",
+   "about": "Perubahan Ketiga atas Peraturan Menteri Ketenagakerjaan Nomor 8 Tahun 2025 tentang Pedoman Pemberian Bantuan Pemerintah Program Pemagangan Lulusan Perguruan Tinggi"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENAKER-2025-11",
+   "target_bpk_id": 334805,
+   "label": "Permenaker No. 11 Tahun 2025",
+   "about": "Perubahan atas Peraturan Menteri Ketenagakerjaan Nomor 8 Tahun 2025 tentang Pedoman Pemberian Bantuan Pemerintah Program Pemagangan Lulusan Perguruan Tinggi"
+  }
+ ],
+ "abstract": "bahwa untuk melaksanakan program\npemerintah dalam upaya meningkatkan kompetensi\nsumber daya manusia, menyiapkan lulusan baru\nperguruan tinggi memasuki dunia kerja, dan\nmemberikan peluang kesempatan kerja, perlu\ndilaksanakan program pemagangan bagi lulusan\nperguruan tinggi\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD NRI Tahun 1945;\nUU No. 13 Tahun 2003 sebagaimana telah beberapa kali diubah terakhir dengan UU No. 6 Tahun 2023;\nUU No. 39 Tahun 2008 sebagaimana telah diubah dengan UU No. 61 Tahun 2024;\nUU No. 12 Tahun 2012;\nPerpres No. 164 Tahun 2024;\nPMK No. 168/PMK.05/2015 sebagaimana telah beberapa kali diubah terakhir dengan PMK No. 132/PMK.05/2021;\nPermenaker No. 20 Tahun 2024.\nPeraturan ini mengatur mengenai penerima bantuan pemerintah program pemagangan; penyelenggara pemagangan; tata cara penyelenggaraan program pemagangan; besaran dan tata cara pemberian bantuan pemerintah program pemagangan",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 30 September 2025.",
+ "citations": [
+  "UU-2003-13",
+  "UU-2023-6",
+  "UU-2008-39",
+  "UU-2024-61",
+  "UU-2012-12",
+  "PERPRES-2024-164",
+  "PMK-2015-168",
+  "PMK-2021-132",
+  "PERMENAKER-2024-20"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/392646/permenaker-no-8-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:40:28Z"
+}

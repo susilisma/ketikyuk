@@ -1,0 +1,56 @@
+{
+ "id": "PP-2026-2",
+ "source": "bpk",
+ "bpk_id": 349943,
+ "url": "https://peraturan.bpk.go.id/Details/349943/pp-no-2-tahun-2026",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "2",
+ "number_raw": "2",
+ "year": 2026,
+ "title": "Peraturan Pemerintah (PP) Nomor 2 Tahun 2026 tentang Perubahan Kedua atas Peraturan Pemerintah Nomor 36 Tahun 2023 tentang Devisa Hasil Ekspor dari Kegiatan Pengusahaan, Pengelolaan, dan/atau Pengolahan Sumber Daya Alam",
+ "about": "Perubahan Kedua atas Peraturan Pemerintah Nomor 36 Tahun 2023 tentang Devisa Hasil Ekspor dari Kegiatan Pengusahaan, Pengelolaan, dan/atau Pengolahan Sumber Daya Alam",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERTAMBANGAN MIGAS, MINERAL DAN ENERGI",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2026-01-14",
+ "date_promulgated": "2026-01-14",
+ "date_effective": "2026-02-26",
+ "gazette": "LN 2026 (4), TLN (7155) : 10 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2026-21",
+   "target_bpk_id": 349944,
+   "label": "PP No. 21 Tahun 2026",
+   "about": "Perubahan Ketiga atas Peraturan Pemerintah Nomor 36 Tahun 2023 tentang Devisa Hasil Ekspor dari Kegiatan Pengusahaan, Pengelolaan, dan/atau Pengolahan Sumber Daya Alam"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PP-2025-8",
+   "target_bpk_id": 314625,
+   "label": "PP No. 8 Tahun 2025",
+   "about": "Perubahan atas Peraturan Pemerintah Nomor 36 Tahun 2023 tentang Devisa Hasil Ekspor dari Kegiatan Pengusahaan, Pengelolaan, dan/atau Pengolahan Sumber Daya Alam"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PP-2023-36",
+   "target_bpk_id": 255125,
+   "label": "PP No. 36 Tahun 2023",
+   "about": "Devisa Hasil Ekspor dari Kegiatan Pengusahaan, Pengelolaan, dan/atau Pengolahan Sumber Daya Alam"
+  }
+ ],
+ "abstract": "Untuk meningkatkan efektivitas kebijakan pemasukan dan penempatan devisa hasil ekspor ke dalam sistem keuangan Indonesia dan untuk mendatangkan manfaat yang lebih besar dalam mendukung kesinambungan pembangunan dan ketahanan ekonomi Indonesia dan pertumbuhan ekonomi yang berkelanjutan diperlukan penataan ulang ekosistem pemasukan, penempatan, dan penggunaan devisa yang dilakukan secara lebih terarah guna mendukung ketahanan eksternal, meningkatkan transparansi, dan memperdalam pasar keuangan domestik melalui mekanisme yang sederhana dan tetap memberikan fleksibilitas yang memadai.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945; UU No. 10 Tahun 1995; UU No. 24 Tahun 1999; dan PP No. 36 Tahun 2023.\nPP ini mengubah beberapa ketentuan dalam PP Nomor 36 Tahun 2023 sebagaimana telah diubah dengan PP Nomor 8 Tahun 2025.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 26 Februari 2026.\nPP ini mengubah PP No. 36 Tahun 2023.\nLampiran file: 17 hlm (batang tubuh hlm 1 sd 10; penjelasan hlm 11 sd 17)",
+ "citations": [
+  "UU-1995-10",
+  "UU-1999-24",
+  "PP-2023-36",
+  "PP-2025-8"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/413643/PP%20Nomor%202%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:27:47Z"
+}

@@ -1,0 +1,93 @@
+{
+ "id": "UU-1983-8",
+ "source": "bpk",
+ "bpk_id": 46990,
+ "url": "https://peraturan.bpk.go.id/Details/46990/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "8",
+ "number_raw": "8",
+ "year": 1983,
+ "title": "Undang-undang (UU) Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah",
+ "about": "Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERPAJAKAN",
+ "field": "",
+ "date_enacted": "1983-12-31",
+ "date_promulgated": "1983-12-31",
+ "date_effective": "1984-07-01",
+ "gazette": "LN. 1983/ No. 51, TLN. No. 3264, LL SETNEG : 12 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 234926,
+   "label": "PERPU No. 2 Tahun 2022",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2021-7",
+   "target_bpk_id": 185162,
+   "label": "UU No. 7 Tahun 2021",
+   "about": "Harmonisasi Peraturan Perpajakan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2009-42",
+   "target_bpk_id": 38787,
+   "label": "UU No. 42 Tahun 2009",
+   "about": "Perubahan Ketiga Atas Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa\r\ndan Pajak Penjualan Atas Barang Mewah"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2000-18",
+   "target_bpk_id": 44982,
+   "label": "UU No. 18 Tahun 2000",
+   "about": "Perubahan Kedua atas Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-1994-11",
+   "target_bpk_id": 46235,
+   "label": "UU No. 11 Tahun 1994",
+   "about": "Perubahan atas Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1968-2",
+   "target_bpk_id": 49130,
+   "label": "UU No. 2 Tahun 1968",
+   "about": "Perobahan/Tambahan Undang-Undang Pajak Penjualan 1951"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1953-35",
+   "target_bpk_id": 45440,
+   "label": "UU No. 35 Tahun 1953",
+   "about": "Penetapan \"Undang-Undang Darurat Nomor 19 Tahun 1951, tentang Pemungutan Pajak Penjualan\" (Lembaran-Negara Nomor 94 Tahun 1951) Sebagai Undang-Undang"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 01 Juli 1984.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/35808/UU%20Nomor%208%20Tahun%201983.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:25:55Z"
+}

@@ -1,0 +1,58 @@
+{
+ "id": "PERPRES-2020-56",
+ "source": "bpk",
+ "bpk_id": 135922,
+ "url": "https://peraturan.bpk.go.id/Details/135922/perpres-no-56-tahun-2020",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "56",
+ "number_raw": "56",
+ "year": 2020,
+ "title": "Peraturan Presiden (Perpres) Nomor 56 Tahun 2020 tentang Perubahan Ketiga atas Peraturan Presiden Nomor 17 Tahun 2012 tentang Utusan Khusus Presiden, Staf Khusus Presiden, dan Staf Khusus Wakil Presiden",
+ "about": "Perubahan Ketiga atas Peraturan Presiden Nomor 17 Tahun 2012 tentang Utusan Khusus Presiden, Staf Khusus Presiden, dan Staf Khusus Wakil Presiden",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "",
+ "date_enacted": "2020-04-06",
+ "date_promulgated": "2020-04-06",
+ "date_effective": "2020-04-06",
+ "gazette": "LN.2020/NO.96, JDIH.SETNEG.GO.ID : 6 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-137",
+   "target_bpk_id": 305127,
+   "label": "Perpres No. 137 Tahun 2024",
+   "about": "Penasihat Khusus Presiden, Utusan Khusus Presiden, Staf Khusus Presiden, dan Staf Khusus Wakil Presiden"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2018-39",
+   "target_bpk_id": 85637,
+   "label": "PERPRES No. 39 Tahun 2018",
+   "about": "Perubahan Kedua atas Peraturan Presiden Nomor 17 Tahun 2012 tentang Utusan Khusus Presiden, Staf Khusus Presiden dan Staf Khusus Wakil Presiden"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2015-55",
+   "target_bpk_id": 41794,
+   "label": "PERPRES No. 55 Tahun 2015",
+   "about": "Perubahan atas Peraturan Presiden Nomor 17 Tahun 2012 tentang Utusan Khusus Presiden, Staf Khusus Presiden, dan Staf Khusus Wakil Presiden"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2012-17",
+   "target_bpk_id": 41260,
+   "label": "PERPRES No. 17 Tahun 2012",
+   "about": "Utusan Khusus Presiden, Staf Khusus Presiden, dan Staf Khusus Wakil Presiden"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 06 April 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/126785/Perpres%20Nomor%2056%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:28:48Z"
+}

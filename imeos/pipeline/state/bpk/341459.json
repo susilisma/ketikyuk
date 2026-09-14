@@ -1,0 +1,41 @@
+{
+ "id": "PMK-2025-117",
+ "source": "bpk",
+ "bpk_id": 341459,
+ "url": "https://peraturan.bpk.go.id/Details/341459/pmk-no-117-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "117",
+ "number_raw": "117",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 117 Tahun 2025 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 124 Tahun 2024 tentang Organisasi dan Tata Kerja Kementerian Keuangan",
+ "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 124 Tahun 2024 tentang Organisasi dan Tata Kerja Kementerian Keuangan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-12-31",
+ "date_promulgated": "2025-12-31",
+ "date_effective": "2025-12-31",
+ "gazette": "BN 2025 (1208); 3 Halaman",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PMK-2024-124",
+   "target_bpk_id": 353894,
+   "label": "PMK No. 124 Tahun 2024",
+   "about": "Organisasi dan Tata Kerja Kementerian Keuangan"
+  }
+ ],
+ "abstract": "a. bahwa untuk menjaga stabilitas implementasi\nsistem inti administrasi perpajakan (core tax\nadministration system) pada Direktorat Jenderal\nPajak dalam memenuhi kebutuhan pemangku\nkepentingan, perlu melakukan penataan\norganisasi;\nb. bahwa penataan organisasi sebagaimana\ndimaksud dalam huruf a, telah mendapatkan\npersetujuan tertulis dari Menteri Pendayagunaan\nAparatur Negara dan Reformasi Birokrasi;\nc. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a dan huruf b, perlu\nmenetapkan Peraturan Menteri Keuangan\ntentang Perubahan atas Peraturan Menteri\nKeuangan Nomor 124 Tahun 2024 tentang\nOrganisasi dan Tata Kerja Kementerian\nKeuangan;\nPasal 17 ayat (3) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Peraturan Presiden Nomor 158 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 124 Tahun\n2024\nPeraturan ini menambahkan Pasal 1839A diantara Pasal 1839 dan Pasal 1840.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 31 Desember 2025.\nPeraturan Menteri Keuangan Nomor 124 Tahun 2024 tentang\nOrganisasi dan Tata Kerja Kementerian Keuangan diubah sebagian",
+ "citations": [
+  "UU-2008-39",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/404579/2025pmkeuangan117.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:31:36Z"
+}

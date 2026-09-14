@@ -1,0 +1,55 @@
+{
+ "id": "UU-2024-66",
+ "source": "bpk",
+ "bpk_id": 306526,
+ "url": "https://peraturan.bpk.go.id/Details/306526/uu-no-66-tahun-2024",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "66",
+ "number_raw": "66",
+ "year": 2024,
+ "title": "Undang-undang (UU) Nomor 66 Tahun 2024 tentang Perubahan Ketiga atas Undang-Undang Nomor 17 Tahun 2008 tentang",
+ "about": "Perubahan Ketiga atas Undang-Undang Nomor 17 Tahun 2008 tentang",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERIKANAN DAN KELAUTAN - TRANSPORTASI DARAT / LAUT / UDARA",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2024-10-28",
+ "date_promulgated": "2024-10-28",
+ "date_effective": "2024-10-28",
+ "gazette": "LN 2024 (252), TLN (7003) : 40 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2008-17",
+   "target_bpk_id": 39060,
+   "label": "UU No. 17 Tahun 2008",
+   "about": "Pelayaran"
+  }
+ ],
+ "abstract": "Penyelenggaraan pelayaran sebagai bagian dari sistem transportasi nasional selama ini masih terkendala dengan biaya logistik yang tinggi, perlunya penguatan dan pemberdayaan pelayaran-rakyat, peningkatan pengelolaan manajemen dan tata kelola kepelabuhanan yang lebih efektif dan efisien, serta optimalisasi peran kelembagaan dalam penyelenggaraan pelayaran dan beberapa ketentuan di dalam Undang-Undang Nornor 17 Tahun 2008 tentang Pelayaran sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang sudah tidak sesuai dengan perkembangan, permasalahan, dan kebutuhan hukum dalam penyelenggaraan pelayaran, sehingga perlu diubah.\nDasar Hukum UU ini adalah Pasal 20, Pasal 21, Pasal 25A, dan Pasal 33 UUD NRI Tahun 1945; dan UU Nomor 17 Tahun 2008.\nUndang-Undang ini mengatur mengenai Perubahan Ketiga atas Undang-Undang Nomor 17 Tahun 2008 tentang Pelayaran. Pelayaran adalah satu kesatuan sistem yang terdiri atas Angkutan di Perairan, Kepelabuhanan, Keselamatan dan Keamanan, serta Pelindungan Lingkungan Maritim. Materi-materi dalam Undang-Undang tentang Perubahan Ketiga atas Undang-Undang tentang Pelayaran, antara lain mencakup penerapan asas cabotage dalam rangka keberpihakan pada angkutan laut nasional, Usaha Jasa Terkait, tarif jasa Kepelabuhanan, efisiensi biaya angkut logistik, pelayaran-rakyat, Pelayaran-Perintis, penyelenggaraan kewajiban pelayanan publik, penyediaan sarana dan prasarana Pelayaran-Perintis, Pelindungan Lingkungan Maritim, penyelenggara pelabuhan, kelembagaan yang berwenang melakukan pengawasan dan penegakan peraturan perundang-undangan di bidang Pelayaran, tata cara penahanan Kapal di Pelabuhan, penguatan pidana, dan pengaturan terkait ketentuan peralihan.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 28 Oktober 2024.\nKetentuan dalam Pasal 29 ayat (2) dan Pasal 158A mulai berlaku 1 (satu) tahun terhitung sejak Undang-Undang ini diundangkan.\nLampiran file: 60 hlm (batang tubuh hlm 1 sd 40, lampiran hlm 41 sd 60)",
+ "citations": [
+  "UU-2023-6",
+  "PERPPU-2022-2",
+  "UU-2008-17"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/366781/UU%20Nomor%2066%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:26:15Z"
+}

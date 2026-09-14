@@ -1,0 +1,55 @@
+{
+ "id": "PERPRES-2024-20",
+ "source": "bpk",
+ "bpk_id": 277599,
+ "url": "https://peraturan.bpk.go.id/Details/277599/perpres-no-20-tahun-2024",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "20",
+ "number_raw": "20",
+ "year": 2024,
+ "title": "Peraturan Presiden (Perpres) Nomor 20 Tahun 2024 tentang Perubahan Ketiga atas Peraturan Presiden Nomor 52 Tahun 2010 tentang Susunan Organisasi dan Tata Kerja",
+ "about": "Perubahan Ketiga atas Peraturan Presiden Nomor 52 Tahun 2010 tentang Susunan Organisasi dan Tata Kerja",
+ "issuer": "Pemerintah Pusat",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "HUKUM TATA NEGARA",
+ "date_enacted": "2024-02-12",
+ "date_promulgated": "2024-02-12",
+ "date_effective": "2024-02-12",
+ "gazette": "LN 2024 (33); 4 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2024-90",
+   "target_bpk_id": 296572,
+   "label": "Perpres No. 90 Tahun 2024",
+   "about": "Perubahan Keempat atas Peraturan Presiden Nomor 52 Tahun 2010 tentang Susunan Organisasi dan Tata Kerja Kepolisian Negara Republik Indonesia"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2024-122",
+   "target_bpk_id": 304499,
+   "label": "Perpres No. 122 Tahun 2024",
+   "about": "Perubahan Kelima atas Peraturan Presiden Nomor 52 Tahun 2010 tentang Susunan Organisasi dan Tata Kerja Kepolisian Negara Republik Indonesia"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2010-52",
+   "target_bpk_id": 41109,
+   "label": "PERPRES No. 52 Tahun 2010",
+   "about": "Susunan Organisasi dan Tata Kerja Kepolisian Negara Republik Indonesia"
+  }
+ ],
+ "abstract": "Dalam rangka optimalisasi pelaksanaan tugas dan fungsi penanganan dan pemberantasan\ntindak pidana terhadap perempuan dan anak serta tindak pidana perdagangan orang dan\npenyelundupan manusia, perlu menata kembali organisasi dan tata kerja Kepolisian Negara Republik Indonesia\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD 1945; UU Nomor 2 Tahun 2002; Perpres Nomor 52 Tahun 2010 sebagaimana telah beberapa kali diubah, terakhir dengan Peraturan Presiden Nomor 54 Tahun 2022\nPerpres ini mengatur tentang Perubahan Ketiga atas Peraturan Presiden Nomor 52 Tahun\n2010 tentang Susunan Organisasi dan Tata Kerja Kepolisian Negara Republik Indonesia. Badan Reserse Kriminal merupakan unsur pelaksana tugas pokok bidang reserse kriminal yang berada di bawah Kapolri. Tugasnya adalah membantu Kapolri dalam membina dan menyelenggarakan penyelidikan dan penyidikan tindak pidana, pengawasan dan pengendalian penyidikan, penyelenggaraan identifikasi, laboratorium forensik dalam rangka penegakan hukum serta pengelolaan informasi kriminal nasional.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 12 Februari 2024.\nPerpres ini mengubah Ketentuan ayat (5) Pasal 20 dalam Peraturan Presiden Nomor 52 Tahun 2010\nLampiran file: 4 hlm",
+ "citations": [
+  "UU-2002-2",
+  "PERPRES-2010-52",
+  "PERPRES-2022-54"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/336210/Salinan%20Perpres%20Nomor%2020%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:29:20Z"
+}

@@ -1,0 +1,93 @@
+{
+ "id": "PERMENDAG-2021-15",
+ "source": "bpk",
+ "bpk_id": 204856,
+ "url": "https://peraturan.bpk.go.id/Details/204856/x",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "15",
+ "number_raw": "15",
+ "year": 2021,
+ "title": "Peraturan Menteri Perdagangan Nomor 15 Tahun 2021 tentang Perlakuan Penundaan atas Ketentuan Pembatasan dan Tata Niaga Impor di Kawasan Ekonomi Khusus",
+ "about": "Perlakuan Penundaan atas Ketentuan Pembatasan dan Tata Niaga Impor di Kawasan Ekonomi Khusus",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN - PEREKONOMIAN - CIPTA KERJA",
+ "field": "",
+ "date_enacted": "2021-04-01",
+ "date_promulgated": "2021-04-01",
+ "date_effective": "2021-05-31",
+ "gazette": "BN.2021/No.296, peraturan.go.id: 7 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2023-36",
+   "target_bpk_id": 296854,
+   "label": "Permendag No. 36 Tahun 2023",
+   "about": "Kebijakan dan Pengaturan Impor"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2019-97",
+   "target_bpk_id": 173128,
+   "label": "Permendag No. 97 Tahun 2019",
+   "about": "Pendelegasian Kewenangan Penerbitan Perizinan Di Bidang Perdagangan Kepada Administrator Kawasan Ekonomi Khusus Tanjung Kelayang"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2019-58",
+   "target_bpk_id": 173166,
+   "label": "Permendag No. 58 Tahun 2019",
+   "about": "Pendelegasian Kewenangan Penerbitan Perizinan di Bidang Perdagangan Kepada Administrator Kawasan Ekonomi Khusus Sorong"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2019-10",
+   "target_bpk_id": 128569,
+   "label": "Permendag No. 10 Tahun 2019",
+   "about": "Pendelegasian Kewenangan Penerbitan Perizininan Di Bidang Perdangangan Kepada Administrator Kawasan Ekonomi Khusus Galang Batang"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2019-9",
+   "target_bpk_id": 128568,
+   "label": "Permendag No. 09 Tahun 2019",
+   "about": "Pendelegasian Kewenangan Penerbitan Perizinan Di Bidang Perdangangan Kepada Administrator Kawasan Ekonomi Khusus Morotai"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2018-51",
+   "target_bpk_id": 173454,
+   "label": "Permendag No. 51 Tahun 2018",
+   "about": "Pendelegasian Kewenangan Penerbitan Perizinan Di Bidang Perdagangan Kepada Administrator Kawasan Ekonomi Khusus Maloy Batuta Trans Kalimantan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2018-50",
+   "target_bpk_id": 173458,
+   "label": "Permendag No. 50 Tahun 2018",
+   "about": "Pendelegasian Kewenangan Penerbitan Perizinan Di Bidang Perdagangan Kepada Administrator Kawasan Ekonomi Khusus Tanjung Api-Api"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2018-49",
+   "target_bpk_id": 173462,
+   "label": "Permendag No. 49 Tahun 2018",
+   "about": "Pendelegasian Kewenangan Penerbitan Perizinan di Bidang Perdagangan Kepada Administrator Kawasan Ekonomi Khusus Bitung"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2018-34",
+   "target_bpk_id": 173477,
+   "label": "Permendag No. 34 Tahun 2018",
+   "about": "Pendelegasian Kewenangan Penerbitan Perizinan Di Bidang Perdagangan Kepada Adminstrator Kawasan Ekonomi Khusus Arun Lhokseumawe"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 31 Mei 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/198860/Permendag%20Nomor%2015%20tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:50Z"
+}

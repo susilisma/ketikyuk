@@ -1,0 +1,51 @@
+{
+ "id": "PERPRES-2020-47",
+ "source": "bpk",
+ "bpk_id": 135445,
+ "url": "https://peraturan.bpk.go.id/Details/135445/perpres-no-47-tahun-2020",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "47",
+ "number_raw": "47",
+ "year": 2020,
+ "title": "Peraturan Presiden (Perpres) Nomor 47 Tahun 2020 tentang Kementerian Agraria dan Tata Ruang",
+ "about": "Kementerian Agraria dan Tata Ruang",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI - STRUKTUR ORGANISASI",
+ "field": "",
+ "date_enacted": "2020-03-26",
+ "date_promulgated": "2020-03-26",
+ "date_effective": "2020-03-26",
+ "gazette": "LN.2020/NO.83, JDIH.SETNEG.GO.ID : 25 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-176",
+   "target_bpk_id": 306891,
+   "label": "Perpres No. 176 Tahun 2024",
+   "about": "Kementerian Agraria dan Tata Ruang"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2015-17",
+   "target_bpk_id": 41739,
+   "label": "PERPRES No. 17 Tahun 2015",
+   "about": "Kementerian Agraria Dan Tata Ruang"
+  }
+ ],
+ "abstract": "Sebagai tindak lanjut ditetapkannya Keputusan Presiden Nomor 113/P Tahun 2019 tentang Pembentukan Kementerian Negara dan Pengangkatan Menteri Negara Kabinet Indonesia Maju Periode Tahun 2019-2024 dan untuk melaksanakan ketentuan Pasal 11 Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara, perlu menetapkan Peraturan Presiden tentang Kementerian Agraria dan Tata Ruang.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) dan Pasal 17 UUD 1945, UU Nomor 39 Tahun 2008 tentang Kementerian Negara, Perpres Nomor 60 Tahun 2012 tentang Wakil Menteri sebagaimana telah diubah dengan Perpres Nomor 134 Tahun 2014, Perpres Nomor 67 Tahun 2019 tentang Penataan Tugas dan Fungsi Kementerian Negara Kabinet Indonesia Maju Periode Tahun 2019-2024, dan Perpres Nomor 68 Tahun 2019 tentang Organisasi Kementerian Negara.\nPerpres ini mengatur mengenai kedudukan, tugas, fungsi, organisasi, tata kerja, dan pendanaan pada Kementerian Agraria dan Tata Ruang. Kementerian Agraria dan Tata Ruang berada di bawah dan bertanggung jawab kepada Presiden yang bertugas menyelenggarakan urusan pemerintahan di bidang agraria/pertanahan dan tata ruang untuk membantu Presiden dalam menyelenggarakan pemerintahan negara.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 26 Maret 2020.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 17 Tahun 2015 tentang Kementerian Agraria dan Tata Ruang (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 18), dicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "KEPPRES-2019-113",
+  "UU-2008-39",
+  "PERPRES-2012-60",
+  "PERPRES-2014-134",
+  "PERPRES-2019-67",
+  "PERPRES-2019-68"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/126298/Perpres%20Nomor%2047%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:27:34Z"
+}

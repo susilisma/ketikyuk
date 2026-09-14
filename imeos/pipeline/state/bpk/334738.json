@@ -1,0 +1,41 @@
+{
+ "id": "PERPRES-2025-112",
+ "source": "bpk",
+ "bpk_id": 334738,
+ "url": "https://peraturan.bpk.go.id/Details/334738/perpres-no-112-tahun-2025",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "112",
+ "number_raw": "112",
+ "year": 2025,
+ "title": "Peraturan Presiden (Perpres) Nomor 112 Tahun 2025 tentang Perubahan atas Peraturan Presiden Nomor 193 Tahun 2024 tentang Kementerian Kelautan dan Perikanan",
+ "about": "Perubahan atas Peraturan Presiden Nomor 193 Tahun 2024 tentang Kementerian Kelautan dan Perikanan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-10-24",
+ "date_promulgated": "2025-10-24",
+ "date_effective": "2025-10-24",
+ "gazette": "LN 2025 (174) : 4 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2024-193",
+   "target_bpk_id": 306935,
+   "label": "Perpres No. 193 Tahun 2024",
+   "about": "Kementerian Kelautan dan Perikanan"
+  }
+ ],
+ "abstract": "Untuk optimalisasi pelaksanaan tugas dan fungsi penyelenggaraan urusan pemerintahan di bidang kelautan dan perikanan, perlu penataan kembali organisasi Kementerian Kelautan dan Perikanan.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD 1945; UU No. 39 Tahun 2008; Perpres No. 140 Tahun 2024; dan Perpres No. 193 Tahun 2024.\nPerpres ini mengubah beberapa ketentuan dalam Peraturan Presiden Nomor 193 Tahun 2024 tentang Kementerian Kelautan dan Perikanan (Lembaran Negara Republik Indonesia Tahun 2024 Nomor 390).",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 24 Oktober 2025.\nPerpres ini mengubah Perpres No. 193 Tahun 2024.\nLampiran file: 4 hlm.",
+ "citations": [
+  "UU-2008-39",
+  "PERPRES-2024-140",
+  "PERPRES-2024-193"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/397303/Perpres%20Nomor%20112%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:20Z"
+}

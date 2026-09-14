@@ -1,0 +1,47 @@
+{
+ "id": "PP-2025-35",
+ "source": "bpk",
+ "bpk_id": 327999,
+ "url": "https://peraturan.bpk.go.id/Details/327999/pp-no-35-tahun-2025",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "35",
+ "number_raw": "35",
+ "year": 2025,
+ "title": "Peraturan Pemerintah (PP) Nomor 35 Tahun 2025 tentang Perubahan atas Peraturan Pemerintah Nomor 39 Tahun 2010 tentang Administrasi Prajurit Tentara Nasional Indonesia",
+ "about": "Perubahan atas Peraturan Pemerintah Nomor 39 Tahun 2010 tentang Administrasi Prajurit Tentara Nasional Indonesia",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-08-25",
+ "date_promulgated": "2025-08-25",
+ "date_effective": "2025-08-25",
+ "gazette": "LN 2025 (135), TLN (7130) : 17 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2026-10",
+   "target_bpk_id": 349360,
+   "label": "PP No. 10 Tahun 2026",
+   "about": "Perubahan Kedua atas Peraturan Pemerintah Nomor 39 Tahun 2010 tentang Administrasi Prajurit Tentara Nasional Indonesia"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PP-2010-39",
+   "target_bpk_id": 5052,
+   "label": "PP No. 39 Tahun 2010",
+   "about": "Administrasi Prajurit Tentara Nasional Indonesia"
+  }
+ ],
+ "abstract": "Beberapa ketentuan dalam Peraturan Pemerintah Nomor 39 Tahun 2010 tentang Administrasi Prajurit Tentara Nasional Indonesia sudah tidak sesuai dengan perkembangan hukum dan kebutuhan organisasi sehingga perlu diubah.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945; UU Nomor 34 Tahun 2004; dan PP Nomor 39 Tahun 2010.\nPP ini mengubah beberapa ketentuan dalam PP Nomor 39 Tahun 2010. Materi muatan yang diatur dalam Peraturan Pemerintah ini antara lain meliputi: 1) masa Ikatan Dinas Lanjutan; 2) kenaikan dan penurunan Pangkat; 3) penempatan Prajurit pada kementerian/lembaga; 4) batas usia pensiun Prajurit; 5) batas usia pensiun Prajurit yang menduduki jabatan fungsional TNI; 6) perekrutan perwira komponen cadangan dalam rangka mobilisasi; dan 7) pengangkatan perwira cadangan.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 25 Agustus 2025.\nPP ini mengubah PP Nomor 39 Tahun 2010.\nLampiran file: 24 hlm. (batang tubuh hlm 1 s.d. 17 dan penjelasan hlm 18 sd 24)",
+ "citations": [
+  "PP-2010-39",
+  "UU-2004-34"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/389809/PP%20Nomor%2035%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:28:21Z"
+}

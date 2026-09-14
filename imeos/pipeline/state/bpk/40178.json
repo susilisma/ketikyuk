@@ -1,0 +1,53 @@
+{
+ "id": "UU-2006-13",
+ "source": "bpk",
+ "bpk_id": 40178,
+ "url": "https://peraturan.bpk.go.id/Details/40178/uu-no-13-tahun-2006",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "13",
+ "number_raw": "13",
+ "year": 2006,
+ "title": "Undang-undang (UU) Nomor 13 Tahun 2006 tentang Perlindungan Saksi dan Korban",
+ "about": "Perlindungan Saksi dan Korban",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HAK ASASI MANUSIA - HUKUM PIDANA, PERDATA, DAN DAGANG",
+ "field": "",
+ "date_enacted": "2006-08-11",
+ "date_promulgated": "2006-08-11",
+ "date_effective": "2006-08-11",
+ "gazette": "LN.2006/NO.64, TLN NO.4635, LL SETNEG : 18 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2026-3",
+   "target_bpk_id": 349942,
+   "label": "UU No. 3 Tahun 2026",
+   "about": "Pelindungan Saksi dan Korban"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2023-1",
+   "target_bpk_id": 234935,
+   "label": "UU No. 1 Tahun 2023",
+   "about": "Kitab Undang-Undang Hukum Pidana"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2014-31",
+   "target_bpk_id": 38701,
+   "label": "UU No. 31 Tahun 2014",
+   "about": "Perubahan atas Undang-Undang Nomor 13 Tahun 2006 Tentang Perlindungan Saksi dan Korban"
+  }
+ ],
+ "abstract": "bahwa salah satu alat bukti yang sah dalam proses peradilan pidana adalah keterangan Saksi dan/atau Korban yang mendengar, melihat, atau mengalami sendiri terjadinya suatu tindak pidana dalam upaya mencari dan menemukan kejelasan tentang tindak pidana yang dilakukan oleh pelaku tindak pidana;\nbahwa penegak hukum dalam mencari dan menemukan kejelasan tentang tindak pidana yang dilakukan oleh pelaku tindak pidana sering mengalami kesulitan karena tidak dapat menghadirkan Saksi dan/atau Korban disebabkan adanya ancaman, baik fisik maupun psikis dari pihak tertentu;\nbahwa sehubungan dengan hal tersebut, perlu dilakukan perlindungan bagi Saksi dan/atau Korban yang sangat penting keberadaannya dalam proses peradilan pidana.\nPasal 1 ayat (3), Pasal 20, Pasal 21, Pasal 28G, Pasal 28I, dan Pasal 28J Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;\nUndang-Undang Nomor 8 Tahun 1981 tentang Hukum Acara Pidana (Lembaran Negara Republik Indonesia Tahun 1981 Nomor 76; Tambahan Lembaran Negara Republik Indonesia Nomor 3209).\n1. KETENTUAN UMUM\n2. PERLINDUNGAN DAN HAK SAKSI DAN KORBAN\n3. LEMBAGA PERLINDUNGAN SAKSI DAN KORBAN\n4. SYARAT DAN TATA CARA\nPEMBERIAN PERLINDUNGAN DAN BANTUAN\n5. KETENTUAN PIDANA\n6. KETENTUAN PERALIHAN\n7. KETENTUAN PENUTUP",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 11 Agustus 2006.\n-\nKetentuan lebih lanjut mengenai pemberian kompensasi dan restitusi diatur dengan Peraturan Pemerintah.\nKetentuan lebih lanjut mengenai tata cara pengangkatan dan pemberhentian anggota LPSK diatur dengan Peraturan Presiden.\nKetentuan lebih lanjut mengenai tata cara pengangkatan dan pemberhentian anggota LPSK diatur dengan Peraturan Presiden.\n26",
+ "citations": [
+  "UU-1981-8"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/29813/UU%20Nomor%2013%20Tahun%202006.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:23:17Z"
+}

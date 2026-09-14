@@ -1,0 +1,37 @@
+{
+ "id": "PP-2015-93",
+ "source": "bpk",
+ "bpk_id": 5672,
+ "url": "https://peraturan.bpk.go.id/Details/5672/pp-no-93-tahun-2015",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "93",
+ "number_raw": "93",
+ "year": 2015,
+ "title": "Peraturan Pemerintah (PP) Nomor 93 Tahun 2015 tentang Rumah Sakit Pendidikan",
+ "about": "Rumah Sakit Pendidikan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KESEHATAN - PENDIDIKAN",
+ "field": "",
+ "date_enacted": "2015-12-14",
+ "date_promulgated": "2015-12-16",
+ "date_effective": "2015-12-16",
+ "gazette": "LN. 2015 No. 295, TLN No. 5777, LL SETNEG : 40 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-28",
+   "target_bpk_id": 294077,
+   "label": "PP No. 28 Tahun 2024",
+   "about": "Peraturan Pelaksanaan Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 16 Desember 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/29711/PP%20Nomor%2093%20Tahun%202015.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:30:45Z"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "POJK-2016-20",
+ "source": "bpk",
+ "bpk_id": 128426,
+ "url": "https://peraturan.bpk.go.id/Details/128426/peraturan-ojk-no-20pojk042016-tahun-2016",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "20",
+ "number_raw": "20/POJK.04/2016",
+ "year": 2016,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 20/POJK.04/2016 Tahun 2016 tentang Perizinan Perusahaan Efek yang Melakukan Kegiatan Usaha Sebagai Penjamin Emisi Efek dan Perantara Pedagang Efek",
+ "about": "Perizinan Perusahaan Efek yang Melakukan Kegiatan Usaha Sebagai Penjamin Emisi Efek dan Perantara Pedagang Efek",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "PASAR MODAL DAN PERDAGANGAN BERJANGKA KOMODITI",
+ "field": "",
+ "date_enacted": "2016-04-07",
+ "date_promulgated": "2016-04-18",
+ "date_effective": "2016-04-18",
+ "gazette": "LN. 2016/NO.66, ojk.go.id: 109 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 350257,
+   "label": "Peraturan OJK No. 3 Tahun 2026",
+   "about": "Penyelenggaraan Kegiatan Usaha Perusahaan Efek yang Melakukan Kegiatan Usaha sebagai Penjamin Emisi Efek dan Perantara Pedagang Efek"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 18 April 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/119372/SAL%20-%20POJK%20Perizinan%20PE_.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:42:56Z"
+}

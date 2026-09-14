@@ -1,0 +1,59 @@
+{
+ "id": "PERPRES-2021-98",
+ "source": "bpk",
+ "bpk_id": 187122,
+ "url": "https://peraturan.bpk.go.id/Details/187122/perpres-no-98-tahun-2021",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "98",
+ "number_raw": "98",
+ "year": 2021,
+ "title": "Peraturan Presiden (Perpres) Nomor 98 Tahun 2021 tentang Penyelenggaraan Nilai Ekonomi Karbon untuk Pencapaian Target Kontribusi yang Ditetapkan Secara Nasional dan Pengendalian Emisi Gas Rumah Kaca dalam Pembangunan Nasional",
+ "about": "Penyelenggaraan Nilai Ekonomi Karbon untuk Pencapaian Target Kontribusi yang Ditetapkan Secara Nasional dan Pengendalian Emisi Gas Rumah Kaca dalam Pembangunan Nasional",
+ "issuer": "Pemerintah Pusat",
+ "subject": "LINGKUNGAN HIDUP - PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA",
+ "field": "",
+ "date_enacted": "2021-10-29",
+ "date_promulgated": "2021-10-29",
+ "date_effective": "2021-10-29",
+ "gazette": "LN.2021/No.249, jdih.setneg.go.id : 68 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2025-110",
+   "target_bpk_id": 334733,
+   "label": "Perpres No. 110 Tahun 2025",
+   "about": "Penyelenggaraan Instrumen Nilai Ekonomi Karbon dan Pengendalian Emisi Gas Rumah Kaca Nasional"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2011-71",
+   "target_bpk_id": 41187,
+   "label": "PERPRES No. 71 Tahun 2011",
+   "about": "Penyelenggaraan Inventarisasi Gas Rumah Kaca Nasional"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2011-61",
+   "target_bpk_id": 41199,
+   "label": "PERPRES No. 61 Tahun 2011",
+   "about": "Rencana Aksi Nasional Penurunan Emisi Gas Rumah Kaca"
+  }
+ ],
+ "abstract": "Berbagai dampak dan akibat perubahan iklim mempengaruhi kualitas kehidupan masyarakat sehingga perlu dilakukan langkah-langkah perlindungan masyarakat sebagaimana dimaksud dalam Pasal 28 H ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 serta Pasal 65 ayat (1) UU Nomor 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 6 Tahun 1994; UU Nomor 25 Tahun 2004; UU Nomor 17 Tahun 2007; UU Nomor 32 Tahun 2009; UU Nomor 23 Tahun 2014; UU Nomor 16 Tahun 2016; dan PP Nomor 46 Tahun 2017.\nPerpres ini mengatur mengenai: 1) maksud, tujuan, dan ruang lingkup; 2) upaya pencapaian target kontribusi yang ditetapkan secara nasional atau Nationally Determined Contribution/NDC; 3) tata laksana penyelenggaraan nilai ekonomi karbon; 4) kerangka transparansi; 5) pemantauan dan evaluasi; 6) pembinaan dan pendanaan; dan 7) komite pengarah pada pengelolaan Nilai Ekonomi Karbon/NEK untuk mencapai NDC dan pengendalian Emisi Gas Rumah Kaca/GRK. Pelaksanaan upaya\npencapaian target NDC dilakukan melalui penyelenggaraan mitigasi perubahan iklim dan adaptasi perubahan iklim.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 29 Oktober 2021.\nPerpres ini mencabut Perpres Nomor 61 Tahun 2011 dan Perpres Nomor 71 Tahun 2011.\nPeraturan pelaksanaan dari Peraturan Presiden ini ditetapkan paling lambat 1 (satu) tahun sejak Peraturan Presiden ini diundangkan.",
+ "citations": [
+  "UU-2009-32",
+  "UU-1994-6",
+  "UU-2004-25",
+  "UU-2007-17",
+  "UU-2014-23",
+  "UU-2016-16",
+  "PP-2017-46"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/180699/Perpres%20Nomor%2098%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:23Z"
+}

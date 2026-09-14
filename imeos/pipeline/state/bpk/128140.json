@@ -1,0 +1,58 @@
+{
+ "id": "PMK-2019-118",
+ "source": "bpk",
+ "bpk_id": 128140,
+ "url": "https://peraturan.bpk.go.id/Details/128140/pmk-no-118pmk022019",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "118",
+ "number_raw": "118/PMK.02/2019",
+ "year": 2019,
+ "title": "Peraturan Menteri Keuangan Nomor 118/PMK.02/2019 Tahun 2019 tentang Tentang Tata Cara Pembayaran Domestic Market Obligation Fee, Over Lifting Kontraktor Dan/Atau Under Lifting Kontraktor Dalam Kegiatan Usaha Hulu Minyak Dan Gas Bumi",
+ "about": "Tentang Tata Cara Pembayaran Domestic Market Obligation Fee, Over Lifting Kontraktor Dan/Atau Under Lifting Kontraktor Dalam Kegiatan Usaha Hulu Minyak Dan Gas Bumi",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN - PERTAMBANGAN MIGAS, MINERAL DAN ENERGI",
+ "field": "",
+ "date_enacted": "2019-08-16",
+ "date_promulgated": "2019-08-16",
+ "date_effective": "2019-08-16",
+ "gazette": "JDIH.KEMENKEU.GO.ID : 16 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-139",
+   "target_bpk_id": 312058,
+   "label": "PMK No. 139 Tahun 2024",
+   "about": "Tata Cara Pembayaran atas Tagihan kepada Pemerintah dalam Kegiatan Usaha Hulu Minyak dan Gas Bumi"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2023-51",
+   "target_bpk_id": 248651,
+   "label": "PMK No. 51 Tahun 2023",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 118/PMK.02/2019 tentang Tata Cara Pembayaran Domestic Market Obligation Fee, Over Lifting Kontraktor dan/atau Under Lifting Kontraktor dalam Kegiatan Usaha Hulu Minyak dan Gas Bumi"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2015-230",
+   "target_bpk_id": 147134,
+   "label": "PMK No. 230/PMK.02/2015",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 139/PMK.02/2013 tentang Tata Cara Pembayaran Domestic Market Obligation Fee, Over Lifting Kontraktor Dan/ atau Under Lifting Kontraktor dalam Kegiatan Usaha Hulu Minyak dan Gas Bumi"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2013-139",
+   "target_bpk_id": 147135,
+   "label": "PMK No. 139/PMK.02/2013",
+   "about": "Tata Cara Pembayaran Domestic Market Obligation Fee, Over Lifting Kontraktor dan/atau Under Lifting Kontraktor dalam Kegiatan Usaha Hulu Minyak dan Gas Bumi"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 16 Agustus 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/119135/118~PMK.02~2019Per.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:33:57Z"
+}

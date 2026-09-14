@@ -1,0 +1,52 @@
+{
+ "id": "PERMENDAG-2025-30",
+ "source": "bpk",
+ "bpk_id": 331224,
+ "url": "https://peraturan.bpk.go.id/Details/331224/permendag-no-30-tahun-2025",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "30",
+ "number_raw": "30",
+ "year": 2025,
+ "title": "Peraturan Menteri Perdagangan Nomor 30 Tahun 2025 tentang Pengawasan Metrologi Legal",
+ "about": "Pengawasan Metrologi Legal",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN - STANDAR / PEDOMAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-09-10",
+ "date_promulgated": "2025-09-17",
+ "date_effective": "2025-09-17",
+ "gazette": "BN.2025 (697/156 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2017-26",
+   "target_bpk_id": 128676,
+   "label": "Permendag No. 26/M-DAG/PER/5/2017 Tahun 2017",
+   "about": "Pengawasan Metrologi Legal"
+  }
+ ],
+ "abstract": "a. bahwa untuk meningkatkan jaminan kebenaran hasil\npengukuran dan kepastian hukum guna mewujudkan\ntertib ukur perlu dilakukan pengawasan terhadap alat\nukur, alat takar, alat timbang, dan alat perlengkapan,\nbarang dalam keadaan terbungkus, serta satuan ukuran;\nb. bahwa pengawasan terhadap alat ukur, alat takar, alat\ntimbang, dan alat perlengkapan, barang dalam keadaan\nterbungkus, serta satuan ukuran yang telah diatur dalam\nPeraturan Menteri Perdagangan Nomor 26/MDAG/PER/5/2017 tentang Pengawasan Metrologi Legal\nsudah tidak sesuai dengan kebutuhan masyarakat dan\nperkembangan hukum di bidang metrologi legal, sehingga\nperlu diganti;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a dan huruf b, perlu menetapkan Peraturan\nMenteri Perdagangan tentang Pengawasan Metrologi Legal;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 2 Tahun 1981, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 23 Tahun 2014, Peraturan Pemerintah Nomor 2 Tahun 1985, Peraturan Pemerintah Nomor 10 Tahun 1987, Peraturan Pemerintah Nomor 29 Tahun 2021, Peraturan Presiden Nomor 168 Tahun 2024, Peraturan Menteri Perdagangan Nomor 31/M-DAG/PER/10/2011, Peraturan Menteri Perdagangan Nomor 115 Tahun 2018, Peraturan Menteri Perdagangan Nomor 55 Tahun 2022, Peraturan Menteri Perdagangan Nomor 24 Tahun 2024, Peraturan Menteri Perdagangan Nomor 31 Tahun 2024 dan Peraturan Menteri Perdagangan Nomor 6 Tahun 2025.\nPeraturan ini mengatur tentang ketentuan umum, kewenangan pengawasan, pelaksana pengawasan, tata cara pelaksanaan pengawasan, tinjak lanjut pengawasan, sistem informasi, monitoring dan evaluasi, pembinaan, ketentuan peralihan dan ketentuan penutup.",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 17 September 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan Menteri ini mulai berlaku, Peraturan\nMenteri Perdagangan Nomor 26/M-DAG/PER/5/2017 tentang\nPengawasan Metrologi Legal",
+ "citations": [
+  "PERMENDAG-2017-26",
+  "UU-1981-2",
+  "UU-2008-39",
+  "UU-2014-23",
+  "PP-1985-2",
+  "PP-1987-10",
+  "PP-2021-29",
+  "PERPRES-2024-168",
+  "PERMENDAG-2011-31",
+  "PERMENDAG-2018-115",
+  "PERMENDAG-2022-55",
+  "PERMENDAG-2024-24",
+  "PERMENDAG-2024-31",
+  "PERMENDAG-2025-6"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/393257/Permendag%20Nomor%2030%20Tahun%202025%20tentang%20Pengawasan%20Metrologi%20Legal.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:37:03Z"
+}

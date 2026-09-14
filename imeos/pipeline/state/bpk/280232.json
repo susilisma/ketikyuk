@@ -1,0 +1,51 @@
+{
+ "id": "PERMENKUMHAM-2022-18",
+ "source": "bpk",
+ "bpk_id": 280232,
+ "url": "https://peraturan.bpk.go.id/Details/280232/permenkumham-no-18-tahun-2022",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "18",
+ "number_raw": "18",
+ "year": 2022,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 18 Tahun 2022 tentang Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 8 Tahun 2014 tentang Paspor Biasa dan Surat Perjalanan Laksana Paspor",
+ "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 8 Tahun 2014 tentang Paspor Biasa dan Surat Perjalanan Laksana Paspor",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "KEWARGANEGARAAN DAN IMIGRASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2022-09-19",
+ "date_promulgated": "2022-09-29",
+ "date_effective": "2022-09-29",
+ "gazette": "BN 2022 (996) : 13 hlm.; peraturan.go.id",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 352504,
+   "label": "Permen Imipas No. 11 Tahun 2026",
+   "about": "Paspor Biasa dan Surat Perjalanan Laksana Paspor"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 352505,
+   "label": "Permenkumham No. 19 Tahun 2024",
+   "about": "Perubahan Kedua atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 8 Tahun 2014 tentang Paspor Biasa dan Surat Perjalanan Laksana Paspor"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 133335,
+   "label": "Permenkumham No. 8 Tahun 2014",
+   "about": "Paspor Biasa dan Surat Perjalanan Laksana Paspor"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 29 September 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/338995/Nomor%2018%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:42:28Z"
+}

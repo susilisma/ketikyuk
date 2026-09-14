@@ -1,0 +1,60 @@
+{
+ "id": "PERMENDAG-2024-29",
+ "source": "bpk",
+ "bpk_id": 320973,
+ "url": "https://peraturan.bpk.go.id/Details/320973/permendag-no-29-tahun-2024",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "29",
+ "number_raw": "29",
+ "year": 2024,
+ "title": "Peraturan Menteri Perdagangan Nomor 29 Tahun 2024 tentang Pelaksanaan Pemberian Tunjangan Kinerja Pegawai",
+ "about": "Pelaksanaan Pemberian Tunjangan Kinerja Pegawai",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-11-07",
+ "date_promulgated": "2024-11-22",
+ "date_effective": "2025-01-01",
+ "gazette": "BN 2024 (873) : 15 hlm.; jdih.kemendag.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2021-60",
+   "target_bpk_id": 204927,
+   "label": "Permendag No. 60 Tahun 2021",
+   "about": "Perubahan Kedua atas Peraturan Menteri Perdagangan Nomor 71 Tahun 2018 tentang Penerapan Jam Kerja dan Pedoman Pembayaran Tunjangan Kinerja Pegawai Lingkungan Kementerian Perdagangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2018-71",
+   "target_bpk_id": 173443,
+   "label": "Permendag No. 71 Tahun 2018",
+   "about": "Penerapan Jam Kerja Dan Pedoman Pembayaran Tunjangan Kinerja Pegawai Di Lingkungan Kementerian Perdagangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2018-108",
+   "target_bpk_id": 173488,
+   "label": "Permendag No. 108 Tahun 2018",
+   "about": "Perubahan Atas Permendag No. 71 Tahun 2018 tentang Penerapan Jam Kerja dan Pedoman Pembayaran Tunjangan Kinerja Pegawai di Lingkungan Kementerian Perdagangan"
+  }
+ ],
+ "abstract": "Berdasarkan ketentuan Peraturan Menteri Keuangan Nomor 20 Tahun 2023 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 80 PMK.05/2017 tentang Tata Cara Pembayaran Tunjangan Kinerja Pegawai pada Kementerian Negara/Lembaga, kementerian/lembaga perlu melakukan penyesuaian pembayaran tunjangan kinerja pegawai, sehingga pembayaran tunjangan kinerja dapat dilaksanakan pada hari pertama atau hari kerja pertama setiap bulan. Peraturan Menteri Perdagangan Nomor 71 Tahun 2018 tentang Penerapan Jam Kerja dan\nPedoman Pembayaran Tunjangan Kinerja Pegawai di Lingkungan Kementerian Perdagangan sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Perdagangan Nomor 60 Tahun 2021 tentang Perubahan Kedua atas Peraturan Menteri Perdagangan Nomor 71 Tahun 2018 tentang Penerapan Jam Kerja dan Pedoman Pembayaran Tunjangan Kinerja Pegawai di Lingkungan Kementerian Perdagangan sudah tidak sesuai dengan perkembangan hukum dan kebutuhan\norganisasi, sehingga perlu digantI.\nPasal 17 ayat (3) UUD NRI Tahun 1945, UU No. 39 Tahun 2008, Perpres No. 122 Tahun 2018, Perpres No. 168 Tahun 2024, Permendag No. 29 Tahun 2022, dan Permendag No. 55 Tahun 2022.\nPeraturan ini mengatur tentang ketentuan umum, pemberian tunjangan kinerja, pengaturan hari kerja dan jam kerja, pemotongan tunjangan kinerja dan ketentuan penutup.",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 01 Januari 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas , Permendag No. 71 Tahun 2018, Permendag No. 108 Tahun 2018, dan Permendag No. 60 Tahun 2021.",
+ "citations": [
+  "PMK-2023-20",
+  "PERMENDAG-2018-71",
+  "PERMENDAG-2021-60",
+  "UU-2008-39",
+  "PERPRES-2018-122",
+  "PERPRES-2024-168",
+  "PERMENDAG-2022-29",
+  "PERMENDAG-2022-55"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/382712/Permendag%20No.%2029%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:37:29Z"
+}

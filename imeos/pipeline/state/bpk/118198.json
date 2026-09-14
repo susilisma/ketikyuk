@@ -1,0 +1,58 @@
+{
+ "id": "PMK-2010-109",
+ "source": "bpk",
+ "bpk_id": 118198,
+ "url": "https://peraturan.bpk.go.id/Details/118198/pmk-no-109pmk042010",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "109",
+ "number_raw": "109/PMK.04/2010",
+ "year": 2010,
+ "title": "Peraturan Menteri Keuangan Nomor 109/PMK.04/2010 Tahun 2010 tentang Tata Cara Pembebasan Cukai",
+ "about": "Tata Cara Pembebasan Cukai",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN",
+ "field": "",
+ "date_enacted": "2010-05-19",
+ "date_promulgated": "2010-05-27",
+ "date_effective": "2010-06-26",
+ "gazette": "BN.2010/NO.263, jdih.kemenkeu.go.id : 19 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-82",
+   "target_bpk_id": 306671,
+   "label": "PMK No. 82 Tahun 2024",
+   "about": "Tata Cara Pembebasan Cukai"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2019-172",
+   "target_bpk_id": 128295,
+   "label": "PMK No. 172/PMK.04/2019",
+   "about": "Perubahan Kedua Atas Peraturan Menteri Keuangan Nomor 109/PMK.04/2010 Tentang Tata Cara Pembebasan Cukai"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2014-40",
+   "target_bpk_id": 147980,
+   "label": "PMK No. 40/PMK.04/2014",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 109/PMK.04/2010 tentang Tata Cara Pembebasan Cukai"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2007-47",
+   "target_bpk_id": 147985,
+   "label": "PMK No. 47/PMK.04/2007",
+   "about": "Pembebasan Cukai"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 26 Juni 2010.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/226312/PMK%20109%20Tahun%202010.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:34:43Z"
+}

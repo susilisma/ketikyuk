@@ -1,0 +1,49 @@
+{
+ "id": "PMK-2025-84",
+ "source": "bpk",
+ "bpk_id": 334053,
+ "url": "https://peraturan.bpk.go.id/Details/334053/pmk-no-84-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "84",
+ "number_raw": "84",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 84 Tahun 2025 tentang Mekanisme Pelaksanaan Anggaran atas Pekerjaan yang Belum Diselesaikan pada Akhir Tahun Anggaran Melalui Rekening Penampungan",
+ "about": "Mekanisme Pelaksanaan Anggaran atas Pekerjaan yang Belum Diselesaikan pada Akhir Tahun Anggaran Melalui Rekening Penampungan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "APBD - APBN - PENGELOLAAN KEUANGAN NEGARA / DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-11-21",
+ "date_promulgated": "2025-11-26",
+ "date_effective": "2025-11-26",
+ "gazette": "BN.2025 (982/43 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2025-116",
+   "target_bpk_id": 342480,
+   "label": "PMK No. 116 Tahun 2025",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 84 Tahun 2025 tentang Mekanisme Pelaksanaan Anggaran atas Pekerjaan yang Belum Diselesaikan pada Akhir Tahun Anggaran melalui Rekening Penampungan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2023-109",
+   "target_bpk_id": 271188,
+   "label": "PMK No. 109 Tahun 2023",
+   "about": "Mekanisme Pelaksanaan Anggaran Atas Pekerjaan Yang Belum Diselesaikan Pada Akhir Tahun Anggaran"
+  }
+ ],
+ "abstract": "a. bahwa berdasarkan ketentuan Pasal 7 ayat (2) huruf a\ndan huruf d Undang-Undang Nomor 1 Tahun 2004\ntentang Perbendaharaan Negara, Menteri Keuangan\nselaku Bendahara Umum Negara berwenang\nmenetapkan kebijakan dan pedoman pelaksanaan\nanggaran serta menetapkan sistem penerimaan dan\npengeluaran kas negara;\nb. bahwa untuk mewujudkan pelaksanaan anggaran pada\nakhir tahun anggaran yang lebih tertib, efektif, efisien\ndan akuntabel, perlu menyempurnakan Peraturan\nMenteri Keuangan Nomor 109 Tahun 2023 tentang\nMekanisme Pelaksanaan Anggaran atas Pekerjaan yang\nBelum Diselesaikan pada Akhir Tahun Anggaran;\nc. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a dan huruf b, perlu\nmenetapkan Peraturan Menteri Keuangan tentang\nMekanisme Pelaksanaan Anggaran atas Pekerjaan yang\nBelum Diselesaikan pada Akhir Tahun Anggaran\nmelalui Rekening Penampungan;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 1 Tahun 2004, Undang-Undang Nomor 39 Tahun 2008, Peraturan Presiden Nomor 158 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengatur tentang ketentuan umum, pengelolaan rekekning penampungan akhir tahun anggaran pada kementerian/lembaga, pelaksanaan anggaran sampai dengam akhir tahun anggaran pada kementerian/lembaga, pekerjaan diberikan kesempatan penyelesaian melewati batas akhir tahun anggaran pada kementerian/lembaga, penyelesaian retur surat perintah pencairan dana pembayaran pada kementerian/lembaga, pelaksanaan anggaran sampai dengan akhir tahun anggaran pada satuan kerja yang dibiayai dengan penerimaan negara bukan pajak badan layanan umum, akuntansi dan pelaporan, monitoring dan evaluasi, pembuatan, penyampaian dan pengujian surat permintaan pembayaran, surat perintah membayar dan surat perintah pencairan dana dan ketentuan penutup.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 26 November 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan Menteri Keuangan Nomor 109 Tahun 2023 tentang Mekanisme Pelaksanaan Anggaran atas Pekerjaan yang\nBelum Diselesaikan pada Akhir Tahun Anggaran",
+ "citations": [
+  "UU-2004-1",
+  "UU-2008-39",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/396609/84%20th%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:31:39Z"
+}

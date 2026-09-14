@@ -1,0 +1,44 @@
+{
+ "id": "PP-2010-80",
+ "source": "bpk",
+ "bpk_id": 5104,
+ "url": "https://peraturan.bpk.go.id/Details/5104/x",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "80",
+ "number_raw": "80",
+ "year": 2010,
+ "title": "Peraturan Pemerintah (PP) Nomor 80 Tahun 2010 tentang Tarif Pemotongan Dan Pengenaan Pajak Penghasilan Pasal 21 Atas Penghasilan Yang Menjadi Beban Anggaran Pendapatan Dan Belanja Negara Atau Anggaran Pendapatan Dan Belanja Daerah",
+ "about": "Tarif Pemotongan Dan Pengenaan Pajak Penghasilan Pasal 21 Atas Penghasilan Yang Menjadi Beban Anggaran Pendapatan Dan Belanja Negara Atau Anggaran Pendapatan Dan Belanja Daerah",
+ "issuer": "Pemerintah Pusat",
+ "subject": "APBD - APBN - PERPAJAKAN",
+ "field": "",
+ "date_enacted": "2010-12-20",
+ "date_promulgated": "2010-12-20",
+ "date_effective": "2011-01-01",
+ "gazette": "LN. 2010 No. 140, TLN No. 5174, LL SETNEG : 8 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PP-2023-58",
+   "target_bpk_id": 274247,
+   "label": "PP No. 58 Tahun 2023",
+   "about": "Tarif Pemotongan Pajak Penghasilan Pasal 21 atas Penghasilan Sehubungan dengan Pekerjaan, Jasa, atau Kegiatan Wajib Pajak Orang Pribadi"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-1994-45",
+   "target_bpk_id": 57278,
+   "label": "PP No. 45 Tahun 1994",
+   "about": "Pajak Penghasilan Bagi Pejabat Negara, Pegawai Negeri Sipil, Anggota Angkatan Bersenjata Republik Indonesia, Dan Para Pensiunan Atas Penghasilan Yang Dibebankan Kepada Keuangan Negara Atau Keuangan Daerah"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 01 Januari 2011.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/36115/PP%2080%20Tahun%202010.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:37Z"
+}

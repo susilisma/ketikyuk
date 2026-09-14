@@ -1,0 +1,51 @@
+{
+ "id": "UU-2000-37",
+ "source": "bpk",
+ "bpk_id": 45244,
+ "url": "https://peraturan.bpk.go.id/Details/45244/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "37",
+ "number_raw": "37",
+ "year": 2000,
+ "title": "Undang-undang (UU) Nomor 37 Tahun 2000 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2000 tentang Kawasan Perdagangan Bebas dan Pelabuhan Bebas Sabang Menjadi Undang-Undang",
+ "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2000 tentang Kawasan Perdagangan Bebas dan Pelabuhan Bebas Sabang Menjadi Undang-Undang",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PEREKONOMIAN",
+ "field": "",
+ "date_enacted": "2000-12-21",
+ "date_promulgated": "2000-12-21",
+ "date_effective": "2000-12-21",
+ "gazette": "LN. 2000/ No. 252, TLN NO. 4054, LL SETNEG : 4 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 234926,
+   "label": "PERPU No. 2 Tahun 2022",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 21 Desember 2000.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/33728/UU%20Nomor%2037%20Tahun%202000.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:33:20Z"
+}

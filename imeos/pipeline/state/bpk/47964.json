@@ -1,0 +1,49 @@
+{
+ "id": "UU-1950-17",
+ "source": "bpk",
+ "bpk_id": 47964,
+ "url": "https://peraturan.bpk.go.id/Details/47964/uu-no-17-tahun-1950",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "17",
+ "number_raw": "17",
+ "year": 1950,
+ "title": "Undang-undang (UU) Nomor 17 Tahun 1950 tentang Pembentukan Daerah-Daerah Kota Kecil dalam Lingkungan Propinsi Jawa Timur, Jawa Tengah dan Jawa Barat",
+ "about": "Pembentukan Daerah-Daerah Kota Kecil dalam Lingkungan Propinsi Jawa Timur, Jawa Tengah dan Jawa Barat",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH",
+ "field": "",
+ "date_enacted": null,
+ "date_promulgated": null,
+ "date_effective": null,
+ "gazette": "",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-98",
+   "target_bpk_id": 307378,
+   "label": "UU No. 98 Tahun 2024",
+   "about": "Kota Sukabumi di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-98",
+   "target_bpk_id": 307378,
+   "label": "UU No. 98 Tahun 2024",
+   "about": "Kota Sukabumi di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-1954-13",
+   "target_bpk_id": 47958,
+   "label": "UU No. 13 Tahun 1954",
+   "about": "Pengubahan Undang-Undang Nr 16 dan 17 Tahun 1950 (Republik Indonesia Dahulu) Tentang Pembentukan Kota-Kota Besar dan Kota-Kota Kecil di Jawa"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal .",
+ "citations": [],
+ "pdf": [],
+ "fetched_at": "2026-09-14T05:25:33Z"
+}

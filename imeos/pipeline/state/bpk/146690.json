@@ -1,0 +1,159 @@
+{
+ "id": "PMK-2020-129",
+ "source": "bpk",
+ "bpk_id": 146690,
+ "url": "https://peraturan.bpk.go.id/Details/146690/pmk-no-129pmk052020",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "129",
+ "number_raw": "129/PMK.05/2020",
+ "year": 2020,
+ "title": "Peraturan Menteri Keuangan Nomor 129/PMK.05/2020 Tahun 2020 tentang Pedoman Pengelolaan Badan Layanan Umum",
+ "about": "Pedoman Pengelolaan Badan Layanan Umum",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BADAN LAYANAN UMUM - STANDAR / PEDOMAN",
+ "field": "",
+ "date_enacted": "2020-09-18",
+ "date_promulgated": "2020-09-18",
+ "date_effective": "2020-09-18",
+ "gazette": "BN.2020/NO.1046, https:jdih.kemenkeu.go.id : 155 Hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PMK-2022-75",
+   "target_bpk_id": 215571,
+   "label": "PMK No. 75/PMK.05/2022",
+   "about": "Petunjuk Teknis Pelaksanaan Pemberian Tunjangan Hari Raya dan Gaji Ketiga Belas kepada Aparatur Negara, Pensiunan, Penerima Pensiun, dan Penerima Tunjangan Tahun 2022 yang Bersumber dari Anggaran Pendapatan dan Belanja Negara"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2025-76",
+   "target_bpk_id": 333932,
+   "label": "PMK No. 76 Tahun 2025",
+   "about": "Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 129/PMK.05/2020 tentang Pedoman Pengelolaan Badan Layanan Umum"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2022-202",
+   "target_bpk_id": 234556,
+   "label": "PMK No. 202/PMK.05/2022",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 129/PMK.05/2020 tentang Pedoman Pengelolaan Badan Layanan Umum"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2019-79",
+   "target_bpk_id": 128066,
+   "label": "PMK No. 79/PMK.05/2019",
+   "about": "Pemberian Tunjangan Hari Raya Kepada Pejabat Pengelola, Dewan Pengawas, Sekretaris Dewan Pengawas, Dan Pegawai Badan Layanan Umum"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2018-82",
+   "target_bpk_id": 113119,
+   "label": "PMK No. 82/PMK.05/2018",
+   "about": "Pengelolaan Kas dan Investasi Badan Layanan Umum"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2018-42",
+   "target_bpk_id": 112205,
+   "label": "PMK No. 42/PMK.05/2018",
+   "about": "Perubahan Atas Peraturan Menteri Keuangan Nomor 77/PMK.05/2009 Tentang Pengelolaan Pinjaman Pada Badan Layanan Umum"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2017-98",
+   "target_bpk_id": 112747,
+   "label": "PMK No. 98/PMK.05/2017",
+   "about": "Penarikan Dan Pengembalian Dana Pada Badan Layanan Umum"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2017-200",
+   "target_bpk_id": 112946,
+   "label": "PMK No. 200/PMK.05/2017",
+   "about": "Sistem Pengendalian Intern Pada Badan Layanan Umum"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2017-176",
+   "target_bpk_id": 112913,
+   "label": "PMK No. 176/PMK.05/2017",
+   "about": "Pedoman Remunerasi Badan Layanan Umum"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2016-95",
+   "target_bpk_id": 113073,
+   "label": "PMK No. 95/PMK.05/2016",
+   "about": "Dewan Pengawas Badan Layanan Umum"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2016-180",
+   "target_bpk_id": 121262,
+   "label": "PMK No. 180/PMK.05/2016",
+   "about": "Penetapan Dan Pencabutan Penerapan Pola Pengelolaan Keuangan Badan Layanan Umum Pada Satuan Kerja\r\nInstansi Pemerintah"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2016-136",
+   "target_bpk_id": 121201,
+   "label": "PMK No. 136/PMK.05/2016",
+   "about": "Pengelolaan Aset Pada Layanan Umum"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2016-100",
+   "target_bpk_id": 121095,
+   "label": "PMK No. 100/PMK.05/2016",
+   "about": "Pedoman Umum Penyusunan Tarif Layanan Badan Layanan Umum"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2011-92",
+   "target_bpk_id": 146725,
+   "label": "PMK No. 92/PMK.05/2011",
+   "about": "Rencana Bisnis dan Anggaran Serta Pelaksanaan Anggaran Badan Layanan Umum"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2009-77",
+   "target_bpk_id": 127423,
+   "label": "PMK No. 77/PMK.05/2009",
+   "about": "Pengelolaan Pinjaman Pada Badan Layanan Umum"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2009-230",
+   "target_bpk_id": 146724,
+   "label": "PMK No. 230/PMK.05/2009",
+   "about": "Penghapusan Piutang Badan Layanan Umum"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2009-217",
+   "target_bpk_id": 146723,
+   "label": "PMK No. 217/PMK.05/2009",
+   "about": "Pedoman Pemberian Bonus atas Prestasi Bagi Rumah Sakit Eks-Perjan yang Menerapkan Pengelolaan Keuangan Badan Layanan Umum"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2006-8",
+   "target_bpk_id": 146691,
+   "label": "PMK No. 8/PMK.02/2006",
+   "about": "Kewenangan Pengadaan Barang/Jasa pada Badan Layanan Umum"
+  }
+ ],
+ "abstract": "bahwa guna melakukan simplifikasi beberapa ketentuan mengenai dewan pengawas, satuan pemeriksaan intern, remunerasi, penarikan dan pengembalian dana, dan pengelolaan kas dan investasi dan menyempurnakan beberapa pengaturan mengenai pedoman pengelolaan badan layanan umum, perlu diatur kembali dalam 1 (satu) Peraturan Menteri Keuangan yang mengatur mengenai pedoman pengelolaan badan layanan umum dengan menetapkan Peraturan Menteri Keuangan tentang Pedoman Pengelolaan Badan Layanan Umum\nPasal 17 ayat (3) UUD Tahun 1945, UU 39 Tahun 2008 (LN Tahun 2008 No.166, TLN No.4916), PP No. 23 Tahun 2005 (LN Tahun 2005 No. 48, TLN 4502)sebagaimana telah diubah dengan PP No. 74 Tahun 2012 (LN Tahun 2012 No. 171, TLN 5340), Perpres RI 57 Tahun 2020 (LN Tahun 2020 No.98), Permenkeu RI 217/PMK.01/2018 (BN Tahun 2018 No.1862) sebagaimana telah beberapa kali diubah, terakhir dengan Permenkeu RI 87/PMK.01/2019 (BN Tahun 2019 No.641)\nDalam Peraturan Menteri Keuangan Republik Indonesia ini diatur:\nBLU beroperasi sebagai unit kerja Kementerian Negara/Lembaga untuk tujuan pemberian layanan umum yang pengelolaannya berdasarkan kewenangan yang didelegasikan oleh instansi induk yang bersangkutan. Satker dapat diizinkan untuk mengelola keuangan dengan menerapkan PPK-BLU apabila memenuhi persyaratan substantif,teknis, dan administratif. Menteri Keuangan memberi keputusan penetapan terhadap usulan penetapan penerapan PPK-BLU paling lama 3 (tiga) bulan sejak dokumen persyaratan administratif terpenuhi sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 12. Menteri Keuangan dapat mencabut penerapan PPK-BLU berdasarkan hasil monitoring dan evaluasi serta penilaian kinerja yang dilakukan oleh Direktorat Jenderal Perbendaharaan dan /atau hasil penilaian penerapan Tata Kelola yang Baik dan/atau usulan dari Menteri/Pimpinan Lembaga.\nBLU dapat memungut biaya kepada masyarakat sebagai imbalan atas barang/jasa layanan yang diberikan dalam bentuk tarif. Menteri/Pimpinan Lembaga menyampaikan usulan tarif layanan kepada Menteri Keuangan sesuai dengan kebijakan Kementerian Negara/Lembaga dalam penetapan tarif layanan yang dikenakan kepada masyarakat oleh BLU. Pimpinan BLU bertanggung jawab terhadap kinerja operasional BLU sesuai dengan tolok ukur yang ditetapkan dalam RBA. Pembinaan teknis BLU dilakukan oleh Menteri/Pimpinan Lembaga.BLU wajib menyampaikan laporan pelaksanaan tata kelola sebagaimana dimaksud dalam Pasal 311 kepada Menteri Keuangan dan Menteri/Pimpinan Lembaga paling lambat 6 (enam) bulan setelah tahun buku berakhir",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 18 September 2020.\nPada saat Peraturan Menteri ini mulai berlaku:\na. PMK 08/PMK.02/2006;\nb. PMK 77/PMK.05/2009 (BN Tahun 2009 Nomor 74);\nc. PMK 217/PMK.05/2009 (BNTahun 2009 Nomor 495);\nd. PMK 230/PMK.05/2009 (BNTahun 2009 Nomor 516);\ne. PMK 92/PMK.05/2011 (BNTahun 2011 Nomor 363);\nf. PMK 95/PMK.05/2016 (BNTahun 2016 Nomor 913);\ng. PMK 100/PMK.05/2016 (BNTahun 2016 Nomor 915);\nh. PMK 136/PMK.05/2016 (BNTahun 2016 Nomor 1377);\ni. PMK 180/PMK.05/2016 (BN Tahun 2016 Nomor 1792);\nj. PMK 98/PMK.05/2017 (BNTahun 2017 Nomor 989);\nk. PMK 176/PMK.05/2017 (BN Tahun 2017 Nomor 1701);\nl. PMK 200/PMK.05/2017 (BNTahun 2017 Nomor 1885);\nm. PMK 42/PMK.05/2018 (BNTahun 2018 Nomor 588);\nn. PMK 82/PMK.05/2018 (BNTahun 2018 Nomor 998);\no. PMK 79/PMK.05/(BNTahun 2019 Nomor 575),\ndicabut dan dinyatakan tidak berlaku.\n-\n189 HLM, Lampiran halaman 152 s.d. 189.",
+ "citations": [
+  "PP-2005-23",
+  "PP-2012-74"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/138516/129_PMK.05_2020.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:32:40Z"
+}

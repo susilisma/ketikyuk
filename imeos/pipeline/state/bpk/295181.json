@@ -1,0 +1,40 @@
+{
+ "id": "UU-2024-38",
+ "source": "bpk",
+ "bpk_id": 295181,
+ "url": "https://peraturan.bpk.go.id/Details/295181/uu-no-38-tahun-2024",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "38",
+ "number_raw": "38",
+ "year": 2024,
+ "title": "Undang-undang (UU) Nomor 38 Tahun 2024 tentang Kabupaten Kerinci di Provinsi Jambi",
+ "about": "Kabupaten Kerinci di Provinsi Jambi",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2024-08-07",
+ "date_promulgated": "2024-08-07",
+ "date_effective": "2024-08-07",
+ "gazette": "LN 2024 (144), TLN (6959): 6 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-1958-58",
+   "target_bpk_id": 52282,
+   "label": "UU No. 58 Tahun 1958",
+   "about": "Penetapan \"Undang-Undang Darurat No. 21 Tahun 1957 Tentang Pengubahan Undang-Undang No. 12 Tahun 1956 Tentang Pembentukan Daerah Swatantra Tingkat II Dalam Lingkungan Daerah Swatantra Tingkat I Sumatera Tengah\" (Lembaran-Negara Tahun 1957 No. 77) Sebagai Undang-Undang"
+  }
+ ],
+ "abstract": "Undang-undang Nomor 58 Tahun 1958 tentang penetapan \"Undang-undang Darurat Nomor 21 Tahun 1957 tentang Pengubahan Undang-undang Nomor 12 Tahun 1956 tentang Pembentukan Daerah Swatantra Tingkat II dalam lingkungan Daerah Swatantra tingkat I Sumatera Tengah\" (Lembaran-Negara tahun 1957 No.77) sebagai Undang-undang, sudah tidak lagi dengan perkembangan hukum sehingga perlu diganti.\nDasar hukum UU ini adalah Pasal 18, Pasal 18A, Pasal 18B ayat (2), Pasal 20, Pasal 21, dan Pasal 22D ayat (2) UUD 1945.\nUU ini mengatur tentang Kabupaten Kerinci di Provinsi Jambi dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Kabupaten Kerinci terdiri atas 18 (delapan belas) kecamatan. Ibu Kota Kabupaten Kerinci berkedudukan di Kecamatan Siulak.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 07 Agustus 2024.\nPada saat Undang-Undang ini mulai berlaku, ketentuan yang mengatur mengenai Kabupaten Kerinci dalam Undang-undang Nomor 58 Tahun 1958 tentang penetapan \"Undang-undang Darurat Nomor 21 Tahun 1957 tentang Pengubahan Undang-undang Nomor 12 Tahun 1956 tentang Pembentukan Daerah Swatantra Tingkat II dalam lingkungan Daerah Swatantra tingkat I Sumatera Tengah\" (Lembaran-Negara tahun 1957 No.77) sebagai Undang-undang (Lembaran Negara Republik Indonesia Tahun 1958 Nomor 108, Tambahan Lembaran Negera Republik Indonesia Nomor 16431, dicabut dan dinyatakan tidak berlaku.\nLampiran file: 8 hlm.",
+ "citations": [
+  "UU-1958-58",
+  "UU-1956-12"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/354563/UU%20Nomor%2038%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:26:59Z"
+}

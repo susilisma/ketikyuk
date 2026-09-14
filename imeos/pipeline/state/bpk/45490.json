@@ -1,0 +1,44 @@
+{
+ "id": "UU-1998-11",
+ "source": "bpk",
+ "bpk_id": 45490,
+ "url": "https://peraturan.bpk.go.id/Details/45490/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "11",
+ "number_raw": "11",
+ "year": 1998,
+ "title": "Undang-undang (UU) Nomor 11 Tahun 1998 tentang Perubahan Berlakunya Undang-Undang Nomor 25 Tahun 1997 tentang Ketenagakerjaan",
+ "about": "Perubahan Berlakunya Undang-Undang Nomor 25 Tahun 1997 tentang Ketenagakerjaan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KETENAGAKERJAAN",
+ "field": "",
+ "date_enacted": "1998-11-10",
+ "date_promulgated": "1998-11-10",
+ "date_effective": "1998-11-10",
+ "gazette": "LN. 1998/ No. 184, TLN NO. 3791, LL SETNEG : 4 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2003-13",
+   "target_bpk_id": 43013,
+   "label": "UU No. 13 Tahun 2003",
+   "about": "Ketenagakerjaan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1997-25",
+   "target_bpk_id": 46026,
+   "label": "UU No. 25 Tahun 1997",
+   "about": "Ketenagakerjaan"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 10 November 1998.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/34007/UU%20Nomor%2011%20Tahun%201998.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:14Z"
+}

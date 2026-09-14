@@ -1,0 +1,41 @@
+{
+ "id": "UU-2025-21",
+ "source": "bpk",
+ "bpk_id": 343632,
+ "url": "https://peraturan.bpk.go.id/Details/343632/uu-no-21-tahun-2025",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "21",
+ "number_raw": "21",
+ "year": 2025,
+ "title": "Undang-undang (UU) Nomor 21 Tahun 2025 tentang Pengelolaan Ruang Udara",
+ "about": "Pengelolaan Ruang Udara",
+ "issuer": "Pemerintah Pusat",
+ "subject": "AGRARIA, PERTANAHAN, TATA RUANG - TERITORIAL INDONESIA",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2025-12-24",
+ "date_promulgated": "2025-12-24",
+ "date_effective": "2025-12-24",
+ "gazette": "LN 2025 (192), TLN (7151) : 29 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-2009-1",
+   "target_bpk_id": 54656,
+   "label": "UU No. 1 Tahun 2009",
+   "about": "Penerbangan"
+  }
+ ],
+ "abstract": "Undang-Undang Nomor 26 Tahun 2007 tentang Penataan Ruang sebagaimana telah beberapa kali diubah, terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang mengamanatkan mengenai pengelolaan ruang udara diatur dengan Undang-Undang.\nDasar hukum UU ini adalah Pasal 5 ayat (1), Pasal 20, dan Pasal 33 ayat (3) UUD 1945 dan UU No. 26 Tahun 2007.\nUU ini mengatur mengenai pengelolaan ruang udara yang merupakan kegiatan perencanaan, pemanfaatan, pengendalian, dan pengawasan Ruang Udara. Ruang Udara yang diatur dalam Undang-Undang ini meliputi: a. Wilayah Udara; b. Ruang Udara internasional; dan c. Ruang Udara negara lain yang didelegasikan pelayanan navigasi penerbangannya.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 24 Desember 2025.\nPada saat Undang-Undang ini mulai berlaku, ketentuan dalam Pasal 7 ayat (2), ayat (3), dan ayat (4), Pasal 8, Pasal 401, dan Pasal 402 Undang-Undang Nomor 1 Tahun 2009 tentang Penerbangan, dicabut dan dinyatakan tidak berlaku.\nLampiran file: 51 hlm (batang tubuh hlm 1 sd 29 dan penjelasan hlm 30 sd 51)",
+ "citations": [
+  "UU-2007-26",
+  "UU-2023-6",
+  "PERPPU-2022-2"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/406850/UU%20Nomor%2021%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:23:31Z"
+}

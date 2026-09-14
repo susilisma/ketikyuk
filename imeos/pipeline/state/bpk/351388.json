@@ -1,0 +1,40 @@
+{
+ "id": "PP-2026-30",
+ "source": "bpk",
+ "bpk_id": 351388,
+ "url": "https://peraturan.bpk.go.id/Details/351388/pp-no-30-tahun-2026",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "30",
+ "number_raw": "30",
+ "year": 2026,
+ "title": "Peraturan Pemerintah (PP) Nomor 30 Tahun 2026 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Kementerian Hukum",
+ "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Kementerian Hukum",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-07-02",
+ "date_promulgated": "2026-07-02",
+ "date_effective": "2026-08-01",
+ "gazette": "LN 2026 (72), TLN (7187) : 7 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut sebagian",
+   "target": "PP-2024-45",
+   "target_bpk_id": 305293,
+   "label": "PP No. 45 Tahun 2024",
+   "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 4 ayat (3), Pasal 8 ayat (3), Pasal 10 ayat (2), dan Pasal 12 ayat (2) Undang-Undang Nomor 9 Tahun 2018 tentang Penerimaan Negara Bukan Pajak, perlu menetapkan Peraturan Pemerintah tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Kementerian Hukum.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945; UU No. 9 Tahun 2018; dan PP No. 44 Tahun 2025.\nPP ini mengatur mengenai Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Kementerian Hukum. Seluruh Penerimaan Negara Bukan Pajak yang berlaku pada Kementerian Hukum wajib disetor ke Kas Negara.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 01 Agustus 2026.\nPada saat Peraturan Pemerintah ini mulai berlaku, tarif atas jenis Penerimaan Negara Bukan Pajak yang berasal dari:a) pelayanan jasa hukum; b) pelatihan fungsional perancang peraturan perundang-undangan; c) pelayanan kekayaan intelektual; d) penggunaan sarana dan prasarana sesuai dengan tugas dan fungsi; dan e) penyelenggaraan penilaian kompetensi pegawai aparatur sipil negara, sebagaimana diatur dalam Peraturan Pemerintah Nomor 45 Tahun 2024 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Kementerian Hukum dan Hak Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 2024 Nomor 240, Tambahan Lembaran Negara Republik Indonesia Nomor 7000), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 58 hlm (batang tubuh hlm 1 sd 7; penjelasan hlm 8 sd 10; dan lampiran hlm 11 sd 58)",
+ "citations": [
+  "UU-2018-9",
+  "PP-2025-44"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/415168/PP%20Nomor%2030%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:27:34Z"
+}

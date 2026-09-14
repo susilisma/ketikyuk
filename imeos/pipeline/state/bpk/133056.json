@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2020-37",
+ "source": "bpk",
+ "bpk_id": 133056,
+ "url": "https://peraturan.bpk.go.id/Details/133056/perpres-no-37-tahun-2020",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "37",
+ "number_raw": "37",
+ "year": 2020,
+ "title": "Peraturan Presiden (Perpres) Nomor 37 Tahun 2020 tentang Kementerian Koordinator Bidang Perekonomian",
+ "about": "Kementerian Koordinator Bidang Perekonomian",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI - STRUKTUR ORGANISASI",
+ "field": "",
+ "date_enacted": "2020-02-26",
+ "date_promulgated": "2020-02-28",
+ "date_effective": "2020-02-28",
+ "gazette": "LN.2020/NO.64, JDIH.SETKAB.GO.ID : 22 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-143",
+   "target_bpk_id": 306481,
+   "label": "Perpres No. 143 Tahun 2024",
+   "about": "Kementerian Koordinator Bidang Perekonomian"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2015-8",
+   "target_bpk_id": 41728,
+   "label": "PERPRES No. 8 Tahun 2015",
+   "about": "Kementerian Koordinator Bidang Perekonomian"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 28 Februari 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/123842/Perpres%20Nomor%2037%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:28:40Z"
+}

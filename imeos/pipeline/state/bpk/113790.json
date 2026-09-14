@@ -1,0 +1,37 @@
+{
+ "id": "PMK-2018-215",
+ "source": "bpk",
+ "bpk_id": 113790,
+ "url": "https://peraturan.bpk.go.id/Details/113790/pmk-no-215pmk032018",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "215",
+ "number_raw": "215/PMK.03/2018",
+ "year": 2018,
+ "title": "Peraturan Menteri Keuangan Nomor 215/PMK.03/2018 Tahun 2018 tentang Penghitungan Angsuran Pajak Penghasilan Dalam Tahun Pajak Berjalan Yang Harus Dibayar Sendiri Oleh Wajib Pajak Baru, Bank, Badan Usaha Milik Negara, Badan Usaha Milik Daerah, Wajib Pajak Masuk Bursa, Wajib Pajak Lainnya Yang Berdasarkan Ketentuan Diharuskan Membuat Laporan Keuangan Berkala Dan Wajib Pajak Orang Pribadi Pengusaha Tertentu",
+ "about": "Penghitungan Angsuran Pajak Penghasilan Dalam Tahun Pajak Berjalan Yang Harus Dibayar Sendiri Oleh Wajib Pajak Baru, Bank, Badan Usaha Milik Negara, Badan Usaha Milik Daerah, Wajib Pajak Masuk Bursa, Wajib Pajak Lainnya Yang Berdasarkan Ketentuan Diharuskan Membuat Laporan Keuangan Berkala Dan Wajib Pajak Orang Pribadi Pengusaha Tertentu",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "",
+ "date_enacted": "2018-12-31",
+ "date_promulgated": "2018-12-31",
+ "date_effective": "2018-12-31",
+ "gazette": "BN.2018/NO.1860, jdih.kemenkeu.go.id : 16 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-81",
+   "target_bpk_id": 306614,
+   "label": "PMK No. 81 Tahun 2024",
+   "about": "Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 31 Desember 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/104738/PMK%20Nomor%20215%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:35:00Z"
+}

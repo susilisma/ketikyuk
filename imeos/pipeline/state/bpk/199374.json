@@ -1,0 +1,48 @@
+{
+ "id": "PERPRES-2022-23",
+ "source": "bpk",
+ "bpk_id": 199374,
+ "url": "https://peraturan.bpk.go.id/Details/199374/perpres-no-23-tahun-2022",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "23",
+ "number_raw": "23",
+ "year": 2022,
+ "title": "Peraturan Presiden (Perpres) Nomor 23 Tahun 2022 tentang Kementerian Perhubungan",
+ "about": "Kementerian Perhubungan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "",
+ "date_enacted": "2022-01-24",
+ "date_promulgated": "2022-01-24",
+ "date_effective": "2022-01-24",
+ "gazette": "LN.2022/No.33, jdih.setneg.go.id : 22 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-173",
+   "target_bpk_id": 306856,
+   "label": "Perpres No. 173 Tahun 2024",
+   "about": "Kementerian Perhubungan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2015-40",
+   "target_bpk_id": 41773,
+   "label": "PERPRES No. 40 Tahun 2015",
+   "about": "Kementerian Perhubungan"
+  }
+ ],
+ "abstract": "Sebagai tindak lanjut ditetapkannya Keppres Nomor 113/P Tahun 2019 tentang Pembentukan Kementerian Negara dan Pengangkatan Menteri Negara Kabinet Indonesia Maju Periode Tahun 2019-2024 dan untuk melaksanakan ketentuan Pasal 11 UU Nomor 39 Tahun 2008 tentang Kementerian Negara, perlu menetapkan Perpres tentang Kementerian Perhubungan.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 39 Tahun 2008; Perpres Nomor 60 Tahun 2012; dan Perpres Nomor 68 Tahun 2019.\nPerpres ini mengatur mengenai: 1) kedudukan, tugas, dan fungsi; 2) organisasi; 3) unit pelaksana teknis; 4) tata kerja; dan 5) pendanaan Kementerian perhubungan. Kementerian Perhubungan berada di bawah dan bertanggung jawab kepada Presiden yang dipimpin oleh Menteri. Kementerian Perhubungan mempunyai tugas menyelenggarakan urusan pemerintahan di bidang transportasi untuk membantu Presiden dalam menyelenggarakan pemerintahan negara.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 24 Januari 2022.\nPerpres ini mencabut Perpres Nomor 40 Tahun 2015.\nSegala pendanaan yang diperlukan untuk pelaksanaan tugas dan fungsi Kementerian Perhubungan dibebankan kepada APBN.",
+ "citations": [
+  "UU-2008-39",
+  "PERPRES-2012-60",
+  "PERPRES-2019-68"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/193286/Perpres%20Nomor%2023%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:27:40Z"
+}

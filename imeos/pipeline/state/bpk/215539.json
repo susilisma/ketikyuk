@@ -1,0 +1,42 @@
+{
+ "id": "PMK-2022-68",
+ "source": "bpk",
+ "bpk_id": 215539,
+ "url": "https://peraturan.bpk.go.id/Details/215539/pmk-no-68pmk032022",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "68",
+ "number_raw": "68/PMK.03/2022",
+ "year": 2022,
+ "title": "Peraturan Menteri Keuangan Nomor 68/PMK.03/2022 Tahun 2022 tentang Pajak Pertambahan Nilai dan Pajak Penghasilan atas Transaksi Perdagangan Aset Kripto",
+ "about": "Pajak Pertambahan Nilai dan Pajak Penghasilan atas Transaksi Perdagangan Aset Kripto",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "",
+ "date_enacted": "2022-03-30",
+ "date_promulgated": "2022-03-30",
+ "date_effective": "2022-05-01",
+ "gazette": "BN.2022/NO. 368; https:jdih.kemenkeu.go.id :30 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-81",
+   "target_bpk_id": 306614,
+   "label": "PMK No. 81 Tahun 2024",
+   "about": "Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan"
+  }
+ ],
+ "abstract": "Bahwa untuk melaksanakan ketentuan Pasal 44E ayat (2) huruf f UU Nomor 6 Tahun\n1983 tentang Ketentuan Umum dan Tata Cara Perpajakan sebagaimana telah\nbeberapa kali diubah terakhir dengan UU Nomor 7 Tahun 2021 tentang Harmonisasi\nPeraturan Perpajakan, Pasal 22 UU Nomor 7 Tahun 1983 tentang Pajak Penghasilan\nsebagaimana telah beberapa kali diubah terakhir dengan UU Nomor 7 Tahun 2021\ntentang Harmonisasi Peraturan Perpajakan, dan Pasal 16G huruf i UU Nomor 8 Tahun\n1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas\nBarang Mewah sebagaimana telah beberapa kali diubah terakhir dengan UU Nomor 7\nTahun 2021 tentang Harmonisasi Peraturan Perpajakan, perlu menetapkan Peraturan\nMenteri Keuangan tentang Pajak Pertambahan Nilai dan Pajak Penghasilan atas\nTransaksi Perdagangan Aset Kripto.\nPasal 17 ayat (3) UUD Tahun 1945, UU 6 Tahun 1983 (LN Tahun 1983 No. 49, TLN No.\n3262) sebagaimana telah beberapa kali diubah terakhir dengan UU 7 Tahun 2021 (LN\nTahun 2021 No. 246, TLN No. 6736), UU 7 Tahun 1983 (LN Tahun 1983 No. 50, TLN No.\n3263) sebagaimana telah beberapa kali diubah terakhir dengan UU 7 Tahun 2021 (LN\nTahun 2021 No. 246, TLN No. 6736), UU 8 Tahun 1983 (LN Tahun 1983 No. 51, TLN No.\n3264) sebagaimana telah beberapa kali diubah terakhir dengan UU 7 Tahun 2021 (LN\nTahun 2021 No. 246, TLN No. 6736), UU 39 Tahun 2008 (LN Tahun 2008 No. 166, TLN\nNo. 4916), Perpres 57 Tahun 2020 (LN Tahun 2020 No. 98), Permenkeu RI\n118/PMK.01/2021 (BN Tahun 2021 No. 1031).\nDalam Peraturan Menteri Keuangan Republik Indonesia ini diatur:\nAset Kripto adalah komoditi tidak berwujud yang berbentuk aset digital, menggunakan\nkriptografi, jaringan peer-to-peer, dan buku besar yang terdistribusi, untuk mengatur\npenciptaan unit baru, memverifikasi transaksi, dan mengamankan transaksi tanpa\ncampur tangan pihak lain. Atas penyerahan: Barang Kena Pajak tidak berwujud berupa\nAset Kripto oleh Penjual Aset Kripto; Jasa Kena Pajak berupa jasa penyediaan Sarana\nElektronik yang digunakan untuk transaksi perdagangan Aset Kripto, oleh\nPenyelenggara Perdagangan Melalui Sistem Elektronik; dan/atau Jasa Kena Pajak\nberupa jasa verifikasi transaksi Aset Kripto dan/atau jasa manajemen kelompok\nPenambang Aset Kripto (mining pool oleh Penambang Aset Kripto), dikenai Pajak\nPertambahan Nilai. Penyerahan Aset Kripto meliputi penyerahan Aset Kripto oleh\nPenjual Aset Kripto di dalam Daerah Pabean dan/atau kepada Pembeli Aset Kripto di\ndalam Daerah Pabean, melalui Sarana Elektronik yang diselenggarakan oleh\nPenyelenggara Perdagangan Melalui Sistem Elektronik. Penghasilan dari transaksi Aset\nKripto yang diterima atau diperoleh Penyelenggara Perdagangan Melalui Sistem\nElektronik yang bertindak atas nama sendiri yang dilakukan melalui Sarana Elektronik\nyang disediakan oleh Penyelenggara Perdagangan Melalui Sistem Elektronik lain,\ndikenai Pajak Penghasilan.",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 01 Mei 2022.\n32 HLM, Lampiran halaman 31 – 32.",
+ "citations": [
+  "UU-1983-6",
+  "UU-2021-7",
+  "UU-1983-7",
+  "UU-1983-8"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/209822/68_PMK.03_2022.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:34:46Z"
+}

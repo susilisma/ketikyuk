@@ -1,0 +1,47 @@
+{
+ "id": "PERPRES-2022-11",
+ "source": "bpk",
+ "bpk_id": 197003,
+ "url": "https://peraturan.bpk.go.id/Details/197003/perpres-no-11-tahun-2022",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "11",
+ "number_raw": "11",
+ "year": 2022,
+ "title": "Peraturan Presiden (Perpres) Nomor 11 Tahun 2022 tentang Kementerian Perdagangan",
+ "about": "Kementerian Perdagangan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "",
+ "date_enacted": "2022-01-20",
+ "date_promulgated": "2022-01-20",
+ "date_effective": "2022-01-20",
+ "gazette": "LN.2022/No.19, jdih.setneg.go.id : 22 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-168",
+   "target_bpk_id": 306749,
+   "label": "Perpres No. 168 Tahun 2024",
+   "about": "Kementerian Perdagangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2015-48",
+   "target_bpk_id": 41784,
+   "label": "PERPRES No. 48 Tahun 2015",
+   "about": "Kementerian Perdagangan"
+  }
+ ],
+ "abstract": "Sebagai tindak lanjut ditetapkannya Keppres Nomor 113/P Tahun 2019 tentang Pembentukan Kementerian Negara dan pengangkatan Menteri Negara Kabinet Indonesia Maju 2019-2O24 dan untuk melaksanakan ketentuan Pasal 11 UU Nomor 39 Tahun 2008 tentang Kementerian Negara, perlu menetapkan Perpres tentang Kementerian Perdagangan.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 39 Tahun 2008; dan Perpres Nomor 68 Tahun 2019.\nPerpres ini mengatur mengenai: 1) kedudukan, tugas, dan fungsi; 2) organisasi; 3) unit pelaksana teknis; 4) tata kerja; dan pendanaan pada Kementerian Perdagangan. Kementerian Perdagangan mempunyai kedudukan di bawah dan bertanggung jawab kepada presiden yang dipimpin oleh menteri. Kementerian Perdagangan mempunyai tugas menyelenggarakan urusan pemerintahan di bidang perdagangan untuk membantu Presiden dalam menyelenggarakan pemerintahan negara.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 20 Januari 2022.\nPerpres ini mencabut Perpres Nomor 48 Tahun 2015.\nSegala pendanaan yang diperlukan untuk pelaksanaan tugas dan fungsi Kementerian Perdagangan bersumber dari Anggaran Pendapatan dan Belanja Negara.",
+ "citations": [
+  "UU-2008-39",
+  "PERPRES-2019-68"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/190881/Perpres%20Nomor%2011%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:27:54Z"
+}

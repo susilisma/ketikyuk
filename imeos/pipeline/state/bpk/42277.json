@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2008-63",
+ "source": "bpk",
+ "bpk_id": 42277,
+ "url": "https://peraturan.bpk.go.id/Details/42277/perpres-no-63-tahun-2008",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "63",
+ "number_raw": "63",
+ "year": 2008,
+ "title": "Peraturan Presiden (Perpres) Nomor 63 Tahun 2008 tentang Pengesahan International Coffee Agreement 2007 (Persetujuan Kopi Internasional 2007)",
+ "about": "Pengesahan International Coffee Agreement 2007 (Persetujuan Kopi Internasional 2007)",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PENGESAHAN DAN / ATAU PEMBATALAN PERSETUJUAN / KONVENSI / PERJANJIAN INTERNASIONAL",
+ "field": "",
+ "date_enacted": "2008-10-19",
+ "date_promulgated": "2008-10-19",
+ "date_effective": "2008-10-19",
+ "gazette": "LN. 2008/No. 152, LLSETKAB : 3 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2026-30",
+   "target_bpk_id": 349428,
+   "label": "Perpres No. 30 Tahun 2026",
+   "about": "Pengesahan International Coffee Agreement 2022 (Persetujuan Kopi Internasional 2022)"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 56653,
+   "label": "KEPPRES No. 32 Tahun 2002",
+   "about": "Pengesahan International Coffee Agreement, 2001 (Perjanjian Kopi Internasional, 2001)"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 19 Oktober 2008.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/70724/PERPRES%20NO%2063%20TH%202008.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:31:24Z"
+}

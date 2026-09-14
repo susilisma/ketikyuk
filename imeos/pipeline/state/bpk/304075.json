@@ -1,0 +1,41 @@
+{
+ "id": "PERPRES-2024-118",
+ "source": "bpk",
+ "bpk_id": 304075,
+ "url": "https://peraturan.bpk.go.id/Details/304075/perpres-no-118-tahun-2024",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "118",
+ "number_raw": "118",
+ "year": 2024,
+ "title": "Peraturan Presiden (Perpres) Nomor 118 Tahun 2024 tentang Tunjangan Kinerja Pegawai di Lingkungan Badan Nasional Pencarian dan Pertolongan",
+ "about": "Tunjangan Kinerja Pegawai di Lingkungan Badan Nasional Pencarian dan Pertolongan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA - KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-10-11",
+ "date_promulgated": "2024-10-11",
+ "date_effective": "2024-10-11",
+ "gazette": "LN 2024 (219) : 6 hlm., jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2015-165",
+   "target_bpk_id": 41924,
+   "label": "PERPRES No. 165 Tahun 2015",
+   "about": "Tunjangan Kinerja Pegawai di Lingkungan Badan SAR Nasional"
+  }
+ ],
+ "abstract": "Peraturan Presiden Nomor 165 Tahun 2015 tentang Tunjangan Kinerja Pegawai di Lingkungan Badan SAR Nasional sudah tidak sesuai dengan perkembangan capaian hasil pelaksanaan reformasi birokrasi sehingga perlu diganti.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD NRI Tahun 1945; UU Nomor 20 Tahun 2023; dan Perpres Nomor 83 Tahun 2016.\nPeraturan ini mengatur mengenai pemberian Tunjangan Kinerja Pegawai di Lingkungan Badan Nasional Pencarian dan Pertolongan dengan mempertimbangkan capaian kinerja pegawai sesuai dengan ketentuan peraturan perundang-undangan.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 11 Oktober 2024.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 165 Tahun 2015 tentang Tunjangan Kinerja Pegawai di Lingkungan Badan SAR Nasional (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 391), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 7 hlm (batang tubuh hlm 1 sd 6, lampiran hlm 7)",
+ "citations": [
+  "PERPRES-2015-165",
+  "UU-2023-20",
+  "PERPRES-2016-83"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/364080/Perpres%20Nomor%20118%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:29:29Z"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "PERMENDAG-2020-99",
+ "source": "bpk",
+ "bpk_id": 160461,
+ "url": "https://peraturan.bpk.go.id/Details/160461/permendag-no-99-tahun-2020",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "99",
+ "number_raw": "99",
+ "year": 2020,
+ "title": "Peraturan Menteri Perdagangan Nomor 99 Tahun 2020 tentang Pelimpahan Kewenangan Mandat dan Delegasi Dalam Pelaksanakan Administrasi Kepegawaian di Lingkungan Kementerian Perdagangan",
+ "about": "Pelimpahan Kewenangan Mandat dan Delegasi Dalam Pelaksanakan Administrasi Kepegawaian di Lingkungan Kementerian Perdagangan",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA - PELIMPAHAN KEWENANGAN / PENUGASAN PEJABAT NEGARA / PENUGASAN BUMN",
+ "field": "",
+ "date_enacted": "2020-12-21",
+ "date_promulgated": "2020-12-23",
+ "date_effective": "2020-12-23",
+ "gazette": "BN.2020/No.1597, http://jdih.kemendag.go.id : 7 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2026-3",
+   "target_bpk_id": 347104,
+   "label": "Permendag No. 3 Tahun 2026",
+   "about": "Pelimpahan Kewenangan Melalui Mandat dan Delegasi dalam Pelaksanaan Administrasi Kepegawaian pada Kementerian Perdagangan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 23 Desember 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/153053/Permendag%20Nomor%2099%20Tahun%202020.PDF"
+ ],
+ "fetched_at": "2026-09-14T06:36:15Z"
+}

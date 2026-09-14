@@ -1,0 +1,37 @@
+{
+ "id": "PERPRES-2018-17",
+ "source": "bpk",
+ "bpk_id": 77911,
+ "url": "https://peraturan.bpk.go.id/Details/77911/perpres-no-17-tahun-2018",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "17",
+ "number_raw": "17",
+ "year": 2018,
+ "title": "Peraturan Presiden (Perpres) Nomor 17 Tahun 2018 tentang Penyelenggaraan Penanggulangan Bencana Dalam Keadaan Tertentu",
+ "about": "Penyelenggaraan Penanggulangan Bencana Dalam Keadaan Tertentu",
+ "issuer": "Pemerintah Pusat",
+ "subject": "BANTUAN, SUMBANGAN, BENCANA / KEBENCANAAN, DAN PENANGGULANGAN BENCANA",
+ "field": "",
+ "date_enacted": "2018-03-19",
+ "date_promulgated": "2018-03-22",
+ "date_effective": "2018-03-22",
+ "gazette": "LN.2018/NO.34, LL SETKAB : 6 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2026-46",
+   "target_bpk_id": 354148,
+   "label": "Perpres No. 46 Tahun 2026",
+   "about": "Perubahan atas Peraturan Presiden Nomor 17 Tahun 2018 tentang Penyelenggaraan Penanggulangan Bencana dalam Keadaan Tertentu"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 22 Maret 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/69315/Perpres%20Nomor%2017%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:31:13Z"
+}

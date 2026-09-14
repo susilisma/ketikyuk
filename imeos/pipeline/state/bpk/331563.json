@@ -1,0 +1,40 @@
+{
+ "id": "PERPRES-2025-90",
+ "source": "bpk",
+ "bpk_id": 331563,
+ "url": "https://peraturan.bpk.go.id/Details/331563/perpres-no-90-tahun-2025",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "90",
+ "number_raw": "90",
+ "year": 2025,
+ "title": "Peraturan Presiden (Perpres) Nomor 90 Tahun 2025 tentang Perubahan atas Peraturan Presiden Nomor 140 Tahun 2024 tentang Organisasi Kementerian Negara",
+ "about": "Perubahan atas Peraturan Presiden Nomor 140 Tahun 2024 tentang Organisasi Kementerian Negara",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-09-08",
+ "date_promulgated": "2025-09-08",
+ "date_effective": "2025-09-08",
+ "gazette": "LN 2025 (141) : 6 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2024-140",
+   "target_bpk_id": 305099,
+   "label": "Perpres No. 140 Tahun 2024",
+   "about": "Organisasi Kementerian Negara"
+  }
+ ],
+ "abstract": "Dalam pembentukan Kementerian Haji dan Umrah perlu menambah Kementerian Haji dan Umrah dalam susunan organisasi kementerian sebagaimana diatur dalam Peraturan Presiden Nomor 140 Tahun 2024 tentang Organisasi Kementerian Negara.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) dan Pasal 17 UUD NRI Tahun 1945; UU Nomor 39 Tahun 2008; dan Perpres Nomor 140 Tahun 2024.\nPerpres ini mengubah beberapa ketentuan dalam Peraturan Presiden Nomor 140 Tahun 2024 tentang Organisasi Kementerian Negara (Lembaran Negara Republik Indonesia Tahun 2024 Nomor 250).",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 08 September 2025.\nPerpres ini mengubah Perpres Nomor 140 Tahun 2024.\nLampiran file: 6 hlm.",
+ "citations": [
+  "PERPRES-2024-140",
+  "UU-2008-39"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/393597/Perpres%20Nomor%2090%20tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:46Z"
+}

@@ -1,0 +1,51 @@
+{
+ "id": "PERMENAKER-2021-11",
+ "source": "bpk",
+ "bpk_id": 195979,
+ "url": "https://peraturan.bpk.go.id/Details/195979/permenaker-no-11-tahun-2021",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "11",
+ "number_raw": "11",
+ "year": 2021,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 11 Tahun 2021 tentang Indikator Kinerja Utama Kementerian Ketenagakerjaan Tahun 2020-2024",
+ "about": "Indikator Kinerja Utama Kementerian Ketenagakerjaan Tahun 2020-2024",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA - PROGRAM, RENCANA PEMBANGUNAN DAN RENCANA KERJA",
+ "field": "",
+ "date_enacted": "2021-07-09",
+ "date_promulgated": "2021-07-09",
+ "date_effective": "2021-07-09",
+ "gazette": "BN.2021/No.795, jdih.kemnaker.go.id : 7 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENAKER-2026-4",
+   "target_bpk_id": 347420,
+   "label": "Permenaker No. 4 Tahun 2026",
+   "about": "Indikator Kinerja Kementerian Ketenagakerjaan Tahun 2025-2029"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENAKER-2022-9",
+   "target_bpk_id": 231401,
+   "label": "Permenaker No. 9 Tahun 2022",
+   "about": "Perubahan atas Peraturan Menteri Ketenagakerjaan Nomor 11 Tahun 2021 tentang Indikator Kinerja Utama Kementerian Ketenagakerjaan Tahun 2020-2024"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENAKER-2020-16",
+   "target_bpk_id": 163391,
+   "label": "Permenaker No. 16 Tahun 2020",
+   "about": "Indikator Kinerja Utama Kementerian Ketenagakerjaan Tahun 2020-2024"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 09 Juli 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/189818/Permenaker%20Nomor%2011%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:40:54Z"
+}

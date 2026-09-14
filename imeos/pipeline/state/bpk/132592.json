@@ -1,0 +1,48 @@
+{
+ "id": "PERPRES-2020-33",
+ "source": "bpk",
+ "bpk_id": 132592,
+ "url": "https://peraturan.bpk.go.id/Details/132592/perpres-no-33-tahun-2020",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "33",
+ "number_raw": "33",
+ "year": 2020,
+ "title": "Peraturan Presiden (Perpres) Nomor 33 Tahun 2020 tentang Standar Harga Satuan Regional",
+ "about": "Standar Harga Satuan Regional",
+ "issuer": "Pemerintah Pusat",
+ "subject": "APBD - PENGELOLAAN KEUANGAN NEGARA / DAERAH",
+ "field": "",
+ "date_enacted": "2020-02-20",
+ "date_promulgated": "2020-02-24",
+ "date_effective": "2020-02-24",
+ "gazette": "LN.2020/NO.57, JDIH.SETKAB.GO.ID : 5 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2025-72",
+   "target_bpk_id": 321610,
+   "label": "Perpres No. 72 Tahun 2025",
+   "about": "Standar Harga Satuan Regional"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2023-53",
+   "target_bpk_id": 263640,
+   "label": "PERPRES No. 53 Tahun 2023",
+   "about": "Perubahan atas Peraturan Presiden Nomor 33 Tahun 2020 tentang Standar Harga Satuan Regional"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 51 ayat (3) Peraturan Pemerintah Nomor 12 Tahun 2019 tentang Pengelolaan Keuangan Daerah, perlu menetapkan Peraturan Presiden tentang Standar Harga Satuan Regional.\nDasar hukum peraturan presiden ini adalah Pasal 4 ayat (1) UUD 1945 dan PP Nomor 12 Tahun 2019 tentang Pengelolaan Keuangan Daerah.\nPeraturan presiden (perpres) ini menetapkan standar harga satuan regional yang meliputi satuan biaya : honorarium, perjalanan dinas dalam negeri, rapat/pertemuan di dalam dan di luar kantor, pengadaan kendaraan dinas, dan biaya pemeliharaan.\nStandar harga satuan regional digunakan dalam perencanaan dan pelaksanaan APBD. Dalam perencanaan anggaran, standar harga satuan regional berfungsi sebagai: batas tertinggi yang besarannya tidak dapat dilampaui dalam penyusunan RKA SKPD, referensi penyusunan proyeksi prakiraan maju, dan bahan penghitungan pagu indikatif APBD. Sedangkan dalam pelaksanaan anggaran, standar harga satuan regional berfungsi sebagai : batas tertinggi yang besarannya tidak dapat dilampaui dalam pelaksanaan anggaran dan estimasi merupakan prakiraan besaran biaya tertinggi yang dapat dilampaui karena kondisi tertentu, termasuk karena adanya kenaikan harga pasar.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 24 Februari 2020.",
+ "citations": [
+  "PP-2019-12"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/123375/Perpres%20Nomor%2033%20Tahun%202020.pdf",
+  "https://peraturan.bpk.go.id/Download/123376/Perpres%20Nomor%2033%20Tahun%202020%20-%20Lampiran%20I.pdf",
+  "https://peraturan.bpk.go.id/Download/123377/Perpres%20Nomor%2033%20Tahun%202020%20-%20Lampiran%20II.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:33:13Z"
+}

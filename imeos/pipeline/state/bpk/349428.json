@@ -1,0 +1,41 @@
+{
+ "id": "PERPRES-2026-30",
+ "source": "bpk",
+ "bpk_id": 349428,
+ "url": "https://peraturan.bpk.go.id/Details/349428/perpres-no-30-tahun-2026",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "30",
+ "number_raw": "30",
+ "year": 2026,
+ "title": "Peraturan Presiden (Perpres) Nomor 30 Tahun 2026 tentang Pengesahan International Coffee Agreement 2022 (Persetujuan Kopi Internasional 2022)",
+ "about": "Pengesahan International Coffee Agreement 2022 (Persetujuan Kopi Internasional 2022)",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KEHUTANAN DAN PERKEBUNAN - PENGESAHAN DAN / ATAU PEMBATALAN PERSETUJUAN / KONVENSI / PERJANJIAN INTERNASIONAL",
+ "field": "HUKUM INTERNASIONAL",
+ "date_enacted": "2026-05-12",
+ "date_promulgated": "2026-05-12",
+ "date_effective": "2026-05-12",
+ "gazette": "LN 2026 (55) : 3 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2008-63",
+   "target_bpk_id": 42277,
+   "label": "PERPRES No. 63 Tahun 2008",
+   "about": "Pengesahan International Coffee Agreement 2007 (Persetujuan Kopi Internasional 2007)"
+  }
+ ],
+ "abstract": "Untuk melaksanakan International Coffee Agreement, perlu mengesahkan International Coffee Agreement 2022.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD 1945 dan UU No. 24 Tahun 2000.\nPerpres ini mengatur mengenai pengesahan International Coffee Agreement 2022 (Persetujuan Kopi Internasional 2022) yang telah ditandatangani oleh Pemerintah Republik Indonesia pada tanggal 8 Maret 2023 di London, Inggris.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 12 Mei 2026.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 63 Tahun 2008 tentang Pengesahan International Coffee Agreement 2007 (Persetujuan Kopi Internasional 2007) (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 152), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 3 berkas.",
+ "citations": [
+  "UU-2000-24"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/413117/Perpres%20No.%2030%20Tahun%202026.pdf",
+  "https://peraturan.bpk.go.id/Download/413118/Perpres%20No.%2030%20Tahun%202026%20-%20Naskah%20Resmi.pdf",
+  "https://peraturan.bpk.go.id/Download/413119/Perpres%20No.%2030%20Tahun%202026%20-%20Naskah%20Terjemahan.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:31:23Z"
+}

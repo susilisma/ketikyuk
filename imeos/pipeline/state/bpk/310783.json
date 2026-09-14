@@ -1,0 +1,39 @@
+{
+ "id": "PERPRES-2024-202",
+ "source": "bpk",
+ "bpk_id": 310783,
+ "url": "https://peraturan.bpk.go.id/Details/310783/perpres-no-202-tahun-2024",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "202",
+ "number_raw": "202",
+ "year": 2024,
+ "title": "Peraturan Presiden (Perpres) Nomor 202 Tahun 2024 tentang Dewan Pertahanan Nasional",
+ "about": "Dewan Pertahanan Nasional",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "HUKUM TATA NEGARA",
+ "date_enacted": "2024-12-14",
+ "date_promulgated": "2024-12-14",
+ "date_effective": "2024-12-14",
+ "gazette": "LN 2024 (400) : 14 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 58508,
+   "label": "KEPPRES No. 101 Tahun 1999",
+   "about": "Dewan Ketahanan Nasional dan Sekretariat Jenderal Dewan Ketahanan Nasional"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 15 ayat (8) Undang-Undang Nomor 3 Tahun 2002 tentang Pertahanan Negara, perlu menetapkan Peraturan Presiden tentang Dewan Pertahanan Nasional.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD 1945 dan UU Nomor 3 Tahun 2002.\nPerpres ini mengatur mengenai Dewan Pertahanan Nasional (DPN) yang merupakan lembaga non struktural yang dipimpin oleh Presiden. DPN mempunyai tugas melaksanakan pemberian pertimbangan dan perumusan solusi kebijakan dalam rangka penetapan kebijakan di bidang pertahanan nasional yang bersifat strategis mencakup kedaulatan negara, keutuhan wilayah, dan keselamatan bangsa. Susunan organisasi DPN terdiri atas: Ketua DPN, anggota tetap, dan anggota tidak tetap.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 14 Desember 2024.\nPada saat Peraturan Presiden ini mulai berlaku, Keputusan Presiden Nomor 101 Tahun 1999 tentang Dewan Ketahanan Nasional dan Sekretariat Jenderal Dewan Ketahanan Nasional, dicabut dan dinyatakan tidak berlaku.\nPendanaan yang diperlukan untuk pelaksanaan tugas dan fungsi DPN bersumber dari Anggaran Pendapatan dan Belanja Negara yang ditempatkan pada anggaran Kementerian Pertahanan dan dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.\nLampiran file: 14 hlm.",
+ "citations": [
+  "UU-2002-3"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/371455/Perpres%20Nomor%20202%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:31Z"
+}

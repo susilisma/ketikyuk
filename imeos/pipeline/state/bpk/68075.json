@@ -1,0 +1,37 @@
+{
+ "id": "PP-1973-7",
+ "source": "bpk",
+ "bpk_id": 68075,
+ "url": "https://peraturan.bpk.go.id/Details/68075/pp-no-7-tahun-1973",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "7",
+ "number_raw": "7",
+ "year": 1973,
+ "title": "Peraturan Pemerintah (PP) Nomor 7 Tahun 1973 tentang Pengawasan Atas Peredaran, Penyimpanan Dan Penggunaan Pestisida",
+ "about": "Pengawasan Atas Peredaran, Penyimpanan Dan Penggunaan Pestisida",
+ "issuer": "Pemerintah Pusat",
+ "subject": "LINGKUNGAN HIDUP - PANGAN, PERTANIAN DAN PETERNAKAN",
+ "field": "",
+ "date_enacted": "1973-03-17",
+ "date_promulgated": "1973-03-17",
+ "date_effective": "1973-03-17",
+ "gazette": "LN. 1973/ , LL Setkab : 6 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2026-7",
+   "target_bpk_id": 347926,
+   "label": "PP No. 7 Tahun 2026",
+   "about": "Peraturan Pelaksanaan Undang-Undang Nomor 22 Tahun 2019 tentang Sistem Budi Daya Pertanian Berkelanjutan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 17 Maret 1973.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/58444/PP%20NO%207%20TH%201973.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:28:33Z"
+}

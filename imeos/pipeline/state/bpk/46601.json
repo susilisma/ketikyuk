@@ -1,0 +1,44 @@
+{
+ "id": "UU-1992-9",
+ "source": "bpk",
+ "bpk_id": 46601,
+ "url": "https://peraturan.bpk.go.id/Details/46601/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "9",
+ "number_raw": "9",
+ "year": 1992,
+ "title": "Undang-undang (UU) Nomor 9 Tahun 1992 tentang",
+ "about": "",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KEWARGANEGARAAN DAN IMIGRASI",
+ "field": "",
+ "date_enacted": "1992-03-31",
+ "date_promulgated": "1992-03-31",
+ "date_effective": "1992-03-31",
+ "gazette": "LN. 1992, LL SETNEG : 29 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2011-6",
+   "target_bpk_id": 39140,
+   "label": "UU No. 6 Tahun 2011",
+   "about": "Keimigrasian"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2009-37",
+   "target_bpk_id": 38780,
+   "label": "UU No. 37 Tahun 2009",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 3 tahun 2009 tentang Perubahan Atas Undang-Undang Nomor 9 tahun 1992 tentang Keimigrasian menjadi Undang-Undang"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 31 Maret 1992.\nPada saat mulai berlakunya Undang-undang ini:\na. Toelatingstesluit (Staatsblad 1916 Nomor 47) sebagaimana telah diubah dan ditambah terakhir dengan Staatsblad 1949 Nomor 330 serta Toelatingsordonnantie (Staatsblad 1949 Nomor 331);\nb. Undang-undang Nomor 42 Drt. Tahun 1950 tentang Bea Imigrasi (Lembaran Negara Tahun 1950 Nomor 84, Tambahan Lembaran Negara Nomor 77);\nc. Undang-undang Nomor 9 Drt. Tahun 1953 tentang Pengawasan Orang Asing (Lembaran Negara Tahun 1953 Nomor 64, Tambahan Lembaran Negara Nomor 463);\nd. Undang-undang Nomor 8 Drt. Tahun 1955 tentang Tindak Pidana Imigrasi (Lembaran Negara Tahun 1955 Nomor 28, Tambahan Lembaran Negara Nomor 807);\ne. Undang-undang Nomor 9 Drt. Tahun 1955 tentang Kependudukan Orang Asing (Lembaran Negara Tahun 1955 Nomor 33, Tambahan Lembaran Negara Nomor 812); dan\nf. Undang-undang Nomor 14 Drt. Tahun 1959 tentang Surat Perjalanan Republik Indonesia (Lembaran Negara Tahun 1959 Nomor 56, Tambahan Lembaran Negara Nomor 1799);",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/35319/UU%20Nomor%209%20Tahun%201992.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:17Z"
+}

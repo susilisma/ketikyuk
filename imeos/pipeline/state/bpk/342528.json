@@ -1,0 +1,43 @@
+{
+ "id": "PMK-2025-115",
+ "source": "bpk",
+ "bpk_id": 342528,
+ "url": "https://peraturan.bpk.go.id/Details/342528/pmk-no-115-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "115",
+ "number_raw": "115",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 115 Tahun 2025 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 179/PMK.02/2022 tentang Pengelolaan Penerimaan Negara Bukan Pajak dari Kekayaan Negara Dipisahkan oleh Bendahara Umum Negara",
+ "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 179/PMK.02/2022 tentang Pengelolaan Penerimaan Negara Bukan Pajak dari Kekayaan Negara Dipisahkan oleh Bendahara Umum Negara",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-12-30",
+ "date_promulgated": "2025-12-30",
+ "date_effective": "2025-12-30",
+ "gazette": "BN 2025 (1149); 4 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PMK-2022-179",
+   "target_bpk_id": 232903,
+   "label": "PMK No. 179/PMK.02/2022",
+   "about": "Pengelolaan Penerimaan Negara Bukan Pajak dari Kekayaan Negara Dipisahkan oleh Bendahara Umum Negara"
+  }
+ ],
+ "abstract": "a. bahwa untuk memberikan fleksibilitas terkait\npengelolaan Penerimaan Negara Bukan Pajak dari\nkekayaan negara dipisahkan yang berasal dari sisa\nsurplus Bank Indonesia, perlu dilakukan penyesuaian\nketentuan pengaturan dalam Peraturan Menteri\nKeuangan Nomor 179/PMK.02/2022 tentang\nPengelolaan Penerimaan Negara Bukan Pajak dari\nKekayaan Negara Dipisahkan oleh Bendahara Umum\nNegara;\nb. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a, perlu menetapkan Peraturan\nMenteri Keuangan tentang Perubahan atas Peraturan\nMenteri Keuangan Nomor 179/PMK.02/2022 tentang\nPengelolaan Penerimaan Negara Bukan Pajak dari\nKekayaan Negara Dipisahkan oleh Bendahara Umum\nNegara;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 44 Tahun 2025, Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Menteri Keuangan Nomor 179/PMK.02/2022, Peraturan Menteri Keuangan Nomor 58 Tahun 2023 dan Peraturan Menteri Keuangan Nomor 58 Tahun 2023\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri Keuangan\nNomor 179/PMK.02/2022 tentang Pengelolaan Penerimaan\nNegara Bukan Pajak dari Kekayaan Negara Dipisahkan oleh\nBendahara Umum Negara yaitu tentang Tambahan Setoran Dividen, Dividen Interim, dan\nSisa Surplus BI",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 30 Desember 2025.\nPeraturan Menteri Keuangan\nNomor 179/PMK.02/2022 tentang Pengelolaan Penerimaan\nNegara Bukan Pajak dari Kekayaan Negara Dipisahkan oleh\nBendahara Umum Negara diubah sebagian.",
+ "citations": [
+  "UU-2008-39",
+  "PP-2025-44",
+  "PERPRES-2024-158",
+  "PMK-2022-179",
+  "PMK-2023-58"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/405681/2025pmkeuangan115.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:31:40Z"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "PERPRES-2018-27",
+ "source": "bpk",
+ "bpk_id": 73940,
+ "url": "https://peraturan.bpk.go.id/Details/73940/perpres-no-27-tahun-2018",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "27",
+ "number_raw": "27",
+ "year": 2018,
+ "title": "Peraturan Presiden (Perpres) Nomor 27 Tahun 2018 tentang Institut Agama Islam Negeri Kudus",
+ "about": "Institut Agama Islam Negeri Kudus",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PENDIDIKAN",
+ "field": "",
+ "date_enacted": "2018-04-05",
+ "date_promulgated": "2018-04-07",
+ "date_effective": "2018-04-07",
+ "gazette": "LN.2018/NO.50, LL SETKAB : 4 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2025-53",
+   "target_bpk_id": 320227,
+   "label": "Perpres No. 53 Tahun 2025",
+   "about": "Universitas Islam Negeri Sunan Kudus"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 07 April 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/64427/Perpres%20Nomor%2027%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:01Z"
+}

@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2018-117",
+ "source": "bpk",
+ "bpk_id": 99136,
+ "url": "https://peraturan.bpk.go.id/Details/99136/perpres-no-117-tahun-2018",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "117",
+ "number_raw": "117",
+ "year": 2018,
+ "title": "Peraturan Presiden (Perpres) Nomor 117 Tahun 2018 tentang Tunjangan Kinerja Pegawai di Lingkungan Badan Intelijen Negara",
+ "about": "Tunjangan Kinerja Pegawai di Lingkungan Badan Intelijen Negara",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA",
+ "field": "",
+ "date_enacted": "2018-11-14",
+ "date_promulgated": "2018-11-16",
+ "date_effective": "2018-11-16",
+ "gazette": "LN.2018/NO.211, LL SETKAB : 8 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-203",
+   "target_bpk_id": 310473,
+   "label": "Perpres No. 203 Tahun 2024",
+   "about": "Tunjangan Kinerja Pegawai di Lingkungan Badan Intelijen Negara"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2015-170",
+   "target_bpk_id": 41929,
+   "label": "PERPRES No. 170 Tahun 2015",
+   "about": "Tunjangan Kinerja Pegawai di Lingkungan Badan Intelijen Negara"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 16 November 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/89806/Perpres%20Nomor%20117%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:30Z"
+}

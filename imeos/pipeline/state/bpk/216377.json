@@ -1,0 +1,48 @@
+{
+ "id": "PMK-2022-109",
+ "source": "bpk",
+ "bpk_id": 216377,
+ "url": "https://peraturan.bpk.go.id/Details/216377/x",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "109",
+ "number_raw": "109/PMK.010/2022",
+ "year": 2022,
+ "title": "Peraturan Menteri Keuangan Nomor 109/PMK.010/2022 Tahun 2022 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 192/PMK.010/2021 tentang Tarif Cukai Hasil Tembakau Berupa Sigaret, Cerutu, Rokok Daun atau Klobot, dan Tembakau Iris",
+ "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 192/PMK.010/2021 tentang Tarif Cukai Hasil Tembakau Berupa Sigaret, Cerutu, Rokok Daun atau Klobot, dan Tembakau Iris",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN",
+ "field": "",
+ "date_enacted": "2022-07-04",
+ "date_promulgated": "2022-07-04",
+ "date_effective": "2022-07-04",
+ "gazette": "BN.2022/NO. 648; https:jdih.kemenkeu.go.id : 6 Hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2022-191",
+   "target_bpk_id": 234018,
+   "label": "PMK No. 191/PMK.010/2022",
+   "about": "Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 192/PMK.010/2021 tentang Tarif Cukai Hasil Tembakau Berupa Sigaret, Cerutu, Rokok Daun atau Klobot, dan Tembakau Iris"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PMK-2021-192",
+   "target_bpk_id": 197499,
+   "label": "PMK No. 192/PMK.010/2021",
+   "about": "Tarif Cukai Hasil Tembakau Berupa Sigaret, Cerutu, Rokok Daun atau Klobot, dan Tembakau Iris"
+  }
+ ],
+ "abstract": "Bahwa beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor\n192/PMK.010/2021 tentang Tarif Cukai Hasil Tembakau Berupa Sigaret, Cerutu, Rokok\nDaun atau Klobot, dan Tembakau Iris perlu diubah dan disempurnakan dengan\nperkembangan dan kebutuhan hukum di bidang tarif cukai hasil tembakau dan untuk\nmelaksanakan ketentuan Pasal 5 ayat (5) dan Pasal 6 ayat (3) Undang-Undang Nomor\n39 Tahun 2007 tentang Perubahan atas Undang-Undang Nomor 11 Tahun 1995\ntentang Cukai, perlu menetapkan Peraturan Menteri Keuangan tentang Perubahan\natas Peraturan Menteri Keuangan Nomor 192/PMK.010/2021 tentang Tarif Cukai Hasil\nTembakau Berupa Sigaret, Cerutu, Rokok Daun atau Klobot, dan Tembakau Iris.\nPasal 17 ayat (3) UUD Tahun 1945, UU 11 Tahun 1995 (LN Tahun 1995 No. 76, TLN No.\n3613) sebagaimana telah diubah dengan UU 39 Tahun 2007 (LN Tahun 2007 No. 105,\nTLN No. 4755), UU 39 Tahun 2008 (LN Tahun 2008 No. 166, TLN No. 4916), Perpres 57\nTahun 2020 (LN Tahun 2020 No. 98), Permenkeu RI 118/PMK.01/2021 (BN Tahun 2021\nNo. 1031), Permenkeu RI 192/PMK.010/2021 (BN Tahun 2021 No. 1385).\nDalam Peraturan Menteri Keuangan Republik Indonesia ini diatur:\nKetentuan dalam Lampiran I, Lampiran II, dan Lampiran III Peraturan Menteri\nKeuangan Nomor 192/PMK.010/2021 tentang Tarif Cukai Hasil Tembakau Berupa\nSigaret, Cerutu, Rokok Daun atau Klobot, dan Tembakau Iris (Berita Negara Republik\nIndonesia Tahun 2021 Nomor 1385) diubah, sehingga menjadi sebagaimana tercantum\ndalam Lampiran I, Lampiran II, dan Lampiran III yang merupakan bagian tidak\nterpisahkan dari Peraturan Menteri ini. Ketentuan mengenai batasan Jumlah Produksi\ntercantum Lampiran I, batasan Harga Jual Eceran per Batang atau Gram dan tarif cukai\nper batang atau gram Hasil Tembakau buatan dalam negeri tercantum dalam Lampiran\nII, danTarif cukai per batang atau gram dan batasan Harga Jual Eceran terendah per\nbatang atau gram untuk setiap jenis Hasil Tembakau yang diimpor tercantum dalam\nLampiran III, yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini,\nmulai berlaku pada tanggal 4 Juli 2022.",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 04 Juli 2022.\n11 HLM, Lampiran halaman 7 - 11.",
+ "citations": [
+  "PMK-2021-192",
+  "UU-2007-39",
+  "UU-1995-11"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/210682/109_PMK.010_2022.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:41Z"
+}

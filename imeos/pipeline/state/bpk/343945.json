@@ -1,0 +1,42 @@
+{
+ "id": "POJK-2025-24",
+ "source": "bpk",
+ "bpk_id": 343945,
+ "url": "https://peraturan.bpk.go.id/Details/343945/peraturan-ojk-no-24-tahun-2025",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "24",
+ "number_raw": "24",
+ "year": 2025,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 24 Tahun 2025 tentang Pengelolaan Rekening pada Bank Umum",
+ "about": "Pengelolaan Rekening pada Bank Umum",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-11-04",
+ "date_promulgated": null,
+ "date_effective": null,
+ "gazette": "jdih ojk/302 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 227321,
+   "label": "Peraturan OJK No. 1/POJK.03/2022 Tahun 2022",
+   "about": "Layanan Keuangan Tanpa Kantor Dalam Rangka Keuangan Inklusif"
+  }
+ ],
+ "abstract": "a. bahwa dengan berlakunya Undang-Undang Nomor 4 Tahun 2023 tentang Pengembangan dan Penguatan Sektor Keuangan telah memperkuat kewenangan Otoritas Jasa Keuangan dalam melakukan pengaturan dan pengawasan atas kegiatan usaha bank termasuk pengelolaan rekening;\nb. bahwa pengelolaan rekening harus dilakukan dengan\nmemperhatikan tata kelola yang baik untuk\nmemastikan pelindungan bagi semua nasabah dan mencegah praktik penipuan atau penyalahgunaan sehingga diperlukan suatu standardisasi atas pengelolaan rekening;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu\nmenetapkan Peraturan Otoritas Jasa Keuangan tentang\nPengelolaan Rekening pada Bank Umum;\nUndang-Undang Nomor 7 Tahun 1992, Undang-Undang Nomor 21 Tahun 2008, Undang-Undang Nomor 21 Tahun 2011 dan Undang-Undang Nomor 4 Tahun 2023\nPeraturan ini mengatur tentang ketentuan umum, kebijakan dan prosedur penatausahaan rekening giro dan tabungan, kewajiban nasabah, pengelolaan rekening giro dan tabungan dengan klasifikasi rekening tidak aktif, pengelolaan rekening giro dan tabungan dengan klasifikasi rekening dormant, pengawasan rekening tidak aktif dan rekening dormant, sanksi administratif, ketentuan lain-lain, ketentuan peralihan dan ketentuan penutup.",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal .\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan Otoritas Jasa Keuangan ini mulai berlaku, ketentuan Pasal 6 ayat (6) Peraturan Otoritas Jasa Keuangan Nomor 1/POJK.03/2022 tentang Layanan Keuangan tanpa Kantor dalam rangka Keuangan Inklusif",
+ "citations": [
+  "UU-2023-4",
+  "UU-1992-7",
+  "UU-2008-21",
+  "UU-2011-21"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/407184/POJK%2024%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:43:26Z"
+}

@@ -1,0 +1,62 @@
+{
+ "id": "UU-2025-1",
+ "source": "bpk",
+ "bpk_id": 314622,
+ "url": "https://peraturan.bpk.go.id/Details/314622/uu-no-1-tahun-2025",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "1",
+ "number_raw": "1",
+ "year": 2025,
+ "title": "Undang-undang (UU) Nomor 1 Tahun 2025 tentang Perubahan Ketiga atas Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara",
+ "about": "Perubahan Ketiga atas Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara",
+ "issuer": "Pemerintah Pusat",
+ "subject": "BUMN - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-02-24",
+ "date_promulgated": "2025-02-24",
+ "date_effective": "2025-02-24",
+ "gazette": "LN 2025 (25), TLN (7097) : 94 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2025-16",
+   "target_bpk_id": 330668,
+   "label": "UU No. 16 Tahun 2025",
+   "about": "Perubahan Keempat atas Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2003-19",
+   "target_bpk_id": 43919,
+   "label": "UU No. 19 Tahun 2003",
+   "about": "Badan Usaha Milik Negara"
+  }
+ ],
+ "abstract": "Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang, perlu dilakukan penyesuaian materi muatan terhadap perkembangan penyelenggaraan Badan Usaha Milik Negara yang efektif dan berdaya saing serta memenuhi kebutuhan hukum dan partisipasi masyarakat, sehingga perlu diubah.\nDasar hukum UU ini adalah Pasal 20, Pasal 21, dan Pasal 33 UUD NRI Tahun 1945; Tap MPR RI Nomor XVI/MPR/1998; dan UU Nomor 19 Tahun 2003.\nUU ini mengubah beberapa ketentuan dalam UU Nomor 19 Tahun 2003. Penyelenggaraan BUMN berasaskan demokrasi ekonomi yang meliputi prinsip: kebersamaan; efisiensi berkeadilan; berkelanjutan; berwawasan lingkungan; menjaga keseimbangan, kemajuan, dan kesatuan ekonomi nasional; dan tata kelola perusahaan yang baik. Presiden selaku Kepala Pemerintahan memegang kekuasaan pengelolaan BUMN sebagai bagian dari kekuasaan pemerintahan negara dalam bidang pengelolaan keuangan negara. Kekuasaan Presiden dimaksud termasuk kepemilikan kekayaan negara yang dipisahkan pada BUMN. Pasal 3E UU ini menyatakan bahwa dalam melaksanakan pengelolaan BUMN, Presiden melimpahkan sebagian kewenangannya kepada Badan Pengelola Investasi Daya Anagata Nusantara (selanjutnya disebut Badan) yang dibentuk dengan Undang-Undang ini. Badan dimaksud merupakan badan hukum Indonesia yang sepenuhnya dimiliki oleh Pemerintah Indonesia yang dibentuk dengan tujuan untuk meningkatkan dan mengoptimalkan investasi dan operasional BUMN dan sumber dana lain. Selanjutnya Pasal 3G menyatakan bahwa Modal Badan bersumber dari penyertaan modal negara dan/atau sumber lain.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 24 Februari 2025.\nUU ini mengubah UU Nomor 19 Tahun 2003 sebagaimana telah diubah beberapa kali terakhir dengan UU Nomor 6 Tahun 2023.\nPasal 94A UU ini menyatakan bahwa Pada saat Undang-Undang ini mulai berlaku: a) semua peraturan perundang-undangan yang mengatur mengenai BUMN dinyatakan masih tetap berlaku sepanjang tidak bertentangan dengan ketentuan dalam Undang-Undang ini; dan b) semua ketentuan dalam peraturan perundang-undangan yang mengatur mengenai kekuasaan pengelolaan keuangan negara atas kekayaan negara yang dipisahkan pada BUMN, perbendaharaan negara, penerimaan negara bukan pajak, dan perseroan terbatas tidak berlaku sepanjang telah diatur khusus di dalam Undang-Undang ini.\nLampiran file: 153 hlm. (batang tubuh hlm 1 s.d. 94 dan penjelasan hlm 95 s.d. 153)",
+ "citations": [
+  "UU-2003-19",
+  "UU-2023-6",
+  "PERPPU-2022-2"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/375602/UU%20Nomor%201%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:23:40Z"
+}

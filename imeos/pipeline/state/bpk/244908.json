@@ -1,0 +1,43 @@
+{
+ "id": "PP-2023-12",
+ "source": "bpk",
+ "bpk_id": 244908,
+ "url": "https://peraturan.bpk.go.id/Details/244908/pp-no-12-tahun-2023",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "12",
+ "number_raw": "12",
+ "year": 2023,
+ "title": "Peraturan Pemerintah (PP) Nomor 12 Tahun 2023 tentang Pemberian Perizinan Berusaha, Kemudahan Berusaha, dan Fasilitas Penanaman Modal bagi Pelaku Usaha di Ibu Kota Nusantara",
+ "about": "Pemberian Perizinan Berusaha, Kemudahan Berusaha, dan Fasilitas Penanaman Modal bagi Pelaku Usaha di Ibu Kota Nusantara",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PENANAMAN MODAL DAN INVESTASI - PERIZINAN, PELAYANAN PUBLIK - IBU KOTA NUSANTARA, IKN",
+ "field": "",
+ "date_enacted": "2023-03-06",
+ "date_promulgated": "2023-03-06",
+ "date_effective": "2023-03-06",
+ "gazette": "LN.2023/No.37, TLN No.6854, jdih.setneg.go.id: 68 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2024-29",
+   "target_bpk_id": 295643,
+   "label": "PP No. 29 Tahun 2024",
+   "about": "Perubahan atas Peraturan Pemerintah Nomor 12 Tahun 2023 tentang Pemberian Perizinan Berusaha, Kemudahan Berusaha, dan Fasilitas Penanaman Modal bagi Pelaku Usaha di Ibu Kota Nusantara"
+  }
+ ],
+ "abstract": "Untuk mewujudkan Ibu Kota Nusantara sebagai kota berkelanjutan di dunia, penggerak ekonomi Indonesia di masa depan, dan sebagai simbol identitas nasional sebagaimana diamanatkan Undang-Undang Nomor 3 Tahun 2022 tentang lbu Kota Negara, perlu dilakukan percepatan pembangunan dan pengembangan Ibu Kota Nusantara yang merupakan skala prioritas tinggi serta memiliki nilai strategis bagi perekonomian nasional.\nDasar hukum PP ini adalah Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 7 Tahun 1983; UU Nomor 8 Tahun 1983; UU Nomor 10 Tahun 1995; UU Nomor 25 Tahun 2007; dan UU Nomor 3 Tahun 2022.\nPP ini mengatur mengenai perizinan berusaha, kemudahan berusaha, fasilitas penanaman modal; pengawasan; dan evaluasi bagi pelaku usaha di Ibu Kota Nusantara. Peraturan Pemerintah ini bertujuan untuk memberikan kepastian, kesempatan, dan partisipasi yang lebih besar kepada Pelaku Usaha dalam rangka percepatan pembangunan di Ibu Kota Nusantara. Pelaksanaan ketentuan dalam Peraturan Pemerintah ini dievaluasi oleh Otorita Ibu Kota Nusantara secara berkala setiap 5 (lima) tahun atau sewaktu-waktu apabila diperlukan. Dalam melakukan evaluasi tersebut Otorita Ibu Kota Nusantara berkoordinasi dengan kementerian/lembaga terkait.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 06 Maret 2023.\nLampiran file: 96 hlm (Batang tubuh hlm 1 sd 68; Penjelasan hlm 69 sd 96).",
+ "citations": [
+  "UU-2022-3",
+  "UU-1983-7",
+  "UU-1983-8",
+  "UU-1995-10",
+  "UU-2007-25"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/300827/PP%20Nomor%2012%20Tahun%202023.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:30:31Z"
+}

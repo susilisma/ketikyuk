@@ -1,0 +1,37 @@
+{
+ "id": "PERATURANMENTERI-2015-12",
+ "source": "bpk",
+ "bpk_id": 141991,
+ "url": "https://peraturan.bpk.go.id/Details/141991/permen-ristekdikti-no-12-tahun-2015",
+ "form": "PERATURANMENTERI",
+ "form_long": "Peraturan Menteri Riset, Teknologi, Dan Pendidikan Tinggi Republik Indonesia",
+ "number": "12",
+ "number_raw": "12",
+ "year": 2015,
+ "title": "Peraturan Menteri Riset, Teknologi, Dan Pendidikan Tinggi Republik Indonesia Nomor 12 Tahun 2015 tentang Organisasi Dan Tata Kerja Universitas Sriwijaya",
+ "about": "Organisasi Dan Tata Kerja Universitas Sriwijaya",
+ "issuer": "Kementerian Riset, Teknologi, dan Pendidikan Tinggi",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "",
+ "date_enacted": "2015-04-22",
+ "date_promulgated": "2015-04-23",
+ "date_effective": "2015-04-23",
+ "gazette": "BN 2015/ NO 606; PERATURAN.GO.ID : 28 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-32",
+   "target_bpk_id": 296654,
+   "label": "PP No. 32 Tahun 2024",
+   "about": "Perguruan Tinggi Negeri Badan Hukum Universitas Sriwijaya"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Riset, Teknologi, Dan Pendidikan Tinggi Republik Indonesia ini mulai berlaku pada tanggal 23 April 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/133402/Permenristekdikti%20Nomor%2012%20Tahun%202015.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:30:20Z"
+}

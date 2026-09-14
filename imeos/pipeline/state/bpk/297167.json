@@ -1,0 +1,41 @@
+{
+ "id": "PP-2024-34",
+ "source": "bpk",
+ "bpk_id": 297167,
+ "url": "https://peraturan.bpk.go.id/Details/297167/pp-no-34-tahun-2024",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "34",
+ "number_raw": "34",
+ "year": 2024,
+ "title": "Peraturan Pemerintah (PP) Nomor 34 Tahun 2024 tentang Perubahan atas Peraturan Pemerintah Nomor 3 Tahun 2017 tentang Otoritas Veteriner",
+ "about": "Perubahan atas Peraturan Pemerintah Nomor 3 Tahun 2017 tentang Otoritas Veteriner",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PANGAN, PERTANIAN DAN PETERNAKAN",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2024-08-28",
+ "date_promulgated": "2024-08-28",
+ "date_effective": "2024-08-28",
+ "gazette": "LN 2024 (185), TLN (6985): 12 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PP-2017-3",
+   "target_bpk_id": 5823,
+   "label": "PP No. 3 Tahun 2017",
+   "about": "Otoritas Veteriner"
+  }
+ ],
+ "abstract": "Untuk mendorong percepatan pengangkatan pejabat otoritas veteriner provinsi dan pejabat otoritas veteriner kabupaten/kota, perlu penyesuaian persyaratan pengangkatan pejabat otoritas veteriner agar penyelenggaraan kesehatan hewan berjalan efektif. Selain itu, untuk melakukan penyesuaian dengan perkembangan hukum, perlu melakukan perubahan pengaturan pada otoritas veteriner.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945; UU Nomor 18 Tahun 2009; dan PP Nomor 3 Tahun 2017.\nPP ini mengubah beberapa ketentuan dalam PP Nomor 3 Tahun 2017. Secara umum, perubahan Peraturan Pemerintah Nomor 3 Tahun 2017 tentang Otoritas Veteriner mencakup pengaturan Otoritas Veteriner pada lembaga pemerintah yang melaksanakan tugas pemerintahan di bidang Karantina Hewan dan karantina ikan sebagaimana dimaksud dalam Undang-Undang Nomor 21 Tahun 2019 tentang Karantina Hewan, Ikan, dan Tumbuhan, syarat untuk diangkat sebagai pejabat Otoritas Veteriner provinsi dan pejabat Otoritas Veteriner kabupaten/kota, serta Pelayanan Jasa Medik Veteriner melalui telemedisin.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 28 Agustus 2024.\nPP ini mengubah PP Nomor 3 Tahun 2017.\nLampiran file: 17 hlm (batang tubuh hlm 1 sd 12, penjelasan hlm 13 sd 17)",
+ "citations": [
+  "UU-2009-18",
+  "PP-2017-3",
+  "UU-2019-21"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/356658/PP%20Nomor%2034%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:30:13Z"
+}

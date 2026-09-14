@@ -1,0 +1,44 @@
+{
+ "id": "UU-1958-3",
+ "source": "bpk",
+ "bpk_id": 51603,
+ "url": "https://peraturan.bpk.go.id/Details/51603/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "3",
+ "number_raw": "3",
+ "year": 1958,
+ "title": "Undang-undang (UU) Nomor 3 Tahun 1958 tentang Penempatan Tenaga Asing",
+ "about": "Penempatan Tenaga Asing",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KETENAGAKERJAAN",
+ "field": "",
+ "date_enacted": "1958-11-19",
+ "date_promulgated": "1958-01-19",
+ "date_effective": "1958-01-19",
+ "gazette": "LN. 1958 No. 8, LL SETNEG : 8 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2003-13",
+   "target_bpk_id": 43013,
+   "label": "UU No. 13 Tahun 2003",
+   "about": "Ketenagakerjaan"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-1997-25",
+   "target_bpk_id": 46026,
+   "label": "UU No. 25 Tahun 1997",
+   "about": "Ketenagakerjaan"
+  }
+ ],
+ "abstract": "Bahwa untuk menjamin bagian yang layak dari kesempatan kerja diIndonesia bagi warga Indonesia, perlu diadakan peraturan untukmengawasi pemakaian tenaga bangsa asing di Indonesia;\nPasal-pasal 28 ayat 1 dan 89 Undang-undang Dasar SementaraRepublik Indonesia;\nDalam Undang-undang ini yang dimaksudkan dengan:a.Orang asing, ialah tiap orang bukan warganegara Republik Indonesia;b.Pekerjaan, ialah1.Setiap pekerjaan yang dilakukan dibawah perintah orang laindengan menerima upah atau tidak;\n2.Setiap pekerjaan yang dijalankan atas dasar borongan dalamsuatu perusahaan, baik oleh orang yang menjalankan pekerjaanitu sendiri maupun oleh orang yang membantu orang yangmenjalankan pekerjaan itu;c.Majikan, ialah tiap orang atau badan hukum, yang mempekerjakanorang lain, atau jika majikan berkedudukan di luar Indonesiawakilnya yang sah atau yang menurut kenyataan bertindak sebagaiwakilnya, yang berkedudukan di Indonesia.d.Menteri, ialah Menteri Perburuhan",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 19 Januari 1958.\n-\n-\n8",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/40886/UU%20Nomor%203%20Tahun%201958.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:19Z"
+}

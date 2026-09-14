@@ -1,0 +1,51 @@
+{
+ "id": "PERPRES-2007-96",
+ "source": "bpk",
+ "bpk_id": 42146,
+ "url": "https://peraturan.bpk.go.id/Details/42146/perpres-no-96-tahun-2007",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "96",
+ "number_raw": "96",
+ "year": 2007,
+ "title": "Peraturan Presiden (Perpres) Nomor 96 Tahun 2007 tentang Perubahan atas Peraturan Presiden Nomor 10 Tahun 2007 tentang Tata Kerja Dewan Pertimbangan Presiden dan Sekretariat Dewan Pertimbangan Presiden",
+ "about": "Perubahan atas Peraturan Presiden Nomor 10 Tahun 2007 tentang Tata Kerja Dewan Pertimbangan Presiden dan Sekretariat Dewan Pertimbangan Presiden",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "",
+ "date_enacted": "2007-10-31",
+ "date_promulgated": null,
+ "date_effective": "2007-10-31",
+ "gazette": "LLSETKAB : 6 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PERPRES-2026-15",
+   "target_bpk_id": 349416,
+   "label": "Perpres No. 15 Tahun 2026",
+   "about": "Hak Keuangan dan Fasilitas Lainnya bagi Ketua dan Anggota Dewan Pertimbangan Presiden Republik Indonesia"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2007-15",
+   "target_bpk_id": 68812,
+   "label": "PERPRES No. 15 Tahun 2007",
+   "about": "Hak Keuangan dan Fasilitas Lain Ketua dan Anggota Dewan Pertimbangan Presiden"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2007-10",
+   "target_bpk_id": 68795,
+   "label": "PERPRES No. 10 Tahun 2007",
+   "about": "Tata Kerja Dewan Pertimbangan Presiden dan Sekretariat Dewan Pertimbangan Presiden"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 31 Oktober 2007.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/70867/PERPRES%20NO%2096%20TH%202007.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:31:48Z"
+}

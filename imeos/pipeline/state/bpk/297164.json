@@ -1,0 +1,40 @@
+{
+ "id": "PERPRES-2024-95",
+ "source": "bpk",
+ "bpk_id": 297164,
+ "url": "https://peraturan.bpk.go.id/Details/297164/perpres-no-95-tahun-2024",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "95",
+ "number_raw": "95",
+ "year": 2024,
+ "title": "Peraturan Presiden (Perpres) Nomor 95 Tahun 2024 tentang Bebas Visa Kunjungan",
+ "about": "Bebas Visa Kunjungan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KEWARGANEGARAAN DAN IMIGRASI - PARIWISATA DAN KEBUDAYAAN - PERTAHANAN DAN KEAMANAN, MILITER - HUBUNGAN INTERNASIONAL / KERJA SAMA INTERNASIONAL",
+ "field": "HUKUM INTERNASIONAL",
+ "date_enacted": "2024-08-29",
+ "date_promulgated": "2024-08-29",
+ "date_effective": "2024-08-29",
+ "gazette": "LN 2024 (187) : 6 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2016-21",
+   "target_bpk_id": 39891,
+   "label": "PERPRES No. 21 Tahun 2016",
+   "about": "Bebas Visa Kunjungan"
+  }
+ ],
+ "abstract": "Dalam rangka meningkatkan keamanan wilayah negara Republik Indonesia serta selektivitas dalam pemberian bebas visa kunjungan dengan memperhatikan asas timbal balik dan asas manfaat, perlu menentukan negara, pemerintah wilayah administratif khusus suatu negara, dan entitas tertentu atau pemegang izin tinggal tertentu dari suatu negara yang dapat diberikan bebas visa kunjungan.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD 1945; UU Nomor 6 Tahun 2011; dan PP Nomor 31 Tahun 2013.\nPerpres ini mengatur mengenai bebas visa kunjungan dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Subjek bebas visa kunjungan meliputi: 1) Orang Asing warga negara dari negara tertentu, pemerintah wilayah administratif khusus suatu negara, dan entitas tertentu; atau 2) pemegang izin tinggal tertentu dari suatu negara. Tata cara pemeriksaan masuk atau keluar Wilayah Indonesia, prosedur teknis permohonan dan pemberian, dan pengawasan Orang Asing penerima bebas Visa kunjungan dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 29 Agustus 2024.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 21 Tahun 2016 tentang Bebas Visa Kunjungan (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 44), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 7 hlm.",
+ "citations": [
+  "UU-2011-6",
+  "PP-2013-31"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/356655/Perpres%20Nomor%2095%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:30:04Z"
+}

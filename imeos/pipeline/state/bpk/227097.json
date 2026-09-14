@@ -1,0 +1,52 @@
+{
+ "id": "POJK-2020-62",
+ "source": "bpk",
+ "bpk_id": 227097,
+ "url": "https://peraturan.bpk.go.id/Details/227097/peraturan-ojk-no-62pojk032020-tahun-2020",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "62",
+ "number_raw": "62/POJK.03/2020",
+ "year": 2020,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 62/POJK.03/2020 Tahun 2020 tentang Bank Perkreditan Rakyat",
+ "about": "Bank Perkreditan Rakyat",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "",
+ "date_enacted": "2020-12-16",
+ "date_promulgated": "2020-12-18",
+ "date_effective": "2020-12-18",
+ "gazette": "LN.2020/NO.293, TLN NO.6602, peraturan.go.id : 109 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 301695,
+   "label": "Peraturan OJK No. 7 Tahun 2024",
+   "about": "Bank Perekonomian Rakyat dan Bank Perekonomian Rakyat Syariah"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 129869,
+   "label": "Peraturan OJK No. 20/POJK.03/2014 Tahun 2014",
+   "about": "Bank Perkreditan Rakyat"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 137586,
+   "label": "Peraturan BI No. 10/9/PBI/2008",
+   "about": "Perubahan Izin Usaha Bank Umum menjadi Izin Usaha Bank Perkreditan Rakyat dalam Rangka Konsolidasi"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 18 Desember 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/221827/Peraturan%20OJK%20No.%2062%20Tahun%202020.pdf",
+  "https://peraturan.bpk.go.id/Download/221828/Peraturan%20OJK%20No.%2062%20Tahun%202020_Penjelasan.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:44:38Z"
+}

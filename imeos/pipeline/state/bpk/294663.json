@@ -1,0 +1,44 @@
+{
+ "id": "PERMENDAG-2024-15",
+ "source": "bpk",
+ "bpk_id": 294663,
+ "url": "https://peraturan.bpk.go.id/Details/294663/permendag-no-15-tahun-2024",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "15",
+ "number_raw": "15",
+ "year": 2024,
+ "title": "Peraturan Menteri Perdagangan Nomor 15 Tahun 2024 tentang Organisasi Dan Tata Kerja Komite Pengamanan Perdagangan Indonesia",
+ "about": "Organisasi Dan Tata Kerja Komite Pengamanan Perdagangan Indonesia",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-06-25",
+ "date_promulgated": "2024-07-05",
+ "date_effective": "2024-07-05",
+ "gazette": "BN.2024 (370)/15 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2014-34",
+   "target_bpk_id": 129099,
+   "label": "Permendag No. 34/M-DAG/PER/6/2014 Tahun 2014",
+   "about": "Organisasi dan Tata Kerja Komite Pengamanan Perdagangan Indonesia"
+  }
+ ],
+ "abstract": "a. bahwa untuk optimalisasi kinerja pelaksanaan tugas dan fungsi dan efektivitas organisasi, perlu dilakukan penataan kembali organisasi dan tata kerja terhadap Komite Pengamanan Perdagangan Indonesia;\nb. bahwa penataan kembali organisasi dan tata kerja Komite Pengamanan Perdagangan Indonesia sebagaimana dimaksud dalam huruf a telah mendapatkan persetujuan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi;\nc. bahwa Peraturan Menteri Perdagangan Nomor\n34/M-DAG/PER/6/2014 tentang Organisasi dan Tata\nKerja Komite Pengamanan Perdagangan Indonesia dan\nPeraturan Menteri Perdagangan Nomor\n83/M-DAG/PER/10/2014 tentang Ketentuan Pengangkatan dan Pemberhentian Ketua dan Wakil Katua Komite, Kepala dan Anggota Subkomite Penyelidikan di Lingkungan Komite Pengamanan Perdagangan Indonesia sudah tidak sesuai dengan perkembangan kebutuhan organisasi Komite Pengamanan Perdagangan Indonesia, sehingga perlu diganti;\nd. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu\nmenetapkan Peraturan Menteri Perdagangan tentang Organisasi dan Tata Kerja Komite Pengamanan Perdagangan Indonesia;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 34 Tahun 2011, Peraturan Presiden Nomor 11 Tahun 2022 dan Peraturan Menteri Perdagangan Nomor 29 Tahun 2022\nPeraturan ini mengatur tentang ketentuan umum, kedudukan, tugas dan fungsi, susunan organisasi, tata kerja, seleksi, pengangkatan dan pemberhentian ketua, wakil ketua dan anggota subkomite penyelidikan sektor industri dan pertambangan dan subkomite penyelidikan sektor pertanian, kehutanan, kelautan dan perikanan dan ketentuan penutup",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 05 Juli 2024.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas :\na. Peraturan Menteri Perdagangan Nomor 34/M-DAG/PER/6/2014 tentang Organisasi dan Tata Kerja Komite Pengamanan Perdagangan Indonesia\nb. Peraturan Menteri Perdagangan Nomor 83/M-DAG/PER/10/2014 tentang Ketentuan Pengangkatan dan Pemberhentian Ketua dan Wakil Katua Komite, Kepala dan Anggota Subkomite Penyelidikan di Lingkungan Komite Pengamanan Perdagangan Indonesia",
+ "citations": [
+  "PERMENDAG-2014-34",
+  "PERMENDAG-2014-83",
+  "UU-2008-39",
+  "PP-2011-34",
+  "PERPRES-2022-11",
+  "PERMENDAG-2022-29"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/354035/Permendag%2015%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:37:57Z"
+}

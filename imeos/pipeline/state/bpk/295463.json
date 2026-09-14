@@ -1,0 +1,46 @@
+{
+ "id": "PERMENPERIN-2024-21",
+ "source": "bpk",
+ "bpk_id": 295463,
+ "url": "https://peraturan.bpk.go.id/Details/295463/permenperin-no-21-tahun-2024",
+ "form": "PERMENPERIN",
+ "form_long": "Peraturan Menteri Perindustrian",
+ "number": "21",
+ "number_raw": "21",
+ "year": 2024,
+ "title": "Peraturan Menteri Perindustrian Nomor 21 Tahun 2024 tentang Pencabutan Peraturan Menteri Perindustrian Nomor 6 Tahuun 2021 Tentang Petunjuk Pelaksanaan Evaluasi Atas Implementasi Sistem Akuntabilitas Kinerja Instansi Pemerintah Di Lingkungan Kementerian Perindustrian",
+ "about": "Pencabutan Peraturan Menteri Perindustrian Nomor 6 Tahuun 2021 Tentang Petunjuk Pelaksanaan Evaluasi Atas Implementasi Sistem Akuntabilitas Kinerja Instansi Pemerintah Di Lingkungan Kementerian Perindustrian",
+ "issuer": "Kementerian Perindustrian",
+ "subject": "PERINDUSTRIAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-07-08",
+ "date_promulgated": "2024-07-16",
+ "date_effective": "2024-07-16",
+ "gazette": "BN.2024 (401)/3 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENPERIN-2021-6",
+   "target_bpk_id": 166917,
+   "label": "Permenperin No. 6 Tahun 2021",
+   "about": "Petunjuk Pelaksanaan Evaluasi Atas Implementasi Sistem Akuntabilitas Kinerja Instansi Pemerintah Di Lingkungan Kementerian Perindustrian"
+  }
+ ],
+ "abstract": "a. bahwa dengan diberlakukannya Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 88 Tahun 2021 tentang Evaluasi Akuntabilitas Kinerja Instansi Pemerintah, diperlukan penyesuaian terhadap kebijakan teknis evaluasi akuntabilitas kinerja instansi pemerintah di lingkungan Kementerian Perindustrian;\nb. bahwa Peraturan Menteri Perindustrian Nomor 6 Tahun\n2021 tentang Petunjuk Pelaksanaan Evaluasi atas Implementasi Sistem Akuntabilitas Kinerja Instansi Pemerintah di Lingkungan Kementerian Perindustrian sudah tidak sesuai dengan perkembangan kebijakan dan kebutuhan hukum serta organisasi, sehingga perlu dicabut;\nc. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Menteri Perindustrian tentang Pencabutan Peraturan Menteri Perindustrian Nomor 6\nTahun 2021 tentang Petunjuk Pelaksanaan Evaluasi\natas Implementasi Sistem Akuntabilitas Kinerja Instansi Pemerintah di Lingkungan Kementerian Perindustrian;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 8 Tahun 2006, Peraturan Presiden Nomor 29 Tahun 2014 , Peraturan Presiden Nomor 107 Tahun 2020, Peraturan Menteri Perindustrian Nomor 52 Tahun 2018, Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 88 Tahun 2021 dan Peraturan Menteri Perindustrian Nomor 8 Tahun 2023\nPeraturan ini mencabut Peraturan Menteri Perindustrian Nomor 6 Tahun 2021 tentang Petunjuk Pelaksanaan Evaluasi atas Implementasi Sistem Akuntabilitas Kinerja Instansi Pemerintah di Lingkungan Kementerian Perindustrian.",
+ "note": "Peraturan Menteri Perindustrian ini mulai berlaku pada tanggal 16 Juli 2024.\nPeraturan Menteri Perindustrian Nomor 6 Tahun 2021 tentang Petunjuk Pelaksanaan Evaluasi atas Implementasi Sistem Akuntabilitas Kinerja Instansi Pemerintah di Lingkungan Kementerian Perindustrian dicabut dan dinyatakan tidak berlaku",
+ "citations": [
+  "PERATURANMENTERI-2021-88",
+  "PERMENPERIN-2021-6",
+  "UU-2008-39",
+  "PP-2006-8",
+  "PERPRES-2014-29",
+  "PERPRES-2020-107",
+  "PERMENPERIN-2018-52",
+  "PERMENPERIN-2023-8"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/354844/permenperin-no-21-tahun-2024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:40:03Z"
+}

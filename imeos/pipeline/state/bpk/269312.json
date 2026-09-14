@@ -1,0 +1,43 @@
+{
+ "id": "PMK-2023-91",
+ "source": "bpk",
+ "bpk_id": 269312,
+ "url": "https://peraturan.bpk.go.id/Details/269312/pmk-no-91-tahun-2023",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "91",
+ "number_raw": "91",
+ "year": 2023,
+ "title": "Peraturan Menteri Keuangan Nomor 91 Tahun 2023 tentang Pengelolaan Dana Bagi Hasil Perkebunan Sawit",
+ "about": "Pengelolaan Dana Bagi Hasil Perkebunan Sawit",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PAJAK DAN RETRIBUSI DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2023-09-08",
+ "date_promulgated": "2023-09-11",
+ "date_effective": "2023-09-11",
+ "gazette": "BN.2023 (715)/49 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2026-10",
+   "target_bpk_id": 345961,
+   "label": "PMK No. 10 Tahun 2026",
+   "about": "Pengelolaan Dana Bagi Hasil Perkebunan Sawit"
+  }
+ ],
+ "abstract": "bahwa untuk melaksanakan ketentuan Pasal 16 Peraturan Pemerintah Nomor 38 Tahun 2023 tentang Dana Bagi Hasil Perkebunan Sawit, perlu menetapkan Peraturan Menteri Keuangan tentang Pengelolaan Dana Bagi Hasil Perkebunan Sawit.\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 38 Tahun 2023, Peraturan Presiden Nomor 57 Tahun 2020, Peraturan Menteri Keuangan Nomor 118/PMK.01/2021 dan Peraturan Menteri Keuangan Nomor 62 Tahun 2023\nPeraturan Menteri ini mengatur tentang ketentuan umum, pejabat perbendaharaan negara pengelolaan DBH sawit, penganggaran DBH sawit, pengalokasian DBH sawit, penggunaan DBH sawit, penyaluran penundaan penyaluran, penyaluran kembali dan pengehntian penyaluran, pemantauan dan evaluasi, perhitungan penetapan alokasi kurang bayar/lebih bayar DBH sawit, penyaluran DBH sawit tahun 2023, ketentuan lain-lain dan ketentuan penutup.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 11 September 2023.",
+ "citations": [
+  "PP-2023-38",
+  "UU-2008-39",
+  "PERPRES-2020-57",
+  "PMK-2021-118",
+  "PMK-2023-62"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/326736/2023pmkeuangan091.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:31:22Z"
+}

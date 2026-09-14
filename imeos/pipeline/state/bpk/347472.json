@@ -1,0 +1,49 @@
+{
+ "id": "POJK-2025-27",
+ "source": "bpk",
+ "bpk_id": 347472,
+ "url": "https://peraturan.bpk.go.id/Details/347472/peraturan-ojk-no-27-tahun-2025",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "27",
+ "number_raw": "27",
+ "year": 2025,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 27 Tahun 2025 tentang Pengelolaan Aset dan Liabilitas Perusahaan Asuransi dan Perusahaan Reasuransi dengan Prinsip Syariah",
+ "about": "Pengelolaan Aset dan Liabilitas Perusahaan Asuransi dan Perusahaan Reasuransi dengan Prinsip Syariah",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "ASURANSI - PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-11-10",
+ "date_promulgated": "2025-11-24",
+ "date_effective": "2025-11-24",
+ "gazette": "BN.2025 (37/92 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 260824,
+   "label": "Peraturan OJK No. 6 Tahun 2023",
+   "about": "Perubahan Kedua Atas Peraturan Otoritas Jasa Keuangan Nomor 72/POJK.05/2016 tentang Kesehatan Keuangan Perusahaan Asuransi dan Perusahaan Reasuransi dengan Prinsip Syariah"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 128397,
+   "label": "Peraturan OJK No. 72/POJK.05/2016 Tahun 2016",
+   "about": "Kesehatan Keuangan Perusahaan Asuransi dan Perusahaan Reasuransi dengan Prinsip Syariah"
+  }
+ ],
+ "abstract": "a. bahwa perusahaan asuransi dan perusahaan reasuransi dengan prinsip syariah dalam melaksanakan pengelolaan risiko terkait penempatan\ninvestasi dan menjaga kesehatan keuangan, perlu menerapkan prinsip kehati-hatian;\nb. bahwa pengaturan terhadap diversifikasi investasi serta penempatan investasi pada pihak terkait dan bukan pihak terkait belum diatur secara komprehensif;\nc. bahwa Peraturan Otoritas Jasa Keuangan Nomor\n72/POJK.05/2016 tentang Kesehatan Keuangan Perusahaan Asuransi dan Perusahaan Reasuransi dengan Prinsip Syariah sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Otoritas Jasa Keuangan Nomor 6 Tahun 2023 tentang Perubahan Kedua atas Peraturan Otoritas Jasa Keuangan Nomor\n72/POJK.05/2016 tentang Kesehatan Keuangan\nPerusahaan Asuransi dan Perusahaan Reasuransi dengan Prinsip Syariah sudah tidak sesuai dengan perkembangan industri perasuransian, sehingga perlu diganti;\nd. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Otoritas Jasa Keuangan tentang Pengelolaan Aset dan Liabilitas Perusahaan Asuransi dan Perusahaan Reasuransi dengan Prinsip Syariah;\nUndang-Undang Nomor 21 Tahun 2011 dan Undang-Undang Nomor 40 Tahun 2014\nPeraturan ini mengatur tentang ketentuan umum, pemisahan aset dan liabilitas, surplus underwriting, QARDH, kesehatan keuangan, dana investasi peserta, larangan pembayaran deviden, dana jaminan, penyampaian laporan berkala, perlindungan konsumen, ketentuan lain-lain, ketentuan peralihan dan ketentuan penutup.",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 24 November 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan Otoritas Jasa Keuangan Nomor 72/POJK.05/2016 tentang Kesehatan Keuangan Perusahaan Asuransi dan Perusahaan Reasuransi dengan Prinsip Syariah sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Otoritas Jasa Keuangan Nomor 6 Tahun 2023 tentang Perubahan Kedua atas Peraturan Otoritas Jasa Keuangan Nomor 72/POJK.05/2016 tentang Kesehatan Keuangan Perusahaan Asuransi dan Perusahaan Reasuransi dengan Prinsip Syariah",
+ "citations": [
+  "POJK-2016-72",
+  "POJK-2023-6",
+  "UU-2011-21",
+  "UU-2014-40"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/410984/POJK%2027%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:43:18Z"
+}

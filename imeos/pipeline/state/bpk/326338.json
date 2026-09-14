@@ -1,0 +1,51 @@
+{
+ "id": "PMK-2025-53",
+ "source": "bpk",
+ "bpk_id": 326338,
+ "url": "https://peraturan.bpk.go.id/Details/326338/pmk-no-53-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "53",
+ "number_raw": "53",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 53 Tahun 2025 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 11 Tahun 2025 tentang Ketentuan Nilai Lain sebagai Dasar Pengenaan Pajak dan Besaran Tertentu Pajak Pertambahan Nilai",
+ "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 11 Tahun 2025 tentang Ketentuan Nilai Lain sebagai Dasar Pengenaan Pajak dan Besaran Tertentu Pajak Pertambahan Nilai",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-07-25",
+ "date_promulgated": "2025-07-28",
+ "date_effective": "2025-08-01",
+ "gazette": "BN.2025 (551)/5 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PMK-2025-11",
+   "target_bpk_id": 313574,
+   "label": "PMK No. 11 Tahun 2025",
+   "about": "Ketentuan Nilai Lain Sebagai Dasar Pengenaan Pajak dan Besaran Tertentu Pajak Pertambahan Nilai"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PMK-2024-81",
+   "target_bpk_id": 306614,
+   "label": "PMK No. 81 Tahun 2024",
+   "about": "Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan"
+  }
+ ],
+ "abstract": "a. bahwa untuk memberikan kepastian hukum atas\ntransaksi perdagangan aset kripto dan menyesuaikan\nperkembangan perdagangan aset kripto, perlu\ndilakukan penyesuaian ketentuan perpajakan atas\ntransaksi perdagangan aset kripto;\nb. bahwa pengenaan pajak atas transaksi perdagangan\naset kripto sebagaimana diatur dalam Peraturan\nMenteri Keuangan Nomor 81 Tahun 2024 tentang\nKetentuan Perpajakan dalam Rangka Pelaksanaan\nSistem Inti Administrasi Perpajakan sebagaimana telah\ndiubah dengan Peraturan Menteri Keuangan Nomor 11\nTahun 2025 tentang Ketentuan Nilai Lain sebagai Dasar\nPengenaan Pajak dan Besaran Tertentu Pajak\nPertambahan Nilai belum menyesuaikan ketentuan\nnilai lain sebagai dasar pengenaan pajak dan besaran\ntertentu pajak pertambahan nilai, sehingga perlu\ndilakukan perubahan;\nc. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a dan huruf b, perlu\nmenetapkan Peraturan Menteri Keuangan tentang\nPerubahan atas Peraturan Menteri Keuangan Nomor 11\nTahun 2025 tentang Ketentuan Nilai Lain sebagai Dasar\nPengenaan Pajak dan Besaran Tertentu Pajak\nPertambahan Nilai;\nPasal 17 ayat (3) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945, Undang-Undang Nomor 8 Tahun 1983,Undang-Undang Nomor 39 Tahun 2008, Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Menteri Keuangan Nomor 81 Tahun 2024, Peraturan Menteri Keuangan Nomor 124 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 11 Tahun 2025\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 81 Tahun 2024 tentang Ketentuan Perpajakan dalam\nRangka Pelaksanaan Sistem Inti Administrasi Perpajakan sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 11 Tahun 2025 tentang Ketentuan Nilai\nLain sebagai Dasar Pengenaan Pajak dan Besaran Tertentu\nPajak Pertambahan Nilai yaitu tentang Pajak Pertambahan Nilai yang terutang dan besaran tarifnya dan perhitungan Pajak Pertambahan Nilai",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 01 Agustus 2025.\nPeraturan ini mengubah Peraturan Menteri Keuangan Nomor 81 Tahun 2024 tentang Ketentuan Perpajakan dalam\nRangka Pelaksanaan Sistem Inti Administrasi Perpajakan sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 11 Tahun 2025 tentang Ketentuan Nilai\nLain sebagai Dasar Pengenaan Pajak dan Besaran Tertentu\nPajak Pertambahan Nilai",
+ "citations": [
+  "PMK-2025-11",
+  "UU-1983-8",
+  "UU-2008-39",
+  "PERPRES-2024-158",
+  "PMK-2024-81",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/388141/53%20th%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:33:20Z"
+}

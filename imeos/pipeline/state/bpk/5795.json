@@ -1,0 +1,51 @@
+{
+ "id": "PP-2016-74",
+ "source": "bpk",
+ "bpk_id": 5795,
+ "url": "https://peraturan.bpk.go.id/Details/5795/pp-no-74-tahun-2016",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "74",
+ "number_raw": "74",
+ "year": 2016,
+ "title": "Peraturan Pemerintah (PP) Nomor 74 Tahun 2016 tentang Perubahan Atas Peraturan Pemerintah Nomor 94 Tahun 2012 Tentang Hak Keuangan Dan Fasilitas Hakim Yang Berada Di Bawah Mahkamah Agung",
+ "about": "Perubahan Atas Peraturan Pemerintah Nomor 94 Tahun 2012 Tentang Hak Keuangan Dan Fasilitas Hakim Yang Berada Di Bawah Mahkamah Agung",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA - JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "",
+ "date_enacted": "2016-12-30",
+ "date_promulgated": "2016-12-30",
+ "date_effective": "2016-12-30",
+ "gazette": "LN. 2016 No. 327, LL SETNEG : 7 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2024-44",
+   "target_bpk_id": 305090,
+   "label": "PP No. 44 Tahun 2024",
+   "about": "Perubahan Ketiga atas Peraturan Pemerintah Nomor 94 Tahun 2012 tentang Hak Keuangan dan Fasilitas Hakim yang Berada di Bawah Mahkamah Agung"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2022-40",
+   "target_bpk_id": 230053,
+   "label": "PP No. 40 Tahun 2022",
+   "about": "Perubahan Kedua atas Peraturan Pemerintah Nomor 94 Tahun 2012 tentang Hak Keuangan dan Fasilitas Hakim yang Berada di Bawah Mahkamah Agung"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PP-2012-94",
+   "target_bpk_id": 5309,
+   "label": "PP No. 94 Tahun 2012",
+   "about": "Hak Keuangan Dan Fasilitas Hakim Yang Berada  Di Bawah Mahkamah Agung"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 30 Desember 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/28230/PP%20Nomor%2074%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:29:49Z"
+}

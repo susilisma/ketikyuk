@@ -1,0 +1,37 @@
+{
+ "id": "UU-2004-29",
+ "source": "bpk",
+ "bpk_id": 40752,
+ "url": "https://peraturan.bpk.go.id/Details/40752/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "29",
+ "number_raw": "29",
+ "year": 2004,
+ "title": "Undang-undang (UU) Nomor 29 Tahun 2004 tentang Praktik Kedokteran",
+ "about": "Praktik Kedokteran",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KESEHATAN",
+ "field": "",
+ "date_enacted": "2004-10-06",
+ "date_promulgated": "2004-10-06",
+ "date_effective": "2005-10-06",
+ "gazette": "LN. 2004/ No.116, TLN NO. 4431, LL SETNEG : 42 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2023-17",
+   "target_bpk_id": 258028,
+   "label": "UU No. 17 Tahun 2023",
+   "about": "Kesehatan"
+  }
+ ],
+ "abstract": "Kesehatan sebagai hak asasi manusia harus diwujudkan dalam bentuk pemberian berbagai upaya kesehatan kepada seluruh masyarakat melalui penyelenggaraan pembangunan kesehatan yang berkualitas dan terjangkau oleh masyarakat. Untuk memberikan perlindungan dan kepastian hukum kepada penerima pelayanan kesehatan, dokter, dan dokter gigi, diperlukan pengaturan mengenai penyelenggaraan praktik kedokteran.\nDasar hukum UU ini adalah Pasal 20 dan Pasal 21 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.\nDalam UU ini diatur mengenai asas dan tujuan praktik kedokteran, pembentukan Konsil Kedokteran Indonesia, standar pendidikan profesi kedokteran dan kedokteran gigi, pendidikan dan pelatihan kedokteran dan kedokteran gigi, registrasi dokter dan dokter gigi, penyelenggaraan praktik kedokteran, pembentukan Majelis Kehormatan Disiplin Dokter Indonesia, serta pembinaan dan pengawasan praktik kedokteran. Dalam menjalankan profesinya, dokter dan dokter gigi juga dapat dipidana sesuai ketentuan yang telah diatur dalam UU ini.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 06 Oktober 2005.\nDengan disahkannya Undang-undang ini maka Pasal 54 Undang-undang Nomor 23 Tahun 1992 tentang Kesehatan yang berkaitan dengan dokter dan dokter gigi, dinyatakan tidak berlaku lagi.\nPada saat diundangkannya Undang-undang ini semua peraturan perundang-undangan yang merupakan pelaksanaan Undang-undang Nomor 23 Tahun 1992 tentang Kesehatan yang berkaitan dengan pelaksanaan praktik kedokteran, masih tetap berlaku sepanjang tidak bertentangan dan/atau belum diganti berdasarkan Undang-undang ini.\nPenjelasan : 26 hlm.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/30487/UU%20Nomor%2029%20Tahun%202004.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:08Z"
+}

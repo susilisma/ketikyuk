@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2015-165",
+ "source": "bpk",
+ "bpk_id": 41924,
+ "url": "https://peraturan.bpk.go.id/Details/41924/perpres-no-165-tahun-2015",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "165",
+ "number_raw": "165",
+ "year": 2015,
+ "title": "Peraturan Presiden (Perpres) Nomor 165 Tahun 2015 tentang Tunjangan Kinerja Pegawai di Lingkungan Badan SAR Nasional",
+ "about": "Tunjangan Kinerja Pegawai di Lingkungan Badan SAR Nasional",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA",
+ "field": "",
+ "date_enacted": "2015-12-28",
+ "date_promulgated": "2015-12-28",
+ "date_effective": "2015-12-28",
+ "gazette": "LN.2015/NO.391, LL SETKAB : 9 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-118",
+   "target_bpk_id": 304075,
+   "label": "Perpres No. 118 Tahun 2024",
+   "about": "Tunjangan Kinerja Pegawai di Lingkungan Badan Nasional Pencarian dan Pertolongan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2013-99",
+   "target_bpk_id": 41469,
+   "label": "PERPRES No. 99 Tahun 2013",
+   "about": "Tunjangan Kinerja Pegawai di Lingkungan Badan SAR Nasional"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 28 Desember 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/35088/Perpres%20Nomor%20165%20Tahun%202015.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:29:30Z"
+}

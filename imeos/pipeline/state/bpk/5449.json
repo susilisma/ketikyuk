@@ -1,0 +1,58 @@
+{
+ "id": "PP-2014-12",
+ "source": "bpk",
+ "bpk_id": 5449,
+ "url": "https://peraturan.bpk.go.id/Details/5449/pp-no-12-tahun-2014",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "12",
+ "number_raw": "12",
+ "year": 2014,
+ "title": "Peraturan Pemerintah (PP) Nomor 12 Tahun 2014 tentang Jenis Dan Tarif Penerimaan Negara Bukan Pajak Yang Berlaku Pada Kementerian Kehutanan",
+ "about": "Jenis Dan Tarif Penerimaan Negara Bukan Pajak Yang Berlaku Pada Kementerian Kehutanan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KEHUTANAN DAN PERKEBUNAN - PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
+ "field": "",
+ "date_enacted": "2014-02-14",
+ "date_promulgated": "2014-02-14",
+ "date_effective": "2014-03-15",
+ "gazette": "LN. 2014 No. 36, TLN No. 5506, LL SETNEG : 7 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-36",
+   "target_bpk_id": 302948,
+   "label": "PP No. 36 Tahun 2024",
+   "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Kementerian Lingkungan Hidup dan Kehutanan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-1999-92",
+   "target_bpk_id": 54607,
+   "label": "PP No. 92 Tahun 1999",
+   "about": "Perubahan Kedua Atas Peraturan Pemerintah Nomor 59 Tahun 1998 Tentang Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Berlaku Pada Departemen Kehutanan Dan Perkebunan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-1999-74",
+   "target_bpk_id": 54419,
+   "label": "PP No. 74 Tahun 1999",
+   "about": "Perubahan Atas Peraturan Pemerintah Nomor 59 Tahun 1998 Tentang Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Berlaku Pada Departemen Kehutanan Dan Perkebunan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-1998-59",
+   "target_bpk_id": 55304,
+   "label": "PP No. 59 Tahun 1998",
+   "about": "Tarif Jasa Jenis Penerimaan Negara Bukan Pajak Yang Berlaku Pada Departemen Kehutanan Dan Perkebunan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 15 Maret 2014.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/30003/PP%20Nomor%2012%20Tahun%202014.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:30:09Z"
+}

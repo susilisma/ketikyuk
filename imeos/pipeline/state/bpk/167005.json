@@ -1,0 +1,51 @@
+{
+ "id": "PERMENPERIN-2016-15",
+ "source": "bpk",
+ "bpk_id": 167005,
+ "url": "https://peraturan.bpk.go.id/Details/167005/permenperin-no-15m-indper32016-tahun-2016",
+ "form": "PERMENPERIN",
+ "form_long": "Peraturan Menteri Perindustrian",
+ "number": "15",
+ "number_raw": "15/M-IND/PER/3/2016",
+ "year": 2016,
+ "title": "Peraturan Menteri Perindustrian Nomor 15/M-IND/PER/3/2016 Tahun 2016 tentang Standar Spesifikasi Dan Standar Harga Tower Transmisi Dan Konduktor Produk Dalam Negeri Dalam Rangka Percepatan Pembangunan Infrastruktur Ketenagalistrikan",
+ "about": "Standar Spesifikasi Dan Standar Harga Tower Transmisi Dan Konduktor Produk Dalam Negeri Dalam Rangka Percepatan Pembangunan Infrastruktur Ketenagalistrikan",
+ "issuer": "Kementerian Perindustrian",
+ "subject": "PERTAMBANGAN MIGAS, MINERAL DAN ENERGI - STANDAR / PEDOMAN",
+ "field": "",
+ "date_enacted": "2016-03-04",
+ "date_promulgated": "2016-03-10",
+ "date_effective": "2016-03-10",
+ "gazette": "BN 2016/ No 381; http://jdih.kemenperin.go.id/; 7 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENPERIN-2025-39",
+   "target_bpk_id": 343106,
+   "label": "Permenperin No. 39 Tahun 2025",
+   "about": "Pencabutan Peraturan Menteri Perindustrian Nomor 15/M-IND/PER/3/2016 tentang Standar Spesifikasi dan Standar Harga Tower Transmisi dan Konduktor Produk Dalam Negeri dalam Rangka Percepatan Pembangunan Infrastruktur Ketenagalistrikan sebagaimana Telah Beberapa Kali Diubah Terakhir dengan Peraturan Menteri Perindustrian Nomor 24 Tahun 2020 tentang Perubahan Kedua Atas Peraturan Menteri Perindustrian Nomor 15/M-IND/PER/3/2016 tentang Standar Spesifikasi dan Standar Harga Tower Transmisi dan Konduktor Produk Dalam Negeri dalam Rangka Percepatan Pembangunan Infrastruktur Ketenagalistrikan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENPERIN-2020-24",
+   "target_bpk_id": 167004,
+   "label": "Permenperin No. 24 Tahun 2020",
+   "about": "Perubahan Kedua Atas Peraturan Menteri Perindustrian Nomor 15/M-IND/PER/3/2016 Tentang Standar Spesifikasi dan Standar Harga Tower Transmisi dan Konduktor Produk Dalam Negeri Dalam Rangka Percepatan Pembangunan Infrastruktur Ketenagalistrikan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENPERIN-2018-6",
+   "target_bpk_id": 167006,
+   "label": "Permenperin No. 6 Tahun 2018",
+   "about": "Perubahan Atas Peraturan Menteri Perindustrian Nomor 15/M-IND/PER/3/2016 Tentang Standar Spesifikasi Dan Standar Harga Tower Transmisi Dan Konduktor Produk Dalam Negeri Dalam Rangka Percepatan Pembangunan Infrastruktur Ketenagalistrikan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perindustrian ini mulai berlaku pada tanggal 10 Maret 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/269216/Permenperin_No_15_2016.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:38:27Z"
+}

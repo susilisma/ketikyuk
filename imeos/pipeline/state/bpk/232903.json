@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2022-179",
+ "source": "bpk",
+ "bpk_id": 232903,
+ "url": "https://peraturan.bpk.go.id/Details/232903/pmk-no-179pmk022022",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "179",
+ "number_raw": "179/PMK.02/2022",
+ "year": 2022,
+ "title": "Peraturan Menteri Keuangan Nomor 179/PMK.02/2022 Tahun 2022 tentang Pengelolaan Penerimaan Negara Bukan Pajak dari Kekayaan Negara Dipisahkan oleh Bendahara Umum Negara",
+ "about": "Pengelolaan Penerimaan Negara Bukan Pajak dari Kekayaan Negara Dipisahkan oleh Bendahara Umum Negara",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
+ "field": "",
+ "date_enacted": "2022-12-02",
+ "date_promulgated": "2022-12-05",
+ "date_effective": "2022-12-05",
+ "gazette": "BN.2022/NO. 1214; https:jdih.kemenkeu.go.id : 20 Hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2025-115",
+   "target_bpk_id": 342528,
+   "label": "PMK No. 115 Tahun 2025",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 179/PMK.02/2022 tentang Pengelolaan Penerimaan Negara Bukan Pajak dari Kekayaan Negara Dipisahkan oleh Bendahara Umum Negara"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2017-190",
+   "target_bpk_id": 112929,
+   "label": "PMK No. 190/PMK.02/2017",
+   "about": "Tata Cara Pembayaran Penerimaan Negara Bukan Pajak Dari Hasil Pengelolaan Kekayaan Negara Yang Dipisahkan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 05 Desember 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/279645/179_PMK.02_2022.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:31:42Z"
+}

@@ -1,0 +1,58 @@
+{
+ "id": "PP-1982-22",
+ "source": "bpk",
+ "bpk_id": 65183,
+ "url": "https://peraturan.bpk.go.id/Details/65183/pp-no-22-tahun-1982",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "22",
+ "number_raw": "22",
+ "year": 1982,
+ "title": "Peraturan Pemerintah (PP) Nomor 22 Tahun 1982 tentang Tata Pengaturan Air",
+ "about": "Tata Pengaturan Air",
+ "issuer": "Pemerintah Pusat",
+ "subject": "LINGKUNGAN HIDUP - PERIKANAN DAN KELAUTAN - PANGAN, PERTANIAN DAN PETERNAKAN - SUMBER DAYA ALAM",
+ "field": "",
+ "date_enacted": "1982-08-12",
+ "date_promulgated": "1982-08-12",
+ "date_effective": "1982-08-12",
+ "gazette": "LN. 1982/ No. 37 , TLN No. 3225, LL Setkab : 15 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-30",
+   "target_bpk_id": 295844,
+   "label": "PP No. 30 Tahun 2024",
+   "about": "Pengelolaan Sumber Daya Air"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2015-121",
+   "target_bpk_id": 5700,
+   "label": "PP No. 121 Tahun 2015",
+   "about": "Pengusahaan Sumber Daya Air"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2008-43",
+   "target_bpk_id": 4857,
+   "label": "PP No. 43 Tahun 2008",
+   "about": "Air Tanah"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2008-42",
+   "target_bpk_id": 4856,
+   "label": "PP No. 42 Tahun 2008",
+   "about": "Pengelolaan Sumber Daya Air"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 12 Agustus 1982.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/55480/PP%20NO%2022%20TH%201982.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:30:27Z"
+}

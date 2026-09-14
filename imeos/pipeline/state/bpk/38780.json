@@ -1,0 +1,48 @@
+{
+ "id": "UU-2009-37",
+ "source": "bpk",
+ "bpk_id": 38780,
+ "url": "https://peraturan.bpk.go.id/Details/38780/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "37",
+ "number_raw": "37",
+ "year": 2009,
+ "title": "Undang-undang (UU) Nomor 37 Tahun 2009 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 3 tahun 2009 tentang Perubahan Atas Undang-Undang Nomor 9 tahun 1992 tentang Keimigrasian menjadi Undang-Undang",
+ "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 3 tahun 2009 tentang Perubahan Atas Undang-Undang Nomor 9 tahun 1992 tentang Keimigrasian menjadi Undang-Undang",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KEWARGANEGARAAN DAN IMIGRASI",
+ "field": "",
+ "date_enacted": "2009-10-14",
+ "date_promulgated": "2009-10-14",
+ "date_effective": "2009-10-14",
+ "gazette": "LN. 2009/ No. 145, TLN NO. 5037, LL SETNEG : 3 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2011-6",
+   "target_bpk_id": 39140,
+   "label": "UU No. 6 Tahun 2011",
+   "about": "Keimigrasian"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1992-9",
+   "target_bpk_id": 46601,
+   "label": "UU No. 9 Tahun 1992",
+   "about": "Keimigrasian"
+  }
+ ],
+ "abstract": "Dengan adanya kewajiban bagi Pemerintah untuk menerbitkan paspor biasa bagi setiap jemaah haji Indonesia mulai tahun 1430 Hijriyah, diperlukan upaya untuk menjamin tersedianya paspor dimaksud agar penyelenggaraan ibadah haji tetap dapat dilaksanakan. Dalam rangka menjamin terlaksananya penyelenggaraan ibadah haji perlu melakukan perubahan terhadap ketentuan mengenai Surat Perjalanan Republik Indonesia bagi jemaah haji sebagaimana diatur dalam Undang-Undang Nomor 9 Tahun 1992 tentang Keimigrasian.\nDasar Hukum Undang-Undang ini adalah Pasal 5 ayat (1), Pasal 20 ayat (1), Pasal 22 ayat (1) dan ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, UU No. 9 Tahun 1992, dan UU No. 13 Tahun 2008.\nDalamm Undang-Undang ini mengatur tentang in kepastian hukum bagi penyediaan paspor biasa (ordinary passport) bagi jemaah haji agar penyelenggaraan ibadah haji tetap dapat dilaksanakan dan mengingat ketentuan Pasal 22 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 bahwa Peraturan Pemerintah Pengganti Undang-Undang harus mendapat persetujuan Dewan Perwakilan Rakyat, maka Peraturan Pemerintah Pengganti Undang-Undang Nomor 3 Tahun 2009 tentang Perubahan Atas Undang-Undang Nomor 9 Tahun 1992 tentang Keimigrasian, perlu ditetapkan menjadi Undang-Undang.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 14 Oktober 2009.\nUndang-Undang ini mengubah UU No. 9 Tahun 1992.\nLampiran file: 10 hlm (batang tubuh hlm 1 sd 3, penjelasan hlm 4 sd 5 dan lampiran hlm 6 sd 10)",
+ "citations": [
+  "UU-1992-9",
+  "UU-2008-13",
+  "PERPPU-2009-3"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/28109/UU%20Nomor%2037%20Tahun%202009.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:16Z"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "PP-2012-33",
+ "source": "bpk",
+ "bpk_id": 5245,
+ "url": "https://peraturan.bpk.go.id/Details/5245/pp-no-33-tahun-2012",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "33",
+ "number_raw": "33",
+ "year": 2012,
+ "title": "Peraturan Pemerintah (PP) Nomor 33 Tahun 2012 tentang Pemberian Air Susu Ibu Eksklusif",
+ "about": "Pemberian Air Susu Ibu Eksklusif",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KESEHATAN",
+ "field": "",
+ "date_enacted": "2012-03-01",
+ "date_promulgated": "2012-03-01",
+ "date_effective": "2012-03-01",
+ "gazette": "LN. 2012 No. 58, TLN No. 5291, LL SETNEG : 26 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-28",
+   "target_bpk_id": 294077,
+   "label": "PP No. 28 Tahun 2024",
+   "about": "Peraturan Pelaksanaan Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 01 Maret 2012.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/34987/PP%20Nomor%2033%20Tahun%202012.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:30:53Z"
+}

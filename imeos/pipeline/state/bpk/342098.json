@@ -1,0 +1,42 @@
+{
+ "id": "PMK-2025-106",
+ "source": "bpk",
+ "bpk_id": 342098,
+ "url": "https://peraturan.bpk.go.id/Details/342098/pmk-no-106-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "106",
+ "number_raw": "106",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 106 Tahun 2025 tentang Pencabutan Peraturan Menteri Keuangan Nomor 45/PMK.011/2028 tentang Pedoman Analisis Kebutuhan Pembelajaran di Lingkungan Kementerian Keuangan",
+ "about": "Pencabutan Peraturan Menteri Keuangan Nomor 45/PMK.011/2028 tentang Pedoman Analisis Kebutuhan Pembelajaran di Lingkungan Kementerian Keuangan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-12-29",
+ "date_promulgated": "2025-12-31",
+ "date_effective": "2025-12-31",
+ "gazette": "BN.2025 (1223/3 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2018-45",
+   "target_bpk_id": 112213,
+   "label": "PMK No. 45/PMK.011/2018",
+   "about": "Pedoman Analisis Kebutuhan Pembelajaran Di Lingkungan Kementerian Keuangan"
+  }
+ ],
+ "abstract": "a. bahwa berdasarkan hasil evaluasi atas implementasi\nmanajemen pembelajaran di lingkungan Kementerian\nKeuangan, Peraturan Menteri Keuangan Nomor\n45/PMK.011/2018 tentang Pedoman Analisis\nKebutuhan Pembelajaran di Lingkungan Kementerian\nKeuangan sudah tidak sesuai dengan kebutuhan\npengelolaan analisis kebutuhan pembelajaran di bidang\nkeuangan negara, sehingga perlu dilakukan\npencabutan;\nb. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a, perlu menetapkan Peraturan\nMenteri Keuangan tentang Pencabutan Peraturan\nMenteri Keuangan Nomor 45/PMK.011/2018 tentang\nPedoman Analisis Kebutuhan Pembelajaran di\nLingkungan Kementerian Keuangan;\nPasal 17 ayat (3) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Peraturan Presiden Nomor 158 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan Menteri Keuangan Nomor 45/PMK.011/2018 tentang Pedoman Analisis Kebutuhan Pembelajaran di\nLingkungan Kementerian Keuangan",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 31 Desember 2025.\nPeraturan Menteri Keuangan Nomor 45/PMK.011/2018\ntentang Pedoman Analisis Kebutuhan Pembelajaran di\nLingkungan Kementerian Keuangan dicabut dan dinyatakan tidak berlaku",
+ "citations": [
+  "PMK-2018-45",
+  "UU-2008-39",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/405241/2025pmkeuangan106.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:31:54Z"
+}

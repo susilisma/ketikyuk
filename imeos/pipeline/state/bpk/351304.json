@@ -1,0 +1,46 @@
+{
+ "id": "PERMENDAG-2026-12",
+ "source": "bpk",
+ "bpk_id": 351304,
+ "url": "https://peraturan.bpk.go.id/Details/351304/permendag-no-12-tahun-2026",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "12",
+ "number_raw": "12",
+ "year": 2026,
+ "title": "Peraturan Menteri Perdagangan Nomor 12 Tahun 2026 tentang Perubahan Kelima atas Peraturan Menteri Perdagangan Nomor 23 Tahun 2023 tentang Kebijakan dan Pengaturan Ekspor",
+ "about": "Perubahan Kelima atas Peraturan Menteri Perdagangan Nomor 23 Tahun 2023 tentang Kebijakan dan Pengaturan Ekspor",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN - KEBIJAKAN PEMERINTAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-04-28",
+ "date_promulgated": "2026-04-29",
+ "date_effective": "2026-04-29",
+ "gazette": "BN.2026 (278/500 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERMENDAG-2023-23",
+   "target_bpk_id": 260195,
+   "label": "Permendag No. 23 Tahun 2023",
+   "about": "Kebijakan dan Pengaturan Ekspor"
+  }
+ ],
+ "abstract": "a. bahwa untuk mendukung terpenuhinya kebutuhan\nbarang tertentu di dalam negeri demi kepentingan\nnasional, perlu dilakukan penyesuaian kebijakan dan\npengaturan ekspor sebagaimana diatur dalam Peraturan\nMenteri Perdagangan Nomor 23 Tahun 2023 tentang\nKebijakan dan Pengaturan Ekspor sebagaimana telah\nbeberapa kali diubah terakhir dengan Peraturan Menteri\nPerdagangan Nomor 5 Tahun 2026 tentang Perubahan\nKeempat atas Peraturan Menteri Perdagangan Nomor 23\nTahun 2023 tentang Kebijakan dan Pengaturan Ekspor;\nb. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a, perlu menetapkan Peraturan Menteri\nPerdagangan tentang Perubahan Kelima atas Peraturan\nMenteri Perdagangan Nomor 23 Tahun 2023 tentang\nKebijakan dan Pengaturan Ekspor;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 10 Tahun 1995, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 7 Tahun 2014, Peraturan Pemerintah Nomor 29 Tahun 2021, Peraturan Pemerintah Nomor 41 Tahun 2021, Peraturan Presiden Nomor 168 Tahun 2024, Peraturan Menteri Perdagangan Nomor 23 Tahun 2023 dan Peraturan Menteri Perdagangan Nomor 6 Tahun 2025\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri Perdagangan Nomor 23 Tahun 2023 tentang Kebijakan dan Pengaturan Ekspor yaitu tentang penangguhan penerbitan Perizinan Berusaha di bidang Ekspor, pembekuan Perizinan Berusaha di bidang Ekspor, pencabutan Perizinan Berusaha di bidang Ekspor dan penangguhan pelayanan Verifikasi atau Penelusuran Teknis.",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 29 April 2026.\nPeraturan Menteri Perdagangan Nomor 23 Tahun 2023 tentang Kebijakan dan Pengaturan Ekspor diubah sebagian",
+ "citations": [
+  "PERMENDAG-2023-23",
+  "UU-1995-10",
+  "UU-2008-39",
+  "UU-2014-7",
+  "PP-2021-29",
+  "PP-2021-41",
+  "PERPRES-2024-168",
+  "PERMENDAG-2025-6"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/415082/permendag-no-12-tahun-2026.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:35:58Z"
+}

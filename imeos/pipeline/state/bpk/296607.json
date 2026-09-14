@@ -1,0 +1,47 @@
+{
+ "id": "PERPRES-2024-91",
+ "source": "bpk",
+ "bpk_id": 296607,
+ "url": "https://peraturan.bpk.go.id/Details/296607/perpres-no-91-tahun-2024",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "91",
+ "number_raw": "91",
+ "year": 2024,
+ "title": "Peraturan Presiden (Perpres) Nomor 91 Tahun 2024 tentang Perubahan atas Peraturan Presiden Nomor 47 Tahun 2021 tentang Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi",
+ "about": "Perubahan atas Peraturan Presiden Nomor 47 Tahun 2021 tentang Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "HUKUM TATA NEGARA",
+ "date_enacted": "2024-08-23",
+ "date_promulgated": "2024-08-23",
+ "date_effective": "2024-08-23",
+ "gazette": "LN 2024 (182) : 6 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-178",
+   "target_bpk_id": 306876,
+   "label": "Perpres No. 178 Tahun 2024",
+   "about": "Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2014-118",
+   "target_bpk_id": 41615,
+   "label": "PERPRES No. 118 Tahun 2014",
+   "about": "Sekretariat, Sistem dan Manajemen Sumber Daya Manusia, Tata Kerja, Serta Tanggung Jawab dan Pengelolaan Keuangan Komisi Aparatur Sipil Negara"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 26 ayat (5) Undang-Undang Nomor 20 Tahun 2023 tentang Aparatur Sipil Negara, perlu dilakukan perubahan atas Peraturan Presiden Nomor 47 Tahun 2021 tentang Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) dan Pasal 17 UUD 1945; UU Nomor 20 Tahun 2023; dan Perpres Nomor 47 Tahun 2021.\nPerpres ini mengatur mengenai perubahan beberapa ketentuan dalam Perpres Nomor 47 Tahun 2021. Dalam penyelenggaraan manajemen aparatur sipil negara, Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi melaksanakan: 1) koordinasi rencana kerja terkait dengan penyelenggaraan manajemen aparatur sipil negara; dan 2) sinkronisasi dan pengendalian terhadap pelaksanaan tugas dan fungsi di bidang manajemen aparatur sipil negara.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 23 Agustus 2024.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 118 Tahun 2014 tentang Sekretariat, Sistem dan Manajemen Sumber Daya Manusia, Tata Kerja, serta Tanggung Jawab dan Pengelolaan Keuangan Komisi Aparatur Sipil Negara (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 242), dicabut dan dinyatakan tidak berlaku.\nPada saat Peraturan Presiden ini mulai berlaku, pendanaan, pegawai, barang milik/kekayaan negara, dan dokumen pada Sekretariat Komisi Aparatur Sipil Negara, dialihkan ke Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi sesuai dengan ketentuan peraturan perundang-undangan.\nLampiran file: 6 hlm.",
+ "citations": [
+  "UU-2023-20",
+  "PERPRES-2021-47"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/356032/Perpres%20Nomor%2091%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:27:28Z"
+}

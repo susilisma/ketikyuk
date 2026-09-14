@@ -1,0 +1,58 @@
+{
+ "id": "PERPRES-2015-55",
+ "source": "bpk",
+ "bpk_id": 41794,
+ "url": "https://peraturan.bpk.go.id/Details/41794/perpres-no-55-tahun-2015",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "55",
+ "number_raw": "55",
+ "year": 2015,
+ "title": "Peraturan Presiden (Perpres) Nomor 55 Tahun 2015 tentang Perubahan atas Peraturan Presiden Nomor 17 Tahun 2012 tentang Utusan Khusus Presiden, Staf Khusus Presiden, dan Staf Khusus Wakil Presiden",
+ "about": "Perubahan atas Peraturan Presiden Nomor 17 Tahun 2012 tentang Utusan Khusus Presiden, Staf Khusus Presiden, dan Staf Khusus Wakil Presiden",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA",
+ "field": "",
+ "date_enacted": "2015-05-04",
+ "date_promulgated": "2015-05-04",
+ "date_effective": "2015-05-04",
+ "gazette": "LN.2015/NO.97, LL SETKAB : 4 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-137",
+   "target_bpk_id": 305127,
+   "label": "Perpres No. 137 Tahun 2024",
+   "about": "Penasihat Khusus Presiden, Utusan Khusus Presiden, Staf Khusus Presiden, dan Staf Khusus Wakil Presiden"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2020-56",
+   "target_bpk_id": 135922,
+   "label": "PERPRES No. 56 Tahun 2020",
+   "about": "Perubahan Ketiga atas Peraturan Presiden Nomor 17 Tahun 2012 tentang Utusan Khusus Presiden, Staf Khusus Presiden, dan Staf Khusus Wakil Presiden"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2018-39",
+   "target_bpk_id": 85637,
+   "label": "PERPRES No. 39 Tahun 2018",
+   "about": "Perubahan Kedua atas Peraturan Presiden Nomor 17 Tahun 2012 tentang Utusan Khusus Presiden, Staf Khusus Presiden dan Staf Khusus Wakil Presiden"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2012-17",
+   "target_bpk_id": 41260,
+   "label": "PERPRES No. 17 Tahun 2012",
+   "about": "Utusan Khusus Presiden, Staf Khusus Presiden, dan Staf Khusus Wakil Presiden"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 04 Mei 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/258221/Perpres%20Nomor%2055%20Tahun%202015.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:28:50Z"
+}

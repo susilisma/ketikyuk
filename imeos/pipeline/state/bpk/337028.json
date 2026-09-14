@@ -1,0 +1,50 @@
+{
+ "id": "PMK-2025-94",
+ "source": "bpk",
+ "bpk_id": 337028,
+ "url": "https://peraturan.bpk.go.id/Details/337028/pmk-no-94-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "94",
+ "number_raw": "94",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 94 Tahun 2025 tentang Penjualan Surat Utang Negara dengan Cara Pengumpulan Pemesanan di Pasar Perdana Domestik",
+ "about": "Penjualan Surat Utang Negara dengan Cara Pengumpulan Pemesanan di Pasar Perdana Domestik",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PIUTANG, UTANG, DAN HIBAH NEGARA / DAERAH",
+ "field": "HUKUM DAGANG",
+ "date_enacted": "2025-12-18",
+ "date_promulgated": "2025-12-24",
+ "date_effective": "2025-12-24",
+ "gazette": "BN 2025 (1111); 15 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2020-27",
+   "target_bpk_id": 136898,
+   "label": "PMK No. 27/PMK.08/2020",
+   "about": "Penjualan Sura Utang Negara Ritel Di Pasar Perdana Domestik"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2012-128",
+   "target_bpk_id": 164276,
+   "label": "PMK No. 128/PMK.08/2012",
+   "about": "Penjualan Surat Utang Negara dalam Valuta Asing di Pasar Perdana Domestik dengan Cara Bookbuilding"
+  }
+ ],
+ "abstract": "a. bahwa untuk melakukan simplifikasi pengaturan dan\npenyempurnaan kebijakan pengelolaan surat utang\nnegara ritel dan penjualan surat utang negara dalam\nvaluta asing di pasar perdana domestik serta memberikan\npedoman pelaksanaan penjualan surat utang negara\ndengan cara pengumpulan pemesanan, perlu disusun\npengaturan kembali ketentuan penjualan surat utang\nnegara dengan cara pengumpulan pemesanan;\nb. bahwa penjualan surat utang negara ritel di pasar perdana\ndomestik sebagaimana diatur dalam Peraturan Menteri\nKeuangan Nomor 27/PMK.08/2020 tentang Penjualan\nSurat Utang Negara Ritel di Pasar Perdana Domestik, dan\npenjualan surat utang negara dalam valuta asing di pasar\nperdana domestik dengan cara bookbuilding sebagaimana\ndiatur dalam Peraturan Menteri Keuangan Nomor\n128/PMK.08/2012 tentang Penjualan Surat Utang Negara\ndalam Valuta Asing di Pasar Perdana Domestik dengan\ncara Bookbuilding, perlu diselaraskan dalam satu regulasi\nyang lebih komprehensif;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a dan huruf b, perlu menetapkan Peraturan\nMenteri Keuangan tentang Penjualan Surat Utang Negara\ndengan Cara Pengumpulan Pemesanan di Pasar Perdana\nDomestik;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 24 Tahun 2002, Undang-Undang Nomor 39 Tahun 2008, Peraturan Presiden Nomor 158 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengatur tentang ketentuan umum, ketentuan penjualan, mitra distribusi, dokumen penerbitan SUN dan penjualan dengan cara pengumpulan pemesanan, penetapan penerbitan SUN dan penjualan dengan cara pengumpulan pemesanan, pengumuman hasil penjualan, ketentuan peralihan dan ketentuan penutup.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 24 Desember 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas:\na. Peraturan Menteri Keuangan Nomor 27/PMK.08/2020\ntentang Penjualan Surat Utang Negara Ritel di Pasar\nPerdana Domestik\nb. Peraturan Menteri Keuangan Nomor 128/PMK.08/2012\ntentang Penjualan Surat Utang Negara dalam Valuta Asing\ndi Pasar Perdana Domestik dengan Cara Bookbuilding",
+ "citations": [
+  "PMK-2012-128",
+  "UU-2002-24",
+  "UU-2008-39",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/399890/94%20th%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:32:14Z"
+}

@@ -1,0 +1,44 @@
+{
+ "id": "PERMENDAG-2017-26",
+ "source": "bpk",
+ "bpk_id": 128676,
+ "url": "https://peraturan.bpk.go.id/Details/128676/permendag-no-26m-dagper52017-tahun-2017",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "26",
+ "number_raw": "26/M-DAG/PER/5/2017",
+ "year": 2017,
+ "title": "Peraturan Menteri Perdagangan Nomor 26/M-DAG/PER/5/2017 Tahun 2017 tentang Pengawasan Metrologi Legal",
+ "about": "Pengawasan Metrologi Legal",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "",
+ "date_enacted": "2017-05-05",
+ "date_promulgated": "2017-05-10",
+ "date_effective": "2017-05-10",
+ "gazette": "BN 2017/NO 674; KEMENDAG.GO.ID : 85 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2025-30",
+   "target_bpk_id": 331224,
+   "label": "Permendag No. 30 Tahun 2025",
+   "about": "Pengawasan Metrologi Legal"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2014-71",
+   "target_bpk_id": 135017,
+   "label": "Permendag No. 71/M-DAG/PER/10/2014 Tahun 2014",
+   "about": "Pengawasan Alat-Alat Ukur, Takar, Timbang, dan Perlengkapannya, Barang Dalam Keadaan Terbungkus, dan Satuan Ukuran"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 10 Mei 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/119609/Permendag%20No.%2026%20Tahun%202017.PDF"
+ ],
+ "fetched_at": "2026-09-14T06:37:04Z"
+}

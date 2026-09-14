@@ -1,0 +1,39 @@
+{
+ "id": "UU-2024-33",
+ "source": "bpk",
+ "bpk_id": 295142,
+ "url": "https://peraturan.bpk.go.id/Details/295142/uu-no-33-tahun-2024",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "33",
+ "number_raw": "33",
+ "year": 2024,
+ "title": "Undang-undang (UU) Nomor 33 Tahun 2024 tentang Kabupaten Bintan di Provinsi Kepulauan Riau",
+ "about": "Kabupaten Bintan di Provinsi Kepulauan Riau",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2024-08-07",
+ "date_promulgated": "2024-08-07",
+ "date_effective": "2024-08-07",
+ "gazette": "LN 2024 (139), TLN (6954): 5 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-1956-12",
+   "target_bpk_id": 51095,
+   "label": "UU No. 12 Tahun 1956",
+   "about": "Pembentukan Daerah Otonom Kabupaten Dalam Lingkungan Daerah Propinsi Sumatera Tengah"
+  }
+ ],
+ "abstract": "Undang-undang Nomor 12 Tahun 1956 tentang Pembentukan Daerah Otonom Kabupaten dalam Lingkungan Daerah Propinsi Sumatera Tengah sudah tidak sesuai lagi dengan perkembangan hukum sehingga perlu diganti.\nDasar hukum UU ini adalah Pasal 18, Pasal 18A, Pasal 18B ayat (2), Pasal 20, Pasal 21, dan Pasal 22D ayat (2) UUD 1945.\nUU ini mengatur tentang Kabupaten Bintan di Provinsi Kepulauan Riau dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Kabupaten Bintan terdiri atas 10 (sepuluh) kecamatan. Ibu Kota Kabupaten Bintan bernama Bandar Seri Bentan yang berkedudukan di Kecamatan Teluk Bintan.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 07 Agustus 2024.\nPada saat Undang-Undang ini mulai berlaku, ketentuan yang mengatur mengenai Kabupaten Bintan dalam Undang-undang Nomor 12 Tahun 1956 tentang pembentukan Daerah Otonom Kabupaten dalam lingkungan Daerah Propinsi Sumatera Tengah (Lembaran Negara Nomor 25 Tahun 1956), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 8 hlm.",
+ "citations": [
+  "UU-1956-12"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/354524/UU%20Nomor%2033%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:27:06Z"
+}

@@ -1,0 +1,47 @@
+{
+ "id": "PMK-2026-60",
+ "source": "bpk",
+ "bpk_id": 353747,
+ "url": "https://peraturan.bpk.go.id/Details/353747/pmk-no-60-tahun-2026",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "60",
+ "number_raw": "60",
+ "year": 2026,
+ "title": "Peraturan Menteri Keuangan Nomor 60 Tahun 2026 tentang Penetapan Tarif Bea Masuk Dalam Rangka Persetujuan Antara Republik Indonesia dan Jepang Mengenai Suatu Kemitraan Ekonomi (Agreement Betwen The Republic Of Indonesia and Japan For an Economic Partneship)",
+ "about": "Penetapan Tarif Bea Masuk Dalam Rangka Persetujuan Antara Republik Indonesia dan Jepang Mengenai Suatu Kemitraan Ekonomi (Agreement Betwen The Republic Of Indonesia and Japan For an Economic Partneship)",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-07-31",
+ "date_promulgated": "2026-07-31",
+ "date_effective": "2026-08-01",
+ "gazette": "BN.2026 (537)/983 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2022-50",
+   "target_bpk_id": 215309,
+   "label": "PMK No. 50/PMK.010/2022",
+   "about": "Penetapan Tarif Bea Masuk dalam rangka Persetujuan antara Republik Indonesia dan Jepang mengenai Suatu Kemitraan Ekonomi (Agreement between The Republic of Indonesia and Japan for an Economic Partnership)"
+  }
+ ],
+ "abstract": "a. bahwa dengan telah diundangkannya Peraturan Presiden Nomor 32 Tahun 2026 tentang Pengesahan Protokol Perubahan Persetujuan antara Republik Indonesia dan Jepang mengenai suatu Kemitraan Ekonomi (Protocol Amending the Agreement between The Republic of Indonesia and Japan for an Economic Partnership) perlu disusun peraturan untuk memberikan dasar hukum penetapan tarif bea masuk;\nb.\nbahwa Peraturan Menteri Keuangan Nomor 50/PMK.010/2022 tentang Penetapan Tarif Bea Masuk dalam rangka Persetujuan antara Republik Indonesia dan Jepang mengenai suatu Kemitraan Ekonomi (Agreement between The Republic of Indonesia and Japan for an Economic Partnership) belum mengakomodir tambahan komitmen akses pasar Indonesia berdasarkan Protokol Perubahan Indonesia-Japan Economic Partnership Agreement, termasuk pengaturan tariff rate quota dan penyesuaian skema User Specific Duty Free Scheme, sehingga perlu dilakukan penggantian;\nc.\nbahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, serta untuk melaksanakan ketentuan Pasal 13 ayat (2) Undang-Undang Nomor 17 Tahun 2006 tentang Perubahan atas Undang-Undang Nomor 10 Tahun 1995 tentang Kepabeanan, perlu menetapkan Peraturan Menteri Keuangan tentang Penetapan Tarif Bea Masuk dalam rangka Persetujuan antara Republik Indonesia dan Jepang mengenai suatu Kemitraan Ekonomi (Agreement between The Republic of Indonesia and Japan for an Economic Partnership);\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 10 Tahun 1995, Undang-Undang Nomor 39 Tahun 2008, Peraturan Presiden Nomor 36 Tahun 2008, Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Presiden Nomor 32 Tahun 2026, Peraturan Menteri Keuangan Nomor 26/PMK.010/2022 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024.\nPeraturan ini mengatur tentang tarif bea masuk atas barang impor dari Jepang dalam rangka Persetujuan antara Republik Indonesia dan Jepang Mengenai Suatu Kemitraan Ekonomi (Agreement between The Republic of Indonesia and Japan for an Economic Partnership).",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 01 Agustus 2026.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan Menteri Keuangan Nomor 50/PMK.010/2022 tentang Penetapan Tarif Bea Masuk dalam rangka Persetujuan antara Republik Indonesia dan Jepang mengenai suatu Kemitraan Ekonomi (Agreement between The Republic of Indonesia and Japan for an Economic Partnership)",
+ "citations": [
+  "PERPRES-2026-32",
+  "PMK-2022-50",
+  "UU-2006-17",
+  "UU-1995-10",
+  "UU-2008-39",
+  "PERPRES-2008-36",
+  "PERPRES-2024-158",
+  "PMK-2022-26",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/417650/2026pmkeuangan060.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:30:20Z"
+}

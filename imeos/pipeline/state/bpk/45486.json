@@ -1,0 +1,68 @@
+{
+ "id": "UU-1998-10",
+ "source": "bpk",
+ "bpk_id": 45486,
+ "url": "https://peraturan.bpk.go.id/Details/45486/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "10",
+ "number_raw": "10",
+ "year": 1998,
+ "title": "Undang-undang (UU) Nomor 10 Tahun 1998 tentang Perubahan atas Undang-Undang Nomor 7 Tahun 1992 tentang Perbankan",
+ "about": "Perubahan atas Undang-Undang Nomor 7 Tahun 1992 tentang Perbankan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "",
+ "date_enacted": "1998-11-10",
+ "date_promulgated": "1998-11-10",
+ "date_effective": "1998-11-10",
+ "gazette": "LN. 1998/ No. 182, TLN NO. 3790, LL SETNEG : 32 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-4",
+   "target_bpk_id": 240203,
+   "label": "UU No. 4 Tahun 2023",
+   "about": "Pengembangan dan Penguatan Sektor Keuangan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 234926,
+   "label": "PERPU No. 2 Tahun 2022",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 53482,
+   "label": "PERPU No. 21 Tahun 1960",
+   "about": "Bank Pembangunan Indonesia"
+  }
+ ],
+ "abstract": "Dalam menghadapi perkembangan perekonomian nasional yang senantiasa bergerak cepat, kompetitif, dan terintegrasi dengan tantangan yang semakin kompleks serta sistem keuangan yang semakin maju, diperlukan penyesuaian kebijakan di bidang ekonomi, termasuk Perbankan. Dengan dengan telah diratifikasinya beberapa perjanjian internasional di bidang perdagangan barang dan jasa, diperlukan penyesuaian terhadap peraturan perundang-undangan di bidang perekonomian khususnya sektor Perbankan.\nDasar hukum UU ini adalah Pasal 5 ayat (1), Pasal 20 ayat (1), Pasal 23, dan Pasal 33 Undang-Undang Dasar 1945; UU Nomor 13 Tahun 1968 tentang Bank Sentral; dan UU Nomor 7 Tahun 1992 tentang Perbankan.\nDalam UU ini diatur mengenai perubahan beberapa pasal dalam UU Nomor 7 Tahun 1992. Pasal yang diubah yaitu Pasal 1, Pasal 6, Pasal 7, Pasal 8, Pasal 11, Pasal 12Pasl 13, Pasal 16, Pasal 18, Pasal 19, Pasal 20Pasal 21, Pasal 22, Pasal 26, Pasal 27, Pasal 28, Pasal 29, Pasal 31, Pasal 33, Pasal 37, Pasal 40, Pasal 41, Pasal 42, Pasal 47, Pasal 48, Pasal 49, Pasal 50, Pasal 51, Pasal 52, dan Pasal 55. Terdapat pasal yang dihapus yaitu Pasal 17 dan Pasal 32.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 10 November 1998.\nDengan berlakunya Undang-undang ini, Peraturan tentang Usaha Perkreditan Yang Diselenggarakan Oleh Kelurahan Di Daerah Kadipaten Paku Alaman (Rijksblaad Dari Daerah Paku Alaman Tahun 1937 Nomor 9), dinyatakan tidak berlaku.\nTelah dilakukan uji materiil oleh Mahkamah Konstitusi dengan putusan Nomor 64/PUU-X/2012.\nPenjelasan : 31 hlm.",
+ "citations": [
+  "UU-1968-13",
+  "UU-1992-7"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/34003/UU%20Nomor%2010%20Tahun%201998.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:25:42Z"
+}

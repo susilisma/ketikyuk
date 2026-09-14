@@ -1,0 +1,44 @@
+{
+ "id": "PERMENAKER-2024-2",
+ "source": "bpk",
+ "bpk_id": 282153,
+ "url": "https://peraturan.bpk.go.id/Details/282153/permenaker-no-2-tahun-2024",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "2",
+ "number_raw": "2",
+ "year": 2024,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 2 Tahun 2024 tentang Pencabutan Peraturan Menteri Ketenagakerjaan Nomor 2 Tahun 2018 tentang Jumlah Jam Minimal Tatap Muka dan Pemberian Honorarium atas Kelebihan Jam Minimal Tatap Muka bagi Jabatan Fungsional Instruktur sebagaimana telah diubah dengan Peraturan Menteri Ketenagakerjaan Nomor 16 Tahun 2019 tentang Perubahan atas Peraturan Menteri Ketenagakerjaan Nomor 2 Tahun 2018 tentang Jumlah Jam Minimal Tatap Muka dan Pemberian Honorarium atas Kelebihan Jam Minimal Tatap Muka bagi Jabatan Fungsional Instruktur",
+ "about": "Pencabutan Peraturan Menteri Ketenagakerjaan Nomor 2 Tahun 2018 tentang Jumlah Jam Minimal Tatap Muka dan Pemberian Honorarium atas Kelebihan Jam Minimal Tatap Muka bagi Jabatan Fungsional Instruktur sebagaimana telah diubah dengan Peraturan Menteri Ketenagakerjaan Nomor 16 Tahun 2019 tentang Perubahan atas Peraturan Menteri Ketenagakerjaan Nomor 2 Tahun 2018 tentang Jumlah Jam Minimal Tatap Muka dan Pemberian Honorarium atas Kelebihan Jam Minimal Tatap Muka bagi Jabatan Fungsional Instruktur",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-01-25",
+ "date_promulgated": "2024-01-29",
+ "date_effective": "2024-01-29",
+ "gazette": "BN 2024 (61); 3 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENAKER-2019-16",
+   "target_bpk_id": 145271,
+   "label": "Permenaker No. 16 Tahun 2019",
+   "about": "Perubahan atas Peraturan Menteri Ketenagakerjaan Nomor 2 Tahun 2018 tentang Jumlah Jam Minimal Tatap Muka dan Pemberian Honorarium atas Kelebihan Jam Minimal Tatap Muka bagi Jabatan Fungsional Instruktur"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENAKER-2018-2",
+   "target_bpk_id": 145408,
+   "label": "Permenaker No. 2 Tahun 2018",
+   "about": "Jumlah Jam Minimal Tatap Muka dan Pemberian Honorarium atas Kelebihan Jam Minimal Tatap Muka bagi Jabatan Fungsional Instruktur"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 29 Januari 2024.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/341097/Permenaker%20Nomor%202%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:41:48Z"
+}

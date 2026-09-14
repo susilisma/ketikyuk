@@ -1,0 +1,37 @@
+{
+ "id": "PERMENAKER-2021-6",
+ "source": "bpk",
+ "bpk_id": 171225,
+ "url": "https://peraturan.bpk.go.id/Details/171225/permenaker-no-6-tahun-2021",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "6",
+ "number_raw": "6",
+ "year": 2021,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 6 Tahun 2021 tentang Standar Kegiatan Usaha dan/atau Produk pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Ketenagakerjaan",
+ "about": "Standar Kegiatan Usaha dan/atau Produk pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Ketenagakerjaan",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "KETENAGAKERJAAN - PERIZINAN, PELAYANAN PUBLIK - STANDAR / PEDOMAN",
+ "field": "",
+ "date_enacted": "2021-03-31",
+ "date_promulgated": "2021-04-01",
+ "date_effective": "2021-04-01",
+ "gazette": "BN 2021/NO. 269; PERATURAN.GO.ID: 4 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENAKER-2025-14",
+   "target_bpk_id": 343010,
+   "label": "Permenaker No. 14 Tahun 2025",
+   "about": "Standar Kegiatan Usaha dan Standar Produk/Jasa pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Ketenagakerjaan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 01 April 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/164389/No%206%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:41:00Z"
+}

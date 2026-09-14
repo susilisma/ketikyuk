@@ -1,0 +1,53 @@
+{
+ "id": "PMK-2025-69",
+ "source": "bpk",
+ "bpk_id": 332100,
+ "url": "https://peraturan.bpk.go.id/Details/332100/pmk-no-69-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "69",
+ "number_raw": "69",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 69 Tahun 2025 tentang Tarif Layanan Badan Layanan Umum Badan Pengelola Dana Perkebunan pada Kementerian Keuangan",
+ "about": "Tarif Layanan Badan Layanan Umum Badan Pengelola Dana Perkebunan pada Kementerian Keuangan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BADAN LAYANAN UMUM - KEHUTANAN DAN PERKEBUNAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-10-10",
+ "date_promulgated": "2025-10-15",
+ "date_effective": "2025-10-21",
+ "gazette": "BN.2025 (831)/14 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2026-9",
+   "target_bpk_id": 345960,
+   "label": "PMK No. 9 Tahun 2026",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 69 Tahun 2025 tentang Tarif Layanan Badan Layanan Umum  Badan Pengelola Dana Perkebunan pada Kementerian Keuangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2025-30",
+   "target_bpk_id": 319300,
+   "label": "PMK No. 30 Tahun 2025",
+   "about": "Tarif Layanan Badan Layanan Umum  Badan Pengelola Dana Perkebunan Pada Kementerian Keuangan"
+  }
+ ],
+ "abstract": "a. bahwa untuk meningkatkan produktivitas produk\nperkebunan dan memberikan nilai tambah produk hilir\ndi tingkat petani, diperlukan penambahan\njenis pungutan dana perkebunan atas ekspor hasil\nkomoditas perkebunan berupa biji kakao melalui\npengaturan tarif layanan atas barang atau jasa yang\ndiberikan oleh Badan Layanan Umum Badan Pengelola\nDana Perkebunan pada Kementerian Keuangan;\nb. bahwa Peraturan Menteri Keuangan Nomor 30 Tahun\n2025 tentang Tarif Layanan Badan Layanan Umum\nBadan Pengelola Dana Perkebunan pada Kementerian\nKeuangan belum mengatur mengenai tarif pungutan\ndana perkebunan atas ekspor biji kakao, sehingga perlu\ndilakukan penggantian;\nc. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a dan huruf b, serta untuk\nmelaksanakan ketentuan Pasal 9 ayat (8) Peraturan\nPemerintah Nomor 23 Tahun 2005 tentang Pengelolaan\nKeuangan Badan Layanan Umum sebagaimana telah\ndiubah dengan Peraturan Pemerintah Nomor 74 Tahun\n2012 tentang Perubahan atas Peraturan Pemerintah\nNomor 23 Tahun 2005 tentang Pengelolaan Keuangan\nBadan Layanan Umum, perlu menetapkan Peraturan\nMenteri Keuangan tentang Tarif Layanan Badan\nLayanan Umum Badan Pengelola Dana Perkebunan\npada Kementerian Keuangan;\nPasal 17 ayat (3) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945, Undang-Undang Nomor 1 Tahun 2004, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 23 Tahun 2005, Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Menteri Keuangan Nomor 129/PMK.05/2020 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengatur tentang Tarif layanan Badan Layanan Umum Badan Pengelola Dana Perkebunan pada Kementerian Keuangan, Tarif pungutan dana perkebunan atas ekspor, Tarif pungutan dana perkebunan atas ekspor kelapa\nsawit, crude palm oil, dan/atau produk turunannya, Tarif pungutan barang/produk campuran, Jumlah satuan barang/produk untuk penghitungan\npungutan barang/produk campuran, Pungutan dana perkebunan atas ekspor biji kakao dan Tata cara pengenaan tarif pungutan dana perkebunan atas\nekspor",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 21 Oktober 2025.\nPeraturan ini mmencabut dan menyatakan tidak berlaku atas Peraturan\nMenteri Keuangan Nomor 30 Tahun 2025 tentang Tarif\nLayanan Badan Layanan Umum Badan Pengelola Dana\nPerkebunan pada Kementerian Keuangan",
+ "citations": [
+  "PMK-2025-30",
+  "PP-2012-74",
+  "PP-2005-23",
+  "UU-2004-1",
+  "UU-2008-39",
+  "PERPRES-2024-158",
+  "PMK-2020-129",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/394150/69%20th%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:32:50Z"
+}

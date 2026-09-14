@@ -1,0 +1,37 @@
+{
+ "id": "UU-2006-21",
+ "source": "bpk",
+ "bpk_id": 40199,
+ "url": "https://peraturan.bpk.go.id/Details/40199/uu-no-21-tahun-2006",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "21",
+ "number_raw": "21",
+ "year": 2006,
+ "title": "Undang-undang (UU) Nomor 21 Tahun 2006 tentang Pengesahan Persetujuan antara Pemerintah Republik Indonesia dan Pemerintah Republik India tentang Kegiatan Kerja Sama di Bidang Pertahanan (Agreement Between The Government of The Republic of Indonesia and The Government of The Republic ofIndia on Cooperative Activities In The Field of Defence)",
+ "about": "Pengesahan Persetujuan antara Pemerintah Republik Indonesia dan Pemerintah Republik India tentang Kegiatan Kerja Sama di Bidang Pertahanan (Agreement Between The Government of The Republic of Indonesia and The Government of The Republic ofIndia on Cooperative Activities In The Field of Defence)",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PENGESAHAN DAN / ATAU PEMBATALAN PERSETUJUAN / KONVENSI / PERJANJIAN INTERNASIONAL",
+ "field": "",
+ "date_enacted": "2006-12-29",
+ "date_promulgated": "2006-12-29",
+ "date_effective": "2006-12-29",
+ "gazette": "LN.2006/NO.122, TLN NO.4672, LL SETNEG : 3 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-67",
+   "target_bpk_id": 306536,
+   "label": "UU No. 67 Tahun 2024",
+   "about": "Pengesahan Persetujuan antara Pemerintah Republik Indonesia dan Pemerintah Republik India mengenai Kerja Sama dalam Bidang Pertahanan (Agreement between the Government of the Republic of Indonesia and the Government of the Republic of India concerning Cooperation in the Field of Defence)"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 29 Desember 2006.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/29834/UU%20Nomor%2021%20Tahun%202006.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:26:14Z"
+}

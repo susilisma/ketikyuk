@@ -1,0 +1,58 @@
+{
+ "id": "UU-2017-2",
+ "source": "bpk",
+ "bpk_id": 37637,
+ "url": "https://peraturan.bpk.go.id/Details/37637/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "2",
+ "number_raw": "2",
+ "year": 2017,
+ "title": "Undang-undang (UU) Nomor 2 Tahun 2017 tentang Jasa Konstruksi",
+ "about": "Jasa Konstruksi",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KONSTRUKSI, SIPIL, ARSITEK, BANGUNAN, DAN INFRASTRUKTUR",
+ "field": "",
+ "date_enacted": "2017-01-12",
+ "date_promulgated": "2017-01-12",
+ "date_effective": "2017-01-12",
+ "gazette": "LL SETNEG : 58 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 234926,
+   "label": "PERPU No. 2 Tahun 2022",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1999-18",
+   "target_bpk_id": 37638,
+   "label": "UU No. 18 Tahun 1999",
+   "about": "Jasa Konstruksi"
+  }
+ ],
+ "abstract": "bahwa pembangunan nasional bertujuan untuk mewujudkan masyarakat adil dan makmur yang berdasarkan pancasila dan Undang-Undang Dasar\nNegara Republik Indonesia Tahun 1945, bahwa sektor jasa konstruksi merupakan kegiatan masyarakat mewujudkan bangunan yang berfungsi sebagai pendukung atau prasarana aktivitas ekonomi kemasyarakatan guna menunjang terwujudnya\ntujuan pembangunan nasional ,bahwa penyelenggaraan jasa konstruksi harus menjamin ketertiban dan kepastian hukum, bahwa Undang-undang Nomor 1g rahun Lggg tentang Jasa Konstruksi belum dapat memenuhi tuntutan kebutuhan tata kelola yang baik dan dinamika perkembangan penyelenggaraan j asa konstruksi;,bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam perlu membentuk Undang_Undang tentang Jasa Konstruksi;\nPasal 20 dan pasal 2r undang-Undang Dasar Negara Republik Indonesia Tahun l94S\nmateri muatan dalam Undang-Undang ini meliputi tanggung jawab dan kewenangan; usaha Jasa Konstruksi; penyelenggaraan usaha Jasa Konstruksi; keamanan, keselamatan, kesehatan, dan keberlanjutan konstruksi; tenaga kerja konstruksi; pembinaan; sistem informasi Jasa Konstruksi; partisipasi masyarakat; penyelesaian sengketa; sanksi administratif; dan ketentuan peralihan",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 12 Januari 2017.\n57 halaman, 38 lampiran",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/26731/UU%20No%202%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:28Z"
+}

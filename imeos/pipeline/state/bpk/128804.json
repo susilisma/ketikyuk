@@ -1,0 +1,44 @@
+{
+ "id": "PERMENDAG-2016-22",
+ "source": "bpk",
+ "bpk_id": 128804,
+ "url": "https://peraturan.bpk.go.id/Details/128804/permendag-no-22m-dagper32016-tahun-2016",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "22",
+ "number_raw": "22/M-DAG/PER/3/2016",
+ "year": 2016,
+ "title": "Peraturan Menteri Perdagangan Nomor 22/M-DAG/PER/3/2016 Tahun 2016 tentang Ketentuan Umum Distribusi Barang",
+ "about": "Ketentuan Umum Distribusi Barang",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "",
+ "date_enacted": "2016-03-28",
+ "date_promulgated": null,
+ "date_effective": "2016-03-28",
+ "gazette": "JDIH.KEMENDAG.GO.ID : 15 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2025-26",
+   "target_bpk_id": 331163,
+   "label": "Permendag No. 26 Tahun 2025",
+   "about": "Pencabutan 4 (Empat) Peraturan Menteri Perdagangan Di Bidang Perdagangan Dalam Negeri"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENDAG-2019-66",
+   "target_bpk_id": 128619,
+   "label": "Permendag No. 66 Tahun 2019",
+   "about": "Perubahan Atas Peraturan Menteri Perdagangan Nomor 22/M-Dag/Per/3/2016 Tentang Ketentuan Umum Distribusi Barang"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 28 Maret 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/263664/Permendag%20No.%2022%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:37:15Z"
+}

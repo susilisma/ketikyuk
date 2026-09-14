@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2016-9",
+ "source": "bpk",
+ "bpk_id": 144771,
+ "url": "https://peraturan.bpk.go.id/Details/144771/pmk-no-9pmk022016",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "9",
+ "number_raw": "9/PMK.02/2016",
+ "year": 2016,
+ "title": "Peraturan Menteri Keuangan Nomor 9/PMK.02/2016 Tahun 2016 tentang Tata Cara Pembayaran Pajak Air Permukaan, Pajak Air Tanah, dan Pajak Penerangan Jalan Untuk Kegiatan Usaha Hulu Minyak dan Gas Bumi yang Dibayarkan oleh Pemerintah Pusat",
+ "about": "Tata Cara Pembayaran Pajak Air Permukaan, Pajak Air Tanah, dan Pajak Penerangan Jalan Untuk Kegiatan Usaha Hulu Minyak dan Gas Bumi yang Dibayarkan oleh Pemerintah Pusat",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERTAMBANGAN MIGAS, MINERAL DAN ENERGI - PERPAJAKAN",
+ "field": "",
+ "date_enacted": "2016-01-26",
+ "date_promulgated": "2016-01-26",
+ "date_effective": "2016-03-26",
+ "gazette": "BN.2016/NO.122, jdih.kemenkeu.go.id : 15 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-139",
+   "target_bpk_id": 312058,
+   "label": "PMK No. 139 Tahun 2024",
+   "about": "Tata Cara Pembayaran atas Tagihan kepada Pemerintah dalam Kegiatan Usaha Hulu Minyak dan Gas Bumi"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2017-195",
+   "target_bpk_id": 112938,
+   "label": "PMK No. 195/PMK.02/2017",
+   "about": "Perubahan Atas Peraturan Menteri Keuangan Nomor 9/PMK.02/2016 Tentang Tata Cara Pembayaran Pajak Air Permukaan, Pajak Air Tanah, Dan Pajak Penerangan Jalan Untuk Kegiatan Usaha Hulu Minyak Dan Gas Bumi Yang Dibayarkan Oleh Pemerintah Pusat"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 26 Maret 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/136551/PMK%209_PMK.02_2016.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:34:01Z"
+}

@@ -1,0 +1,44 @@
+{
+ "id": "UU-1951-1",
+ "source": "bpk",
+ "bpk_id": 39807,
+ "url": "https://peraturan.bpk.go.id/Details/39807/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "1",
+ "number_raw": "1",
+ "year": 1951,
+ "title": "Undang-undang (UU) Nomor 1 Tahun 1951 tentang Pernyataan Berlakunya Undang-Undang Kerja Tahun 1948 Nr. 12 dari Republik Indonesia untuk Seluruh Indonesia",
+ "about": "Pernyataan Berlakunya Undang-Undang Kerja Tahun 1948 Nr. 12 dari Republik Indonesia untuk Seluruh Indonesia",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KETENAGAKERJAAN",
+ "field": "",
+ "date_enacted": "1951-01-06",
+ "date_promulgated": "1951-01-08",
+ "date_effective": null,
+ "gazette": "LL SETNEG: 7 Hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2003-13",
+   "target_bpk_id": 43013,
+   "label": "UU No. 13 Tahun 2003",
+   "about": "Ketenagakerjaan"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-1997-25",
+   "target_bpk_id": 46026,
+   "label": "UU No. 25 Tahun 1997",
+   "about": "Ketenagakerjaan"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal .",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/29390/UU%20Nomor%201%20Tahun%201951.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:21Z"
+}

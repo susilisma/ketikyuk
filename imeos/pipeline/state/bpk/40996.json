@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2016-92",
+ "source": "bpk",
+ "bpk_id": 40996,
+ "url": "https://peraturan.bpk.go.id/Details/40996/perpres-no-92-tahun-2016",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "92",
+ "number_raw": "92",
+ "year": 2016,
+ "title": "Peraturan Presiden (Perpres) Nomor 92 Tahun 2016 tentang Tunjangan Kinerja Pegawai Di Lingkungan Sekretariat Jenderal Dan Badan Keahlian Dewan Perwakilan Rakyat Republik Indonesia",
+ "about": "Tunjangan Kinerja Pegawai Di Lingkungan Sekretariat Jenderal Dan Badan Keahlian Dewan Perwakilan Rakyat Republik Indonesia",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA",
+ "field": "",
+ "date_enacted": "2016-11-21",
+ "date_promulgated": "2016-11-22",
+ "date_effective": "2016-11-22",
+ "gazette": "LN No. 245/2016",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-135",
+   "target_bpk_id": 305120,
+   "label": "Perpres No. 135 Tahun 2024",
+   "about": "Tunjangan Kinerja Pegawai di Lingkungan Sekretariat Jenderal Dewan Perwakilan Rakyat Republik Indonesia"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2014-41",
+   "target_bpk_id": 41528,
+   "label": "PERPRES No. 41 Tahun 2014",
+   "about": "Tunjangan Kinerja Pegawai Negeri Sipil di Lingkungan Sekretariat Jenderal Dewan Perwakilan Rakyat Republik Indonesia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 22 November 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/33155/Perpres%20Nomor%2092%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:28:55Z"
+}

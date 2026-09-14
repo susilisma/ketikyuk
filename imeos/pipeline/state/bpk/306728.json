@@ -1,0 +1,41 @@
+{
+ "id": "PERPRES-2024-164",
+ "source": "bpk",
+ "bpk_id": 306728,
+ "url": "https://peraturan.bpk.go.id/Details/306728/perpres-no-164-tahun-2024",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "164",
+ "number_raw": "164",
+ "year": 2024,
+ "title": "Peraturan Presiden (Perpres) Nomor 164 Tahun 2024 tentang Kementerian Ketenagakerjaan",
+ "about": "Kementerian Ketenagakerjaan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KETATANEGARAAN, KENEGARAAN - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "HUKUM TATA NEGARA",
+ "date_enacted": "2024-11-05",
+ "date_promulgated": "2024-11-05",
+ "date_effective": "2024-11-05",
+ "gazette": "LN 2024 (360) : 18 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2020-95",
+   "target_bpk_id": 147507,
+   "label": "PERPRES No. 95 Tahun 2020",
+   "about": "Kementerian Ketenagakerjaan"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 11 Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara sebagaimana telah diubah dengan Undang-Undang Nomor 61 Tahun 2024 tentang Perubahan atas Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara, perlu menetapkan Peraturan Presiden tentang Kementerian Ketenagakerjaan.\nDasar Hukum Perpres ini adalah Pasal 4 ayat (1) dan Pasal 17 UUD NRI Tahun 1945; UU Nomor 39 Tahun 2008; dan Perpres Nomor 140 Tahun 2024.\nPerpres ini mengatur mengenai Kementerian Ketenagakerjaan yang menyelenggarakan urusan pemerintahan di bidang ketenagakerjaan. Kementerian ini dipimpin oleh Menteri berada di bawah dan bertanggung jawab kepada Presiden. Dalam memimpin Kementerian, Menteri dapat dibantu oleh wakil menteri sesuai dengan penunjukan Presiden, Wakil menteri berada di bawah dan bertanggung jawab kepada Menteri. Kementerian mempunyai tugas menyelenggarakan urusan pemerintahan di bidang ketenagakerjaan untuk membantu Presiden dalam menyelenggarakan pemerintahan negara. Dalam melaksanakan tugas Kementerian menyelenggarakan fungsi antara lain sebagai berikut; 1. perumusan, penetapan, dan pelaksanaan kebijakan di bidang peningkatan kompetensi dan daya saing tenaga kerja serta produktivitas, peningkatan penempatan tenaga kerja dalam negeri dan perluasan kesempatan kerja, peningkatan hubungan industrial dan jaminan sosial tenaga kerja, serta pengawasan ketenagakerjaan dan keselamatan dan kesehatan kerja; 2. pelaksanaan bimbingan teknis dan supervisi atas pelaksanaan urusan Kementerian di daerah; dan 3. koordinasi pelaksanaan tugas, pembinaan, dan pemberian dukungan administrasi kepada seluruh unsur organisasi di lingkungan Kementerian.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 05 November 2024.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 95 Tahun 2020 tentang Kementerian Ketenagakerjaan (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 213), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 18 hlm",
+ "citations": [
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2024-140"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/367014/Perpres%20Nomor%20164%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:28:01Z"
+}

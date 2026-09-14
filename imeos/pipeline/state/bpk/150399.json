@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKOMINFO-2017-22",
+ "source": "bpk",
+ "bpk_id": 150399,
+ "url": "https://peraturan.bpk.go.id/Details/150399/permenkominfo-no-22-tahun-2017",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Informatika",
+ "number": "22",
+ "number_raw": "22",
+ "year": 2017,
+ "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 22 Tahun 2017 tentang Persyaratan dan Tata Cara Pengenaan Tarif RP0,00 (Nol Rupiah) dan 50% (Lima Puluh Perseratus) dari Tarif Penerimaan Negara Bukan Pajak Pada Sekolah Tinggi Multi Media dan Balai Pelatihan dan Pengembangan Teknologi Informasi dan Komunikasi",
+ "about": "Persyaratan dan Tata Cara Pengenaan Tarif RP0,00 (Nol Rupiah) dan 50% (Lima Puluh Perseratus) dari Tarif Penerimaan Negara Bukan Pajak Pada Sekolah Tinggi Multi Media dan Balai Pelatihan dan Pengembangan Teknologi Informasi dan Komunikasi",
+ "issuer": "Kementerian Komunikasi dan Informatika",
+ "subject": "PNBP / PENERIMAAN NEGARA BUKAN PAJAK - TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET",
+ "field": "",
+ "date_enacted": "2017-11-01",
+ "date_promulgated": "2017-11-08",
+ "date_effective": "2017-11-08",
+ "gazette": "BN.2017/NO.1571, KOMINFO.GO.ID : 12 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 282031,
+   "label": "Permenkominfo No. 1 Tahun 2024",
+   "about": "Besaran, Persyaratan, dan Tata Cara Pengenaan Tarif Sampai Dengan Rp0,00 (Nol Rupiah) atau 0% (Nol Persen) atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Kementerian Komunikasi dan Informatika"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 150529,
+   "label": "Permenkominfo No. 8 Tahun 2016",
+   "about": "Persyaratan dan Tata Cara Pengenaan Tarif Terhadap Pihak Tertentu atas Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak pada Balai Pelatihan dan Pengembangan Teknologi Informasi dan Komunikasi Cikarang"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Komunikasi dan Informatika ini mulai berlaku pada tanggal 08 November 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/253982/Permen%20Kominfo%20Nomor%2022%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:42:14Z"
+}

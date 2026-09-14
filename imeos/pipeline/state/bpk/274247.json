@@ -1,0 +1,39 @@
+{
+ "id": "PP-2023-58",
+ "source": "bpk",
+ "bpk_id": 274247,
+ "url": "https://peraturan.bpk.go.id/Details/274247/pp-no-58-tahun-2023",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "58",
+ "number_raw": "58",
+ "year": 2023,
+ "title": "Peraturan Pemerintah (PP) Nomor 58 Tahun 2023 tentang Tarif Pemotongan Pajak Penghasilan Pasal 21 atas Penghasilan Sehubungan dengan Pekerjaan, Jasa, atau Kegiatan Wajib Pajak Orang Pribadi",
+ "about": "Tarif Pemotongan Pajak Penghasilan Pasal 21 atas Penghasilan Sehubungan dengan Pekerjaan, Jasa, atau Kegiatan Wajib Pajak Orang Pribadi",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERPAJAKAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2023-12-27",
+ "date_promulgated": "2023-12-27",
+ "date_effective": null,
+ "gazette": "LN 2023 (163), TLN (6904): 6 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut sebagian",
+   "target": "PP-2010-80",
+   "target_bpk_id": 5104,
+   "label": "PP No. 80 Tahun 2010",
+   "about": "Tarif Pemotongan Dan Pengenaan Pajak Penghasilan Pasal 21 Atas Penghasilan Yang Menjadi Beban Anggaran Pendapatan Dan Belanja Negara Atau Anggaran Pendapatan Dan Belanja Daerah"
+  }
+ ],
+ "abstract": "Dalam rangka memberikan kemudahan dan kesederhanaan pelaksanaan pemenuhan kewajiban perpajakan kepada Wajib Pajak atas pemotongan Penghasilan Pasal 21, termasuk bagi pejabat negara, pegawai negeri sipil, anggota tentara nasional Indonesia, anggota kepolisian negara Republik Indonesia, dan pensiunannya, perlu dilakukan penyesuaian mekanisme pemotongan dan pengenaan Pajak Penghasilan Pasal 21.\nDasar hukum PP ini adalah Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 dan UU Nomor 7 Tahun 1983.\nPP ini mengatur tentang Tarif Pemotongan Pajak Penghasilan Pasal 21 atas Penghasilan Sehubungan dengan Pekerjaan, Jasa, atau Kegiatan Wajib Pajak Orang Pribadi dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Tarif pemotongan Pajak Penghasilan Pasal 21 terdiri atas: 1) tarif berdasarkan Pasal 17 ayat (1) huruf a Undang-Undang Pajak Penghasilan; dan 2) tarif efektif pemotongan Pajak Penghasilan Pasal 21. Tarif sebagaimana diatur dalam PP ini digunakan untuk pemotongan Pajak Penghasilan Pasal 21 bagi wajib pajak orang pribadi yang menerima penghasilan sehubungan dengan pekerjaan, jasa, atau kegiatan, termasuk pejabat negara, pegawai negeri sipil, anggota tentara nasional Indonesia, anggota kepolisian negara Republik Indonesia, dan pensiunannya.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal .\nPada saat Peraturan Pemerintah ini mulai berlaku, Pasal 2 ayat (3) Peraturan Pemerintah Nomor 80 Tahun 2010 tentang Tarif Pemotongan dan Pengenaan Pajak Penghasilan Pasal 21 atas Penghasilan yang Menjadi Beban Anggaran Pendapatan dan Belanja Negara atau Anggaran Pendapatan dan Belanja Daerah (Lembaran Negara Republik Indonesia Tahun 2010 Nomor 140, Tambahan Lembaran Negara Republik Indonesia Nomor 5174), dicabut dan dinyatakan tidak berlaku.\nPP ini mulai berlaku pada tanggal 1 Januari 2024.\nLampiran file: 25 hlm.",
+ "citations": [
+  "UU-1983-7"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/332609/PP%20Nomor%2058%20Tahun%202023.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:31:24Z"
+}

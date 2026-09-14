@@ -1,0 +1,48 @@
+{
+ "id": "PP-2026-10",
+ "source": "bpk",
+ "bpk_id": 349360,
+ "url": "https://peraturan.bpk.go.id/Details/349360/pp-no-10-tahun-2026",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "10",
+ "number_raw": "10",
+ "year": 2026,
+ "title": "Peraturan Pemerintah (PP) Nomor 10 Tahun 2026 tentang Perubahan Kedua atas Peraturan Pemerintah Nomor 39 Tahun 2010 tentang Administrasi Prajurit Tentara Nasional Indonesia",
+ "about": "Perubahan Kedua atas Peraturan Pemerintah Nomor 39 Tahun 2010 tentang Administrasi Prajurit Tentara Nasional Indonesia",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERTAHANAN DAN KEAMANAN, MILITER",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2026-03-10",
+ "date_promulgated": "2026-03-10",
+ "date_effective": "2026-03-10",
+ "gazette": "LN 2026 (21), TLN (7163) : 4 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PP-2025-35",
+   "target_bpk_id": 327999,
+   "label": "PP No. 35 Tahun 2025",
+   "about": "Perubahan atas Peraturan Pemerintah Nomor 39 Tahun 2010 tentang Administrasi Prajurit Tentara Nasional Indonesia"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PP-2010-39",
+   "target_bpk_id": 5052,
+   "label": "PP No. 39 Tahun 2010",
+   "about": "Administrasi Prajurit Tentara Nasional Indonesia"
+  }
+ ],
+ "abstract": "Ketentuan mengenai pemberian pangkat pertama bagi prajurit dalam Peraturan Pemerintah Nomor 39 Tahun 2010 tentang Administrasi Prajurit Tentara Nasional Indonesia sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 35 Tahun 2025 tentang Perubahan atas Peraturan Pemerintah Nomor 39 Tahun 2010 tentang Administrasi Prajurit Tentara Nasional Indonesia sudah tidak sesuai dengan kebutuhan organisasi sehingga perlu diubah.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945; UU No. 34 Tahun 2004; dan PP No. 39 Tahun 2010.\nPP ini mengubah ketentuan Pasal 15 dalam PP No. 39 Tahun 2010 sebagaimana telah diubah dengan PP 35 Tahun 2025.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 10 Maret 2026.\nPP ini mengubah PP No. 39 Tahun 2010 sebagaimana telah diubah dengan PP 35 Tahun 2025.\nLampiran file: 6 hlm (batang tubuh hlm 1 sd 4 dan penjelasan hlm 5 sd 6)",
+ "citations": [
+  "PP-2010-39",
+  "PP-2025-35",
+  "UU-2004-34"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/413045/PP%20Nomor%2010%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:28:20Z"
+}

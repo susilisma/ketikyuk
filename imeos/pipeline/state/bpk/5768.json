@@ -1,0 +1,37 @@
+{
+ "id": "PP-2016-47",
+ "source": "bpk",
+ "bpk_id": 5768,
+ "url": "https://peraturan.bpk.go.id/Details/5768/pp-no-47-tahun-2016",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "47",
+ "number_raw": "47",
+ "year": 2016,
+ "title": "Peraturan Pemerintah (PP) Nomor 47 Tahun 2016 tentang Fasilitas Pelayanan Kesehatan",
+ "about": "Fasilitas Pelayanan Kesehatan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KESEHATAN",
+ "field": "",
+ "date_enacted": "2016-10-31",
+ "date_promulgated": "2016-10-31",
+ "date_effective": "2016-10-31",
+ "gazette": "LN. 2016 No. 229, TLN No. 5942, LL SETNEG : 18HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-28",
+   "target_bpk_id": 294077,
+   "label": "PP No. 28 Tahun 2024",
+   "about": "Peraturan Pelaksanaan Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 31 Oktober 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/27747/PP%20Nomor%2047%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:30:44Z"
+}

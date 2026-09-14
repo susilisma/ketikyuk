@@ -1,0 +1,51 @@
+{
+ "id": "PMK-2016-82",
+ "source": "bpk",
+ "bpk_id": 145624,
+ "url": "https://peraturan.bpk.go.id/Details/145624/pmk-no-82pmk022016",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "82",
+ "number_raw": "82/PMK.02/2016",
+ "year": 2016,
+ "title": "Peraturan Menteri Keuangan Nomor 82/PMK.02/2016 Tahun 2016 tentang Tata Cara Penyediaan, Pencairan, dan Pertanggungjawaban Dana Bantuan Operasional Layanan Pos Universal",
+ "about": "Tata Cara Penyediaan, Pencairan, dan Pertanggungjawaban Dana Bantuan Operasional Layanan Pos Universal",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PENGELOLAAN KEUANGAN NEGARA / DAERAH",
+ "field": "",
+ "date_enacted": "2016-05-16",
+ "date_promulgated": "2016-05-18",
+ "date_effective": "2016-05-18",
+ "gazette": "BN.2016/NO.756, https:jdih.kemenkeu.go.id : 6 Hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2025-58",
+   "target_bpk_id": 326043,
+   "label": "PMK No. 58 Tahun 2025",
+   "about": "Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 82/PMK.02/2016 tentang Tata Cara Penyediaan, Pencairan, dan Pertanggungjawaban Dana Bantuan Operasional Layanan Pos Universal"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2017-72",
+   "target_bpk_id": 112709,
+   "label": "PMK No. 72/PMK.02/2017",
+   "about": "Perubahan Atas Peraturan Menteri Keuangan Nomor 82/PMK.02/2016 Tentang Tata Cara Penyediaan, Pencairan, Dan Pertanggungjawaban Dana Bantuan Operasional Layanan Pos Universal"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2010-155",
+   "target_bpk_id": 120017,
+   "label": "PMK No. 155/PMK.02/2010",
+   "about": "Tata Cara Penyediaan Pencairan dan Pertanggungjawaban Dana Penyelenggaraan Kewajiban Pelayanan Umum Pos"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 18 Mei 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/137430/PMK%2082_PMK.02_2016.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:33:12Z"
+}

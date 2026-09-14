@@ -1,0 +1,49 @@
+{
+ "id": "PERPRES-2024-144",
+ "source": "bpk",
+ "bpk_id": 306486,
+ "url": "https://peraturan.bpk.go.id/Details/306486/perpres-no-144-tahun-2024",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "144",
+ "number_raw": "144",
+ "year": 2024,
+ "title": "Peraturan Presiden (Perpres) Nomor 144 Tahun 2024 tentang Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan",
+ "about": "Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PARIWISATA DAN KEBUDAYAAN - KETATANEGARAAN, KENEGARAAN - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "HUKUM TATA NEGARA",
+ "date_enacted": "2024-11-05",
+ "date_promulgated": "2024-11-05",
+ "date_effective": "2024-11-05",
+ "gazette": "LN 2024 (340) : 25 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2025-91",
+   "target_bpk_id": 331567,
+   "label": "Perpres No. 91 Tahun 2025",
+   "about": "Perubahan atas Peraturan Presiden Nomor 144 Tahun 2024 tentang Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2020-35",
+   "target_bpk_id": 133051,
+   "label": "PERPRES No. 35 Tahun 2020",
+   "about": "Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 11 dan Pasal 14 Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara sebagaimana telah diubah dengan Undang-Undang Nomor 61 Tahun 2024 tentang Perubahan atas Undang Undang Nomor 39 Tahun 2008 tentang Kementerian Negara, perlu menetapkan Peraturan Presiden tentang Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan.\nDasar Hukum Perpres Ini adalah Pasal 4 ayat (1) dan Pasal 17 UUD NRI Tahun 1945; UU Nomor 39 Tahun 2008; Perpres Nomor 139 Tahun 2024; dan Perpres Nomor 140 Tahun 2024.\nPeraturan Presiden ini mengatur mengenai Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan yang selanjutnya disebut Kementerian Koordinator yang merupakan kementerian yang menyelenggarakan sinkronisasi dan koordinasi serta pengendalian pelaksanaan urusan kementerian dalam penyelenggaraan pemerintahan di bidang pembangunan manusia dan kebudayaan. Menteri Koordinator adalah unsur pemimpin Kementerian Koordinator yang bertanggung jawab atas pelaksanaan tugas dan fungsi Kementerian Koordinator. Kementerian Koordinator mempunyai tugas menyelenggarakan sinkronisasi dan koordinasi serta pengendalian pelaksanaan urusan kementerian dalam penyelenggaraan pemerintahan di bidang pembangunan manusia dan kebudayaan.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 05 November 2024.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 35 Tahun 2020 tentang Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 60), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 25 hlm.",
+ "citations": [
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2024-139",
+  "PERPRES-2024-140"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/366736/Perpres%20Nomor%20144%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:45Z"
+}

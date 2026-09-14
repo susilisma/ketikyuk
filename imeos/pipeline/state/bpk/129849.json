@@ -1,0 +1,44 @@
+{
+ "id": "POJK-2014-30",
+ "source": "bpk",
+ "bpk_id": 129849,
+ "url": "https://peraturan.bpk.go.id/Details/129849/peraturan-ojk-no-30pojk052014-tahun-2014",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "30",
+ "number_raw": "30/POJK.05/2014",
+ "year": 2014,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 30/POJK.05/2014 Tahun 2014 tentang Tata Kelola Perusahaan yang Baik bagi Perusahaan Pembiayaan",
+ "about": "Tata Kelola Perusahaan yang Baik bagi Perusahaan Pembiayaan",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "",
+ "date_enacted": "2014-11-19",
+ "date_promulgated": "2014-11-19",
+ "date_effective": "2014-11-19",
+ "gazette": "LN.2014/NO.365, TLN NO.5639, Jdih.ojk.go.id: 46 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 348715,
+   "label": "Peraturan OJK No. 48 Tahun 2024",
+   "about": "Tata Kelola yang Baik Bagi Lembaga Pembiayaan, Perusahaan Modal Ventura, Lembaga Keuangan Mikro dan Lembaga Jasa Keuangan Lainnya"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 226747,
+   "label": "Peraturan OJK No. 29/POJK.05/2020 Tahun 2020",
+   "about": "Perubahan Atas Peraturan Otoritas Jasa Keuangan Nomor 30/POJK.05/2014 Tentang Tata Kelola Perusahaan Yang Baik Bagi Perusahaan Pembiayaan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 19 November 2014.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/120723/pojk%2030-2014.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:44:01Z"
+}

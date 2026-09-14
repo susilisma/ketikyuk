@@ -1,0 +1,79 @@
+{
+ "id": "PERMENDAG-2020-33",
+ "source": "bpk",
+ "bpk_id": 160256,
+ "url": "https://peraturan.bpk.go.id/Details/160256/permendag-no-33-tahun-2020",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "33",
+ "number_raw": "33",
+ "year": 2020,
+ "title": "Peraturan Menteri Perdagangan Nomor 33 Tahun 2020 tentang Barang dan Persyaratan Barang yang Dapat Disimpan dalam Sistem Resi Gudang",
+ "about": "Barang dan Persyaratan Barang yang Dapat Disimpan dalam Sistem Resi Gudang",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "",
+ "date_enacted": "2020-03-24",
+ "date_promulgated": "2020-03-26",
+ "date_effective": "2020-03-26",
+ "gazette": "BN.2020/No.286, http://jdih.kemendag.go.id : 6 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2026-14",
+   "target_bpk_id": 351342,
+   "label": "Permendag No. 14 Tahun 2026",
+   "about": "Barang dan Persyaratan Barang yang Dapat Disimpan dalam Sistem Resi Gudang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENDAG-2025-1",
+   "target_bpk_id": 320754,
+   "label": "Permendag No. 1 Tahun 2025",
+   "about": "Perubahan Ketiga atas Peraturan Menteri Perdagangan Nomor 33 Tahun 2020 tentang Barang dan Persyaratan Barang yang Dapat Disimpan dalam Sistem Resi Gudang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENDAG-2021-14",
+   "target_bpk_id": 166502,
+   "label": "Permendag No. 14 Tahun 2021",
+   "about": "Perubahan Atas Peraturan Menteri Perdagangan Nomor 33 Tahun 2020 Tentang Barang dan Persyaratan Barang Yang Dapat Disimpan Dalam Sistem Resi Gudang"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2018-33",
+   "target_bpk_id": 173479,
+   "label": "Permendag No. 33 Tahun 2018",
+   "about": "Perubahan Ketiga Atas Peraturan Menteri Perdagangan Nomor 37/M-DAG/PER/11/2011 Tentang Barang Yang Dapat Disimpan Di Gudang Dalam Penyelenggaraan Sistem Resi Gudang"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2016-35",
+   "target_bpk_id": 128825,
+   "label": "Permendag No. 35/M-DAG/PER/5/2016 Tahun 2016",
+   "about": "Perubahan Kedua Atas Peraturan Menteri Perdagangan Nomor 37/M-DAG/PER/11/2011 Tentang Barang Yang Dapat Disimpan Di Gudang Dalam Penyelenggaraan Sistem Resi Gudang"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2013-8",
+   "target_bpk_id": 129262,
+   "label": "Permendag No. 08/M-DAG/PER/2/2013 Tahun 2013",
+   "about": "Perubahan Peraturan Menteri Perdangangan Nomor 37/M-DAG/PER/11/2011 Tentang Barang yang Dapat Disimpan di Gudang dalam Penyelenggaraan Sistem Resi Gudang"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2011-37",
+   "target_bpk_id": 135061,
+   "label": "Permendag No. 37/M-DAG/PER/11/2011 Tahun 2011",
+   "about": "Barang yang Dapat Disimpan di Gudang Dalam Penyelenggaraan Sistem Resi Gudang"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 26 Maret 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/152846/Permendag%20Nomor%2033%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:35:55Z"
+}

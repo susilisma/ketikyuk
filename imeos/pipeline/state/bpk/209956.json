@@ -1,0 +1,51 @@
+{
+ "id": "PMK-2021-225",
+ "source": "bpk",
+ "bpk_id": 209956,
+ "url": "https://peraturan.bpk.go.id/Details/209956/pmk-no-225pmk062021",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "225",
+ "number_raw": "225/PMK.06/2021",
+ "year": 2021,
+ "title": "Peraturan Menteri Keuangan Nomor 225/PMK.06/2021 Tahun 2021 tentang Pengelolaan Barang Milik Negara yang Berasal dari Perjanjian Kerjasama/Karya Pengusahaan Pertambangan Batubara",
+ "about": "Pengelolaan Barang Milik Negara yang Berasal dari Perjanjian Kerjasama/Karya Pengusahaan Pertambangan Batubara",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PENGELOLAAN BARANG MILIK NEGARA / DAERAH - PERTAMBANGAN MIGAS, MINERAL DAN ENERGI",
+ "field": "",
+ "date_enacted": "2021-12-31",
+ "date_promulgated": "2021-12-31",
+ "date_effective": "2021-12-31",
+ "gazette": "BN.2021/NO. 1529; https:jdih.kemenkeu.go.id : 108 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-77",
+   "target_bpk_id": 333941,
+   "label": "PMK No. 77 Tahun 2025",
+   "about": "Pengelolaan Barang Milik Negara yang Berasal dari Perjanjian Kerja Sama/Karya Pengusahaan Pertambangan Batubara"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2014-107",
+   "target_bpk_id": 148652,
+   "label": "PMK No. 107/PMK.06/2014",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 67/PMK.06/2012 tentang Pengelolaan Barang Milik Negara yang Berasal Dari Perjanjian Kerjasama/Karya Pengusahaan Pertambangan Batubara"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2012-67",
+   "target_bpk_id": 148657,
+   "label": "PMK No. 67/PMK.06/2012",
+   "about": "Pengelolaan Barang Milik Negara yang Berasal Dari Perjanjian Kerjasama/Karya Pengusahaan Pertambangan Batubara"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 31 Desember 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/204052/225_PMK.06_2021.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:32:36Z"
+}

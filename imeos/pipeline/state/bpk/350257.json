@@ -1,0 +1,40 @@
+{
+ "id": "POJK-2026-3",
+ "source": "bpk",
+ "bpk_id": 350257,
+ "url": "https://peraturan.bpk.go.id/Details/350257/peraturan-ojk-no-3-tahun-2026",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "3",
+ "number_raw": "3",
+ "year": 2026,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 3 Tahun 2026 tentang Penyelenggaraan Kegiatan Usaha Perusahaan Efek yang Melakukan Kegiatan Usaha sebagai Penjamin Emisi Efek dan Perantara Pedagang Efek",
+ "about": "Penyelenggaraan Kegiatan Usaha Perusahaan Efek yang Melakukan Kegiatan Usaha sebagai Penjamin Emisi Efek dan Perantara Pedagang Efek",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-04-01",
+ "date_promulgated": "2026-04-29",
+ "date_effective": "2026-04-01",
+ "gazette": "jdih ojk/109 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 128426,
+   "label": "Peraturan OJK No. 20/POJK.04/2016 Tahun 2016",
+   "about": "Perizinan Perusahaan Efek yang Melakukan Kegiatan Usaha Sebagai Penjamin Emisi Efek dan Perantara Pedagang Efek"
+  }
+ ],
+ "abstract": "a. bahwa dengan adanya peningkatan kapitalisasi pasar, perkembangan produk atau layanan, penggunaan teknologi dan digitalisasi proses bisnis, dan interkoneksi antar pelaku jasa keuangan, serta peningkatan eksposur risiko, diperlukan penguatan kelembagaan perusahaan efek yang melakukan kegiatan usaha sebagai penjamin emisi efek dan/atau perantara pedagang efek melalui peningkatan permodalan, tata kelola, kualitas kepemilikan, pengendalian, dan kepengurusan;\nb. bahwa pengaturan perizinan dan penyelenggaraan\nkegiatan usaha perusahaan efek yang melakukan kegiatan usaha sebagai penjamin emisi efek dan/atau perantara pedagang efek perlu disesuaikan dengan kebutuhan industri pasar modal;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Otoritas Jasa Keuangan tentang Penyelenggaraan Kegiatan Usaha Perusahaan Efek yang Melakukan Kegiatan Usaha Sebagai Penjamin Emisi Efek dan Perantara Pedagang Efek;\nUndang-Undang Nomor 8 Tahun 1995 dan Undang-Undang Nomor 21 Tahun 2011\nPeraturan ini mengatur tentang ketentuan umum, penyelenggaraan kegiatan perusahaan efek sebagai PPE dan/atau PPE berdasarkan pengelompokan kegiatan usaha, kriteria perusahaan efek, tata cara permohonan perizinan perusahaan efek sebagai PEE dan PPE, kepemilikan dan pengendalian, kewajiban lanjutan, pencabutan izin usaha dan pembatalan persetujuan kegiatan lain, pembubaran, pengembangan kualitas sumber daya manusia, ketentuan lain-lain, ketentuan peralihan dan ketentuan penutup.",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 01 April 2026.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas:\na. Peraturan Otoritas Jasa Keuangan Nomor\n20/POJK.04/2016 tentang Perizinan Perusahaan Efek\nyang Melakukan Kegiatan Usaha Sebagai Penjamin Emisi Efek dan Perantara Pedagang Efek.\nb. Pasal 18 ayat (2) dan Pasal 19 Peraturan Otoritas Jasa\nKeuangan Nomor 57/POJK.04/2017 tentang Penerapan Tata Kelola Perusahaan Efek yang Melakukan Kegiatan Usaha Sebagai Penjamin Emisi Efek dan Perantara Pedagang Efek.\nc. Pasal 2 ayat (1), Pasal 2 ayat (2), Pasal 2 ayat (3), dan\nPasal 2 ayat (5) Peraturan Otoritas Jasa Keuangan Nomor 52/POJK.04/2020 tentang Pemeliharaan dan Pelaporan Modal Kerja Bersih Disesuaikan.\nd. Pasal 14, Pasal 41 ayat (1), Pasal 41 ayat (2), Pasal 41 ayat (3), Pasal 42, dan Pasal 46 Peraturan Otoritas Jasa Keuangan Nomor 3/POJK.04/2021 tentang Penyelenggaraan Kegiatan di Bidang Pasar Modal.",
+ "citations": [
+  "UU-1995-8",
+  "UU-2011-21"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/413969/POJK%203%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:42:55Z"
+}

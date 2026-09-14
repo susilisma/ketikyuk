@@ -1,0 +1,41 @@
+{
+ "id": "UU-2024-122",
+ "source": "bpk",
+ "bpk_id": 307442,
+ "url": "https://peraturan.bpk.go.id/Details/307442/uu-no-122-tahun-2024",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "122",
+ "number_raw": "122",
+ "year": 2024,
+ "title": "Undang-undang (UU) Nomor 122 Tahun 2024 tentang Kabupaten Bantul di Daerah Istimewa Yograkarta",
+ "about": "Kabupaten Bantul di Daerah Istimewa Yograkarta",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-10-28",
+ "date_promulgated": "2024-10-28",
+ "date_effective": "2024-10-28",
+ "gazette": "LN 2024 (308), TLN (7059) : 7 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-1951-18",
+   "target_bpk_id": 39907,
+   "label": "UU No. 18 Tahun 1951",
+   "about": "Perubahan UU No. 15 Tahun 1950 RI untuk Penggabungan Daerah-Daerah Kabupaten Kulon-Progo dan Adikarto dalam Lingkungan Daerah Istimewa Yogyakarta Menjadi Satu Kabupaten yang Berhak Mengatur dan Mengurus Rumah-Tangganya Sendiri dengan Nama Kabupaten Kulon-Progo"
+  }
+ ],
+ "abstract": "Undang-Undang Nomor 15 Tahun 1950 tentang pembentukan Daerah-Daerah Kabupaten dalam lingkungan Daerah Istimewa Jogjakarta sebagaimana telah diubah dengan Undang-Undang Nomor 18 Tahun 1951 tentang Perubahan Undang-Undang No. 15 Tahun 1950 Republik Indonesia untuk Penggabungan Daerah-Daerah Kabupaten Kulon-Progo dan Adikarto dalam Lingkungan Daerah Istimewa Yograkarta Menjadi Satu Kabupaten dengan Nama Kabupaten Kulon-Progo, yang menjadi dasar pembentukan Kabupaten Bantul di Daerah Istimewa Yoryakarta, sudah tidak sesuai lagi dengan perkembangan hukum sehingga perlu diganti.\nDasar hukum UU ini adalah Pasal 18, Pasal 18A, Pasal 18B, Pasal 20, Pasal 21, dan Pasal 22D ayat (2) UUD 1945; dan UU Nomor 13 Tahun 2012.\nUU ini mengatur mengenai Kabupaten Bantul di Provinsi Daerah Istimewa Yogyakarta dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Kabupaten Bantul terdiri atas 17 (tujuh belas) Kecamatan. Ibu Kota Kabupaten Bantul berkedudukan di Kecamatan Bantul.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 28 Oktober 2024.\nPada saat Undang-Undang ini mulai berlaku, ketentuan yang mengatur mengenai Kabupaten Bantul dalam Undang-Undang Nomor 15 Tahun 1950 tentang pembentukan Daerah-Daerah Kabupaten dalam lingkungan Daerah Istimewa Jogiakarta (Berita Negara RI No. 44 Tahun 1950) sebagaimana telah diubah dengan Undang-Undang Nomor 18 Tahun 1951 tentang Perubahan Undang-Undang No. 15 Tahun 1950 Republik Indonesia untuk Penggabungan Daerah-Daerah Kabupaten Kulon-Progo dan Adikarto dalam Lingkungan Daerah Istimewa Yoryakarta Menjadi Satu Kabupaten dengan Nama Kabupaten Kulon-Progo (LN 1951/ 101), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 10 hlm (batang tubuh hlm 1 sd 7, lampiran hlm 8 sd 10)",
+ "citations": [
+  "UU-1950-15",
+  "UU-1951-18",
+  "UU-2012-13"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/367842/UU%20Nomor%20122%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:25:00Z"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "PP-2013-57",
+ "source": "bpk",
+ "bpk_id": 5391,
+ "url": "https://peraturan.bpk.go.id/Details/5391/pp-no-57-tahun-2013",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "57",
+ "number_raw": "57",
+ "year": 2013,
+ "title": "Peraturan Pemerintah (PP) Nomor 57 Tahun 2013 tentang Jenis Dan Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Berlaku Di Lingkungan Kementrian Pertahanan",
+ "about": "Jenis Dan Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Berlaku Di Lingkungan Kementrian Pertahanan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
+ "field": "",
+ "date_enacted": "2013-08-06",
+ "date_promulgated": "2013-08-06",
+ "date_effective": "2013-08-06",
+ "gazette": "LN. 2013 No. 140, TLN No. 5436, LL SETNEG : 4 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2026-18",
+   "target_bpk_id": 349411,
+   "label": "PP No. 18 Tahun 2026",
+   "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku di Lingkungan Kementerian Pertahanan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 06 Agustus 2013.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/33638/PP%20Nomor%2057%20Tahun%202013.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:27:59Z"
+}

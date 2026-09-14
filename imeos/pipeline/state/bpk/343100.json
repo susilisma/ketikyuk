@@ -1,0 +1,43 @@
+{
+ "id": "PERMENDAG-2026-2",
+ "source": "bpk",
+ "bpk_id": 343100,
+ "url": "https://peraturan.bpk.go.id/Details/343100/permendag-no-2-tahun-2026",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "2",
+ "number_raw": "2",
+ "year": 2026,
+ "title": "Peraturan Menteri Perdagangan Nomor 2 Tahun 2026 tentang Perubahan Kedua atas Peraturan Menteri Perdagangan Nomor 32 Tahun 2019 tentang Laporan Harta Kekayaan Penyelenggara Negara di Lingkungan Kementerian Perdagangan",
+ "about": "Perubahan Kedua atas Peraturan Menteri Perdagangan Nomor 32 Tahun 2019 tentang Laporan Harta Kekayaan Penyelenggara Negara di Lingkungan Kementerian Perdagangan",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "LAPORAN HARTA PENYELENGGARA KEKAYAAN NEGARA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-01-12",
+ "date_promulgated": "2026-01-12",
+ "date_effective": "2026-04-01",
+ "gazette": "BN.2026 (60)/4 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERMENDAG-2019-32",
+   "target_bpk_id": 131714,
+   "label": "Permendag No. 32 Tahun 2019",
+   "about": "Laporan Harta Kekayaan Penyelenggara Negara Di Lingkungan Kementerian Perdagangan"
+  }
+ ],
+ "abstract": "a. bahwa untuk memperkuat mekanisme pelaporan harta kekayaan penyelenggara negara di lingkungan Kementerian Perdagangan dengan menyesuaikan perkembangan dan kebutuhan hukum, perlu melakukan perubahan Peraturan Menteri Perdagangan Nomor 32 Tahun 2019 tentang Laporan Harta Kekayaan Penyelenggara Negara di Lingkungan Kementerian Perdagangan;\nb. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a, perlu menetapkan Peraturan Menteri Perdagangan tentang Perubahan Kedua atas Peraturan Menteri Perdagangan Nomor 32 Tahun 2019 tentang Laporan Harta Kekayaan Penyelenggara Negara di Lingkungan Kementerian Perdagangan;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Peraturan Presiden Nomor 168 Tahun 2024, Peraturan Menteri Perdagangan Nomor 32 Tahun 2019, Peraturan Komisi Pemberantasan Korupsi Nomor 07 Tahun 2016, Peraturan Menteri Perdagangan Nomor 6 Tahun 2025 dan Peraturan Menteri Perdagangan Nomor 28 Tahun 2025\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri Perdagangan\nNomor 32 Tahun 2019 tentang Laporan Harta Kekayaan Penyelenggara Negara di Lingkungan Kementerian Perdagangan yaitu tentang penyampaian LHKPN.",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 01 April 2026.\nPeraturan Menteri Perdagangan Nomor 32 Tahun 2019 tentang Laporan Harta Kekayaan Penyelenggara Negara di Lingkungan Kementerian Perdagangan diubah sebagian.",
+ "citations": [
+  "PERMENDAG-2019-32",
+  "UU-2008-39",
+  "PERPRES-2024-168",
+  "PERMENDAG-2025-6",
+  "PERMENDAG-2025-28"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/406287/2%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:36:16Z"
+}

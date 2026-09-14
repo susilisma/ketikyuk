@@ -1,0 +1,44 @@
+{
+ "id": "PERMENAKER-2019-13",
+ "source": "bpk",
+ "bpk_id": 145269,
+ "url": "https://peraturan.bpk.go.id/Details/145269/permenaker-no-13-tahun-2019",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "13",
+ "number_raw": "13",
+ "year": 2019,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 13 Tahun 2019 tentang Pedoman Penyelenggaraan Sistem Pengendalian Intern Pemerintah Kementerian Ketenagakerjaan",
+ "about": "Pedoman Penyelenggaraan Sistem Pengendalian Intern Pemerintah Kementerian Ketenagakerjaan",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "KETENAGAKERJAAN - SISTEM PENGENDALIAN INTERN",
+ "field": "",
+ "date_enacted": "2019-09-03",
+ "date_promulgated": "2019-09-03",
+ "date_effective": "2019-09-03",
+ "gazette": "BN.2019/No.992, jdih.kemnaker.go.id : 9 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENAKER-2026-6",
+   "target_bpk_id": 348694,
+   "label": "Permenaker No. 6 Tahun 2026",
+   "about": "Penyelenggaraan Sistem Pengendalian Intern Pemerintah dan Penerapan Manajemen Risiko Kementerian Ketenagakerjaan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENAKER-2018-6",
+   "target_bpk_id": 145526,
+   "label": "Permenaker No. 6 Tahun 2018",
+   "about": "Pedoman Penyelenggaraan Sistem Pengendalian Intern Pemerintah di Kementerian Ketenagakerjaan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Ketenagakerjaan Republik Indonesia ini mulai berlaku pada tanggal 03 September 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/251527/Permenaker%20No.%2013%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:40:50Z"
+}

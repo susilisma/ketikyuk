@@ -1,0 +1,40 @@
+{
+ "id": "PERPRES-2025-55",
+ "source": "bpk",
+ "bpk_id": 320240,
+ "url": "https://peraturan.bpk.go.id/Details/320240/perpres-no-55-tahun-2025",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "55",
+ "number_raw": "55",
+ "year": 2025,
+ "title": "Peraturan Presiden (Perpres) Nomor 55 Tahun 2025 tentang Universitas Islam Negeri Kiai Ageng Muhammad Besari Ponorogo",
+ "about": "Universitas Islam Negeri Kiai Ageng Muhammad Besari Ponorogo",
+ "issuer": "Pemerintah Pusat",
+ "subject": "ILMU PENGETAHUAN DAN TEKNOLOGI - PENDIDIKAN - PENDIDIKAN DAN PELATIHAN",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2025-05-08",
+ "date_promulgated": "2025-05-08",
+ "date_effective": "2025-05-08",
+ "gazette": "LN 2025 (81) : 4 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2016-75",
+   "target_bpk_id": 40979,
+   "label": "PERPRES No. 75 Tahun 2016",
+   "about": "Institut Agama Islam Negeri Ponorogo"
+  }
+ ],
+ "abstract": "Dalam rangka memenuhi tuntutan perkembangan ilmu pengetahuan dan teknologi dan proses integrasi ilmu agama Islam dengan ilmu lain serta mewujudkan sumber daya manusia yang berkualias, perlu menetapkan Peraturan Presiden tentang Universitas Islam Negeri Kiai Ageng\nMuhammad Besari Ponorogo.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD NRI Tahun 1945, UU No. 12 Tahun 2012, dan PP No. 46 Tahun 2019.\nPerpres ini mengatur mengenai pendirian Universitas Islam Negeri Kiai Ageng Muhammad Besari Ponorogo sebagai perubahan bentuk dari Institut Agama Islam Negeri Ponorogo. Dalam perpres ini yang dimaksud dengan Universitas Islam Negeri Kiai Ageng Muhammad Besari Ponorogo adalah perguruan tinggi di lingkungan kementerian yang menyelenggarakan urusan pemerintahan di bidang agama, yang berada di bawah dan bertanggung jawab kepada menteri yang menyelenggarakan urusan pemerintahan di bidang agama.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 08 Mei 2025.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 75 Tahun 2016 tentang Institut Agama Islam Negeri Ponorogo (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 163), dicabut dan dinyatakan tidak berlaku.\nLampiran File: 4 hlm",
+ "citations": [
+  "UU-2012-12",
+  "PP-2019-46"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/381877/Perpres%20Nomor%2055%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:25:55Z"
+}

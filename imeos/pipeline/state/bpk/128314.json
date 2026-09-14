@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2019-86",
+ "source": "bpk",
+ "bpk_id": 128314,
+ "url": "https://peraturan.bpk.go.id/Details/128314/perpres-no-86-tahun-2019",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "86",
+ "number_raw": "86",
+ "year": 2019,
+ "title": "Peraturan Presiden (Perpres) Nomor 86 Tahun 2019 tentang Perubahan atas Peraturan Presiden Nomor 90 Tahun 2017 tentang Konsil Tenaga Kesehatan Indonesia",
+ "about": "Perubahan atas Peraturan Presiden Nomor 90 Tahun 2017 tentang Konsil Tenaga Kesehatan Indonesia",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KESEHATAN - PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA - JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "",
+ "date_enacted": "2019-12-26",
+ "date_promulgated": "2019-12-26",
+ "date_effective": "2019-12-26",
+ "gazette": "LN.2019/NO.254, JDIH.SETNEG.GO.ID : 18 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-28",
+   "target_bpk_id": 294077,
+   "label": "PP No. 28 Tahun 2024",
+   "about": "Peraturan Pelaksanaan Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2017-90",
+   "target_bpk_id": 73175,
+   "label": "PERPRES No. 90 Tahun 2017",
+   "about": "Konsil Tenaga Kesehatan Indonesia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 26 Desember 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/119299/Perpres%20Nomor%2086%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:30:38Z"
+}

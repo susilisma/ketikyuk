@@ -1,0 +1,51 @@
+{
+ "id": "PERMENDAG-2025-2",
+ "source": "bpk",
+ "bpk_id": 320761,
+ "url": "https://peraturan.bpk.go.id/Details/320761/permendag-no-2-tahun-2025",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "2",
+ "number_raw": "2",
+ "year": 2025,
+ "title": "Peraturan Menteri Perdagangan Nomor 2 Tahun 2025 tentang Perubahan atas Peraturan Menteri Perdagangan Nomor 26 Tahun 2024 tentang Ketentuan Ekspor Produk Turunan Kelapa Sawit",
+ "about": "Perubahan atas Peraturan Menteri Perdagangan Nomor 26 Tahun 2024 tentang Ketentuan Ekspor Produk Turunan Kelapa Sawit",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-01-07",
+ "date_promulgated": "2025-01-08",
+ "date_effective": "2025-01-08",
+ "gazette": "BN 2025 (9) : 12 hlm.; jdih.kemendag.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERMENDAG-2024-26",
+   "target_bpk_id": 305841,
+   "label": "Permendag No. 26 Tahun 2024",
+   "about": "Ketentuan Ekspor Produk Turunan Kelapa Sawit"
+  }
+ ],
+ "abstract": "a. bahwa untuk menjamin ketersediaan bahan baku bagi industri minyak goreng dalam pelaksanaan program\nminyak goreng rakyat dan mendukung implementasi penerapan biodiesel berbasis minyak sawit sebesar 40\npersen (B40), perlu mengubah Peraturan Menteri Perdagangan Nomor 26 Tahun 2024 tentang Ketentuan\nEkspor Produk Turunan Kelapa Sawit;\nb. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, perlu menetapkan Peraturan\nMenteri Perdagangan tentang Perubahan atas Peraturan Menteri Perdagangan Nomor 26 Tahun 2024 tentang\nKetentuan Ekspor Produk Turunan Kelapa Sawit;\nPasal 17 ayat (3) UUD NRI Tahun 1945, UU No. 7 Tahun 1994, UU No. 10 Tahun 1995, UU No. 39 Tahun 2008, UU No. 7 Tahun 2014, PP No. 55 Tahun 2008, PP No. 32 Tahun 2009, PP No. 24 Tahun 2015, PP No. 29 Tahun 2021, PP No. 40 Tahun 2021, PP No. 41 Tahun 2021, Perpres No. 168 Tahun 2024, Permendag No. 29 Tahun 2022, dan Permendag No. 26 Tahun 2024.\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri Perdagangan Nomor 26 Tahun 2024 tentang Ketentuan Ekspor Produk Turunan Kelapa Sawit yaitu tentang Kebijakan Ekspor Produk Turunan Kelapa Sawit berupa UCO dan Residu, Persetujuan Ekspor dan Perizinan Berusaha di bidang Ekspor.",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 08 Januari 2025.\nPeraturan ini mengubah Permendag No. 26 Tahun 2024 tentang tentang Ketentuan Ekspor Produk Turunan Kelapa Sawit yaitu tentang Kebijakan Ekspor Produk Turunan Kelapa Sawit",
+ "citations": [
+  "PERMENDAG-2024-26",
+  "UU-1994-7",
+  "UU-1995-10",
+  "UU-2008-39",
+  "UU-2014-7",
+  "PP-2008-55",
+  "PP-2009-32",
+  "PP-2015-24",
+  "PP-2021-29",
+  "PP-2021-40",
+  "PP-2021-41",
+  "PERPRES-2024-168",
+  "PERMENDAG-2022-29"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/382479/Permendag%20No.%202%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:37:37Z"
+}

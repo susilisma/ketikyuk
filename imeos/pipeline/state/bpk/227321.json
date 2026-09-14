@@ -1,0 +1,45 @@
+{
+ "id": "POJK-2022-1",
+ "source": "bpk",
+ "bpk_id": 227321,
+ "url": "https://peraturan.bpk.go.id/Details/227321/peraturan-ojk-no-1pojk032022-tahun-2022",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "1",
+ "number_raw": "1/POJK.03/2022",
+ "year": 2022,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 1/POJK.03/2022 Tahun 2022 tentang Layanan Keuangan Tanpa Kantor Dalam Rangka Keuangan Inklusif",
+ "about": "Layanan Keuangan Tanpa Kantor Dalam Rangka Keuangan Inklusif",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "",
+ "date_enacted": "2022-01-05",
+ "date_promulgated": "2022-01-06",
+ "date_effective": "2022-01-06",
+ "gazette": "LN.2022/NO.10, TLN NO.6759, peraturan.go.id : 29 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 343945,
+   "label": "Peraturan OJK No. 24 Tahun 2025",
+   "about": "Pengelolaan Rekening pada Bank Umum"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 129870,
+   "label": "Peraturan OJK No. 19/POJK.03/2014 Tahun 2014",
+   "about": "Layanan Keuangan tanpa Kantor dalam Rangka Keuangan Inklusif"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 06 Januari 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/222115/Peraturan%20OJK%20No.%201%20Tahun%202022.pdf",
+  "https://peraturan.bpk.go.id/Download/222116/Peraturan%20OJK%20No.%201%20Tahun%202022_Penjelasan.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:43:27Z"
+}

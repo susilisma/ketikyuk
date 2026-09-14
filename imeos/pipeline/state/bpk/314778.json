@@ -1,0 +1,43 @@
+{
+ "id": "PERMENKUM-2025-9",
+ "source": "bpk",
+ "bpk_id": 314778,
+ "url": "https://peraturan.bpk.go.id/Details/314778/permenkum-no-9-tahun-2025",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "9",
+ "number_raw": "9",
+ "year": 2025,
+ "title": "Peraturan Menteri Hukum Nomor 9 Tahun 2025 tentang Organisasi dan Tata Kerja Politeknik Pengayoman Indonesia",
+ "about": "Organisasi dan Tata Kerja Politeknik Pengayoman Indonesia",
+ "issuer": "Kementerian Hukum",
+ "subject": "PENDIDIKAN - STRUKTUR ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-02-26",
+ "date_promulgated": "2025-02-26",
+ "date_effective": "2025-02-26",
+ "gazette": "BN 2025 (130) : 18 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 298128,
+   "label": "Permenkumham No. 17 Tahun 2024",
+   "about": "Organisasi dan Tata Kerja Politeknik Pengayoman Indonesia"
+  }
+ ],
+ "abstract": "Untuk menghadapi tantangan perubahan kehidupan nasional dan global di bidang hukum, perlu dilakukan pembaruan pendidikan dan peningkatan kualitas aparatur Kementerian Hukum secara terencana, terarah, dan berkesinambungan melalui penyatuan Politeknik Ilmu Pemasyarakatan dan Politeknik Imigrasi menjadi Politeknik Pengayoman Indonesia.\nDasar hukum Permenkum ini adalah Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 39 Tahun 2008; UU Nomor 12 Tahun 2012; PP Nomor 4 Tahun 2014; PP Nomor 57 Tahun 2022; Perpres Nomor 155 Tahun 2024; Permen Dikbud Nomor 139 Tahun 2014; dan Permenkum Nomor 1 Tahun 2024.\nPermenkum ini mengatur mengenai Organisasi dan Tata Kerja Politeknik Pengayoman Indonesia dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Politeknik Pengayoman Indonesia (Poltekpin) adalah perguruan tinggi negeri yang diselenggarakan oleh kementerian yang menyelenggarakan urusan pemerintahan di bidang hukum. Poltekpin berada di bawah dan bertanggung jawab kepada Menteri melalui Kepala Badan Pengembangan Sumber Daya Manusia Hukum. Pembinaan teknis akademik Poltekpin dilakukan oleh kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan tinggi, sains dan teknologi. Pembinaan teknis operasional, administratif, dan fungsional Poltekpin dilakukan oleh kementerian yang menyelenggarakan urusan pemerintahan di bidang hukum. Poltekpin mempunyai tugas menyelenggarakan pendidikan vokasi dan pendidikan profesi dalam berbagai rumpun ilmu pengetahuan dan/atau teknologi sesuai dengan ketentuan peraturan perundang-undangan.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 26 Februari 2025.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 17 Tahun 2024 tentang Organisasi dan Tata Kerja Politeknik Pengayoman Indonesia (Berita Negara Republik Indonesia Tahun 2024 Nomor 467), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 17 hlm. (batang tubuh hlm 1 s.d. 18 dan lampiran hlm 19 s.d. 21)",
+ "citations": [
+  "UU-2008-39",
+  "UU-2012-12",
+  "PP-2014-4",
+  "PP-2022-57",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/375774/Permenkum%20Nomor%209%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:42:36Z"
+}

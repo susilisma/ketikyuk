@@ -1,0 +1,48 @@
+{
+ "id": "PMK-2017-195",
+ "source": "bpk",
+ "bpk_id": 112938,
+ "url": "https://peraturan.bpk.go.id/Details/112938/pmk-no-195pmk022017",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "195",
+ "number_raw": "195/PMK.02/2017",
+ "year": 2017,
+ "title": "Peraturan Menteri Keuangan Nomor 195/PMK.02/2017 Tahun 2017 tentang Perubahan Atas Peraturan Menteri Keuangan Nomor 9/PMK.02/2016 Tentang Tata Cara Pembayaran Pajak Air Permukaan, Pajak Air Tanah, Dan Pajak Penerangan Jalan Untuk Kegiatan Usaha Hulu Minyak Dan Gas Bumi Yang Dibayarkan Oleh Pemerintah Pusat",
+ "about": "Perubahan Atas Peraturan Menteri Keuangan Nomor 9/PMK.02/2016 Tentang Tata Cara Pembayaran Pajak Air Permukaan, Pajak Air Tanah, Dan Pajak Penerangan Jalan Untuk Kegiatan Usaha Hulu Minyak Dan Gas Bumi Yang Dibayarkan Oleh Pemerintah Pusat",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "",
+ "date_enacted": "2017-12-19",
+ "date_promulgated": "2017-12-19",
+ "date_effective": "2017-12-19",
+ "gazette": "BN.2017/NO.1822, jdih.kemenkeu.go.id : 14 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-139",
+   "target_bpk_id": 312058,
+   "label": "PMK No. 139 Tahun 2024",
+   "about": "Tata Cara Pembayaran atas Tagihan kepada Pemerintah dalam Kegiatan Usaha Hulu Minyak dan Gas Bumi"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PMK-2016-9",
+   "target_bpk_id": 144771,
+   "label": "PMK No. 9/PMK.02/2016",
+   "about": "Tata Cara Pembayaran Pajak Air Permukaan, Pajak Air Tanah, dan Pajak Penerangan Jalan Untuk Kegiatan Usaha Hulu Minyak dan Gas Bumi yang Dibayarkan oleh Pemerintah Pusat"
+  }
+ ],
+ "abstract": "bahwa untuk melakukan penyesuaian ketentuan mengenai tata cara pembayaran pajak air permukaan, pajak air tanah, dan pajak penerangan jalan untuk kegiatan usaha hulu minyak dan gas bumi yang dibayarkan oleh pemerintah pusat sehubungan dengan pengalihan semua hak, kewajiban dan akibat yang timbul dari perjanjian kontrak kerja sama bagi hasil minyak dan gas bumi kepada Badan Pengelola Migas Aceh dan ketentuan mengenai penetapan nilai perolehan air tanah perlu dilakukan penyempumaan atas Peraturan Menteri Keuangan Nomor 9/PMK.02/2016.\nPP No.23 Tahun 2015 (LN Tahun 2015 No.99, TLN No.5696); PP No.55 Tahun 2016 (LN Tahun 2016 No.244, TLN No.5950); Permenkeu No.9/PMK.02/2016 (BN Tahun 2016 No.122)\nDalam Peraturan Menteri Keuangan Republik Indonesia ini diatur:\nBadan Pengelola Migas Aceh, yang selanjutnya disingkat BPMA adalah suatu badan Pemerintah yang dibentuk untuk melakukan pengelolaan dan pengendalian bersama kegiatan usaha hulu di bidang Minyak dan Gas Bumi yang berada di darat dan laut di wilayah kewenangan Aceh (0 s.d. 12 mil laut). Besaran nilai perolehan air tanah disusun dengan berpedoman pada Peraturan Gubemur mengenai nilai perolehan air tanah. Mengubah Lampiran I, Lampiran II, Lampiran III, Lampiran IV, dan Lampiran V Peraturan Menteri Keuangan Nomor 9/PMK.02/2016 (BN Tahun 2016 No.122) sehingga menjadi sebagaimana tercantum dalam Lampiran I, Lampiran II, Lampiran III, Lampiran IV, dan Lampiran V yang merupakan bagian tidak terpisahkan dari Peraturan Menteri in",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 19 Desember 2017.\nPada saat Peraturan Menteri ini mulai berlaku, pemrosesan tagihan dan penyampaian laporan pokok PAP, pokok PAT dan/ atau pokok PPJ dilaksanakan oleh BPMA untuk Kontrak Kerja Sama yang wilayah kerja minyak dan gas bumi berlokasi di wilayah kewenangan BPMA, yang ditandatangani oleh Kontraktor dengan SKK Migas dan Kontrak Kerja Sama yang ditandatangani oleh Kontraktor dengan BPMA\nTerhadap dokumen tagihan pokok PAP, pokok PAT dan/ atau pokok PPJ yang wilayah kerja minyak dan gas bumi berlokasi di wilayah kewenangan BPMA, yang telah disampaikan oleh SKK Migas kepada Direktorat Jenderal Anggaran, dikembalikan oleh Direktorat Jenderal Anggaran dan dapat diajukan kembali oleh Kepala BPMA kepada Direktur Jenderal Anggaran sesuai dengan ketentuan dalam Peraturan Menteri ini\n-\n30 HLM. Lampiran Halaman 15 - 30.",
+ "citations": [
+  "PP-2015-23",
+  "PP-2016-55",
+  "PMK-2016-9"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/103895/PMK%20Nomor%20195%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:33:58Z"
+}

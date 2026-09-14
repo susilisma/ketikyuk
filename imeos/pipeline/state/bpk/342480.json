@@ -1,0 +1,43 @@
+{
+ "id": "PMK-2025-116",
+ "source": "bpk",
+ "bpk_id": 342480,
+ "url": "https://peraturan.bpk.go.id/Details/342480/pmk-no-116-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "116",
+ "number_raw": "116",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 116 Tahun 2025 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 84 Tahun 2025 tentang Mekanisme Pelaksanaan Anggaran atas Pekerjaan yang Belum Diselesaikan pada Akhir Tahun Anggaran melalui Rekening Penampungan",
+ "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 84 Tahun 2025 tentang Mekanisme Pelaksanaan Anggaran atas Pekerjaan yang Belum Diselesaikan pada Akhir Tahun Anggaran melalui Rekening Penampungan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "APBD",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2025-12-30",
+ "date_promulgated": "2025-12-30",
+ "date_effective": "2025-12-30",
+ "gazette": "BN 2025 (1148); 3 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PMK-2025-84",
+   "target_bpk_id": 334053,
+   "label": "PMK No. 84 Tahun 2025",
+   "about": "Mekanisme Pelaksanaan Anggaran atas Pekerjaan yang Belum Diselesaikan pada Akhir Tahun Anggaran Melalui Rekening Penampungan"
+  }
+ ],
+ "abstract": "a. bahwa untuk mengatur pelaksanaan anggaran atas\npekerjaan yang belum selesai pada akhir tahun\nanggaran telah ditetapkan Peraturan Menteri Keuangan\nNomor 84 Tahun 2025 tentang Mekanisme Pelaksanaan\nAnggaran atas Pekerjaan yang Belum Diselesaikan pada\nAkhir\nTahun\nPenampungan;\nb.\nAnggaran\nmelalui\nRekening\nbahwa agar pekerjaan tertentu dapat diberikan\nkesempatan penyelesaian melewati batas akhir tahun\nanggaran perlu mengubah Lampiran Peraturan Menteri\nKeuangan Nomor 84 Tahun 2025 tentang Mekanisme\nPelaksanaan Anggaran atas Pekerjaan yang Belum\nDiselesaikan pada Akhir Tahun Anggaran melalui\nRekening Penampungan;\nc.\nMengingat\nbahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a dan huruf b, perlu\nmenetapkan Peraturan Menteri Keuangan tentang\nPerubahan atas Peraturan Menteri Keuangan Nomor 84\nTahun 2025 tentang Mekanisme Pelaksanaan Anggaran\natas Pekerjaan yang Belum Diselesaikan pada Akhir\nTahun Anggaran melalui Rekening Penampungan;\nPasal 17 ayat (3) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945, Undang-Undang Nomor 1 Tahun 2004, Undang-Undang Nomor 39 Tahun 2008, Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Menteri Keuangan Nomor 124 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 84 Tahun 2025\nPeraturan ini mengubah Lampiran huruf E dan huruf F Peraturan Menteri Keuangan\nNomor 84 Tahun 2025 tentang Mekanisme Pelaksanaan\nAnggaran atas Pekerjaan yang Belum Diselesaikan pada\nAkhir Tahun Anggaran melalui Rekening Penampungan",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 30 Desember 2025.\nPeraturan Menteri Keuangan\nNomor 84 Tahun 2025 tentang Mekanisme Pelaksanaan\nAnggaran atas Pekerjaan yang Belum Diselesaikan pada\nAkhir Tahun Anggaran melalui Rekening Penampungan diubah sebagian.",
+ "citations": [
+  "PMK-2025-84",
+  "UU-2004-1",
+  "UU-2008-39",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/405628/2025pmkeuangan116.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:31:38Z"
+}

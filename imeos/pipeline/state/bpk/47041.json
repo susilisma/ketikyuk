@@ -1,0 +1,37 @@
+{
+ "id": "UU-1981-8",
+ "source": "bpk",
+ "bpk_id": 47041,
+ "url": "https://peraturan.bpk.go.id/Details/47041/uu-no-8-tahun-1981",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "8",
+ "number_raw": "8",
+ "year": 1981,
+ "title": "Undang-undang (UU) Nomor 8 Tahun 1981 tentang Hukum Acara Pidana",
+ "about": "Hukum Acara Pidana",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HUKUM ACARA DAN PERADILAN - HUKUM PIDANA, PERDATA, DAN DAGANG",
+ "field": "",
+ "date_enacted": "1981-12-31",
+ "date_promulgated": "1981-12-31",
+ "date_effective": "1981-12-31",
+ "gazette": "LN. 1981/ No.76, TLN. No.3209, LL SETNEG : 68 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2025-20",
+   "target_bpk_id": 337302,
+   "label": "UU No. 20 Tahun 2025",
+   "about": "Kitab Undang-Undang Hukum Acara Pidana"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 31 Desember 1981.\nTelah dilakukan uji materiil oleh Mahkamah Konstitusi dengan putusan Nomor 3/PUU-XI/2013, Nomor 34/PUU-XI/2013,\nnomor 65/PUU-VIII/2010, nomor 17/PUU-IX/2011, dan nomor 65/PUU-IX/2011.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/35876/UU%20Nomor%208%20Tahun%201981.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:23:34Z"
+}

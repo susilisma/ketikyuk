@@ -1,0 +1,43 @@
+{
+ "id": "PMK-2025-63",
+ "source": "bpk",
+ "bpk_id": 327276,
+ "url": "https://peraturan.bpk.go.id/Details/327276/pmk-no-63-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "63",
+ "number_raw": "63",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 63 Tahun 2025 tentang Penggunaan Saldo Anggaran Lebih Pada Tahun Anggaran 2025 Untuk Pemberian Dukungan Kepada Bank Yang Menyalurkan Pinjaman Kepada Koperasi Desa/kelurahan Merah Putih",
+ "about": "Penggunaan Saldo Anggaran Lebih Pada Tahun Anggaran 2025 Untuk Pemberian Dukungan Kepada Bank Yang Menyalurkan Pinjaman Kepada Koperasi Desa/kelurahan Merah Putih",
+ "issuer": "Kementerian Keuangan",
+ "subject": "KEBIJAKAN AKUNTANSI - KOPERASI, UMKM",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-08-28",
+ "date_promulgated": "2025-09-01",
+ "date_effective": "2025-09-01",
+ "gazette": "BN.2025 (654)/5 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2026-15",
+   "target_bpk_id": 347087,
+   "label": "PMK No. 15 Tahun 2026",
+   "about": "Tata Cara Penyaluran Dana Alokasi Umum/Dana Bagi Hasil atau Dana Desa dalam Rangka Percepatan Pembangunan Fisik Gerai, Pergudangan dan Kelengkapan Koperasi Desa/Kelurahan Merah Putih"
+  }
+ ],
+ "abstract": "a. bahwa untuk melaksanakan Instruksi Presiden Nomor 9\nTahun 2025 tentang Percepatan Pembentukan Koperasi\nDesa/Kelurahan Merah Putih, dalam mendorong\nkemandirian bangsa melalui swasembada pangan\nberkelanjutan dan pembangunan dari desa untuk\npemerataan ekonomi, telah dibentuk Koperasi\nDesa/Kelurahan Merah Putih;\nb. bahwa pembiayaan Koperasi Desa/Kelurahan Merah\nPutih perlu dilakukan melalui sinergi pendanaan antara\npemerintah dan perbankan selaku Operator Investasi\nPemerintah (OIP);\nc. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a dan huruf b, serta sesuai\ndengan ketentuan Pasal 28 ayat (1) Undang-Undang\nNomor 62 Tahun 2024 tentang Anggaran Pendapatan\ndan Belanja Negara Tahun Anggaran 2025, perlu\nmenetapkan Peraturan Menteri Keuangan tentang\nPenggunaan Saldo Anggaran Lebih pada Tahun\nAnggaran 2025 untuk Pemberian Dukungan kepada\nBank yang Menyalurkan Pinjaman kepada Koperasi\nDesa/Kelurahan Merah Putih\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 62 Tahun 2024, Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Menteri Keuangan Nomor 147/PMK.05/2021 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengatur tentang ketentuan umum, besaran dan mekanisme penggunaan SAL, akuntansi dan pelaporan dan ketentuan penutup.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 01 September 2025.",
+ "citations": [
+  "UU-2024-62",
+  "UU-2008-39",
+  "PERPRES-2024-158",
+  "PMK-2021-147",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/389075/63%20th%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:31:16Z"
+}

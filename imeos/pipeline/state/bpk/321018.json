@@ -1,0 +1,52 @@
+{
+ "id": "PERMENPERIN-2025-2",
+ "source": "bpk",
+ "bpk_id": 321018,
+ "url": "https://peraturan.bpk.go.id/Details/321018/permenperin-no-2-tahun-2025",
+ "form": "PERMENPERIN",
+ "form_long": "Peraturan Menteri Perindustrian",
+ "number": "2",
+ "number_raw": "2",
+ "year": 2025,
+ "title": "Peraturan Menteri Perindustrian Nomor 2 Tahun 2025 tentang Pemberlakuan Standar Nasional Indonesia untuk Gula Kristal Rafinasi secara Wajib",
+ "about": "Pemberlakuan Standar Nasional Indonesia untuk Gula Kristal Rafinasi secara Wajib",
+ "issuer": "Kementerian Perindustrian",
+ "subject": "PERINDUSTRIAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-01-17",
+ "date_promulgated": "2025-01-24",
+ "date_effective": "2025-07-24",
+ "gazette": "BN.2025 (55)/71 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENPERIN-2026-4",
+   "target_bpk_id": 348183,
+   "label": "Permenperin No. 4 Tahun 2026",
+   "about": "Perubahan atas Peraturan Menteri Perindustrian Nomor 2 Tahun 2025 tentang Pemberlakuan Standar Nasional Indonesia untuk Gula Kristal Rafinasi Secara Wajib"
+  }
+ ],
+ "abstract": "a. bahwa untuk menjamin keamanan, kesehatan, dan keselamatan manusia,\nmenciptakan persaingan usaha yang sehat, serta meningkatkan daya\nsaing, efisiensi, dan kinerja industri gula Kristal rafinasi, telah ditetapkan\npemberlakuan standar nasional Indonesia untuk gula Kristal rafinasi\nsecara wajib;\nb. bahwa Peraturan Menteri Perindustrian Nomor\n83/M-IND/PER/11/2008 karena sudah tidak sesuai dengan\nperkembangan standar nasional Indonesia gula Kristal rafinasi dan\nkebijakan di bidang standardisasi industri, maka perlu menetapkan\nPeraturan Menteri Perindustrian tentang Pemberlakuan Standar\nNasional Indonesia untuk Gula Kristal Rafinasi secara wajib.\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, serta untuk melaksanakan ketentuan Pasal 52 ayat (1) UU No 3 Tahun 2014 tentang Penetapan PP Pengganti UU Nomor 2 Tahun 2022 tentang Cipta Kerja Menjadi Undang-Undang perlu menetapkan PeraturanMenteri Perindustrian tentang Pemberlakuan Standar Nasional Indonesia untuk Gula Kristal Refinasi secara wajib.\nPasal 17 ayat (3) UUD 1945, UU No. 39 Tahun 2008, UU No. 3 Tahun 2014, UU No. 20 Tahun 2014, UU No. 6 Tahun 2023, UU No. 61 Tahun 2024, PP No. 2 Tahun 2017,\nPP No. 34 Tahun 2018, PP No. 28 Tahun 2021, PP No. 46 Tahun 2023,\nPerpres No. 167 Tahun 2024, Permenperin No. 45 Tahun 2022,\nPermenperin No. 8 Tahun 2023.\nPeraturan ini mengatur tentang ketentuan umum, lingkup pemberlakuan Standar Nasional Indonesia secara wajib, penilaian kesesuaian, tanggung jawab, ketentuan lain-lain, ketentuan peralihan dan ketentuan penutup.",
+ "note": "Peraturan Menteri Perindustrian ini mulai berlaku pada tanggal 24 Juli 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan Menteri Perindustrian Nomor 83/M-IND/PER/11/2008 tentang Pemberlakuan Standar Nasional Indonesia (SNI) Gula Kristal Rafinasi Secara Wajib",
+ "citations": [
+  "PERMENPERIN-2008-83",
+  "UU-2014-3",
+  "UU-2022-2",
+  "UU-2008-39",
+  "UU-2014-20",
+  "UU-2023-6",
+  "UU-2024-61",
+  "PP-2017-2",
+  "PP-2018-34",
+  "PP-2021-28",
+  "PP-2023-46",
+  "PERPRES-2024-167",
+  "PERMENPERIN-2022-45",
+  "PERMENPERIN-2023-8"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/382756/Permenperin%20No.%202%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:38:12Z"
+}

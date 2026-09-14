@@ -1,0 +1,65 @@
+{
+ "id": "PERPRES-2012-17",
+ "source": "bpk",
+ "bpk_id": 41260,
+ "url": "https://peraturan.bpk.go.id/Details/41260/perpres-no-17-tahun-2012",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "17",
+ "number_raw": "17",
+ "year": 2012,
+ "title": "Peraturan Presiden (Perpres) Nomor 17 Tahun 2012 tentang Utusan Khusus Presiden, Staf Khusus Presiden, dan Staf Khusus Wakil Presiden",
+ "about": "Utusan Khusus Presiden, Staf Khusus Presiden, dan Staf Khusus Wakil Presiden",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "",
+ "date_enacted": "2012-02-14",
+ "date_promulgated": "2012-02-14",
+ "date_effective": "2012-02-14",
+ "gazette": "LN.2012/NO.29, LL SETKAB : 19 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-137",
+   "target_bpk_id": 305127,
+   "label": "Perpres No. 137 Tahun 2024",
+   "about": "Penasihat Khusus Presiden, Utusan Khusus Presiden, Staf Khusus Presiden, dan Staf Khusus Wakil Presiden"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2020-56",
+   "target_bpk_id": 135922,
+   "label": "PERPRES No. 56 Tahun 2020",
+   "about": "Perubahan Ketiga atas Peraturan Presiden Nomor 17 Tahun 2012 tentang Utusan Khusus Presiden, Staf Khusus Presiden, dan Staf Khusus Wakil Presiden"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2018-39",
+   "target_bpk_id": 85637,
+   "label": "PERPRES No. 39 Tahun 2018",
+   "about": "Perubahan Kedua atas Peraturan Presiden Nomor 17 Tahun 2012 tentang Utusan Khusus Presiden, Staf Khusus Presiden dan Staf Khusus Wakil Presiden"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2015-55",
+   "target_bpk_id": 41794,
+   "label": "PERPRES No. 55 Tahun 2015",
+   "about": "Perubahan atas Peraturan Presiden Nomor 17 Tahun 2012 tentang Utusan Khusus Presiden, Staf Khusus Presiden, dan Staf Khusus Wakil Presiden"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2011-3",
+   "target_bpk_id": 41139,
+   "label": "PERPRES No. 3 Tahun 2011",
+   "about": "Staf Khusus Presiden dan Staf Khusus Wakil Presiden"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 14 Februari 2012.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/68859/Peraturan%20Presiden%20No%2017%20Tahun%202012.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:28:51Z"
+}

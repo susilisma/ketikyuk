@@ -1,0 +1,51 @@
+{
+ "id": "PERPRES-2016-24",
+ "source": "bpk",
+ "bpk_id": 39920,
+ "url": "https://peraturan.bpk.go.id/Details/39920/perpres-no-24-tahun-2016",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "24",
+ "number_raw": "24",
+ "year": 2016,
+ "title": "Peraturan Presiden (Perpres) Nomor 24 Tahun 2016 tentang Perubahan Atas Peraturan Presiden Nomor 61 Tahun 2015 Tentang Penghimpunan Dan Penggunaan Dana Perkebunan Kelapa Sawit",
+ "about": "Perubahan Atas Peraturan Presiden Nomor 61 Tahun 2015 Tentang Penghimpunan Dan Penggunaan Dana Perkebunan Kelapa Sawit",
+ "issuer": "Pemerintah Pusat",
+ "subject": "FIDUSIA DAN LEMBAGA PEMBIAYAAN - KEHUTANAN DAN PERKEBUNAN",
+ "field": "",
+ "date_enacted": "2016-03-15",
+ "date_promulgated": "2016-03-18",
+ "date_effective": "2016-03-18",
+ "gazette": "LN.2016/NO.51, LL SETNEG : 8 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-132",
+   "target_bpk_id": 305311,
+   "label": "Perpres No. 132 Tahun 2024",
+   "about": "Pengelolaan Dana Perkebunan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2018-66",
+   "target_bpk_id": 89957,
+   "label": "PERPRES No. 66 Tahun 2018",
+   "about": "Perubahan Kedua atas Peraturan Presiden Nomor 61 Tahun 2015 tentang Penghimpunan dan Penggunaan Dana Perkebunan Kelapa Sawit"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2015-61",
+   "target_bpk_id": 41800,
+   "label": "PERPRES No. 61 Tahun 2015",
+   "about": "Penghimpunan dan Penggunaan Dana Perkebunan Kelapa Sawit"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 18 Maret 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/29515/Perpres%20Nomor%2024%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:29:02Z"
+}

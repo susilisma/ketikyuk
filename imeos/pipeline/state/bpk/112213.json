@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2018-45",
+ "source": "bpk",
+ "bpk_id": 112213,
+ "url": "https://peraturan.bpk.go.id/Details/112213/pmk-no-45pmk0112018",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "45",
+ "number_raw": "45/PMK.011/2018",
+ "year": 2018,
+ "title": "Peraturan Menteri Keuangan Nomor 45/PMK.011/2018 Tahun 2018 tentang Pedoman Analisis Kebutuhan Pembelajaran Di Lingkungan Kementerian Keuangan",
+ "about": "Pedoman Analisis Kebutuhan Pembelajaran Di Lingkungan Kementerian Keuangan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PENDIDIKAN",
+ "field": "",
+ "date_enacted": "2018-05-07",
+ "date_promulgated": "2018-05-08",
+ "date_effective": "2018-05-08",
+ "gazette": "BN.2018/NO.609, jdih.kemenkeu.go.id : 57 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-106",
+   "target_bpk_id": 342098,
+   "label": "PMK No. 106 Tahun 2025",
+   "about": "Pencabutan Peraturan Menteri Keuangan Nomor 45/PMK.011/2028 tentang Pedoman Analisis Kebutuhan Pembelajaran di Lingkungan Kementerian Keuangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2014-37",
+   "target_bpk_id": 147973,
+   "label": "PMK No. 37/PMK.012/2014",
+   "about": "Pedoman Identifikasi Kebutuhan Pendidikan dan Pelatihan Non Gelar di Lingkungan Kementerian Keuangan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 08 Mei 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/103160/PMK%20Nomor%2045%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:31:55Z"
+}

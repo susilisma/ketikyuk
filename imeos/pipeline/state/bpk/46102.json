@@ -1,0 +1,37 @@
+{
+ "id": "UU-1995-1",
+ "source": "bpk",
+ "bpk_id": 46102,
+ "url": "https://peraturan.bpk.go.id/Details/46102/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "1",
+ "number_raw": "1",
+ "year": 1995,
+ "title": "Undang-undang (UU) Nomor 1 Tahun 1995 tentang Perseroan Terbatas",
+ "about": "Perseroan Terbatas",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PASAR MODAL DAN PERDAGANGAN BERJANGKA KOMODITI - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "",
+ "date_enacted": "1995-03-07",
+ "date_promulgated": "1995-03-07",
+ "date_effective": "1996-03-07",
+ "gazette": "LN. 1995/ No. 13, TLN NO. 3587, LL SETNEG : 65 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2007-40",
+   "target_bpk_id": 39965,
+   "label": "UU No. 40 Tahun 2007",
+   "about": "Perseroan Terbatas"
+  }
+ ],
+ "abstract": "Peraturan tentang Perseroan Terbatas sebagaimana diatur dalam Kitab Undang-undang Hukum Dagang (Wetboek van Koophandel, Staatsblad 1847:23), sudah tidak sesuai lagi dengan perkembangan ekonomi dan dunia usaha yang semakin pesat baik secara nasional maupun internasional.\nDasar hukum UU ini adalah Pasal 5 ayat (1), Pasal 20 ayat (1), dan Pasal 33 Undang-Undang Dasar 1945. dalam rangka menciptakan kesatuan hukum, untuk memenuhi kebutuhan hukum baru yang dapat lebih memacu pembangunan nasional, serta untuk menjamin kepastian dan penegakan hukum, perlu mengadakan pembaharuan peraturan tentang Perseroan Terbatas.\nDalam UU ini diatur mengenai pengelolaan kegiatan perseroan yang harus sesuai dengan maksud dan tujuannya serta\ntidak bertentangan dengan peraturan perundang-undangan, ketertiban umum, dan atau kesusilaan. Secara garis besar, UU ini mengatur mengenai pendirian, anggaran dasar, pendaftaran dan pengumuman perseroan, rapat umum pemegang saham, laporan tahunan dan penggunaan laba, dan pembubaran perseroan.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 07 Maret 1996.\nDengan berlakunya Undang-undang ini, Buku Kesatu Titel Ketiga Bagian Ketiga Pasal 36 sampai dengan Pasal 56 Kitab\nUndang-undang Hukum Dagang (Wetboek van Koophandel, Staatsblad 1847: 23) yang mengatur mengenai Perseroan Terbatas berikut segala perubahannya, terakhir dengan Undang-undang Nomor 4 Tahun 1971, dinyatakan tidak berlaku.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/34657/UU%20Nomor%201%20Tahun%201995.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:12Z"
+}

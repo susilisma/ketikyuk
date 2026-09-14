@@ -1,0 +1,58 @@
+{
+ "id": "UU-2014-41",
+ "source": "bpk",
+ "bpk_id": 38801,
+ "url": "https://peraturan.bpk.go.id/Details/38801/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "41",
+ "number_raw": "41",
+ "year": 2014,
+ "title": "Undang-undang (UU) Nomor 41 Tahun 2014 tentang Perubahan atas Undang-Undang Nomor 18 Tahun 2009 Tentang Peternakan dan Kesehatan Hewan",
+ "about": "Perubahan atas Undang-Undang Nomor 18 Tahun 2009 Tentang Peternakan dan Kesehatan Hewan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KESEHATAN - PANGAN, PERTANIAN DAN PETERNAKAN",
+ "field": "",
+ "date_enacted": "2014-10-17",
+ "date_promulgated": "2014-10-17",
+ "date_effective": "2014-10-17",
+ "gazette": "LN.2014/No. 338, TLN No. 5619, LL SETNEG: 29 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 234926,
+   "label": "PERPU No. 2 Tahun 2022",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2009-18",
+   "target_bpk_id": 38634,
+   "label": "UU No. 18 Tahun 2009",
+   "about": "Peternakan dan Kesehatan Hewan"
+  }
+ ],
+ "abstract": "1. negara bertanggungjawab untuk melindungi segenap bangsa Indonesia dan seluruh tumpah darah Indonesia melalui penyelenggaraan peternakan dan kesehatan hewan dengan mengamankan dan menjamin pemanfaatan dan pelestarian hewan untuk mewujudkan kedaulatan, kemandirian, serta ketahanan pangan dalam rangka menciptakan kesejahteraan dan kemakmuran seluruh rakyat Indonesia sesuai dengan amanat Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.\n2. bahwa dalam penyelenggaraan peternakan dan kesehatan hewan upaya pengamanan maksimal terhadap pemasukan dan pengeluaran ternak, hewan dan produk hewan, pencegahan penyakit hewan dan zoonosis, penguatan otoritas veteriner, persyaratan halal bagi produk hewan yang dipersyaratkan serta penegakan hukum terhadap pelanggaran kesejahteraan hewan perlu disesuaikan dengan perkembangan dan kebutuhan masyarakat;\nPasal 20 dan Pasal 21 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945\nPemasukan benih, bibit, bakalan, ternak ruminansia indukan, dan/atau produk hewan, kemitraan usaha peternakan, pengaturan mengenai ternak ruminansia betina produktif, pencegahan penyakit hewan, penguatan otoritas veteriner.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 17 Oktober 2014.\n-\n-\n43",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/28131/UU%20Nomor%2041%20Tahun%202014.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:34Z"
+}

@@ -1,0 +1,40 @@
+{
+ "id": "UU-2025-9",
+ "source": "bpk",
+ "bpk_id": 331519,
+ "url": "https://peraturan.bpk.go.id/Details/331519/uu-no-9-tahun-2025",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "9",
+ "number_raw": "9",
+ "year": 2025,
+ "title": "Undang-undang (UU) Nomor 9 Tahun 2025 tentang Kabupaten Muna di Provinsi Sulawesi Tenggara",
+ "about": "Kabupaten Muna di Provinsi Sulawesi Tenggara",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-08-20",
+ "date_promulgated": "2025-08-20",
+ "date_effective": "2025-08-20",
+ "gazette": "LN 2025 (130), TLN (7125) : 6 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-1959-29",
+   "target_bpk_id": 51529,
+   "label": "UU No. 29 Tahun 1959",
+   "about": "Pembentukan Daerah Tingkat II Di Sulawesi"
+  }
+ ],
+ "abstract": "Undang-Undang Nomor 29 Tahun 1959 tentang Pembentukan Daerah Tingkat II di Sulawesi yang menjadi dasar pembentukan Kabupaten Muna, sudah tidak sesuai lagi dengan perkembangan hukum sehingga perlu diganti.\nDasar hukum UU ini adalah Pasal 18, Pasal 18A, Pasal 18B ayat (2), Pasal 20, Pasal 21, dan Pasal 22D ayat (2) UUD NRI Tahun 1945.\nUU ini mengatur mengenai Kabupaten Muna di Provinsi Sulawesi Tenggara. Provinsi Sulawesi Tenggara adalah bagian dari wilayah Negara Kesatuan Republik Indonesia berdasarkan Undang-Undang Nomor 7 Tahun 2022 tentang Provinsi Sulawesi Tenggara. Kabupaten Muna adalah daerah kabupaten yang berada di wilayah Provinsi Sulawesi Tenggara yang dibentuk berdasarkan Undang-Undang Nomor 29 Tahun 1959 tentang Pembentukan Daerah Tingkat II di Sulawesi. Ibu Kota Kabupaten Muna bernama Raha yang berkedudukan di Kecamatan Katobu.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 20 Agustus 2025.\nPada saat Undang-Undang ini mulai berlaku, ketentuan yang mengatur mengenai Kabupaten Muna dalam Undang-Undang Nomor 29 Tahun 1959 tentang Pembentukan Daerah Tingkat II di Sulawesi (Lembaran Negara Tahun 1959 Nomor 74, Tambahan Lembaran Negara Nomor 1822), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 8 hlm (batang tubuh hlm 1 sd 6 dan penjelasan hlm 7 sd 8)",
+ "citations": [
+  "UU-1959-29",
+  "UU-2022-7"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/393552/UU%20Nomor%209%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:23:51Z"
+}

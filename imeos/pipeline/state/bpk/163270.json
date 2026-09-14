@@ -1,0 +1,45 @@
+{
+ "id": "PERMENAKER-2020-8",
+ "source": "bpk",
+ "bpk_id": 163270,
+ "url": "https://peraturan.bpk.go.id/Details/163270/permenaker-no-8-tahun-2020",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "8",
+ "number_raw": "8",
+ "year": 2020,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 8 Tahun 2020 tentang Keselamatan dan Kesehatan Kerja Pesawat Angkat dan Pesawat Angkut",
+ "about": "Keselamatan dan Kesehatan Kerja Pesawat Angkat dan Pesawat Angkut",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "KESEHATAN",
+ "field": "",
+ "date_enacted": "2020-06-08",
+ "date_promulgated": "2020-06-12",
+ "date_effective": "2020-06-12",
+ "gazette": "BN.2020/No.609, jdih.kemnaker.go.id : 97 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENAKER-2026-11",
+   "target_bpk_id": 351282,
+   "label": "Permenaker No. 11 Tahun 2026",
+   "about": "Tata Cara Pengawasan Ketenagakerjaan"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PERMENAKER-2026-11",
+   "target_bpk_id": 351282,
+   "label": "Permenaker No. 11 Tahun 2026",
+   "about": "Tata Cara Pengawasan Ketenagakerjaan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Ketenagakerjaan Republik Indonesia ini mulai berlaku pada tanggal 12 Juni 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/156000/Permen_8_Tahun_2020_1.pdf",
+  "https://peraturan.bpk.go.id/Download/156001/Permen_8_Tahun_2020_2.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:40:34Z"
+}

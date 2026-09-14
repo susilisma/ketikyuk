@@ -1,0 +1,41 @@
+{
+ "id": "PERPRES-2024-124",
+ "source": "bpk",
+ "bpk_id": 304914,
+ "url": "https://peraturan.bpk.go.id/Details/304914/perpres-no-124-tahun-2024",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "124",
+ "number_raw": "124",
+ "year": 2024,
+ "title": "Peraturan Presiden (Perpres) Nomor 124 Tahun 2024 tentang Hak Keuangan dan Fasilitas Bagi Ketua dan Anggota Dewan Jaminan Sosial Nasional",
+ "about": "Hak Keuangan dan Fasilitas Bagi Ketua dan Anggota Dewan Jaminan Sosial Nasional",
+ "issuer": "Pemerintah Pusat",
+ "subject": "APBN - HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA - KEPEGAWAIAN, APARATUR NEGARA - PENGELOLAAN KEUANGAN NEGARA / DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-10-17",
+ "date_promulgated": "2024-10-17",
+ "date_effective": "2024-10-17",
+ "gazette": "LN 2024 (231) : 5 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2016-26",
+   "target_bpk_id": 40118,
+   "label": "PERPRES No. 26 Tahun 2016",
+   "about": "Hak Keuangan dan Fasilitas bagi Ketua dan Anggota Dewan Jaminan Sosial Nasional"
+  }
+ ],
+ "abstract": "Dengan adanya peningkatan beban tugas dan tanggung jawab Dewan Jaminan Sosial Nasional, perlu dilakukan penggantian Peraturan Presiden Nomor 26 Tahun 2016 tentang Hak Keuangan dan Fasilitas Bagi Ketua dan Anggota Dewan Jaminan Sosial Nasional.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD NRI Tahun 1945; UU Nomor 40 Tahun 2004; dan Perpres Nomor 46 Tahun 2014.\nPeraturan ini mengatur mengenai Hak Keuangan dan Fasilitas bagi ketua dan anggota Dewan Jaminan Sosial Nasional. Dewan Jaminan Sosial Nasional adalah dewan yang berfungsi untuk membantu Presiden dalam perumusan kebijakan umum dan sinkronisasi penyelenggaraan sistem jaminan sosial nasional.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 17 Oktober 2024.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 26 Tahun 2016 tentang Hak Keuangan dan Fasilitas Bagi Ketua dan Anggota Dewan Jaminan Sosial Nasional (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 63), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 5 hlm.",
+ "citations": [
+  "PERPRES-2016-26",
+  "UU-2004-40",
+  "PERPRES-2014-46"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/365028/Perpres%20Nomor%20124%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:29:14Z"
+}

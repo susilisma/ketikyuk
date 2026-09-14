@@ -1,0 +1,38 @@
+{
+ "id": "POJK-2020-46",
+ "source": "bpk",
+ "bpk_id": 226931,
+ "url": "https://peraturan.bpk.go.id/Details/226931/peraturan-ojk-no-46pojk052020-tahun-2020",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "46",
+ "number_raw": "46/POJK.05/2020",
+ "year": 2020,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 46/POJK.05/2020 Tahun 2020 tentang Perusahaan Pembiayaan Infrastruktur",
+ "about": "Perusahaan Pembiayaan Infrastruktur",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "KONSTRUKSI, SIPIL, ARSITEK, BANGUNAN, DAN INFRASTRUKTUR",
+ "field": "",
+ "date_enacted": "2020-10-27",
+ "date_promulgated": "2020-11-10",
+ "date_effective": "2020-11-10",
+ "gazette": "LN.2020/NO.249, TLN NO.6576, peraturan.go.id : 63 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 323219,
+   "label": "Peraturan OJK No. 16 Tahun 2024",
+   "about": "Pengawasan PT Sarana Multi Infrastruktur (Persero)"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 10 November 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/221645/Peraturan%20OJK%20No.%2046%20Tahun%202020.pdf",
+  "https://peraturan.bpk.go.id/Download/221646/Peraturan%20OJK%20No.%2046%20Tahun%202020_Penjelasan.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:44:20Z"
+}

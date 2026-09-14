@@ -1,0 +1,37 @@
+{
+ "id": "PP-2014-17",
+ "source": "bpk",
+ "bpk_id": 5454,
+ "url": "https://peraturan.bpk.go.id/Details/5454/pp-no-17-tahun-2014",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "17",
+ "number_raw": "17",
+ "year": 2014,
+ "title": "Peraturan Pemerintah (PP) Nomor 17 Tahun 2014 tentang Jenis Dan Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Berasal Dari Pelayanan Kesehatan Di Lingkungan Kementerian Pertahanan",
+ "about": "Jenis Dan Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Berasal Dari Pelayanan Kesehatan Di Lingkungan Kementerian Pertahanan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KESEHATAN - PNBP / PENERIMAAN NEGARA BUKAN PAJAK - PERTAHANAN DAN KEAMANAN, MILITER",
+ "field": "",
+ "date_enacted": "2014-03-05",
+ "date_promulgated": "2014-03-05",
+ "date_effective": "2014-03-05",
+ "gazette": "LN. 2014 No. 43, TLN No. 5511, LL SETNEG : 5 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2026-18",
+   "target_bpk_id": 349411,
+   "label": "PP No. 18 Tahun 2026",
+   "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku di Lingkungan Kementerian Pertahanan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 05 Maret 2014.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/30026/PP%20Nomor%2017%20Tahun%202014.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:27:57Z"
+}

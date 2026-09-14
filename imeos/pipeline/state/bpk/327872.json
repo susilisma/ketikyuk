@@ -1,0 +1,42 @@
+{
+ "id": "PP-2025-36",
+ "source": "bpk",
+ "bpk_id": 327872,
+ "url": "https://peraturan.bpk.go.id/Details/327872/pp-no-36-tahun-2025",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "36",
+ "number_raw": "36",
+ "year": 2025,
+ "title": "Peraturan Pemerintah (PP) Nomor 36 Tahun 2025 tentang Perubahan atas Peraturan Pemerintah Nomor 7 Tahun 2025 tentang Penyesuaian Iuran Jaminan Kecelakaan Kerja bagi Perusahaan Industri Padat Karya Tertentu Tahun 2025",
+ "about": "Perubahan atas Peraturan Pemerintah Nomor 7 Tahun 2025 tentang Penyesuaian Iuran Jaminan Kecelakaan Kerja bagi Perusahaan Industri Padat Karya Tertentu Tahun 2025",
+ "issuer": "Pemerintah Pusat",
+ "subject": "ASURANSI - KESEHATAN - KETENAGAKERJAAN",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2025-09-04",
+ "date_promulgated": "2025-09-04",
+ "date_effective": "2025-09-04",
+ "gazette": "LN 2025 (138), TLN (7131) : 5 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PP-2025-7",
+   "target_bpk_id": 314624,
+   "label": "PP No. 7 Tahun 2025",
+   "about": "Penyesuaian Iuran Jaminan Kecelakaan Kerja bagi Perusahaan Industri Padat Karya Tertentu Tahun 2025"
+  }
+ ],
+ "abstract": "Untuk menjaga keberlangsungan usaha dan mengantisipasi potensi ketidakmampuan perusahaan industri padat karya tertentu dalam memenuhi kewajiban pembayaran iuran program jaminan kecelakaan kerja secara masif, serta mempertimbangkan dinamika dan tantangan perekonomian nasional dan global yang memengaruhi stabilitas usaha serta daya beli masyarakat, khususnya di sektor industri padat karya tertentu, perlu dilakukan perpanjangan penyesuaian iuran jaminan kecelakaan kerja.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945; UU Nomor 40 Tahun 2004; UU Nomor 24 Tahun 2011; PP Nomor 44 Tahun 2015; dan PP Nomor 7 Tahun 2025.\nPP ini mengatur mengenai perubahan beberapa ketentuan dalam Peraturan Pemerintah Nomor 7 Tahun 2025 tentang Penyesuaian Iuran Jaminan Kecelakaan Kerja Bagi Perusahaan Industri Padat Karya Tertentu Tahun 2025 (Lembaran Negara Republik Indonesia Tahun 2025 Nomor 15, Tambahan Lembaran Negara Republik Indonesia Nomor 7094).",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 04 September 2025.\nPP ini mengubah PP Nomor 7 Tahun 2025.\nLampiran file: 7 hlm. (Batang tubuh hlm 1 sd 5, Penjelasan hlm 6 sd 7)",
+ "citations": [
+  "UU-2004-40",
+  "UU-2011-24",
+  "PP-2015-44",
+  "PP-2025-7"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/389669/Peraturan%20Pemerintah%20Nomor%2036%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:29:15Z"
+}

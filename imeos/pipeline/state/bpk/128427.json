@@ -1,0 +1,44 @@
+{
+ "id": "PERMENDAG-2018-68",
+ "source": "bpk",
+ "bpk_id": 128427,
+ "url": "https://peraturan.bpk.go.id/Details/128427/permendag-no-68-tahun-2018",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "68",
+ "number_raw": "68",
+ "year": 2018,
+ "title": "Peraturan Menteri Perdagangan Nomor 68 Tahun 2018 tentang Tera Dan Tera Ulang Alat-Alat Ukur, Takar, Timbang, dan Perlengkapannya",
+ "about": "Tera Dan Tera Ulang Alat-Alat Ukur, Takar, Timbang, dan Perlengkapannya",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "",
+ "date_enacted": "2018-06-06",
+ "date_promulgated": "2018-06-26",
+ "date_effective": "2018-06-26",
+ "gazette": "BN 2018/NO 812; KEMENDAG.GO.ID : 11 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2024-24",
+   "target_bpk_id": 305838,
+   "label": "Permendag No. 24 Tahun 2024",
+   "about": "Kegiatan Tera dan Tera Ulang Alat Ukur, Alat Takar, Alat Timbang, dan Alat Perlengkapan Metrologi Legal"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2014-70",
+   "target_bpk_id": 134425,
+   "label": "Permendag No. 70/M-DAG/PER/10/2014 Tahun 2014",
+   "about": "Tera Tera Ulang Alat-Alat Ukur Takar, Timbangan, dan Perlengkapan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 26 Juni 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/119373/Permendag%20No.%2068%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:37:42Z"
+}

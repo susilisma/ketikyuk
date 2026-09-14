@@ -1,0 +1,42 @@
+{
+ "id": "POJK-2025-11",
+ "source": "bpk",
+ "bpk_id": 323031,
+ "url": "https://peraturan.bpk.go.id/Details/323031/peraturan-ojk-no-11-tahun-2025",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "11",
+ "number_raw": "11",
+ "year": 2025,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 11 Tahun 2025 tentang Penyelenggaraan Usaha Lembaga Penjamin",
+ "about": "Penyelenggaraan Usaha Lembaga Penjamin",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-04-28",
+ "date_promulgated": "2025-05-06",
+ "date_effective": "2025-11-06",
+ "gazette": "BN.2025 (19)/80 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 129731,
+   "label": "Peraturan OJK No. 2/POJK.05/2017 Tahun 2017",
+   "about": "Penyelenggaraan Usaha Lembaga Penjamin"
+  }
+ ],
+ "abstract": "a. bahwa untuk melakukan penguatan industri\npenjaminan dan mewujudkan industri penjaminan\nyang sehat, terpercaya, dan berkelanjutan, serta untuk\nmendukung pertumbuhan dan pemerataan ekonomi\nnasional;\nb. bahwa Peraturan Otoritas Jasa Keuangan Nomor\n2/POJK.05/2017 tentang Penyelenggaraan Usaha\nLembaga Penjamin sebagaimana telah diubah dengan\nPeraturan Otoritas Jasa Keuangan Nomor\n30/POJK.05/2018 tentang Perubahan atas Peraturan\nOtoritas Jasa Keuangan Nomor 2/POJK.05/2017\ntentang Penyelenggaraan Usaha Lembaga Penjamin\nsudah tidak sesuai dengan perkembangan industri\nlembaga penjamin di Indonesia, sehingga perlu diganti;\nc. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a dan huruf b, perlu\nmenetapkan Peraturan Otoritas Jasa Keuangan tentang\nPenyelenggaraan Usaha Lembaga Penjamin;\nUndang-Undang Nomor 21 Tahun 2011 dan Undang-Undang Nomor 1 Tahun 2016\nPeraturan ini mengatur tentang ketentuan umum, kegiatan usaha, penyelenggaraan pejaminan, imbal jasa, cadangan, klaim, pembayaran klaim dan peralihan hak tagih, retensi sendiri, kapasitas penjaminan dan nilai penjaminan bagi usaha produktif, larangan, ekuitas, investasi lembaga penjamin, tingkat kesehatan lembaga penjamin, lembaga penunjang penjaminan, pelaporan, perlindungan konsumen, pedoman akuntansi lembaga penjamin, ketentuan lain-lain, ketentuan peralihan dan ketentuan penutup.",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 06 November 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas:\na. Peraturan Otoritas Jasa Keuangan Nomor\n2/POJK.05/2017 tentang Penyelenggaraan Usaha\nLembaga Penjamin\nb. Peraturan Otoritas Jasa Keuangan Nomor\n30/POJK.05/2018 tentang Perubahan atas Peraturan\nOtoritas Jasa Keuangan Nomor 2/POJK.05/2017\ntentang Penyelenggaraan Usaha Lembaga Penjamin",
+ "citations": [
+  "POJK-2017-2",
+  "POJK-2018-30",
+  "UU-2011-21",
+  "UU-2016-1"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/384844/Peraturan%20OJK%20Nomor%2011%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:43:47Z"
+}

@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2019-178",
+ "source": "bpk",
+ "bpk_id": 136696,
+ "url": "https://peraturan.bpk.go.id/Details/136696/pmk-no-178pmk042019",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "178",
+ "number_raw": "178/PMK.04/2019",
+ "year": 2019,
+ "title": "Peraturan Menteri Keuangan Nomor 178/PMK.04/2019 Tahun 2019 tentang Penyelesaian Terhadap Barang Yang Dinyatakan Tidak Dikuasai, Barang Yang Dikuasai Negara, Dan Barang Yang Menjadi Milik Negara",
+ "about": "Penyelesaian Terhadap Barang Yang Dinyatakan Tidak Dikuasai, Barang Yang Dikuasai Negara, Dan Barang Yang Menjadi Milik Negara",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PENGELOLAAN BARANG MILIK NEGARA / DAERAH",
+ "field": "",
+ "date_enacted": "2019-11-28",
+ "date_promulgated": "2019-11-28",
+ "date_effective": "2019-12-28",
+ "gazette": "JDIH.KEMENKEU.GO.ID : 138 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-92",
+   "target_bpk_id": 341462,
+   "label": "PMK No. 92 Tahun 2025",
+   "about": "Penyelesaian Terhadap Barang yang Dinyatakan Tidak Dikuasai, barang yang Dikuasai Negara dan Barang yang Menajdi Milik Negara"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2011-62",
+   "target_bpk_id": 127130,
+   "label": "PMK No. 62/PMK.04/2011",
+   "about": "Penyelesaian Terhadap Barang Yang Dinyatakan Tidak Dikuasai, Barang Yang Dikuasai Negara, Dan Barang Yang Menjadi Milik Negara"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 28 Desember 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/252920/178_PMK.04_2019.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:32:22Z"
+}

@@ -1,0 +1,69 @@
+{
+ "id": "PP-2019-11",
+ "source": "bpk",
+ "bpk_id": 102675,
+ "url": "https://peraturan.bpk.go.id/Details/102675/pp-no-11-tahun-2019",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "11",
+ "number_raw": "11",
+ "year": 2019,
+ "title": "Peraturan Pemerintah (PP) Nomor 11 Tahun 2019 tentang Perubahan Kedua atas Peraturan Pemerintah Nomor 43 Tahun 2014 tentang Peraturan Pelaksanaan Undang-Undang Nomor 6 Tahun 2014 tentang Desa",
+ "about": "Perubahan Kedua atas Peraturan Pemerintah Nomor 43 Tahun 2014 tentang Peraturan Pelaksanaan Undang-Undang Nomor 6 Tahun 2014 tentang Desa",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH - DESA",
+ "field": "",
+ "date_enacted": "2019-02-28",
+ "date_promulgated": "2019-02-28",
+ "date_effective": "2019-02-28",
+ "gazette": "LN.2019/NO.41, TLN NO.6321, LL SETKAB : 6 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2026-16",
+   "target_bpk_id": 349409,
+   "label": "PP No. 16 Tahun 2026",
+   "about": "Peraturan Pelaksanaan Undang-Undang Nomor 6 Tahun 2014 tentang Desa"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PP-2021-11",
+   "target_bpk_id": 161841,
+   "label": "PP No. 11 Tahun 2021",
+   "about": "Badan Usaha Milik Desa"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2021-11",
+   "target_bpk_id": 161841,
+   "label": "PP No. 11 Tahun 2021",
+   "about": "Badan Usaha Milik Desa"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PP-2015-47",
+   "target_bpk_id": 5617,
+   "label": "PP No. 47 Tahun 2015",
+   "about": "Perubahan Atas Peraturan Pemerintah Nomor 43 Tahun 2014 Tentang Peraturan Pelaksanaan Undang-Undang Nomor 6 Tahun 2014 Tentang Desa"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PP-2014-43",
+   "target_bpk_id": 5482,
+   "label": "PP No. 43 Tahun 2014",
+   "about": "Peraturan Pelaksanaan Undang-undang Nomor 6 Tahun 2014 tentang Desa"
+  }
+ ],
+ "abstract": "Untuk meningkatkan kinerja dan kualitas pelayanan penyelenggaraan pemerintahan desa perlu memperhatikan kesejahteraan kepala desa, sekretaris desa, dan perangkat desa melalui penyesuaian penghasilan tetap kepala desa, sekretaris desa, dan perangkat desa. Dengan pertimbangan tersebut, perlu mengubah beberapa ketentuan dalam PP Nomor 43 Tahun 2014 tentang Peraturan Pelaksanaan UU Nomor 6 Tahun 2014 tentang Desa sebagaimana telah diubah dengan PP Nomor 47 Tahun 2015.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945; UU Nomor 6 Tahun 2014 tentang Desa; dan PP Nomor 43 Tahun 2014 tentang Peraturan Pelaksanaan UU Nomor 6 Tahun 2014 tentang Desa sebagaimana telah diubah dengan PP Nomor 47 Tahun 2015.\nPP ini mengatur mengenai perubahan beberapa pasal dalam PP Nomor 43 Tahun 2014 tentang Peraturan Pelaksanaan UU Nomor 6 Tahun 2014 tentang Desa sebagaimana telah diubah dengan PP Nomor 47 Tahun 2015, yaitu Pasal 81 dan Pasal 100. Selain itu diantara Pasal 81 dan Pasal 82 disisipkan 2 pasal yaitu Pasal 81A dan Pasal 81B. Penghasilan tetap diberikan kepada kepala desa, sekretaris desa, dan perangkat desa lainnya dianggarkan dalam APBDesa yang bersumber dari ADD atau sumber lain dalam APBDesa selain dana desa.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 28 Februari 2019.\nPP ini mengubah PP Nomor 43 Tahun 2014 dan PP Nomor 47 Tahun 2015.",
+ "citations": [
+  "PP-2014-43",
+  "UU-2014-6",
+  "PP-2015-47"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/93324/PP%20Nomor%2011%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:28:03Z"
+}

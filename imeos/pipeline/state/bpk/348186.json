@@ -1,0 +1,45 @@
+{
+ "id": "PERMENPERIN-2026-5",
+ "source": "bpk",
+ "bpk_id": 348186,
+ "url": "https://peraturan.bpk.go.id/Details/348186/permenperin-no-5-tahun-2026",
+ "form": "PERMENPERIN",
+ "form_long": "Peraturan Menteri Perindustrian",
+ "number": "5",
+ "number_raw": "5",
+ "year": 2026,
+ "title": "Peraturan Menteri Perindustrian Nomor 5 Tahun 2026 tentang Pusat Penyedia Bahan Baku dan/atau Bahan Penolong",
+ "about": "Pusat Penyedia Bahan Baku dan/atau Bahan Penolong",
+ "issuer": "Kementerian Perindustrian",
+ "subject": "PERINDUSTRIAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-03-06",
+ "date_promulgated": "2026-03-26",
+ "date_effective": "2026-03-26",
+ "gazette": "BN.2026 (194)/30 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENPERIN-2021-21",
+   "target_bpk_id": 206327,
+   "label": "Permenperin No. 21 Tahun 2021",
+   "about": "Pusat Penyedia Bahan Baku Dan/Atau Bahan Penolong Impor Untuk Industri Kecil Dan Industri Menengah"
+  }
+ ],
+ "abstract": "a. bahwa untuk melaksanakan ketentuan Pasal 19 ayat (4)\nPeraturan Pemerintah Nomor 28 Tahun 2021 tentang\nPenyelenggaraan Bidang Perindustrian sebagaimana telah\ndiubah dengan Peraturan Pemerintah Nomor 46 Tahun\n2023 tentang Perubahan atas Peraturan Pemerintah\nNomor 28 Tahun 2021 tentang Penyelenggaraan Bidang\nPerindustrian, perlu mengatur pusat penyedia bahan baku\ndan/atau bahan penolong;\nb. bahwa pusat penyedia bahan baku dan/atau bahan\npenolong telah diatur dalam Peraturan Menteri\nPerindustrian Nomor 21 Tahun 2021 tentang Pusat\nPenyedia Bahan Baku dan/atau Bahan Penolong Impor\nuntuk Industri Kecil dan Industri Menengah;\nc. bahwa untuk menjaga kelangsungan proses produksi\nindustri kecil dan industri menengah, perlu mengganti\nPeraturan Menteri sebagaimana dimaksud dalam huruf b;\nd. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a, huruf b, dan huruf c, perlu menetapkan\nPeraturan Menteri Perindustrian tentang Pusat Penyedia\nBahan Baku dan/atau Bahan Penolong;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008,Undang-Undang Nomor 3 Tahun 2014, Peraturan Pemerintah Nomor 28 Tahun 2021, Peraturan Presiden Nomor 167 Tahun 2024, Peraturan Presiden Nomor 61 Tahun 2024 dan Peraturan Menteri Perindustrian Nomor 1 Tahun 2025\nPeraturan ini mengatur tentang ketentuan umum, penetapan pusat penyedia bahan baku dan/atau bahan penolong yang melakukan impor, impor bahan baku dan/atau bahan penolong, lembaga pelaksana verifikasi, pelaporan, pemantauan dan evaluasi, pemberian kemudahan, larangan, sanksi administratif, ketentuan peralihan dan ketentuan penutup.",
+ "note": "Peraturan Menteri Perindustrian ini mulai berlaku pada tanggal 26 Maret 2026.\nPeraturan\nMenteri Perindustrian Nomor 21 Tahun 2021 tentang Pusat\nPenyedia Bahan Baku dan/atau Bahan Penolong Impor untuk\nIndustri Kecil dan Industri Menengah dicabut dan dinyatakan tidak berlaku",
+ "citations": [
+  "PP-2021-28",
+  "PP-2023-46",
+  "UU-2008-39",
+  "UU-2014-3",
+  "PERPRES-2024-167",
+  "PERPRES-2024-61",
+  "PERMENPERIN-2025-1"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/411761/permenperin-no-5-tahun-2026.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:38:09Z"
+}

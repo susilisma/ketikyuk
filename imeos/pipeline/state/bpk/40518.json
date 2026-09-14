@@ -1,0 +1,51 @@
+{
+ "id": "UU-2004-19",
+ "source": "bpk",
+ "bpk_id": 40518,
+ "url": "https://peraturan.bpk.go.id/Details/40518/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "19",
+ "number_raw": "19",
+ "year": 2004,
+ "title": "Undang-undang (UU) Nomor 19 Tahun 2004 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2004 tentang Perubahan atas Undang-Undang Nomor 41 Tahun 1999 tentang Kehutanan Menjadi Undang-Undang",
+ "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2004 tentang Perubahan atas Undang-Undang Nomor 41 Tahun 1999 tentang Kehutanan Menjadi Undang-Undang",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KEHUTANAN DAN PERKEBUNAN",
+ "field": "",
+ "date_enacted": "2004-08-13",
+ "date_promulgated": "2004-08-13",
+ "date_effective": "2004-08-13",
+ "gazette": "LN. 2004/ No.86, TLN NO. 4412, LL SETNEG : 3 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1999-41",
+   "target_bpk_id": 45373,
+   "label": "UU No. 41 Tahun 1999",
+   "about": "Kehutanan"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 13 Agustus 2004.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/30209/UU%20Nomor%2019%20Tahun%202004.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:33:16Z"
+}

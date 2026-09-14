@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Indonesia Market Entry OS</title>
+<meta name="description" content="中国企业印尼落地操作系统：市场准入、PMA 设立、BPOM/SNI/清真、进口许可、税务、用工、KITAS、时间表、预算、法规情报库与新旧法规 Diff。">
+<link rel="stylesheet" href="/imeos/assets/os.css">
+<style>
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px}
+.tile{display:block;background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:20px;box-shadow:var(--shadow);color:inherit;transition:.15s transform}
+.tile:hover{transform:translateY(-2px);text-decoration:none}
+.tile h3{margin:6px 0 6px}.tile p{font-size:13.5px;color:var(--ink2);margin:0 0 8px}
+.tile .k{font-size:11px;letter-spacing:.12em;color:var(--red);font-weight:700}
+.alert{display:grid;grid-template-columns:96px 1fr auto;gap:12px;padding:10px 0;border-bottom:1px solid var(--line2);align-items:start;font-size:13.5px}
+.alert:last-child{border-bottom:0}
+.flow{display:flex;flex-wrap:wrap;gap:6px;align-items:center;font-size:12.5px;color:var(--ink2)}
+.flow span{background:#fff;border:1px solid var(--line);border-radius:6px;padding:3px 8px}
+.flow i{color:var(--mute);font-style:normal}
+</style>
+</head>
+<body>
+<main class="wrap">
+  <div class="hero">
+    <div class="eyebrow">Indonesia Market Entry OS · 中国企业印尼落地操作系统</div>
+    <h1>从“想去印尼”到“在印尼合规运营”，一套系统走完</h1>
+    <p class="lede">输入行业、产品、HS 编码、是否设 PMA、投资额与销售方式，系统输出准入、NIB/KBLI/OSS、BPOM/SNI/清真、进口许可、税务、用工、KITAS、时间表、风险、预算与 Checklist；背后是每日抓取印尼中央部委法规、自动比对新旧条文的法规情报库。</p>
+    <div class="flow" style="margin-top:14px"><span>行业</span><i>→</i><span>产品 / HS</span><i>→</i><span>PMA?</span><i>→</i><span>投资额</span><i>→</i><span>销售方式</span><i>⇒</i><span>准入</span><span>NIB/KBLI/OSS</span><span>BPOM/SNI/Halal</span><span>进口许可</span><span>税务</span><span>用工</span><span>KITAS</span><span>时间表</span><span>风险</span><span>预算</span><span>Checklist</span></div>
+  </div>
+
+  <div class="tiles">
+    <a class="tile" href="/imeos/entry/"><div class="k">01 · 方案生成</div><h3>落地方案生成器</h3><p>12 章节结构化报告，附法规出处、甘特图、预算区间与可勾选 Checklist，可打印成 PDF。</p><span class="chip dark">开始 →</span></a>
+    <a class="tile" href="/imeos/calculators/"><div class="k">02 · 计算器</div><h3>成本 · 工资/BPJS · 消费税 · 到岸成本</h3><p>PMA 设立成本、PPh 21 与 BPJS 雇主成本、电子烟/HPTL 三层税负倒算、进口到岸成本。</p><span class="chip dark">计算 →</span></a>
+    <a class="tile" href="/imeos/regintel/"><div class="k">03 · 法规情报</div><h3>Indonesia Regulatory Intelligence</h3><p>自动抓取 BPK/JDIH 法规库，标准化编号、部门与主题分类、有效/废止判断、条款拆分、新旧条文 Diff 与预警。</p><span class="chip dark" id="regcount">加载中…</span></a>
+    <a class="tile" href="/imeos/hs/"><div class="k">04 · 进口许可</div><h3>按 HS 编码查管制与认证</h3><p>输入 HS 编码，查 Lartas（PI/LS/Pertek）、消费税、SNI/BPOM/SDPPI 要求与建议 KBLI。</p><span class="chip dark">查询 →</span></a>
+    <a class="tile" href="/imeos/tools/"><div class="k">05 · 合同与模板</div><h3>劳动合同生成器 · 中印双语合同库 · 尽调模板</h3><p>PKWT/PKWTT 双语劳动合同生成；分销、保密、采购协议双语模板；印尼合作方尽调清单。</p><span class="chip dark">打开 →</span></a>
+    <a class="tile" href="/imeos/regintel/?tab=alerts"><div class="k">06 · 预警</div><h3>最近新增 / 修订 / 废止</h3><div id="alerts" class="mute">加载中…</div></a>
+  </div>
+
+  <div class="card" style="margin-top:24px">
+    <h2>这套系统怎么工作</h2>
+    <div class="grid g3">
+      <div><h3>知识库（人工维护）</h3><p class="mute">准入、许可、认证、税务、用工、签证、成本与周期的规则与经验值，全部附法规编号，可核对、可更新。</p></div>
+      <div><h3>法规情报流水线（自动）</h3><p class="mute">每日抓取 → 下载 PDF → 解析/OCR → 编号标准化 → 分类 → 生效日期 → 修订关系 → 有效性 → 条款拆分 → 与旧法 Diff → 预警。</p></div>
+      <div><h3>报告与工具（浏览器端）</h3><p class="mute">纯静态页面，输入不上传；报告可打印、导出 JSON；Checklist 进度保存在本机。</p></div>
+    </div>
+  </div>
+  <p class="disclaimer">Indonesia Market Entry OS 为规划与沟通工具，不构成法律或税务意见。数据来源：peraturan.bpk.go.id、各部委 JDIH、公开市场信息。</p>
+</main>
+<script src="/imeos/assets/common.js"></script>
+<script>
+fetch("/imeos/data/regintel/meta.json").then((r) => r.json()).then((m) => { $("#regcount").textContent = `${m.total} 部法规 · ${m.diffs} 组 Diff →`; }).catch(() => { $("#regcount").textContent = "打开 →"; });
+fetch("/imeos/data/regintel/alerts.json").then((r) => r.json()).then((a) => {
+  $("#alerts").innerHTML = a.slice(0, 5).map((x) => `<div class="alert"><span class="mono mute">${x.date}</span><span><b>${esc(x.id)}</b> ${esc(x.title.replace(/^.*?tentang /i, ""))}</span><span class="chip ${x.status === "revoked" ? "bad" : x.kind === "amendment" ? "warn" : "info"}">${{ new: "新增", amendment: "修订", revocation: "废止" }[x.kind]}</span></div>`).join("") || "<span class='mute'>暂无</span>";
+}).catch(() => { $("#alerts").textContent = "数据尚未生成"; });
+</script>
+</body>
+</html>

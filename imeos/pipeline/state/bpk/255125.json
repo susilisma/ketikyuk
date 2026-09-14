@@ -1,0 +1,62 @@
+{
+ "id": "PP-2023-36",
+ "source": "bpk",
+ "bpk_id": 255125,
+ "url": "https://peraturan.bpk.go.id/Details/255125/pp-no-36-tahun-2023",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "36",
+ "number_raw": "36",
+ "year": 2023,
+ "title": "Peraturan Pemerintah (PP) Nomor 36 Tahun 2023 tentang Devisa Hasil Ekspor dari Kegiatan Pengusahaan, Pengelolaan, dan/atau Pengolahan Sumber Daya Alam",
+ "about": "Devisa Hasil Ekspor dari Kegiatan Pengusahaan, Pengelolaan, dan/atau Pengolahan Sumber Daya Alam",
+ "issuer": "Pemerintah Pusat",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN - SUMBER DAYA ALAM",
+ "field": "",
+ "date_enacted": "2023-07-12",
+ "date_promulgated": "2023-07-12",
+ "date_effective": "2023-08-01",
+ "gazette": "LN 2023 (94), TLN (6882): 13 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2026-21",
+   "target_bpk_id": 349944,
+   "label": "PP No. 21 Tahun 2026",
+   "about": "Perubahan Ketiga atas Peraturan Pemerintah Nomor 36 Tahun 2023 tentang Devisa Hasil Ekspor dari Kegiatan Pengusahaan, Pengelolaan, dan/atau Pengolahan Sumber Daya Alam"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2026-2",
+   "target_bpk_id": 349943,
+   "label": "PP No. 2 Tahun 2026",
+   "about": "Perubahan Kedua atas Peraturan Pemerintah Nomor 36 Tahun 2023 tentang Devisa Hasil Ekspor dari Kegiatan Pengusahaan, Pengelolaan, dan/atau Pengolahan Sumber Daya Alam"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2025-8",
+   "target_bpk_id": 314625,
+   "label": "PP No. 8 Tahun 2025",
+   "about": "Perubahan atas Peraturan Pemerintah Nomor 36 Tahun 2023 tentang Devisa Hasil Ekspor dari Kegiatan Pengusahaan, Pengelolaan, dan/atau Pengolahan Sumber Daya Alam"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2019-1",
+   "target_bpk_id": 100443,
+   "label": "PP No. 1 Tahun 2019",
+   "about": "Devisa Hasil Ekspor dari Kegiatan Pengusahaan, Pengelolaan, dan/atau Pengolahan Sumber Daya Alam"
+  }
+ ],
+ "abstract": "Peraturan Pemerintah Nomor 1 Tahun 2019 tentang Devisa Hasil Ekspor dari Kegiatan Pengusahaan, Pengelolaan, dan/atau Pengolahan Sumber Daya Alam masih membutuhkan pengaturan yang komprehensif untuk mengakomodir perkembangan terkini di bidang perekonomian dan sistem keuangan Indonesia, sehingga perlu diganti.\nDasar hukum PP ini adalah Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 10 Tahun 1995; dan UU Nomor 24 Tahun 1999.\nPP ini mengatur mengenai Devisa Hasil Ekspor dari Kegiatan Pengusahaan, Pengelolaan, dan/atau Pengolahan Sumber Daya Alam. Lingkup pengaturan dalam PP ini meliputi: 1) pemasukan dan penempatan Devisa Hasil Ekspor dari Barang Ekspor Sumber Daya Alam (DHE SDA); 2) penggunaan DHE SDA; 3) pengawasan DHE SDA; dan 4) sanksi administratif. DHE SDA berasal dari hasil barang Ekspor pada sektor: pertambangan, perkebunan, kehutanan, dan perikanan.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 01 Agustus 2023.\nPada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 1 Tahun 2019 tentang Devisa Hasil Ekspor dari Kegiatan Pengusahaan, Pengelolaan, dan/atau Pengolahan Sumber Daya Alam (Lembaran Negara Republik Indonesia Tahun 2019 Nomor 7, Tambahan Lembaran Negara Republik Indonesia Nomor 6302), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 22 hlm (batang tubuh hlm 1 sd 13, penjelasan hlm 14 sd 22)",
+ "citations": [
+  "PP-2019-1",
+  "UU-1995-10",
+  "UU-1999-24"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/311789/PP%20Nomor%2036%20Tahun%202023.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:27:50Z"
+}

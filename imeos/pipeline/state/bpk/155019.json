@@ -1,0 +1,39 @@
+{
+ "id": "PP-2020-69",
+ "source": "bpk",
+ "bpk_id": 155019,
+ "url": "https://peraturan.bpk.go.id/Details/155019/pp-no-69-tahun-2020",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "69",
+ "number_raw": "69",
+ "year": 2020,
+ "title": "Peraturan Pemerintah (PP) Nomor 69 Tahun 2020 tentang Tata Cara Penetapan Tarif atas Jenis Penerimaan Negara Bukan Pajak",
+ "about": "Tata Cara Penetapan Tarif atas Jenis Penerimaan Negara Bukan Pajak",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PNBP / PENERIMAAN NEGARA BUKAN PAJAK - STANDAR / PEDOMAN",
+ "field": "",
+ "date_enacted": "2020-12-07",
+ "date_promulgated": "2020-12-07",
+ "date_effective": "2020-12-07",
+ "gazette": "LN.2020/No.268, TLN No.6584, jdih.setkab.go.id : 18 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2025-44",
+   "target_bpk_id": 331115,
+   "label": "PP No. 44 Tahun 2025",
+   "about": "Tata Cara Penetapan Tarif, Pengelolaan, dan Penyelesaian Keberatan, Keringanan, dan Pengembalian Penerimaan Negara Bukan Pajak"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 14 UU Nomor 9 Tahun 2018 tentang Penerimaan Negara Bukan Pajak, perlu menetapkan PP tentang Tata Cara Penetapan Tarif atas Jenis Penerimaan Negara Bukan Pajak.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945 dan UU Nomor 9 Tahun 2018 tentang Penerimaan Negara Bukan Pajak.\nPP ini mengatur mengenai beberapa hal antara lain: 1) kriteria atas jenis PNBP yang diatur dalam Peraturan Menteri Keuangan; 2) mekanisme penyusunan dan penyampaian usulan tarif atas jenis PNBP oleh Instansi Pengelola PNBP; 3) evaluasi atas usulan tarif atas jenis PNBP oleh Menteri Keuangan; 4) mekanisme penyusunan tarif atas jenis PNBP yang diatur dengan Undang-Undang atau kontrak melalui koordinasi; 5) penetapan tarif atas jenis PNBP dengan mekanisme Rapat Umum Pemegang Saham; 6) penetapan tarif atas jenis PNBP sampai dengan Rp0,00 (nol rupiah) atau 0% (nol persen); dan 7) evaluasi atas pelaksanaan jenis dan tarif atas jenis PNBP.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 07 Desember 2020.\nPenjelasan 18 hlm.",
+ "citations": [
+  "UU-2018-9"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/147382/PP%20Nomor%2069%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:28:58Z"
+}

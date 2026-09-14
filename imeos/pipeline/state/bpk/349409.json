@@ -1,0 +1,54 @@
+{
+ "id": "PP-2026-16",
+ "source": "bpk",
+ "bpk_id": 349409,
+ "url": "https://peraturan.bpk.go.id/Details/349409/pp-no-16-tahun-2026",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "16",
+ "number_raw": "16",
+ "year": 2026,
+ "title": "Peraturan Pemerintah (PP) Nomor 16 Tahun 2026 tentang Peraturan Pelaksanaan Undang-Undang Nomor 6 Tahun 2014 tentang Desa",
+ "about": "Peraturan Pelaksanaan Undang-Undang Nomor 6 Tahun 2014 tentang Desa",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH - DESA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-03-27",
+ "date_promulgated": "2026-03-27",
+ "date_effective": "2026-03-27",
+ "gazette": "LN 2026 (36), TLN (7169) : 99 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PP-2019-11",
+   "target_bpk_id": 102675,
+   "label": "PP No. 11 Tahun 2019",
+   "about": "Perubahan Kedua atas Peraturan Pemerintah Nomor 43 Tahun 2014 tentang Peraturan Pelaksanaan Undang-Undang Nomor 6 Tahun 2014 tentang Desa"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2015-47",
+   "target_bpk_id": 5617,
+   "label": "PP No. 47 Tahun 2015",
+   "about": "Perubahan Atas Peraturan Pemerintah Nomor 43 Tahun 2014 Tentang Peraturan Pelaksanaan Undang-Undang Nomor 6 Tahun 2014 Tentang Desa"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2014-43",
+   "target_bpk_id": 5482,
+   "label": "PP No. 43 Tahun 2014",
+   "about": "Peraturan Pelaksanaan Undang-undang Nomor 6 Tahun 2014 tentang Desa"
+  }
+ ],
+ "abstract": "Dalam rangka simplifikasi untuk efektivitas dan efisiensi serta mengoptimalkan penyelenggaraan Pemerintahan Desa, pelaksanaan Pembangunan Desa, Pembinaan Kemasyarakatan Desa, Pemberdayaan Masyarakat Desa berdasarkan Undang-Undang Nomor 6 Tahun 2014 tentang Desa, perlu menetapkan Peraturan Pemerintah tentang Peraturan Pelaksanaan Undang-Undang Nomor 6 Tahun 2014 tentang Desa.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945 dan UU No. 6 Tahun 2014.\nSecara umum, Peraturan Pemerintah ini mengatur mengenai penataan Desa, kewenangan Desa, Pemerintahan Desa, penatalaksanaan Pemerintahan Desa, tata cara penyusunan peraturan di Desa, keuangan dan Aset Desa, Dana Konservasi dan/atau Dana Rehabilitasi, Pembangunan Desa dan Pembangunan Kawasan Perdesaan, kerja sama Desa, LKD dan LAD, ketentuan pengakuan dan perlindungan Masyarakat Hukum Adat, pembinaan dan pengawasan Desa oleh camat atau sebutan lain, serta sarana dan prasarana Desa. Selain itu, adanya penambahan pengaturan yang merupakan amanat Undang-Undang Nomor 3 Tahun 2024 tentang Perubahan Kedua atas Undang-Undang Nomor 6 Tahun 2014 tentang Desa yaitu mengenai Dana Konservasi dan Dana Rehabilitasi, Tunjangan Purnatugas Kepala Desa dan Perangkat Desa, Tunjangan Purnatugas BPD, tata cara pemilihan Kepala Desa 1 (satu) calon, peningkatan kompetensi dan akuntabilitas kinerja Pemerintah Desa, pendapatan Desa, penyaluran dana alokasi umum, RPJM Desa dan RKP Desa, serta Perangkat Desa yang berstatus sebagai pegawai negeri sipil.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 27 Maret 2026.\nPada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 43 Tahun 2014 tentang Peraturan Pelaksanaan Undang-Undang Nomor 6 Tahun 2014 tentang Desa (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 123, Tambahan Lembaran Negara Republik Indonesia Nomor 5539) sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Pemerintah Nomor 11 Tahun 2019 tentang Perubahan Kedua atas Peraturan Pemerintah Nomor 43 Tahun 2014 tentang Peraturan Pelaksanaan Undang-Undang Nomor 6 Tahun 2014 tentang Desa (Lembaran Negara Republik Indonesia Tahun 2019 Nomor 41, Tambahan Lembaran Negara Republik Indonesia Nomor 6321), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 123 hlm (batang tubuh hlm 1 sd 99 dan penjelasan hlm 100 sd 123)",
+ "citations": [
+  "UU-2014-6",
+  "UU-2024-3"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/413094/PP%20Nomor%2016%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:28:02Z"
+}

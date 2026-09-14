@@ -1,0 +1,65 @@
+{
+ "id": "UU-1992-25",
+ "source": "bpk",
+ "bpk_id": 46650,
+ "url": "https://peraturan.bpk.go.id/Details/46650/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "25",
+ "number_raw": "25",
+ "year": 1992,
+ "title": "Undang-undang (UU) Nomor 25 Tahun 1992 tentang Perkoperasian",
+ "about": "Perkoperasian",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "",
+ "date_enacted": "1992-10-21",
+ "date_promulgated": "1992-10-21",
+ "date_effective": "1992-10-21",
+ "gazette": "LN. 1992, LL SETNEG : 28 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-4",
+   "target_bpk_id": 240203,
+   "label": "UU No. 4 Tahun 2023",
+   "about": "Pengembangan dan Penguatan Sektor Keuangan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 234926,
+   "label": "PERPU No. 2 Tahun 2022",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1967-12",
+   "target_bpk_id": 49587,
+   "label": "UU No. 12 Tahun 1967",
+   "about": "Pokok-Pokok Perkoperasian"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 21 Oktober 1992.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/35388/UU%20Nomor%2025%20Tahun%201992.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:25:53Z"
+}

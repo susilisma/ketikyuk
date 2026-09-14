@@ -1,0 +1,46 @@
+{
+ "id": "PP-2023-11",
+ "source": "bpk",
+ "bpk_id": 244907,
+ "url": "https://peraturan.bpk.go.id/Details/244907/x",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "11",
+ "number_raw": "11",
+ "year": 2023,
+ "title": "Peraturan Pemerintah (PP) Nomor 11 Tahun 2023 tentang Penangkapan Ikan Terukur",
+ "about": "Penangkapan Ikan Terukur",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERIKANAN DAN KELAUTAN",
+ "field": "",
+ "date_enacted": "2023-03-06",
+ "date_promulgated": "2023-03-06",
+ "date_effective": "2023-03-06",
+ "gazette": "LN.2023/No.36, TLN No.6853, jdih.setneg.go.id: 21 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut sebagian",
+   "target": "PP-2021-5",
+   "target_bpk_id": 161835,
+   "label": "PP No. 5 Tahun 2021",
+   "about": "Penyelenggaraan Perizinan Berusaha Berbasis Risiko"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "PP-2021-27",
+   "target_bpk_id": 161858,
+   "label": "PP No. 27 Tahun 2021",
+   "about": "Penyelenggaraan Bidang Kelautan dan Perikanan"
+  }
+ ],
+ "abstract": "Penangkapan ikan terukur dimaksudkan sebagai cara untuk memastikan kelestarian sumber daya ikan tetap terjaga dan dapat memberikan kesejahteraan nelayan, menyediakan perluasan dan kesempatan kerja, meningkatkan nilai tambah dan daya saing hasil perikanan, kepastian berusaha, kontribusi bagi dunia usaha, serta bagi negara.\nDasar hukum PP ini adalah Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 dan UU Nomor 31 Tahun 2004.\nPP ini mengatur mengenai penangkapan ikan terukur yang dilakukan di zona penangkapan ikan terukur. Penangkapan Ikan Terukur adalah penangkapan ikan yang terkendali dan proporsional, dilakukan di zona penangkapan ikan terukur, berdasarkan kuota penangkapan ikan dalam rangka menjaga kelestarian sumber daya ikan dan lingkungannya serta pemerataan pertumbuhan ekonomi nasional. Zona penangkapan ikan terukur meliputi Wilayah Pengelolaan Perikanan Negara Republik Indonesia (WPPNRI) dan laut lepas. WPPNRI adalah wilayah pengelolaan perikanan untuk penangkapan ikan dan pembudidayaan ikan yang meliputi perairan Indonesia, zona ekonomi eksklusif Indonesia, sungai, danau, waduk, rawa, dan genangan air lainnya yang potensial untuk diusahakan di wilayah Negara Republik Indonesia.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 06 Maret 2023.\nPP ini mencabut sebagian ketentuan dalam PP Nomor 5 Tahun 2021 dan PP Nomor 27 Tahun 2021.\nLampiran file: 28 hlm (Batang tubuh hlm 1 sd 21; Penjelasan hlm 22 sd 28).",
+ "citations": [
+  "UU-2004-31"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/300826/PP%20Nomor%2011%20Tahun%202023.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:18Z"
+}

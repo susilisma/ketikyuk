@@ -1,0 +1,41 @@
+{
+ "id": "PP-2025-48",
+ "source": "bpk",
+ "bpk_id": 343426,
+ "url": "https://peraturan.bpk.go.id/Details/343426/pp-no-48-tahun-2025",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "48",
+ "number_raw": "48",
+ "year": 2025,
+ "title": "Peraturan Pemerintah (PP) Nomor 48 Tahun 2025 tentang Penertiban Kawasan dan Tanah Telantar",
+ "about": "Penertiban Kawasan dan Tanah Telantar",
+ "issuer": "Pemerintah Pusat",
+ "subject": "AGRARIA, PERTANAHAN, TATA RUANG",
+ "field": "HUKUM AGRARIA",
+ "date_enacted": "2025-11-06",
+ "date_promulgated": "2025-11-06",
+ "date_effective": "2025-11-06",
+ "gazette": "LN 2025 (182), TLN (7147) : 26 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PP-2021-20",
+   "target_bpk_id": 161850,
+   "label": "PP No. 20 Tahun 2021",
+   "about": "Penertiban Kawasan dan Tanah Terlantar"
+  }
+ ],
+ "abstract": "Untuk mengoptimalkan pengusahaan, penggunaan, dan pemanfaatan semua tanah melalui penataan kembali terhadap penertiban dan pendayagunaan kawasan dan tanah telantar, serta untuk melaksanakan ketentuan Pasal 180 Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja Menjadi Undang-Undang dan ketentuan Pasal 27, Pasal 34, dan Pasal 40 Undang-Undang Nomor 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria terkait hapusnya hak atas tanah karena ditelantarkan, perlu menetapkan Peraturan Pemerintah tentang Penertiban Kawasan dan Tanah Telantar.\nDasar hukum PP ini adalah Pasal 5 ayat (1) UUD 1945; UU No. 5 Tahun 1960; dan UU No. 6 Tahun 2023.\nPP ini mengatur mengenai penertiban kawasan dan tanah telantar. Kawasan yang lzin/Konsesi/ Perizinan Berusahanya sengaja tidak diusahakan, tidak dipergunakan, dan/atau tidak dimanfaatkan oleh Pemegang Izin/Konsesi/Penzinan Berusaha menjadi objek penertiban Kawasan Telantar. Objek penertiban Kawasan Telantar tersebut meliputi: 1) kawasan pertambangan; 2) kawasan perkebunan; 3) kawasan industri; 4) kawasan pariwisata; 5) kawasan perumahan/permukiman skala besar/terpadu; atau 6) kawasan lain yang pengusahaan, penggunaan, dan/atau pemanfaatannya didasarkan pada Izin/Konsesi/Perizinan Berusaha yang terkait dengan pemanfaatan tanah dan ruang.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 06 November 2025.\nPada saat Peraturan Pemerintah ini mulai berlaku Peraturan Pemerintah Nomor 20 Tahun 2021 tentang Penertiban Kawasan dan Tanah Telantar (Lembaran Negara Republik Indonesia Tahun 2021 Nomor 30, Tambahan Lembaran Negara Republik Indonesia Nomor 6632) dicabut dan dinyatakan tidak berlaku.\nLampiran file: 42 hlm (batang tubuh hlm 1 sd 26 dan penjelasan hlm 27 sd 42)",
+ "citations": [
+  "UU-2023-6",
+  "PERPPU-2022-2",
+  "UU-1960-5"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/406639/PP%20Nomor%2048%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:28:49Z"
+}

@@ -1,0 +1,46 @@
+{
+ "id": "PERMENPERIN-2025-27",
+ "source": "bpk",
+ "bpk_id": 333001,
+ "url": "https://peraturan.bpk.go.id/Details/333001/permenperin-no-27-tahun-2025",
+ "form": "PERMENPERIN",
+ "form_long": "Peraturan Menteri Perindustrian",
+ "number": "27",
+ "number_raw": "27",
+ "year": 2025,
+ "title": "Peraturan Menteri Perindustrian Nomor 27 Tahun 2025 tentang Tata Cara Penerbitan Pertimbangan Teknis Impor Tekstil dan Produk Tekstil",
+ "about": "Tata Cara Penerbitan Pertimbangan Teknis Impor Tekstil dan Produk Tekstil",
+ "issuer": "Kementerian Perindustrian",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN - PERINDUSTRIAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-07-18",
+ "date_promulgated": "2025-07-23",
+ "date_effective": "2025-07-30",
+ "gazette": "BN.2025 (537/180 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENPERIN-2024-5",
+   "target_bpk_id": 287646,
+   "label": "Permenperin No. 5 Tahun 2024",
+   "about": "Tata Cara Penerbitan Pertimbangan Teknis Impor Tekstil, Produk Tekstil, Tas Dan Alas Kaki"
+  }
+ ],
+ "abstract": "a. bahwa untuk menjamin ketersediaan tekstil dan\nproduk tekstil sebagai bahan baku dan/atau bahan\npenolong bagi industri dalam negeri serta untuk\nmeningkatkan daya saing industri tekstil dan produk\ntekstil, perlu mengatur kembali tata cara penerbitan\npertimbangan teknis impor komoditas tekstil dan\nproduk tekstil;\nb. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a, perlu menetapkan Peraturan\nMenteri Perindustrian tentang Tata Cara Penerbitan\nPertimbangan Teknis Impor Tekstil dan Produk Tekstil;\nPasal 17 ayat (3) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 3 Tahun 2014, Peraturan Pemerintah Nomor 28 Tahun 2021, Peraturan Presiden Nomor 167 Tahun 2024, Peraturan Menteri Perindustrian Nomor 45 Tahun 2020, Peraturan Menteri Perindustrian Nomor 1 Tahun 2025, Peraturan Menteri Perdagangan Nomor 16 Tahun 2025 dan Peraturan Menteri Perdagangan Nomor 17 Tahun 2025\nPeraturan ini mengatur tentang ketentuan umum, penerbitan pertimbangan teknis dan pertimbangan teknis perubahan, verifikasi kemampuan industrian dan verifikasi importir umum, lembaga pelaksana verifikasi, pelaporan, pemantauan dan evaluasi, sanksi, ketentuan peralihan dan ketentuan penutup",
+ "note": "Peraturan Menteri Perindustrian ini mulai berlaku pada tanggal 30 Juli 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan Menteri Perindustrian Nomor 5 Tahun 2024 tentang Tata Cara Penerbitan Pertimbangan Teknis Impor Tekstil,\nProduk Tekstil, Tas, dan Alas Kaki",
+ "citations": [
+  "UU-2008-39",
+  "UU-2014-3",
+  "PP-2021-28",
+  "PERPRES-2024-167",
+  "PERMENPERIN-2020-45",
+  "PERMENPERIN-2025-1",
+  "PERMENDAG-2025-16",
+  "PERMENDAG-2025-17"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/395177/permenperin-no-27-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:38:32Z"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "PP-2021-106",
+ "source": "bpk",
+ "bpk_id": 184671,
+ "url": "https://peraturan.bpk.go.id/Details/184671/pp-no-106-tahun-2021",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "106",
+ "number_raw": "106",
+ "year": 2021,
+ "title": "Peraturan Pemerintah (PP) Nomor 106 Tahun 2021 tentang Kewenangan dan Kelembagaan Pelaksanaan Kebijakan Otonomi Khusus Provinsi Papua",
+ "about": "Kewenangan dan Kelembagaan Pelaksanaan Kebijakan Otonomi Khusus Provinsi Papua",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH",
+ "field": "",
+ "date_enacted": "2021-10-15",
+ "date_promulgated": "2021-10-15",
+ "date_effective": "2021-10-15",
+ "gazette": "LN.2021/No.238, TLN No.6730, jdih.setneg.go.id : 68 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2025-46",
+   "target_bpk_id": 330888,
+   "label": "PP No. 46 Tahun 2025",
+   "about": "Perubahan atas Peraturan Pemerintah Nomor 106 Tahun 2021 tentang Kewenangan dan Kelembagaan Pelaksanaan Kebijakan Otonomi Khusus Provinsi Papua"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 4 ayat (7), Pasal 6 ayat (6), Pasal 6A ayat (6), Pasal 56 ayat (9), Pasal 59 ayat (8), Pasal 68A ayat (4), dan Pasal 76 UU Nomor 2 Tahun 2021 tentang Perubahan Kedua atas UU Nomor 21 Tahun 2001 tentang Otonomi Khusus bagi Provinsi Papua, perlu menetapkan PP tentang Kewenangan dan Kelembagaan Pelaksanaan Kebijakan Otonomi Khusus Provinsi Papua.\nDasar hukum PP ini adalah Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 21 Tahun 2001; dan UU Nomor 23 Tahun 2014.\nPP ini mengatur mengenai: 1) kewenangan Pemerintah Daerah Provinsi Papua dan Pemerintah Daerah Kabupaten/Kota; 2) pengisian anggota Dewan Perwakilan Rakyat Papua (DPRP) dan Dewan Perwakilan Rakyat Kabupaten/Kota (DPRK) yang diangkat dari unsur Orang Asli Papua (OAP); 3) Badan Pengarah Percepatan Pembangunan Otonomi Khusus Papua; dan 4) pemekaran daerah.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 15 Oktober 2021.\nPemekaran daerah provinsi dan kabupaten/kota menjadi provinsi-provinsi dan kabupaten/kota dapat dilakukan atas persetujuan MRP dan DPRP setelah memperhatikan dengan sungguh-sungguh kesatuan sosial-budaya, kesiapan sumber daya manusia, kemampuan ekonomi, dan perkembangan pada masa yang akan datang. Dalam hal pemekaran ini, gubernur memberikan pertimbangan kepada pemerintah pusat.\nPenjelasan 29 hlm.",
+ "citations": [
+  "UU-2021-2",
+  "UU-2001-21",
+  "UU-2014-23"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/178107/PP%20Nomor%20106%20Tahun%202021.pdf",
+  "https://peraturan.bpk.go.id/Download/178108/PP%20Nomor%20106%20Tahun%202021%20-%20Lampiran.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:28:53Z"
+}

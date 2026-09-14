@@ -1,0 +1,37 @@
+{
+ "id": "PP-2010-18",
+ "source": "bpk",
+ "bpk_id": 5026,
+ "url": "https://peraturan.bpk.go.id/Details/5026/pp-no-18-tahun-2010",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "18",
+ "number_raw": "18",
+ "year": 2010,
+ "title": "Peraturan Pemerintah (PP) Nomor 18 Tahun 2010 tentang Usaha Budidaya Tanaman",
+ "about": "Usaha Budidaya Tanaman",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KEHUTANAN DAN PERKEBUNAN - PANGAN, PERTANIAN DAN PETERNAKAN",
+ "field": "",
+ "date_enacted": "2010-01-28",
+ "date_promulgated": "2010-01-28",
+ "date_effective": "2010-01-28",
+ "gazette": "LN. 2010 No. 24, TLN No. 5106, LL SETNEG : 11 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2026-7",
+   "target_bpk_id": 347926,
+   "label": "PP No. 7 Tahun 2026",
+   "about": "Peraturan Pelaksanaan Undang-Undang Nomor 22 Tahun 2019 tentang Sistem Budi Daya Pertanian Berkelanjutan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 28 Januari 2010.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/35875/PP%2018%20Tahun%202010.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:28:28Z"
+}

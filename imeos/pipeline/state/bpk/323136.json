@@ -1,0 +1,52 @@
+{
+ "id": "PERMENDAG-2025-19",
+ "source": "bpk",
+ "bpk_id": 323136,
+ "url": "https://peraturan.bpk.go.id/Details/323136/permendag-no-19-tahun-2025",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "19",
+ "number_raw": "19",
+ "year": 2025,
+ "title": "Peraturan Menteri Perdagangan Nomor 19 Tahun 2025 tentang Kebijakan dan Pengaturan Impor Garam dan Komoditas Perikanan",
+ "about": "Kebijakan dan Pengaturan Impor Garam dan Komoditas Perikanan",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN - PERIKANAN DAN KELAUTAN - KEBIJAKAN PEMERINTAH",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2025-06-30",
+ "date_promulgated": "2025-06-30",
+ "date_effective": "2025-08-29",
+ "gazette": "BN 2025 (452): 99 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENDAG-2025-38",
+   "target_bpk_id": 332975,
+   "label": "Permendag No. 38 Tahun 2025",
+   "about": "Perubahan Atas Peraturan Menteri Perdagangan Nomor 19 Tahun 2025 tentang Kebijakan dan Pengaturan Impor Garam dan Komoditas Perikanan"
+  }
+ ],
+ "abstract": "Untuk memperkuat efektivitas pengendalian impor garam dan komoditas perikanan, perlu mengatur kembali kebijakan dan pengaturan impor garam dan komoditas perikanan.\nDasar hukum dalam Permendag ini adalah Pasal 17 ayat (3) UUD 1945; UU No. 7 Tahun 1994; UU No. 10 Tahun 1995; UU No. 39 Tahun 2008; UU No. 7 Tahun 2014; PP No. 32 Tahun 2009; PP No. 83 Tahun 2010; PP No. 27 Tahun 2021; PP No. 28 Tahun 2021; PP No. 29 Tahun 2021; PP No. 40 Tahun 2021; PP No. 41 Tahun 2021; Perpres No. 168 Tahun 2024; Permendag No. 6 Tahun 2025; dan Permendag No. 16 Tahun 2025.\nMateri pokok dalam Permendag ini adalah mengenai kebijakan dan pengaturan impor garam dan komuditas perikanan. Garam dan Komoditas Perikanan yang diatur impornya terdiri atas: a. Garam; b. mutiara; c. calon induk, induk, benih ikan, dan/atau inti mutiara; dan d. hasil perikanan. Terhadap Impor atas Garam dan Komoditas Perikanan untuk pos tarif/harmonized system dan uraian Barang tertentu, Menteri dapat menentukan tempat pemasukan Barang Impor dengan memperhatikan ketentuan peraturan perundang-undangan. Permen ini juga mengatur sanksi administratif bila terjadi ketidaksesuaian dokumen atau pelanggaran prosedur terhadap beberapa mekanisme impor khusus sesuai jenis komoditas dan alur distribusi.",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 29 Agustus 2025.\nLampiran file: 99 hlm (batang tubuh hlm 1 sd 15, lampiran hlm 16 sd 99)",
+ "citations": [
+  "UU-1994-7",
+  "UU-1995-10",
+  "UU-2008-39",
+  "UU-2014-7",
+  "PP-2009-32",
+  "PP-2010-83",
+  "PP-2021-27",
+  "PP-2021-28",
+  "PP-2021-29",
+  "PP-2021-40",
+  "PP-2021-41",
+  "PERPRES-2024-168",
+  "PERMENDAG-2025-6",
+  "PERMENDAG-2025-16"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/384951/Permendag%20Nomor%2019%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:36:49Z"
+}

@@ -1,0 +1,43 @@
+{
+ "id": "PMK-2024-138",
+ "source": "bpk",
+ "bpk_id": 311681,
+ "url": "https://peraturan.bpk.go.id/Details/311681/pmk-no-138-tahun-2024",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "138",
+ "number_raw": "138",
+ "year": 2024,
+ "title": "Peraturan Menteri Keuangan Nomor 138 Tahun 2024 tentang Standar Barang dan Standar Kebutuhan Barang Milik Negara",
+ "about": "Standar Barang dan Standar Kebutuhan Barang Milik Negara",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PENGELOLAAN BARANG MILIK NEGARA / DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-12-31",
+ "date_promulgated": "2024-12-31",
+ "date_effective": "2024-12-31",
+ "gazette": "BN 2024 (1099) : 7 hlm.; jdih.kemenkeu.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2020-172",
+   "target_bpk_id": 149719,
+   "label": "PMK No. 172/PMK.06/2020",
+   "about": "Standar Barang dan Standar Kebutuhan Barang Milik Negara"
+  }
+ ],
+ "abstract": "Peraturan Menteri Keuangan Nomor 172/PMK.06/2020 tentang Standar Barang dan Standar Kebutuhan Barang Milik Negara sudah tidak sesuai lagi dengan kebutuhan dan diperlukan peningkatan efektivitas pengelolaan barang milik negara.\nDasar hukum Peraturan Menteri ini adalah Pasal 17 ayat (3) UUD 1945, UU Nomor 39 Tahun 2008, PP Nomor 27 Tahun 2014, Perpres Nomor 158 Tahun 2024, dan PMK Nomor 124 Tahun 2024.\nPeraturan Menteri ini mengatur mengenai Standar Barang dan Standar Kebutuhan Barang Milik Negara dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Standar Barang dan Standar Kebutuhan BMN merupakan batas tertinggi yang menjadi pedoman bagi Pengguna Barang/Kuasa Pengguna Barang dalam menyusun Perencanaan Kebutuhan pengadaan dan pemeliharaan BMN.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 31 Desember 2024.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 172/PMK.06/2020 tentang Standar Barang dan Standar Kebutuhan Barang Milik Negara (Berita Negara Republik Indonesia Tahun 2020 Nomor 1242), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 46 hlm.",
+ "citations": [
+  "PMK-2020-172",
+  "UU-2008-39",
+  "PP-2014-27",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/372417/2024pmkeuangan138.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:34:02Z"
+}

@@ -1,0 +1,54 @@
+{
+ "id": "PERPRES-2021-18",
+ "source": "bpk",
+ "bpk_id": 164062,
+ "url": "https://peraturan.bpk.go.id/Details/164062/perpres-no-18-tahun-2021",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "18",
+ "number_raw": "18",
+ "year": 2021,
+ "title": "Peraturan Presiden (Perpres) Nomor 18 Tahun 2021 tentang Kementerian Kesehatan",
+ "about": "Kementerian Kesehatan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "",
+ "date_enacted": "2021-03-17",
+ "date_promulgated": "2021-03-19",
+ "date_effective": "2021-03-19",
+ "gazette": "LN.2021/No.83, jdih.setkab.go.id : 22 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-161",
+   "target_bpk_id": 306704,
+   "label": "Perpres No. 161 Tahun 2024",
+   "about": "Kementerian Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2015-35",
+   "target_bpk_id": 41762,
+   "label": "PERPRES No. 35 Tahun 2015",
+   "about": "Kementerian Kesehatan"
+  }
+ ],
+ "abstract": "Sebagai tindak lanjut ditetapkannya Keputusan Presiden Nomor 113/P Tahun 2019 tentang Pembentukan Kementerian Negara dan Pengangkatan Menteri Negara Kabinet Indonesia Maju Periode Tahun 2019-2024 dan untuk melaksanakan ketentuan Pasal 11 Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara, perlu menetapkan Peraturan Presiden tentang Kementerian Kesehatan.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD Negara Republik Indonesia Tahun 1945; UU Nomor 39 Tahun 2008; UU Nomor 36 Tahun 2009; UU Nomor 44 Tahun 2009; UU Nomor 36 Tahun 2014; UU Nomor 6 Tahun 2018; PP Nomor 67 Tahun 2019; Perpres Nomor 72 Tahun 2012; dan Perpres Nomor 68 Tahun 2019.\nPP ini mengatur mengenai: 1) kedudukan, tugas, dan fungsi; 2) organisasi; 3) unit pelaksana teknis; 4) tata kerja; dan 5) pendanaan Kementerian Kesehatan. Kementerian Kesehatan berada di bawah dan bertanggung jawab kepada presiden yang dipimpin oleh menteri. Kementerian Kesehatan mempunyai tugas menyelenggarakan urusan pemerintahan di bidang kesehatan untuk membantu presiden dalam menyelenggarakan pemerintahan negara. Susunan organisasi Kementerian Kesehatan terdiri atas Sekretariat Jenderal, lima Direktorat Jenderal, Inspektorat Jenderal, Badan Kebijakan Pembangunan Kesehatan, dan staf-staf ahli.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 19 Maret 2021.\nPada saat Peraturan Presiden ini mulai berlaku, Perpres Nomor 35 Tahun 2015 tentang Kementerian Kesehatan dicabut dan dinyatakan tidak berlaku.\nHalaman : 22 hlm.",
+ "citations": [
+  "KEPPRES-2019-113",
+  "UU-2008-39",
+  "UU-2009-36",
+  "UU-2009-44",
+  "UU-2014-36",
+  "UU-2018-6",
+  "PP-2019-67",
+  "PERPRES-2012-72",
+  "PERPRES-2019-68"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/156871/Perpres%20Nomor%2018%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:28:09Z"
+}

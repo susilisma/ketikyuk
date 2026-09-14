@@ -1,0 +1,50 @@
+{
+ "id": "PERPRES-2020-85",
+ "source": "bpk",
+ "bpk_id": 143594,
+ "url": "https://peraturan.bpk.go.id/Details/143594/perpres-no-85-tahun-2020",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "85",
+ "number_raw": "85",
+ "year": 2020,
+ "title": "Peraturan Presiden (Perpres) Nomor 85 Tahun 2020 tentang Kementerian Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi",
+ "about": "Kementerian Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KONSTRUKSI, SIPIL, ARSITEK, BANGUNAN, DAN INFRASTRUKTUR - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "",
+ "date_enacted": "2020-08-10",
+ "date_promulgated": "2020-08-11",
+ "date_effective": "2020-08-11",
+ "gazette": "LN.2020/NO.192, jdih.setneg.go.id : 24 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-171",
+   "target_bpk_id": 306844,
+   "label": "Perpres No. 171 Tahun 2024",
+   "about": "Kementerian Desa dan Pembangunan Daerah Tertinggal"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2015-12",
+   "target_bpk_id": 41734,
+   "label": "PERPRES No. 12 Tahun 2015",
+   "about": "Kementerian Desa, Pembangunan Daerah Tertinggal, Dan Transmigrasi"
+  }
+ ],
+ "abstract": "Sebagai tindak lanjut ditetapkannya Keppres Nomor 113/P Tahun 2019 tentang Pembentukan Kementerian Negara dan Pengangkatan Menteri Negara Kabinet Indonesia Maju Periode Tahun 2019-2024 dan untuk melaksanakan ketentuan Pasal 11 UU Nomor 39 Tahun 2008 tentang Kementerian Negara, perlu menetapkan Perpres tentang Kementerian Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) dan Pasal 17 UUD 1945; UU Nomor 39 Tahun 2008 tentang Kementerian Negara; Perpres Nomor 60 Tahun 2012 tentang Wakil Menteri sebagaimana telah diubah dengan Perpres Nomor 134 Tahun 2014; Perpres Nomor 67 Tahun 2019 tentang Penataan Tugas dan Fungsi Kementerian Negara Kabinet Indonesia Maju Periode Tahun 2019-2024; dan Perpres Nomor 68 Tahun 2019 tentang Organisasi Kementerian Negara.\nPerpres ini mengatur mengenai penetapan Kementerian Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi sebagai tindak lanjut ditetapkannya Keppres Nomor 113/P Tahun 2019 dan untuk melaksanakan ketentuan Pasal 11 UU Nomor 39 Tahun 2008. Kementerian Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi berada di bawah dan bertanggung jawab kepada Presiden yang dipimpin oleh Menteri. Kementerian Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi mempunyai tugas menyelenggarakan urusan pemerintahan di bidang pembangunan desa dan\nperdesaan, pemberdayaan masyarakat desa, percepatan pembangunan daerah tertinggal, dan transmigrasi untuk membantu Presiden dalam menyelenggarakan\npemerintahan negara.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 11 Agustus 2020.\nPada saat Perpres ini mulai berlaku, Perpres Nomor 12 Tahun 2015 tentang Kementerian Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 13), dicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "UU-2008-39",
+  "PERPRES-2012-60",
+  "PERPRES-2014-134",
+  "PERPRES-2019-67",
+  "PERPRES-2019-68"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/135120/Perpres%20Nomor%2085%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:27:45Z"
+}

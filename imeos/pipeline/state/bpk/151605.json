@@ -1,0 +1,58 @@
+{
+ "id": "PERPRES-2020-107",
+ "source": "bpk",
+ "bpk_id": 151605,
+ "url": "https://peraturan.bpk.go.id/Details/151605/perpres-no-107-tahun-2020",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "107",
+ "number_raw": "107",
+ "year": 2020,
+ "title": "Peraturan Presiden (Perpres) Nomor 107 Tahun 2020 tentang Kementerian Perindustrian",
+ "about": "Kementerian Perindustrian",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI - STRUKTUR ORGANISASI",
+ "field": "",
+ "date_enacted": "2020-11-06",
+ "date_promulgated": "2020-11-10",
+ "date_effective": "2020-11-10",
+ "gazette": "LN.2020/No.254, jdih.setkab.go.id : 29 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-167",
+   "target_bpk_id": 306747,
+   "label": "Perpres No. 167 Tahun 2024",
+   "about": "Kementerian Perindustrian"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2018-69",
+   "target_bpk_id": 89960,
+   "label": "PERPRES No. 69 Tahun 2018",
+   "about": "Perubahan atas Peraturan Presiden Nomor 29 Tahun 2015 Tentang Kementerian Perindustrian"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2015-29",
+   "target_bpk_id": 41758,
+   "label": "PERPRES No. 29 Tahun 2015",
+   "about": "Kementerian Perindustrian"
+  }
+ ],
+ "abstract": "Sebagai tindak lanjut ditetapkannya Keputusan Presiden Nomor 113/P Tahun 2019 tentang Pembentukan Kementerian Negara dan Pengangkatan Menteri Negara Kabinet Indonesia Maju Periode Tahun 2019 - 2024 dan untuk melaksanakan ketentuan Pasal 11 UU Nomor 39 Tahun 2008 tentang Kementerian Negara, perlu menetapkan Peraturan Presiden tentang Kementerian Perindustrian.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) dan Pasal 17 UUD 1945; UU Nomor 39 Tahun 2008; Perpres Nomor 60 Tahun 2012 sebagaimana telah diubah dengan Perpres Nomor 134 Tahun 2014; Perpres Nomor 67 Tahun 2019; dan Perpres Nomor 68 Tahun 2019.\nPerpres ini mengatur mengenai penetapan kedudukan, tugas, dan fungsi Kementerian Perindustrian. Kementerian Perindustrian berkedudukan berada di bawah dan bertanggung jawab kepada Presiden yang mempunyai tugas menyelenggarakan urusan pemerintahan di bidang perindustrian untuk membantu presiden dalam menyelenggaran urusan pemerintahan negara. Dalam melaksanakan tugas tersebut, Kementerian Perindustrian menyelenggarakan fungsi antara lain: perumusan dan penetapan kebijakan di bidang pembangunan sumber daya industri, pembangunan sarana dan prasarana industri, pemberdayaan industri, pengembangan perwilayahan industri, pengamanan dan penyelamatan industri, peningkatan dan penguatan industri 4.0, pembinaan jasa industri, dan pengawasan dan pengendalian terhadap kegiatan usaha industri dan kegiatan kawasan industri; dan pengelolaan barang milik/kekayaan negara yang menjadi tanggung jawab Kementerian Perindustrian.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 10 November 2020.\nPerpres ini mencabut Perpres Nomor 29 Tahun 2015 tentang Kementerian Perindustrian (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 54) sebagaimana telah diubah dengan Perpres Nomor 69 Tahun 2018 (Lembaran Negara Republik Indonesia Tahun 2018 Nomor 142).",
+ "citations": [
+  "KEPPRES-2019-113",
+  "UU-2008-39",
+  "PERPRES-2012-60",
+  "PERPRES-2014-134",
+  "PERPRES-2019-67",
+  "PERPRES-2019-68"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/143850/Perpres%20Nomor%20107%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:27:56Z"
+}

@@ -1,0 +1,100 @@
+{
+ "id": "UU-2023-17",
+ "source": "bpk",
+ "bpk_id": 258028,
+ "url": "https://peraturan.bpk.go.id/Details/258028/uu-no-17-tahun-2023",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "17",
+ "number_raw": "17",
+ "year": 2023,
+ "title": "Undang-undang (UU) Nomor 17 Tahun 2023 tentang Kesehatan",
+ "about": "Kesehatan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KESEHATAN",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2023-08-08",
+ "date_promulgated": "2023-08-08",
+ "date_effective": "2023-08-08",
+ "gazette": "LN 2023 (105), TLN (6887): 198 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "UU-2019-4",
+   "target_bpk_id": 104274,
+   "label": "UU No. 4 Tahun 2019",
+   "about": "Kebidanan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-2018-6",
+   "target_bpk_id": 90037,
+   "label": "UU No. 6 Tahun 2018",
+   "about": "Kekarantinaan Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-2014-38",
+   "target_bpk_id": 38782,
+   "label": "UU No. 38 Tahun 2014",
+   "about": "Keperawatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-2014-36",
+   "target_bpk_id": 38770,
+   "label": "UU No. 36 Tahun 2014",
+   "about": "Tenaga Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-2014-18",
+   "target_bpk_id": 38646,
+   "label": "UU No. 18 Tahun 2014",
+   "about": "Kesehatan Jiwa"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-2013-20",
+   "target_bpk_id": 38895,
+   "label": "UU No. 20 Tahun 2013",
+   "about": "Pendidikan Kedokteran"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-2009-44",
+   "target_bpk_id": 38789,
+   "label": "UU No. 44 Tahun 2009",
+   "about": "Rumah Sakit"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-2009-36",
+   "target_bpk_id": 38778,
+   "label": "UU No. 36 Tahun 2009",
+   "about": "Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-2004-29",
+   "target_bpk_id": 40752,
+   "label": "UU No. 29 Tahun 2004",
+   "about": "Praktik Kedokteran"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1984-4",
+   "target_bpk_id": 46973,
+   "label": "UU No. 4 Tahun 1984",
+   "about": "Wabah Penyakit Menular"
+  }
+ ],
+ "abstract": "Negara menjamin hak setiap warga negara untuk mewujudkan kehidupan yang baik, sehat, serta sejahtera lahir dan batin demi tercapainya tujuan nasional dalam melindungi segenap bangsa Indonesia dan seluruh tumpah darah Indonesia untuk memajukan kesejahteraan umum sebagaimana diamanatkan dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945. Pembangunan kesehatan masyarakat memerlukan upaya kesehatan, sumber daya kesehatan, dan pengelolaan kesehatan untuk meningkatkan derajat kesehatan masyarakat yang setinggi-tingginya berdasarkan prinsip kesejahteraan, pemerataan, nondiskriminatif, partisipatif, dan berkelanjutan dalam rangka pembangunan sumber daya manusia yang berkualitas dan produktif, mengurangi kesenjangan, memperkuat pelayanan kesehatan bermutu, meningkatkan ketahanan kesehatan, menjamin kehidupan yang sehat, serta memajukan kesejahteraan seluruh warga negara dan daya saing bangsa bagi pencapaian tujuan pembangunan nasional.\nPermasalahan dan gangguan kesehatan pada masyarakat akan menurunkan produktivitas dan menimbulkan kerugian bagi negara sehingga diperlukan transformasi kesehatan untuk tercapainya peningkatan derajat kesehatan masyarakat. Pembangunan kesehatan masyarakat semakin baik dan terbuka sehingga menciptakan kemandirian dan mendorong perkembangan industri kesehatan nasional pada tingkat regional dan global serta mendorong peningkatan pelayanan kesehatan yang aman, bermutu, dan terjangkau bagi masyarakat untuk meningkatkan kualitas hidup masyarakat; Untuk meningkatkan kapasitas dan ketahanan kesehatan diperlukan penyesuaian berbagai kebdakan untuk penguatan sistem kesehatan secara integratif dan holistik dalam 1 (satu) undang-undang secara komprehensif. Berdasarkan pertimbangan sebagaimana dimaksud, perlu membentuk Undang-Undang tentang Kesehatan.\nDasar hukum Undang-Undang ini adalah Pasal 20, Pasal 21, Pasal 28H ayat (1), dan Pasal 34 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.\nUndang-Undang ini mengatur tentang kesehatan dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. UU ini berisi mengenai ketentuan umum, hak dan kewajiban, tanggung jawab pemerintah pusat dan pemerintah daerah, penyelenggaraan kesehatan, upaya kesehatan, fasilitas pelayanan kesehatan, sumber daya manusia kesehatan, perbekalan kesehatan, ketahanan kefarmasian dan alat kesehatan, teknologi kesehatan, sistem informasi kesehatan, kejadian luar biasa dan wabah, pendanaan kesehatan, koordinasi dan sinkronisasi penguatan sistem kesehatan, partisipasi masyarakat, pembinaan dan pengawasan, penyidikan, ketentuan pidana, ketentuan peralihan dan ketentuan penutup.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 08 Agustus 2023.\nMencabut dan menyatakan tidak berlaku atas :\na. Undang-Undang Nomor 419 Tahun 1949;\nb. Undang-Undang Nomor 4 Tahun 1984;\nc. Undang-Undang Nomor 29 Tahun 2004;\nd. Undang-Undang Nomor 36 Tahun 2009;\ne. Undang-Undang Nomor 44 Tahun 2009;\nf. Undang-Undang Nomor 20 Tahun 2013;\ng. Undang-Undang Nomor 18 Tahun 2014;\nh. Undang-Undang Nomor 36 Tahun 2014;\ni. Undang-Undang Nomor 38 Tahun 2014;\nj. Undang-Undang Nomor 6 Tahun 2018; dan\nk. Undang-Undang Nomor 4 Tahun 2019.\nPeraturan pelaksanaan dari Undang-Undang ini harus ditetapkan paling lama 1 (satu) tahun terhitung sejak Undang-Undang ini diundangkan.\nLampiran file: 300 hlm. (batang tubuh hlm 1 sd 198, penjelasan hlm 199 sd 300)",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/314883/UU%20Nomor%2017%20Tahun%202023.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:31:07Z"
+}

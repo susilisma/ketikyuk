@@ -1,0 +1,44 @@
+{
+ "id": "UU-1965-6",
+ "source": "bpk",
+ "bpk_id": 49986,
+ "url": "https://peraturan.bpk.go.id/Details/49986/uu-no-6-tahun-1965",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "6",
+ "number_raw": "6",
+ "year": 1965,
+ "title": "Undang-undang (UU) Nomor 6 Tahun 1965 tentang Pembentukan Daerah Tingkat II Inderagiri Hilir Dengan Mengubah Undang-Undang No. 12 Tahun 1956, Tentang Pembentukan Daerah Otonom Kabupaten Dalam Lingkungan Propinsi Sumatera Tengah",
+ "about": "Pembentukan Daerah Tingkat II Inderagiri Hilir Dengan Mengubah Undang-Undang No. 12 Tahun 1956, Tentang Pembentukan Daerah Otonom Kabupaten Dalam Lingkungan Propinsi Sumatera Tengah",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH",
+ "field": "",
+ "date_enacted": "1965-06-14",
+ "date_promulgated": "1965-06-14",
+ "date_effective": "1965-06-14",
+ "gazette": "LN. 1965/ No. 49 , TLN NO. 2754, LL SETNEG : 8 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-42",
+   "target_bpk_id": 295217,
+   "label": "UU No. 42 Tahun 2024",
+   "about": "Kabupaten Indragiri Hulu di Provinsi Riau"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1956-12",
+   "target_bpk_id": 51095,
+   "label": "UU No. 12 Tahun 1956",
+   "about": "Pembentukan Daerah Otonom Kabupaten Dalam Lingkungan Daerah Propinsi Sumatera Tengah"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 14 Juni 1965.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/39264/UU%20Nomor%206%20Tahun%201965.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:26:54Z"
+}

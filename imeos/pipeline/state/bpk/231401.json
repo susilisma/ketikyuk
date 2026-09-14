@@ -1,0 +1,44 @@
+{
+ "id": "PERMENAKER-2022-9",
+ "source": "bpk",
+ "bpk_id": 231401,
+ "url": "https://peraturan.bpk.go.id/Details/231401/permenaker-no-9-tahun-2022",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "9",
+ "number_raw": "9",
+ "year": 2022,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 9 Tahun 2022 tentang Perubahan atas Peraturan Menteri Ketenagakerjaan Nomor 11 Tahun 2021 tentang Indikator Kinerja Utama Kementerian Ketenagakerjaan Tahun 2020-2024",
+ "about": "Perubahan atas Peraturan Menteri Ketenagakerjaan Nomor 11 Tahun 2021 tentang Indikator Kinerja Utama Kementerian Ketenagakerjaan Tahun 2020-2024",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "",
+ "date_enacted": "2022-09-01",
+ "date_promulgated": "2022-09-05",
+ "date_effective": "2022-09-05",
+ "gazette": "BN.2022/No.841, peraturan.go.id: 4 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENAKER-2026-4",
+   "target_bpk_id": 347420,
+   "label": "Permenaker No. 4 Tahun 2026",
+   "about": "Indikator Kinerja Kementerian Ketenagakerjaan Tahun 2025-2029"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENAKER-2021-11",
+   "target_bpk_id": 195979,
+   "label": "Permenaker No. 11 Tahun 2021",
+   "about": "Indikator Kinerja Utama Kementerian Ketenagakerjaan Tahun 2020-2024"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 05 September 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/264867/Permenaker%20Nomor%209%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:40:53Z"
+}

@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2016-94",
+ "source": "bpk",
+ "bpk_id": 40998,
+ "url": "https://peraturan.bpk.go.id/Details/40998/perpres-no-94-tahun-2016",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "94",
+ "number_raw": "94",
+ "year": 2016,
+ "title": "Peraturan Presiden (Perpres) Nomor 94 Tahun 2016 tentang Tunjangan Jabatan Fungsional Mediator Hubungan Industrial",
+ "about": "Tunjangan Jabatan Fungsional Mediator Hubungan Industrial",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA",
+ "field": "",
+ "date_enacted": "2016-11-21",
+ "date_promulgated": "2016-11-22",
+ "date_effective": "2016-11-22",
+ "gazette": "LN No. 247/2016",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-114",
+   "target_bpk_id": 303832,
+   "label": "Perpres No. 114 Tahun 2024",
+   "about": "Tunjangan Jabatan Fungsional Mediator Hubungan Industrial"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2007-42",
+   "target_bpk_id": 68893,
+   "label": "PERPRES No. 42 Tahun 2007",
+   "about": "Tunjangan Jabatan Fungsional Perantara Hubungan Industrial"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 22 November 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/33151/Perpres%20Nomor%2094%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:29:35Z"
+}

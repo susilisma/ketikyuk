@@ -1,0 +1,40 @@
+{
+ "id": "PERPRES-2025-97",
+ "source": "bpk",
+ "bpk_id": 331628,
+ "url": "https://peraturan.bpk.go.id/Details/331628/perpres-no-97-tahun-2025",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "97",
+ "number_raw": "97",
+ "year": 2025,
+ "title": "Peraturan Presiden (Perpres) Nomor 97 Tahun 2025 tentang Perubahan atas Peraturan Presiden Nomor 3 Tahun 2025 tentang Susunan Keanggotaan Panitia Seleksi dan Tata Cara Pelaksanaan Seleksi Anggota Dewan Komisioner Lembaga Penjamin Simpanan",
+ "about": "Perubahan atas Peraturan Presiden Nomor 3 Tahun 2025 tentang Susunan Keanggotaan Panitia Seleksi dan Tata Cara Pelaksanaan Seleksi Anggota Dewan Komisioner Lembaga Penjamin Simpanan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-09-18",
+ "date_promulgated": "2025-09-18",
+ "date_effective": "2025-09-18",
+ "gazette": "LN 2025 (151): 4 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2025-3",
+   "target_bpk_id": 313405,
+   "label": "Perpres No. 3 Tahun 2025",
+   "about": "Susunan Keanggotaan Panitia Seleksi dan Tata Cara Pelaksanaan Seleksi Anggota Dewan Komisioner Lembaga Penjamin Simpanan"
+  }
+ ],
+ "abstract": "Untuk memberikan dasar hukum dalam hal terdapat kemendesakan dalam proses seleksi calon anggota Dewan Komisioner Lembaga Penjamin Simpanan, perlu mengubah ketentuan mengenai tata cara pemilihan Anggota Dewan Komisioner Lembaga Penjamin Simpanan dalam Peraturan Presiden Nomor 3 Tahun 2025 tentang Susunan Keanggotaan Panitia Seleksi dan Tata Cara Pelaksanaan Seleksi Anggota Dewan Komisioner Lembaga Penjamin Simpanan.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD NRI Tahun 1945; UU Nomor 24 Tahun 2004; dan Perpres Nomor 3 Tahun 2025.\nPerpres ini mengubah beberapa ketentuan dalam Perpres Nomor 3 Tahun 2025. Pelaksanaan seleksi oleh Panitia Seleksi ditetapkan dalam Keputusan Presiden.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 18 September 2025.\nPerpres ini mengubah Perpres Nomor 3 Tahun 2025.\nLampiran file: 4 hlm.",
+ "citations": [
+  "PERPRES-2025-3",
+  "UU-2004-24"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/393663/Perpres%20Nomor%2097%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:38Z"
+}

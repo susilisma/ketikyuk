@@ -1,0 +1,13 @@
+{
+  "_doc": "Core regulations used by the Market Entry OS knowledge base. Always crawled, parsed and diffed. Format FORM-YEAR-NUMBER.",
+  "ids": [
+    "UU-2007-25", "UU-2007-40", "UU-2003-13", "UU-2023-6", "UU-2014-33", "UU-2023-17", "UU-2021-7", "UU-2011-6", "UU-2022-27", "UU-1995-11", "UU-2007-39",
+    "PP-2025-28", "PP-2021-5", "PP-2021-35", "PP-2021-34", "PP-2021-36", "PP-2023-51", "PP-2024-28", "PP-2024-42", "PP-2023-58", "PP-2021-39",
+    "PERPRES-2021-10", "PERPRES-2021-49",
+    "PMK-2021-193", "PMK-2022-192", "PMK-2024-96", "PMK-2021-192", "PMK-2022-191", "PMK-2024-97", "PMK-2023-168", "PMK-2024-131",
+    "PERBKPM-2021-4", "PERBKPM-2025-5",
+    "PERMENDAG-2025-16", "PERMENDAG-2023-36",
+    "PERMENAKER-2021-8",
+    "PERMENKUMHAM-2023-22"
+  ]
+}

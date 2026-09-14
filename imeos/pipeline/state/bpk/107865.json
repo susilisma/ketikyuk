@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2019-31",
+ "source": "bpk",
+ "bpk_id": 107865,
+ "url": "https://peraturan.bpk.go.id/Details/107865/perpres-no-31-tahun-2019",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "31",
+ "number_raw": "31",
+ "year": 2019,
+ "title": "Peraturan Presiden (Perpres) Nomor 31 Tahun 2019 tentang Pendayagunaan Dokter Spesialis",
+ "about": "Pendayagunaan Dokter Spesialis",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KESEHATAN - JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "",
+ "date_enacted": "2019-05-14",
+ "date_promulgated": "2019-05-16",
+ "date_effective": "2019-05-16",
+ "gazette": "LN.2019/NO.98, LL SETNEG : 18 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-28",
+   "target_bpk_id": 294077,
+   "label": "PP No. 28 Tahun 2024",
+   "about": "Peraturan Pelaksanaan Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2017-4",
+   "target_bpk_id": 62148,
+   "label": "PERPRES No. 4 Tahun 2017",
+   "about": "Wajib Kerja Dokter Spesialis"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 16 Mei 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/98837/Perpres%20Nomor%2031%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:30:41Z"
+}

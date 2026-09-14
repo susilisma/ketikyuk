@@ -1,0 +1,37 @@
+{
+ "id": "PERMENDAG-2020-10",
+ "source": "bpk",
+ "bpk_id": 160236,
+ "url": "https://peraturan.bpk.go.id/Details/160236/permendag-no-10-tahun-2020",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "10",
+ "number_raw": "10",
+ "year": 2020,
+ "title": "Peraturan Menteri Perdagangan Nomor 10 Tahun 2020 tentang Larangan Sementara Impor Binatang Hidup dari Republik Rakyat Tiongkok",
+ "about": "Larangan Sementara Impor Binatang Hidup dari Republik Rakyat Tiongkok",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN",
+ "field": "",
+ "date_enacted": "2020-02-06",
+ "date_promulgated": "2020-02-07",
+ "date_effective": "2020-02-07",
+ "gazette": "BN.2020/No.102, http://jdih.kemendag.go.id : 5 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2026-8",
+   "target_bpk_id": 348107,
+   "label": "Permendag No. 8 Tahun 2026",
+   "about": "Pencabutan Peraturan Menteri Perdagangan Nomor 10 Tahun 2020 tentang Larangan Sementara Impor Binatang Hidup dari Republik Rakyat Tiongkok"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 07 Februari 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/152826/Permendag%20Nomor%2010%20Tahun%202020.PDF"
+ ],
+ "fetched_at": "2026-09-14T06:36:06Z"
+}

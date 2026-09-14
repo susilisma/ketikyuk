@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2014-44",
+ "source": "bpk",
+ "bpk_id": 41532,
+ "url": "https://peraturan.bpk.go.id/Details/41532/perpres-no-44-tahun-2014",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "44",
+ "number_raw": "44",
+ "year": 2014,
+ "title": "Peraturan Presiden (Perpres) Nomor 44 Tahun 2014 tentang Pemberian Penghargaan Olahraga",
+ "about": "Pemberian Penghargaan Olahraga",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PEMUDA DAN OLAH RAGA",
+ "field": "",
+ "date_enacted": "2014-05-19",
+ "date_promulgated": "2014-05-20",
+ "date_effective": "2014-05-20",
+ "gazette": "LN.2014/NO.102, LL SETKAB : 18 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2026-12",
+   "target_bpk_id": 348119,
+   "label": "Perpres No. 12 Tahun 2026",
+   "about": "Pemberian Penghargaan Olahraga"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 65430,
+   "label": "KEPPRES No. 52 Tahun 1984",
+   "about": "Pemberian Penghargaan Di Bidang Olah Raga"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 20 Mei 2014.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/66137/Perpres%20Nomor%2044%20Tahun%202014.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:31:54Z"
+}

@@ -1,0 +1,40 @@
+{
+ "id": "PERPRES-2025-53",
+ "source": "bpk",
+ "bpk_id": 320227,
+ "url": "https://peraturan.bpk.go.id/Details/320227/perpres-no-53-tahun-2025",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "53",
+ "number_raw": "53",
+ "year": 2025,
+ "title": "Peraturan Presiden (Perpres) Nomor 53 Tahun 2025 tentang Universitas Islam Negeri Sunan Kudus",
+ "about": "Universitas Islam Negeri Sunan Kudus",
+ "issuer": "Pemerintah Pusat",
+ "subject": "ILMU PENGETAHUAN DAN TEKNOLOGI - PENDIDIKAN - PENDIDIKAN DAN PELATIHAN",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2025-05-08",
+ "date_promulgated": "2025-05-08",
+ "date_effective": "2025-05-08",
+ "gazette": "LN 2025 (79) : 4 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2018-27",
+   "target_bpk_id": 73940,
+   "label": "PERPRES No. 27 Tahun 2018",
+   "about": "Institut Agama Islam Negeri Kudus"
+  }
+ ],
+ "abstract": "Dalam rangka memenuhi tuntutan perkembangan ilmu pengetahuan dan teknologi dan proses integrasi ilmu agama lslam dengan ilmu lain serta mewujudkan sumber daya manusia yang berkualitas, perlu menetapkan Peraturan Presiden tentang Universitas Islam Negeri Sunan Kudus.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD NRI Tahun 1945, UU No. 12 Tahun 2012, dan PP No. 46 Tahun 2019.\nPerpres ini mengatur mengenai pendirian Universitas Islam Negeri Sunan Kudus sebagai perubahan bentuk dari Institut Agama Islam Negeri Kudus. Dalam perpres ini yang dimaksud dengan Universitas Islam Negeri Sunan Kudus adalah perguruan tinggi di lingkungan kementerian yang menyelenggarakan urusan pemerintahan di bidang agama, yang berada di bawah dan bertanggung jawab kepada menteri yang menyelenggarakan urusan pemerintahan di bidang agama.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 08 Mei 2025.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 27 Tahun 2018 tentang Institut Agama Islam Negeri Kudus (Lembaran Negara Republik Indonesia Tahun 2018 Nomor 50), dicabut dan dinyatakan tidak berlaku.\nLampiran File: 4 hlm",
+ "citations": [
+  "UU-2012-12",
+  "PP-2019-46"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/381864/Perpres%20Nomor%2053%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:25:59Z"
+}

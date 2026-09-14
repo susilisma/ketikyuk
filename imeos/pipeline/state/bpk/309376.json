@@ -1,0 +1,47 @@
+{
+ "id": "PERMENKOMINFO-2024-8",
+ "source": "bpk",
+ "bpk_id": 309376,
+ "url": "https://peraturan.bpk.go.id/Details/309376/permenkominfo-no-8-tahun-2024",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Informatika",
+ "number": "8",
+ "number_raw": "8",
+ "year": 2024,
+ "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 8 Tahun 2024 tentang Penggunaan Spektrum Frekuensi Radio untuk Sistem Komunikasi Microwave Link",
+ "about": "Penggunaan Spektrum Frekuensi Radio untuk Sistem Komunikasi Microwave Link",
+ "issuer": "Kementerian Komunikasi dan Informatika",
+ "subject": "TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-10-17",
+ "date_promulgated": "2024-10-18",
+ "date_effective": "2024-11-18",
+ "gazette": "BN.2024 (756)/47 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 255615,
+   "label": "Permenkominfo No. 2 Tahun 2019",
+   "about": "Penggunaan Spektrum Frekuensi Radio untuk Keperluan Microwave Link Titik ke Titik (Point - To - Point)"
+  }
+ ],
+ "abstract": "a. bahwa penggunaan spektrum frekuensi radio untuk\nsistem komunikasi microwave link telah diatur dalam\nPeraturan Menteri Komunikasi dan Informatika Nomor 2\nTahun 2019 tentang Penggunaan Spektrum Frekuensi\nRadio untuk Keperluan Microwave Link Titik ke Titik (Point\nto Point);\nb. bahwa berdasarkan perencanaan penggunaan spektrum\nfrekuensi radio, pita frekuensi radio 10,95–11,2 GHz,\n11,45–11,7 GHz, dan 17,7–19,7 GHz dapat digunakan\nuntuk sistem komunikasi microwave link hanya sampai\ndengan tanggal 31 Desember 2027;\nc. bahwa untuk penyelarasan aspek regulasi, perkembangan\nteknologi, dan norma tata kelola spektrum frekuensi radio\nyang baru, Peraturan Menteri Komunikasi dan Informatika\nNomor 2 Tahun 2019 tentang Penggunaan Spektrum\nFrekuensi Radio untuk Keperluan Microwave Link Titik ke\nTitik (Point to Point) perlu diganti;\nd. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a, huruf b, dan huruf c, perlu menetapkan\nPeraturan Menteri Komunikasi dan Informatika tentang\nPenggunaan Spektrum Frekuensi Radio untuk Sistem\nKomunikasi Microwave Link;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 36 Tahun 1999,Undang-Undang Nomor 36 Tahun 1999, Peraturan Pemerintah Nomor 52 Tahun 2000, Peraturan Pemerintah Nomor 53 Tahun 2000, Peraturan Pemerintah Nomor 46 Tahun 2021, Peraturan Presiden Nomor 22 Tahun 2023, Peraturan Menteri Komunikasi dan Informatika Nomor 7\nTahun 2021, Peraturan Menteri Komunikasi dan Informatika Nomor 12 Tahun 2021 dan Peraturan Menteri Komunikasi dan Informatika Nomor 12\nTahun 2022\nPeraturan ini mengatur tentang ketentuan umum, perencanaan penggunaan spektrum frekuensi radio untuk sistem komunikasi microwave link, penggunaan kanal frekuensi radio untuk sistem komunikasi microwave link, alat telekomunikasi dan/atau perangkat telekomunikasi microwave link, koordinasi internasional, pengawasan dan pengendalian, ketentuan peralihan dan ketentuan penutup",
+ "note": "Peraturan Menteri Komunikasi dan Informatika ini mulai berlaku pada tanggal 18 November 2024.\nPeraturan Menteri Komunikasi dan Informatika Nomor 2 Tahun 2019\ntentang Penggunaan Spektrum Frekuensi Radio untuk\nKeperluan Microwave Link Titik ke Titik (Point-to-Point) dicabut dan dinyatakan tidak berlaku",
+ "citations": [
+  "PERMENKOMINFO-2019-2",
+  "UU-1999-36",
+  "PP-2000-52",
+  "PP-2000-53",
+  "PP-2021-46",
+  "PERPRES-2023-22",
+  "PERMENKOMINFO-2021-7",
+  "PERMENKOMINFO-2021-12",
+  "PERMENKOMINFO-2022-12"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/369885/2024permen8.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:41:59Z"
+}

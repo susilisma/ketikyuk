@@ -1,0 +1,46 @@
+{
+ "id": "PMK-2026-44",
+ "source": "bpk",
+ "bpk_id": 350946,
+ "url": "https://peraturan.bpk.go.id/Details/350946/pmk-no-44-tahun-2026",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "44",
+ "number_raw": "44",
+ "year": 2026,
+ "title": "Peraturan Menteri Keuangan Nomor 44 Tahun 2026 tentang Persyaratan untuk Menjdi Kuasa di Bidang Perpajakan dan Tata Cara Pelaksanaan Hak dan Pemenuhan Kewajiban Kuasa di Bidang Perpajakan",
+ "about": "Persyaratan untuk Menjdi Kuasa di Bidang Perpajakan dan Tata Cara Pelaksanaan Hak dan Pemenuhan Kewajiban Kuasa di Bidang Perpajakan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-06-22",
+ "date_promulgated": "2026-07-06",
+ "date_effective": "2026-07-06",
+ "gazette": "BN.2026 (226/26 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2014-229",
+   "target_bpk_id": 121986,
+   "label": "PMK No. 229/PMK.03/2014",
+   "about": "Persyaratan Serta Pelaksanaan Hak Kewajiban Dan Kewajiban Seorang Kuasa"
+  }
+ ],
+ "abstract": "a. bahwa dengan diundangkannya Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja Menjadi Undang-Undang, perlu menetapkan Peraturan Menteri Keuangan tentang Persyaratan untuk Menjadi Kuasa di Bidang Perpajakan dan Tata Cara Pelaksanaan Hak dan Pemenuhan Kewajiban Kuasa di Bidang Perpajakan dan untuk memberikan kepastian hukum, kesetaraan, serta kemudahan bagi seorang kuasa yang ditunjuk oleh wajib pajak orang pribadi atau wajib pajak badan untuk menjalankan hak dan memenuhi kewajiban perpajakannya, perlu disusun pengaturan mengenai persyaratan serta pelaksanaan hak dan kewajiban seorang kuasa;\nb. bahwa Peraturan Menteri Keuangan\nNomor 229/PMK.03/2014 tentang Persyaratan serta Pelaksanaan Hak dan Kewajiban Seorang Kuasa belum mengatur mengenai persyaratan kompetensi kuasa wajib pajak dan pihak yang dapat ditunjuk sebagai kuasa yang merupakan keluarga dan pihak lain, sehingga perlu dilakukan penggantian;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, serta untuk melaksanakan ketentuan Pasal 44E ayat (2) huruf e Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja Menjadi Undang-Undang, perlu menetapkan Peraturan Menteri Keuangan tentang Persyaratan untuk Menjadi Kuasa di Bidang Perpajakan dan Tata Cara Pelaksanaan Hak dan Pemenuhan Kewajiban Kuasa di Bidang\nPerpajakan;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 6 Tahun 1983, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 50 Tahun 2022, Peraturan Presiden Nomor 158 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengatur tentang ketentuan umum, pihak yang dapat ditunjuk dan persyaratan kompetensi sebagai kuasa, pelaksanaan kuasa, ketentuan peralihan dan ketentuan penutup.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 06 Juli 2026.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan\nMenteri Keuangan Nomor 229/PMK.03/2014 tentang Persyaratan serta Pelaksanaan Hak dan Kewajiban Seorang Kuasa",
+ "citations": [
+  "UU-2023-6",
+  "PERPPU-2022-2",
+  "PMK-2014-229",
+  "UU-1983-6",
+  "UU-2008-39",
+  "PP-2022-50",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/414701/2026pmkeuangan044.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:30:35Z"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "PERMENPERIN-2021-6",
+ "source": "bpk",
+ "bpk_id": 166917,
+ "url": "https://peraturan.bpk.go.id/Details/166917/permenperin-no-6-tahun-2021",
+ "form": "PERMENPERIN",
+ "form_long": "Peraturan Menteri Perindustrian",
+ "number": "6",
+ "number_raw": "6",
+ "year": 2021,
+ "title": "Peraturan Menteri Perindustrian Nomor 6 Tahun 2021 tentang Petunjuk Pelaksanaan Evaluasi Atas Implementasi Sistem Akuntabilitas Kinerja Instansi Pemerintah Di Lingkungan Kementerian Perindustrian",
+ "about": "Petunjuk Pelaksanaan Evaluasi Atas Implementasi Sistem Akuntabilitas Kinerja Instansi Pemerintah Di Lingkungan Kementerian Perindustrian",
+ "issuer": "Kementerian Perindustrian",
+ "subject": "PERINDUSTRIAN",
+ "field": "",
+ "date_enacted": "2021-02-08",
+ "date_promulgated": "2021-02-24",
+ "date_effective": "2021-02-24",
+ "gazette": "BN 2021/ No 169; http://jdih.kemenperin.go.id/; 9 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENPERIN-2024-21",
+   "target_bpk_id": 295463,
+   "label": "Permenperin No. 21 Tahun 2024",
+   "about": "Pencabutan Peraturan Menteri Perindustrian Nomor 6 Tahuun 2021 Tentang Petunjuk Pelaksanaan Evaluasi Atas Implementasi Sistem Akuntabilitas Kinerja Instansi Pemerintah Di Lingkungan Kementerian Perindustrian"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perindustrian ini mulai berlaku pada tanggal 24 Februari 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/159845/Permenperin_No._6_Tahun_2021_.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:40:04Z"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "POJK-2015-23",
+ "source": "bpk",
+ "bpk_id": 128838,
+ "url": "https://peraturan.bpk.go.id/Details/128838/peraturan-ojk-no-23-pojk052015-tahun-2015",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "23",
+ "number_raw": "23 /POJK.05/2015",
+ "year": 2015,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 23 /POJK.05/2015 Tahun 2015 tentang Produk Asuransi dan Pemasaran Produk Asuransi",
+ "about": "Produk Asuransi dan Pemasaran Produk Asuransi",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "ASURANSI",
+ "field": "",
+ "date_enacted": "2015-11-24",
+ "date_promulgated": "2015-11-26",
+ "date_effective": "2015-11-26",
+ "gazette": "LN.2015/NO.287, TLN NO.5770, Jdih.ojk.go.id: 59 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 301700,
+   "label": "Peraturan OJK No. 8 Tahun 2024",
+   "about": "Produk Asuransi dan Saluran Pemasaran Produk Asuransi"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 26 November 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/119773/pojk%2023-2015.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:44:35Z"
+}

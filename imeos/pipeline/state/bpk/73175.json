@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2017-90",
+ "source": "bpk",
+ "bpk_id": 73175,
+ "url": "https://peraturan.bpk.go.id/Details/73175/perpres-no-90-tahun-2017",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "90",
+ "number_raw": "90",
+ "year": 2017,
+ "title": "Peraturan Presiden (Perpres) Nomor 90 Tahun 2017 tentang Konsil Tenaga Kesehatan Indonesia",
+ "about": "Konsil Tenaga Kesehatan Indonesia",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KESEHATAN - PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "",
+ "date_enacted": "2017-09-14",
+ "date_promulgated": "2017-09-15",
+ "date_effective": "2017-09-15",
+ "gazette": "LN.2017/NO.208, LL SETKAB : 23 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-28",
+   "target_bpk_id": 294077,
+   "label": "PP No. 28 Tahun 2024",
+   "about": "Peraturan Pelaksanaan Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2019-86",
+   "target_bpk_id": 128314,
+   "label": "PERPRES No. 86 Tahun 2019",
+   "about": "Perubahan atas Peraturan Presiden Nomor 90 Tahun 2017 tentang Konsil Tenaga Kesehatan Indonesia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 15 September 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/63664/Perpres%20Nomor%2090%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:30:42Z"
+}

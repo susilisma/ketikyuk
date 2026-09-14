@@ -1,0 +1,47 @@
+{
+ "id": "UU-2024-32",
+ "source": "bpk",
+ "bpk_id": 295135,
+ "url": "https://peraturan.bpk.go.id/Details/295135/uu-no-32-tahun-2024",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "32",
+ "number_raw": "32",
+ "year": 2024,
+ "title": "Undang-undang (UU) Nomor 32 Tahun 2024 tentang Perubahan atas Undang-Undang Nomor 5 Tahun 1990 tentang Konservasi Sumber Daya Alam Hayati dan Ekosistemnya",
+ "about": "Perubahan atas Undang-Undang Nomor 5 Tahun 1990 tentang Konservasi Sumber Daya Alam Hayati dan Ekosistemnya",
+ "issuer": "Pemerintah Pusat",
+ "subject": "LINGKUNGAN HIDUP - SUMBER DAYA ALAM",
+ "field": "HUKUM LINGKUNGAN",
+ "date_enacted": "2024-08-07",
+ "date_promulgated": "2024-08-07",
+ "date_effective": "2024-08-07",
+ "gazette": "LN 2024 (138), TLN (6953): 34 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-2019-17",
+   "target_bpk_id": 122742,
+   "label": "UU No. 17 Tahun 2019",
+   "about": "Sumber Daya Air"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1990-5",
+   "target_bpk_id": 46710,
+   "label": "UU No. 5 Tahun 1990",
+   "about": "Konservasi Sumber Daya Alam Hayati dan Ekosistemnya"
+  }
+ ],
+ "abstract": "Undang-Undang Nomor 5 Tahun 1990 tentang Konservasi Sumber Daya Alam Hayati dan Ekosistemnya memerlukan penyempurnaan untuk menampung perkembangan hukum dan kebutuhan hukum masyarakat dalam penyelenggaraan konservasi sumber daya alam hayati dan ekosistemnya sehingga perlu diubah.\nDasar hukum UU ini adalah Pasal 20, Pasal 21, dan Pasal 33 ayat (3) dan ayat (4) UUD 1945 dan UU Nomor 5 Tahun 1990.\nUU ini mengubah beberapa ketentuan dalam UU Nomor 5 Tahun 1990 dan mencabut Pasal 33 dan Pasal 69 huruf c UU Nomor 17 Tahun 2019. Konservasi sumber daya alam hayati dan ekosistemnya merupakan tanggung jawab dan kewajiban pemerintah dan pemerintah daerah serta masyarakat. Pemerintah dan Pemerintah Daerah sesuai dengan kewenangannya bertanggung jawab menyediakan pendanaan yang memadai dan berkelanjutan untuk kegiatan Konservasi Sumber Daya Alam Hayati dan Ekosistemnya.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 07 Agustus 2024.\nUU ini mengubah UU Nomor 5 Tahun 1990 dan mencabut Pasal 33 dan Pasal 69 huruf c UU Nomor 17 Tahun 2019.\nLampiran file: 48 hlm.",
+ "citations": [
+  "UU-1990-5",
+  "UU-2019-17"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/354517/UU%20Nomor%2032%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:27:07Z"
+}

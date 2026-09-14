@@ -1,0 +1,47 @@
+{
+ "id": "PERMENPERIN-2024-20",
+ "source": "bpk",
+ "bpk_id": 295418,
+ "url": "https://peraturan.bpk.go.id/Details/295418/permenperin-no-20-tahun-2024",
+ "form": "PERMENPERIN",
+ "form_long": "Peraturan Menteri Perindustrian",
+ "number": "20",
+ "number_raw": "20",
+ "year": 2024,
+ "title": "Peraturan Menteri Perindustrian Nomor 20 Tahun 2024 tentang Program Restrukturisasi Mesin Dan/Atau Peralatan Pada Industri Tekstil Dan Produk Tekstil",
+ "about": "Program Restrukturisasi Mesin Dan/Atau Peralatan Pada Industri Tekstil Dan Produk Tekstil",
+ "issuer": "Kementerian Perindustrian",
+ "subject": "PERINDUSTRIAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-07-02",
+ "date_promulgated": "2024-07-10",
+ "date_effective": "2024-07-10",
+ "gazette": "BN.2024 (385)/99 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENPERIN-2021-18",
+   "target_bpk_id": 206320,
+   "label": "Permenperin No. 18 Tahun 2021",
+   "about": "Program Restrukturisasi Mesin Dan/Atau Peralatan Pada Industri Penyempurnaan Kain Dan Industri Pencetakan Kain"
+  }
+ ],
+ "abstract": "a. bahwa untuk meningkatkan daya saing melalui pemberian insentif investasi untuk menstimulus penggunaan mesin dan/atau peralatan yang lebih modern dan ramah lingkungan pada industri tekstil dan produk tekstil sebagai salah satu sektor industri prioritas dalam implementasi peta jalan Making Indonesia 4.0, perlu mengatur kembali kebijakan program restrukturisasi mesin dan/atau peralatan pada industri tekstil dan produk tekstil;\nb. bahwa Peraturan Menteri Perindustrian Nomor 18 Tahun 2021 tentang Program Restrukturisasi Mesin dan/atau Peralatan pada Industri Penyempurnaan Kain dan Industri Pencetakan Kain sudah tidak sesuai dengan perkembangan hukum dan kebutuhan industri, sehingga perlu diganti;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Menteri Perindustrian tentang Program Restrukturisasi Mesin dan/atau Peralatan pada Industri Tekstil dan Produk Tekstil;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 3 Tahun 2014, Peraturan Pemerintah Nomor 14 Tahun 2015, Peraturan Pemerintah Nomor 2 Tahun 2017, Peraturan Pemerintah Nomor 28 Tahun 2021, Peraturan Presiden Nomor 107 Tahun 2020 tentang Kementerian Perindustrian, Peraturan Menteri Perindustrian Nomor 45 Tahun 2020 dan Peraturan Menteri Perindustrian Nomor 8 Tahun 2023\nPeraturan ini mengatur tentang ketentuan umum, penyelenggaraan program restrukturisasi mesin dan/atau peralatan pada industri tekstil dan produk tekstil, lembaga pengelola operasional program, lembaga penilai independen dan tim teknis, pelaporan, monitoring dan evaluasi, sanksi administratif dan ketentuan penutup",
+ "note": "Peraturan Menteri Perindustrian ini mulai berlaku pada tanggal 10 Juli 2024.\nPeraturan Menteri Perindustrian Nomor 18 Tahun 2021 tentang Program Restrukturisasi Mesin dan/atau Peralatan pada Industri Penyempurnaan Kain dan Industri Pencetakan Kain dicabut dan dinyatakan tidak berlaku",
+ "citations": [
+  "PERMENPERIN-2021-18",
+  "UU-2008-39",
+  "UU-2014-3",
+  "PP-2015-14",
+  "PP-2017-2",
+  "PP-2021-28",
+  "PERPRES-2020-107",
+  "PERMENPERIN-2020-45",
+  "PERMENPERIN-2023-8"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/354800/permenperin-no-20-tahun-2024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:40:05Z"
+}

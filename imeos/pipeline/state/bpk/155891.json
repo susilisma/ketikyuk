@@ -1,0 +1,58 @@
+{
+ "id": "PMK-2020-198",
+ "source": "bpk",
+ "bpk_id": 155891,
+ "url": "https://peraturan.bpk.go.id/Details/155891/x",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "198",
+ "number_raw": "198/PMK.010/2020",
+ "year": 2020,
+ "title": "Peraturan Menteri Keuangan Nomor 198/PMK.010/2020 Tahun 2020 tentang Tarif Cukai Hasil Tembakau",
+ "about": "Tarif Cukai Hasil Tembakau",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN",
+ "field": "",
+ "date_enacted": "2020-12-14",
+ "date_promulgated": "2020-12-15",
+ "date_effective": "2020-12-15",
+ "gazette": "BN.2020/NO.1474, https:jdih.kemenkeu.go.id : 20 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2021-192",
+   "target_bpk_id": 197499,
+   "label": "PMK No. 192/PMK.010/2021",
+   "about": "Tarif Cukai Hasil Tembakau Berupa Sigaret, Cerutu, Rokok Daun atau Klobot, dan Tembakau Iris"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2019-152",
+   "target_bpk_id": 128269,
+   "label": "PMK No. 152/PMK.010/2019",
+   "about": "Perubahan Kedua Atas Peraturan Menteri Keuangan Nomor 146/PMK.010/2017 Tentang Tarif Cukai Hasil Tembakau"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2018-156",
+   "target_bpk_id": 113469,
+   "label": "PMK No. 156/PMK.010/2018",
+   "about": "Perubahan Atas Peraturan Menteri Keuangan Nomor 146/PMK.010/2017 Tentang Tarif Cukai Hasil Tembakau"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2017-146",
+   "target_bpk_id": 112848,
+   "label": "PMK No. 146/PMK.010/2017",
+   "about": "Tarif Cukai Hasil Tembakau"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 15 Desember 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/148281/198_PMK.010_2020.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:43Z"
+}

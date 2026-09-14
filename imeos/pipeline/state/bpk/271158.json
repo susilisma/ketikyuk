@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2023-115",
+ "source": "bpk",
+ "bpk_id": 271158,
+ "url": "https://peraturan.bpk.go.id/Details/271158/pmk-no-115-tahun-2023",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "115",
+ "number_raw": "115",
+ "year": 2023,
+ "title": "Peraturan Menteri Keuangan Nomor 115 Tahun 2023 tentang Petunjuk Teknis Akuntansi Penerimaan Negara Bukan Pajak dari Kegiatan Usaha Hulu Minyak dan Gas Bumi",
+ "about": "Petunjuk Teknis Akuntansi Penerimaan Negara Bukan Pajak dari Kegiatan Usaha Hulu Minyak dan Gas Bumi",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2023-11-02",
+ "date_promulgated": "2023-11-06",
+ "date_effective": "2023-11-06",
+ "gazette": "BN.2023 (977)/104 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2026-64",
+   "target_bpk_id": 354226,
+   "label": "PMK No. 64 Tahun 2026",
+   "about": "Petunjuk Teknis Akuntansi Penerimaan Negara BUkan Pajak Dari Kegiatan Usaha Hulu Minyak dan Gas Bumi"
+  }
+ ],
+ "abstract": "a. bahwa untuk menyesuaikan pedoman penyelenggaraan akuntansi penerimaan negara bukan pajak dari kegiatan usaha hulu minyak dan gas bumi dengan kebijakan akuntansi pemerintah pusat, perlu mengganti Peraturan Menteri Keuangan Nomor 61/PMK.02/2020 tentang Petunjuk Teknis Akuntansi Penerimaan Negara Bukan Pajak dari Kegiatan Usaha Hulu Minyak dan Gas Bumi sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 44/PMK.02/2021 tentang Perubahan atas Peraturan Menteri Keuangan Nomor\n61/PMK.02/2020 tentang Petunjuk Teknis Akuntansi Penerimaan Negara Bukan Pajak dari Kegiatan Usaha Hulu Minyak dan Gas Bumi;\nb. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, perlu menetapkan Peraturan Menteri\nKeuangan tentang Petunjuk Teknis AkuntansiPenerimaan\nNegara Bukan Pajak dari Kegiatan Usaha Hulu Minyak\ndan Gas Bumi;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Peraturan Presiden Nomor 57 Tahun 2020, Peraturan Menteri Keuangan Nomor 256/PMK.05/2015, Peraturan Menteri Keuangan Nomor l 18/PMK.01/2021 dan Peraturan Menteri Keuangan Nomor 231/PMK.05/2022\nPeraturan Menteri ini mengatur tentang ketentuan umum, ruang lingkup PNBP Migas, pihak yang menggunakan petunjuk teknis dan modul petunjuk teknis,",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 06 November 2023.\nPeraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 61/PMK.02/2020 tentang Petunjuk Teknis Akuntansi Penerimaan Negara Bukan Pajak dari Kegiatan Usaha Hulu Minyak dan Gas Bumi dicabut dan dinyatakan tidak berlaku",
+ "citations": [
+  "PMK-2020-61",
+  "PMK-2021-44",
+  "UU-2008-39",
+  "PERPRES-2020-57",
+  "PMK-2015-256",
+  "PMK-2022-231"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/329127/2023pmkeuangan115.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:30:12Z"
+}

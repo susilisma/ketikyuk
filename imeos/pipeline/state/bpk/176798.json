@@ -1,0 +1,47 @@
+{
+ "id": "PERPRES-2021-80",
+ "source": "bpk",
+ "bpk_id": 176798,
+ "url": "https://peraturan.bpk.go.id/Details/176798/perpres-no-80-tahun-2021",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "80",
+ "number_raw": "80",
+ "year": 2021,
+ "title": "Peraturan Presiden (Perpres) Nomor 80 Tahun 2021 tentang Kementerian Perencanaan Pembangunan Nasional",
+ "about": "Kementerian Perencanaan Pembangunan Nasional",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "",
+ "date_enacted": "2021-08-31",
+ "date_promulgated": "2021-08-31",
+ "date_effective": "2021-08-31",
+ "gazette": "LN.2021/No.204, jdih.setneg.go.id : 11 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-194",
+   "target_bpk_id": 306937,
+   "label": "Perpres No. 194 Tahun 2024",
+   "about": "Kementerian Perencanaan Pembangunan Nasional"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2015-65",
+   "target_bpk_id": 41804,
+   "label": "PERPRES No. 65 Tahun 2015",
+   "about": "Kementerian Perencanaan Pembangunan Nasional"
+  }
+ ],
+ "abstract": "Sebagai tindak lanjut ditetapkannya Keppres Nomor 113/P Tahun 2019 tentang Pembentukan Kementerian Negara dan Pengangkatan Menteri Negara Kabinet Indonesia Maju Periode Tahun 2019-2024 dan untuk melaksanakan ketentuan Pasal 11 UU Nomor 39 Tahun 2008 tentang Kementerian Negara, perlu menetapkan Perpres tentang Kementerian Perencanaan Pembangunan Nasional.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) dan Pasal 17 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 39 Tahun 2008; dan Perpres Nomor 68 Tahun 2019.\nPerpres ini mengatur mengenai: 1) kedudukan, tugas, dan fungsi; 2) organisasi; 3) tata kerja; dan 4) pendanaan Kementerian Perencanaan Pembangunan Nasional. Kementerian Perencanaan Pembangunan Nasional berada di bawah dan bertanggung jawab kepada presiden yang dipimpin oleh menteri yang mempunyai tugas menyelenggarakan urusan pemerintahan di bidang perencanaan pembangunan nasional untuk membantu Presiden dalam menyelenggarakan pemerintahan negara. Kementerian Perencanaan Pembangunan Nasional terdiri atas Sekretariat Kementerian, dan beberapa staf ahli.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 31 Agustus 2021.\nPerpres ini mencabut Perpres Nomor 65 Tahun 2015.\nMenteri dalam melaksanakan tugas dan fungsinya harus menerapkan sistem akuntabilitas kinerja instansi pemerintah. Segala pendanaan yang diperlukan untuk pelaksanaan tugas dan fungsi Kementerian Perencanaan Pembangunan Nasional dibebankan kepada APBN.",
+ "citations": [
+  "UU-2008-39",
+  "PERPRES-2019-68"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/170147/Perpres%20Nomor%2080%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:48Z"
+}

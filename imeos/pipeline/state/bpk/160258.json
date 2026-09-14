@@ -1,0 +1,65 @@
+{
+ "id": "PERMENDAG-2020-36",
+ "source": "bpk",
+ "bpk_id": 160258,
+ "url": "https://peraturan.bpk.go.id/Details/160258/permendag-no-36-tahun-2020",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "36",
+ "number_raw": "36",
+ "year": 2020,
+ "title": "Peraturan Menteri Perdagangan Nomor 36 Tahun 2020 tentang Minyak Goreng Sawit Wajib Kemasan",
+ "about": "Minyak Goreng Sawit Wajib Kemasan",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PERLINDUNGAN KONSUMEN - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "",
+ "date_enacted": "2020-03-31",
+ "date_promulgated": "2020-04-02",
+ "date_effective": "2020-04-02",
+ "gazette": "BN.2020/No.323, peraturan.go.id : 14 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2024-18",
+   "target_bpk_id": 296850,
+   "label": "Permendag No. 18 Tahun 2024",
+   "about": "Minyak Goreng Sawit Kemasan Dan Tata Kelola Minyak Goreng Rakyat"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENDAG-2021-72",
+   "target_bpk_id": 204933,
+   "label": "Permendag No. 72 Tahun 2021",
+   "about": "Perubahan atas Peraturan Menteri Perdagangan Nomor 36 Tahun 2020 tentang Minyak Goreng Sawit Wajib Kemasan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2016-9",
+   "target_bpk_id": 128793,
+   "label": "Permendag No. 09/M-DAG/PER/2/2016 Tahun 2016",
+   "about": "Perubahan Kedua atas Peraturan Menteri Perdagangan Nomor 80/M-DAG/PER/10/2014 tentang Minyak Goreng Wajib Kemasan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2015-21",
+   "target_bpk_id": 128947,
+   "label": "Permendag No. 21/M-DAG/PER/3/2015 Tahun 2015",
+   "about": "Perubahan atas Peraturan Menteri Perdagangan Nomor 80/M-DAG/PER/10/2014 Tentang Minyak Goreng Wajib Kemasan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2014-80",
+   "target_bpk_id": 129152,
+   "label": "Permendag No. 80/M-DAG/PER/10/2014 Tahun 2014",
+   "about": "Minyak Goreng Wajib Kemasan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 02 April 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/152848/Permendag%20Nomor%2036%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:37:53Z"
+}

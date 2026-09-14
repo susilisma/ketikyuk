@@ -1,0 +1,45 @@
+{
+ "id": "PP-2018-51",
+ "source": "bpk",
+ "bpk_id": 99184,
+ "url": "https://peraturan.bpk.go.id/Details/99184/pp-no-51-tahun-2018",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "51",
+ "number_raw": "51",
+ "year": 2018,
+ "title": "Peraturan Pemerintah (PP) Nomor 51 Tahun 2018 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Badan Pengkajian dan Penerapan Teknologi",
+ "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Badan Pengkajian dan Penerapan Teknologi",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
+ "field": "",
+ "date_enacted": "2018-12-07",
+ "date_promulgated": "2018-12-10",
+ "date_effective": null,
+ "gazette": "LN.2018/NO.230, TLN NO.6268, LL SETNEG : 11 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2026-13",
+   "target_bpk_id": 349363,
+   "label": "PP No. 13 Tahun 2026",
+   "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Badan Riset dan Inovasi Nasional"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2015-6",
+   "target_bpk_id": 5566,
+   "label": "PP No. 6 Tahun 2015",
+   "about": "Jenis Dan Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Berlaku Pada Badan Pengkajian Dan Penerapan Teknologi"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal .",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/89881/PP%20Nomor%2051%20Tahun%202018.pdf",
+  "https://peraturan.bpk.go.id/Download/89882/PP%20Nomor%2051%20Tahun%202018%20-%20Lampiran.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:28:17Z"
+}

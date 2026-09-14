@@ -1,0 +1,42 @@
+{
+ "id": "PMK-2024-87",
+ "source": "bpk",
+ "bpk_id": 307186,
+ "url": "https://peraturan.bpk.go.id/Details/307186/pmk-no-87-tahun-2024",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "87",
+ "number_raw": "87",
+ "year": 2024,
+ "title": "Peraturan Menteri Keuangan Nomor 87 Tahun 2024 tentang Tata Cara Panerbitan dan Pembelian Kembali Obligasi Daerah dan Sukuk Daerah Oleh Pemerintah Daerah",
+ "about": "Tata Cara Panerbitan dan Pembelian Kembali Obligasi Daerah dan Sukuk Daerah Oleh Pemerintah Daerah",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PENGELOLAAN KEUANGAN NEGARA / DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-10-25",
+ "date_promulgated": "2024-11-06",
+ "date_effective": "2024-11-06",
+ "gazette": "BN.2024 (807)/37 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2012-111",
+   "target_bpk_id": 126939,
+   "label": "PMK No. 111/PMK.07/2012",
+   "about": "Tata Cara Penerbitan dan Pertanggungjawaban Obligasi Daerah"
+  }
+ ],
+ "abstract": "bahwa untuk melaksanakan ketentuan Pasal 57 ayat (3) dan Pasal 71 Peraturan Pemerintah Nomor 1 Tahun 2024 tentang Harmonisasi Kebijakan Fiskal Nasional, perlu menetapkan Peraturan Menteri Keuangan tentang Tata Cara Penerbitan dan Pembelian Kembali Obligasi Daerah dan Sukuk Daerah oleh Pemerintah Daerah;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara, Peraturan Pemerintah Nomor 1 Tahun 2024 tentang Harmonisasi Kebijakan Fiskal Nasional, Peraturan Presiden Nomor 57 Tahun 2020 tentang Kementerian Keuangan dan Peraturan Menteri Keuangan Nomor 118/PMK.01/2021 tentang Organisasi dan Tata Kerja Kementerian Keuangan\nPeraturan ini mengatur tentang ketentuan umum, penerbitan obligasi daerah dan/atau sukuk daerah, pembelian kembali obligasi daerah dan/atau sukuk daerah, pertanggungjawaban, kewajiban dan sanksi dan ketentuan penutup",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 06 November 2024.\nPeraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 111/PMK.07/2012 tentang Tata cara Penerbitan dan Pertanggungjawaban Obligasi Daerah sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 180/PMK.07/2015 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 111/PMK.07/2012 tentang Tata cara Penerbitan dan Pertanggungjawaban Obligasi Daerah dicabut dan dinyatakan tidak berlaku",
+ "citations": [
+  "PP-2024-1",
+  "UU-2008-39",
+  "PERPRES-2020-57",
+  "PMK-2021-118"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/367577/2024pmkeuangan087.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:34:36Z"
+}

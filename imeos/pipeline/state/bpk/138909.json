@@ -1,0 +1,60 @@
+{
+ "id": "UU-2020-3",
+ "source": "bpk",
+ "bpk_id": 138909,
+ "url": "https://peraturan.bpk.go.id/Details/138909/uu-no-3-tahun-2020",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "3",
+ "number_raw": "3",
+ "year": 2020,
+ "title": "Undang-undang (UU) Nomor 3 Tahun 2020 tentang Perubahan atas Undang-Undang Nomor 4 Tahun 2009 tentang Pertambangan Mineral dan Batubara",
+ "about": "Perubahan atas Undang-Undang Nomor 4 Tahun 2009 tentang Pertambangan Mineral dan Batubara",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERTAMBANGAN MIGAS, MINERAL DAN ENERGI - SUMBER DAYA ALAM",
+ "field": "",
+ "date_enacted": "2020-06-10",
+ "date_promulgated": "2020-06-10",
+ "date_effective": "2020-06-10",
+ "gazette": "LN.2020/NO.147, TLN NO.6525, JDIH.SETNEG.GO.ID : 67 HLM.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2025-2",
+   "target_bpk_id": 316682,
+   "label": "UU No. 2 Tahun 2025",
+   "about": "Perubahan Keempat atas Undang-Undang Nomor 4 Tahun 2009 tentang Pertambangan Mineral dan Batubara"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2009-4",
+   "target_bpk_id": 38578,
+   "label": "UU No. 4 Tahun 2009",
+   "about": "Pertambangan Mineral dan Batubara"
+  }
+ ],
+ "abstract": "Pengaturan mengenai pertambangan mineral dan batubara yang saat ini diatur dalam Undang-Undang Nomor 4 Tahun 2009 tentang Pertambangan Mineral dan\nBatubara masih belum dapat menjawab perkembangan, permasalahan, dan kebutuhan hukum dalam penyelenggaraan pertambangan mineral dan batubara,\nsehingga perlu dilakukan perubahan agar dapat menjadi dasar hukum yang efektif, efisien, dan komprehensif dalam penyelenggaraan pertambangan mineral dan\nbatubara.\nDasar hukum Undang-undang (UU) ini adalah Pasal 20, Pasal 21, dan Pasal 33 ayat (2) dan ayat (3) UUD 1945 dan UU Nomor 4 tahun 2009 tentang Pertambangan Mineral dan Batubara.\nDalam UU ini diatur mengenai penyempurnaan terhadap UU Nomor 4 Tahun 2009 tentang Pertambangan Mineral dan Batubara, yaitu menambahkan materi muatan baru berupa: (1) pengaturan terkait konsep Wilayah Hukum Pertambangan; (2) kewenangan pengelolaan Mineral dan Batubara; (3) rencana pengelolaan Mineral dan Batubara; (4) penugasan kepada lembaga riset negara, BUMN, BUMD, atau Badan Usaha untuk melakukan Penyelidikan dan Penelitian dalam rangka penyiapan WIUP; (5) penguatan peran BUMN; (6) pengaturan kembali perizinan dalam pengusahaan Mineral dan Batubara termasuk di dalamnya, konsep perizinan baru terkait pengusahaan batuan untuk jenis tertentu atau untuk keperluan tertentu, serta perizinan untuk pertambangan rakyat; dan (7) penguatan kebijakan terkait pengelolaan lingkungan hidup pada kegiatan usaha Pertambangan, termasuk pelaksanaan Reklamasi dan Pascatambang. Dalam Undang-Undang ini juga dilakukan pengaturan kembali terkait kebijakan peningkatan nilai tambah Mineral dan Batubara, divestasi saham, pembinaan dan pengawasan, penggunaan lahan, data dan informasi, Pemberdayaan Masyarakat, dan kelanjutan operasi bagi\npemegang Kontrak Kerja/KK atau Perjanjian Karya Pengusahaan Pertambangan Batubara/PKP2B.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 10 Juni 2020.",
+ "citations": [
+  "UU-2009-4"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/130200/UU%20Nomor%203%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:24:01Z"
+}

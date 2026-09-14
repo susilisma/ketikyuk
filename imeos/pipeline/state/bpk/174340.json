@@ -1,0 +1,37 @@
+{
+ "id": "PMK-2010-65",
+ "source": "bpk",
+ "bpk_id": 174340,
+ "url": "https://peraturan.bpk.go.id/Details/174340/pmk-no-65pmk032010",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "65",
+ "number_raw": "65/PMK.03/2010",
+ "year": 2010,
+ "title": "Peraturan Menteri Keuangan Nomor 65/PMK.03/2010 Tahun 2010 tentang Tata Cara Pengurangan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Barang Kena Pajak yang Dikembalikan dan Pajak Pertambahan Nilai atas Jasa Kena Pajak yang Dibatalkan",
+ "about": "Tata Cara Pengurangan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Barang Kena Pajak yang Dikembalikan dan Pajak Pertambahan Nilai atas Jasa Kena Pajak yang Dibatalkan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "",
+ "date_enacted": "2010-03-18",
+ "date_promulgated": "2010-03-18",
+ "date_effective": "2010-04-01",
+ "gazette": "BN 2010/ NO 141; https://peraturan.go.id/ : 6 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-81",
+   "target_bpk_id": 306614,
+   "label": "PMK No. 81 Tahun 2024",
+   "about": "Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 01 April 2010.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/167537/PMK%20Nomor%2065%20Tahun%202010.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:35:19Z"
+}

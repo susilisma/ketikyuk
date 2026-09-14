@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2021-215",
+ "source": "bpk",
+ "bpk_id": 209504,
+ "url": "https://peraturan.bpk.go.id/Details/209504/pmk-no-215pmk072021",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "215",
+ "number_raw": "215/PMK.07/2021",
+ "year": 2021,
+ "title": "Peraturan Menteri Keuangan Nomor 215/PMK.07/2021 Tahun 2021 tentang Penggunaan, Pemantauan, dan Evaluasi Dana Bagi Hasil Cukai Hasil Tembakau",
+ "about": "Penggunaan, Pemantauan, dan Evaluasi Dana Bagi Hasil Cukai Hasil Tembakau",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN",
+ "field": "",
+ "date_enacted": "2021-12-31",
+ "date_promulgated": "2021-12-31",
+ "date_effective": "2021-12-31",
+ "gazette": "BN.2021/NO. 1513; https:jdih.kemenkeu.go.id : 26 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-72",
+   "target_bpk_id": 306305,
+   "label": "PMK No. 72 Tahun 2024",
+   "about": "Penggunaan Dana Bagi Hasil Cukai Hasil Tembakau"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2020-206",
+   "target_bpk_id": 156699,
+   "label": "PMK No. 206/PMK.07/2020",
+   "about": "Penggunaan, Pemantauan, dan Evaluasi Dana Bagi Hasil Cukai Hasil Tembakau"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 31 Desember 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/203601/215_PMK.07_2021.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:35:35Z"
+}

@@ -1,0 +1,60 @@
+{
+ "id": "UU-2011-20",
+ "source": "bpk",
+ "bpk_id": 39256,
+ "url": "https://peraturan.bpk.go.id/Details/39256/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "20",
+ "number_raw": "20",
+ "year": 2011,
+ "title": "Undang-undang (UU) Nomor 20 Tahun 2011 tentang Rumah Susun",
+ "about": "Rumah Susun",
+ "issuer": "Pemerintah Pusat",
+ "subject": "AGRARIA, PERTANAHAN, TATA RUANG - KONSTRUKSI, SIPIL, ARSITEK, BANGUNAN, DAN INFRASTRUKTUR",
+ "field": "",
+ "date_enacted": "2011-11-10",
+ "date_promulgated": "2011-11-10",
+ "date_effective": "2011-11-10",
+ "gazette": "LN.2011/No. 108, TLN No. 5252, LL SETNEG: 57 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 234926,
+   "label": "PERPU No. 2 Tahun 2022",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1985-16",
+   "target_bpk_id": 46967,
+   "label": "UU No. 16 Tahun 1985",
+   "about": "Rumah Susun"
+  }
+ ],
+ "abstract": "Setiap orang berhak hidup sejahtera lahir dan batin, bertempat tinggal, dan mendapatkan lingkungan hidup yang baik dan sehat, yang merupakan kebutuhan dasar manusia, dan yang mempunyai peran yang sangat strategis dalam pembentukan watak serta kepribadian bangsa sebagai salah satu upaya membangun manusia Indonesia seutuhnya, berjati diri, mandiri, dan produktif. Negara bertanggung jawab melindungi segenap bangsa Indonesia dalam penyelenggaraan perumahan melalui rumah susun yang layak bagi kehidupan yang sehat, aman, harmonis, dan berkelanjutan di seluruh wilayah Indonesia. Setiap orang dapat berpartisipasi untuk memenuhi kebutuhan tempat tinggal melalui pembangunan rumah susun yang layak, aman, harmonis, terjangkau secara mandiri, dan berkelanjutan. Negara berkewajiban memenuhi kebutuhan tempat tinggal yang terjangkau bagi masyarakat berpenghasilan rendah.\nDasar Hukum Undang-Undang ini adalah Pasal 20, Pasal 21, dan Pasal 28H ayat (1), ayat (2), dan ayat (4) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 dan UU No.1 Tahun 2011.\nDalam Undang-Undang ini mengatur tentang Ketentuan mengenai rumah susun. Undang-Undang ini menciptakan dasar hukum yang tegas berkaitan dengan penyelenggaraan rumah susun dengan berdasarkan asas kesejahteraan, keadilan dan pemerataan, kenasionalan, keterjangkauan dan kemudahan, keefisienan dan kemanfaatan, kemandirian dan kebersamaan, kemitraan, keserasian dan keseimbangan, keterpaduan, kesehatan, kelestarian dan berkelanjutan, keselamatan, kenyamanan, dan kemudahan, serta keamanan, ketertiban, dan keteraturan. Dalam undang-undang ini penyelenggaraan rumah susun bertujuan untuk menjamin terwujudnya rumah susun yang layak huni dan terjangkau, meningkatkan efisiensi dan efektivitas pemanfaatan ruang, mengurangi luasan dan mencegah timbulnya perumahan dan permukiman kumuh, mengarahkan pengembangan kawasan perkotaan, memenuhi kebutuhan sosial dan ekonomi, memberdayakan para pemangku kepentingan, serta memberikan kepastian hukum dalam penyediaan, kepenghunian, pengelolaan, dan kepemilikan rumah susun. Pengaturan dalam undang-undang ini juga menunjukkan keberpihakan negara dalam memenuhi kebutuhan tempat tinggal yang terjangkau bagi MBR serta partisipasi masyarakat dalam penyelenggaraan rumah susun.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 10 November 2011.\nPada saat Undang-Undang ini mulai berlaku:\na. Undang-Undang Nomor 16 Tahun 1985 tentang Rumah Susun (Lembaran Negara Republik Indonesia Tahun 1985 Nomor 75, Tambahan Lembaran Negara Republik Indonesia Nomor 3318) dicabut dan dinyatakan tidak berlaku.\nb. Semua peraturan perundang-undangan yang merupakan peraturan pelaksanaan dari Undang-Undang Nomor 16 Tahun 1985 tentang Rumah Susun dinyatakan tetap berlaku sepanjang tidak bertentangan atau belum diganti dengan peraturan pelaksanaan yang baru berdasarkan Undang-Undang ini.\nLampiran file: 82 hlm (batang tubuh hlm 1 sd 57 dan penjelasan hlm 58 sd 82)",
+ "citations": [
+  "UU-2011-1"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/28684/UU%2020%20Tahun%202011.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:50Z"
+}

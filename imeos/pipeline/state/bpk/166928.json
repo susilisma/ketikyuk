@@ -1,0 +1,37 @@
+{
+ "id": "PERMENPERIN-2020-1",
+ "source": "bpk",
+ "bpk_id": 166928,
+ "url": "https://peraturan.bpk.go.id/Details/166928/permenperin-no-1-tahun-2020",
+ "form": "PERMENPERIN",
+ "form_long": "Peraturan Menteri Perindustrian",
+ "number": "1",
+ "number_raw": "1",
+ "year": 2020,
+ "title": "Peraturan Menteri Perindustrian Nomor 1 Tahun 2020 tentang Penyusunan Rencana Pengelolaan Lingkungan Hidup dan Rencana Pemantauan Lingkungan Hidup Rinci Bagi Perusahaan Industri yang Berada atau akan Berlokasi di Kawasan Industri",
+ "about": "Penyusunan Rencana Pengelolaan Lingkungan Hidup dan Rencana Pemantauan Lingkungan Hidup Rinci Bagi Perusahaan Industri yang Berada atau akan Berlokasi di Kawasan Industri",
+ "issuer": "Kementerian Perindustrian",
+ "subject": "LINGKUNGAN HIDUP",
+ "field": "",
+ "date_enacted": "2020-01-09",
+ "date_promulgated": "2020-01-17",
+ "date_effective": "2020-01-17",
+ "gazette": "BN 2020/ No 29; http://jdih.kemenperin.go.id/; 17 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENPERIN-2026-2",
+   "target_bpk_id": 348174,
+   "label": "Permenperin No. 2 Tahun 2026",
+   "about": "Tata Cara Penyusunan dan Pemberian Persetujuan Rencana Pengelolaan Lingkungan Hidup dan Rencana Pemantauan Lingkungan Hidup Rinci Bagi Rencana Usaha dan/atau Kegiatan yang Akan Beralokasi di Kawasan Industri"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perindustrian ini mulai berlaku pada tanggal 17 Januari 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/159856/Permenperin_No._1_Tahun_2020_1.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:38:16Z"
+}

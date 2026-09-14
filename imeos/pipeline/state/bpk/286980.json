@@ -1,0 +1,48 @@
+{
+ "id": "PP-2024-25",
+ "source": "bpk",
+ "bpk_id": 286980,
+ "url": "https://peraturan.bpk.go.id/Details/286980/pp-no-25-tahun-2024",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "25",
+ "number_raw": "25",
+ "year": 2024,
+ "title": "Peraturan Pemerintah (PP) Nomor 25 Tahun 2024 tentang Perubahan atas Peraturan Pemerintah Nomor 96 Tahun 2021 tentang Pelaksanaan Kegiatan Usaha Pertambangan Mineral dan Batubara",
+ "about": "Perubahan atas Peraturan Pemerintah Nomor 96 Tahun 2021 tentang Pelaksanaan Kegiatan Usaha Pertambangan Mineral dan Batubara",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERTAMBANGAN MIGAS, MINERAL DAN ENERGI",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2024-05-30",
+ "date_promulgated": "2024-05-30",
+ "date_effective": "2024-05-30",
+ "gazette": "LN 2024 (89), TLN (6921): 25 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2025-39",
+   "target_bpk_id": 331105,
+   "label": "PP No. 39 Tahun 2025",
+   "about": "Perubahan Kedua atas Peraturan Pemerintah Nomor 96 Tahun 2021 tentang Pelaksanaan Kegiatan Usaha Pertambangan Mineral dan Batubara"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PP-2021-96",
+   "target_bpk_id": 177410,
+   "label": "PP No. 96 Tahun 2021",
+   "about": "Pelaksanaan Kegiatan Usaha Pertambangan Mineral dan Batubara"
+  }
+ ],
+ "abstract": "Untuk memberikan kepastian hukum dan kepastian berinvestasi bagi pemegang izin usaha pertambangan khusus operasi produksi yang telah diterbitkan sebelum berlakunya Undang-Undang Nomor 3 Tahun 2020 tentang Perubahan atas Undang-Undang Nomor 4 Tahun 2009 tentang Pertambangan Mineral dan Batubara, diperlukan penyesuaian terhadap ketentuan yang mengatur jangka waktu perpanjangan dan persyaratan pemberian perpanjangan.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945; UU Nomor 4 Tahun 2009; dan PP Nomor 96 Tahun 2021.\nPP ini mengubah beberapa ketentuan dalam PP Nomor 96 Tahun 2021. Pasal yang diubah antara lain dalam Pasal 22 yang mengatur mengenai persyaratan calon peserta lelang WIUP mineral logam atau WIUP batubara. Selanjutnya Pasal 54 yang mengatur mengenai jangka waktu kegiatan operasi produksi. Pasal 56 yang mengatur mengenai kriteria kegiatan operasi produksi yang terintegrasi dengan fasilitas pengolahan dan/atau pemurnian atau kegiatan pengembangan dan/atau pemanfaatan. Dan beberapa pasal lainnya yang diubah sebagaimana diatur dalam PP ini. Selain itu, PP ini juga menambah beberapa ketentuan antara lain Pasal 83A yang mengatur mengenai dalam rangka peningkatan kesejahteraan masyarakat, WIUPK dapat dilakukan penawaran secara prioritas kepada Badan Usaha yang dimiliki oleh organisasi kemasyarakatan keagamaan.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 30 Mei 2024.\nPP ini mengubah PP Nomor 96 Tahun 2021.\nLampiran file: 33 hlm (batang tubuh hlm 1 sd 25, penjelasan hlm 26 sd 33)",
+ "citations": [
+  "UU-2020-3",
+  "UU-2009-4",
+  "PP-2021-96"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/346125/PP%20Nomor%2025%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:29:09Z"
+}

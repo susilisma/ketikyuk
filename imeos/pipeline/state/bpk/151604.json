@@ -1,0 +1,51 @@
+{
+ "id": "PERPRES-2020-106",
+ "source": "bpk",
+ "bpk_id": 151604,
+ "url": "https://peraturan.bpk.go.id/Details/151604/perpres-no-106-tahun-2020",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "106",
+ "number_raw": "106",
+ "year": 2020,
+ "title": "Peraturan Presiden (Perpres) Nomor 106 Tahun 2020 tentang Kementerian Pemuda dan Olahraga",
+ "about": "Kementerian Pemuda dan Olahraga",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI - STRUKTUR ORGANISASI",
+ "field": "",
+ "date_enacted": "2020-11-06",
+ "date_promulgated": "2020-11-10",
+ "date_effective": "2020-11-10",
+ "gazette": "LN.2020/No.253, jdih.setkab.go.id : 15 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-187",
+   "target_bpk_id": 306707,
+   "label": "Perpres No. 187 Tahun 2024",
+   "about": "Kementerian Pemuda dan Olahraga"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2015-57",
+   "target_bpk_id": 41797,
+   "label": "PERPRES No. 57 Tahun 2015",
+   "about": "Kementerian Pemuda dan Olahraga"
+  }
+ ],
+ "abstract": "Sebagai tindak lanjut ditetapkannya Keputusan Presiden Nomor 113/P Tahun 2019 tentang Pembentukan Kementerian Negara dan Pengangkatan Menteri Negara Kabinet Indonesia Maju Periode Tahun 2019 - 2024 dan untuk melaksanakan ketentuan Pasal 11 UU Nomor 39 Tahun 2008 tentang Kementerian Negara, perlu menetapkan Peraturan Presiden tentang Kementerian Pemuda dan Olahraga.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) dan Pasal 17 UUD 1945; UU Nomor 39 Tahun 2008; UU Nomor 23 Tahun 2014 ,sebagaimana telah beberapa kali diubah terakhir dengan UU Nomor 9 Tahun 2015; Perpres Nomor 67 Tahun 2019; dan Perpres Nomor 68 Tahun 2019.\nPerpres ini mengatur mengenai penetapan kedudukan, tugas, dan fungsi Kementerian Pemuda dan Olahraga. Kementerian Pemuda dan Olahraga mempunyai kedudukan yang berada di bawah dan bertanggung jawab kepada presiden dan mempunyai tugas menyelenggarakan urusan pemerintahan di bidang pemuda dan olahraga untuk membantu Presiden dalam menyelenggarakan pemerintahan negara. Dalam menyelenggarakan tugas tersebut, Kementerian Pemuda dan Olahraga menyelenggarakan fungsi antara lain: perumusan dan penetapan kebijakan di bidang pemberdayaan pemuda, pengembangan pemuda, pembudayaan olahraga, serta peningkatan prestasi olahraga; dan pengelolaan barang milik/kekayaan negara yang menjadi tanggung jawab Kementerian Pemuda dan Olahraga.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 10 November 2020.\nPerpres ini mencabut Perpres Nomor 57 Tahun 2015 tentang Kementerian Pemuda\ndan Olahraga (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 101).",
+ "citations": [
+  "KEPPRES-2019-113",
+  "UU-2008-39",
+  "UU-2014-23",
+  "UU-2015-9",
+  "PERPRES-2019-67",
+  "PERPRES-2019-68"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/143849/Perpres%20Nomor%20106%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:27:03Z"
+}

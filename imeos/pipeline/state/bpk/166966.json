@@ -1,0 +1,37 @@
+{
+ "id": "PERMENPERIN-2020-12",
+ "source": "bpk",
+ "bpk_id": 166966,
+ "url": "https://peraturan.bpk.go.id/Details/166966/permenperin-no-12-tahun-2020",
+ "form": "PERMENPERIN",
+ "form_long": "Peraturan Menteri Perindustrian",
+ "number": "12",
+ "number_raw": "12",
+ "year": 2020,
+ "title": "Peraturan Menteri Perindustrian Nomor 12 Tahun 2020 tentang Standar Industri Hijau untuk Industri Kaca Lembaran",
+ "about": "Standar Industri Hijau untuk Industri Kaca Lembaran",
+ "issuer": "Kementerian Perindustrian",
+ "subject": "STANDAR / PEDOMAN",
+ "field": "",
+ "date_enacted": "2020-02-27",
+ "date_promulgated": "2020-03-05",
+ "date_effective": "2020-03-05",
+ "gazette": "BN 2020/ No 210; http://jdih.kemenperin.go.id/; 5 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENPERIN-2024-46",
+   "target_bpk_id": 307892,
+   "label": "Permenperin No. 46 Tahun 2024",
+   "about": "Standar Industri Hijau untuk Industri Kaca Lembaran"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perindustrian ini mulai berlaku pada tanggal 05 Maret 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/159893/Permenperin_No._12_Tahun_2020__.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:39:32Z"
+}

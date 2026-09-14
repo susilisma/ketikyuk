@@ -1,0 +1,37 @@
+{
+ "id": "POJK-2017-43",
+ "source": "bpk",
+ "bpk_id": 129663,
+ "url": "https://peraturan.bpk.go.id/Details/129663/peraturan-ojk-no-43pojk032017-tahun-2017",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "43",
+ "number_raw": "43/POJK.03/2017",
+ "year": 2017,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 43/POJK.03/2017 Tahun 2017 tentang Tindak Lanjut Pelaksanaan Pengawasan Bank",
+ "about": "Tindak Lanjut Pelaksanaan Pengawasan Bank",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "",
+ "date_enacted": "2017-07-12",
+ "date_promulgated": "2017-07-12",
+ "date_effective": "2017-07-12",
+ "gazette": "LN.2017/NO.149, TLN NO.6092, Jdih.ojk.go.id: 10 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 301687,
+   "label": "Peraturan OJK No. 5 Tahun 2024",
+   "about": "Penetapan Status Pengawasan dan Penanganan Permasalahan Bank Umum"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 12 Juli 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/120568/SAL%20POJK%2043%20-%20TL%20Pengawasan%20Bank.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:44:44Z"
+}

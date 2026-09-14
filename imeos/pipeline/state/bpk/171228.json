@@ -1,0 +1,37 @@
+{
+ "id": "PERMENAKER-2021-8",
+ "source": "bpk",
+ "bpk_id": 171228,
+ "url": "https://peraturan.bpk.go.id/Details/171228/permenaker-no-8-tahun-2021",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "8",
+ "number_raw": "8",
+ "year": 2021,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 8 Tahun 2021 tentang Peraturan Pelaksanaan Peraturan Pemerintah Nomor 34 Tahun 2021 Tentang Penggunaan Tenaga Kerja Asing",
+ "about": "Peraturan Pelaksanaan Peraturan Pemerintah Nomor 34 Tahun 2021 Tentang Penggunaan Tenaga Kerja Asing",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "KETENAGAKERJAAN",
+ "field": "",
+ "date_enacted": "2021-03-31",
+ "date_promulgated": "2021-04-01",
+ "date_effective": "2021-04-01",
+ "gazette": "BN 2021/NO. 301; PERATURAN.GO.ID: 44 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENAKER-2018-10",
+   "target_bpk_id": 146295,
+   "label": "Permenaker No. 10 Tahun 2018",
+   "about": "Tata Cara Penggunaan Tenaga Kerja Asing"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 01 April 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/164392/No%208%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:03Z"
+}

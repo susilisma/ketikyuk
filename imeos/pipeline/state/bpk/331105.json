@@ -1,0 +1,62 @@
+{
+ "id": "PP-2025-39",
+ "source": "bpk",
+ "bpk_id": 331105,
+ "url": "https://peraturan.bpk.go.id/Details/331105/pp-no-39-tahun-2025",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "39",
+ "number_raw": "39",
+ "year": 2025,
+ "title": "Peraturan Pemerintah (PP) Nomor 39 Tahun 2025 tentang Perubahan Kedua atas Peraturan Pemerintah Nomor 96 Tahun 2021 tentang Pelaksanaan Kegiatan Usaha Pertambangan Mineral dan Batubara",
+ "about": "Perubahan Kedua atas Peraturan Pemerintah Nomor 96 Tahun 2021 tentang Pelaksanaan Kegiatan Usaha Pertambangan Mineral dan Batubara",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERTAMBANGAN MIGAS, MINERAL DAN ENERGI",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2025-09-11",
+ "date_promulgated": "2025-09-11",
+ "date_effective": "2025-09-11",
+ "gazette": "LN 2025 (146), TLN (7135) : 64 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut sebagian",
+   "target": "PERPRES-2024-76",
+   "target_bpk_id": 292906,
+   "label": "Perpres No. 76 Tahun 2024",
+   "about": "Perubahan atas Peraturan Presiden Nomor 70 Tahun 2023 tentang Pengalokasian Lahan Bagi Penataan Investasi"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "PERPRES-2023-70",
+   "target_bpk_id": 267151,
+   "label": "PERPRES No. 70 Tahun 2023",
+   "about": "Pengalokasian Lahan bagi Penataan Investasi"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PP-2024-25",
+   "target_bpk_id": 286980,
+   "label": "PP No. 25 Tahun 2024",
+   "about": "Perubahan atas Peraturan Pemerintah Nomor 96 Tahun 2021 tentang Pelaksanaan Kegiatan Usaha Pertambangan Mineral dan Batubara"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PP-2021-96",
+   "target_bpk_id": 177410,
+   "label": "PP No. 96 Tahun 2021",
+   "about": "Pelaksanaan Kegiatan Usaha Pertambangan Mineral dan Batubara"
+  }
+ ],
+ "abstract": "Ketentuan pelaksanaan kegiatan usaha pertambangan di dalam Peraturan Pemerintah Nomor 96 Tahun 2021 tentang Pelaksanaan Kegiatan Usaha Pertambangan Mineral dan Batubara sebaqaimana telah diubah dengan Peraturan Pemerintah Nomor 25 Tahun 2024 tentang Perubahan atas Peraturan Pemerintah Nomor 96 Tahun 2021 tentang Pelaksanaan Kegiatan Usaha Pertambangan Mineral dan Batubara, sudah tidak sesuai lagi dengan perkembangan kebutuhan hukum di bidang mineral dan batubara, sehingga perlu dilakukan perubahan.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945; UU Nomor 4 Tahun 2009; dan PP Nomor 96 Tahun 2021.\nPP ini mengubah beberapa ketentuan dalam Peraturan Pemerintah Nomor 96 Tahun 2021 tentang Pelaksanaan Kegiatan Usaha Pertambangan Mineral dan Batubara sebaqaimana telah diubah dengan Peraturan Pemerintah Nomor 25 Tahun 2024 tentang Perubahan atas Peraturan Pemerintah Nomor 96 Tahun 2021 tentang Pelaksanaan Kegiatan Usaha Pertambangan Mineral dan Batubara.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 11 September 2025.\nPada saat Peraturan Pemerintah ini mulai berlaku, ketentuan mengenai penetapan, penawaran, dan pemberian WIUP atau WIUPK secara prioritas serta penerbitan IUP atau IUPK dalam Peraturan Presiden Nomor 70 Tahun 2023 tentang Pengalokasian Lahan Bagi Penataan Investasi (Lembaran Negara Republik Indonesia Tahun 2023 Nomor 138) sebagaimana telah diubah dengan Peraturan Presiden Nomor 76 Tahun 2024 tentang Perubahan atas Peraturan Presiden Nomor 70 Tahun 2023 tentang Pengalokasian Lahan Bagi Penataan Investasi (Lembaran Negara Republik Indonesia Tahun 2024 Nomor 134), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 75 hlm (batang tubuh hlm 1 sd 64 dan penjelasan hlm 65 sd 75)",
+ "citations": [
+  "PP-2021-96",
+  "PP-2024-25",
+  "UU-2009-4"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/393131/PP%20Nomor%2039%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:29:05Z"
+}

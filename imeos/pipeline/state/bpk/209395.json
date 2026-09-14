@@ -1,0 +1,51 @@
+{
+ "id": "PMK-2021-209",
+ "source": "bpk",
+ "bpk_id": 209395,
+ "url": "https://peraturan.bpk.go.id/Details/209395/pmk-no-209pmk032021",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "209",
+ "number_raw": "209/PMK.03/2021",
+ "year": 2021,
+ "title": "Peraturan Menteri Keuangan Nomor 209/PMK.03/2021 Tahun 2021 tentang Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 39/PMK.03/2018 tentang Tata Cara Pengembalian Pendahuluan Kelebihan Pembayaran Pajak",
+ "about": "Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 39/PMK.03/2018 tentang Tata Cara Pengembalian Pendahuluan Kelebihan Pembayaran Pajak",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "",
+ "date_enacted": "2021-12-29",
+ "date_promulgated": "2021-12-30",
+ "date_effective": "2022-01-01",
+ "gazette": "BN.2021/NO. 1473; https:jdih.kemenkeu.go.id : 11 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2026-28",
+   "target_bpk_id": 348562,
+   "label": "PMK No. 28 Tahun 2026",
+   "about": "Tata Cara Pengembalian Pendahuluan Kelebihan Pembayaran Pajak"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PMK-2019-117",
+   "target_bpk_id": 128139,
+   "label": "PMK No. 117/PMK.03/2019",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 39/PMK.03/2018 tentang Tata Cara Pengembalian Pendahuluan Kelebihan Pembayaran Pajak"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PMK-2018-39",
+   "target_bpk_id": 112141,
+   "label": "PMK No. 39/PMK.03/2018",
+   "about": "Tata Cara Pengembalian Pendahuluan Kelebihan Pembayaran Pajak"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 01 Januari 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/203491/209_PMK.03_2021.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:31:00Z"
+}

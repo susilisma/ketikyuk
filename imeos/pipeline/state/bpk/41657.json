@@ -1,0 +1,37 @@
+{
+ "id": "PERPRES-2014-144",
+ "source": "bpk",
+ "bpk_id": 41657,
+ "url": "https://peraturan.bpk.go.id/Details/41657/perpres-no-144-tahun-2014",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "144",
+ "number_raw": "144",
+ "year": 2014,
+ "title": "Peraturan Presiden (Perpres) Nomor 144 Tahun 2014 tentang Perubahan Sekolah Tinggi Agama Islam Negeri Palangkaraya Menjadi Institut Agama Islam Negeri Palangkaraya",
+ "about": "Perubahan Sekolah Tinggi Agama Islam Negeri Palangkaraya Menjadi Institut Agama Islam Negeri Palangkaraya",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PENDIDIKAN",
+ "field": "",
+ "date_enacted": "2014-10-17",
+ "date_promulgated": "2014-10-17",
+ "date_effective": "2014-10-17",
+ "gazette": "LN.2014/NO.285, LL SETKAB : 5 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2025-58",
+   "target_bpk_id": 320315,
+   "label": "Perpres No. 58 Tahun 2025",
+   "about": "Universitas Islam Negeri Palangka Raya"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 17 Oktober 2014.\nPada saat Peraturan Presiden ini mulai berlaku, ketentuan yang berkaitan dengan Sekolah Tinggi Agama Islam Negeri Palangkaraya sebagaimana diatur dalam Keputusan Presiden Nomor 11 Tahun 1997 tentang Pendirian Sekolah Tinggi Agama Islam Negeri, dicabut dan dinyatakan tidak berlaku.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/67031/Perpres%20Nomor%20144%20Tahun%202014.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:25:50Z"
+}

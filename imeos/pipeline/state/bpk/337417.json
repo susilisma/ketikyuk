@@ -1,0 +1,45 @@
+{
+ "id": "PERMENDAG-2025-41",
+ "source": "bpk",
+ "bpk_id": 337417,
+ "url": "https://peraturan.bpk.go.id/Details/337417/permendag-no-41-tahun-2025",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "41",
+ "number_raw": "41",
+ "year": 2025,
+ "title": "Peraturan Menteri Perdagangan Nomor 41 Tahun 2025 tentang Tata Cara Pelaporan Distribusi Barang Kebutuhan Pokok dan Barang Penting",
+ "about": "Tata Cara Pelaporan Distribusi Barang Kebutuhan Pokok dan Barang Penting",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-12-27",
+ "date_promulgated": "2025-12-03",
+ "date_effective": null,
+ "gazette": "BN.2025 (1006/12 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2021-22",
+   "target_bpk_id": 166542,
+   "label": "Permendag No. 22 Tahun 2021",
+   "about": "Tata Cara Pelaporan Distribusi"
+  }
+ ],
+ "abstract": "a. bahwa untuk mengoptimalkan pelaporan distribusi\nbarang kebutuhan pokok dan barang penting oleh pelaku\nusaha, serta memperkuat keterlibatan pemerintah daerah\ndalam melaksanakan pembinaan dan pengawasan\nkewajiban pelaporan, perlu mengatur kembali ketentuan\nmengenai pelaporan distribusi barang kebutuhan pokok\ndan barang penting;\nb. bahwa Peraturan Menteri Perdagangan Nomor 22 Tahun\n2021 tentang Tata Cara Pelaporan Distribusi Barang\nKebutuhan Pokok dan Barang Penting sudah tidak sesuai\ndengan\nperkembangan\nhukum dan kebutuhan\nmasyarakat, sehingga perlu diganti;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, serta untuk melaksanakan ketentuan Pasal 106 Peraturan Pemerintah Nomor 29 Tahun 2021 tentang Penyelenggaraan Bidang Perdagangan, perlu menetapkan Peraturan Menteri Perdagangan tentang Tata Cara\nPelaporan Distribusi Barang Kebutuhan Pokok dan\nBarang Penting;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 7 Tahun 2014, Peraturan Pemerintah Nomor 29 Tahun 2021, Peraturan Presiden Nomor 71 Tahun 2015, Peraturan Presiden Nomor 168 Tahun 2024 dan Peraturan Menteri Perdagangan Nomor 6 Tahun 2025\nPeraturan ini mengatur tentang ketentuan umum, kewajiban penyampaian laporan distribusi barang kebutuhan pokok dan barang penting, pembinaan dan pengawasan, sanksi administratif dan ketentuan penutup",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal .\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan\nMenteri Perdagangan Nomor 22 Tahun 2021 tentang Tata\nCara Pelaporan Distribusi Barang Kebutuhan Pokok dan\nBarang Penting",
+ "citations": [
+  "PERMENDAG-2021-22",
+  "PP-2021-29",
+  "UU-2008-39",
+  "UU-2014-7",
+  "PERPRES-2015-71",
+  "PERPRES-2024-168",
+  "PERMENDAG-2025-6"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/400468/PERMENDAG%20Nomor%2041%20Tahun%202025%20-%20Tata%20Cara%20Pelaporan%20Distribusi%20Bapokting.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:36:41Z"
+}

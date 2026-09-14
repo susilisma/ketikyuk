@@ -1,0 +1,37 @@
+{
+ "id": "PERMENDAG-2015-106",
+ "source": "bpk",
+ "bpk_id": 129020,
+ "url": "https://peraturan.bpk.go.id/Details/129020/permendag-no-106m-dagper122015-tahun-2015",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "106",
+ "number_raw": "106/M-DAG/PER/12/2015",
+ "year": 2015,
+ "title": "Peraturan Menteri Perdagangan Nomor 106/M-DAG/PER/12/2015 Tahun 2015 tentang Penerapan Kerangka Kualifikasi Nasional Indonesia Bidang Perantaraan Perdagangan Properti",
+ "about": "Penerapan Kerangka Kualifikasi Nasional Indonesia Bidang Perantaraan Perdagangan Properti",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN - PERUMAHAN, PERMUKIMAN",
+ "field": "",
+ "date_enacted": "2015-12-08",
+ "date_promulgated": null,
+ "date_effective": "2015-12-08",
+ "gazette": "JDIH.KEMENDAG.GO.ID : 4 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2025-27",
+   "target_bpk_id": 331159,
+   "label": "Permendag No. 27 Tahun 2025",
+   "about": "Pemberlakuan Standar Kompetensi Kerja Nasional Indonesia dan Penerapan Kerangka Kualifikasi Nasional Indonesia Kategori Real Estat Golongan Pokok Real Estat Bidang Perantaraan Perdagangan Properti"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 08 Desember 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/265684/Permendag%20No.%20106%20Tahun%202015.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:37:09Z"
+}

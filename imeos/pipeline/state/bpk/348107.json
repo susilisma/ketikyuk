@@ -1,0 +1,45 @@
+{
+ "id": "PERMENDAG-2026-8",
+ "source": "bpk",
+ "bpk_id": 348107,
+ "url": "https://peraturan.bpk.go.id/Details/348107/permendag-no-8-tahun-2026",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "8",
+ "number_raw": "8",
+ "year": 2026,
+ "title": "Peraturan Menteri Perdagangan Nomor 8 Tahun 2026 tentang Pencabutan Peraturan Menteri Perdagangan Nomor 10 Tahun 2020 tentang Larangan Sementara Impor Binatang Hidup dari Republik Rakyat Tiongkok",
+ "about": "Pencabutan Peraturan Menteri Perdagangan Nomor 10 Tahun 2020 tentang Larangan Sementara Impor Binatang Hidup dari Republik Rakyat Tiongkok",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-04-14",
+ "date_promulgated": "2026-04-15",
+ "date_effective": "2026-04-15",
+ "gazette": "BN.2026 (239)/3 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2020-10",
+   "target_bpk_id": 160236,
+   "label": "Permendag No. 10 Tahun 2020",
+   "about": "Larangan Sementara Impor Binatang Hidup dari Republik Rakyat Tiongkok"
+  }
+ ],
+ "abstract": "a. bahwa dengan telah berakhirnya status darurat kesehatan\npublik yang menjadi perhatian internasional atau public\nhealth emergency of international concern yang ditetapkan\noleh Organisasi Kesehatan Dunia (World Health\nOrganization) sebagai akibat wabah virus corona yang\nberasal dari Wuhan, Republik Rakyat Tiongkok dan telah\nditetapkannya Keputusan Presiden Nomor 17 Tahun 2023\ntentang Penetapan Berakhirnya Status Pandemi Corona\nVirus Disease 2019 (COVID-l9) di Indonesia, perlu\nmencabut Peraturan Menteri Perdagangan Nomor 10\nTahun 2020 tentang Larangan Sementara Impor Binatang\nHidup dari Republik Rakyat Tiongkok;\nb. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a, perlu menetapkan Peraturan Menteri\nPerdagangan tentang Pencabutan Peraturan Menteri\nPerdagangan Nomor 10 Tahun 2020 tentang Larangan\nSementara Impor Binatang Hidup dari Republik Rakyat\nTiongkok;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 7 Tahun 2014, Peraturan Pemerintah Nomor 29 Tahun 2021, Peraturan Presiden Nomor 168 Tahun 2024 dan Peraturan Menteri Perdagangan Nomor 6 Tahun 2025\nPeraturan ini mencabut dan menyatakan tidak berlaku Peraturan Menteri Perdagangan Nomor 10 Tahun 2020 tentang\nLarangan Sementara Impor Binatang Hidup dari Republik\nRakyat Tiongkok",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 15 April 2026.",
+ "citations": [
+  "KEPPRES-2023-17",
+  "PERMENDAG-2020-10",
+  "UU-2008-39",
+  "UU-2014-7",
+  "PP-2021-29",
+  "PERPRES-2024-168",
+  "PERMENDAG-2025-6"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/411682/permendag-no-8-tahun-2026.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:36:05Z"
+}

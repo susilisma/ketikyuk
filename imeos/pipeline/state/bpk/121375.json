@@ -1,0 +1,72 @@
+{
+ "id": "PMK-2016-240",
+ "source": "bpk",
+ "bpk_id": 121375,
+ "url": "https://peraturan.bpk.go.id/Details/121375/pmk-no-240pmk062016",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "240",
+ "number_raw": "240/PMK.06/2016",
+ "year": 2016,
+ "title": "Peraturan Menteri Keuangan Nomor 240/PMK.06/2016 Tahun 2016 tentang Pengurusan Piutang Negara",
+ "about": "Pengurusan Piutang Negara",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PIUTANG, UTANG, DAN HIBAH NEGARA / DAERAH",
+ "field": "",
+ "date_enacted": "2016-12-30",
+ "date_promulgated": "2016-12-30",
+ "date_effective": "2016-12-30",
+ "gazette": "BN.2016/NO.2162,jdih.kemenkeu.go.id : 122 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2026-23",
+   "target_bpk_id": 348082,
+   "label": "PMK No. 23 Tahun 2026",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 240/PMK.06/2016 tentang Pengurusan Piutang Negara"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2016-21",
+   "target_bpk_id": 113048,
+   "label": "PMK No. 21/PMK.06/2016",
+   "about": "Perubahan Keempat Atas Peraturan Menteri Keuangan Nomor 128/PMK.06/2007 Tentang Pengurusan Piutang Negara"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2014-48",
+   "target_bpk_id": 121663,
+   "label": "PMK No. 48/PMK.06/2014",
+   "about": "Perubahan Ketiga Atas Peraturan Menteri Keuangan Nomor 128/PMK.06/2007 Tentang Pengurusan Piutang Negara"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2011-163",
+   "target_bpk_id": 127190,
+   "label": "PMK No. 163/PMK.06/2011",
+   "about": "Perubahan Kedua Atas Peraturan Menteri Keuangan Nomor 128/PMK.06/2007 Tentang Pengurusan Piutang Negara"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2009-88",
+   "target_bpk_id": 169576,
+   "label": "PMK No. 88/PMK.06/2009",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 128/PMK.06/2007 tentang Pengurusan Piutang Negara"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2007-128",
+   "target_bpk_id": 169577,
+   "label": "PMK No. 128/PMK.06/2007",
+   "about": "Pengurusan Piutang Negara"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 30 Desember 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/112160/PMK%20Nomor%20240%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:31:06Z"
+}

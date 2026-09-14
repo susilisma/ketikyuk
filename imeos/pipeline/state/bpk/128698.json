@@ -1,0 +1,44 @@
+{
+ "id": "PERMENDAG-2017-51",
+ "source": "bpk",
+ "bpk_id": 128698,
+ "url": "https://peraturan.bpk.go.id/Details/128698/permendag-no-51m-dagper72017-tahun-2017",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "51",
+ "number_raw": "51/M-DAG/PER/7/2017",
+ "year": 2017,
+ "title": "Peraturan Menteri Perdagangan Nomor 51/M-DAG/PER/7/2017 Tahun 2017 tentang Perusahaan Perantara Perdagangan Properti",
+ "about": "Perusahaan Perantara Perdagangan Properti",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "",
+ "date_enacted": "2017-07-31",
+ "date_promulgated": "2017-08-03",
+ "date_effective": "2017-08-03",
+ "gazette": "BN .K2017/NO 1070; KEMENDAG.GO.ID : 30 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2025-33",
+   "target_bpk_id": 332960,
+   "label": "Permendag No. 33 Tahun 2025",
+   "about": "Standar Kegiatan Usaha dan/atau Standar Produk/Jasa pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Perdagangan dan Metrologi Legal"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2015-107",
+   "target_bpk_id": 129021,
+   "label": "Permendag No. 107/M-DAG/PER/12/2015 Tahun 2015",
+   "about": "Perubahan atas Peraturan Menteri Perdagangan Nomor 33/M-DAG/PER/482008 tentang Perusahaan Perantara Perdagangan Properti"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 03 Agustus 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/119631/Permendag%20No.%2051%20Tahun%202017.PDF"
+ ],
+ "fetched_at": "2026-09-14T06:36:58Z"
+}

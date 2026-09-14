@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2012-79",
+ "source": "bpk",
+ "bpk_id": 167730,
+ "url": "https://peraturan.bpk.go.id/Details/167730/pmk-no-79pmk022012",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "79",
+ "number_raw": "79/PMK.02/2012",
+ "year": 2012,
+ "title": "Peraturan Menteri Keuangan Nomor 79/PMK.02/2012 Tahun 2012 tentang Tata Cara Penyetoran dan Pelaporan Penerimaan Negara Dari Kegiatan Usaha Hulu Minyak Bumi dan/atau Gas Bumi dan Penghitungan Pajak Penghasilan untuk Keperluan Pembayaran Pajak Penghasilan Minyak Bumi dan/atau Gas Bumi Berupa Volume Minyak Bumi dan/atau Gas Bumi",
+ "about": "Tata Cara Penyetoran dan Pelaporan Penerimaan Negara Dari Kegiatan Usaha Hulu Minyak Bumi dan/atau Gas Bumi dan Penghitungan Pajak Penghasilan untuk Keperluan Pembayaran Pajak Penghasilan Minyak Bumi dan/atau Gas Bumi Berupa Volume Minyak Bumi dan/atau Gas Bumi",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERTAMBANGAN MIGAS, MINERAL DAN ENERGI - PERPAJAKAN",
+ "field": "",
+ "date_enacted": "2012-05-24",
+ "date_promulgated": "2012-05-24",
+ "date_effective": "2012-07-23",
+ "gazette": "BN 2012/ NO 544; PERATURAN.GO.ID : 13 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-81",
+   "target_bpk_id": 306614,
+   "label": "PMK No. 81 Tahun 2024",
+   "about": "Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2015-70",
+   "target_bpk_id": 114854,
+   "label": "PMK No. 70/PMK.03/2015",
+   "about": "Perubahan Atas Peraturan Menteri Keuangan Nomor 79/PMK.02/2012 Tentang Tata Cara Penyetoran Dan Pelaporan Penerimaan Negara Dari Kegiatan Usaha Hulu Minyak Bumi Dan/Atau Gas Bumi Dan Penghitungan Pajak Penghasilan Untuk Keperluan Pembayaran Pajak Penghasilan Minyak Bumi Dan/Atau Gas Bumi Berupa Volume Minyak Bumi Dan/Atau Gas Bumi"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 23 Juli 2012.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/160666/PMK%20Nomor%2079%20Tahun%202012.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:35:15Z"
+}

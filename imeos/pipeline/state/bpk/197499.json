@@ -1,0 +1,58 @@
+{
+ "id": "PMK-2021-192",
+ "source": "bpk",
+ "bpk_id": 197499,
+ "url": "https://peraturan.bpk.go.id/Details/197499/pmk-no-192pmk0102021",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "192",
+ "number_raw": "192/PMK.010/2021",
+ "year": 2021,
+ "title": "Peraturan Menteri Keuangan Nomor 192/PMK.010/2021 Tahun 2021 tentang Tarif Cukai Hasil Tembakau Berupa Sigaret, Cerutu, Rokok Daun atau Klobot, dan Tembakau Iris",
+ "about": "Tarif Cukai Hasil Tembakau Berupa Sigaret, Cerutu, Rokok Daun atau Klobot, dan Tembakau Iris",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN",
+ "field": "",
+ "date_enacted": "2021-12-17",
+ "date_promulgated": "2021-12-20",
+ "date_effective": "2021-12-20",
+ "gazette": "BN.2021/NO. 1385; https:jdih.kemenkeu.go.id : 18 Hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2024-97",
+   "target_bpk_id": 311469,
+   "label": "PMK No. 97 Tahun 2024",
+   "about": "Perubahan Ketiga atas Peraturan Menteri Keuangan Nomor 192/PMK.010/2021 tentang Tarif Cukai Hasil Tembakau Berupa Sigaret, Cerutu, Rokok Daun atau Klonot dan Tembakau Iris"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2022-191",
+   "target_bpk_id": 234018,
+   "label": "PMK No. 191/PMK.010/2022",
+   "about": "Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 192/PMK.010/2021 tentang Tarif Cukai Hasil Tembakau Berupa Sigaret, Cerutu, Rokok Daun atau Klobot, dan Tembakau Iris"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2022-109",
+   "target_bpk_id": 216377,
+   "label": "PMK No. 109/PMK.010/2022",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 192/PMK.010/2021 tentang Tarif Cukai Hasil Tembakau Berupa Sigaret, Cerutu, Rokok Daun atau Klobot, dan Tembakau Iris"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2020-198",
+   "target_bpk_id": 155891,
+   "label": "PMK No. 198/PMK.010/2020",
+   "about": "Tarif Cukai Hasil Tembakau"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 20 Desember 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/191387/192_PMK.010_2021.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:31:31Z"
+}

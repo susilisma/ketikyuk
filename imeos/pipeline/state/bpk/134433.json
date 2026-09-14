@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKUMHAM-2011-MHH02PW0203",
+ "source": "bpk",
+ "bpk_id": 134433,
+ "url": "https://peraturan.bpk.go.id/Details/134433/permenkumham-no-mhh-02pw0203-tahun-2011",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "MHH02PW0203",
+ "number_raw": "M.HH-02.PW.02.03",
+ "year": 2011,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor M.HH-02.PW.02.03 Tahun 2011 tentang Penyelenggaraan Sistem Pengendalian Intern Pemerintah di Lingkungan Kementerian Hukum dan Hak Asasi Manusia",
+ "about": "Penyelenggaraan Sistem Pengendalian Intern Pemerintah di Lingkungan Kementerian Hukum dan Hak Asasi Manusia",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "SISTEM PENGENDALIAN INTERN",
+ "field": "",
+ "date_enacted": "2011-08-25",
+ "date_promulgated": "2011-09-21",
+ "date_effective": "2011-09-21",
+ "gazette": "BN.2011/No.596, peraturan.go.id: 7 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 298145,
+   "label": "Permenkumham No. 18 Tahun 2024",
+   "about": "Penyelenggaraan Sistem Pengendalian Intern Pemerintah Terintegrasi di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 134392,
+   "label": "Permenkumham No. 33 Tahun 2013",
+   "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor M.HH 02.PW.02.03 Tahun 2011 Tentang Penyelenggaraan Sistem Pengendalian Intern Pemerintah di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 21 September 2011.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/125220/bn596-2011.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:42:34Z"
+}

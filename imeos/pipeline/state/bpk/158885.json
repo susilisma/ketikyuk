@@ -1,0 +1,47 @@
+{
+ "id": "PMK-2021-1",
+ "source": "bpk",
+ "bpk_id": 158885,
+ "url": "https://peraturan.bpk.go.id/Details/158885/pmk-no-1pmk052021",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "1",
+ "number_raw": "1/PMK.05/2021",
+ "year": 2021,
+ "title": "Peraturan Menteri Keuangan Nomor 1/PMK.05/2021 Tahun 2021 tentang Tarif Layanan Badan Layanan Umum Pusat Investasi Pemerintah pada Kementerian Keuangan",
+ "about": "Tarif Layanan Badan Layanan Umum Pusat Investasi Pemerintah pada Kementerian Keuangan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BADAN LAYANAN UMUM",
+ "field": "",
+ "date_enacted": "2021-01-14",
+ "date_promulgated": "2021-01-15",
+ "date_effective": "2021-01-15",
+ "gazette": "BN.2021/NO. 21, https:jdih.kemenkeu.go.id : 10 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-40",
+   "target_bpk_id": 320489,
+   "label": "PMK No. 40 Tahun 2025",
+   "about": "Tarif Layanan Badan Layanan Umum Pusat Investasi Pemerintah Pada Kementerian Keuangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2018-96",
+   "target_bpk_id": 113138,
+   "label": "PMK No. 96/PMK.05/2018",
+   "about": "Tarif Layanan Badan Layanan Umum Pusat Investasi Pemerintah Pada Kementerian Keuangan"
+  }
+ ],
+ "abstract": "bahwa berdasarkan ketentuan Pasal 9 Peraturan Pemerintah Nomor 23 Tahun 2005 tentang Pengelolaan Keuangan Badan Layanan Umum sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 74 Tahun 2012, Badan Layanan Umum Pusat Investasi Pemerintah pada Kementerian Keuangan telah ditetapkan sebagai Instansi Pemerintah yang menerapkan Pengelolaan Keuangan Badan Layanan Umum yang\nditetapkan atas usulan Menteri Keuangan melalui Surat Nomor S-154/MK.5/2020, telah dibahas dan dikaji oleh Tim Penilai.\nPasal 17 ayat (3) UUD Tahun 1945, UU 1 Tahun 2004 (LN Tahun 2004 No.5, TLN No.4355), UU 39 Tahun 2008 (LN Tahun 2008 No.166, TLN No.4916), PP No. 23 Tahun 2005 (LN Tahun 2005 No. 48, TLN 4502) sebagaimana telah diubah dengan PP No. 74 Tahun 2012 (LN Tahun 2012 No. 171, TLN 5340), Perpres RI 57 Tahun 2020 (LN Tahun 2020 No.98), Permenkeu RI 217/PMK.01/2018 (BN Tahun 2018 No.1862) sebagaimana telah beberapa kali diubah, terakhir dengan Permenkeu RI 229/PMK.01/2019 (BN Tahun 2019 No.1745), Permenkeu RI 129/PMK.05/2020 (BN Tahun 2020 No.1046)\nTarif layanan Badan Layanan Umum Pusat Investasi Pemerintah pada Kementerian Keuangan merupakan imbalan atas jasa layanan pembiayaan ultra mikro dari Badan Layanan Umum Pusat Investasi Pemerintah pada Kementerian Keuangan kepada penyalur dan/atau linkage. Tarif layanan Badan Layanan Umum Pusat Investasi Pemerintah pada Kementerian Keuangan terdiri atas tarif layanan pembiayaan ultra mikro melalui pembiayaan konvensional dan tarif layanan pembiayaan ultra mikro melalui pembiayaan syariah. Badan Layanan Umum Pusat Investasi Pemerintah pada Kementerian Keuangan dapat memberikan jasa layanan pembiayaan ultra mikro kepada penyalur dan/atau linkage dalam bentuk kerja sama pendanaan dengan pemerintah daerah dan/atau pihak lainnya. Badan Layanan Umum Pusat Investasi Pemerintah pada Kementerian Keuangan dapat melakukan kerja sama program dengan pihak lain untuk meningkatkan layanan jasa di bidang pembiayaan ultra mikro dan pelaksanaan investasi pemerintah. Terhadap penyaluran pembiayaan dengan tujuan tertentu dapat dikenakan tarif layanan sampai dengan 0% dari tarif layanan sebagaimana dimaksud dalam Pasal 4 sampai dengan Pasal 7.",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 15 Januari 2021.\nMencabut Peraturan Menteri Keuangan Nomor 96/PMK.05/2018 tentang Tarif Layanan Badan layanan Umum Pusat Investasi Pemerintah\npada Kementerian Keuangan\n10 HLM.",
+ "citations": [
+  "PP-2005-23",
+  "PP-2012-74"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/151368/1_PMK.05_2021.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:33:44Z"
+}

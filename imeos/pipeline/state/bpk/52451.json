@@ -1,0 +1,44 @@
+{
+ "id": "PP-2002-38",
+ "source": "bpk",
+ "bpk_id": 52451,
+ "url": "https://peraturan.bpk.go.id/Details/52451/pp-no-38-tahun-2002",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "38",
+ "number_raw": "38",
+ "year": 2002,
+ "title": "Peraturan Pemerintah (PP) Nomor 38 Tahun 2002 tentang Daftar Koordinat Geografis Titik-Titik Garis Pangkal Kepulauan Indonesia",
+ "about": "Daftar Koordinat Geografis Titik-Titik Garis Pangkal Kepulauan Indonesia",
+ "issuer": "Pemerintah Pusat",
+ "subject": "TERITORIAL INDONESIA",
+ "field": "",
+ "date_enacted": "2002-06-28",
+ "date_promulgated": "2002-06-28",
+ "date_effective": "2002-06-28",
+ "gazette": "LN. 2002 No. 72, TLN No. 4211, LL 8 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2026-14",
+   "target_bpk_id": 349406,
+   "label": "PP No. 14 Tahun 2026",
+   "about": "Perubahan Kedua atas Peraturan Pemerintah Nomor 38 Tahun 2002 tentang Daftar Koordinat Geografis Titik-Titik Garis Pangkal Kepulauan Indonesia"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2008-37",
+   "target_bpk_id": 4851,
+   "label": "PP No. 37 Tahun 2008",
+   "about": "Perubahan Atas Peraturan Pemerintah Nomor 38 Tahun 2002 Tentang Daftar Koordinat Geografis Titik Titik Garis Pangkal Kepulauan Indonesia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 28 Juni 2002.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/41794/PP%20No.38%20TH%202002.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:28:11Z"
+}

@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2012-83",
+ "source": "bpk",
+ "bpk_id": 41328,
+ "url": "https://peraturan.bpk.go.id/Details/41328/perpres-no-83-tahun-2012",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "83",
+ "number_raw": "83",
+ "year": 2012,
+ "title": "Peraturan Presiden (Perpres) Nomor 83 Tahun 2012 tentang Organisasi dan Tata Kerja Instansi Vertikal Kementerian Hukum dan Hak Asasi Manusia",
+ "about": "Organisasi dan Tata Kerja Instansi Vertikal Kementerian Hukum dan Hak Asasi Manusia",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA - STRUKTUR ORGANISASI",
+ "field": "",
+ "date_enacted": "2012-10-17",
+ "date_promulgated": "2012-10-17",
+ "date_effective": "2012-10-17",
+ "gazette": "LN.2012/NO.194, LL SETKAB : 12 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-155",
+   "target_bpk_id": 306674,
+   "label": "Perpres No. 155 Tahun 2024",
+   "about": "Kementerian Hukum"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 55740,
+   "label": "KEPPRES No. 64 Tahun 2004",
+   "about": "Kedudukan, Tugas, Fungsi, Susunan Organisasi, Dan Tata Kerja Instansi Vertikal Di Lingkungan Departemen Kehakiman Dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 17 Oktober 2012.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/69233/Peraturan%20Presiden%20No%2083%20Tahun%202012.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:28:18Z"
+}

@@ -1,0 +1,51 @@
+{
+ "id": "PERMENPERIN-2012-54",
+ "source": "bpk",
+ "bpk_id": 268783,
+ "url": "https://peraturan.bpk.go.id/Details/268783/permenperin-no-54m-indper32012-tahun-2012",
+ "form": "PERMENPERIN",
+ "form_long": "Peraturan Menteri Perindustrian",
+ "number": "54",
+ "number_raw": "54/M-IND/PER/3/2012",
+ "year": 2012,
+ "title": "Peraturan Menteri Perindustrian Nomor 54/M-IND/PER/3/2012 Tahun 2012 tentang Pedoman Penggunaan Produk Dalam Negeri untuk Pembangunan Infrastruktur Ketenagalistrikan",
+ "about": "Pedoman Penggunaan Produk Dalam Negeri untuk Pembangunan Infrastruktur Ketenagalistrikan",
+ "issuer": "Kementerian Perindustrian",
+ "subject": "PERTAMBANGAN MIGAS, MINERAL DAN ENERGI - PERINDUSTRIAN",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2012-03-21",
+ "date_promulgated": "2012-03-26",
+ "date_effective": "2012-07-01",
+ "gazette": "BN 2012 (342) : 26 hlm.; jdih.kemenperin.go.id",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENPERIN-2024-33",
+   "target_bpk_id": 296084,
+   "label": "Permenperin No. 33 Tahun 2024",
+   "about": "Pencabutan Peraturan Menteri Perindustrian Nomor 54/M-IND/PER/3/2012 tentang Pedoman Penggunaan Produk Dalam Negeri Untuk Pembangunan Infrastruktur Ketenagalistrikan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENPERIN-2023-23",
+   "target_bpk_id": 268782,
+   "label": "Permenperin No. 23 Tahun 2023",
+   "about": "Perubahan Kedua atas Peraturan Menteri Perindustrian Nomor 54/M­-IND/PER/3/2012 tentang Pedoman Penggunaan Produk Dalam Negeri untuk Pembangunan Infrastruktur Ketenagalistrikan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENPERIN-2017-5",
+   "target_bpk_id": 268784,
+   "label": "Permenperin No. 5/M-IND/PER/2/2017 Tahun 2017",
+   "about": "Perubahan atas Peraturan Menteri Perindustrian Nomor 54/M­-IND/PER/3/2012 tentang Pedoman Penggunaan Produk Dalam Negeri untuk Pembangunan Infrastruktur Ketenagalistrikan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perindustrian ini mulai berlaku pada tanggal 01 Juli 2012.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/326163/Permenperind%20Nomor%2054%20Tahun%202012.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:39:46Z"
+}

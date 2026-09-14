@@ -1,0 +1,57 @@
+{
+ "id": "PERMENDAG-2024-11",
+ "source": "bpk",
+ "bpk_id": 287391,
+ "url": "https://peraturan.bpk.go.id/Details/287391/permendag-no-11-tahun-2024",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "11",
+ "number_raw": "11",
+ "year": 2024,
+ "title": "Peraturan Menteri Perdagangan Nomor 11 Tahun 2024 tentang Perubahan Atas Peraturan Menteri Perdagangan Nomor 23 Tahun 2023 Tentang Kebijakan Dan Pengaturan Ekspor",
+ "about": "Perubahan Atas Peraturan Menteri Perdagangan Nomor 23 Tahun 2023 Tentang Kebijakan Dan Pengaturan Ekspor",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN - KEBIJAKAN PEMERINTAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-05-30",
+ "date_promulgated": "2024-05-31",
+ "date_effective": "2024-06-01",
+ "gazette": "BN.2024 (289)/455 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENDAG-2024-21",
+   "target_bpk_id": 301113,
+   "label": "Permendag No. 21 Tahun 2024",
+   "about": "Perubahan Kedua atas Peraturan Menteri Perdagangan Nomor 23 Tahun 2023 tentang Kebijakan dan Pengaturan Ekspor"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENDAG-2023-23",
+   "target_bpk_id": 260195,
+   "label": "Permendag No. 23 Tahun 2023",
+   "about": "Kebijakan dan Pengaturan Ekspor"
+  }
+ ],
+ "abstract": "a. bahwa untuk melaksanakan kebijakan pemberian\nkesempatan penjualan hasil pengolahan mineral logam\nkomoditas tembaga, besi, timbal, dan seng ke luar negeri\nserta memberikan kepastian hukum dan kepastian\nberusaha bagi eksportir, perlu mengubah Peraturan\nMenteri Perdagangan Nomor 23 Tahun 2023 tentang\nKebijakan dan Pengaturan Ekspor;\nb. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a, perlu menetapkan Peraturan\nMenteri Perdagangan tentang Perubahan atas Peraturan\nMenteri Perdagangan Nomor 23 Tahun 2023 tentang\nKebijakan dan Pengaturan Ekspor;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 7 Tahun 1994, Undang-Undang Nomor 10 Tahun 1995, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 7 Tahun 2014, Peraturan Pemerintah Nomor 83 Tahun 2010, Peraturan Pemerintah Nomor 29 Tahun 2021, Peraturan Pemerintah Nomor 40 Tahun 2021, Peraturan Pemerintah Nomor 41 Tahun 2021, Peraturan Presiden Nomor 11 Tahun 2022, Peraturan Menteri Perdagangan Nomor 29 Tahun 2022, Peraturan Menteri Perdagangan Nomor 23 Tahun 2023 dan Peraturan Menteri Energi dan Sumber Daya Mineral Nomor 6 Tahun 2024\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri Perdagangan\nNomor 23 Tahun 2023 tentang Kebijakan dan Pengaturan Ekspor yaitu tentang Produk pertambangan hasil pengolahan dan/atau pemurnian dan lampiran.",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 01 Juni 2024.\nPeraturan Menteri Perdagangan Nomor 23 Tahun 2023 tentang Kebijakan dan Pengaturan Ekspor diubah sebagian",
+ "citations": [
+  "UU-1994-7",
+  "UU-1995-10",
+  "UU-2008-39",
+  "UU-2014-7",
+  "PP-2010-83",
+  "PP-2021-29",
+  "PP-2021-40",
+  "PP-2021-41",
+  "PERPRES-2022-11",
+  "PERMENDAG-2022-29",
+  "PERMENDAG-2023-23",
+  "PERATURANMENTERI-2024-6"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/346580/Permendag%2011%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:37:48Z"
+}

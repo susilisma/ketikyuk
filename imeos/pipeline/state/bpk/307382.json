@@ -1,0 +1,47 @@
+{
+ "id": "UU-2024-100",
+ "source": "bpk",
+ "bpk_id": 307382,
+ "url": "https://peraturan.bpk.go.id/Details/307382/uu-no-100-tahun-2024",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "100",
+ "number_raw": "100",
+ "year": 2024,
+ "title": "Undang-undang (UU) Nomor 100 Tahun 2024 tentang Kota Bogor di Provinsi Jawa Barat",
+ "about": "Kota Bogor di Provinsi Jawa Barat",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-10-28",
+ "date_promulgated": "2024-10-28",
+ "date_effective": "2024-10-28",
+ "gazette": "LN 2024 (286), TLN (7037) : 6 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-1954-13",
+   "target_bpk_id": 47958,
+   "label": "UU No. 13 Tahun 1954",
+   "about": "Pengubahan Undang-Undang Nr 16 dan 17 Tahun 1950 (Republik Indonesia Dahulu) Tentang Pembentukan Kota-Kota Besar dan Kota-Kota Kecil di Jawa"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-1950-16",
+   "target_bpk_id": 47963,
+   "label": "UU No. 16 Tahun 1950",
+   "about": "Pembentukan Daerah-Daerah Kota Besar Dalam Lingkungan Propinsi Jawa Timur, Jawa Tengah, Jawa Barat Dan Daerah Istimewa Yogyakarta"
+  }
+ ],
+ "abstract": "Undang-Undang Nomor 16 Tahun 1950 tentang pembentukan daerah-daerah Kota Besar dalam lingkungan Propinsi jawa Timur, jawa Tengah, jawa Barat, dan dalam Daerah Istimewa Jogjakarta sebagaimana telah diubah dengan Undang-Undang Nomor 13 Tahun 1954 tentang Perubahan Undang-Undang Nr 16 dan Nr 17 Tahun-1950 tentang Pembentukan Kota-Kota Besar dan Kota-Kota Kecil di Jawa, yang menjadi dasar pembentukan Kota Bogor, sudah tidak sesuai lagi dengan perkembangan hukum sehingga perlu diganti.\nDasar hukum UU ini adalah Pasal 18, Pasal 18A, Pasal 18B ayat (2), Pasal 20, Pasal 21, dan Pasal 22D ayat (2) UUD 1945.\nUU ini mengatur mengenai Kota Bogor di Provinsi Jawa Barat dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Kota Bogor terdiri atas 6 (enam) Kecamatan.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 28 Oktober 2024.\nPada saat Undang-Undang ini mulai berlaku, ketentuan yang mengatur mengenai Kota Bogor dalam Undang-Undang Nomor 16 Tahun 1950 tentang pembentukan daerah-daerah Kota Besar dalam lingkungan Propinsi jawa Timur, jawa Tengah, jawa Barat, dan Dalam Daerah Istimewa Jogjakarta (Berita Negara Republik Indonesia Tahun 1950 Nomor 45) sebagaimana telah diubah dengan Undang-Undang Nomor 13 Tahun 1954 tentang Perubahan Undang-Undang Nr 16 Dan Nr 17 Tahun-1950 tentang Pembentukan Kota-Kota Besar dan Kota-Kota Kecil di Jawa, dicabut dan dinyatakan tidak berlaku.\nLampiran file: 9 hlm (batang tubuh hlm 1 sd 6, lampiran hlm 7 sd 9)",
+ "citations": [
+  "UU-1950-16",
+  "UU-1954-13"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/367775/UU%20Nomor%20100%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:25:30Z"
+}

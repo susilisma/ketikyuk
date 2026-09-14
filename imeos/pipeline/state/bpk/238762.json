@@ -1,0 +1,58 @@
+{
+ "id": "PMK-2022-231",
+ "source": "bpk",
+ "bpk_id": 238762,
+ "url": "https://peraturan.bpk.go.id/Details/238762/pmk-no-231pmk052022",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "231",
+ "number_raw": "231/PMK.05/2022",
+ "year": 2022,
+ "title": "Peraturan Menteri Keuangan Nomor 231/PMK.05/2022 Tahun 2022 tentang Kebijakan Akuntansi Pemerintah Pusat",
+ "about": "Kebijakan Akuntansi Pemerintah Pusat",
+ "issuer": "Kementerian Keuangan",
+ "subject": "KEBIJAKAN AKUNTANSI",
+ "field": "",
+ "date_enacted": "2022-12-30",
+ "date_promulgated": "2022-12-30",
+ "date_effective": "2022-12-30",
+ "gazette": "BN.2022/NO. 1451; https:jdih.kemenkeu.go.id : 5 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-100",
+   "target_bpk_id": 341740,
+   "label": "PMK No. 100 Tahun 2025",
+   "about": "Kebijakan Akuntansi Pemerintah Pusat"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2023-57",
+   "target_bpk_id": 254032,
+   "label": "PMK No. 57 Tahun 2023",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 231/PMK.05/2022 tentang Kebijakan Akuntansi Pemerintah Pusat"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2022-85",
+   "target_bpk_id": 215948,
+   "label": "PMK No. 85/PMK.05/2022",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 22/PMK.05/2022 tentang Kebijakan Akuntansi Pemerintah Pusat"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2022-22",
+   "target_bpk_id": 215087,
+   "label": "PMK No. 22/PMK.05/2022",
+   "about": "Kebijakan Akuntansi Pemerintah Pusat"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 30 Desember 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/293506/231_PMK.05_2022.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:32:02Z"
+}

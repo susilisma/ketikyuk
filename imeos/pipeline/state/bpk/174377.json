@@ -1,0 +1,41 @@
+{
+ "id": "PERPRES-2021-63",
+ "source": "bpk",
+ "bpk_id": 174377,
+ "url": "https://peraturan.bpk.go.id/Details/174377/perpres-no-63-tahun-2021",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "63",
+ "number_raw": "63",
+ "year": 2021,
+ "title": "Peraturan Presiden (Perpres) Nomor 63 Tahun 2021 tentang Kementerian Investasi",
+ "about": "Kementerian Investasi",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI - STRUKTUR ORGANISASI",
+ "field": "",
+ "date_enacted": "2021-07-29",
+ "date_promulgated": "2021-07-29",
+ "date_effective": "2021-07-29",
+ "gazette": "LN.2021/No.159, jdih.setneg.go.id : 10 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-184",
+   "target_bpk_id": 306781,
+   "label": "Perpres No. 184 Tahun 2024",
+   "about": "Kementerian Investasi dan Hilirasi"
+  }
+ ],
+ "abstract": "Sebagai tindak lanjut ditetapkannya Keppres Nomor 72/P Tahun 2021 tentang Pembentukan dan Pengubahan Kementerian serta Penggantian Beberapa Menteri Negara Kabinet Indonesia Maju Periode Tahun 2019-2024 dan untuk melaksanakan ketentuan Pasal 11 Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara, perlu menetapkan Perpres tentang Kementerian Investasi.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) dan Pasal 17 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 39 Tahun 2008; UU Nomor 11 Tahun 2020; dan Perpres Nomor 68 Tahun 2019.\nPerpres ini mengatur mengenai: 1) kedudukan, tugas, dan fungsi; 2) organisasi; 3) tata kerja; dan 4) pendanaan Kementerian Investasi. Kedudukan Kementerian Investasi berada di bawah dan bertanggung jawab kepada presiden yang dipimpin oleh menteri. Dalam memimpin kementeriannya, Menteri Investasi dapat dibantu oleh Wakil Menteri sesuai dengan penunjukan presiden. Kementerian Investasi mempunyai tugas menyelenggarakan urusan pemerintahan di bidang investasi untuk membantu Presiden dalam menyelenggarakan pemerintahan negara.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 29 Juli 2021.\nSusunan organisasi Kementerian Investasi terdiri atas Sekretariat Kementerian dan beberapa Staf Ahli. Segala pendanaan yang diperlukan untuk pelaksanaan tugas dan fungsi Kementerian Investasi dibebankan pada APBN.\nKementerian Investasi dalam melaksanakan tugasnya menggunakan unit organisasi dan sumber daya di lingkungan Badan Koordinasi Penanaman Modal.",
+ "citations": [
+  "UU-2008-39",
+  "UU-2020-11",
+  "PERPRES-2019-68"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/167573/Perpres%20Nomor%2063%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:27:11Z"
+}

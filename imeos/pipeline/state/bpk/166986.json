@@ -1,0 +1,47 @@
+{
+ "id": "PERMENPERIN-2020-20",
+ "source": "bpk",
+ "bpk_id": 166986,
+ "url": "https://peraturan.bpk.go.id/Details/166986/permenperin-no-20-tahun-2020",
+ "form": "PERMENPERIN",
+ "form_long": "Peraturan Menteri Perindustrian",
+ "number": "20",
+ "number_raw": "20",
+ "year": 2020,
+ "title": "Peraturan Menteri Perindustrian Nomor 20 Tahun 2020 tentang Pemberlakuan Standar Nasional Indonesia Kertas dan Karton Untuk Kemasan Pangan Secara Wajib",
+ "about": "Pemberlakuan Standar Nasional Indonesia Kertas dan Karton Untuk Kemasan Pangan Secara Wajib",
+ "issuer": "Kementerian Perindustrian",
+ "subject": "STANDAR / PEDOMAN",
+ "field": "",
+ "date_enacted": "2020-08-06",
+ "date_promulgated": "2020-08-11",
+ "date_effective": null,
+ "gazette": "BN 2020/ No 893; http://jdih.kemenperin.go.id/; 27 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENPERIN-2025-6",
+   "target_bpk_id": 321075,
+   "label": "Permenperin No. 6 Tahun 2025",
+   "about": "Pemberlakuan Standar Nasional Indonesia untuk Kertas dan Karton Sebagai Bahan Baku Pembuatan Kemasan Primer untuk Pangan Secara Wajib"
+  }
+ ],
+ "abstract": "a. bahwa untuk melindungi keamanan, kesehatan dan keselamatan ,masyarakat dari pengguna kertas dan karton untuk kemasan pangan, meningkatkan daya saing industri kertas dan karton untuk kemasan pangan nasional dan menciptakan persaingan usaha yang sehat, perlu memberlakukan Standar Nasional Indonesia kertas dan karton untuk kemasan pangan;\nb. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, perlu menetapkan Peraturan Menteri Perindustrian tentang pemberlakuan standar nasional Indonesia kertas dan karton untuk kemasan pangan secara wajib;\nPasal 17 ayat (3) UUD 1945, UU Nomor 39 Tahun 2008, UU Nomor 20 Tahun 2014, PP Nomor 2 Tahun 2017, PP nomor 34 Tahun 2018, Perpres Nomor 29 Tahun 2015, Perpres Nomor 68 Tahun 2018, Peraturan Menteri Perindustrian Nomor 86/M-IND/9/2009, Peraturan Kepala Badan Standarisasi Nasional Nomor 3 Tahun 2012, Peraturan Menteri Perindustrian Nomor 4 Tahun 2008 dan Peraturan Menteri Perindustrian Nomor 35 Tahun 2018\nPeraturan Menteri ini mengatur tentang ketentuan umum, lingkup pemberlakuan wajib, sertifikasi produk, pendanaan, tanggung jawab pelaku usaha, pembinaan dan pengawasan, sanksi dan ketentuan penutup",
+ "note": "Peraturan Menteri Perindustrian ini mulai berlaku pada tanggal .",
+ "citations": [
+  "UU-2008-39",
+  "UU-2014-20",
+  "PP-2017-2",
+  "PP-2018-34",
+  "PERPRES-2015-29",
+  "PERPRES-2018-68",
+  "PERMENPERIN-2009-86",
+  "PERMENPERIN-2008-4",
+  "PERMENPERIN-2018-35"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/159913/Permenperin_No._20_Tahun_2020_1.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:38:59Z"
+}

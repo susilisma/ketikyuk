@@ -1,0 +1,40 @@
+{
+ "id": "PERPRES-2025-60",
+ "source": "bpk",
+ "bpk_id": 320329,
+ "url": "https://peraturan.bpk.go.id/Details/320329/perpres-no-60-tahun-2025",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "60",
+ "number_raw": "60",
+ "year": 2025,
+ "title": "Peraturan Presiden (Perpres) Nomor 60 Tahun 2025 tentang Universitas Islam Negeri Abdul Muthalib Sangadji Ambon",
+ "about": "Universitas Islam Negeri Abdul Muthalib Sangadji Ambon",
+ "issuer": "Pemerintah Pusat",
+ "subject": "ILMU PENGETAHUAN DAN TEKNOLOGI - PENDIDIKAN - PENDIDIKAN DAN PELATIHAN",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2025-05-08",
+ "date_promulgated": "2025-05-08",
+ "date_effective": "2025-05-08",
+ "gazette": "LN 2025 (86) : 4 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2006-111",
+   "target_bpk_id": 42040,
+   "label": "PERPRES No. 111 Tahun 2006",
+   "about": "Perubahan Sekolah Tinggi Agama Islam Negeri Ambon Menjadi Institut Agama Islam Ambon"
+  }
+ ],
+ "abstract": "Dalam rangka memenuhi tuntutan perkembangan ilmu pengetahuan dan teknologi dan proses integrasi ilmu agama Islam dengan ilmu lain serta mewujudkan sumber daya manusia yang berkualias, perlu menetapkan Peraturan Presiden tentang Universitas Islam Negeri Abdul Muthalib\nSangadji Ambon.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD NRI Tahun 1945, UU No. 12 Tahun 2012, dan PP No. 46 Tahun 2019.\nPerpres ini mengatur mengenai Universitas Islam Negeri Abdul Muthalib\nSangadji Ambon sebagai perubahan bentuk dari Institut Agama Islam Negeri Ambon untuk menyelenggarakan urusan pemerintahan di bidang agama, yang berada di bawah dan bertanggung jawab kepada menteri yang menyelenggarakan urusan pemerintahan di bidang agama. Peraturan ini menyatakan bahwa Universitas Islam Negeri Abdul Muthalib Sangadji Ambon dapat menyelenggarakan program pendidikan tinggi ilmu lain untuk mendukung penyelenggaraan program pendidikan tinggi ilmu agama Islam yang merupakan lingkup urusan pemerintahan di bidang pendidikan.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 08 Mei 2025.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 111 Tahun 2006 tentang Perubahan Sekolah Tinggi Agama Islam Negeri Ambon menjadi Institut Agama Islam Negeri Ambon, dicabut dan dinyatakan tidak berlaku.\nLampiran File: 4 hlm",
+ "citations": [
+  "UU-2012-12",
+  "PP-2019-46"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/381969/Perpres%20Nomor%2060%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:33:23Z"
+}

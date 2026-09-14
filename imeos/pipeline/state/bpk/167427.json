@@ -1,0 +1,44 @@
+{
+ "id": "PERMENPERIN-2020-60",
+ "source": "bpk",
+ "bpk_id": 167427,
+ "url": "https://peraturan.bpk.go.id/Details/167427/permenperin-no-60-tahun-2020",
+ "form": "PERMENPERIN",
+ "form_long": "Peraturan Menteri Perindustrian",
+ "number": "60",
+ "number_raw": "60",
+ "year": 2020,
+ "title": "Peraturan Menteri Perindustrian Nomor 60 Tahun 2020 tentang Perubahan Atas Peraturan Menteri Perindustrian Nomor 3 Tahun 2020 tentang Jabatan dan Kelas Jabatan di Lingkungan Kementerian Perindustrian",
+ "about": "Perubahan Atas Peraturan Menteri Perindustrian Nomor 3 Tahun 2020 tentang Jabatan dan Kelas Jabatan di Lingkungan Kementerian Perindustrian",
+ "issuer": "Kementerian Perindustrian",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA - JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "",
+ "date_enacted": "2020-12-23",
+ "date_promulgated": "2020-12-30",
+ "date_effective": "2020-12-30",
+ "gazette": "BN 2020/ No 1649 http://jdih.kemenperin.go.id/; 5 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENPERIN-2024-11",
+   "target_bpk_id": 287643,
+   "label": "Permenperin No. 11 Tahun 2024",
+   "about": "Pencabutan Peraturan Menteri Perindustrian Nomor 3 Tahun 2020 Tentang Jabatan Dan Kelas Jabatan Di Lingkungan Kementerian Perindustrian Sebagaimana Telah Diubah Dengan Peraturan Menteri Perindustrian Nomor 60 Tahun 2020 Tentang Perubahan Atas Peraturan Menteri Perindustrian Nomor 3 Tahun 2020 Tentang Jabatan Dan Kelas Jabatan Di Lingkungan Kementerian Perindustrian"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENPERIN-2020-3",
+   "target_bpk_id": 166933,
+   "label": "Permenperin No. 3 Tahun 2020",
+   "about": "Jabatan Dan Kelas Jabatan Di Lingkungan Kementerian Perindustrian"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perindustrian ini mulai berlaku pada tanggal 30 Desember 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/160360/Permenperin_No._60_Tahun_2020_2.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:40:19Z"
+}

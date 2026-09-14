@@ -1,0 +1,37 @@
+{
+ "id": "PMK-2021-133",
+ "source": "bpk",
+ "bpk_id": 179716,
+ "url": "https://peraturan.bpk.go.id/Details/179716/pmk-no-133pmk032021",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "133",
+ "number_raw": "133/PMK.03/2021",
+ "year": 2021,
+ "title": "Peraturan Menteri Keuangan Nomor 133/PMK.03/2021 Tahun 2021 tentang Peraturan Pelaksanaan Peraturan Pemerintah Nomor 86 Tahun 2021 tentang Pengadaan, Pengelolaan, dan Penjualan Meterai",
+ "about": "Peraturan Pelaksanaan Peraturan Pemerintah Nomor 86 Tahun 2021 tentang Pengadaan, Pengelolaan, dan Penjualan Meterai",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PENGADAAN BARANG / JASA",
+ "field": "",
+ "date_enacted": "2021-09-29",
+ "date_promulgated": "2021-09-29",
+ "date_effective": "2021-09-29",
+ "gazette": "BN.2021/NO. 1108; https:jdih.kemenkeu.go.id : 38 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-78",
+   "target_bpk_id": 306425,
+   "label": "PMK No. 78 Tahun 2024",
+   "about": "Ketentuan Pelaksanaan Bea Materai"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 29 September 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/173107/133_PMK.03_2021.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:35:26Z"
+}

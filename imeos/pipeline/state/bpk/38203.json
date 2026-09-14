@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2016-4",
+ "source": "bpk",
+ "bpk_id": 38203,
+ "url": "https://peraturan.bpk.go.id/Details/38203/perpres-no-4-tahun-2016",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "4",
+ "number_raw": "4",
+ "year": 2016,
+ "title": "Peraturan Presiden (Perpres) Nomor 4 Tahun 2016 tentang Percepatan Pembangunan Infrastruktur Ketenagalistrikan",
+ "about": "Percepatan Pembangunan Infrastruktur Ketenagalistrikan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERTAMBANGAN MIGAS, MINERAL DAN ENERGI - PROGRAM, RENCANA PEMBANGUNAN DAN RENCANA KERJA",
+ "field": "",
+ "date_enacted": "2016-01-08",
+ "date_promulgated": "2016-01-19",
+ "date_effective": "2016-01-19",
+ "gazette": "LN.2016/NO.8, LL SETNEG : 40 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2025-89",
+   "target_bpk_id": 328989,
+   "label": "Perpres No. 89 Tahun 2025",
+   "about": "Perubahan Kedua atas Peraturan Presiden Nomor 4 Tahun 2016 tentang Percepatan Pembangunan Infrastruktur Ketenagalistrikan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2017-14",
+   "target_bpk_id": 62164,
+   "label": "PERPRES No. 14 Tahun 2017",
+   "about": "Perubahan Atas Peraturan Presiden No 4 Tahun 2016 tentang Percepatan Pembangunan Infrastruktur Ketenagalistrikan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 19 Januari 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/261810/Perpres%20Nomor%204%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:51Z"
+}

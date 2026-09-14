@@ -1,0 +1,37 @@
+{
+ "id": "PMK-2011-257",
+ "source": "bpk",
+ "bpk_id": 127265,
+ "url": "https://peraturan.bpk.go.id/Details/127265/pmk-no-257pmk0112011",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "257",
+ "number_raw": "257/PMK.011/2011",
+ "year": 2011,
+ "title": "Peraturan Menteri Keuangan Nomor 257/PMK.011/2011 Tahun 2011 tentang Tata Cara Pemotongan Dan Pembayaran Pajak Penghasilan Atas Penghasilan Lain Kontraktor Berupa Uplift Atau Imbalan Lain Yang Sejenis Dan/Atau Penghasilan Kontraktor Dari Pengalihan Participating Interest",
+ "about": "Tata Cara Pemotongan Dan Pembayaran Pajak Penghasilan Atas Penghasilan Lain Kontraktor Berupa Uplift Atau Imbalan Lain Yang Sejenis Dan/Atau Penghasilan Kontraktor Dari Pengalihan Participating Interest",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "",
+ "date_enacted": "2011-12-28",
+ "date_promulgated": "2011-12-28",
+ "date_effective": "2011-12-28",
+ "gazette": "BN.2011/NO.946, jdih.kemenkeu.go.id : 9 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-81",
+   "target_bpk_id": 306614,
+   "label": "PMK No. 81 Tahun 2024",
+   "about": "Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 28 Desember 2011.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/118278/2011%20PMK%20257.PDF"
+ ],
+ "fetched_at": "2026-09-14T06:35:16Z"
+}

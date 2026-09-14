@@ -1,0 +1,39 @@
+{
+ "id": "UU-2024-51",
+ "source": "bpk",
+ "bpk_id": 295282,
+ "url": "https://peraturan.bpk.go.id/Details/295282/uu-no-51-tahun-2024",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "51",
+ "number_raw": "51",
+ "year": 2024,
+ "title": "Undang-undang (UU) Nomor 51 Tahun 2024 tentang Kabupaten Solok di Provinsi Sumatera Barat",
+ "about": "Kabupaten Solok di Provinsi Sumatera Barat",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2024-08-07",
+ "date_promulgated": "2024-08-07",
+ "date_effective": "2024-08-07",
+ "gazette": "LN 2024 (157), TLN (6972): 6 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-1956-12",
+   "target_bpk_id": 51095,
+   "label": "UU No. 12 Tahun 1956",
+   "about": "Pembentukan Daerah Otonom Kabupaten Dalam Lingkungan Daerah Propinsi Sumatera Tengah"
+  }
+ ],
+ "abstract": "Undang-undang Nomor 12 Tahun 1956 tentang pembentukan Daerah Otonom Kabupaten dalam lingkungan Daerah Propinsi Sumatera Tengah sudah tidak sesuai lagi dengan perkembangan hukum sehingga perlu diganti.\nDasar hukum UU ini adalah Pasal 18, Pasal 18A, Pasal 18B ayat (2), Pasal 20, Pasal 21, dan Pasal 22D ayat (2) UUD 1945.\nUU ini mengatur tentang Kabupaten Solok di Provinsi Sumatera Barat dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Kabupaten Solok terdiri atas 14 (empat belas) kecamatan. Ibu Kota Kabupaten Solok bernama Arosuka yang berkedudukan di Kecamatan Gunung Talang.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 07 Agustus 2024.\nPada saat Undang-Undang ini mulai berlaku, ketentuan yang mengatur mengenai Kabupaten Solok dalam Undang- undang Nomor 12 Tahun 1956 tentang pembentukan Daerah Otonom Kabupaten dalam lingkungan Daerah Propinsi Sumatera Tengah (Lembaran Negara Nomor 25 Tahun 1956), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 9 hlm.",
+ "citations": [
+  "UU-1956-12"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/354664/UU%20Nomor%2051%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:26:42Z"
+}

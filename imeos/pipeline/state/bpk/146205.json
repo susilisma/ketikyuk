@@ -1,0 +1,44 @@
+{
+ "id": "PERMENAKER-2016-35",
+ "source": "bpk",
+ "bpk_id": 146205,
+ "url": "https://peraturan.bpk.go.id/Details/146205/permenaker-no-35-tahun-2016",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "35",
+ "number_raw": "35",
+ "year": 2016,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 35 Tahun 2016 tentang Tata Cara Pemberian, Persyaratan, dan Jenis Manfaat Layanan Tambahan Dalam Program Jaminan Hari Tua",
+ "about": "Tata Cara Pemberian, Persyaratan, dan Jenis Manfaat Layanan Tambahan Dalam Program Jaminan Hari Tua",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "ASURANSI - KETENAGAKERJAAN - BANTUAN, SUMBANGAN, BENCANA / KEBENCANAAN, DAN PENANGGULANGAN BENCANA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2016-12-05",
+ "date_promulgated": "2016-12-05",
+ "date_effective": "2016-12-05",
+ "gazette": "BN.2016/No.1848, jdih.kemnaker.go.id : 13 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENAKER-2025-12",
+   "target_bpk_id": 334806,
+   "label": "Permenaker No. 12 Tahun 2025",
+   "about": "Perubahan Kedua atas Peraturan Menteri Ketenagakerjaan Nomor 35 Tahun 2016 tentang Tata\r\nCara Pemberian, Persyaratan, dan Jenis Manfaat Layanan Tambahan dalam Program Jaminan Hari Tua"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENAKER-2021-17",
+   "target_bpk_id": 195984,
+   "label": "Permenaker No. 17 Tahun 2021",
+   "about": "Perubahan atas Peraturan Menteri Ketenagakerjaan Nomor 35 Tahun 2016 tentang Tata Cara Pemberian, Persyaratan, dan Jenis Manfaat Layanan Tambahan Dalam Program Jaminan Hari Tua"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 05 Desember 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/252359/Kemnaker%20No.%2035%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:41:03Z"
+}

@@ -1,0 +1,41 @@
+{
+ "id": "PERPRES-2025-110",
+ "source": "bpk",
+ "bpk_id": 334733,
+ "url": "https://peraturan.bpk.go.id/Details/334733/perpres-no-110-tahun-2025",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "110",
+ "number_raw": "110",
+ "year": 2025,
+ "title": "Peraturan Presiden (Perpres) Nomor 110 Tahun 2025 tentang Penyelenggaraan Instrumen Nilai Ekonomi Karbon dan Pengendalian Emisi Gas Rumah Kaca Nasional",
+ "about": "Penyelenggaraan Instrumen Nilai Ekonomi Karbon dan Pengendalian Emisi Gas Rumah Kaca Nasional",
+ "issuer": "Pemerintah Pusat",
+ "subject": "LINGKUNGAN HIDUP - PERTAMBANGAN MIGAS, MINERAL DAN ENERGI",
+ "field": "HUKUM LINGKUNGAN",
+ "date_enacted": "2025-10-10",
+ "date_promulgated": "2025-10-10",
+ "date_effective": "2025-10-10",
+ "gazette": "LN 2025 (172) : 68 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2021-98",
+   "target_bpk_id": 187122,
+   "label": "PERPRES No. 98 Tahun 2021",
+   "about": "Penyelenggaraan Nilai Ekonomi Karbon untuk Pencapaian Target Kontribusi yang Ditetapkan Secara Nasional dan Pengendalian Emisi Gas Rumah Kaca dalam Pembangunan Nasional"
+  }
+ ],
+ "abstract": "Sebagai bentuk upaya pengendalian perubahan iklim, Pemerintah telah menerbitkan Peraturan Presiden Nomor 98 Tahun 2021 tentang Penyelenggaraan Nilai Ekonomi Karbon untuk Pencapaian Target Kontribusi yang ditetapkan Secara Nasional dan Pengendalian Emisi Gas Rumah Kaca dalam Pembangunan Nasional yang sudah tidak sesuai Iagi dengan kebutuhan hukum dan masyarakat, sehingga perlu diganti.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD 1945; UU No. 25 Tahun 2004; dan UU No. 32 Tahun 2009.\nPerpres ini mengatur mengenai Penyelenggaraan Instrumen Nilai Ekonomi Karbon dan Pengendalian Emisi Gas Rumah Kaca Nasional. Penyelenggaraan instrumen NEK dan pengendalian Emisi GRK nasional dilakukan melalui: 1) Alokasi Karbon; 2) penyusunan dan penetapan NDC; 3) tata laksana penyelenggaraan instrumen NEK; 4) kerangka transparansi; 5) pemantauan dan evaluasi; 6) pembinaan dan pendanaan; dan 7) pembentukan komite pengarah.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 10 Oktober 2025.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 98 Tahun 2021 tentang Penyelenggaraan Nilai Ekonomi Karbon untuk Pencapaian Target Kontribusi yang Ditetapkan Secara Nasional dan Pengendalian Emisi Gas Rumah Kaca dalam Pembangunan Nasional (Lembaran Negara Republik Indonesia Tahun 2021 Nomor 249), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 68 hlm.",
+ "citations": [
+  "PERPRES-2021-98",
+  "UU-2004-25",
+  "UU-2009-32"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/397299/Perpres%20Nomor%20110%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:22Z"
+}

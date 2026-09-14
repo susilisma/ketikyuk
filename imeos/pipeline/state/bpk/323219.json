@@ -1,0 +1,42 @@
+{
+ "id": "POJK-2024-16",
+ "source": "bpk",
+ "bpk_id": 323219,
+ "url": "https://peraturan.bpk.go.id/Details/323219/peraturan-ojk-no-16-tahun-2024",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "16",
+ "number_raw": "16",
+ "year": 2024,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 16 Tahun 2024 tentang Pengawasan PT Sarana Multi Infrastruktur (Persero)",
+ "about": "Pengawasan PT Sarana Multi Infrastruktur (Persero)",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN - PENGAWASAN / AUDIT INTERNAL",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-10-07",
+ "date_promulgated": "2024-11-15",
+ "date_effective": "2024-10-15",
+ "gazette": "BN.2024 (25)/78 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 226931,
+   "label": "Peraturan OJK No. 46/POJK.05/2020 Tahun 2020",
+   "about": "Perusahaan Pembiayaan Infrastruktur"
+  }
+ ],
+ "abstract": "a. bahwa untuk melaksanakan kewenangan tugas\npengaturan dan pengawasan bagi PT Sarana Multi\nInfrastruktur (Persero), Otoritas Jasa Keuangan\nmempunyai wewenang menetapkan pengaturan\nterhadap pengawasan PT Sarana Multi Infrastruktur\n(Persero);\nb. bahwa sebelum Undang-Undang Nomor 4 tahun 2023\ntentang Pengembangan dan Penguatan Sektor\nKeuangan berlaku, PT Sarana Multi Infrastruktur\n(Persero) telah mendapatkan izin usaha sebagai\nperusahaan pembiayaan infrastruktur yang tunduk\nkepada Peraturan Otoritas Jasa Keuangan Nomor\n46/POJK.05/2020 tentang Perusahaan Pembiayaan\nInfrastruktur;\nc. bahwa dengan berlakunya Undang-Undang Nomor 4\nTahun 2023 tentang Pengembangan dan Penguatan\nSektor Keuangan, PT Sarana Multi Infrastruktur\n(Persero) merupakan perusahaan pembiayaan\ninfrastruktur dan/atau kegiatan pembangunan yang\ndibentuk karena penugasan khusus dari pemerintah\ndan tidak termasuk dalam ruang lingkup usaha jasa\npembiayaan;\nd. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a, huruf b, dan huruf c, perlu\nmenetapkan Peraturan Otoritas Jasa Keuangan\ntentang Pengawasan PT Sarana Multi Infrastruktur\n(Persero);\nUU No. 21 Tahun 2011, UU No. 4 Tahun 2023 dan PP No. 66 Tahun 2007.\nPeraturan ini mengatur tentang ketentuan umum, ruang lingkup pengawasan terfhadap PT Sarana Multi Infrastruktur (PERSERO), kelembagaan dan kepengurusan, penyelenggaraan usaha, sumber pendanaan, penyertaan dan penempatan dana, penilaian tingkat kesehatan, penetapan status pengawasan, penerapan program anti pencucian uang, pencegahan pendanaan terorisme dan pencegahan pendanaan proliferasi senjata pemusnahan massal, penerapan strategi antrifraud serta perlindungan konsumen dan masyarakat, pelaporan, ketentuan lain-lain, ketentuan peralihan dan ketentuan penutup.",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 15 Oktober 2024.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas u Peraturan Otoritas Jasa Keuangan Nomor\n46/POJK.05/2020 tentang Perusahaan Pembiayaan\nInfrastruktur",
+ "citations": [
+  "UU-2023-4",
+  "POJK-2020-46",
+  "UU-2011-21",
+  "PP-2007-66"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/385041/Peraturan%20OJK%20Nomor%2016%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:44:19Z"
+}

@@ -1,0 +1,47 @@
+{
+ "id": "PMK-2025-49",
+ "source": "bpk",
+ "bpk_id": 326276,
+ "url": "https://peraturan.bpk.go.id/Details/326276/pmk-no-49-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "49",
+ "number_raw": "49",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 49 Tahun 2025 tentang Tata Cara Pinjaman Dalam Rangka Pendanaan Koperasi Desa/Kelurahan Merah Putih",
+ "about": "Tata Cara Pinjaman Dalam Rangka Pendanaan Koperasi Desa/Kelurahan Merah Putih",
+ "issuer": "Kementerian Keuangan",
+ "subject": "KOPERASI, UMKM",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-07-21",
+ "date_promulgated": "2025-07-21",
+ "date_effective": "2025-07-21",
+ "gazette": "BN.2025 (530)/15 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2026-15",
+   "target_bpk_id": 347087,
+   "label": "PMK No. 15 Tahun 2026",
+   "about": "Tata Cara Penyaluran Dana Alokasi Umum/Dana Bagi Hasil atau Dana Desa dalam Rangka Percepatan Pembangunan Fisik Gerai, Pergudangan dan Kelengkapan Koperasi Desa/Kelurahan Merah Putih"
+  }
+ ],
+ "abstract": "a. bahwa untuk melaksanakan arahan Presiden Republik\nIndonesia sesuai Instruksi Presiden Nomor 9 Tahun 2025\ntentang Percepatan Pembentukan Koperasi\nDesa/Kelurahan Merah Putih, dalam mendorong\nkemandirian bangsa melalui swasembada pangan\nberkelanjutan dan pembangunan dari desa untuk\npemerataan ekonomi, telah dibentuk Koperasi\nDesa/Kelurahan Merah Putih;\nb. bahwa pembiayaan Koperasi Desa/Kelurahan Merah Putih\nperlu dilakukan melalui sinergi pendanaan antara\npemerintah dan perbankan;\nc. bahwa untuk memberikan pedoman dalam pendanaan\nantara pemerintah dan perbankan, perlu disusun dalam\nsuatu pengaturan mengenai tata cara pinjaman Koperasi\nDesa/Kelurahan Merah Putih;\nd. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a, huruf b, dan huruf c, perlu menetapkan\nPeraturan Menteri Keuangan tentang Tata Cara Pinjaman\nDalam Rangka Pendanaan Koperasi Desa/Kelurahan\nMerah Putih;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 25 Tahun 1992, Undang-Undang Nomor 1 Tahun 2004, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 1 Tahun 2022, Peraturan Pemerintah Nomor 37 Tahun 2023, Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Menteri Keuangan Nomor 62 Tahun 2023, Peraturan Menteri Keuangan Nomor 145 Tahun 2023 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengatur tentang ketentuan umum, ketentuan pinjaman, pejabat perbendaharaan, skema pinjaman, pengembalian pinjaman, akuntansi dan pelaporan, ketentuan lain-lain dan ketentuan penutup.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 21 Juli 2025.",
+ "citations": [
+  "UU-1992-25",
+  "UU-2004-1",
+  "UU-2008-39",
+  "UU-2022-1",
+  "PP-2023-37",
+  "PERPRES-2024-158",
+  "PMK-2023-62",
+  "PMK-2023-145",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/388085/49%20th%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:31:17Z"
+}

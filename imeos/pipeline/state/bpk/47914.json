@@ -1,0 +1,51 @@
+{
+ "id": "UU-1970-12",
+ "source": "bpk",
+ "bpk_id": 47914,
+ "url": "https://peraturan.bpk.go.id/Details/47914/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "12",
+ "number_raw": "12",
+ "year": 1970,
+ "title": "Undang-undang (UU) Nomor 12 Tahun 1970 tentang Perubahan dan Tambahan Undang-Undang No. 6 Tahun 1968 tentang Penanaman Modal Dalam Negeri",
+ "about": "Perubahan dan Tambahan Undang-Undang No. 6 Tahun 1968 tentang Penanaman Modal Dalam Negeri",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PENANAMAN MODAL DAN INVESTASI",
+ "field": "",
+ "date_enacted": "1970-08-07",
+ "date_promulgated": "1970-08-07",
+ "date_effective": "1970-08-07",
+ "gazette": "LN. 1970, LL SETNEG : 5 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2007-25",
+   "target_bpk_id": 39903,
+   "label": "UU No. 25 Tahun 2007",
+   "about": "Penanaman Modal"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-1983-7",
+   "target_bpk_id": 46988,
+   "label": "UU No. 7 Tahun 1983",
+   "about": "Pajak Penghasilan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1968-6",
+   "target_bpk_id": 49144,
+   "label": "UU No. 6 Tahun 1968",
+   "about": "Penanaman Modal Dalam Negeri"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 07 Agustus 1970.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/36967/UU%20Nomor%2012%20Tahun%201970.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:07Z"
+}

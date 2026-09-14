@@ -1,0 +1,48 @@
+{
+ "id": "PERPRES-2024-179",
+ "source": "bpk",
+ "bpk_id": 306863,
+ "url": "https://peraturan.bpk.go.id/Details/306863/perpres-no-179-tahun-2024",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "179",
+ "number_raw": "179",
+ "year": 2024,
+ "title": "Peraturan Presiden (Perpres) Nomor 179 Tahun 2024 tentang Kementerian Badan Usaha Milik Negara",
+ "about": "Kementerian Badan Usaha Milik Negara",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KETATANEGARAAN, KENEGARAAN - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "HUKUM TATA NEGARA",
+ "date_enacted": "2024-11-05",
+ "date_promulgated": "2024-11-05",
+ "date_effective": "2024-11-05",
+ "gazette": "LN 2024 (375) : 19 hlm.;jdih.setneg.go.id",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2025-105",
+   "target_bpk_id": 334645,
+   "label": "Perpres No. 105 Tahun 2025",
+   "about": "Badan Pengaturan Badan Usaha Milik Negara"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2019-81",
+   "target_bpk_id": 127672,
+   "label": "PERPRES No. 81 Tahun 2019",
+   "about": "Kementerian Badan Usaha Milik Negara"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 11 Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara sebagaimana telah diubah dengan Undang-Undang Nomor 61 Tahun 2024 tentang Perubahan atas Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara, perlu menetapkan Peraturan Presiden tentang Kementerian Badan Usaha Milik Negara.\nDasar Hukum Perpres ini adalah Pasal 4 ayat (1) dan Pasal 17 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 39 Tahun 2008; Perpres Nomor 140 Tahun 2024.\nPerpres ini mengatur mengenai Kementerian Badan Usaha Milik Negara yang menyelenggarakan urusan pemerintahan di bidang badan usaha milik negara. Kementerian ini dipimpin oleh Menteri yang kedudukannya berada di bawah dan bertanggung jawab kepada Presiden. Dalam memimpin Kementerian, Menteri dapat dibantu oleh wakil menteri sesuai dengan penunjukan Presiden. Kementerian ini mempunyai tugas menyelenggarakan urusan pemerintahan di bidang badan usaha milik negara untuk membantu Presiden dalam menyelenggarakan pemerintahan negara. Fungsi dari Kementerian ini terdiri dari: perumusan dan penetapan kebijakan di bidang pengembangan usaha, inisiatif bisnis strategis, penguatan daya saing dan sinergi, penguatan kinerja, penciptaan pertumbuhan berkelanjutan, restrukturisasi dan privatisasi, pengelolaan hukum dan peraturan perundang-undangan, manajemen sumber daya manusia, tanggung jawab sosial dan lingkungan, teknologi informasi, manajemen keuangan dan manajemen risiko, dan kepatuhan dan tata kelola program prioritas pemerintah, penyertaan modal negara, dan penugasan pemerintah pada badan usaha milik negara; pengelolaan barang milik/ kekayaan negara yang menjadi tanggung jawab Kementerian; pengawasan atas pelaksanaan tugas di lingkungan Kementerian; dan pelaksanaan fungsi lain yang diberikan oleh Presiden.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 05 November 2024.\nPada saat Peraturan Presiden ini mulai berlaku, semua peraturan perundang-undangan yang merupakan peraturan pelaksanaan dari Peraturan Presiden Nomor 81 Tahun 2019 tentang Kementerian Badan Usaha Milik Negara (Lembaran Negara Republik Indonesia Tahun 2019 Nomor 235),dinyatakan masih tetap berlaku sepanjang tidak bertentangan dengan ketentuan dalam Peraturan Presiden ini.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 81 Tahun 2019 tentang Kementerian Badan Usaha Milik Negara (Lembaran Negara Republik Indonesia Tahun 2019 Nomor 235), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 19 hlm",
+ "citations": [
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2024-140"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/367167/Perpres%20Nomor%20179%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:32Z"
+}

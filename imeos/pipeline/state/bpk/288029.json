@@ -1,0 +1,43 @@
+{
+ "id": "PERMENAKER-2024-6",
+ "source": "bpk",
+ "bpk_id": 288029,
+ "url": "https://peraturan.bpk.go.id/Details/288029/permenaker-no-6-tahun-2024",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "6",
+ "number_raw": "6",
+ "year": 2024,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 6 Tahun 2024 tentang Tata Cara Pendaftaran Kegiatan Lembaga Pelatihan Kerja Pemerintah dan Lembaga Pelatihan Kerja Perusahaan",
+ "about": "Tata Cara Pendaftaran Kegiatan Lembaga Pelatihan Kerja Pemerintah dan Lembaga Pelatihan Kerja Perusahaan",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "KETENAGAKERJAAN",
+ "field": "HUKUM PERBURUHAN",
+ "date_enacted": "2024-05-06",
+ "date_promulgated": "2024-05-14",
+ "date_effective": "2024-05-14",
+ "gazette": "BN 2024 (249), JDIH Kemnaker; 15 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENAKER-2016-17",
+   "target_bpk_id": 146126,
+   "label": "Permenaker No. 17 Tahun 2016",
+   "about": "Tata Cara Perizinan dan Pendaftaran Lembaga Pelatihan Kerja"
+  }
+ ],
+ "abstract": "Lembaga pelatihan kerja pemerintah dan lembaga pelatihan kerja perusahaan harus mendaftarkan kegiatannya berdasarkan ketentuan Pasal 13 ayat (4) dalam Pasal 81 angka 1 Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja Menjadi Undang-Undang\nDasar Hukum Peraturan Menteri ini adalah Pasal 17 ayat (3) UUD Tahun 1945; UU Nomor 13 Tahun 2003 sebagaimana telah diubah dengan UU Nomor 6 Tahun 2023; Perpres Nomor 95 Tahun 2020; Permenaker Nomor 1 Tahun 2021\nPeraturan ini mengatur mengenai Tata Cara Pendaftaran, Pembaruan Tanda Daftar, Evaluasi dan Pelaporan, dan Pembinaan Lembaga Pelatiha Kerja Pemerintah dan Lembaga Pelatihan Kerja Perusahaan",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 14 Mei 2024.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Ketenagakerjaan Nomor 17 Tahun 2016 tentang Tata Cara Perizinan dan Pendaftaran Lembaga Pelatihan Kerja",
+ "citations": [
+  "UU-2023-6",
+  "PERPPU-2022-2",
+  "UU-2003-13",
+  "PERPRES-2020-95",
+  "PERMENAKER-2021-1"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/347257/2024PMNaker006.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:41:43Z"
+}

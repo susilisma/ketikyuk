@@ -1,0 +1,50 @@
+{
+ "id": "PMK-2024-102",
+ "source": "bpk",
+ "bpk_id": 311480,
+ "url": "https://peraturan.bpk.go.id/Details/311480/pmk-no-102-tahun-2024",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "102",
+ "number_raw": "102",
+ "year": 2024,
+ "title": "Peraturan Menteri Keuangan Nomor 102 Tahun 2024 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 110 Tahun 2023 tentang Indikator Tingkat Kinerja Daerah dan Petunjuk Teknis Bagian Dana Alokasi Umum yang Ditentukan Pengunaannya",
+ "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 110 Tahun 2023 tentang Indikator Tingkat Kinerja Daerah dan Petunjuk Teknis Bagian Dana Alokasi Umum yang Ditentukan Pengunaannya",
+ "issuer": "Kementerian Keuangan",
+ "subject": "APBD",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-12-13",
+ "date_promulgated": "2024-12-17",
+ "date_effective": "2024-12-17",
+ "gazette": "BN.2024 (965)/70 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2026-2",
+   "target_bpk_id": 344323,
+   "label": "PMK No. 2 Tahun 2026",
+   "about": "Perubahan Kedua Atas Peraturan Menteri Keuangan Nomor 110 Tahun 2023 tentang Indikator Tingkat Kinerja Daerah dan Petunjuk Teknis Bagian Dana Alokasi Umum yang Ditentukan Penggunakannya"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PMK-2023-110",
+   "target_bpk_id": 271175,
+   "label": "PMK No. 110 Tahun 2023",
+   "about": "Indikator Tingkat Kinerja Daerah Dan Petunjuk Teknis Bagian Dana Alokasi Umum Yang Ditentukan Penggunaanya"
+  }
+ ],
+ "abstract": "a. bahwa untuk melakukan penyesuaian rincian subkegiatan yang dapat didanai dari dana alokasi umum yang ditentukan penggunaannya bidang pendidikan, bidang kesehatan, dan bidang pekerjaan umum sesuai dengan usulan dari kementerian/lembaga terkait, perlu dilakukan perubahan terhadap Peraturan Menteri Keuangan Nomor\n110 Tahun 2023 tentang Indikator Tingkat Kinerja Daerah dan Petunjuk Teknis Bagian Dana Alokasi Umum yang Ditentukan Penggunaannya;\nb. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, perlu menetapkan Peraturan Menteri\nKeuangan tentang Perubahan atas Peraturan Menteri Keuangan Nomor 110 Tahun 2023 tentang Indikator Tingkat Kinerja Daerah dan Petunjuk Teknis Bagian Dana Alokasi Umum yang Ditentukan Penggunaannya;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 37 Tahun 2023, Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Menteri Keuangan Nomor 118/PMK.01/2021 dan Peraturan Menteri Keuangan Nomor 110 Tahun 2023\nPeraturan ini mengubah beberapa Peraturan Menteri Keuangan Nomor 110 Tahun 2023 tentang Indikator Tingkat Kinerja Daerah dan Petunjuk Teknis\nBagian Dana Alokasi Umum yang Ditentukan Penggunaannya yaitu tentang lampiran.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 17 Desember 2024.\nPeraturan Menteri Keuangan Nomor 110 Tahun 2023 tentang Indikator Tingkat Kinerja Daerah dan Petunjuk Teknis Bagian Dana Alokasi Umum diubah sebagian",
+ "citations": [
+  "PMK-2023-110",
+  "UU-2008-39",
+  "PP-2023-37",
+  "PERPRES-2024-158",
+  "PMK-2021-118"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/372216/102%20th%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:34:16Z"
+}

@@ -1,0 +1,41 @@
+{
+ "id": "PP-2024-35",
+ "source": "bpk",
+ "bpk_id": 297489,
+ "url": "https://peraturan.bpk.go.id/Details/297489/pp-no-35-tahun-2024",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "35",
+ "number_raw": "35",
+ "year": 2024,
+ "title": "Peraturan Pemerintah (PP) Nomor 35 Tahun 2024 tentang Waralaba",
+ "about": "Waralaba",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HUKUM PIDANA, PERDATA, DAN DAGANG - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "HUKUM DAGANG",
+ "date_enacted": "2024-09-02",
+ "date_promulgated": "2024-09-02",
+ "date_effective": "2024-09-02",
+ "gazette": "LN 2024 (188), TLN (6986): 31 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PP-2007-42",
+   "target_bpk_id": 4764,
+   "label": "PP No. 42 Tahun 2007",
+   "about": "Waralaba"
+  }
+ ],
+ "abstract": "Berdasarkan ketentuan Pasal 11 Undang-Undang Nomor 7 Tahun 2014 tentang Perdagangan sebagaimana telah diubah dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang, diperlukan adanya pengaturan mengenai distribusi barang, salah satunya dalam bentuk waralaba, dalam suatu Peraturan Pemerintah.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945 dan UU Nomor 7 Tahun 2014.\nPP ini mengatur tentang waralaba dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Pokok-pokok pengaturan dalam Peraturan Pemerintah ini memuat: 1) penyelenggara Waralaba; 2) kriteria Waralaba; 3) Prospektus Penawaran Waralaba; 4) Perjanjian Waralaba; 5) hak dan kewajiban Pemberi Waralaba atau Pemberi Waralaba Lanjutan serta Penerima Waralaba atau Penerima Waralaba Lanjutan; 6) Surat Tanda Pendaftaran Waralaba; 7) logo Waralaba; 8) penggunaan produk dalam negeri; 9) pelaporan; 10) pembinaan dan pengawasan penyelenggaraan Waralaba; 11) larangan; dan 12) sanksi.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 02 September 2024.\nPada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 42 Tahun 2007 tentang Waralaba (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 90, Tambahan Lembaran Negara Republik Indonesia Nomor 4742), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 45 hlm (batang tubuh hlm 1 sd 31, penjelasan hlm 32 sd 41, dan lampiran hlm 42 sd 45)",
+ "citations": [
+  "UU-2014-7",
+  "UU-2023-6",
+  "PERPPU-2022-2"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/357030/PP%20Nomor%2035%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:30:10Z"
+}

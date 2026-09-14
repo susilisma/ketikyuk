@@ -1,0 +1,45 @@
+{
+ "id": "PMK-2025-68",
+ "source": "bpk",
+ "bpk_id": 332098,
+ "url": "https://peraturan.bpk.go.id/Details/332098/pmk-no-68-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "68",
+ "number_raw": "68",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 68 Tahun 2025 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 38 Tahun 2024 tentang Penetapan Barang Ekspor yang Dikenakan Bea Keluar dan Tarif Bea Keluar",
+ "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 38 Tahun 2024 tentang Penetapan Barang Ekspor yang Dikenakan Bea Keluar dan Tarif Bea Keluar",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-10-10",
+ "date_promulgated": "2025-10-15",
+ "date_effective": "2025-10-21",
+ "gazette": "BN.2025 (830/14 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PMK-2024-38",
+   "target_bpk_id": 292576,
+   "label": "PMK No. 38 Tahun 2024",
+   "about": "Penetapan Barang Ekspor Yang Dikenakan Bea Keluar Dan Tarif Bea Keluar"
+  }
+ ],
+ "abstract": "a. bahwa jenis barang ekspor yang dikenakan bea keluar dan\ntarif bea keluar telah diatur dalam Peraturan Menteri\nKeuangan Nomor 38 Tahun 2024 tentang Penetapan\nBarang Ekspor yang Dikenakan Bea Keluar dan Tarif Bea\nKeluar;\nb. bahwa untuk menjamin terpenuhinya kebutuhan dalam\nnegeri atas biji kakao, produk kelapa sawit, Crude Palm Oil\n(CPO), dan produk turunannya, serta getah pinus,\nPeraturan Menteri Keuangan Nomor 38 Tahun 2024\ntentang Penetapan Barang Ekspor yang Dikenakan Bea\nKeluar dan Tarif Bea Keluar perlu diubah;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a dan huruf b, perlu menetapkan Peraturan\nMenteri Keuangan tentang Perubahan atas Peraturan\nMenteri Keuangan Nomor 38 Tahun 2024 tentang\nPenetapan Barang Ekspor yang Dikenakan Bea Keluar dan\nTarif Bea Keluar;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945,Undang-Undang Nomor 10 Tahun 1995, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 55 Tahun 2008,Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Menteri Keuangan Nomor 26/PMK.010/2022, Peraturan Menteri Keuangan Nomor 38 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 38 Tahun 2024 tentang Penetapan Barang Ekspor yang Dikenakan Bea Keluar dan Tarif Bea Keluar yaitu tentang bea keluar, pengenaan dan Daftar merek Refined, Bleached, and Deodorized (RBD)\nPalm Olein",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 21 Oktober 2025.\nPeraturan ini mengubah Peraturan Menteri Keuangan\nNomor 38 Tahun 2024 tentang Penetapan Barang Ekspor yang\nDikenakan Bea Keluar dan Tarif Bea Keluar",
+ "citations": [
+  "PMK-2024-38",
+  "UU-1995-10",
+  "UU-2008-39",
+  "PP-2008-55",
+  "PERPRES-2024-158",
+  "PMK-2022-26",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/394148/68%20th%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:32:54Z"
+}

@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2015-107",
+ "source": "bpk",
+ "bpk_id": 41856,
+ "url": "https://peraturan.bpk.go.id/Details/41856/perpres-no-107-tahun-2015",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "107",
+ "number_raw": "107",
+ "year": 2015,
+ "title": "Peraturan Presiden (Perpres) Nomor 107 Tahun 2015 tentang Percepatan Penyelenggaraan Prasarana dan Sarana Kereta Cepat antara Jakarta dan Bandung",
+ "about": "Percepatan Penyelenggaraan Prasarana dan Sarana Kereta Cepat antara Jakarta dan Bandung",
+ "issuer": "Pemerintah Pusat",
+ "subject": "TRANSPORTASI DARAT / LAUT / UDARA",
+ "field": "",
+ "date_enacted": "2015-10-06",
+ "date_promulgated": "2015-10-06",
+ "date_effective": "2016-10-06",
+ "gazette": "LN.2015/NO.222, LL SETKAB : 8 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2026-29",
+   "target_bpk_id": 349427,
+   "label": "Perpres No. 29 Tahun 2026",
+   "about": "Perubahan Kedua atas Peraturan Presiden Nomor 107 Tahun 2015 tentang Percepatan Penyelenggaraan Prasarana dan Sarana Kereta Cepat Antara Jakarta dan Bandung"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2021-93",
+   "target_bpk_id": 180082,
+   "label": "PERPRES No. 93 Tahun 2021",
+   "about": "Perubahan atas Peraturan Presiden Nomor 107 Tahun 2015 tentang Percepatan Penyelenggaraan Prasarana dan Sarana Kereta Cepat antara Jakarta dan Bandung"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 06 Oktober 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/34791/Perpres%20Nomor%20107%20Tahun%202015.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:31:27Z"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "PERMENKOMINFO-2024-4",
+ "source": "bpk",
+ "bpk_id": 299331,
+ "url": "https://peraturan.bpk.go.id/Details/299331/permenkominfo-no-4-tahun-2024",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Informatika",
+ "number": "4",
+ "number_raw": "4",
+ "year": 2024,
+ "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 4 Tahun 2024 tentang PENYELENGGARAAN URUSAN PEMERINTAHAN KONKUREN",
+ "about": "PENYELENGGARAAN URUSAN PEMERINTAHAN KONKUREN",
+ "issuer": "Kementerian Komunikasi dan Informatika",
+ "subject": "TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2024-09-03",
+ "date_promulgated": "2024-09-05",
+ "date_effective": "2024-09-05",
+ "gazette": "BN 2024 (519);50 hlm;jdih.kominfo.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 300777,
+   "label": "Permenkominfo No. 8 Tahun 2019",
+   "about": "Penyelenggaraan Urusan Pemerintahan\r\nKonkuren Bidang Komunikasi dan Informatika"
+  }
+ ],
+ "abstract": "Penyelenggaraan Urusan Pemerintahan Konkuren Bidang Komunikasi dan Informatika\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD 1945; UU nomor 39 Tahun 2008; UU Nomor 23 Tahun 2014 sebagaimana telah beberapa kali diubah terakhir dengan UU Nomor 9 Tahun 2015; Perpres Nomor 22 Tahun 2023; Permenkominfo Nomor 12 Tahun 2021\nPeraturan ini merupakan pedoman bagi Pemerintah Daerah dalam menyelenggarakan Urusan Pemerintahan konkuren bidang komunikasi dan informatika; sub urusan informasi dan komunikasi publik; sub urusan aplikasi informatika; monitoring dan evaluasi; serta pembinaan dan pengawasan",
+ "note": "Peraturan Menteri Komunikasi dan Informatika ini mulai berlaku pada tanggal 05 September 2024.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Komunikasi dan Informatika Nomor 8 Tahun 2019 tentang Penyelenggaraan Urusan Pemerintahan Konkuren Bidang Komunikasi dan Informatika, dicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "UU-2008-39",
+  "UU-2014-23",
+  "UU-2015-9",
+  "PERPRES-2023-22"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/358996/PerMenKominfo%20No.%204%20tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:42:08Z"
+}

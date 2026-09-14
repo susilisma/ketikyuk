@@ -1,0 +1,44 @@
+{
+ "id": "PERMENDAG-2024-6",
+ "source": "bpk",
+ "bpk_id": 287324,
+ "url": "https://peraturan.bpk.go.id/Details/287324/permendag-no-6-tahun-2024",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "6",
+ "number_raw": "6",
+ "year": 2024,
+ "title": "Peraturan Menteri Perdagangan Nomor 6 Tahun 2024 tentang Sekolah Perdagangan",
+ "about": "Sekolah Perdagangan",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PENDIDIKAN - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-04-02",
+ "date_promulgated": "2024-04-22",
+ "date_effective": "2024-04-22",
+ "gazette": "BN.2024 (214)/7 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2026-7",
+   "target_bpk_id": 347247,
+   "label": "Permendag No. 7 Tahun 2026",
+   "about": "Sekolah Perdagangan"
+  }
+ ],
+ "abstract": "a. bahwa untuk menyiapkan calon pemimpin yang\nbertalenta dan berkinerja tinggi, serta menghasilkan\nPegawai Negeri Sipil Kementerian Perdagangan yang\nmemiliki pengetahuan, keterampilan, dan sikap/perilaku\nyang sesuai dengan kompetensi inti, perlu\nmengembangkan kompetensi Pegawai Negeri Sipil di\nlingkungan Kementerian Perdagangan;\nb. bahwa untuk mengembangkan kompetensi Pegawai\nNegeri Sipil sebagaimana dimaksud dalam huruf a, perlu\nmembentuk sekolah perdagangan;\nc. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a dan huruf b, serta untuk\nmelaksanakan ketentuan Pasal 26 huruf b dan Pasal 29\nPeraturan Menteri Perdagangan Nomor 1 Tahun 2023\ntentang Manajemen Talenta Aparatur Sipil Negara di\nLingkungan Kementerian Perdagangan, perlu\nmenetapkan Peraturan Menteri Perdagangan tentang\nSekolah Perdagangan;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 20 Tahun 2023, Peraturan Pemerintah Nomor 11 Tahun 2017, Peraturan Presiden Nomor 11 Tahun 2022, Peraturan Menteri Perdagangan Nomor 29 Tahun 2022 dan Peraturan Menteri Perdagangan Nomor 01 Tahun 2023\nPeraturan ini mengatur tentang ketentuan umum, kompetensi inti, bagian dari sekolah perdagangan, persyaratan untuk dapat diangkat dalam jabatan pengawas atau jabatan fungsional ahli muda, persyaratan dalam melakukan sekolah perdagangan, tujuan sekolah staf perdagangan, syarat mengikuti sekolah pimpinan perdagangan tingkat II, tujuan pelatihan sekolah pimpinan bagi peserta didik dan kelulusan.",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 22 April 2024.",
+ "citations": [
+  "PERMENDAG-2023-1",
+  "UU-2008-39",
+  "UU-2023-20",
+  "PP-2017-11",
+  "PERPRES-2022-11",
+  "PERMENDAG-2022-29"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/346500/PERMENDAG%20NOMOR%206%20TAHUN%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:36:09Z"
+}

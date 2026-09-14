@@ -1,0 +1,49 @@
+{
+ "id": "PERPRES-2023-18",
+ "source": "bpk",
+ "bpk_id": 243747,
+ "url": "https://peraturan.bpk.go.id/Details/243747/perpres-no-18-tahun-2023",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "18",
+ "number_raw": "18",
+ "year": 2023,
+ "title": "Peraturan Presiden (Perpres) Nomor 18 Tahun 2023 tentang Kementerian Hukum dan Hak Asasi Manusia",
+ "about": "Kementerian Hukum dan Hak Asasi Manusia",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "",
+ "date_enacted": "2023-02-22",
+ "date_promulgated": "2023-02-22",
+ "date_effective": "2023-02-22",
+ "gazette": "LN.2023/No.33, jdih.setneg.go.id: 33 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-155",
+   "target_bpk_id": 306674,
+   "label": "Perpres No. 155 Tahun 2024",
+   "about": "Kementerian Hukum"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2015-44",
+   "target_bpk_id": 41780,
+   "label": "PERPRES No. 44 Tahun 2015",
+   "about": "Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "Sebagai tindak lanjut ditetapkannya Keputusan Presiden Nomor 113/P Tahun 2019 tentang Pembentukan Kementerian Negara dan Pengangkatan Menteri Negara Kabinet Indonesia Maju Periode Tahun 2019-2024 dan untuk melaksanakan ketentuan Pasal 11 Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara, perlu menetapkan Peraturan Presiden tentang Kementerian Hukum dan Hak Asasi Manusia (HAM).\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) dan Pasal 17 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 39 Tahun 2008; Perpres Nomor 67 Tahun 2019; dan Perpres Nomor 68 Tahun 2019.\nPerpres ini mengatur mengenai: 1) kedudukan, tugas, dan fungsi; 2) organisasi; 3) instansi vertikal; 3) unit pelaksana teknis; 4) staf khusus; 5) tata kerja; 6) eselon, pengangkatan, dan pemberhentian; dan 7) pendanaan pada Kementerian Hukum dan HAM. Kementerian Hukum dan Hak Asasi Manusia berada di bawah dan bertanggung jawab kepada Presiden yang dipimpin oleh Menteri. Kementerian Hukum dan Hak Asasi Manusia mempunyai tugas menyelenggarakan urusan pemerintahan di bidang hukum dan hak asasi manusia untuk membantu Presiden dalam menyelenggarakan pemerintahan negara.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 22 Februari 2023.\nPada saat Peraturan Presiden ini mulai berlaku, semua ketentuan mengenai Kementerian Hukum dan Hak Asasi Manusia dalam Peraturan Presiden Nomor 44 Tahun 2015 tentang Kementerian Hukum dan Hak Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 84), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 33 hlm.",
+ "citations": [
+  "KEPPRES-2019-113",
+  "UU-2008-39",
+  "PERPRES-2019-67",
+  "PERPRES-2019-68"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/299603/Perpres%20Nomor%2018%20Tahun%202023.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:28:17Z"
+}

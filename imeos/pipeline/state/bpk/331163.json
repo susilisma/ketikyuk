@@ -1,0 +1,59 @@
+{
+ "id": "PERMENDAG-2025-26",
+ "source": "bpk",
+ "bpk_id": 331163,
+ "url": "https://peraturan.bpk.go.id/Details/331163/permendag-no-26-tahun-2025",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "26",
+ "number_raw": "26",
+ "year": 2025,
+ "title": "Peraturan Menteri Perdagangan Nomor 26 Tahun 2025 tentang Pencabutan 4 (Empat) Peraturan Menteri Perdagangan Di Bidang Perdagangan Dalam Negeri",
+ "about": "Pencabutan 4 (Empat) Peraturan Menteri Perdagangan Di Bidang Perdagangan Dalam Negeri",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-06-30",
+ "date_promulgated": "2025-06-30",
+ "date_effective": "2025-06-30",
+ "gazette": "BN.2025 (459/3 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2020-25",
+   "target_bpk_id": 160252,
+   "label": "Permendag No. 25 Tahun 2020",
+   "about": "Laporan Keuangan Tahunan Perusahaan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2017-36",
+   "target_bpk_id": 128681,
+   "label": "Permendag No. 36/M-DAG/PER/5/2017 Tahun 2017",
+   "about": "Penetapan Harga Patokan Ekspor Atas Produk Pertambangan Yang Dikenakan Bea Keluar"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2016-22",
+   "target_bpk_id": 128804,
+   "label": "Permendag No. 22/M-DAG/PER/3/2016 Tahun 2016",
+   "about": "Ketentuan Umum Distribusi Barang"
+  }
+ ],
+ "abstract": "a. bahwa untuk memberikan kepastian hukum bagi pelaku\nusaha dan kepastian hukum terhadap peraturan\nperundang-undangan di bidang perdagangan dalam\nnegeri yang sudah tidak sesuai dengan perkembangan\nhukum, perlu mencabut beberapa Peraturan Menteri\nPerdagangan di bidang perdagangan dalam negeri;\nb. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a, perlu menetapkan Peraturan\nMenteri Perdagangan tentang Pencabutan 4 (empat)\nPeraturan Menteri Perdagangan di Bidang Perdagangan\nDalam Negeri;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 7 Tahun 2014, Peraturan Pemerintah Nomor 29 Tahun 2021, Peraturan Pemerintah Nomor 28 Tahun 2025, Peraturan Presiden Nomor 168 Tahun 2024, Peraturan Presiden Nomor 6 Tahun 2025 dan Peraturan Menteri Perdagangan Nomor 6 Tahun 2025.\nPeraturan ini mengatur tentang pencabutan atas 4 Peraturan Menteri Perdagangan dibidang perdagangan dalam negeri.",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 30 Juni 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas:\na. Peraturan Menteri Perdagangan Nomor 36/M-DAG/PER/9/2007 tentang Penerbitan Surat\nIzin Usaha Perdagangan sebagaimana telah beberapa kali\ndiubah terakhir dengan Peraturan Menteri Perdagangan\nNomor 07/M-DAG/PER/2/2017 tentang Perubahan Ketiga\natas Peraturan Menteri Perdagangan Nomor\n36/M-DAG/PER/9/2007 tentang Penerbitan Surat Izin\nUsaha Perdagangan ;\nb. Peraturan Menteri Perdagangan Nomor 22/M-DAG/PER/3/2016 tentang Ketentuan Umum\nDistribusi Barang (Berita Negara Republik Indonesia\nTahun 2016 Nomor 502) sebagaimana telah diubah\ndengan Peraturan Menteri Perdagangan Nomor 66\nTahun 2019 tentang Perubahan atas Peraturan Menteri\nPerdagangan Nomor 22/M-DAG/PER/3/2016 tentang\nKetentuan Umum Distribusi Barang;\nc. Peraturan Menteri Perdagangan Nomor 25 Tahun 2020 tentang Laporan Keuangan Tahunan Perusahaan\nd. Peraturan Menteri Perdagangan . Nomor 4 Tahun 2023 tentang Pengadaan dan Penyaluran Pupuk Bersubsidi untuk Sektor Pertanian",
+ "citations": [
+  "UU-2008-39",
+  "UU-2014-7",
+  "PP-2021-29",
+  "PP-2025-28",
+  "PERPRES-2024-168",
+  "PERPRES-2025-6",
+  "PERMENDAG-2025-6"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/393190/PERMENDAG%2026%20Tahun%202025%20-%20Pencabutan%204%20Permendag%20di%20Bidang%20PDN.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:37:11Z"
+}

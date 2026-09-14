@@ -1,0 +1,72 @@
+{
+ "id": "PERMENDAG-2022-46",
+ "source": "bpk",
+ "bpk_id": 223881,
+ "url": "https://peraturan.bpk.go.id/Details/223881/permendag-no-46-tahun-2022",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "46",
+ "number_raw": "46",
+ "year": 2022,
+ "title": "Peraturan Menteri Perdagangan Nomor 46 Tahun 2022 tentang Tata Cara Penetapan Harga Patokan Ekspor Atas Produk Pertanian dan Kehutanan Yang Dikenakan Bea Keluar, Harga Referensi Atas Produk Pertanian dan Kehutanan dan Daftar Merek Refined, Bleached and Deodorized Palm Olein Yang Dikenakan Bea Keluar dan Tarif Layanan Badan Layanan Umum Badan Pengelola Dana Perkebunan Kelapa Sawit",
+ "about": "Tata Cara Penetapan Harga Patokan Ekspor Atas Produk Pertanian dan Kehutanan Yang Dikenakan Bea Keluar, Harga Referensi Atas Produk Pertanian dan Kehutanan dan Daftar Merek Refined, Bleached and Deodorized Palm Olein Yang Dikenakan Bea Keluar dan Tarif Layanan Badan Layanan Umum Badan Pengelola Dana Perkebunan Kelapa Sawit",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "BADAN LAYANAN UMUM - BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN",
+ "field": "",
+ "date_enacted": "2022-08-01",
+ "date_promulgated": "2022-08-01",
+ "date_effective": "2022-08-01",
+ "gazette": "BN.2022/No.728, http://jdih.kemendag.go.id/: 12 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2025-35",
+   "target_bpk_id": 332970,
+   "label": "Permendag No. 35 Tahun 2025",
+   "about": "Tata Cara Penetapan Harga Patokan Ekspor dan Harga Referensi Atas Produk Pertanian dan Kehutanan dan Daftar Merek Refined, Bleached and Deodorized Palm Plein yang Dikenakan Bea Keluar dan Tarif Layanan Badan Layanan Umum"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2020-84",
+   "target_bpk_id": 160366,
+   "label": "Permendag No. 84 Tahun 2020",
+   "about": "Perubahan Keempat atas Peraturan Menteri Perdagangan Nomor 36/M-DAG/PER/5/2012 tentang Tata Cara Penetapan Harga Patokan Ekspor atas Produk Pertanian dan Kehutanan yang Dikenakan Bea Keluar"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2015-55",
+   "target_bpk_id": 128978,
+   "label": "Permendag No. 55/M-DAG/PER/7/2015 Tahun 2015",
+   "about": "Perubahan Kedua atas Peraturan Menteri Perdagangan Nomor 36/M-DAG/PER/5/2012 Tentang Tata Cara Harga Patokan Ekspor atas Produk Pertanian dan Kehutanan yang Dikenakan Bea Keluar"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2015-112",
+   "target_bpk_id": 129022,
+   "label": "Permendag No. 112/M-DAG/PER/12/2015 Tahun 2015",
+   "about": "Perubahan Ketiga atas Peraturan Menteri Perdagangan Nomor 36/M-DAG/PER/5/2012 tentang Tata Cara Penetapan Harga Patokan Ekspor atas Produk Pertanian dan Kehutanan yang Dikenakan Bea Keluar"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2013-54",
+   "target_bpk_id": 129312,
+   "label": "Permendag No. 54/M-DAG/PER/9/2013 Tahun 2013",
+   "about": "Perubahan atas Peraturan Menteri Perdangangan Nomor 36/M-DAG/PER/5/2012 Tentang Cara Penetapan Harga Patokan Ekspor atas Produk Pertanian dan Kehutanan yang Dikenakan Bea Keluar"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2012-36",
+   "target_bpk_id": 160370,
+   "label": "Permendag No. 36/M-DAG/PER/5/2012 Tahun 2012",
+   "about": "Tata Cara Penetapan Harga Patokan Ekspor atas Produk Pertanian dan Kehutanan yang Dikenakan Bea Keluar"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 01 Agustus 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/218453/Salinan%20Permendag%20Nomor%2046%20Tahun%202022_BNRI.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:36:54Z"
+}

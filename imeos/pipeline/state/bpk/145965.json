@@ -1,0 +1,51 @@
+{
+ "id": "PMK-2016-175",
+ "source": "bpk",
+ "bpk_id": 145965,
+ "url": "https://peraturan.bpk.go.id/Details/145965/pmk-no-175pmk012016",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "175",
+ "number_raw": "175/PMK.01/2016",
+ "year": 2016,
+ "title": "Peraturan Menteri Keuangan Nomor 175/PMK.01/2016 Tahun 2016 tentang Pedoman Pelaksanaan Analisis Beban Kerja (Workload Analysis) di Lingkungan Kementerian Keuangan",
+ "about": "Pedoman Pelaksanaan Analisis Beban Kerja (Workload Analysis) di Lingkungan Kementerian Keuangan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA - STANDAR / PEDOMAN",
+ "field": "",
+ "date_enacted": "2016-11-18",
+ "date_promulgated": "2016-11-18",
+ "date_effective": "2016-11-18",
+ "gazette": "BN.2016/NO.1756, https:jdih.kemenkeu.go.id : 16 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-95",
+   "target_bpk_id": 341470,
+   "label": "PMK No. 95 Tahun 2025",
+   "about": "Pedoman Pelaksanaan Analisis Jabatan dan Analisis Beban Kerja di Lingkungan Kementerian Keuangan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2020-238",
+   "target_bpk_id": 157751,
+   "label": "PMK No. 238/PMK.01/2020",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 175/PMK.01/2016 tentang Pedoman Pelaksanaan Analisis Beban Kerja (Workload Analysis) di Lingkungan Kementerian Keuangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2006-140",
+   "target_bpk_id": 145966,
+   "label": "PMK No. 140/PMK.01/2006",
+   "about": "Pedoman Pelaksanaan Analisis Beban Kerja (Work Load Analysis) di Lingkungan Departemen Keuangan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 18 November 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/137778/PMK%20175_PMK.01_2016.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:32:13Z"
+}

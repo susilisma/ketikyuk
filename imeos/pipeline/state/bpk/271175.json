@@ -1,0 +1,49 @@
+{
+ "id": "PMK-2023-110",
+ "source": "bpk",
+ "bpk_id": 271175,
+ "url": "https://peraturan.bpk.go.id/Details/271175/pmk-no-110-tahun-2023",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "110",
+ "number_raw": "110",
+ "year": 2023,
+ "title": "Peraturan Menteri Keuangan Nomor 110 Tahun 2023 tentang Indikator Tingkat Kinerja Daerah Dan Petunjuk Teknis Bagian Dana Alokasi Umum Yang Ditentukan Penggunaanya",
+ "about": "Indikator Tingkat Kinerja Daerah Dan Petunjuk Teknis Bagian Dana Alokasi Umum Yang Ditentukan Penggunaanya",
+ "issuer": "Kementerian Keuangan",
+ "subject": "STANDAR / PEDOMAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2023-10-06",
+ "date_promulgated": "2023-10-13",
+ "date_effective": "2023-10-13",
+ "gazette": "BN.2023 (807)/84 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2026-2",
+   "target_bpk_id": 344323,
+   "label": "PMK No. 2 Tahun 2026",
+   "about": "Perubahan Kedua Atas Peraturan Menteri Keuangan Nomor 110 Tahun 2023 tentang Indikator Tingkat Kinerja Daerah dan Petunjuk Teknis Bagian Dana Alokasi Umum yang Ditentukan Penggunakannya"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2024-102",
+   "target_bpk_id": 311480,
+   "label": "PMK No. 102 Tahun 2024",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 110 Tahun 2023 tentang Indikator Tingkat Kinerja Daerah dan Petunjuk Teknis Bagian Dana Alokasi Umum yang Ditentukan Pengunaannya"
+  }
+ ],
+ "abstract": "bahwa untuk melaksanakan ketentuan Pasal 65 ayat (7) Peraturan Pemerintah Nomor 37 Tahun 2023 tentang Pengelolaan Transfer ke Daerah, perlu menetapkan Peraturan Menteri Keuangan tentang Indikator Tingkat Kinerja Daerah dan Petunjuk Teknis Bagian Dana Alokasi Umum yang Ditentukan Penggunaannya;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 37 Tahun 2023, Peraturan Presiden Nomor 57 Tahun 2020 dan Peraturan Menteri Keuangan Nomor 118/PMK.01/2021\nPeraturan Menteri ini mengatur tentang ketentuan umum, penggunaan DAU dan prinsip penggunaan DAU",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 13 Oktober 2023.",
+ "citations": [
+  "PP-2023-37",
+  "UU-2008-39",
+  "PERPRES-2020-57",
+  "PMK-2021-118"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/329146/2023pmkeuangan110.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:34:19Z"
+}

@@ -1,0 +1,41 @@
+{
+ "id": "PP-2025-7",
+ "source": "bpk",
+ "bpk_id": 314624,
+ "url": "https://peraturan.bpk.go.id/Details/314624/pp-no-7-tahun-2025",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "7",
+ "number_raw": "7",
+ "year": 2025,
+ "title": "Peraturan Pemerintah (PP) Nomor 7 Tahun 2025 tentang Penyesuaian Iuran Jaminan Kecelakaan Kerja bagi Perusahaan Industri Padat Karya Tertentu Tahun 2025",
+ "about": "Penyesuaian Iuran Jaminan Kecelakaan Kerja bagi Perusahaan Industri Padat Karya Tertentu Tahun 2025",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KETENAGAKERJAAN",
+ "field": "HUKUM PERBURUHAN",
+ "date_enacted": "2025-02-07",
+ "date_promulgated": "2025-02-07",
+ "date_effective": "2025-02-07",
+ "gazette": "LN 2025 (15), TLN (7094) : 7 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2025-36",
+   "target_bpk_id": 327872,
+   "label": "PP No. 36 Tahun 2025",
+   "about": "Perubahan atas Peraturan Pemerintah Nomor 7 Tahun 2025 tentang Penyesuaian Iuran Jaminan Kecelakaan Kerja bagi Perusahaan Industri Padat Karya Tertentu Tahun 2025"
+  }
+ ],
+ "abstract": "Untuk menjaga keberlangsungan usaha dan mengantisipasi ketidakmampuan perusahaan industri padat karya tertentu membayar iuran jaminan sosial ketenagakerjaan secara masif, perlu dilakukan penyesuaian iuran program jaminan kecelakaan kerja tahun 2025.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD NRI Tahun 1945; UU Nomor 40 Tahun 2004; UU Nomor 24 Tahun 2011; dan PP Nomor 44 Tahun 2015.\nPP ini mengatur mengenai dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Peraturan Pemerintah ini bertujuan memberikan keringanan pembayaran Iuran JKK pada program jaminan sosial ketenagakerjaan untuk jangka waktu tertentu bagi Perusahaan industri padat karya tertentu dengan tetap memberikan pelindungan bagi Pekerja dari risiko kecelakaan kerja dan penyakit yang disebabkan oleh lingkungan kerja.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 07 Februari 2025.\nPenyesuaian Iuran JKK dan rekomposisi Iuran JKK untuk program JKP sebagaimana dimaksud dalam Peraturan Pemerintah ini berlaku untuk Iuran JKK bulan Februari 2025 sampai dengan Iuran JKK bulan Juli 2025.\nLampiran file: 9 hlm. (batang tubuh hlm 1 s.d. 7 dan penjelasan hlm 8 s.d. 9)",
+ "citations": [
+  "UU-2004-40",
+  "UU-2011-24",
+  "PP-2015-44"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/375604/PP%20Nomor%207%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:29:16Z"
+}

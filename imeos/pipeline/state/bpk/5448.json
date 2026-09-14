@@ -1,0 +1,38 @@
+{
+ "id": "PP-2014-11",
+ "source": "bpk",
+ "bpk_id": 5448,
+ "url": "https://peraturan.bpk.go.id/Details/5448/pp-no-11-tahun-2014",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "11",
+ "number_raw": "11",
+ "year": 2014,
+ "title": "Peraturan Pemerintah (PP) Nomor 11 Tahun 2014 tentang Pungutan Oleh Otoritas Jasa Keuangan",
+ "about": "Pungutan Oleh Otoritas Jasa Keuangan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "",
+ "date_enacted": "2014-02-12",
+ "date_promulgated": "2014-02-12",
+ "date_effective": "2014-02-12",
+ "gazette": "LN. 2014 No. 33, TLN No. 5504, LL SETNEG : 13 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-41",
+   "target_bpk_id": 304105,
+   "label": "PP No. 41 Tahun 2024",
+   "about": "Rencana Kerja dan Anggaran Otoritas Jasa Keuangan dan Pungutan di Sektor Jasa Keuangan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 12 Februari 2014.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/244275/PP%20Nomor%2011%20Tahun%202014.pdf",
+  "https://peraturan.bpk.go.id/Download/244276/PP%20Nomor%2011%20Tahun%202014%20-%20Lampiran.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:29:55Z"
+}

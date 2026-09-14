@@ -1,0 +1,43 @@
+{
+ "id": "PMK-2024-64",
+ "source": "bpk",
+ "bpk_id": 305646,
+ "url": "https://peraturan.bpk.go.id/Details/305646/pmk-no-64-tahun-2024",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "64",
+ "number_raw": "64",
+ "year": 2024,
+ "title": "Peraturan Menteri Keuangan Nomor 64 Tahun 2024 tentang Tata Cara Pembentukan dan Pegelolaan Dana Abadi Daerah",
+ "about": "Tata Cara Pembentukan dan Pegelolaan Dana Abadi Daerah",
+ "issuer": "Kementerian Keuangan",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-09-19",
+ "date_promulgated": "2024-10-04",
+ "date_effective": "2024-10-04",
+ "gazette": "BN.2024 (627)/36 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2026-47",
+   "target_bpk_id": 352097,
+   "label": "PMK No. 47 Tahun 2026",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 64 Tahun 2024 tentang Tata Cara Pembentukan dan Pengelolaan Dana Abadi Daerah"
+  }
+ ],
+ "abstract": "bahwa untuk melaksanakan ketentuan Pasal 82 Peraturan Pemerintah Nomor 1 Tahun 2024 tentang Harmonisasi Kebijakan Fiskal Nasional, perlu menetapkan Peraturan Menteri Keuangan tentang Tata Cara Pembentukan dan Pengelolaan Dana Abadi Daerah;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 1 Tahun 2022, Peraturan Pemerintah Nomor 1 Tahun 2024, Peraturan Presiden Nomor 57 Tahun 2020 dan Peraturan Menteri Keuangan Nomor 118/PMK.01/2021\nPeraturan ini mengatur tentang ketentuan umum, pembentukan, pengelolaan, pemantauan, dan evaluasi DAD, prinsip pengelolaan DAD, pembentukan, pengelolaan, pemantauan dan evaluasi dan ketentuan penutup",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 04 Oktober 2024.",
+ "citations": [
+  "PP-2024-1",
+  "UU-2008-39",
+  "UU-2022-1",
+  "PERPRES-2020-57",
+  "PMK-2021-118"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/365797/2024pmkeuangan064.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:30:32Z"
+}

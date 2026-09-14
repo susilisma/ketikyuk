@@ -1,0 +1,40 @@
+{
+ "id": "PP-2025-10",
+ "source": "bpk",
+ "bpk_id": 314627,
+ "url": "https://peraturan.bpk.go.id/Details/314627/pp-no-10-tahun-2025",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "10",
+ "number_raw": "10",
+ "year": 2025,
+ "title": "Peraturan Pemerintah (PP) Nomor 10 Tahun 2025 tentang Organisasi dan Tata Kelola Badan Pengelola Investasi Daya Anagata Nusantara",
+ "about": "Organisasi dan Tata Kelola Badan Pengelola Investasi Daya Anagata Nusantara",
+ "issuer": "Pemerintah Pusat",
+ "subject": "BUMN - STRUKTUR ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-02-24",
+ "date_promulgated": "2025-02-24",
+ "date_effective": "2025-02-24",
+ "gazette": "LN 2025 (26), TLN (7098) : 22 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2026-19",
+   "target_bpk_id": 349414,
+   "label": "PP No. 19 Tahun 2026",
+   "about": "Perubahan atas Peraturan Pemerintah Nomor 10 Tahun 2025 tentang Organisasi dan Tata Kelola Badan Pengelola Investasi Daya Anagata Nusantara"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 3P dan Pasal 3AA ayat (1) Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 1 Tahun 2025 tentang Perubahan Ketiga atas Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara, perlu menetapkan Peraturan Pemerintah tentang Organisasi dan Tata Kelola Badan Pengelola Investasi Daya Anagata Nusantara.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD NRI Tahun 1945 dan UU Nomor 19 Tahun 2003.\nPP ini mengatur mengenai organisasi dan tata kelola Badan Pengelola Investasi Daya Anagata Nusantara dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Badan Pengelola Investasi Daya Anagata Nusantara yang selanjutnya disebut Badan adalah badan yang melaksanakan tugas pemerintah di bidang pengelolaan BUMN sebagaimana diatur dalam Undang-Undang tentang BUMN. Dalam melaksanakan pengelolaan BUMN, Presiden melimpahkan sebagian tugas dan kewenangannya kepada Badan yang dibentuk dengan Undang-Undang tentang BUMN. Badan dimaksud merupakan badan hukum Indonesia yang sepenuhnya dimiliki oleh Pemerintah Indonesia. Organ Badan terdiri atas Dewan Pengawas dan Badan Pelaksana. Pengaturan organisasi dan tata kelola Danantara dalam Peraturan Pemerintah ini dimaksudkan untuk memberikan landasan hukum yang memadai bogi Danantara dalam melaksanakan pengelolaan BUMN secara efektif.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 24 Februari 2025.\nUntuk pertama kali, dalam rangka percepatan pelaksanaan tugas Badan, Presiden dapat mengangkat menteri yang menyelenggarakan urusan pemerintahan di bidang investasi sebagai Kepala Badan Pelaksana.\nPada saat awal pembentukan Badan, sumber daya manusia pada Badan dapat berasal dari Aparatur Sipil Negara dan/atau pegawai BUMN.\nLampiran file: 28 hlm. (batang tubuh hlm 1 s.d. 22 dan penjelasan hlm 23 s.d. 28)",
+ "citations": [
+  "UU-2003-19",
+  "UU-2025-1"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/375607/PP%20Nomor%2010%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:27:55Z"
+}

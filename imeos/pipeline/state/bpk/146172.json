@@ -1,0 +1,37 @@
+{
+ "id": "PERMENAKER-2016-24",
+ "source": "bpk",
+ "bpk_id": 146172,
+ "url": "https://peraturan.bpk.go.id/Details/146172/permenaker-no-24-tahun-2016",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "24",
+ "number_raw": "24",
+ "year": 2016,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 24 Tahun 2016 tentang Pokok-pokok Pengawasan Intern di Kementerian Ketenagakerjaan",
+ "about": "Pokok-pokok Pengawasan Intern di Kementerian Ketenagakerjaan",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA - PROGRAM, RENCANA PEMBANGUNAN DAN RENCANA KERJA - SISTEM PENGENDALIAN INTERN",
+ "field": "",
+ "date_enacted": "2016-07-29",
+ "date_promulgated": "2016-07-29",
+ "date_effective": "2016-07-29",
+ "gazette": "BN.2016/No.1118, jdih.kemnaker.go.id : 17 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENAKER-2024-8",
+   "target_bpk_id": 311203,
+   "label": "Permenaker No. 8 Tahun 2024",
+   "about": "Tata Kelola Pengawasan Intern di Kementerian Ketenagakerjaan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Ketenagakerjaan Republik Indonesia ini mulai berlaku pada tanggal 29 Juli 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/252271/Kemnaker%20No.%2024%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:41:42Z"
+}

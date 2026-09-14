@@ -1,0 +1,37 @@
+{
+ "id": "POJK-2019-29",
+ "source": "bpk",
+ "bpk_id": 128515,
+ "url": "https://peraturan.bpk.go.id/Details/128515/peraturan-ojk-no-29pojk032019-tahun-2019",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "29",
+ "number_raw": "29/POJK.03/2019",
+ "year": 2019,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 29/POJK.03/2019 Tahun 2019 tentang Kualitas Aset Produktif dan Pembentukan Penyisihan Penghapusan Aset Produktif Bank Pembiayaan Rakyat Syariah",
+ "about": "Kualitas Aset Produktif dan Pembentukan Penyisihan Penghapusan Aset Produktif Bank Pembiayaan Rakyat Syariah",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "",
+ "date_enacted": "2019-11-27",
+ "date_promulgated": "2019-11-29",
+ "date_effective": "2019-12-01",
+ "gazette": "LN.2019/NO.228, TLN NO.6424, Jdih.ojk.go.id: 113 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 323253,
+   "label": "Peraturan OJK No. 24 Tahun 2024",
+   "about": "Kualitas Aset Bank Perekonomian Rakyat Syariah"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 01 Desember 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/119453/pojk%2029-2019.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:44:16Z"
+}

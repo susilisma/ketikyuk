@@ -1,0 +1,45 @@
+{
+ "id": "PMK-2026-9",
+ "source": "bpk",
+ "bpk_id": 345960,
+ "url": "https://peraturan.bpk.go.id/Details/345960/pmk-no-9-tahun-2026",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "9",
+ "number_raw": "9",
+ "year": 2026,
+ "title": "Peraturan Menteri Keuangan Nomor 9 Tahun 2026 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 69 Tahun 2025 tentang Tarif Layanan Badan Layanan Umum Badan Pengelola Dana Perkebunan pada Kementerian Keuangan",
+ "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 69 Tahun 2025 tentang Tarif Layanan Badan Layanan Umum Badan Pengelola Dana Perkebunan pada Kementerian Keuangan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BADAN LAYANAN UMUM",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-02-27",
+ "date_promulgated": "2026-02-27",
+ "date_effective": "2026-02-27",
+ "gazette": "BN.20256 (139/10 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PMK-2025-69",
+   "target_bpk_id": 332100,
+   "label": "PMK No. 69 Tahun 2025",
+   "about": "Tarif Layanan Badan Layanan Umum Badan Pengelola Dana Perkebunan pada Kementerian Keuangan"
+  }
+ ],
+ "abstract": "a. bahwa untuk meningkatkan produktivitas produk\nperkebunan dan memberikan nilai tambah produk hilir\ndi tingkat petani dan industri, diperlukan penyesuaian\nnilai pungutan dana perkebunan atas ekspor kelapa\nsawit, crude palm oil, dan/atau produk turunannya,\nmelalui perubahan tarif layanan atas barang atau jasa\nyang diberikan oleh Badan Layanan Umum Badan\nPengelola Dana Perkebunan pada Kementerian\nKeuangan;\nb. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a dan sesuai dengan ketentuan\nPasal 9 ayat (8) Peraturan Pemerintah Nomor 23 Tahun\n2005 tentang Pengelolaan Keuangan Badan Layanan\nUmum sebagaimana telah diubah dengan Peraturan\nPemerintah Nomor 74 Tahun 2012 tentang Perubahan\natas Peraturan Pemerintah Nomor 23 Tahun 2005\ntentang Pengelolaan Keuangan Badan Layanan Umum,\nperlu menetapkan Peraturan Menteri Keuangan tentang\nPerubahan atas Peraturan Menteri Keuangan Nomor 69\nTahun 2025 tentang Tarif Layanan Badan Layanan\nUmum Badan Pengelola Dana Perkebunan pada\nKementerian Keuangan;\nPasal 17 ayat (3) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945, Undang-Undang Nomor 1 Tahun 2004, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 23 Tahun 2005, Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Menteri Keuangan Nomor 129/PMK.05/2020, Peraturan Menteri Keuangan Nomor 124 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 69 Tahun 2025\nPeraturan ini mengubah ketentuan dalam Lampiran huruf A Peraturan Menteri\nKeuangan Nomor 69 Tahun 2025 tentang Tarif Layanan\nBadan Layanan Umum Badan Pengelola Dana Perkebunan\npada Kementerian Keuangan",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 27 Februari 2026.\nPeraturan Menteri\nKeuangan Nomor 69 Tahun 2025 tentang Tarif Layanan\nBadan Layanan Umum Badan Pengelola Dana Perkebunan\npada Kementerian Keuangan diubah sebagian.",
+ "citations": [
+  "PP-2005-23",
+  "PMK-2025-69",
+  "UU-2004-1",
+  "UU-2008-39",
+  "PERPRES-2024-158",
+  "PMK-2020-129",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/409314/2026pmkeuangan008.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:32:51Z"
+}

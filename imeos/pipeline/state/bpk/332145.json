@@ -1,0 +1,47 @@
+{
+ "id": "PMK-2025-72",
+ "source": "bpk",
+ "bpk_id": 332145,
+ "url": "https://peraturan.bpk.go.id/Details/332145/pmk-no-72-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "72",
+ "number_raw": "72",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 72 Tahun 2025 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 10 Tahun 2025 tentang Pajak Penghasilan Pasal 21 atas Penghasilan Tertentu yang Ditanggung Pemerintah dalam Rangka Stimulus Ekonomi Tahun Anggaran 2025",
+ "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 10 Tahun 2025 tentang Pajak Penghasilan Pasal 21 atas Penghasilan Tertentu yang Ditanggung Pemerintah dalam Rangka Stimulus Ekonomi Tahun Anggaran 2025",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-10-20",
+ "date_promulgated": "2025-10-20",
+ "date_effective": "2025-10-20",
+ "gazette": "BN.2025 (880)/57 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PMK-2025-10",
+   "target_bpk_id": 313517,
+   "label": "PMK No. 10 Tahun 2025",
+   "about": "Pajak Penghasilan Pasal 21 Atas Penghasilan Tertentu Yang Ditanggung Pemerintah Dalam Rangka Stimulus Ekonomi Tahun Anggaran 2025"
+  }
+ ],
+ "abstract": "a. bahwa untuk mendorong pertumbuhan ekonomi dan memperluas penciptaan lapangan kerja bagi masyarakat, diperlukan dukungan pemerintah melalui paket kebijakan ekonomi 2025 untuk program akselerasi 2025, antara lain berupa perluasan pemberian fasilitas fiskal Pajak Penghasilan Pasal 21 ditanggung pemerintah untuk sektor pariwisata;\nb. bahwa ketentuan dalam Peraturan Menteri Keuangan\nNomor 10 Tahun 2025 tentang Pajak Penghasilan Pasal 21 atas Penghasilan Tertentu yang Ditanggung Pemerintah dalam rangka Stimulus Ekonomi Tahun Anggaran 2025 belum menampung kebutuhan penyesuaian kebijakan di bidang perpajakan sebagaimana dimaksud dalam huruf a, sehingga perlu dilakukan perubahan;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a dan huruf b, perlu menetapkan Peraturan Menteri Keuangan tentang Perubahan atas Peraturan Menteri Keuangan Nomor 10 Tahun 2025 tentang Pajak Penghasilan Pasal 21 atas Penghasilan Tertentu yang Ditanggung Pemerintah dalam rangka Stimulus Ekonomi Tahun Anggaran 2025;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 7 Tahun 1983, Undang-Undang Nomor 17 Tahun 2003, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 62 Tahun 2024, Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Presiden Nomor 201 Tahun 2024, Peraturan Menteri Keuangan Nomor 92 Tahun 2023, Peraturan Menteri Keuangan Nomor 124 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 10 Tahun 2025\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor\n10 Tahun 2025 tentang Pajak Penghasilan Pasal 21 atas Penghasilan Tertentu yang Ditanggung Pemerintah Dalam Rangka Stimulus Ekonomi Tahun Anggaran 2025 yaitu tentang ketentuan umum dan kriteria, persyaratan dan jangka waktu pemberian insentif pajak penghasilan Pasal 21 ditanggung pemerintah",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 20 Oktober 2025.",
+ "citations": [
+  "PMK-2025-10",
+  "UU-1983-7",
+  "UU-2003-17",
+  "UU-2008-39",
+  "UU-2024-62",
+  "PERPRES-2024-158",
+  "PERPRES-2024-201",
+  "PMK-2023-92",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/394197/72%20TH%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:32:46Z"
+}

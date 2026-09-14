@@ -1,0 +1,37 @@
+{
+ "id": "PERMENAKER-2020-1",
+ "source": "bpk",
+ "bpk_id": 145059,
+ "url": "https://peraturan.bpk.go.id/Details/145059/permenaker-no-1-tahun-2020",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "1",
+ "number_raw": "1",
+ "year": 2020,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 1 Tahun 2020 tentang Perubahan atas Peraturan Menteri Ketenagakerjaan Nomor 33 Tahun 2016 tentang Tata Cara Pengawasan Ketenagakerjaan",
+ "about": "Perubahan atas Peraturan Menteri Ketenagakerjaan Nomor 33 Tahun 2016 tentang Tata Cara Pengawasan Ketenagakerjaan",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "KETENAGAKERJAAN",
+ "field": "",
+ "date_enacted": "2020-01-10",
+ "date_promulgated": "2020-01-10",
+ "date_effective": "2020-01-10",
+ "gazette": "BN.2020/No.12, jdih.kemnaker.go.id : 12 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENAKER-2026-11",
+   "target_bpk_id": 351282,
+   "label": "Permenaker No. 11 Tahun 2026",
+   "about": "Tata Cara Pengawasan Ketenagakerjaan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Ketenagakerjaan Republik Indonesia ini mulai berlaku pada tanggal 10 Januari 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/136862/Permenaker%20Nomor%201%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:40:30Z"
+}

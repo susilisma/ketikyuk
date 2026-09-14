@@ -1,0 +1,53 @@
+{
+ "id": "PP-2025-44",
+ "source": "bpk",
+ "bpk_id": 331115,
+ "url": "https://peraturan.bpk.go.id/Details/331115/pp-no-44-tahun-2025",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "44",
+ "number_raw": "44",
+ "year": 2025,
+ "title": "Peraturan Pemerintah (PP) Nomor 44 Tahun 2025 tentang Tata Cara Penetapan Tarif, Pengelolaan, dan Penyelesaian Keberatan, Keringanan, dan Pengembalian Penerimaan Negara Bukan Pajak",
+ "about": "Tata Cara Penetapan Tarif, Pengelolaan, dan Penyelesaian Keberatan, Keringanan, dan Pengembalian Penerimaan Negara Bukan Pajak",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PENGELOLAAN KEUANGAN NEGARA / DAERAH - PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-09-19",
+ "date_promulgated": "2025-09-19",
+ "date_effective": "2025-09-19",
+ "gazette": "LN 2025 (156), TLN (7140) : 58 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PP-2020-69",
+   "target_bpk_id": 155019,
+   "label": "PP No. 69 Tahun 2020",
+   "about": "Tata Cara Penetapan Tarif atas Jenis Penerimaan Negara Bukan Pajak"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2020-59",
+   "target_bpk_id": 149349,
+   "label": "PP No. 59 Tahun 2020",
+   "about": "Tata Cara Pengajuan dan Penyelesaian Keberatan, Keringanan, dan Pengembalian Penerimaan Negara Bukan Pajak"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2020-58",
+   "target_bpk_id": 149347,
+   "label": "PP No. 58 Tahun 2020",
+   "about": "Pengelolaan Penerimaan Negara Bukan Pajak"
+  }
+ ],
+ "abstract": "Untuk mengoptimalkan Penerimaan Negara Bukan Pajak dan meningkatkan pelayanan kepada masyarakat, perlu dilakukan penyederhanaan pengaturan tata cara penetapan tarif atas jenis Penerimaan Negara Bukan Pajak, pengelolaan Penerimaan Negara Bukan Pajak, serta pengajuan dan penyelesaian keberatan, keringanan, dan pengembalian Penerimaan Negara Bukan Pajak.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945 dan UU Nomor 9 Tahun 2018.\nPP ini mengatur mengenai Tata Cara Penetapan Tarif, Pengelolaan, dan Penyelesaian Keberatan, Keringanan, dan Pengembalian Penerimaan Negara Bukan Pajak. Penguatan pengaturan tata kelola PNBP yang dituangkan dalam Peraturan Pemerintah ini terdiri atas: 1) penguatan penyusunan regulasi penetapan jenis dan tarif atas jenis PNBP yang dapat mengantisipasi dinamika masyarakat, kebijakan Pemerintah, dan perkembangan ekonomi; 2) Pengelolaan PNBP yang efektif dan efisien termasuk penyelarasan dengan ketentuan anggaran pendapatan dan belanja negara, Pengelolaan PNBP Terutang yang lebih optimal, dan penguatan optimalisasi penagihan piutang PNBP; 3) pengaturan keberatan, keringanan, dan pengembalian PNBP yang mempermudah dalam tahapan implementasi bagi pihak-pihak terkait; dan 4) memberikan penegasan kewenangan lain Menteri Keuangan di bidang PNBP.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 19 September 2025.\nPP ini mencabut PP Nomor 58 Tahun 2020; PP Nomor 59 Tahun 2020; dan PP Nomor 69 Tahun 2020.\nLampiran file: 92 hlm (batang tubuh hlm 1 sd 58 dan penjelasan hlm 59 sd 92)",
+ "citations": [
+  "UU-2018-9"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/393141/PP%20Nomor%2044%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:28:56Z"
+}

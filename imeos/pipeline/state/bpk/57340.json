@@ -1,0 +1,184 @@
+{
+ "id": "KEPPRES-2001-103",
+ "source": "bpk",
+ "bpk_id": 57340,
+ "url": "https://peraturan.bpk.go.id/Details/57340/keppres-no-103-tahun-2001",
+ "form": "KEPPRES",
+ "form_long": "Keputusan Presiden (Keppres)",
+ "number": "103",
+ "number_raw": "103",
+ "year": 2001,
+ "title": "Keputusan Presiden (Keppres) Nomor 103 Tahun 2001 tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, dan Tata Kerja Lembaga Pemerintah Non Departemen",
+ "about": "Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, dan Tata Kerja Lembaga Pemerintah Non Departemen",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "",
+ "date_enacted": "2001-09-13",
+ "date_promulgated": null,
+ "date_effective": "2001-09-13",
+ "gazette": "",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PERPRES-2024-181",
+   "target_bpk_id": 306842,
+   "label": "Perpres No. 181 Tahun 2024",
+   "about": "Badan Kependudukan dan Keluarga Berencana Nasional"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PERPRES-2024-180",
+   "target_bpk_id": 306857,
+   "label": "Perpres No. 180 Tahun 2024",
+   "about": "Kementerian Kependudukan dan Pembangunan Keluarga"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2015-145",
+   "target_bpk_id": 41905,
+   "label": "PERPRES No. 145 Tahun 2015",
+   "about": "Perubahan Kedelapan atas Keputusan Presiden Nomor 103 Tahun 2001 tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, dan Tata Kerja Lembaga Pemerintah Non Kementerian"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2005-64",
+   "target_bpk_id": 42591,
+   "label": "PERPRES No. 64 Tahun 2005",
+   "about": "Perubahan Keenam atas Keputusan Presiden Nomor 103 Tahun 2001 Tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, dan Tata Kerja Lembaga Pemerintah Non Departemen"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 55563,
+   "label": "KEPPRES No. 9 Tahun 2004",
+   "about": "Perubahan Atas Keputusan Presiden Nomor 103 Tahun 2001 Tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, Dan Tata Kerja Lembaga Pemerintah Non Departemen Sebagaimana Telah Beberapa Kali Diubah Terakhir Dengan Keputusan Presiden Nomor 30 Tahun 2003"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 56118,
+   "label": "KEPPRES No. 30 Tahun 2003",
+   "about": "Perubahan Atas Keputusan Presiden Nomor 103 Tahun 2001 Tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, Dan Tata Kerja Lembaga Pemerintah Non Departemen Sebagaimana Telah Beberapa Kali Diubah Terakhir Dengan Keputusan Presiden Nomor 46 Tahun 2002"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 56694,
+   "label": "KEPPRES No. 46 Tahun 2002",
+   "about": "Perubahan Atas Keputusan Presiden Nomor 103 Tahun 2001 Tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, Dan Tata Kerja Lembaga Pemerintah Non Departemen Sebagaimana Telah Diubah Dengan Keputusan Presiden Nomor 3 Tahun 2002"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 56485,
+   "label": "KEPPRES No. 3 Tahun 2002",
+   "about": "Perubahan Atas Keputusan Presiden Nomor 103 Tahun 2001 Tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, Dan Tata Kerja Lembaga Pemerintah Non Departemen"
+  },
+  {
+   "type": "Diubah sebagian dengan",
+   "target": "PERPRES-2015-49",
+   "target_bpk_id": 41785,
+   "label": "PERPRES No. 49 Tahun 2015",
+   "about": "Lembaga Penerbangan dan Antariksa Nasional"
+  },
+  {
+   "type": "Diubah sebagian dengan",
+   "target": "PERPRES-2011-94",
+   "target_bpk_id": 41241,
+   "label": "PERPRES No. 94 Tahun 2011",
+   "about": "Badan Informasi Geospasial"
+  },
+  {
+   "type": "Diubah sebagian dengan",
+   "target": "PERPRES-2010-62",
+   "target_bpk_id": 41067,
+   "label": "PERPRES No. 62 Tahun 2010",
+   "about": "Badan Kependudukan dan Keluarga Berencana Nasional"
+  },
+  {
+   "type": "Diubah sebagian dengan",
+   "target": "PERPRES-2010-34",
+   "target_bpk_id": 41052,
+   "label": "PERPRES No. 34 Tahun 2010",
+   "about": "Badan Intelijen Negara"
+  },
+  {
+   "type": "Diubah sebagian dengan",
+   "target": "PERPRES-2008-61",
+   "target_bpk_id": 42232,
+   "label": "PERPRES No. 61 Tahun 2008",
+   "about": "Badan Meteorologi, Klimatologi, dan Geofosika"
+  },
+  {
+   "type": "Diubah sebagian dengan",
+   "target": "PERPRES-2007-90",
+   "target_bpk_id": 42141,
+   "label": "PERPRES No. 90 Tahun 2007",
+   "about": "Badan Koordinasi Penanaman Modal"
+  },
+  {
+   "type": "Diubah sebagian dengan",
+   "target": "PERPRES-2007-86",
+   "target_bpk_id": 42158,
+   "label": "PERPRES No. 86 Tahun 2007",
+   "about": "Badan Pusat Statistik"
+  },
+  {
+   "type": "Diubah sebagian dengan",
+   "target": "PERPRES-2007-82",
+   "target_bpk_id": 42135,
+   "label": "PERPRES No. 82 Tahun 2007",
+   "about": "Badan Perencanaan Pembangunan Nasional"
+  },
+  {
+   "type": "Diubah sebagian dengan",
+   "target": "PERPRES-2006-67",
+   "target_bpk_id": 42003,
+   "label": "PERPRES No. 67 Tahun 2006",
+   "about": "Lembaga Ketahanan Nasional Republik Indonesia"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 57226,
+   "label": "KEPPRES No. 62 Tahun 2001",
+   "about": "Perubahan Atas Keputusan Presiden Nomor 166 Tahun 2000 Tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, Dan Tata Kerja Lembaga Pemerintah Non Departemen Sebagaimana Telah Beberapa Kali Diubah Terakhir Dengan Keputusan Presiden Nomor 42 Tahun 2001"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 57141,
+   "label": "KEPPRES No. 42 Tahun 2001",
+   "about": "Perubahan Atas Keputusan Presiden Nomor 166 Tahun 2000 Tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi Dan Tata Kerja Lembaga Pemerintah Non Departemen Sebagaimana Telah Beberapa Kali Diubah Terakhir Dengan Keputusan Presiden Nomor 16 Tahun 2001"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 57045,
+   "label": "KEPPRES No. 16 Tahun 2001",
+   "about": "Perubahan Atas Keputusan Presiden Nomor 166 Tahun 2000 Tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, Dan Tata Kerja Lembaga Pemerintah Non Departemen Sebagaimana Telah Diubah Dengan Keputusan Presiden Nomor 173 Tahun 2000"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 58292,
+   "label": "KEPPRES No. 173 Tahun 2000",
+   "about": "Perubahan Atas Keputusan Presiden Nomor 166 Tahun 2000 Tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, Dan Tata Kerja Lembaga Pemerintah Non Departemen"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 58269,
+   "label": "KEPPRES No. 166 Tahun 2000",
+   "about": "Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, Dan Tata Kerja Lembaga Pemerintah Non Departemen"
+  }
+ ],
+ "abstract": "",
+ "note": "Keputusan Presiden (KEPPRES) ini mulai berlaku pada tanggal 13 September 2001.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/46795/Keputusan_Presiden_no_103_th_2001.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:27:22Z"
+}

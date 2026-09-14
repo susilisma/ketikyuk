@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2015-77",
+ "source": "bpk",
+ "bpk_id": 41822,
+ "url": "https://peraturan.bpk.go.id/Details/41822/perpres-no-77-tahun-2015",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "77",
+ "number_raw": "77",
+ "year": 2015,
+ "title": "Peraturan Presiden (Perpres) Nomor 77 Tahun 2015 tentang Pedoman Organisasi Rumah Sakit",
+ "about": "Pedoman Organisasi Rumah Sakit",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KESEHATAN",
+ "field": "",
+ "date_enacted": "2015-07-03",
+ "date_promulgated": "2015-07-03",
+ "date_effective": "2015-07-03",
+ "gazette": "LN.2015/NO.159, LL SETKAB : 16 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-28",
+   "target_bpk_id": 294077,
+   "label": "PP No. 28 Tahun 2024",
+   "about": "Peraturan Pelaksanaan Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 57137,
+   "label": "KEPPRES No. 40 Tahun 2001",
+   "about": "Pedoman Kelembagaan Dan Pengelolaan Rumah Sakit Daerah"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 03 Juli 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/70883/Perpres%20Nomor%2077%20Tahun%202015.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:30:46Z"
+}

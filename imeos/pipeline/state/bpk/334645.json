@@ -1,0 +1,40 @@
+{
+ "id": "PERPRES-2025-105",
+ "source": "bpk",
+ "bpk_id": 334645,
+ "url": "https://peraturan.bpk.go.id/Details/334645/perpres-no-105-tahun-2025",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "105",
+ "number_raw": "105",
+ "year": 2025,
+ "title": "Peraturan Presiden (Perpres) Nomor 105 Tahun 2025 tentang Badan Pengaturan Badan Usaha Milik Negara",
+ "about": "Badan Pengaturan Badan Usaha Milik Negara",
+ "issuer": "Pemerintah Pusat",
+ "subject": "BUMN - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-10-07",
+ "date_promulgated": "2025-10-07",
+ "date_effective": "2025-10-07",
+ "gazette": "LN 2025 (167) : 24 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2024-179",
+   "target_bpk_id": 306863,
+   "label": "Perpres No. 179 Tahun 2024",
+   "about": "Kementerian Badan Usaha Milik Negara"
+  }
+ ],
+ "abstract": "Berdasarkan ketentuan Pasal 3A ayat (3) dan ayat (6) Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara sebagaimana telah beberapa kali diubah, terakhir dengan Undang-Undang Nomor 16 Tahun 2025 tentang Perubahan Keempat atas Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara, dibentuk Badan Pengaturan Badan Usaha Milik Negara sebagai regulator yang bertugas untuk menetapkan kebijakan, mengatur, membina, mengoordinasikan, dan mengawasi penyelenggaraan kebijakan pengelolaan badan usaha milik negara.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD 1945 dan UU No. 19 Tahun 2003.\nPerpres ini mengatur mengenai pembentukan Badan Pengaturan Badan Usaha Milik Negara (BP BUMN) yang berada di bawah dan bertanggung jawab kepada presiden. BP BUMN dipimpin oleh kepala. BP BUMN melaksanakan tugas pemerintahan di bidang pengaturan badan usaha milik negara sesuai dengan ketentuan peraturan perundang-undangan.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 07 Oktober 2025.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 179 Tahun 2024 tentang Kementerian Badan Usaha Milik Negara (Lembaran Negara Republik Indonesia Tahun 2024 Nomor 375), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 24 hlm.",
+ "citations": [
+  "UU-2003-19",
+  "UU-2025-16"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/397210/Perpres%20Nomor%20105%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:31Z"
+}

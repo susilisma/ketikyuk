@@ -1,0 +1,45 @@
+{
+ "id": "PERMENAKER-2025-14",
+ "source": "bpk",
+ "bpk_id": 343010,
+ "url": "https://peraturan.bpk.go.id/Details/343010/permenaker-no-14-tahun-2025",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "14",
+ "number_raw": "14",
+ "year": 2025,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 14 Tahun 2025 tentang Standar Kegiatan Usaha dan Standar Produk/Jasa pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Ketenagakerjaan",
+ "about": "Standar Kegiatan Usaha dan Standar Produk/Jasa pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Ketenagakerjaan",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "KETENAGAKERJAAN - PERIZINAN, PELAYANAN PUBLIK - STANDAR / PEDOMAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-11-18",
+ "date_promulgated": "2025-11-21",
+ "date_effective": "2025-11-21",
+ "gazette": "BN 2025 (959); 61 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENAKER-2021-6",
+   "target_bpk_id": 171225,
+   "label": "Permenaker No. 6 Tahun 2021",
+   "about": "Standar Kegiatan Usaha dan/atau Produk pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Ketenagakerjaan"
+  }
+ ],
+ "abstract": "bahwa untuk melaksanakan ketentuan Pasal 5 ayat (7), Pasal 337 huruf a, dan Pasal 523 huruf a Peraturan Pemerintah Nomor 28 Tahun 2025 tentang Penyelenggaraan Perizinan Berusaha Berbasis Risiko\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD NRI Tahun 1945; UU Nomor 13 Tahun 2003 sebagaimana diubah dengan UU Nomor 6 Tahun 2023; UU Nomor 39 Tahun 2008 sebagaimana diubah dengan UU Nomor 61 Tahun 2024; PP Nomor 28 Tahun 2025; Perpres Nomor 164 Tahun 2024; Permenaker Nomor 20 Tahun 2024.\nPeraturan ini mengatur mengenai standar kegiatan usaha Perizinan Berusaha Berbasis Risiko sektor ketenagakerjaan, yang terdiri atas Perizinan Berusaha dan Perizinan Berusaha Untuk Menunjang Kegiatan Usaha",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 21 November 2025.",
+ "citations": [
+  "PP-2025-28",
+  "UU-2003-13",
+  "UU-2023-6",
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2024-164",
+  "PERMENAKER-2024-20"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/406184/permenaker-no-14-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:40:59Z"
+}

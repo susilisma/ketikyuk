@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2011-63",
+ "source": "bpk",
+ "bpk_id": 41181,
+ "url": "https://peraturan.bpk.go.id/Details/41181/perpres-no-63-tahun-2011",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "63",
+ "number_raw": "63",
+ "year": 2011,
+ "title": "Peraturan Presiden (Perpres) Nomor 63 Tahun 2011 tentang Organisasi dan Tata Kerja Instansi Vertikal Kementerian Agama",
+ "about": "Organisasi dan Tata Kerja Instansi Vertikal Kementerian Agama",
+ "issuer": "Pemerintah Pusat",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "",
+ "date_enacted": "2011-09-20",
+ "date_promulgated": null,
+ "date_effective": "2011-09-20",
+ "gazette": "LL SETKAB : 10 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-152",
+   "target_bpk_id": 306650,
+   "label": "Perpres No. 152 Tahun 2024",
+   "about": "Kementerian Agama"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2008-81",
+   "target_bpk_id": 42243,
+   "label": "PERPRES No. 81 Tahun 2008",
+   "about": "Organisasi dan Tata Kerja Instansi Vertikal Departemen Agama"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 20 September 2011.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/69565/Perpres_no_63_2011.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:28:21Z"
+}

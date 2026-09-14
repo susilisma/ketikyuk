@@ -1,0 +1,72 @@
+{
+ "id": "UU-1997-25",
+ "source": "bpk",
+ "bpk_id": 46026,
+ "url": "https://peraturan.bpk.go.id/Details/46026/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "25",
+ "number_raw": "25",
+ "year": 1997,
+ "title": "Undang-undang (UU) Nomor 25 Tahun 1997 tentang Ketenagakerjaan",
+ "about": "Ketenagakerjaan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KETENAGAKERJAAN",
+ "field": "",
+ "date_enacted": "1997-10-03",
+ "date_promulgated": "1997-10-03",
+ "date_effective": "1998-10-01",
+ "gazette": "LN. 1997/TLN NO. 3702, LL SETNEG : 87HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2003-13",
+   "target_bpk_id": 43013,
+   "label": "UU No. 13 Tahun 2003",
+   "about": "Ketenagakerjaan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-1998-11",
+   "target_bpk_id": 45490,
+   "label": "UU No. 11 Tahun 1998",
+   "about": "Perubahan Berlakunya Undang-Undang Nomor 25 Tahun 1997 tentang Ketenagakerjaan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1969-14",
+   "target_bpk_id": 49118,
+   "label": "UU No. 14 Tahun 1969",
+   "about": "Ketentuan-Ketentuan Pokok Mengenai Tenaga Kerja"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1958-3",
+   "target_bpk_id": 51603,
+   "label": "UU No. 3 Tahun 1958",
+   "about": "Penempatan Tenaga Asing"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1954-21",
+   "target_bpk_id": 50406,
+   "label": "UU No. 21 Tahun 1954",
+   "about": "Perjanjian Perburuhan antara Serikat Buruh dan Majikan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1951-1",
+   "target_bpk_id": 39807,
+   "label": "UU No. 1 Tahun 1951",
+   "about": "Pernyataan Berlakunya Undang-Undang Kerja Tahun 1948 Nr. 12 dari Republik Indonesia untuk Seluruh Indonesia"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 01 Oktober 1998.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/34580/UU%20Nomor%2025%20Tahun%201997.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:16Z"
+}

@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2017-147",
+ "source": "bpk",
+ "bpk_id": 112849,
+ "url": "https://peraturan.bpk.go.id/Details/112849/pmk-no-147pmk032017",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "147",
+ "number_raw": "147/PMK.03/2017",
+ "year": 2017,
+ "title": "Peraturan Menteri Keuangan Nomor 147/PMK.03/2017 Tahun 2017 tentang Tata Cara Pendaftaran Wajib Pajak Dan Penghapusan Nomor Pokok Wajib Pajak Serta Pengukuhan Dan Pencabutan Pengukuhan Pengusaha Kena Pajak",
+ "about": "Tata Cara Pendaftaran Wajib Pajak Dan Penghapusan Nomor Pokok Wajib Pajak Serta Pengukuhan Dan Pencabutan Pengukuhan Pengusaha Kena Pajak",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "",
+ "date_enacted": "2017-10-31",
+ "date_promulgated": "2017-10-31",
+ "date_effective": "2017-11-01",
+ "gazette": "BN.2017/NO.1516, jdih.kemenkeu.go.id : 55 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-81",
+   "target_bpk_id": 306614,
+   "label": "PMK No. 81 Tahun 2024",
+   "about": "Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2015-182",
+   "target_bpk_id": 121751,
+   "label": "PMK No. 182/PMK.03/2015",
+   "about": "Tata Cara Pendaftaran Nomor Pokok Wajib Pajak, Pengukuhan Pengusaha Kena Pajak, Penghapusan Nomor Pokok Wajib Pajak, Dan Pencabutan Pengukuhan Pengusaha Kena Pajak"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 01 November 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/103807/PMK%20Nomor%20147%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:35:06Z"
+}

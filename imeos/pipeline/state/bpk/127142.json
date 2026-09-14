@@ -1,0 +1,37 @@
+{
+ "id": "PMK-2011-76",
+ "source": "bpk",
+ "bpk_id": 127142,
+ "url": "https://peraturan.bpk.go.id/Details/127142/pmk-no-76pmk032011",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "76",
+ "number_raw": "76/PMK.03/2011",
+ "year": 2011,
+ "title": "Peraturan Menteri Keuangan Nomor 76/PMK.03/2011 Tahun 2011 tentang Tata Cara Pencatatan Dan Pelaporan Sumbangan Penanggulangan Bencana Nasional, Sumbangan Penelitian Dan Pengembangan, Sumbangan Fasilitas Pendidikan, Sumbangan Pembinaan Olahraga, Dan Biaya Pembangunan Infrastruktur Sosial Yang Dapat Dikurangkan Dari Penghasilan Bruto",
+ "about": "Tata Cara Pencatatan Dan Pelaporan Sumbangan Penanggulangan Bencana Nasional, Sumbangan Penelitian Dan Pengembangan, Sumbangan Fasilitas Pendidikan, Sumbangan Pembinaan Olahraga, Dan Biaya Pembangunan Infrastruktur Sosial Yang Dapat Dikurangkan Dari Penghasilan Bruto",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BANTUAN, SUMBANGAN, BENCANA / KEBENCANAAN, DAN PENANGGULANGAN BENCANA",
+ "field": "",
+ "date_enacted": "2011-04-05",
+ "date_promulgated": "2011-04-05",
+ "date_effective": "2011-04-05",
+ "gazette": "BN.2011/NO.205, jdih.kemenkeu.go.id : 4 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-114",
+   "target_bpk_id": 342503,
+   "label": "PMK No. 114 Tahun 2025",
+   "about": "Perlakuan atas Bantuan atau Sumbangan Termasuk Zakat atau Sumbangan Keagamaan yang Sifatnya Wajib, serta Harta Hibahan dalam Pajak Penghasilan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 05 April 2011.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/118160/2011%20PMK%2076.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:31:45Z"
+}

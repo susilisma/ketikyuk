@@ -1,0 +1,38 @@
+{
+ "id": "PERPRES-2012-72",
+ "source": "bpk",
+ "bpk_id": 41327,
+ "url": "https://peraturan.bpk.go.id/Details/41327/perpres-no-72-tahun-2012",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "72",
+ "number_raw": "72",
+ "year": 2012,
+ "title": "Peraturan Presiden (Perpres) Nomor 72 Tahun 2012 tentang Sistem Kesehatan Nasional",
+ "about": "Sistem Kesehatan Nasional",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KESEHATAN",
+ "field": "",
+ "date_enacted": "2012-08-13",
+ "date_promulgated": "2012-10-17",
+ "date_effective": "2012-10-17",
+ "gazette": "LN.2012/NO.193, LL SETKAB : 7 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2026-13",
+   "target_bpk_id": 348120,
+   "label": "Perpres No. 13 Tahun 2026",
+   "about": "Pengelolaan Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 17 Oktober 2012.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/69210/Peraturan%20Presiden%20No%2072%20Tahun%202012.pdf",
+  "https://peraturan.bpk.go.id/Download/69211/Peraturan%20Presiden%20No%2072%20Tahun%202012%20_%20Lamp.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:31:51Z"
+}

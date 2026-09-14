@@ -1,0 +1,49 @@
+{
+ "id": "PERPRES-2020-73",
+ "source": "bpk",
+ "bpk_id": 141043,
+ "url": "https://peraturan.bpk.go.id/Details/141043/perpres-no-73-tahun-2020",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "73",
+ "number_raw": "73",
+ "year": 2020,
+ "title": "Peraturan Presiden (Perpres) Nomor 73 Tahun 2020 tentang Kementerian Koordinator Bidang Politik, Hukum, dan Keamanan",
+ "about": "Kementerian Koordinator Bidang Politik, Hukum, dan Keamanan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI - STRUKTUR ORGANISASI",
+ "field": "",
+ "date_enacted": "2020-07-02",
+ "date_promulgated": "2020-07-03",
+ "date_effective": "2020-07-03",
+ "gazette": "LN.2020/NO.159, JDIH.SETKAB.GO.ID : 23 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-141",
+   "target_bpk_id": 306461,
+   "label": "Perpres No. 141 Tahun 2024",
+   "about": "Kementerian Koordinator Bidang Politik dan Keamanan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2015-43",
+   "target_bpk_id": 41778,
+   "label": "PERPRES No. 43 Tahun 2015",
+   "about": "Kementerian Koordinator Bidang Politik, Hukum, dan Keamanan"
+  }
+ ],
+ "abstract": "Sebagai tindak lanjut ditetapkannya Keputusan Presiden Nomor 113/P Tahun 2019 tentang Pembentukan Kementerian Negara dan Pengangkatan Menteri Negara Kabinet Indonesia Maju Periode Tahun 2019-2024 dan untuk melaksanakan ketentuan Pasal 11 dan Pasal 14 Undang-Undang Nomor 39 Tahun 2008 tentang Kernenterian Negara, perlu menetapkan Peraturan Presiden tentang Kementerian Koordinator Bidang Politik, Hukum, dan Keamanan.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) dan Pasal 17 UUD 1945; UU Nomor 39 Tahun 2008 tentang Kementerian Negara; Perpres Nomor 67 Tahun 2019 tentang Penataan Tugas dan Fungsi Kementerian Negara Kabinet Indonesia Maju Periode Tahun 2019-2024; Perpres Nomor 68 Tahun 2019 tentang Organisasi Kementerian Negara.\nPerpres ini mengatur antara lain mengenai kedudukan, tugas, dan fungsi Kementerian Koordinator Bidang Politik, Hukum, dan Keamanan yang berada di bawah dan bertanggung jawab kepada presiden dan di pimpin oleh Menteri Koordinator. Kementerian Koordinator Bidang Politik, Hukum, dan Keamanan mempunyai tugas menyelenggarakan koordinasi, sinkronisasi, dan pengendalian urusan Kementerian dalam penyelenggaraan pemerintahan dibidang politik, hukum, dan keamanan.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 03 Juli 2020.\nPerpres ini mencabut Undang-Undang Nomor 43 Tahun 2015\nketentuan mengenai Kementerian Koordinator Bidang Politik, Hukum, dan Keamanan sebagaimana diatur dalam Peraturan Presiden Nomor 43 Tahun 2015 tentang Kementerian Koordinator Bidang Politik, Hukum, dan Keamanan.",
+ "citations": [
+  "KEPPRES-2019-113",
+  "UU-2008-39",
+  "PERPRES-2019-67",
+  "PERPRES-2019-68"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/132429/Perpres%20Nomor%2073%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:28:44Z"
+}

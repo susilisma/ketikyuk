@@ -1,0 +1,46 @@
+{
+ "id": "PERPRES-2024-57",
+ "source": "bpk",
+ "bpk_id": 284228,
+ "url": "https://peraturan.bpk.go.id/Details/284228/perpres-no-57-tahun-2024",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "57",
+ "number_raw": "57",
+ "year": 2024,
+ "title": "Peraturan Presiden (Perpres) Nomor 57 Tahun 2024 tentang Petunjuk Teknis Dana Alokasi Khusus Fisik",
+ "about": "Petunjuk Teknis Dana Alokasi Khusus Fisik",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PENGELOLAAN KEUANGAN NEGARA / DAERAH - STANDAR / PEDOMAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-04-22",
+ "date_promulgated": "2024-04-22",
+ "date_effective": "2024-04-22",
+ "gazette": "LN 2024 (75) : 8 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2025-71",
+   "target_bpk_id": 338421,
+   "label": "Perpres No. 71 Tahun 2025",
+   "about": "Perubahan atas Peraturan Presiden Nomor 57 Tahun 2024 tentang Petunjuk Teknis Dana Alokasi Khusus Fisik"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 66 ayat (2) PP Nomor 37 Tahun 2023 tentang Pengelolaan Transfer ke Daerah, perlu menetapkan Perpres tentang Petunjuk Teknis Dana Alokasi Khusus Fisik.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 dan PP Nomor 37 Tahun 2023.\nPerpres ini mengatur tentang Petunjuk Teknis Dana Alokasi Khusus Fisik (DAK Fisik) dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. DAK Fisik digunakan untuk mendukung pembangunan/pengadaan sarana prasarana layanan publik daerah. DAK Fisik terdiri atas bidang/subbidang yang ditetapkan dalam undang-undang mengenai anggaran pendapatan dan belanja negara dan peraturan presiden mengenai rincian anggaran pendapatan dan belanja negara. Pelaksanaan DAK Fisik mengutamakan penggunaan: 1) tenaga kerja lokal; 2) produk usaha mikro, usaha kecil, koperasi, dan industri kecil dan menengah; dan/atau 3) produk dalam negeri.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 22 April 2024.\nLampiran file: 8 hlm.",
+ "citations": [
+  "PP-2023-37"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/343278/Perpres%20Nomor%2057%20Tahun%202024.pdf",
+  "https://peraturan.bpk.go.id/Download/343612/Perpres%20Nomor%2057%20Tahun%202024%20-%20Lamp.%20Hlm.%201%20-%20555-c.pdf",
+  "https://peraturan.bpk.go.id/Download/343613/Perpres%20Nomor%2057%20Tahun%202024%20-%20Lamp.%20Hlm.%20556%20-%20995-c.pdf",
+  "https://peraturan.bpk.go.id/Download/343615/Perpres%20Nomor%2057%20Tahun%202024%20-%20Lamp.%20Hlm.%20996%20-%201350-c.pdf",
+  "https://peraturan.bpk.go.id/Download/343617/Perpres%20Nomor%2057%20Tahun%202024%20-%20Lamp.%20Hlm.%201351%20-%201794-c.pdf",
+  "https://peraturan.bpk.go.id/Download/343620/Perpres%20Nomor%2057%20Tahun%202024%20-%20Lamp.%20Hlm.%201795%20-%202000_c.pdf",
+  "https://peraturan.bpk.go.id/Download/343630/Perpres%20Nomor%2057%20Tahun%202024%20-%20Lamp.%20Hlm.%202001%20-%202304-c.pdf",
+  "https://peraturan.bpk.go.id/Download/343652/Perpres%20Nomor%2057%20Tahun%202024%20-%20Lamp.%20Hlm.%202305%20-%202682_c.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:33:15Z"
+}

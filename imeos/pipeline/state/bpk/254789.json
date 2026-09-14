@@ -1,0 +1,184 @@
+{
+ "id": "PMK-2023-62",
+ "source": "bpk",
+ "bpk_id": 254789,
+ "url": "https://peraturan.bpk.go.id/Details/254789/pmk-no-62-tahun-2023",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "62",
+ "number_raw": "62",
+ "year": 2023,
+ "title": "Peraturan Menteri Keuangan Nomor 62 Tahun 2023 tentang Perencanaan Anggaran, Pelaksanaan Anggaran, serta Akuntansi dan Pelaporan Keuangan",
+ "about": "Perencanaan Anggaran, Pelaksanaan Anggaran, serta Akuntansi dan Pelaporan Keuangan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PENGELOLAAN KEUANGAN NEGARA / DAERAH - KEBIJAKAN AKUNTANSI - STANDAR / PEDOMAN",
+ "field": "",
+ "date_enacted": "2023-06-20",
+ "date_promulgated": "2023-06-23",
+ "date_effective": "2023-06-23",
+ "gazette": "BN 2023 (472): 188 hlm, jdih.kemenkeu.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2026-41",
+   "target_bpk_id": 350880,
+   "label": "PMK No. 41 Tahun 2026",
+   "about": "Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 62 Tahun 2023 tentang Perencanaan Anggaran, Pelaksanaan Anggaran, Serta Akuntansi dan Pelaporan Keuangan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2024-107",
+   "target_bpk_id": 315595,
+   "label": "PMK No. 107 Tahun 2024",
+   "about": "Perubahan Atas Peraturan Menteri Keuangan Nomor 62 Tahun 2023 tentang Perencanaan Anggaran, Pelaksanaan Anggaran Serta Akuntansi dan Pelaporan Keuangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2022-210",
+   "target_bpk_id": 235447,
+   "label": "PMK No. 210/PMK.05/2022",
+   "about": "Tata Cara Pembayaran dalam rangka Pelaksanaan Anggaran Pendapatan dan Belanja Negara"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2021-23",
+   "target_bpk_id": 164127,
+   "label": "PMK No. 23/PMK.02/2021",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 127/PMK.02/2020 tentang Tata Cara Penggunaan dan Pergeseran Anggaran pada Bagian Anggaran Bendahara Umum Negara Pengelolaan Belanja Lainnya (BA 999.08)"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2021-22",
+   "target_bpk_id": 164126,
+   "label": "PMK No. 22/PMK.02/2021",
+   "about": "Pengukuran dan Evaluasi Kinerja Anggaran atas Pelaksanaan Rencana Kerja dan Anggaran Kementerian Negara/Lembaga"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2021-204",
+   "target_bpk_id": 209305,
+   "label": "PMK No. 204/PMK.02/2021",
+   "about": "Evaluasi Kinerja Anggaran atas Penggunaan Dana Bendahara Umum Negara"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2021-2",
+   "target_bpk_id": 158355,
+   "label": "PMK No. 2/PMK.02/2021",
+   "about": "Tata Cara Pemberian Penghargaan dan/atau Pengenaan Sanksi atas Kinerja Anggaran Kementerian Negara/Lembaga"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2021-199",
+   "target_bpk_id": 200592,
+   "label": "PMK No. 199/PMK.02/2021",
+   "about": "Tata Cara Revisi Anggaran"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2020-91",
+   "target_bpk_id": 142073,
+   "label": "PMK No. 91/PMK.02/2020",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 193/PMK.02/2017 tentang Tata Cara Perencanaan, Penelaahan, dan Penetapan Alokasi Anggaran Bagian Anggaran Bendahara Umum Negara, dan Pengesahan Daftar Isian Pelaksanaan Anggaran Bendahara Umum Negara"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2020-232",
+   "target_bpk_id": 157320,
+   "label": "PMK No. 232/PMK.02/2020",
+   "about": "Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 71/PMK.02/2013 tentang Pedoman Standar Biaya, Standar Struktur Biaya, dan Indeksasi dalam Penyusunan Rencana Kerja dan Anggaran Kementerian Negara/Lembaga"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2020-127",
+   "target_bpk_id": 145961,
+   "label": "PMK No. 127/PMK.02/2020",
+   "about": "Tata Cara Penggunaan dan Pergeseran Anggaran pada Bagian Anggaran Bendahara Umum Negara Pengelolaan Belanja Lainnya (BA 999.08)"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2019-208",
+   "target_bpk_id": 137057,
+   "label": "PMK No. 208/PMK.02/2019",
+   "about": "Petunjuk Penyusunan Dan Penelaahan Rencana Kerja Dan Anggaran Kementerian Negara/Lembaga Dan Pengesahan Daftar Isian Pelaksanaan Anggaran"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2019-187",
+   "target_bpk_id": 128303,
+   "label": "PMK No. 187/PMK.02/2019",
+   "about": "Perubahan Atas Peraturan Menteri Keuangan Nomor 102/Pmk.02/2018 Tentang Klasifikasi Anggaran"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2018-195",
+   "target_bpk_id": 113700,
+   "label": "PMK No. 195/PMK.05/2018",
+   "about": "Monitoring Dan Evaluasi Pelaksanaan Anggaran Belanja Kementerian Negara/Lembaga"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2017-193",
+   "target_bpk_id": 112936,
+   "label": "PMK No. 193/PMK.02/2017",
+   "about": "Tata Cara Perencanaan, Penelaahan, Dan Penetapan Alokasi Anggaran Bagian Anggaran Bendahara Umum Negara, Dan Pengesahan Daftar Isian Pelaksanaan Anggaran Bendahara Umum Negara"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2017-177",
+   "target_bpk_id": 112915,
+   "label": "PMK No. 177/PMK.05/2017",
+   "about": "Pelaksanaan Piloting Penerapan Tanda Tangan Elektronik Dan Penyampaian Dokumen Elektronik Melalui Aplikasi Surat Perintah Membayar Elektronik"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2014-51",
+   "target_bpk_id": 121697,
+   "label": "PMK No. 51/PMK.02/2014",
+   "about": "Perubahan Atas Peraturan Menteri Keuangan Nomor 71/PMK.02/2013 Tentang Pedoman Standar Biaya, Standar Struktur Biaya, Dan Indeksasi Dalam Penyusunan Rencana Kerja Dan Anggaran Kementerian Negara/Lembaga"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2013-71",
+   "target_bpk_id": 126659,
+   "label": "PMK No. 71/PMK.02/2013",
+   "about": "Pedoman Standar Biaya, Standar Struktur Biaya, Dan Indeksasi Dalam Penyusunan Rencana Kerja Dan Anggaran Kementerian Negara/Lembaga"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2010-248",
+   "target_bpk_id": 174937,
+   "label": "PMK No. 248/PMK.07/2010",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 156/PMK.07/2008 tentang Pedoman Pengelolaan Dana Dekonsentrasi dan Tugas Pembantuan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2008-156",
+   "target_bpk_id": 174938,
+   "label": "PMK No. 156/PMK.07/2008",
+   "about": "Pedoman Pengelolaan Dana Kekonsentrasi dan Dana Tugas Pembatuan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PMK-2018-102",
+   "target_bpk_id": 113182,
+   "label": "PMK No. 102/PMK.02/2018",
+   "about": "Klasifikasi Anggaran"
+  }
+ ],
+ "abstract": "Untuk melaksanakan Anggaran Pendapatan dan Belanja Negara yang lebih tertib, efisien, ekonomis, efektif, transparan, dan bertanggung jawab dan untuk menyusun dan menyajikan laporan keuangan pemerintah pusat sesuai dengan prinsip akuntansi dalam penerapan standar akuntansi pemerintahan, serta berdasarkan kewenangan Menteri Keuangan selaku bendahara umum negara untuk menetapkan kebijakan dan pelaksanaan anggaran negara dan menetapkan sistem akuntansi dan pelaporan keuangan negara sebagaimana dimaksud dalam Pasal 7 ayat (2) huruf a dan huruf o Undang­-Undang Nomor 1 Tahun 2004 tentang Perbendaharaan Negara, perlu mengatur ketentuan mengenai pelaksanaan anggaran, serta pelaporan dan pertanggungjawaban anggaran.\nDasar hukum PMK ini adalah Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 39 Tahun 2008; PP Nomor 45 Tahun 2013; PP Nomor 19 Tahun 2022; PP Nomor 6 Tahun 2023; Perpres Nomor 42 Tahun 2020; Perpres Nomor 57 Tahun 2020; dan PMK Nomor 118/PMK.01/2021.\nPMK ini mengatur mengenai perencanaan anggaran, pelaksanaan anggaran, serta akuntansi dan pelaporan keuangan. Menteri/Pimpinan Lembaga selaku PA dan Menteri Keuangan selaku PA BUN menyusun RKA atas Bagian Anggaran yang dikuasainya. Satker melaksanakan Kegiatan Kementerian/Lembaga dan memiliki kewenangan dan tanggung jawab penggunaan anggaran. DIPA berlaku sebagai dasar pelaksanaan pengeluaran negara setelah mendapat pengesahan dari Menteri Keuangan selaku BUN. Anggaran yang dialokasikan dalam DIPA merupakan batas pengeluaran tertinggi yang tidak dapat dilampaui. Tindakan yang berakibat pengeluaran atas beban DIPA tidak dapat dilakukan dalam hal anggaran tidak tersedia atau tidak cukup tersedia.",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 23 Juni 2023.\nPMK ini mencabut PMK Nomor 156/PMK.07/2008; PMK Nomor 71/PMK.02/2013; PMK Nomor 177/PMK.05/2017; PMK Nomor 193/PMK.02/2017; PMK Nomor 102/PMK.02/2018; PMK Nomor 195/PMK.05/2018; PMK Nomor 208/PMK.02/2019; PMK Nomor 127/PMK.02/2020; PMK Nomor 2/PMK.02/2021; PMK Nomor 22/PMK.02/2021; PMK Nomor 199/PMK.02/2021; PMK Keuangan Nomor 204/PMK.02/2021; dan PMK Nomor 210/PMK.05/2022\nLampiran file: 670 hlm. (batang tubuh hlm 1 sd 188, lampiran hlm 189 sd 670).",
+ "citations": [
+  "UU-2008-39",
+  "PP-2013-45",
+  "PP-2022-19",
+  "PP-2023-6",
+  "PERPRES-2020-42",
+  "PERPRES-2020-57"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/311449/2023pmkeuangan062.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:30:42Z"
+}

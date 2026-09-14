@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2026-64",
+ "source": "bpk",
+ "bpk_id": 354226,
+ "url": "https://peraturan.bpk.go.id/Details/354226/pmk-no-64-tahun-2026",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "64",
+ "number_raw": "64",
+ "year": 2026,
+ "title": "Peraturan Menteri Keuangan Nomor 64 Tahun 2026 tentang Petunjuk Teknis Akuntansi Penerimaan Negara BUkan Pajak Dari Kegiatan Usaha Hulu Minyak dan Gas Bumi",
+ "about": "Petunjuk Teknis Akuntansi Penerimaan Negara BUkan Pajak Dari Kegiatan Usaha Hulu Minyak dan Gas Bumi",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-08-21",
+ "date_promulgated": "2026-08-27",
+ "date_effective": "2026-08-27",
+ "gazette": "BN.2026 (596/107 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2023-115",
+   "target_bpk_id": 271158,
+   "label": "PMK No. 115 Tahun 2023",
+   "about": "Petunjuk Teknis Akuntansi Penerimaan Negara Bukan Pajak dari Kegiatan Usaha Hulu Minyak dan Gas Bumi"
+  }
+ ],
+ "abstract": "a. bahwa untuk menyempurnakan ketentuan mengenai\nkebijakan akuntansi Penerimaan Negara Bukan Pajak dari\nkegiatan usaha hulu minyak dan gas bumi terkait dengan\npengungkapan harga gas bumi tertentu, pengklasifikasian\njenis penerimaan, periodisasi pemindahbukuan,\nperubahan nomenklatur, dan penatausahaan piutang,\nperlu mengganti Peraturan Menteri Keuangan Nomor 115\nTahun 2023 tentang Petunjuk Teknis Akuntansi\nPenerimaan Negara Bukan Pajak dari Kegiatan Usaha\nHulu Minyak dan Gas Bumi;\nb. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a, perlu menetapkan Peraturan Menteri\nKeuangan tentang Petunjuk Teknis Akuntansi Penerimaan\nNegara Bukan Pajak dari Kegiatan Usaha Hulu Minyak\ndan Gas Bumi;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Menteri Keuangan Nomor 175 Tahun 2023, Peraturan Menteri Keuangan Nomor 124 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 100 Tahun 2025\nPeraturan ini mengatur tentang ketentuan umum, Ruang lingkup PNBP Migas dan Petunjuk teknis akuntansi PNBP Migas.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 27 Agustus 2026.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan Menteri ini mulai berlaku, Peraturan\nMenteri Keuangan Nomor 115 Tahun 2023 tentang Petunjuk Teknis Akuntansi Penerimaan Negara Bukan Pajak dari\nKegiatan Usaha Hulu Minyak dan Gas Bumi",
+ "citations": [
+  "PMK-2023-115",
+  "UU-2008-39",
+  "PERPRES-2024-158",
+  "PMK-2023-175",
+  "PMK-2024-124",
+  "PMK-2025-100"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/418181/2026pmkeuangan064.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:30:11Z"
+}

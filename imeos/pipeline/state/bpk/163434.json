@@ -1,0 +1,44 @@
+{
+ "id": "PERMENAKER-2019-3",
+ "source": "bpk",
+ "bpk_id": 163434,
+ "url": "https://peraturan.bpk.go.id/Details/163434/permenaker-no-3-tahun-2019",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "3",
+ "number_raw": "3",
+ "year": 2019,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 3 Tahun 2019 tentang Tata Naskah Dinas di Kementerian Ketenagakerjaan",
+ "about": "Tata Naskah Dinas di Kementerian Ketenagakerjaan",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA",
+ "field": "",
+ "date_enacted": "2019-03-25",
+ "date_promulgated": "2019-03-27",
+ "date_effective": "2019-03-27",
+ "gazette": "BN.2019/No.700, jdih.kemnaker.go.id : 7 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENAKER-2026-3",
+   "target_bpk_id": 347418,
+   "label": "Permenaker No. 3 Tahun 2026",
+   "about": "Tata Naskah Dinas Kementerian Ketenagakerjaan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENAKER-2015-17",
+   "target_bpk_id": 163435,
+   "label": "Permenaker No. 17 Tahun 2015",
+   "about": "Tata Naskah Dinas di Kementerian Ketenagakerjaan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 27 Maret 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/156182/permen_3_2019_fix.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:40:56Z"
+}

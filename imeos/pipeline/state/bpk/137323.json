@@ -1,0 +1,46 @@
+{
+ "id": "UU-2020-2",
+ "source": "bpk",
+ "bpk_id": 137323,
+ "url": "https://peraturan.bpk.go.id/Details/137323/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "2",
+ "number_raw": "2",
+ "year": 2020,
+ "title": "Undang-undang (UU) Nomor 2 Tahun 2020 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2020 tentang Kebijakan Keuangan Negara dan Stabilitas Sistem Keuangan untuk Penanganan Pandemi Corona Virus Disease 2019 (Covid-19) dan/atau Dalam Rangka Menghadapi Ancaman yang Membahayakan Perekonomian Nasional dan/atau Stabilitas Sistem Keuangan Menjadi Undang-Undang",
+ "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2020 tentang Kebijakan Keuangan Negara dan Stabilitas Sistem Keuangan untuk Penanganan Pandemi Corona Virus Disease 2019 (Covid-19) dan/atau Dalam Rangka Menghadapi Ancaman yang Membahayakan Perekonomian Nasional dan/atau Stabilitas Sistem Keuangan Menjadi Undang-Undang",
+ "issuer": "Pemerintah Pusat",
+ "subject": "APBD - APBN - KESEHATAN - PENGELOLAAN KEUANGAN NEGARA / DAERAH - BANTUAN, SUMBANGAN, BENCANA / KEBENCANAAN, DAN PENANGGULANGAN BENCANA - KEBIJAKAN PEMERINTAH - COVID-19 / CORONA",
+ "field": "",
+ "date_enacted": "2020-05-16",
+ "date_promulgated": "2020-05-18",
+ "date_effective": "2020-05-18",
+ "gazette": "LN.2020/NO.134, TLN NO.6516, JDIH.SETKAB.GO.ID : 22 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2021-7",
+   "target_bpk_id": 185162,
+   "label": "UU No. 7 Tahun 2021",
+   "about": "Harmonisasi Peraturan Perpajakan"
+  },
+  {
+   "type": "Menetapkan",
+   "target": null,
+   "target_bpk_id": 135060,
+   "label": "PERPU No. 1 Tahun 2020",
+   "about": "Kebijakan Keuangan Negara dan Stabilitas Sistem Keuangan untuk Penanganan Pandemi Corona Virus Disease 2019 (COVID-19) dan/atau dalam Rangka Menghadapi Ancaman yang Membahayakan Perekonomian Nasional dan/atau Stabilitas Sistem Keuangan"
+  }
+ ],
+ "abstract": "Implikasi pandemi COVID- 19 telah berdampak pada aspek sosial, ekonomi, dan kesejahteraan sosial, selain itu itu terhadap memburuknya sistem keuangan yang ditunjukkan dengan penurunan berbagai aktivitas ekonomi domestik sehingga perlu dimitigasi bersama oleh Pemerintah dan Komite Stabilitas Sistem Keuangan (KSSK) untuk melakukan tindakan antisipasi (forward looking) dalam rangka menjaga stabilitas sektor keuangan. Untuk mengatasi kegentingan memaksa, presiden telah menetapkan Perpu Nomor 1 Tahun 2020 tentang Kebijakan\nKeuangan Negara dan Stabilitas Sistem Keuangan untuk Penanganan Pandemi Corona Virus Disease 2019 (COVID-19) dan/atau dalam rangka menghadapi Ancaman yang membahayakan Perekonomian Nasional dan/atau Stabilitas Sistem Keuangan pada tanggal 31 Maret 2020.\nDasar hukum UU ini adalah Pasal 5 ayat (1), Pasal 20, dan Pasal 22 ayat (2) UUD 1945.\nPeraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2020 tentang Kebijakan Keuangan Negara dan Stabilitas Sistem Keuangan untuk penanganan Pandemi Corona Virus Disease 2019 (COVID-19) dan/atau dalam rangka menghadapi Ancaman yang membahayakan Perekonomian Nasional dan/atau Stabilitas Sistem Keuangan (Lembaran Negara Republik Indonesia Nomor 87 Tahun 2020, Tambahan Lembaran Negara Republik Indonesia Nomor 6485) ditetapkan menjadi Undang-Undang dan melampirkannya sebagai bagian yang tidak terpisahkan dari Undang-Undang ini.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 18 Mei 2020.",
+ "citations": [
+  "PERPPU-2020-1"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/128214/UU%20Nomor%202%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:11Z"
+}

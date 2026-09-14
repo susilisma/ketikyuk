@@ -1,0 +1,47 @@
+{
+ "id": "PP-2021-20",
+ "source": "bpk",
+ "bpk_id": 161850,
+ "url": "https://peraturan.bpk.go.id/Details/161850/pp-no-20-tahun-2021",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "20",
+ "number_raw": "20",
+ "year": 2021,
+ "title": "Peraturan Pemerintah (PP) Nomor 20 Tahun 2021 tentang Penertiban Kawasan dan Tanah Terlantar",
+ "about": "Penertiban Kawasan dan Tanah Terlantar",
+ "issuer": "Pemerintah Pusat",
+ "subject": "AGRARIA, PERTANAHAN, TATA RUANG - PENANAMAN MODAL DAN INVESTASI - CIPTA KERJA",
+ "field": "",
+ "date_enacted": "2021-02-02",
+ "date_promulgated": "2021-02-02",
+ "date_effective": "2021-02-02",
+ "gazette": "LN.2021/No.30, TLN No.6632, jdih.setkab.go.id : 26 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2025-48",
+   "target_bpk_id": 343426,
+   "label": "PP No. 48 Tahun 2025",
+   "about": "Penertiban Kawasan dan Tanah Telantar"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2010-11",
+   "target_bpk_id": 5018,
+   "label": "PP No. 11 Tahun 2010",
+   "about": "Penertiban Dan Pendayagunaan Tanah Terlantar"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 180 UU Nomor 11 Tahun 2020 tentang Cipta Kerja serta untuk melaksanakan ketentuan Pasal 27, Pasal 34, dan Pasal 40 UU Nomor 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria terkait hapusnya hak atas tanah karena ditelantarkan, perlu menetapkan PP tentang Penertiban Kawasan dan Tanah Telantar.\nDasar hukum PP ini adalah Pasal 5 ayat (2) Undang-Undang Dasar Negara Repubiik Indonesia Tahun 1945; UU Nomor 5 Tahun 1960; dan UU Nomor 11 Tahun 2020.\nPP ini mengatur mengenai kewajiban pemegang izin/konsesi/perizinan berusaha serta pemegang hak, pemegang hak pengelolaan, dan pemegang dasar penguasaan atas tanah; objek penertiban kawasan telantar dan tanah telantar; inventarisasi kawasan dan tanah terindikasi telantar; penertiban kawasan telantar dan tanah telantar; dan pendayagunaan kawasan telantar dan Tanah Cadangan Umum Negara/TCUN. TCUN adalah tanah yang sudah ditetapkan sebagai Tanah Telantar dan ditegaskan menjadi tanah yang dikuasai langsung oleh negara.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 02 Februari 2021.\nPP ini mencabut PP Nomor 11 Tahun 2010 tentang Penertiban dan Pendayagunaan Tanah Terlantar.\nPenjelasan 14 hlm.",
+ "citations": [
+  "UU-2020-11",
+  "UU-1960-5"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/154524/PP%20Nomor%2020%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:28:50Z"
+}

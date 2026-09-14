@@ -1,0 +1,51 @@
+{
+ "id": "PMK-2024-72",
+ "source": "bpk",
+ "bpk_id": 306305,
+ "url": "https://peraturan.bpk.go.id/Details/306305/pmk-no-72-tahun-2024",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "72",
+ "number_raw": "72",
+ "year": 2024,
+ "title": "Peraturan Menteri Keuangan Nomor 72 Tahun 2024 tentang Penggunaan Dana Bagi Hasil Cukai Hasil Tembakau",
+ "about": "Penggunaan Dana Bagi Hasil Cukai Hasil Tembakau",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN",
+ "field": "HUKUM DAGANG",
+ "date_enacted": "2024-10-10",
+ "date_promulgated": "2024-10-18",
+ "date_effective": "2024-10-18",
+ "gazette": "BN.2024 (762)/55 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2026-22",
+   "target_bpk_id": 348081,
+   "label": "PMK No. 22 Tahun 2026",
+   "about": "Penggunaan Dana Bagi Hasil Cukai Hasil Tembakau"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2021-215",
+   "target_bpk_id": 209504,
+   "label": "PMK No. 215/PMK.07/2021",
+   "about": "Penggunaan, Pemantauan, dan Evaluasi Dana Bagi Hasil Cukai Hasil Tembakau"
+  }
+ ],
+ "abstract": "a. bahwa dalam ketentuan Pasal 66D ayat (2) Undang­ Undang Nomor 11 Tahun 1995 tentang Cukai sebagaimana telah diubah dengan Undang-Undang Nomor 39 Tahun 2007 tentang Perubahan atas Undang-Undang\nNomor 11 Tahun 1995 tentang Cukai, Pasal 10 ayat (13) Undang-Undang Nomor 19 Tahun 2023 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2024,\ndan Pasal 64 ayat (3) Peraturan Pemerintah Nomor 37 Tahun 2023 ten tang PengeloIaan Transfer ke Daerah, telah diatur bahwa ketentuan mengenai dana bagi hasil cukai hasil tembakau, sanksi atas penyalahgunaan alokasi dana bagi hasil cukai hasil tembakau, dan penggunaan dana bagi hasil cukai hasil tembakau diatur Iebih lanjut dalam Peraturan Menteri Keuangan;\nb. bahwa untuk meningkatkan efisiensi, efektivitas, dan akuntabilitas penggunaan, pemantauan, dan evaIuasi dana bagi hasil cukai hasil tembakau, perlu mengatur kembali ketentuan mengenai penggunaan, pemantauan, dan evaluasi dana bagi hasil cukai hasil tembakau dalam Peraturan Menteri Keuangan;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perIu menetapkan Peraturan Menteri Keuangan tentang Penggunaan Dana Bagi Hasil Cukai Hasil Tembakau;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 11 Tahun 1995 tentang Cukai, Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara, Undang-Undang Nomor 19 Tahun 2023 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2024, Peraturan Pemerintah Nomor 37 Tahun 2023 tentang Pengelolaan Transfer ke Daerah, Peraturan Presiden Nomor 57 Tahun 2020 tentang Kementerian Keuangan dan Peraturan Menteri Keuangan Nomor 118jPMK.01j2021 tentang Organisasi dan Tata Kerja Kementerian Keuangan\nPeraturan ini mengatur tentang ketentuan umum, dana bagi hasil cukai hasil tembakau, ketentuan peralihan dan ketentuan penutup.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 18 Oktober 2024.\nPeraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 215/PMK.07/2021 tentang Penggunaan, Pemantauan, dan Evaluasi Dana Bagi Hasil Cukai Hasil Tembakau dicabut dan dinyatakan tidak berlaku",
+ "citations": [
+  "UU-2007-39",
+  "UU-1995-11",
+  "UU-2023-19",
+  "PP-2023-37",
+  "UU-2008-39",
+  "PERPRES-2020-57"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/366504/2024pmkeuangan072.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:31:08Z"
+}

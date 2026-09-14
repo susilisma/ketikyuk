@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2019-119",
+ "source": "bpk",
+ "bpk_id": 128141,
+ "url": "https://peraturan.bpk.go.id/Details/128141/pmk-no-119pmk022019",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "119",
+ "number_raw": "119/PMK.02/2019",
+ "year": 2019,
+ "title": "Peraturan Menteri Keuangan Nomor 119/PMK.02/2019 Tahun 2019 tentang Tata Cara Pembayaran KembalI (Reimbursement) Pajak Pertambahan Nilai Atau·Pajak Pertambahan Nilai Dan Pajak Penjualan Atas Barang Mewah Atas Perolehan Barang Kena Pajak Dan/Atau Jasa Kena Pajak Kepada Kontraktor Dalam Kegiatan Usaha Hulu Minyak Dan Gas Bumi",
+ "about": "Tata Cara Pembayaran KembalI (Reimbursement) Pajak Pertambahan Nilai Atau·Pajak Pertambahan Nilai Dan Pajak Penjualan Atas Barang Mewah Atas Perolehan Barang Kena Pajak Dan/Atau Jasa Kena Pajak Kepada Kontraktor Dalam Kegiatan Usaha Hulu Minyak Dan Gas Bumi",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERTAMBANGAN MIGAS, MINERAL DAN ENERGI - PERPAJAKAN",
+ "field": "",
+ "date_enacted": "2019-08-16",
+ "date_promulgated": "2019-08-16",
+ "date_effective": "2019-08-16",
+ "gazette": "PERATURAN.GO.ID : 19 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-139",
+   "target_bpk_id": 312058,
+   "label": "PMK No. 139 Tahun 2024",
+   "about": "Tata Cara Pembayaran atas Tagihan kepada Pemerintah dalam Kegiatan Usaha Hulu Minyak dan Gas Bumi"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2014-218",
+   "target_bpk_id": 149535,
+   "label": "PMK No. 218/PMK.02/2014",
+   "about": "Tata Cara Pembayaran Kembali (Reimbursement) Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Perolehan Barang Kena Pajak dan/atau Jasa Kena Pajak Kepada Kontraktor dalam Kegiatan Usaha Hulu Minyak dan Gas Bumi"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 16 Agustus 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/119136/119~PMK.02~2019Per.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:33:56Z"
+}

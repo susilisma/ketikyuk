@@ -1,0 +1,42 @@
+{
+ "id": "PERMENKUM-2025-7",
+ "source": "bpk",
+ "bpk_id": 317702,
+ "url": "https://peraturan.bpk.go.id/Details/317702/permenkum-no-7-tahun-2025",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "7",
+ "number_raw": "7",
+ "year": 2025,
+ "title": "Peraturan Menteri Hukum Nomor 7 Tahun 2025 tentang Penyelenggaraan Sistem Pengendalian Intern Pemerintah Terintegrasi di Lingkungan Kementerian Hukum",
+ "about": "Penyelenggaraan Sistem Pengendalian Intern Pemerintah Terintegrasi di Lingkungan Kementerian Hukum",
+ "issuer": "Kementerian Hukum",
+ "subject": "SISTEM PENGENDALIAN INTERN - PENGAWASAN / AUDIT INTERNAL",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-02-20",
+ "date_promulgated": "2025-04-22",
+ "date_effective": "2025-04-22",
+ "gazette": "BN 2025 (271) : 8 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 298145,
+   "label": "Permenkumham No. 18 Tahun 2024",
+   "about": "Penyelenggaraan Sistem Pengendalian Intern Pemerintah Terintegrasi di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "Untuk mencapai pengelolaan keuangan negara yang efektif, efisien, transparan, dan akuntabel serta optimalisasi pelaksanaan pengendalian atas penyelenggaraan kegiatan pemerintahan yang memadai bagi tercapainya penyelenggaraan pemerintahan negara, keandalan pelaporan keuangan, pengamanan aset negara, dan ketaatan terhadap peraturan perundang-undangan perlu adanya sistem pengendalian intern pemerintah di lingkungan Kementerian Hukum.\nDasar hukum Permenkum ini adalah Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU No. 1 Tahun 2004; UU No. 39 Tahun 2008; PP No. 60 Tahun 2008; Perpres No. 155 Tahun 2024; Permenkum No. 1 Tahun 2024; dan Permenkum No. 2 Tahun 2024.\nPermenkum ini mengatur mengenai Penyelenggaraan Sistem Pengendalian Intern Pemerintah (SPIP) Terintegrasi di Lingkungan Kementerian Hukum. Ruang lingkup pengaturan dalam Peraturan Menteri ini meliputi: a. kewenangan pengendalian; b. penyelenggaraan SPIP; dan c. Penilaian Atas Maturitas Penyelenggaraan SPIP",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 22 April 2025.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 18 Tahun 2024 tentang Penyelenggaraan Sistem Pengendalian Intern Pemerintah Terintegrasi di Lingkungan Kementerian Hukum dan Hak Asasi Manusia (Berita Negara Republik Indonesia Tahun 2024 Nomor 474), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 55 hlm. (batang tubuh hlm 1 s.d. 8 dan lampiran hlm 9 s.d. 55)",
+ "citations": [
+  "UU-2004-1",
+  "UU-2008-39",
+  "PP-2008-60",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/379087/Permenkum%20Nomor%207%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:42:32Z"
+}

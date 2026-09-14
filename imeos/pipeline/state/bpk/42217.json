@@ -1,0 +1,37 @@
+{
+ "id": "PERPRES-2008-35",
+ "source": "bpk",
+ "bpk_id": 42217,
+ "url": "https://peraturan.bpk.go.id/Details/42217/x",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "35",
+ "number_raw": "35",
+ "year": 2008,
+ "title": "Peraturan Presiden (Perpres) Nomor 35 Tahun 2008 tentang Tata Cara Pengangkatan dan Pemberhentian Keanggotaan Konsil Kedokteran Indonesia",
+ "about": "Tata Cara Pengangkatan dan Pemberhentian Keanggotaan Konsil Kedokteran Indonesia",
+ "issuer": "Pemerintah Pusat",
+ "subject": "JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "",
+ "date_enacted": "2008-05-15",
+ "date_promulgated": null,
+ "date_effective": "2008-05-15",
+ "gazette": "LLSETKAB : 12 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-28",
+   "target_bpk_id": 294077,
+   "label": "PP No. 28 Tahun 2024",
+   "about": "Peraturan Pelaksanaan Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 15 Mei 2008.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/70694/PERPRES%20NO%2035%20TH%202008.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:25Z"
+}

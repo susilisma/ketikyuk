@@ -1,0 +1,65 @@
+{
+ "id": "UU-2004-38",
+ "source": "bpk",
+ "bpk_id": 40785,
+ "url": "https://peraturan.bpk.go.id/Details/40785/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "38",
+ "number_raw": "38",
+ "year": 2004,
+ "title": "Undang-undang (UU) Nomor 38 Tahun 2004 tentang Jalan",
+ "about": "Jalan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "LALU LINTAS, JALAN",
+ "field": "",
+ "date_enacted": "2004-10-18",
+ "date_promulgated": "2004-10-18",
+ "date_effective": "2004-10-18",
+ "gazette": "LN.2004/ No.132, TLN NO.4444 , LL SETNEG : 34 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2022-2",
+   "target_bpk_id": 195878,
+   "label": "UU No. 2 Tahun 2022",
+   "about": "Perubahan Kedua atas Undang-Undang Nomor 38 Tahun 2004 tentang Jalan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 234926,
+   "label": "PERPU No. 2 Tahun 2022",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1980-13",
+   "target_bpk_id": 47144,
+   "label": "UU No. 13 Tahun 1980",
+   "about": "Jalan"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 18 Oktober 2004.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/30523/UU%20Nomor%2038%20Tahun%202004.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:33:14Z"
+}

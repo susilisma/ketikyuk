@@ -1,0 +1,40 @@
+{
+ "id": "PERPRES-2024-154",
+ "source": "bpk",
+ "bpk_id": 306669,
+ "url": "https://peraturan.bpk.go.id/Details/306669/perpres-no-154-tahun-2024",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "154",
+ "number_raw": "154",
+ "year": 2024,
+ "title": "Peraturan Presiden (Perpres) Nomor 154 Tahun 2024 tentang Badan Penyelenggara Haji",
+ "about": "Badan Penyelenggara Haji",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KETATANEGARAAN, KENEGARAAN - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "HUKUM TATA NEGARA",
+ "date_enacted": "2024-11-05",
+ "date_promulgated": "2024-11-05",
+ "date_effective": "2024-11-05",
+ "gazette": "LN 2024 (350) : 17 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2025-92",
+   "target_bpk_id": 331574,
+   "label": "Perpres No. 92 Tahun 2025",
+   "about": "Kementerian Haji dan Umrah"
+  }
+ ],
+ "abstract": "Bahwa dalam rangka mendukung efektifitas penyelenggaraan haji diperlukan kelembagaan yang akan memberikan dukungan dalam penyelenggaraan haji.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD NRI Tahun 1945; UU Nomor 39 Tahun 2008; dan UU Nomor 8 Tahun 2019.\nPerpres ini mengatur mengenai Badan Penyelenggara Haji. Badan ini berada di bawah dan bertanggung jawab kepada Presiden melalui menteri yang menyelenggarakan urusan pemerintahan di bidang agama. Badan ini dipimpin oleh Kepala. Kepala mempunyai tugas memimpin dan bertanggung jawab atas pelaksanaan tugas dan fungsi Badan, dalam melaksanakan tugas Kepala dibantu Wakil Kepala. Badan ini mempunyai tugas melaksanakan pemberian dukungan penyelenggaraan haji sesuai dengan ketentuan peraturan perundang-undangan. Dalam melaksanakan tugas Badan menyelenggarakan fungsi antara lain sebagai berikut; 1. perumusan dan penetapan kebijakan teknis di bidang dukungan penyelenggaraan haji; 2. koordinasi dan pelaksanaan kebijakan teknis di bidang dukungan penyelenggaraan haji; dan 3. pelaksanaan pengawasan, pemantauan, dan evaluasi di bidang penyelenggaraan haji.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 05 November 2024.\nLampiran file: 17 hlm",
+ "citations": [
+  "UU-2008-39",
+  "UU-2019-8"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/366947/Perpres%20Nomor%20154%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:42Z"
+}

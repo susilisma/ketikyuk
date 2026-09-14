@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2025-47",
+ "source": "bpk",
+ "bpk_id": 326222,
+ "url": "https://peraturan.bpk.go.id/Details/326222/pmk-no-47-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "47",
+ "number_raw": "47",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 47 Tahun 2025 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 68/PMK.02/2016 tentang Tata Cara Penyediaan, Pencairan, dan Pertanggungjawaban Dana Subsidi Pupuk",
+ "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 68/PMK.02/2016 tentang Tata Cara Penyediaan, Pencairan, dan Pertanggungjawaban Dana Subsidi Pupuk",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PANGAN, PERTANIAN DAN PETERNAKAN - SUBSIDI, PSO",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-07-16",
+ "date_promulgated": "2025-07-24",
+ "date_effective": "2025-07-24",
+ "gazette": "BN.2025 (542/3 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PMK-2016-68",
+   "target_bpk_id": 145210,
+   "label": "PMK No. 68/PMK.02/2016",
+   "about": "Tata Cara Penyediaan, Pencairan, dan Pertanggungjawaban Dana Subsidi Pupuk"
+  }
+ ],
+ "abstract": "a. bahwa sehubungan dengan perubahan nomenklatur\norganisasi dan tata kerja di lingkungan Kementerian\nPertanian, perlu dilakukan menyesuaian ketentuan\npenunjukan kuasa pengguna anggaran sebagaimana\ndiatur dalam Peraturan Menteri Keuangan Nomor\n68/PMK.02/2016 tentang Tata Cara Penyediaan,\nPencairan, dan Pertanggungjawaban Dana Subsidi\nPupuk;\nb. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a, perlu menetapkan Peraturan\nMenteri Keuangan tentang Perubahan atas Peraturan\nMenteri Keuangan Nomor 68/PMK.02/2016 tentang\nTata Cara Penyediaan, Pencairan, dan\nPertanggungjawaban Dana Subsidi Pupuk;\nPasal 17 ayat (3) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945, Undang-Undang Nomor 1 Tahun 2004, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 45 Tahun 2013, Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Menteri Keuangan Nomor 68/PMK.02/2016 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 68/PMK.02/2016 tentang Tata Cara Penyediaan, Pencairan, dan Pertanggungjawaban Dana Subsidi Pupuk yaitu tentang penetapan Kuasa Pengguna Anggaran\nSubsidi Pupuk",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 24 Juli 2025.\nPeraturan ini mengubah Peraturan Menteri Keuangan Nomor 68/PMK.02/2016 tentang Tata Cara Penyediaan, Pencairan, dan Pertanggungjawaban Dana Subsidi Pupuk",
+ "citations": [
+  "PMK-2016-68",
+  "UU-2004-1",
+  "UU-2008-39",
+  "PP-2013-45",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/388029/47%20th%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:33:28Z"
+}

@@ -1,0 +1,41 @@
+{
+ "id": "PP-2026-15",
+ "source": "bpk",
+ "bpk_id": 349408,
+ "url": "https://peraturan.bpk.go.id/Details/349408/pp-no-15-tahun-2026",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "15",
+ "number_raw": "15",
+ "year": 2026,
+ "title": "Peraturan Pemerintah (PP) Nomor 15 Tahun 2026 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Badan Pengawas Obat dan Makanan",
+ "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Badan Pengawas Obat dan Makanan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-03-27",
+ "date_promulgated": "2026-03-27",
+ "date_effective": "2026-05-26",
+ "gazette": "LN 2026 (35), TLN (7168) : 5 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PP-2017-32",
+   "target_bpk_id": 51610,
+   "label": "PP No. 32 Tahun 2017",
+   "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Badan Pengawas Obat dan Makanan"
+  }
+ ],
+ "abstract": "Untuk melakukan penyesuaian jenis dan tarif atas jenis Penerimaan Negara Bukan Pajak yang berlaku pada Badan Pengawas Obat dan Makanan sebagaimana telah diatur dalam Peraturan Pemerintah Nomor 32 Tahun 2017 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Badan Pengawas Obat dan Makanan, perlu mengatur kembali jenis dan tarif atas jenis Penerimaan Negara Bukan Pajak yang berlaku pada Badan Pengawas Obat dan Makanan.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945; UU No. 9 Tahun 2018; dan PP No. 44 Tahun 2025.\nPP ini mengatur mengenai jenis dan tarif atas Penerimaan Negara Bukan Pajak yang berlaku pada Badan Pengawas Obat dan Makanan sebagaimana tercantum dalam Lampiran yang merupakan bagian tidak terpisahkan dari PP ini.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 26 Mei 2026.\nPada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 32 Tahun 2017 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Badan Pengawas Obat dan Makanan (Lembaran Negara Republik Indonesia Tahun 2017 Nomor 198, Tambahan Lembaran Negara Republik Indonesia Nomor 6116), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 31 hlm (batang tubuh hlm 1 sd 5; penjelasan hlm 6 sd 8; dan lampiran hlm 9 sd 31)",
+ "citations": [
+  "PP-2017-32",
+  "UU-2018-9",
+  "PP-2025-44"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/413093/PP%20Nomor%2015%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:28:07Z"
+}

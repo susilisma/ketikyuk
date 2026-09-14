@@ -1,0 +1,51 @@
+{
+ "id": "PERMENAKER-2018-14",
+ "source": "bpk",
+ "bpk_id": 146306,
+ "url": "https://peraturan.bpk.go.id/Details/146306/permenaker-no-14-tahun-2018",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "14",
+ "number_raw": "14",
+ "year": 2018,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 14 Tahun 2018 tentang Perubahan atas Peraturan Menteri Ketenagakerjaan Nomor 10 Tahun 2017 tentang Pedoman Pemberian Tunjangan Kinerja bagi Pegawai Kementerian Ketenagakerjaan",
+ "about": "Perubahan atas Peraturan Menteri Ketenagakerjaan Nomor 10 Tahun 2017 tentang Pedoman Pemberian Tunjangan Kinerja bagi Pegawai Kementerian Ketenagakerjaan",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA - KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "",
+ "date_enacted": "2018-11-19",
+ "date_promulgated": "2018-11-19",
+ "date_effective": "2018-11-19",
+ "gazette": "BN.2018/No.1526, jdih.kemnaker.go.id : 5 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENAKER-2024-15",
+   "target_bpk_id": 309878,
+   "label": "Permenaker No. 15 Tahun 2024",
+   "about": "Pemberian Tunjangan Kinerja Pegawai di Lingkungan Kementerian Ketenagakerjaan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENAKER-2019-22",
+   "target_bpk_id": 145277,
+   "label": "Permenaker No. 22 Tahun 2019",
+   "about": "Perubahan Kedua atas Peraturan Menteri Ketenagakerjaan Nomor 10 Tahun 2017 tentang Pedoman Pemberian Tunjangan Kinerja bagi Pegawai Kementerian Ketenagakerjaan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENAKER-2017-10",
+   "target_bpk_id": 145522,
+   "label": "Permenaker No. 10 Tahun 2017",
+   "about": "Pedoman Pemberian Tunjangan Kinerja bagi Pegawai Kementerian Ketenagakerjaan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Ketenagakerjaan Republik Indonesia ini mulai berlaku pada tanggal 19 November 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/252471/Kemnaker%20No.%2014%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:41:27Z"
+}

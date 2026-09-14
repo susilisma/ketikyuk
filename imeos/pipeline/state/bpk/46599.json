@@ -1,0 +1,135 @@
+{
+ "id": "UU-1992-7",
+ "source": "bpk",
+ "bpk_id": 46599,
+ "url": "https://peraturan.bpk.go.id/Details/46599/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "7",
+ "number_raw": "7",
+ "year": 1992,
+ "title": "Undang-undang (UU) Nomor 7 Tahun 1992 tentang Perbankan",
+ "about": "Perbankan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "",
+ "date_enacted": "1992-03-25",
+ "date_promulgated": "1992-03-25",
+ "date_effective": "1992-03-25",
+ "gazette": "LN. 1992, LL SETNEG : 33 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-4",
+   "target_bpk_id": 240203,
+   "label": "UU No. 4 Tahun 2023",
+   "about": "Pengembangan dan Penguatan Sektor Keuangan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 234926,
+   "label": "PERPU No. 2 Tahun 2022",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-1998-10",
+   "target_bpk_id": 45486,
+   "label": "UU No. 10 Tahun 1998",
+   "about": "Perubahan atas Undang-Undang Nomor 7 Tahun 1992 tentang Perbankan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1968-22",
+   "target_bpk_id": 49189,
+   "label": "UU No. 22 Tahun 1968",
+   "about": "Bank Ekspor Impor Indonesia"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1968-21",
+   "target_bpk_id": 49188,
+   "label": "UU No. 21 Tahun 1968",
+   "about": "Bank Rakyat Indonesia"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1968-20",
+   "target_bpk_id": 49187,
+   "label": "UU No. 20 Tahun 1968",
+   "about": "Bank Tabungan Negara"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1968-19",
+   "target_bpk_id": 49186,
+   "label": "UU No. 19 Tahun 1968",
+   "about": "Bank Bumi Daya"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1968-18",
+   "target_bpk_id": 49178,
+   "label": "UU No. 18 Tahun 1968",
+   "about": "Bank Dagang Negara"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1968-17",
+   "target_bpk_id": 49177,
+   "label": "UU No. 17 Tahun 1968",
+   "about": "Bank Negara Indonesia 1946"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1967-14",
+   "target_bpk_id": 49592,
+   "label": "UU No. 14 Tahun 1967",
+   "about": "Pokok-Pokok Perbankan"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 53694,
+   "label": "PERPU No. 17 Tahun 1962",
+   "about": "Perubahan Dan Tambahan Undang-Undang No. 21 PRP Tahun 1960 Tentang Bank Pembangunan Indonesia"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1962-13",
+   "target_bpk_id": 50698,
+   "label": "UU No. 13 Tahun 1962",
+   "about": "Ketentuan-Ketentuan Pokok Bank Pembangunan Daerah"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1962-12",
+   "target_bpk_id": 50697,
+   "label": "UU No. 12 Tahun 1962",
+   "about": "Bank Pembangunan Swasta"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 25 Maret 1992.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/35317/UU%20Nomor%207%20Tahun%201992.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:25:52Z"
+}

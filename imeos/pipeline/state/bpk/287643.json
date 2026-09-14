@@ -1,0 +1,54 @@
+{
+ "id": "PERMENPERIN-2024-11",
+ "source": "bpk",
+ "bpk_id": 287643,
+ "url": "https://peraturan.bpk.go.id/Details/287643/permenperin-no-11-tahun-2024",
+ "form": "PERMENPERIN",
+ "form_long": "Peraturan Menteri Perindustrian",
+ "number": "11",
+ "number_raw": "11",
+ "year": 2024,
+ "title": "Peraturan Menteri Perindustrian Nomor 11 Tahun 2024 tentang Pencabutan Peraturan Menteri Perindustrian Nomor 3 Tahun 2020 Tentang Jabatan Dan Kelas Jabatan Di Lingkungan Kementerian Perindustrian Sebagaimana Telah Diubah Dengan Peraturan Menteri Perindustrian Nomor 60 Tahun 2020 Tentang Perubahan Atas Peraturan Menteri Perindustrian Nomor 3 Tahun 2020 Tentang Jabatan Dan Kelas Jabatan Di Lingkungan Kementerian Perindustrian",
+ "about": "Pencabutan Peraturan Menteri Perindustrian Nomor 3 Tahun 2020 Tentang Jabatan Dan Kelas Jabatan Di Lingkungan Kementerian Perindustrian Sebagaimana Telah Diubah Dengan Peraturan Menteri Perindustrian Nomor 60 Tahun 2020 Tentang Perubahan Atas Peraturan Menteri Perindustrian Nomor 3 Tahun 2020 Tentang Jabatan Dan Kelas Jabatan Di Lingkungan Kementerian Perindustrian",
+ "issuer": "Kementerian Perindustrian",
+ "subject": "PERINDUSTRIAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-05-03",
+ "date_promulgated": "2024-05-13",
+ "date_effective": "2024-05-13",
+ "gazette": "BN.2024 (248)/3 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENPERIN-2020-60",
+   "target_bpk_id": 167427,
+   "label": "Permenperin No. 60 Tahun 2020",
+   "about": "Perubahan Atas Peraturan Menteri Perindustrian Nomor 3 Tahun 2020 tentang Jabatan dan Kelas Jabatan di Lingkungan Kementerian Perindustrian"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENPERIN-2020-3",
+   "target_bpk_id": 166933,
+   "label": "Permenperin No. 3 Tahun 2020",
+   "about": "Jabatan Dan Kelas Jabatan Di Lingkungan Kementerian Perindustrian"
+  }
+ ],
+ "abstract": "a. bahwa penetapan jabatan dan kelas jabatan dalam\nPeraturan Menteri Perindustrian Nomor 3 Tahun 2020\ntentang Jabatan dan Kelas Jabatan di Lingkungan\nKementerian Perindustrian sebagaimana telah diu bah\ndengan Peraturan Menteri Perindustrian Nomor 60\nTahun 2020 tentang Perubahan atas Peraturan Menteri\nPerindustrian Nomor 3 Tahun 2020 tentang Jabatan dan\nKelas Jabatan di Lingkungan Kementerian\nPerindustrian, sudah tidak sesuai dengan\nperkembangan hukum dan kebijakan mengenaijabatan\ndan kelas jabatan di lingkungan Kementerian\nPerindustrian sehingga perlu dicabut;\nb. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a, perlu menetapkan Peraturan\nMenteri Perindustrian tentang Pencabutan Peraturan\nMenteri Perindustrian Nomor 3 Tahun 2020 ten tang\nJabatan dan Kelas Jabatan di Lingkungan Kementerian\nPerin du strian sebagaimana telah diubah dengan\nPeraturan Menteri Perindustrian Nomor 60 Tahun 2020\ntentang Perubahan atas Peraturan Menteri Perindustrian\nNomor 3 Tahun 2020 tentang Jabatan dan Kelas Jabatan\ndi Lingkungan Kementerian Perindustrian;\nPasal17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 9 Tahun 2008, Undang-Undang Nomor 20 Tahun 2023, Peraturan Pemerintah Nomor 11 Tahun 2017, Peraturan Presiden Nomor 120 Tahun 2018, Peraturan Presiden Nomor 107 Tahun 2020, Peraturan Menteri Pendayagunaan Aparatur Negara dan\nReformasi Birokrasi Nomor 39 Tahun 2013, Peraturan Menteri Perindustrian Nomor 8 Tahun 2023 dan Peraturan Menteri Perindustrian Nomor 26 Tahun 2023\nPeraturan ini mencabut Nomor 3 Tahun 2020 tentang Jabatan dan Kelas Jabatan di Lingkungan Kementerian Perindustrian dan Nomor 60 Tahun 2020 tentang Perubahan atas\nPeraturan Menteri Perindustrian Nomor 3 Tahun 2020 tentang Jabatan dan Kelas Jabatan di Lingkungan Kementerian Perindustrian dicabut dan dinyatakan tidak berlaku.",
+ "note": "Peraturan Menteri Perindustrian ini mulai berlaku pada tanggal 13 Mei 2024.\nPeraturan ini mencabut Nomor 3 Tahun 2020 tentang Jabatan dan Kelas Jabatan di Lingkungan Kementerian Perindustrian dan Nomor 60 Tahun 2020 tentang Perubahan atas Peraturan Menteri Perindustrian Nomor 3 Tahun 2020 tentang Jabatan dan Kelas Jabatan di Lingkungan Kementerian Perindustrian dicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "PERMENPERIN-2020-3",
+  "PERMENPERIN-2020-60",
+  "UU-2008-9",
+  "UU-2023-20",
+  "PP-2017-11",
+  "PERPRES-2018-120",
+  "PERPRES-2020-107",
+  "PERMENPERIN-2023-8",
+  "PERMENPERIN-2023-26"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/346863/2024pmperin011.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:40:17Z"
+}

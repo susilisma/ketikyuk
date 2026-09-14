@@ -1,0 +1,65 @@
+{
+ "id": "PP-2011-5",
+ "source": "bpk",
+ "bpk_id": 5127,
+ "url": "https://peraturan.bpk.go.id/Details/5127/pp-no-5-tahun-2011",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "5",
+ "number_raw": "5",
+ "year": 2011,
+ "title": "Peraturan Pemerintah (PP) Nomor 5 Tahun 2011 tentang Perubahan Atas Peraturan Pemerintah Nomor 46 Tahun 2007 Tentang Kawasan Perdagangan Bebas Dan Pelabuhan Bebas Batam",
+ "about": "Perubahan Atas Peraturan Pemerintah Nomor 46 Tahun 2007 Tentang Kawasan Perdagangan Bebas Dan Pelabuhan Bebas Batam",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "",
+ "date_enacted": "2011-02-04",
+ "date_promulgated": "2011-02-04",
+ "date_effective": "2011-02-04",
+ "gazette": "LN. 2011 No.16, TLN No. 5195, LL SETNEG : 8 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2024-39",
+   "target_bpk_id": 303318,
+   "label": "PP No. 39 Tahun 2024",
+   "about": "Kawasan Ekonomi Khusus Pariwisata dan Kesehatan Internasional Batam"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2021-68",
+   "target_bpk_id": 169057,
+   "label": "PP No. 68 Tahun 2021",
+   "about": "Kawasan Ekonomi Khusus Nongsa"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2021-67",
+   "target_bpk_id": 169055,
+   "label": "PP No. 67 Tahun 2021",
+   "about": "Kawasan Ekonomi Khusus Batam Aero Technic"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2019-62",
+   "target_bpk_id": 120629,
+   "label": "PP No. 62 Tahun 2019",
+   "about": "Perubahan Kedua atas Peraturan Pemerintah Nomor 46 Tahun 2007 tentang Kawasan Perdagangan Bebas dan Pelabuhan Bebas Batam"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PP-2007-46",
+   "target_bpk_id": 4768,
+   "label": "PP No. 46 Tahun 2007",
+   "about": "Kawasan Perdagangan Bebas Dan Pelabuhan Bebas Batam"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 04 Februari 2011.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/35690/PP%20No.5%20TH%202011.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:30:00Z"
+}

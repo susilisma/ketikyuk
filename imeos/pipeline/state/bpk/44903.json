@@ -1,0 +1,65 @@
+{
+ "id": "UU-2001-22",
+ "source": "bpk",
+ "bpk_id": 44903,
+ "url": "https://peraturan.bpk.go.id/Details/44903/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "22",
+ "number_raw": "22",
+ "year": 2001,
+ "title": "Undang-undang (UU) Nomor 22 Tahun 2001 tentang Minyak dan Gas Bumi",
+ "about": "Minyak dan Gas Bumi",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERTAMBANGAN MIGAS, MINERAL DAN ENERGI",
+ "field": "",
+ "date_enacted": "2001-11-23",
+ "date_promulgated": "2001-11-23",
+ "date_effective": "2001-11-23",
+ "gazette": "LN. 2001/ No. 136, TLN NO. 4152, LL SETNEG : 28 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 234926,
+   "label": "PERPU No. 2 Tahun 2022",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1971-8",
+   "target_bpk_id": 47564,
+   "label": "UU No. 8 Tahun 1971",
+   "about": "Perusahaan Pertambangan Minyak dan Gas Bumi Negara"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1962-15",
+   "target_bpk_id": 50978,
+   "label": "UU No. 15 Tahun 1962",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang No. 2 Tahun 1962 Tentang Kewajiban Perusahaan Minyak Memenuhi Kebutuhan Dalam Negeri Menjadi Undang-Undang"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 23 November 2001.\nDengan berlakunya Undang-undang ini, dinyatakan tidak berlaku:\na. Undang-Undang Nomor 44 Prp. Tahun 1960 tentang Pertambangan Minyak dan Gas Bumi\n(Lembaran Negara Tahun 1960 Nomor 133, Tambahan Lembaran Negara Nomor 2070);\nb. Undang-Undang Nomor 15 Tahun 1962 tentang Penetapan Peraturan Pemerintah\nPengganti Undang-Undang Nomor 2 Tahun 1962 tentang Kewajiban Perusahaan Minyak\nMemenuhi Kebutuhan Dalam Negeri (Lembaran Negara Tahun 1962 Nomor 80,\nTambahan Lembaran Negara Nomor 2505);\nc. Undang-Undang Nomor 8 Tahun 1971 tentang Perusahaan Pertambangan Minyak dan\nGas Bumi Negara (Lembaran Negara Tahun 1971 Nomor 76, Tambahan Lembaran\nNegara Nomor 2971) berikut segala perubahannya, terakhir diubah dengan\nUndang-Undang Nomor 10 Tahun 1974 (Lembaran Negara Tahun 1974 Nomor 3045).",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/33266/UU%20Nomor%2022%20Tahun%202001.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:33:19Z"
+}

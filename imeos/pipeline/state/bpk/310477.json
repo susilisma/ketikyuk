@@ -1,0 +1,39 @@
+{
+ "id": "PERPRES-2024-205",
+ "source": "bpk",
+ "bpk_id": 310477,
+ "url": "https://peraturan.bpk.go.id/Details/310477/perpres-no-205-tahun-2024",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "205",
+ "number_raw": "205",
+ "year": 2024,
+ "title": "Peraturan Presiden (Perpres) Nomor 205 Tahun 2024 tentang Tunjangan Kinerja Pegawai di Lingkungan Perpustakaan Nasional",
+ "about": "Tunjangan Kinerja Pegawai di Lingkungan Perpustakaan Nasional",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA - KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-12-16",
+ "date_promulgated": "2024-12-16",
+ "date_effective": "2024-12-16",
+ "gazette": "LN 2024 (403) : 6 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2020-15",
+   "target_bpk_id": 131383,
+   "label": "PERPRES No. 15 Tahun 2020",
+   "about": "Tunjangan Kinerja Pegawai di Lingkungan Perpustakaan Nasional"
+  }
+ ],
+ "abstract": "Sesuai dengan capaian hasil pelaksanaan reformasi birokrasi, Perpustakaan Nasional telah memenuhi kriteria untuk diberikan penyesuaian tunjangan kinerja.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD 1945; UU Nomor 20 Tahun 2023; Keppres Nomor 103 Tahun 2001; dan Keppres Nomor 110 Tahun 2001.\nPerpres ini mengatur mengenai tunjangan kinerja pegawai di lingkungan Perpustakaan Nasional yang diberikan setiap bulan. Pemberian tunjangan kinerja bagi Pegawai di Lingkungan Perpustakaan Nasional mempertimbangkan capaian kinerja pegawai sesuai dengan ketentuan peraturan perundang-undangan.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 16 Desember 2024.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 15 Tahun 2020 tentang Tunjangan Kinerja Pegawai di Lingkungan Perpustakaan Nasional (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 23), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 7 hlm. (batang tubuh hlm 1 s.d. 6 dan lampiran hlm 7)",
+ "citations": [
+  "UU-2023-20"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/371133/Perpres%20Nomor%20205%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:24Z"
+}

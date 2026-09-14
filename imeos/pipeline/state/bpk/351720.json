@@ -1,0 +1,47 @@
+{
+ "id": "PERMENDAG-2026-19",
+ "source": "bpk",
+ "bpk_id": 351720,
+ "url": "https://peraturan.bpk.go.id/Details/351720/permendag-no-19-tahun-2026",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "19",
+ "number_raw": "19",
+ "year": 2026,
+ "title": "Peraturan Menteri Perdagangan Nomor 19 Tahun 2026 tentang Penyelenggaraan Usaha Perdagangan Melalui Sistem Elektronik",
+ "about": "Penyelenggaraan Usaha Perdagangan Melalui Sistem Elektronik",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN - SISTEM PEMERINTAHAN BERBASIS ELEKTRONIK (SPBE)",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-06-04",
+ "date_promulgated": "2026-06-08",
+ "date_effective": "2026-06-08",
+ "gazette": "BN.2026 (367/38 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2023-31",
+   "target_bpk_id": 265202,
+   "label": "Permendag No. 31 Tahun 2023",
+   "about": "Perizinan Berusaha, Periklanan, Pembinaan, dan Pengawasan Pelaku Usaha dalam Perdagangan melalui Sistem Elektronik"
+  }
+ ],
+ "abstract": "a. bahwa untuk mendorong daya saing produk dalam negeri, kepatuhan perizinan berusaha, mendukung pemberdayaan usaha mikro dan usaha kecil, serta pelaku usaha perdagangan melalui sistem elektronik dalam negeri, melindungi konsumen, mendorong perkembangan perdagangan melalui sistem elektronik, serta memperhatikan perkembangan teknologi yang dinamis, perlu mengatur kembali ketentuan mengenai penyelenggaraan usaha perdagangan melalui sistem elektronik;\nb.\nbahwa Peraturan Menteri Perdagangan Nomor 31 Tahun 2023 tentang Ketentuan Perizinan Berusaha, Periklanan, Pembinaan, dan Pengawasan Pelaku Usaha dalam Perdagangan melalui Sistem Elektronik sudah tidak sesuai dengan perkembangan hukum dan kebutuhan masyarakat, sehingga perlu diganti;\nc.\nbahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, serta untuk melaksanakan ketentuan Pasal 7 ayat (5), Pasal 12 ayat (2), Pasal 15 ayat (4), Pasal 18 ayat (5), Pasal 36, Pasal 77 ayat (3), Pasal 78 ayat (4), Pasal 79 ayat (2), dan Pasal 80 ayat (5) Peraturan Pemerintah Nomor 80 Tahun 2019 tentang Perdagangan melalui Sistem Elektronik, perlu menetapkan Peraturan Menteri Perdagangan tentang Penyelenggaraan Usaha Perdagangan melalui Sistem Elektronik;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 5 Tahun 1999, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 7 Tahun 2014, Peraturan Pemerintah Nomor 80 Tahun 2019, Peraturan Pemerintah Nomor 29 Tahun 2021, Peraturan Pemerintah Nomor 28 Tahun 2025, Peraturan Presiden Nomor 168 Tahun 2024 danPeraturan Menteri Perdagangan Nomor 6 Tahun 2025\nPeraturan ini mengatur tentang ketentuan umum, pelaku usaha dan model bisnis PPMSE, persyaratan melakukan kegiatan usaha PMSE, iklan elektronik, pengutamaan produk dalam negeri, KP3A bidang PMSE, pemanfaatan kecerdasan artifisial (artificial intelligence), pembinaan dan pengawasan, sanksi administratif dan ketentuan penutup",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 08 Juni 2026.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan Menteri Perdagangan Nomor 31 Tahun 2023 tentang Perizinan Berusaha, Periklanan, Pembinaan, dan Pengawasan Pelaku Usaha dalam Perdagangan melalui Sistem Elektronik",
+ "citations": [
+  "PERMENDAG-2023-31",
+  "PP-2019-80",
+  "UU-1999-5",
+  "UU-2008-39",
+  "UU-2014-7",
+  "PP-2021-29",
+  "PP-2025-28",
+  "PERPRES-2024-168",
+  "PERMENDAG-2025-6"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/415514/permendag-no-19-tahun-2026.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:35:45Z"
+}

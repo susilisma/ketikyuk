@@ -1,0 +1,40 @@
+{
+ "id": "UU-2025-11",
+ "source": "bpk",
+ "bpk_id": 331524,
+ "url": "https://peraturan.bpk.go.id/Details/331524/uu-no-11-tahun-2025",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "11",
+ "number_raw": "11",
+ "year": 2025,
+ "title": "Undang-undang (UU) Nomor 11 Tahun 2025 tentang Kabupaten Kepulauan Sangihe di Provinsi Sulawesi Utara",
+ "about": "Kabupaten Kepulauan Sangihe di Provinsi Sulawesi Utara",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-08-20",
+ "date_promulgated": "2025-08-20",
+ "date_effective": "2025-08-20",
+ "gazette": "LN 2025 (132), TLN (7127) : 6 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-1959-29",
+   "target_bpk_id": 51529,
+   "label": "UU No. 29 Tahun 1959",
+   "about": "Pembentukan Daerah Tingkat II Di Sulawesi"
+  }
+ ],
+ "abstract": "Undang-Undang Nomor 29 Tahun 1959 tentang Pembentukan Daerah Tingkat II di Sulawesi yang menjadi dasar pembentukan Kabupaten Kepulauan Sangihe, sudah tidak sesuai lagi dengan perkembangan hukum sehingga perlu diganti.\nDasar hukum UU ini adalah Pasal 18, Pasal 18A, Pasal 18B ayat (2), Pasal 20, Pasal 21, dan Pasal 22D ayat (2) UUD NRI Tahun 1945.\nUU ini mengatur mengenai Kabupaten Kepulauan Sangihe di Provinsi Sulawesi Utara. Provinsi Sulawesi Utara adalah bagian dari wilayah Negara Kesatuan Republik Indonesia berdasarkan Undang-Undang Nomor 5 Tahun 2022 tentang Provinsi Sulawesi Utara. Kabupaten Kepulauan Sangihe adalah daerah kabupaten yang berada di wilayah Provinsi Sulawesi Utara yang dibentuk berdasarkan Undang-Undang Nomor 29 Tahun 1959 tentang Pembentukan Daerah Tingkat II di Sulawesi. Ibu Kota Kabupaten Kepulauan Sangihe bernama Tahuna yang berkedudukan di Kecamatan Tahuna, Kecamatan Tahuna Barat, dan Kecamatan Tahuna Timur.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 20 Agustus 2025.\nPada saat Undang-Undang ini mulai berlaku, ketentuan yang mengatur mengenai Kabupaten Kepulauan Sangihe dalam Undang-Undang Nomor 29 Tahun 1959 tentang Pembentukan Daerah Tingkat II di Sulawesi (Lembaran Negara Tahun 1959 Nomor 74, Tambahan Lembaran Negara Nomor 1822), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 8 hlm (batang tubuh hlm 1 sd 6 dan penjelasan hlm 7 sd 8)",
+ "citations": [
+  "UU-1959-29",
+  "UU-2022-5"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/393557/UU%20Nomor%2011%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:23:49Z"
+}

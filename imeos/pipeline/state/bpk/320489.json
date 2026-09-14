@@ -1,0 +1,45 @@
+{
+ "id": "PMK-2025-40",
+ "source": "bpk",
+ "bpk_id": 320489,
+ "url": "https://peraturan.bpk.go.id/Details/320489/pmk-no-40-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "40",
+ "number_raw": "40",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 40 Tahun 2025 tentang Tarif Layanan Badan Layanan Umum Pusat Investasi Pemerintah Pada Kementerian Keuangan",
+ "about": "Tarif Layanan Badan Layanan Umum Pusat Investasi Pemerintah Pada Kementerian Keuangan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BUMD / BADAN USAHA MILIK DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-06-13",
+ "date_promulgated": "2025-06-20",
+ "date_effective": "2025-06-20",
+ "gazette": "BN.2025 (432/7 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2021-1",
+   "target_bpk_id": 158885,
+   "label": "PMK No. 1/PMK.05/2021",
+   "about": "Tarif Layanan Badan Layanan Umum Pusat Investasi Pemerintah pada Kementerian Keuangan"
+  }
+ ],
+ "abstract": "a. bahwa untuk melaksanakan pembiayaan kepada usaha mikro, kecil, dan menengah dalam bentuk investasi langsung lainnya, serta untuk memperluas jangkauan layanan pembiayaan kepada usaha mikro, kecil, dan menengah yang belum mendapatkan fasilitas pembiayaan, perlu mengatur tarif layanan atas jasa yang diberikan oleh Badan Layanan Umum Pusat Investasi Pemerintah pada Kementerian Keuangan;\nb. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan sesuai dengan ketentuan Pasal 9 ayat (8) Peraturan Pemerintah Nomor 23 Tahun\n2005 tentang Pengelolaan Keuangan Badan Layanan Umum sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 74 Tahun 2012 tentang Perubahan atas Peraturan Pemerintah Nomor 23 Tahun 2005 tentang Pengelolaan Keuangan Badan Layanan Umum, perlu menetapkan Peraturan Menteri Keuangan tentang Tarif Layanan Badan Layanan Umum Pusat Investasi Pemerintah pada Kementerian Keuangan;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 1 Tahun 2004, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 23 Tahun 2005, Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Menteri Keuangan Nomor 129/PMK.05/2020 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024.\nPeraturan ini mengatur tentang Tarif layanan Badan Layanan Umum Pusat Investasi\nPemerintah pada Kementerian Keuangan, jasa layanan pembiayaan usaha mikro, kecil, dan menengah kepada penyalur dalam bentuk kerja sama program dengan pemerintah daerah dan/atau pihak lainnya untuk mengembangkan program pembiayaan dan pemberdayaan usaha mikro, kecil, dan menengah dan kriteria, besaran tarif, dan tata cara penetapan tarif layanan",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 20 Juni 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan Menteri Keuangan Nomor 1/PMK.05/2021 tentang Tarif Layanan Badan Layanan Umum Pusat Investasi Pemerintah pada Kementerian Keuangan",
+ "citations": [
+  "PP-2005-23",
+  "PP-2012-74",
+  "UU-2004-1",
+  "UU-2008-39",
+  "PERPRES-2024-158",
+  "PMK-2020-129",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/382154/40%20th%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:33:43Z"
+}

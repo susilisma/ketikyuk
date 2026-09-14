@@ -1,0 +1,37 @@
+{
+ "id": "PP-1991-40",
+ "source": "bpk",
+ "bpk_id": 58188,
+ "url": "https://peraturan.bpk.go.id/Details/58188/x",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "40",
+ "number_raw": "40",
+ "year": 1991,
+ "title": "Peraturan Pemerintah (PP) Nomor 40 Tahun 1991 tentang Penanggulangan Wabah Penyakit Menular",
+ "about": "Penanggulangan Wabah Penyakit Menular",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KESEHATAN",
+ "field": "",
+ "date_enacted": "1991-07-03",
+ "date_promulgated": "1991-07-03",
+ "date_effective": "1991-07-03",
+ "gazette": "LN. 1991, LL Setkab : 15 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-28",
+   "target_bpk_id": 294077,
+   "label": "PP No. 28 Tahun 2024",
+   "about": "Peraturan Pelaksanaan Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 03 Juli 1991.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/47677/PP%20NO%2040%20TH%201991.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:29Z"
+}

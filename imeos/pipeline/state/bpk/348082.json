@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2026-23",
+ "source": "bpk",
+ "bpk_id": 348082,
+ "url": "https://peraturan.bpk.go.id/Details/348082/pmk-no-23-tahun-2026",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "23",
+ "number_raw": "23",
+ "year": 2026,
+ "title": "Peraturan Menteri Keuangan Nomor 23 Tahun 2026 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 240/PMK.06/2016 tentang Pengurusan Piutang Negara",
+ "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 240/PMK.06/2016 tentang Pengurusan Piutang Negara",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PIUTANG, UTANG, DAN HIBAH NEGARA / DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-04-21",
+ "date_promulgated": "2026-04-24",
+ "date_effective": "2026-04-24",
+ "gazette": "BN.2026 (269/33 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PMK-2016-240",
+   "target_bpk_id": 121375,
+   "label": "PMK No. 240/PMK.06/2016",
+   "about": "Pengurusan Piutang Negara"
+  }
+ ],
+ "abstract": "a. bahwa untuk melaksanakan ketentuan Pasal 14 UndangUndang Nomor 49 Prp. Tahun 1960 tentang Panitya\nUrusan Piutang Negara, telah ditetapkan Peraturan\nMenteri Keuangan Nomor 240/PMK.06/2016 tentang\nPengurusan Piutang Negara;\nb. bahwa untuk meningkatkan optimalisasi penyelesaian\npiutang negara sesuai dengan perkembangan pengurusan\npiutang negara, perlu melakukan perubahan atas\nPeraturan Menteri Keuangan Nomor 240/PMK.06/2016\ntentang Pengurusan Piutang Negara;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a dan huruf b, serta untuk melaksanakan\nketentuan Pasal 66 ayat (5) huruf a Peraturan Pemerintah\nNomor 28 Tahun 2022 tentang Pengurusan Piutang\nNegara oleh Panitia Urusan Piutang Negara sebagaimana\ntelah diubah dengan Peraturan Pemerintah Nomor 4\nTahun 2026 tentang Perubahan atas Peraturan\nPemerintah Nomor 28 Tahun 2022 tentang Pengurusan\nPiutang Negara oleh Panitia Urusan Piutang Negara, perlu\nmenetapkan Peraturan Menteri Keuangan tentang\nPerubahan atas Peraturan Menteri Keuangan Nomor\n240/PMK.06/2016 tentang Pengurusan Piutang Negara;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 49 Prp. Tahun 1960, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 28 Tahun 2022, Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Menteri Keuangan Nomor 240/PMK.06/2016 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 240/PMK.06/2016 tentang Pengurusan Piutang Negara yaitu tentang ketentuan umum, pengusaan fisik, penggunaan dan pendayagunaan barang jaminan/harta kekayaan lain yang telah dilakukan penyitaan.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 24 April 2026.\nPeraturan Menteri Keuangan Nomor 240/PMK.06/2016 tentang Pengurusan Piutang Negara diubah sebagian",
+ "citations": [
+  "PMK-2016-240",
+  "PP-2022-28",
+  "PP-2026-4",
+  "UU-2008-39",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/411657/2024pmkeuangan023.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:31:05Z"
+}

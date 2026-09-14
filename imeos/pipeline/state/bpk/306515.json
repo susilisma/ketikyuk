@@ -1,0 +1,55 @@
+{
+ "id": "UU-2024-65",
+ "source": "bpk",
+ "bpk_id": 306515,
+ "url": "https://peraturan.bpk.go.id/Details/306515/uu-no-65-tahun-2024",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "65",
+ "number_raw": "65",
+ "year": 2024,
+ "title": "Undang-undang (UU) Nomor 65 Tahun 2024 tentang Perubahan Ketiga atas Undang-Undang Nomor 13 Tahun 2016 tentang Paten",
+ "about": "Perubahan Ketiga atas Undang-Undang Nomor 13 Tahun 2016 tentang Paten",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HAK ATAS KEKAYAAN INTELEKTUAL",
+ "field": "HUKUM PERDATA",
+ "date_enacted": "2024-10-28",
+ "date_promulgated": "2024-10-28",
+ "date_effective": "2024-10-28",
+ "gazette": "LN 2024 (251), TLN (7002) : 38 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "UU-2023-6",
+   "target_bpk_id": 246523,
+   "label": "UU No. 6 Tahun 2023",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2016-13",
+   "target_bpk_id": 37536,
+   "label": "UU No. 13 Tahun 2016",
+   "about": "Paten"
+  }
+ ],
+ "abstract": "Dalam rangka meningkatkan pelayanan di bidang paten kepada masyarakat serta untuk menyesuaikan dengan perkembangan kebutuhan hukum masyarakat dan praktik internasional, perlu mengubah Undang-Undang Nomor 13 Tahun 2016 tentang Paten sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang.\nDasar Hukum UU ini adalah Pasal 5 ayat (1), Pasal 20, Pasal 28C ayat (1), dan Pasal 33 UUD NRI Tahun 1945 dan UU Nomor 13 Tahun 2016.\nUndang-Undang ini mengatur mengenai Perubahan ketiga atas UU Nomor 13 Tahun 2016 Tentang Paten. Paten adalah hak eksklusif yang diberikan oleh negara kepada inventor atas invensinya di bidang teknologi untuk jangka waktu tertentu melaksanakan sendiri invensi tersebut atau memberikan persetujuan kepada pihak lain untuk melaksanakannya. Beberapa aspek yang memerlukan perubahan pengaturan dalam UU ini dibanding UU sebelumnya yaitu terkait isu inovasi, antara lain: perlu adanya kebijakan yang sesuai dengan kebutuhan lokal, khususnya terhadap Invensi yang merupakan pengembangan dari produk/proses yang ada sebelumnya, yang seharusnya inovasi tersebut memperhatikan kemampuan lokal karena Indonesia merupakan negara dengan Sumber Daya Genetik yang sangat kaya untuk dapat dikembangkan, dan kebijakan Paten tidak boleh menghambat inovasi yang ada.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 28 Oktober 2024.\nUU ini mengubah UU Nomor 13 Tahun 2016 tentang Paten.\nLampiran file: 62 hlm (batang tubuh hlm 1 sd 38, lampiran hlm 39 sd 62)",
+ "citations": [
+  "UU-2016-13",
+  "UU-2023-6",
+  "PERPPU-2022-2"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/366767/UU%20Nomor%2065%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:26:17Z"
+}

@@ -1,0 +1,40 @@
+{
+ "id": "PERPRES-2026-15",
+ "source": "bpk",
+ "bpk_id": 349416,
+ "url": "https://peraturan.bpk.go.id/Details/349416/perpres-no-15-tahun-2026",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "15",
+ "number_raw": "15",
+ "year": 2026,
+ "title": "Peraturan Presiden (Perpres) Nomor 15 Tahun 2026 tentang Hak Keuangan dan Fasilitas Lainnya bagi Ketua dan Anggota Dewan Pertimbangan Presiden Republik Indonesia",
+ "about": "Hak Keuangan dan Fasilitas Lainnya bagi Ketua dan Anggota Dewan Pertimbangan Presiden Republik Indonesia",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-03-27",
+ "date_promulgated": "2026-03-27",
+ "date_effective": "2026-03-27",
+ "gazette": "LN 2026 (28) : 5 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut sebagian",
+   "target": "PERPRES-2007-96",
+   "target_bpk_id": 42146,
+   "label": "PERPRES No. 96 Tahun 2007",
+   "about": "Perubahan atas Peraturan Presiden Nomor 10 Tahun 2007 tentang Tata Kerja Dewan Pertimbangan Presiden dan Sekretariat Dewan Pertimbangan Presiden"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 15 ayat (3) Undang-Undang Nomor 19 Tahun 2006 tentang Dewan Pertimbangan Presiden sebagaimana telah diubah dengan Undang-Undang Nomor 64 Tahun 2024 tentang Perubahan atas Undang-Undang Nomor 19 Tahun 2006 tentang Dewan Pertimbangan Presiden, perlu menetapkan Peraturan Presiden tentang Hak Keuangan dan Fasilitas Lainnya bagi Ketua dan Anggota Dewan Pertimbangan Presiden Republik Indonesia.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD 1945 dan UU No. 19 Tahun 2006.\nPerpres ini mengatur mengenai Hak Keuangan dan Fasilitas Lainnya bagi Ketua dan Anggota Dewan Pertimbangan Presiden Republik Indonesia. Tata cara pembayaran dan penghentian pembayaran hak keuangan dan fasilitas lainnya bagi Ketua dan Anggota Dewan Pertimbangan Presiden Republik Indonesia dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 27 Maret 2026.\nPada saat Perpres ini mulai berlaku, Ketentuan dalam Peraturan Presiden Nomor 96 Tahun 2007 tentang Perubahan atas Peraturan Presiden Nomor 10 Tahun 2007 tentang Tata Kerja Dewan Pertimbangan Presiden dan Sekretariat Dewan Pertimbangan Presiden sepanjang yang mengatur mengenai hak keuangan dan fasilitas lainnya bagi Ketua dan Anggota Deuian Pertimbangan Presiden Republik Indonesia, dinyatakan tidak berlaku.\nLampiran file: 5 hlm.",
+ "citations": [
+  "UU-2006-19",
+  "UU-2024-64"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/413102/Perpres%20No.%2015%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:31:47Z"
+}

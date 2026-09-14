@@ -1,0 +1,40 @@
+{
+ "id": "UU-2025-7",
+ "source": "bpk",
+ "bpk_id": 331516,
+ "url": "https://peraturan.bpk.go.id/Details/331516/uu-no-7-tahun-2025",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "7",
+ "number_raw": "7",
+ "year": 2025,
+ "title": "Undang-undang (UU) Nomor 7 Tahun 2025 tentang Kabupaten Kolaka di Provinsi Sulawesi Tenggara",
+ "about": "Kabupaten Kolaka di Provinsi Sulawesi Tenggara",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-08-20",
+ "date_promulgated": "2025-08-20",
+ "date_effective": "2025-08-20",
+ "gazette": "LN 2025 (128), TLN (7123) : 5 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-1959-29",
+   "target_bpk_id": 51529,
+   "label": "UU No. 29 Tahun 1959",
+   "about": "Pembentukan Daerah Tingkat II Di Sulawesi"
+  }
+ ],
+ "abstract": "Undang-Undang Nomor 29 Tahun 1959 tentang Pembentukan Daerah Tingkat II di Sulawesi yang menjadi dasar pembentukan Kabupaten Kolaka, sudah tidak sesuai lagi dengan perkembangan hukum sehingga perlu diganti.\nDasar hukum UU ini adalah Pasal 18, Pasal 18A, Pasal 18B ayat (2), Pasal 20, Pasal 21, dan Pasal 22D ayat (2) UUD NRI Tahun 1945.\nUU ini mengatur mengenai Kabupaten Kolaka di Provinsi Sulawesi Tenggara. Provinsi Sulawesi Tenggara adalah bagian dari wilayah Negara Kesatuan Republik Indonesia berdasarkan Undang-Undang Nomor 7 Tahun 2022 tentang Provinsi Sulawesi Tenggara. Kabupaten Kolaka adalah daerah kabupaten yang berada di wilayah Provinsi Sulawesi Tenggara yang dibentuk berdasarkan Undang-Undang Nomor 29 Tahun 1959 tentang Pembentukan Daerah Tingkat II di Sulawesi. Ibu Kota Kabupaten Kolaka berkedudukan di Kecamatan Kolaka.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 20 Agustus 2025.\nPada saat Undang-Undang ini mulai berlaku, ketentuan yang mengatur mengenai Kabupaten Kolaka dalam Undang-Undang Nomor 29 Tahun 1959 tentang Pembentukan Daerah Tingkat II di Sulawesi (Lembaran Negara Tahun 1959 Nomor 74, Tambahan Lembaran Negara Nomor 1822), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 8 hlm (batang tubuh hlm 1 sd 5 dan penjelasan hlm 6 sd 8)",
+ "citations": [
+  "UU-1959-29",
+  "UU-2022-7"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/393549/UU%20Nomor%207%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:23:54Z"
+}

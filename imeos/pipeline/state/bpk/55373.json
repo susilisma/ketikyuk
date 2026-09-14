@@ -1,0 +1,37 @@
+{
+ "id": "PP-1998-72",
+ "source": "bpk",
+ "bpk_id": 55373,
+ "url": "https://peraturan.bpk.go.id/Details/55373/x",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "72",
+ "number_raw": "72",
+ "year": 1998,
+ "title": "Peraturan Pemerintah (PP) Nomor 72 Tahun 1998 tentang Pengamanan Sediaan Farmasi Dan Alat Kesehatan",
+ "about": "Pengamanan Sediaan Farmasi Dan Alat Kesehatan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KESEHATAN",
+ "field": "",
+ "date_enacted": "1998-09-16",
+ "date_promulgated": "1998-09-16",
+ "date_effective": "1998-09-16",
+ "gazette": "LN. 1998 No. 138, TLN No. 3781, LL Setkab : 37HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-28",
+   "target_bpk_id": 294077,
+   "label": "PP No. 28 Tahun 2024",
+   "about": "Peraturan Pelaksanaan Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 16 September 1998.\nDengan berlakunya PP ini, maka: 1) Pharmaceutissche Stoffen Keurings Verordening (Staatsblad Tahun 1938 Nomor 172); 2) Verpakkings Verordening Pharmaceutissche Stoffen Nomor 1 (Staatsblad Tahun 1938 Nomor 173); dan 3)\nVerpakkings Verordening Kinine (Staatsblad Tahun 1939 Nomor 210); dinyatakan tidak berlaku lagi.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/44817/PP%20No.%2072%20Tahun%201998.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:26:27Z"
+}

@@ -1,0 +1,51 @@
+{
+ "id": "PERPRES-2019-68",
+ "source": "bpk",
+ "bpk_id": 122754,
+ "url": "https://peraturan.bpk.go.id/Details/122754/perpres-no-68-tahun-2019",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "68",
+ "number_raw": "68",
+ "year": 2019,
+ "title": "Peraturan Presiden (Perpres) Nomor 68 Tahun 2019 tentang Organisasi Kementerian Negara",
+ "about": "Organisasi Kementerian Negara",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI - STRUKTUR ORGANISASI",
+ "field": "",
+ "date_enacted": "2019-10-23",
+ "date_promulgated": "2019-10-24",
+ "date_effective": "2019-10-24",
+ "gazette": "LN.2019/NO.203, JDIH.SETKAB.GO.ID : 46 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-140",
+   "target_bpk_id": 305099,
+   "label": "Perpres No. 140 Tahun 2024",
+   "about": "Organisasi Kementerian Negara"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2021-32",
+   "target_bpk_id": 166281,
+   "label": "PERPRES No. 32 Tahun 2021",
+   "about": "Perubahan atas Peraturan Presiden Nomor 68 Tahun 2019 tentang Organisasi Kementerian Negara"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2015-7",
+   "target_bpk_id": 41727,
+   "label": "PERPRES No. 7 Tahun 2015",
+   "about": "Organisasi Kementerian Negara"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 24 Oktober 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/113539/Perpres%20Nomor%2068%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:28:46Z"
+}

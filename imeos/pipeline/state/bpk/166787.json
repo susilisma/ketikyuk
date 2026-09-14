@@ -1,0 +1,44 @@
+{
+ "id": "PERMENPERIN-2021-1",
+ "source": "bpk",
+ "bpk_id": 166787,
+ "url": "https://peraturan.bpk.go.id/Details/166787/permenperin-no-1-tahun-2021",
+ "form": "PERMENPERIN",
+ "form_long": "Peraturan Menteri Perindustrian",
+ "number": "1",
+ "number_raw": "1",
+ "year": 2021,
+ "title": "Peraturan Menteri Perindustrian Nomor 1 Tahun 2021 tentang Pemberlakuan Standar Nasional Indonesia Tepung Terigu Sebagai Bahan Makanan Secara Wajib",
+ "about": "Pemberlakuan Standar Nasional Indonesia Tepung Terigu Sebagai Bahan Makanan Secara Wajib",
+ "issuer": "Kementerian Perindustrian",
+ "subject": "STANDAR / PEDOMAN",
+ "field": "",
+ "date_enacted": "2021-01-18",
+ "date_promulgated": "2021-02-04",
+ "date_effective": "2021-08-04",
+ "gazette": "BN 2021/ No 113; http://jdih.kemenperin.go.id/; 39 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENPERIN-2024-61",
+   "target_bpk_id": 308184,
+   "label": "Permenperin No. 61 Tahun 2024",
+   "about": "Pemberlakuan Standar Nasional Indonesia untuk Tepung Terigu Sebagai Bahan Makanan secara Wajib"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENPERIN-2015-59",
+   "target_bpk_id": 166788,
+   "label": "Permenperin No. 59/M-IND/PER/7/2015 Tahun 2015",
+   "about": "Pemberlakuan Standar Nasional Indonesia Tepung Terigu Sebagai Bahan Makanan Secara Wajib."
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perindustrian ini mulai berlaku pada tanggal 04 Agustus 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/159713/Permenperin_No._1_Tahun_2021_3.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:39:12Z"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKUMHAM-2016-16",
+ "source": "bpk",
+ "bpk_id": 133240,
+ "url": "https://peraturan.bpk.go.id/Details/133240/permenkumham-no-16-tahun-2016",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "16",
+ "number_raw": "16",
+ "year": 2016,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 16 Tahun 2016 tentang Organisasi dan Tata Kerja Politeknik Ilmu Pemasyarakatan",
+ "about": "Organisasi dan Tata Kerja Politeknik Ilmu Pemasyarakatan",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "PENDIDIKAN - STRUKTUR ORGANISASI",
+ "field": "",
+ "date_enacted": "2016-04-06",
+ "date_promulgated": "2016-04-06",
+ "date_effective": "2016-04-06",
+ "gazette": "BN.2016/No.522,peraturan.go.id: 19 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 298128,
+   "label": "Permenkumham No. 17 Tahun 2024",
+   "about": "Organisasi dan Tata Kerja Politeknik Pengayoman Indonesia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 06 April 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/124027/Permenkumham%20Nomor%2016%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:42:38Z"
+}

@@ -1,0 +1,39 @@
+{
+ "id": "UU-2024-144",
+ "source": "bpk",
+ "bpk_id": 307342,
+ "url": "https://peraturan.bpk.go.id/Details/307342/uu-no-144-tahun-2024",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "144",
+ "number_raw": "144",
+ "year": 2024,
+ "title": "Undang-undang (UU) Nomor 144 Tahun 2024 tentang Kabupaten Pinrang di Provinsi Sulawesi Selatan",
+ "about": "Kabupaten Pinrang di Provinsi Sulawesi Selatan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-10-28",
+ "date_promulgated": "2024-10-28",
+ "date_effective": "2024-10-28",
+ "gazette": "LN 2024 (330), TLN (7081) : 6 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-1959-29",
+   "target_bpk_id": 51529,
+   "label": "UU No. 29 Tahun 1959",
+   "about": "Pembentukan Daerah Tingkat II Di Sulawesi"
+  }
+ ],
+ "abstract": "Undang-Undang Nomor 29 Tahun 1959 tentang Pembentukan Daerah Tingkat II di Sulawesi, yang menjadi dasar pembentukan Kabupaten Pinrang, sudah tidak sesuai lagi dengan perkembangan hukum sehingga perlu diganti.\nDasar hukum UU ini adalah Pasal 18, Pasal 18A, Pasal 18B ayat (2), Pasal 20, Pasal 21, dan Pasal 22D ayat (2) UUD 1945.\nUU ini mengatur mengenai Kabupaten Pinrang di Provinsi Sulawesi Selatan dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Kabupaten Pinrang terdiri atas 12 (dua belas) Kecamatan. Ibu Kota Kabupaten Pinrang bernama Pinrang berkedudukan di Kecamatan Watang Sawitto.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 28 Oktober 2024.\nPada saat Undang-Undang ini mulai berlaku, ketentuan yang mengatur mengenai Kabupaten Pinrang dalam Undang-Undang Nomor 29 Tahun 1959 tentang Pembentukan Daerah Tingkat II di Sulawesi (Lembaran Negara Tahun 1959 Nomor 74, Tambahan Lembaran Negara Nomor 1822), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 8 hlm. (batang tubuh hlm 1 s.d. 6 dan penjelasan hlm 7 s.d. 8)",
+ "citations": [
+  "UU-1959-29"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/367735/UU%20Nomor%20144%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:24:33Z"
+}

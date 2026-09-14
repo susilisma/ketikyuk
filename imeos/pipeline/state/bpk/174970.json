@@ -1,0 +1,37 @@
+{
+ "id": "PERPRES-2021-68",
+ "source": "bpk",
+ "bpk_id": 174970,
+ "url": "https://peraturan.bpk.go.id/Details/174970/perpres-no-68-tahun-2021",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "68",
+ "number_raw": "68",
+ "year": 2021,
+ "title": "Peraturan Presiden (Perpres) Nomor 68 Tahun 2021 tentang Pemberian Persetujuan Presiden terhadap Rancangan Peraturan Menteri/Kepala Lembaga",
+ "about": "Pemberian Persetujuan Presiden terhadap Rancangan Peraturan Menteri/Kepala Lembaga",
+ "issuer": "Pemerintah Pusat",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA",
+ "field": "",
+ "date_enacted": "2021-08-02",
+ "date_promulgated": "2021-08-06",
+ "date_effective": "2021-08-06",
+ "gazette": "LN.2021/No.173, peraturan.go.id : 6 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-148",
+   "target_bpk_id": 306600,
+   "label": "Perpres No. 148 Tahun 2024",
+   "about": "Kementerian Sekretariat Negara"
+  }
+ ],
+ "abstract": "Untuk menghasilkan Peraturan Menteri/Kepala Lembaga yang berkualitas, harmonis, tidak sektoral, dan tidak menghambat kegiatan masyarakat dan dunia usaha, diperlukan mekanisme pemberian Persetujuan Presiden terhadap kebijakan yang akan ditetapkan oleh menteri/kepala lembaga dalam bentuk Peraturan Menteri/Kepala Lembaga. Pemberian Persetujuan Presiden terhadap Rancangan Peraturan Menteri/Kepala Lembaga dimaksudkan untuk meminimalkan permasalahan dalam pelaksanaan Peraturan Menteri/Kepala Lembaga.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.\nPerpres ini mengatur mengenai prosedur Persetujuan Presiden terhadap kebijakan yang akan ditetapkan oleh menteri/kepala lembaga dalam bentuk Peraturan Menteri/Kepala Lembaga. Setiap Rancangan Peraturan Menteri/Kepala Lembaga yang akan ditetapkan oleh menteri/kepala lembaga wajib mendapatkan Persetujuan Presiden. Persetujuan Presiden diberikan terhadap Rancangan Peraturan Menteri/Kepala Lembaga yang memiliki kriteria: 1) berdampak luas bagi kehidupan masyarakat; 2) bersifat strategis, yaitu berpengaruh pada program prioritas Presiden, target Pemerintah yang ditetapkan dalam RPJMN dan RKP, pertahanan dan keamanan, serta keuangan negara; dan/atau 3) lintas sektor atau lintas kementerian/lembaga.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 06 Agustus 2021.\nSebelum dimintakan Persetujuan Presiden, Rancangan Peraturan Menteri/Kepala Lembaga telah melalui pengharmonisasian, pembulatan, dan pemantapan konsepsi yang dikoordinasikan oleh menteri atau kepala lembaga yang menyelenggarakan urusan pemerintahan di bidang pembentukan peraturan perundang-undangan. Setelah melalui tahapan tersebut, pemrakarsa menyampaikan permohonan secara tertulis kepada presiden.\nRancangan Peraturan Menteri/Kepala Lembaga yang telah mendapatkan Persetujuan Presiden ditetapkan oleh Pemrakarsa dan diundangkan dalam Berita Negara Republik Indonesia.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/168231/Perpres%20Nomor%2068%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:28:30Z"
+}

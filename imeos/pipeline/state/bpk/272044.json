@@ -1,0 +1,64 @@
+{
+ "id": "PERMENKUMHAM-2023-22",
+ "source": "bpk",
+ "bpk_id": 272044,
+ "url": "https://peraturan.bpk.go.id/Details/272044/permenkumham-no-22-tahun-2023",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "22",
+ "number_raw": "22",
+ "year": 2023,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 22 Tahun 2023 tentang Visa dan Izin Tinggal",
+ "about": "Visa dan Izin Tinggal",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "KEWARGANEGARAAN DAN IMIGRASI",
+ "field": "HUKUM INTERNASIONAL",
+ "date_enacted": "2023-08-22",
+ "date_promulgated": "2023-08-24",
+ "date_effective": "2023-08-24",
+ "gazette": "BN 2023 (651): 115 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": null,
+   "target_bpk_id": 316856,
+   "label": "Permen Imipas No. 3 Tahun 2025",
+   "about": "Visa, Izin Tinggal, Fasilitas dan Kemudahan, serta Pengawasan Keimigrasian bagi Diaspora"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 285156,
+   "label": "Permenkumham No. 11 Tahun 2024",
+   "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 22 Tahun 2023 tentang Visa dan Izin Tinggal"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 203695,
+   "label": "Permenkumham No. 29 Tahun 2021",
+   "about": "Visa dan Izin Tinggal"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133157,
+   "label": "Permenkumham No. 16 Tahun 2018",
+   "about": "Tata Cara Pemberian Visa dan Izin Tinggal Bagi Tenaga Kerja Asing"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan dalam Pasal 90 ayat (3), Pasal 92 ayat (3), Pasal 103 ayat (3), Pasal 108, Pasal 115 ayat (2), Pasal 141 ayat (2), Pasal 142 ayat (3), Pasal 147, Pasal 153 ayat (3), Pasal 156 ayat (2), Pasal 158 ayat (3), Pasal 159 ayat (6), Pasal 164, Pasal 169, Pasal 171C ayat (4), dan Pasal 171D ayat (9) Peraturan Pemerintah Nomor 31 Tahun 2013 tentang Peraturan Pelaksanaan Undang-Undang Nomor 6 Tahun 2011 tentang Keimigrasian sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Pemerintah Nomor 40 Tahun 2023 tentang Perubahan Keempat atas Peraturan Pemerintah Nomor 31 Tahun 2013 tentang Peraturan Pelaksanaan Undang-Undang Nomor 6 Tahun 2011 tentang Keimigrasian, perlu menetapkan Peraturan Menteri Hukum dan Hak Asasi Manusia tentang Visa dan Izin Tinggal.\nDasar hukum Permenkumham ini adalah Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 39 Tahun 2008; UU Nomor 6 Tahun 2011; PP Nomor 31 Tahun 2013; Perpres Nomor 18 Tahun 2023; dan Permenkumham Nomor 41 Tahun 2021.\nPermenkumham ini mengatur tentang Visa dan Izin Tinggal dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Setiap Orang Asing yang masuk ke Wilayah Indonesia wajib memiliki Visa yang sah dan masih berlaku, kecuali ditentukan lain berdasarkan ketentuan peraturan perundang-undangan atau perjanjian internasional. Setiap Orang Asing hanya dapat memiliki 1 (satu) Visa dan menjadi dasar pemberian Izin Tinggal. Visa terdiri atas: a. Visa kunjungan; dan b. Visa tinggal terbatas.",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 24 Agustus 2023.\nPermenkumham ini mencabut Permenkumham Nomor 16 Tahun 2018 dan Permenkumhan Nomor 29 Tahun 2021.",
+ "citations": [
+  "PP-2013-31",
+  "UU-2011-6",
+  "PP-2023-40",
+  "UU-2008-39",
+  "PERPRES-2023-18"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/330147/Permenkumham%20Nomor%2022%20Tahun%202023.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:06Z"
+}

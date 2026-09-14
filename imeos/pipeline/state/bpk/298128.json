@@ -1,0 +1,57 @@
+{
+ "id": "PERMENKUMHAM-2024-17",
+ "source": "bpk",
+ "bpk_id": 298128,
+ "url": "https://peraturan.bpk.go.id/Details/298128/permenkumham-no-17-tahun-2024",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "17",
+ "number_raw": "17",
+ "year": 2024,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 17 Tahun 2024 tentang Organisasi dan Tata Kerja Politeknik Pengayoman Indonesia",
+ "about": "Organisasi dan Tata Kerja Politeknik Pengayoman Indonesia",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-08-06",
+ "date_promulgated": "2024-08-07",
+ "date_effective": "2024-08-07",
+ "gazette": "BN 2024 (467) : 19 hlm.; peraturan.go.id",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 314778,
+   "label": "Permenkum No. 9 Tahun 2025",
+   "about": "Organisasi dan Tata Kerja Politeknik Pengayoman Indonesia"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133282,
+   "label": "Permenkumham No. 59 Tahun 2016",
+   "about": "Organisasi dan Tata Kerja Politeknik Imigrasi"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133240,
+   "label": "Permenkumham No. 16 Tahun 2016",
+   "about": "Organisasi dan Tata Kerja Politeknik Ilmu Pemasyarakatan"
+  }
+ ],
+ "abstract": "Penyatuan Politeknik Ilmu Pemasyarakatan dan Politeknik Imigrasi menjadi Politeknik Pengayoman Indonesia berdasarkan rekomendasi Pendidikan, Kebudayaan, Riset, dan Teknologi melalui surat nomor 1704/D/KL.00.00/2024 tentang Rekomendasi Perubahan Bentuk Politeknik Ilmu Pemasyarakatan dan Politeknik Imigrasi menjadi Politeknik Pengayoman Indonesia serta persetujuan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor B/924/M.KT.01/2024 tentang Usul Penggabungan Politeknik Ilmu Pemasyarakatan (Poltekip) dan Politeknik Imigrasi (Poltekim) di Lingkungan Kementerian Hukum dan Hak Asasi Manusia, perlu menetapkan Peraturan Menteri Hukum dan Hak Asasi Manusia tentang Organisasi dan Tata Kerja Politeknik Pengayoman Indonesia.\nDasar hukum Permenkumham ini adalah Pasal 17 ayat (3) UUD 1945; UU Nomor 39 Tahun 1999; UU Nomor 12 Tahun 2012; PP Nomor 4 Tahun 2014; PP Nomor 57 Tahun 2022; Perpres Nomor 18 Tahun 2023; Permendikbud Nomor 139 Tahun 2014; dan Permenkumham Nomor 28 Tahun 2023.\nPermenkumham ini mengatur mengenai Organisasi dan Tata Kerja Politeknik Pengayoman Indonesia (Poltekpin) dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Poltekpin berada di bawah dan bertanggung jawab kepada Menteri melalui Kepala Badan Pengembangan Sumber Daya Manusia Hukum dan Hak Asasi Manusia. Poltekpin mempunyai tugas menyelenggarakan pendidikan vokasi dan pendidikan profesi dalam berbagai rumpun ilmu pengetahuan dan/atau teknologi sesuai dengan ketentuan peraturan perundang-undangan.",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 07 Agustus 2024.\nPada saat Peraturan Menteri ini mulai berlaku: Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 16 Tahun 2016 tentang Organisasi dan Tata Kerja Politeknik Ilmu Pemasyarakatan dan Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 59 Tahun 2016 tentang Organisasi dan Tata Kerja Politeknik Imigrasi, dicabut dan dinyatakan tidak berlaku.\nLampiran file: 22 hlm.",
+ "citations": [
+  "UU-1999-39",
+  "UU-2012-12",
+  "PP-2014-4",
+  "PP-2022-57",
+  "PERPRES-2023-18"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/357707/Permenkumham%20Nomor%2017%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:42:35Z"
+}

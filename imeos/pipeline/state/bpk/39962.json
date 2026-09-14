@@ -1,0 +1,44 @@
+{
+ "id": "UU-2007-39",
+ "source": "bpk",
+ "bpk_id": 39962,
+ "url": "https://peraturan.bpk.go.id/Details/39962/uu-no-39-tahun-2007",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "39",
+ "number_raw": "39",
+ "year": 2007,
+ "title": "Undang-undang (UU) Nomor 39 Tahun 2007 tentang Perubahan atas Undang-Undang Nomor 11 Tahun 1995 tentang Cukai",
+ "about": "Perubahan atas Undang-Undang Nomor 11 Tahun 1995 tentang Cukai",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH",
+ "field": "",
+ "date_enacted": "2007-08-15",
+ "date_promulgated": "2007-08-15",
+ "date_effective": "2007-08-15",
+ "gazette": "LN.2007/NO.105, TLN NO.4755, LL SETNEG : 29 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2021-7",
+   "target_bpk_id": 185162,
+   "label": "UU No. 7 Tahun 2021",
+   "about": "Harmonisasi Peraturan Perpajakan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1995-11",
+   "target_bpk_id": 46203,
+   "label": "UU No. 11 Tahun 1995",
+   "about": "Cukai"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 15 Agustus 2007.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/29560/UU%20Nomor%2039%20Tahun%202007.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:31:18Z"
+}

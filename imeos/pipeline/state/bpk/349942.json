@@ -1,0 +1,47 @@
+{
+ "id": "UU-2026-3",
+ "source": "bpk",
+ "bpk_id": 349942,
+ "url": "https://peraturan.bpk.go.id/Details/349942/uu-no-3-tahun-2026",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "3",
+ "number_raw": "3",
+ "year": 2026,
+ "title": "Undang-undang (UU) Nomor 3 Tahun 2026 tentang Pelindungan Saksi dan Korban",
+ "about": "Pelindungan Saksi dan Korban",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HAK ASASI MANUSIA - HUKUM PIDANA, PERDATA, DAN DAGANG",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2026-05-20",
+ "date_promulgated": "2026-05-20",
+ "date_effective": "2026-05-20",
+ "gazette": "LN 2026 (59), TLN (7179) : 42 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "UU-2014-31",
+   "target_bpk_id": 38701,
+   "label": "UU No. 31 Tahun 2014",
+   "about": "Perubahan atas Undang-Undang Nomor 13 Tahun 2006 Tentang Perlindungan Saksi dan Korban"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-2006-13",
+   "target_bpk_id": 40178,
+   "label": "UU No. 13 Tahun 2006",
+   "about": "Perlindungan Saksi dan Korban"
+  }
+ ],
+ "abstract": "Undang-Undang Nomor 13 Tahun 2006 tentang Perlindungan Saksi dan Korban sebagaimana telah diubah dengan Undang-Undang Nomor 31 Tahun 2014 tentang Perubahan atas Undang-Undang Nomor 13 Tahun 2006 tentang Perlindungan Saksi dan Korban tidak sesuai lagi dengan perkembangan hukum dan kebutuhan mengenai pelindungan terhadap saksi, korban, saksi pelaku, pelapor, informan, dan/atau ahli, sehingga perlu diganti.\nDasar hukum UU ini adalah Pasal 20, Pasal 21, Pasal 28G, Pasal 28I, dan Pasal 28J UUD 1945.\nUU ini mengatur mengenai pelindungan saksi dan korban. Materi muatan dalam Undang-Undang ini terdiri atas: a. Pelindungan dan Hak Saksi, Korban, Saksi Pelaku, Pelapor, Informan, dan/atau Ahli; b. Dana Abadi Korban, Restitusi, dan Kompensasi; c. Lembaga Pelindungan Saksi dan Korban; d. syarat dan tata cara pemberian Pelindungan; e. kerja sama; f. peran Pemerintah Pusat dan Pemerintah Daerah; g. partisipasi masyarakat; h. pendanaan; dan i. ketentuan pidana.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 20 Mei 2026.\nPada saat Undang-Undang ini mulai berlaku, Undang-Undang Nomor 13 Tahun 2006 tentang Perlindungan Saksi dan Korban (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 64, Tambahan Lembaran Negara Republik Indonesia Nomor 4635) sebagaimana telah diubah dengan Undang-Undang Nomor 31 Tahun 2014 tentang Perubahan atas Undang-Undang Nomor 13 Tahun 2006 tentang Perlindungan Saksi dan Korban (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 293, Tambahan Lembaran Negara Republik Indonesia Nomor 5602), dicabut dan dinyatakan tidak berlaku.\nPendanaan pelaksanaan Undang-Undang ini bersumber dari: a. Anggaran Pendapatan dan Belanja Negara; b. Anggaran Pendapatan dan Belanja Daerah sesuai dengan kewenangan dan kemampuan keuangan Pemerintah Daerah; dan c. sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan peraturan perundang-undangan.\nLampiran file: 62 hlm (batang tubuh hlm 1 sd 42; penjelasan hlm 43 sd 62)",
+ "citations": [
+  "UU-2006-13",
+  "UU-2014-31"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/413642/UU%20Nomor%203%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:23:15Z"
+}

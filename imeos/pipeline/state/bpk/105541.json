@@ -1,0 +1,58 @@
+{
+ "id": "UUDRT-1956-8",
+ "source": "bpk",
+ "bpk_id": 105541,
+ "url": "https://peraturan.bpk.go.id/Details/105541/uudrt-no-8-tahun-1956",
+ "form": "UUDRT",
+ "form_long": "Undang-undang Darurat",
+ "number": "8",
+ "number_raw": "8",
+ "year": 1956,
+ "title": "Undang-undang Darurat Nomor 8 Tahun 1956 tentang Pembentukan Daerah Otonom Kota-Kota Besar, Dalam Lingkungan Daerah Propinsi Sumatera Utara",
+ "about": "Pembentukan Daerah Otonom Kota-Kota Besar, Dalam Lingkungan Daerah Propinsi Sumatera Utara",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH",
+ "field": "",
+ "date_enacted": "1956-11-14",
+ "date_promulgated": "1956-11-24",
+ "date_effective": "1956-11-24",
+ "gazette": "LN.1956/NO.56, LL SETKAB : 13 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2024-5",
+   "target_bpk_id": 290464,
+   "label": "UU No. 5 Tahun 2024",
+   "about": "Kota Banda Aceh di Aceh"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-27",
+   "target_bpk_id": 290614,
+   "label": "UU No. 27 Tahun 2024",
+   "about": "Kota Sibolga di Provinsi Sumatera Utara"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-25",
+   "target_bpk_id": 290720,
+   "label": "UU No. 25 Tahun 2024",
+   "about": "Kota Pematangsiantar di Provinsi Sumatera Utara"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-16",
+   "target_bpk_id": 290666,
+   "label": "UU No. 16 Tahun 2024",
+   "about": "Kota Medan di Provinsi Sumatera Utara"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang Darurat ini mulai berlaku pada tanggal 24 November 1956.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/96447/UU%20Darurat%20Nomor%208%20Tahun%201956.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:27:18Z"
+}

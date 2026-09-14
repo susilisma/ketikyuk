@@ -1,0 +1,79 @@
+{
+ "id": "UU-1954-13",
+ "source": "bpk",
+ "bpk_id": 47958,
+ "url": "https://peraturan.bpk.go.id/Details/47958/uu-no-13-tahun-1954",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "13",
+ "number_raw": "13",
+ "year": 1954,
+ "title": "Undang-undang (UU) Nomor 13 Tahun 1954 tentang Pengubahan Undang-Undang Nr 16 dan 17 Tahun 1950 (Republik Indonesia Dahulu) Tentang Pembentukan Kota-Kota Besar dan Kota-Kota Kecil di Jawa",
+ "about": "Pengubahan Undang-Undang Nr 16 dan 17 Tahun 1950 (Republik Indonesia Dahulu) Tentang Pembentukan Kota-Kota Besar dan Kota-Kota Kecil di Jawa",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH",
+ "field": "",
+ "date_enacted": "1954-03-12",
+ "date_promulgated": "1954-03-18",
+ "date_effective": "1954-03-18",
+ "gazette": "LL SETNEG : 3 HLM.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-98",
+   "target_bpk_id": 307378,
+   "label": "UU No. 98 Tahun 2024",
+   "about": "Kota Sukabumi di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-121",
+   "target_bpk_id": 307440,
+   "label": "UU No. 121 Tahun 2024",
+   "about": "Kota Yogyakarta di Daerah Istimewa Yogyakarta"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-108",
+   "target_bpk_id": 307400,
+   "label": "UU No. 108 Tahun 2024",
+   "about": "Kota Cirebon di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-104",
+   "target_bpk_id": 307392,
+   "label": "UU No. 104 Tahun 2024",
+   "about": "Kota Bandung di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "UU-2024-100",
+   "target_bpk_id": 307382,
+   "label": "UU No. 100 Tahun 2024",
+   "about": "Kota Bogor di Provinsi Jawa Barat"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1950-17",
+   "target_bpk_id": 47964,
+   "label": "UU No. 17 Tahun 1950",
+   "about": "Pembentukan Daerah-Daerah Kota Kecil dalam Lingkungan Propinsi Jawa Timur, Jawa Tengah dan Jawa Barat"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1950-16",
+   "target_bpk_id": 47963,
+   "label": "UU No. 16 Tahun 1950",
+   "about": "Pembentukan Daerah-Daerah Kota Besar Dalam Lingkungan Propinsi Jawa Timur, Jawa Tengah, Jawa Barat Dan Daerah Istimewa Yogyakarta"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 18 Maret 1954.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/37011/UU%20Nomor%2013%20Tahun%201954.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:25:03Z"
+}

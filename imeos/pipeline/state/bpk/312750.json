@@ -1,0 +1,42 @@
+{
+ "id": "PERMENAKER-2024-20",
+ "source": "bpk",
+ "bpk_id": 312750,
+ "url": "https://peraturan.bpk.go.id/Details/312750/permenaker-no-20-tahun-2024",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "20",
+ "number_raw": "20",
+ "year": 2024,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 20 Tahun 2024 tentang Organisasi dan Tata Kerja Kementerian Ketenagakerjaan",
+ "about": "Organisasi dan Tata Kerja Kementerian Ketenagakerjaan",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-12-30",
+ "date_promulgated": "2024-12-30",
+ "date_effective": "2024-12-30",
+ "gazette": "BN 2024 (1038); 67 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENAKER-2021-1",
+   "target_bpk_id": 163416,
+   "label": "Permenaker No. 1 Tahun 2021",
+   "about": "Organisasi dan Tata Kerja Kementerian Ketenagakerjaan"
+  }
+ ],
+ "abstract": "bahwa penataan organisasi dan tata kerja Kementerian\nKetenagakerjaan telah mendapat persetujuan Menteri\nPendayagunaan Aparatur Negara dan Reformasi\nBirokrasi\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD 1945; UU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024; Perpres Nomor 140 Tahun 2024; Perpres Nomor 164 Tahun 2024\nPeraturan ini mengatur mengenai kedudukan, tugas, dan fungsi Kementerian Ketenagakerjaan; susunan organisasi; direktorat jenderal pembinaan Pelatihan Vokasi dan Produktivitas; Direktorat Jenderal Pembinaan Penempatan Tenaga\nKerja dan Perluasan Kesempatan Kerja; Direktorat Jenderal Pembinaan Hubungan Industrial dan Jaminan Sosial Tenaga Kerja; Direktorat Jenderal Pembinaan Pengawasan Ketenagakerjaan dan Keselamatan dan Kesehatan Kerja; Inspektorat Jenderal; Badan Perencanaan dan Pengembangan Ketenagakerjaan; Staf Ahli; Pusat Pengembangan Sumber Daya Manusia\nKetenagakerjaan; Organisasi dan Tata Kerja Unit Pelaksana Teknis; tata kerja",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 30 Desember 2024.",
+ "citations": [
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2024-140",
+  "PERPRES-2024-164"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/373545/permenaker-no-20-tahun-2024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:41:17Z"
+}

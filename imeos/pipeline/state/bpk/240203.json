@@ -1,0 +1,229 @@
+{
+ "id": "UU-2023-4",
+ "source": "bpk",
+ "bpk_id": 240203,
+ "url": "https://peraturan.bpk.go.id/Details/240203/uu-no-4-tahun-2023",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "4",
+ "number_raw": "4",
+ "year": 2023,
+ "title": "Undang-undang (UU) Nomor 4 Tahun 2023 tentang Pengembangan dan Penguatan Sektor Keuangan",
+ "about": "Pengembangan dan Penguatan Sektor Keuangan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "ASURANSI - PENANAMAN MODAL DAN INVESTASI - PERBANKAN, LEMBAGA KEUANGAN - PEREKONOMIAN - KOPERASI, UMKM",
+ "field": "",
+ "date_enacted": "2023-01-12",
+ "date_promulgated": "2023-01-12",
+ "date_effective": "2023-01-12",
+ "gazette": "LN.2023/No.4, TLN No.6845, jdih.setneg.go.id: 527 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2026-4",
+   "target_bpk_id": 350166,
+   "label": "UU No. 4 Tahun 2026",
+   "about": "Perubahan atas Undang-Undang Nomor 4 Tahun 2023 tentang Pengembangan dan Penguatan Sektor Keuangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1992-11",
+   "target_bpk_id": 46603,
+   "label": "UU No. 11 Tahun 1992",
+   "about": "Dana Pensiun"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-2004-37",
+   "target_bpk_id": 40784,
+   "label": "UU No. 37 Tahun 2004",
+   "about": "Kepailitan Dan Penundaan Kewajiban Pembayaran Utang"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 234926,
+   "label": "PERPU No. 2 Tahun 2022",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2016-9",
+   "target_bpk_id": 37298,
+   "label": "UU No. 9 Tahun 2016",
+   "about": "Pencegahan dan Penanganan Krisis Sistem Keuangan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2016-9",
+   "target_bpk_id": 37298,
+   "label": "UU No. 9 Tahun 2016",
+   "about": "Pencegahan dan Penanganan Krisis Sistem Keuangan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2016-1",
+   "target_bpk_id": 37162,
+   "label": "UU No. 1 Tahun 2016",
+   "about": "Penjaminan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2014-40",
+   "target_bpk_id": 38785,
+   "label": "UU No. 40 Tahun 2014",
+   "about": "Perasuransian"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2013-1",
+   "target_bpk_id": 38813,
+   "label": "UU No. 1 Tahun 2013",
+   "about": "Lembaga Keuangan Mikro"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2011-7",
+   "target_bpk_id": 39182,
+   "label": "UU No. 7 Tahun 2011",
+   "about": "Mata Uang"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2011-21",
+   "target_bpk_id": 39257,
+   "label": "UU No. 21 Tahun 2011",
+   "about": "Otoritas Jasa Keuangan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2011-10",
+   "target_bpk_id": 39186,
+   "label": "UU No. 10 Tahun 2011",
+   "about": "Perubahan atas Undang-Undang Nomor 32 Tahun 1997 Tentang Perdagangan Berjangka Komoditi"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2009-7",
+   "target_bpk_id": 38589,
+   "label": "UU No. 7 Tahun 2009",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 3 Tahun 2008 Tentang Perubahan Atas Undang-Undang Nomor 24 Tahun 2004 Tentang Lembaga Penjamin Simpanan Menjadi Undang-Undang"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2009-6",
+   "target_bpk_id": 38588,
+   "label": "UU No. 6 Tahun 2009",
+   "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2008 Tentang Perubahan Kedua Atas Undang Undang Nomor 23 Tahun 1999 tentang Bank Indonesia menjadi Undang-Undang"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2009-2",
+   "target_bpk_id": 38570,
+   "label": "UU No. 2 Tahun 2009",
+   "about": "Lembaga Pembiayaan Ekspor Indonesia"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2008-21",
+   "target_bpk_id": 39655,
+   "label": "UU No. 21 Tahun 2008",
+   "about": "Perbankan Syariah"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2004-40",
+   "target_bpk_id": 40787,
+   "label": "UU No. 40 Tahun 2004",
+   "about": "Sistem Jaminan Sosial Nasional"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2004-3",
+   "target_bpk_id": 40458,
+   "label": "UU No. 3 Tahun 2004",
+   "about": "Perubahan atas Undang-Undang Republik Indonesia Nomor 23 Tahun 1999 tentang Bank Indonesia"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2004-24",
+   "target_bpk_id": 40598,
+   "label": "UU No. 24 Tahun 2004",
+   "about": "Lembaga Penjamin Simpanan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2002-24",
+   "target_bpk_id": 44476,
+   "label": "UU No. 24 Tahun 2002",
+   "about": "Surat Utang Negara"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1999-23",
+   "target_bpk_id": 45332,
+   "label": "UU No. 23 Tahun 1999",
+   "about": "Bank Indonesia"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1998-10",
+   "target_bpk_id": 45486,
+   "label": "UU No. 10 Tahun 1998",
+   "about": "Perubahan atas Undang-Undang Nomor 7 Tahun 1992 tentang Perbankan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1997-32",
+   "target_bpk_id": 46052,
+   "label": "UU No. 32 Tahun 1997",
+   "about": "Perdagangan Berjangka Komoditi"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1995-8",
+   "target_bpk_id": 46197,
+   "label": "UU No. 8 Tahun 1995",
+   "about": "Pasar Modal"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1992-7",
+   "target_bpk_id": 46599,
+   "label": "UU No. 7 Tahun 1992",
+   "about": "Perbankan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-1992-25",
+   "target_bpk_id": 46650,
+   "label": "UU No. 25 Tahun 1992",
+   "about": "Perkoperasian"
+  }
+ ],
+ "abstract": "Upaya pengaturan baru dan penyesuaian berbagai peraturan di sektor keuangan, dapat dilakukan perubahan Undang-Undang di sektor keuangan dengan menggunakan metode omnibus guna menyelaraskan berbagai pengaturan yang terdapat dalam berbagai Undang-Undang ke dalam 1 (satu) Undang-Undang secara komprehensif. Untuk mendukung dan mewujudkan upaya pengembangan dan penguatan sektor keuangan di Indonesia yang sejalan dengan perkembangan industri jasa keuangan yang makin kompleks dan beragam; perekonomian nasional dan internasional yang bergerak cepat, kompetitif, dan terintegrasi; sistem keuangan yang makin maju; serta untuk memperkuat kerangka pengaturan dan pengawasan terhadap lembaga jasa keuangan, diperlukan pengaturan baru dan penyesuaian berbagai peraturan di sektor keuangan.\nDasar hukum UU ini adalah Pasal 20, Pasal 21, Pasal 23D, Pasal 33, dan Pasal 34 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 7 Tahun 1992; UU Nomor 25 Tahun 1992; UU Nomor 8 Tahun 1995; UU Nomor 32 Tahun 1997; UU Nomor 23 Tahun 1999; UU Nomor 24 Tahun 2002; UU Nomor 24 Tahun 2004; UU Nomor 40 Tahun 2004; UU Nomor 21 Tahun 2008; UU Nomor 2 Tahun 2009; UU Nomor 7 Tahun 2011; UU Nomor 21 Tahun 2011; UU Nomor 1 Tahun 2013; UU Nomor 40 Tahun 2014; UU Nomor 1 Tahun 2016; dan UU Nomor 9 Tahun 2016.\nUU ini mengatur mengenai ekosistem sektor keuangan yang meliputi: 1) kelembagaan; 2) perbankan; 3) Pasar Modal, Pasar Uang, dan Pasar Valuta Asing; 4) perasuransian dan penjaminan; 5) asuransi Usaha Bersama; 6) program penjaminan polis; 7) Usaha Jasa Pembiayaan; 8) kegiatan usaha bulion (bullion); 9) Dana Pensiun, program jaminan hari tua, dan program pensiun; 10) kegiatan koperasi di sektor jasa keuangan; 11) lembaga keuangan mikro; 12) Konglomerasi Keuangan; 13) Inovasi Teknologi Sektor Keuangan (ITSK); 14) penerapan Keuangan Berkelanjutan; 15) Literasi Keuangan, Inklusi Keuangan, dan Pelindungan Konsumen; 16) akses pembiayaan Usaha Mikro, Kecil, dan Menengah; 17) sumber daya manusia; 18) Stabilitas Sistem Keuangan; 19) lembaga pembiayaan ekspor Indonesia; dan 20) penegakan hukum di sektor keuangan. Undang-Undang ini mereformasi sektor keuangan dengan mengatur kelembagaan dan Stabilitas Sistem Keuangan dan pengembangan dan penguatan industri. Oleh sebab itu, Undang-Undang ini mengatur penguatan hubungan pengawasan dan pengaturan antar lembaga di bidang sektor keuangan guna mewujudkan Stabilitas Sistem Keuangan dalam hal ini antara Otoritas Jasa Keuangan, Bank Indonesia, Lembaga Penjamin Simpanan, dan Kementerian Keuangan. Salah satunya melalui wadah Komite Stabilitas Sistem Keuangan dalam mekanisme pengawasan makroprudensial dan mikroprudensial dalam jaring pengaman sistem keuangan. Selanjutnya, penguatan lembaga yang berwenang sebagai pengatur dan pengawas sektor keuangan dilakukan untuk menjaga kestabilan industri sektor keuangan dan peningkatan kepercayaan masyarakat.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 12 Januari 2023.\nUU ini mencabut UU Nomor 11 Tahun 1992 dan mengubah beberapa UU sebagaimana tercantum dalam UU ini.\nPeraturan pelaksanaan dari Undang-Undang ini ditetapkan paling lama 2 (dua) tahun terhitung sejak Undang-Undang ini diundangkan.\nLampiran file 819 hlm (batang tubuh hlm 1 sd 527, penjelasan hlm 528 sd 819)",
+ "citations": [
+  "UU-1992-7",
+  "UU-1992-25",
+  "UU-1995-8",
+  "UU-1997-32",
+  "UU-1999-23",
+  "UU-2002-24",
+  "UU-2004-24",
+  "UU-2004-40",
+  "UU-2008-21",
+  "UU-2009-2",
+  "UU-2011-7",
+  "UU-2011-21",
+  "UU-2013-1",
+  "UU-2014-40",
+  "UU-2016-1",
+  "UU-2016-9"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/295189/UU%20Nomor%204%20Tahun%202023.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:23:14Z"
+}

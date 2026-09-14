@@ -1,0 +1,39 @@
+{
+ "id": "UU-2024-64",
+ "source": "bpk",
+ "bpk_id": 304920,
+ "url": "https://peraturan.bpk.go.id/Details/304920/uu-no-64-tahun-2024",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "64",
+ "number_raw": "64",
+ "year": 2024,
+ "title": "Undang-undang (UU) Nomor 64 Tahun 2024 tentang Perubahan atas Undang-Undang Nomor 19 Tahun 2006 tentang Dewan Pertimbangan Presiden",
+ "about": "Perubahan atas Undang-Undang Nomor 19 Tahun 2006 tentang Dewan Pertimbangan Presiden",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "HUKUM TATA NEGARA",
+ "date_enacted": "2024-10-17",
+ "date_promulgated": "2024-10-17",
+ "date_effective": "2024-10-17",
+ "gazette": "LN 2024 (228), TLN (6997) : 6 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "UU-2006-19",
+   "target_bpk_id": 40192,
+   "label": "UU No. 19 Tahun 2006",
+   "about": "Dewan Pertimbangan Presiden"
+  }
+ ],
+ "abstract": "Undang-Undang Nomor 19 Tahun 2006 tentang Dewan Pertimbangan Presiden masih memerlukan penyempurnaan untuk menampung kebutuhan hukum yang ada sehingga perlu diubah.\nDasar hukum UU ini adalah Pasal 4 ayat (1), Pasal 16, Pasal 20, dan Pasal 21 UUD 1945 dan UU Nomor 19 Tahun 2006.\nUU ini mengubah beberapa ketentuan dalam UU Nomor 19 Tahun 2006. Dengan Undang-Undang ini ditetapkan Dewan Pertimbangan Presiden berubah nama menjadi Dewan Pertimbangan Presiden Republik Indonesia. Dewan Pertimbangan Presiden Republik Indonesia bertanggung jawab kepada Presiden. Dewan Pertimbangan Presiden Republik Indonesia adalah lembaga negara sebagaimana dimaksud dalam Undang-Undang ini.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 17 Oktober 2024.\nUU ini mengubah UU Nomor 19 Tahun 2006.\nLampiran file: 9 hlm (batang tubuh hlm 1 sd 6, penjelasan hlm 7 sd 9)",
+ "citations": [
+  "UU-2006-19"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/365035/UU%20Nomor%2064%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:26:20Z"
+}

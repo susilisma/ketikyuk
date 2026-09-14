@@ -1,0 +1,45 @@
+{
+ "id": "POJK-2020-63",
+ "source": "bpk",
+ "bpk_id": 227105,
+ "url": "https://peraturan.bpk.go.id/Details/227105/peraturan-ojk-no-63pojk032020-tahun-2020",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "63",
+ "number_raw": "63/POJK.03/2020",
+ "year": 2020,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 63/POJK.03/2020 Tahun 2020 tentang Pelaporan Bank Umum Melalui Sistem Pelaporan Otoritas Jasa Keuangan",
+ "about": "Pelaporan Bank Umum Melalui Sistem Pelaporan Otoritas Jasa Keuangan",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "",
+ "date_enacted": "2020-12-22",
+ "date_promulgated": "2020-12-22",
+ "date_effective": "2020-12-22",
+ "gazette": "LN.2020/NO.297, TLN NO.6604, peraturan.go.id : 20 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 343919,
+   "label": "Peraturan OJK No. 22 Tahun 2025",
+   "about": "Pelaporan Bank Umum Melalui Sistem Pelaporan Otoritas Jasa Keuangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 128543,
+   "label": "Peraturan OJK No. 12 /POJK.03/2019 Tahun 2019",
+   "about": "Pelaporan Bank Umum Melalui Sistem Pelaporan Otoritas Jasa Keuangan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 22 Desember 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/221836/Peraturan%20OJK%20No.%2063%20Tahun%202020.pdf",
+  "https://peraturan.bpk.go.id/Download/221837/Peraturan%20OJK%20No.%2063%20Tahun%202020_Penjelasan.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:43:31Z"
+}

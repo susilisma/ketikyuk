@@ -1,0 +1,48 @@
+{
+ "id": "PERPRES-2020-57",
+ "source": "bpk",
+ "bpk_id": 136092,
+ "url": "https://peraturan.bpk.go.id/Details/136092/perpres-no-57-tahun-2020",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "57",
+ "number_raw": "57",
+ "year": 2020,
+ "title": "Peraturan Presiden (Perpres) Nomor 57 Tahun 2020 tentang Kementerian Keuangan",
+ "about": "Kementerian Keuangan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "",
+ "date_enacted": "2020-04-08",
+ "date_promulgated": "2020-04-14",
+ "date_effective": "2020-04-14",
+ "gazette": "LN.2020/NO.98, JDIH.SETNEG.GO.ID : 34 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-158",
+   "target_bpk_id": 306691,
+   "label": "Perpres No. 158 Tahun 2024",
+   "about": "Kementerian Keuangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2015-28",
+   "target_bpk_id": 41757,
+   "label": "PERPRES No. 28 Tahun 2015",
+   "about": "Kementerian Keuangan"
+  }
+ ],
+ "abstract": "Melaksanakan ketentuan Pasal 90 Ayat (1) Peraturan Presiden Nomor 68 Tahun 2019 tentang Organisasi Kementerian Negara, perlu menetapkan Peraturan Presiden tentang Kementerian Keuangan.\nDasar hukum perpres ini adalah Pasal 4 ayat (1) dan Pasal 17 Undang-Undang Dasar Negara Republik Indonesia Tahun 7945; Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara; Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah; dan Peraturan Presiden Nomor 68 Tahun 2O01 tentang Organisasi Kementerian Negara.\nPerpres ini mengatur mengenai Kementerian Keuangan berada di bawah dan bertanggung jawab kepada Presiden. Dalam melaksanakan tugas, Menteri dapat dibantu oleh Wakil Menteri sesuai dengan penunjukan Presiden. Menteri dan Wakil Menteri merupakan satu kesatuan unsur pemimpin kementerian. Kementerian Keuangan mempunyai tugas menyelenggarakan urusan pemerintahan di bidang keuangan negara untuk membantu Presiden dalam menyelenggarakan pemerintahan negara.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 14 April 2020.\nPerpres ini mencabut UU Nomor 28 Tahun 2015 tentang Kementerian Keuangan\nketentuan pelaksanaan dari Peraturan Presiden Nomor 28 Tahun 2015 tentang Kementerian Keuangan",
+ "citations": [
+  "PERPRES-2019-68",
+  "UU-2008-39",
+  "UU-2014-23"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/126956/Perpres%20Nomor%2057%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:28:13Z"
+}

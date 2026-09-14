@@ -1,0 +1,79 @@
+{
+ "id": "PP-2001-27",
+ "source": "bpk",
+ "bpk_id": 52783,
+ "url": "https://peraturan.bpk.go.id/Details/52783/pp-no-27-tahun-2001",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "27",
+ "number_raw": "27",
+ "year": 2001,
+ "title": "Peraturan Pemerintah (PP) Nomor 27 Tahun 2001 tentang Perubahan Atas Peraturan Pemerintah Nomor 8 Tahun 2000 Tentang Peraturan Gaji Hakim Peradilan Umum, Peradilan Tata Usaha Negara, Dan Peradilan Agama",
+ "about": "Perubahan Atas Peraturan Pemerintah Nomor 8 Tahun 2000 Tentang Peraturan Gaji Hakim Peradilan Umum, Peradilan Tata Usaha Negara, Dan Peradilan Agama",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA - HUKUM ACARA DAN PERADILAN",
+ "field": "",
+ "date_enacted": "2001-05-18",
+ "date_promulgated": "2001-05-18",
+ "date_effective": "2001-05-18",
+ "gazette": "LN. 2001 No. 50, LL SETNEG : 3 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2024-44",
+   "target_bpk_id": 305090,
+   "label": "PP No. 44 Tahun 2024",
+   "about": "Perubahan Ketiga atas Peraturan Pemerintah Nomor 94 Tahun 2012 tentang Hak Keuangan dan Fasilitas Hakim yang Berada di Bawah Mahkamah Agung"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2012-94",
+   "target_bpk_id": 5309,
+   "label": "PP No. 94 Tahun 2012",
+   "about": "Hak Keuangan Dan Fasilitas Hakim Yang Berada  Di Bawah Mahkamah Agung"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2008-11",
+   "target_bpk_id": 4823,
+   "label": "PP No. 11 Tahun 2008",
+   "about": "Perubahan Kelima Atas Peraturan Pemerintah Nomor  8 Tahun 2000 Tentang Peraturan Gaji Hakim Peradilan Umum Peradilan Tata Usaha Negara Dan Peradilan Agama"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2007-10",
+   "target_bpk_id": 4731,
+   "label": "PP No. 10 Tahun 2007",
+   "about": "Perubahan Keempat Atas Peraturan Pemerintah Nomor  8 Tahun 2000 Tentang Peraturan Gaji Hakim Peradilan Umum Peradilan Tata Usaha Negara Dan Peradilan Agama"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2005-70",
+   "target_bpk_id": 49849,
+   "label": "PP No. 70 Tahun 2005",
+   "about": "Perubahan Ketiga Atas Peraturan Pemerintah Nomor 8 Tahun 2000 Tentang Peraturan Gaji Hakim Peradilan Umum, Peradilan Tata Usaha Negara, Dan Peradilan Agama"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2003-12",
+   "target_bpk_id": 52124,
+   "label": "PP No. 12 Tahun 2003",
+   "about": "Perubahan Atas Peraturan Pemerintah Nomor 8 Tahun 2000 Tentang Peraturan Gaji Hakim Peradilan Umum, Peradilan Tata Usaha Negara, Dan Peradilan Agama Sebagaimana Telah Diubah Dengan Peraturan Pemerintah Nomor 27 Tahun 2001"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PP-2000-8",
+   "target_bpk_id": 53154,
+   "label": "PP No. 8 Tahun 2000",
+   "about": "Peraturan Gaji Hakim Peradilan Umum, Peradilan Tata Usaha Negara Dan Peradilan Agama"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 18 Mei 2001.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/42156/PP%20NO%2027%20TH%202001.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:29:46Z"
+}

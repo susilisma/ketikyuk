@@ -1,0 +1,135 @@
+{
+ "id": "PERPRES-2015-145",
+ "source": "bpk",
+ "bpk_id": 41905,
+ "url": "https://peraturan.bpk.go.id/Details/41905/perpres-no-145-tahun-2015",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "145",
+ "number_raw": "145",
+ "year": 2015,
+ "title": "Peraturan Presiden (Perpres) Nomor 145 Tahun 2015 tentang Perubahan Kedelapan atas Keputusan Presiden Nomor 103 Tahun 2001 tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, dan Tata Kerja Lembaga Pemerintah Non Kementerian",
+ "about": "Perubahan Kedelapan atas Keputusan Presiden Nomor 103 Tahun 2001 tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, dan Tata Kerja Lembaga Pemerintah Non Kementerian",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA - STRUKTUR ORGANISASI",
+ "field": "",
+ "date_enacted": "2015-12-18",
+ "date_promulgated": "2015-12-28",
+ "date_effective": "2015-12-28",
+ "gazette": "LN.2015/NO.322, LL SETKAB : 4 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PERPRES-2024-181",
+   "target_bpk_id": 306842,
+   "label": "Perpres No. 181 Tahun 2024",
+   "about": "Badan Kependudukan dan Keluarga Berencana Nasional"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PERPRES-2024-180",
+   "target_bpk_id": 306857,
+   "label": "Perpres No. 180 Tahun 2024",
+   "about": "Kementerian Kependudukan dan Pembangunan Keluarga"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PERPRES-2023-23",
+   "target_bpk_id": 247422,
+   "label": "PERPRES No. 23 Tahun 2023",
+   "about": "Arsip Nasional Republik Indonesia"
+  },
+  {
+   "type": "Diubah sebagian dengan",
+   "target": "PERPRES-2023-23",
+   "target_bpk_id": 247422,
+   "label": "PERPRES No. 23 Tahun 2023",
+   "about": "Arsip Nasional Republik Indonesia"
+  },
+  {
+   "type": "Diubah sebagian dengan",
+   "target": "PERPRES-2017-53",
+   "target_bpk_id": 72920,
+   "label": "PERPRES No. 53 Tahun 2017",
+   "about": "Badan Siber dan Sandi Negara"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2013-3",
+   "target_bpk_id": 41373,
+   "label": "PERPRES No. 3 Tahun 2013",
+   "about": "Perubahan Ketujuh atas Keputusan Presiden Nomor 103 Tahun 2001 tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, dan Tata Kerja Lembaga Pemerintah Non Kementerian"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2005-64",
+   "target_bpk_id": 42591,
+   "label": "PERPRES No. 64 Tahun 2005",
+   "about": "Perubahan Keenam atas Keputusan Presiden Nomor 103 Tahun 2001 Tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, dan Tata Kerja Lembaga Pemerintah Non Departemen"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2005-11",
+   "target_bpk_id": 42547,
+   "label": "PERPRES No. 11 Tahun 2005",
+   "about": "Perubahan Kelima Atas Keputusan Presiden Nomor 103 Tahun 2001 Tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, dan Tata Kerja Lembaga Pemerintah Non Departemen sebagaimana Telah Beberapa Kali diubah Terakhir dengan Keputusan Presiden Nomor 9 Tahun 2004"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 55563,
+   "label": "KEPPRES No. 9 Tahun 2004",
+   "about": "Perubahan Atas Keputusan Presiden Nomor 103 Tahun 2001 Tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, Dan Tata Kerja Lembaga Pemerintah Non Departemen Sebagaimana Telah Beberapa Kali Diubah Terakhir Dengan Keputusan Presiden Nomor 30 Tahun 2003"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 56118,
+   "label": "KEPPRES No. 30 Tahun 2003",
+   "about": "Perubahan Atas Keputusan Presiden Nomor 103 Tahun 2001 Tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, Dan Tata Kerja Lembaga Pemerintah Non Departemen Sebagaimana Telah Beberapa Kali Diubah Terakhir Dengan Keputusan Presiden Nomor 46 Tahun 2002"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 56694,
+   "label": "KEPPRES No. 46 Tahun 2002",
+   "about": "Perubahan Atas Keputusan Presiden Nomor 103 Tahun 2001 Tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, Dan Tata Kerja Lembaga Pemerintah Non Departemen Sebagaimana Telah Diubah Dengan Keputusan Presiden Nomor 3 Tahun 2002"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 57340,
+   "label": "KEPPRES No. 103 Tahun 2001",
+   "about": "Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, dan Tata Kerja Lembaga Pemerintah Non Departemen"
+  },
+  {
+   "type": "Mengubah sebagian",
+   "target": "PERPRES-2013-58",
+   "target_bpk_id": 41428,
+   "label": "PERPRES No. 58 Tahun 2013",
+   "about": "Badan Kepegawaian Negara"
+  },
+  {
+   "type": "Mengubah sebagian",
+   "target": "PERPRES-2013-57",
+   "target_bpk_id": 41427,
+   "label": "PERPRES No. 57 Tahun 2013",
+   "about": "Lembaga Administrasi Negara"
+  },
+  {
+   "type": "Mengubah sebagian",
+   "target": "PERPRES-2013-46",
+   "target_bpk_id": 41416,
+   "label": "PERPRES No. 46 Tahun 2013",
+   "about": "Badan Tenaga Nuklir Nasional"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 28 Desember 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/262319/Perpres%20Nomor%20145%20Tahun%202015.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:27:15Z"
+}

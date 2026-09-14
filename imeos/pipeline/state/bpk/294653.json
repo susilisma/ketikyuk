@@ -1,0 +1,43 @@
+{
+ "id": "PERMENDAG-2024-13",
+ "source": "bpk",
+ "bpk_id": 294653,
+ "url": "https://peraturan.bpk.go.id/Details/294653/permendag-no-13-tahun-2024",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "13",
+ "number_raw": "13",
+ "year": 2024,
+ "title": "Peraturan Menteri Perdagangan Nomor 13 Tahun 2024 tentang Kamus Kompetensi Teknis Bidang Perdagangan",
+ "about": "Kamus Kompetensi Teknis Bidang Perdagangan",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-06-21",
+ "date_promulgated": "2024-07-03",
+ "date_effective": "2024-07-03",
+ "gazette": "BN.2024 (356)/172 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2017-85",
+   "target_bpk_id": 128735,
+   "label": "Permendag No. 85 Tahun 2017",
+   "about": "Standar Kompetensi Teknis Daerah Bidang Perdagangan"
+  }
+ ],
+ "abstract": "a. bahwa untuk mengembangkan sumber daya manusia berbasis kompetensi, diperlukan standar kompetensi Aparatur Sipil Negara di Kementerian Perdagangan;\nb. bahwa dalam penyusunan standar kompetensi Aparatur Sipil Negara di lingkungan Kementerian Perdagangan diperlukan kamus kompetensi teknis bidang perdagangan;\nc. bahwa sesuai dengan ketentuan Pasal 7 ayat (1) Peraturan Menteri Pemberdayaan Aparatur Negara dan Reformasi Birokrasi Nomor 38 Tahun 2017 tentang Standar Kompetensi Jabatan Aparatur Sipil Negara, Menteri Perdagangan menetapkan kamus kompetensi teknis bidang perdagangan;\nd. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Menteri Perdagangan tentang Kamus Kompetensi Teknis Bidang Perdagangan;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 20 Tahun 2023, Peraturan Presiden Nomor 11 Tahun 2022 , Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 38 Tahun 2017 dan\nPeraturan Menteri Perdagangan Nomor 29 Tahun 2022\nPeraturan ini mengatur tentang ketentuan umum, Kamus Kompetensi Teknis bidang perdagangan, pengelompokan Kamus Kompetensi Teknis bidang perdagangan,",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 03 Juli 2024.\nPeraturan Menteri ini mulai berlaku, Peraturan Menteri Perdagangan Nomor 85 Tahun 2017 tentang\nStandar Kompetensi Teknis Daerah Bidang Perdagangan dicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "PERATURANMENTERI-2017-38",
+  "UU-2008-39",
+  "UU-2023-20",
+  "PERPRES-2022-11",
+  "PERMENDAG-2022-29"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/354023/13%20th%202024.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:38:01Z"
+}

@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>合同与模板 · Indonesia Market Entry OS</title>
+<link rel="stylesheet" href="/imeos/assets/os.css">
+<style>
+.two{display:grid;grid-template-columns:380px 1fr;gap:20px;align-items:start}
+@media (max-width:900px){.two{grid-template-columns:1fr}}
+.pane{display:none}.pane.on{display:block}
+.contract{background:#fff;border:1px solid var(--line);padding:32px 40px;font-size:13.5px;line-height:1.7}
+.contract h2{text-align:center;font-size:17px;border:0;margin:0 0 4px}
+.contract .sub{text-align:center;color:var(--mute);margin-bottom:18px}
+.contract .cl{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin:10px 0;break-inside:avoid}
+.contract .cl b{display:block;margin-bottom:2px}
+.contract .zh{font-family:var(--sans)}
+.contract .sig{display:grid;grid-template-columns:1fr 1fr;gap:30px;margin-top:40px;text-align:center}
+.contract .sig div{border-top:1px solid #333;padding-top:6px}
+.tpl{cursor:pointer}
+@media print{.two{grid-template-columns:1fr}.two form,.tabs,.hero{display:none}}
+</style>
+</head>
+<body>
+<main class="wrap">
+  <div class="hero"><div class="eyebrow">Contracts & Templates</div><h1>劳动合同生成器 · 中印双语合同库 · 尽调模板</h1><p class="lede">生成的文本为印尼语/中文对照的工作底稿，签署前请由印尼执业律师审阅；劳动合同以印尼语版本为准（UU 24/2009 语言法）。</p></div>
+  <div class="tabs" id="tabs"><button data-p="lc" class="on">劳动合同生成器</button><button data-p="tpl">双语商务合同模板</button><button data-p="dd">落地尽调模板</button></div>
+
+  <section class="pane on" id="p-lc"><div class="two">
+    <form class="card" onsubmit="return false">
+      <div class="fld"><label class="f">合同类型</label><select id="c-type"><option value="PKWTT">PKWTT 无固定期限（含试用期）</option><option value="PKWT">PKWT 定期合同</option></select></div>
+      <div class="fld"><label class="f">公司名称</label><input type="text" id="c-co" value="PT ___ Indonesia"></div>
+      <div class="fld"><label class="f">公司地址</label><input type="text" id="c-addr" value="Jakarta"></div>
+      <div class="fld"><label class="f">公司代表（董事）</label><input type="text" id="c-rep" value=""></div>
+      <div class="fld"><label class="f">员工姓名</label><input type="text" id="c-emp"></div>
+      <div class="fld"><label class="f">员工 NIK / 地址</label><input type="text" id="c-nik"></div>
+      <div class="fld"><label class="f">职位</label><input type="text" id="c-pos" value="Staff Marketing"></div>
+      <div class="fld"><label class="f">工作地点</label><input type="text" id="c-loc" value="Jakarta"></div>
+      <div class="grid" style="grid-template-columns:1fr 1fr;gap:10px"><div class="fld"><label class="f">开始日期</label><input type="date" id="c-start"></div><div class="fld" id="c-endw"><label class="f">结束日期（PKWT）</label><input type="date" id="c-end"></div>
+      <div class="fld"><label class="f">基本工资（IDR/月）</label><input type="number" id="c-wage" value="6000000" step="100000"></div><div class="fld"><label class="f">固定津贴（IDR/月）</label><input type="number" id="c-allow" value="500000" step="50000"></div>
+      <div class="fld" id="c-probw"><label class="f">试用期（月，≤3）</label><input type="number" id="c-prob" value="3" min="0" max="3"></div><div class="fld"><label class="f">每周工作制</label><select id="c-hours"><option value="5">5 天 × 8 小时</option><option value="6">6 天 × 7 小时</option></select></div></div>
+      <div class="fld"><label class="f">PKWT 工作性质（定期合同必填）</label><input type="text" id="c-reason" placeholder="例：为期 12 个月的市场推广项目"></div>
+      <div class="row"><button class="btn" id="c-go">生成合同</button><button class="btn ghost" type="button" onclick="window.print()">打印 / PDF</button></div>
+    </form>
+    <div id="c-out"></div></div></section>
+
+  <section class="pane" id="p-tpl"><div class="two"><div class="card"><h3>模板</h3><div id="tpl-list"></div><p class="help">点击加载；可直接编辑右侧文本后打印。方括号为待填项。</p></div><div id="tpl-out" class="contract" contenteditable="true"></div></div></section>
+
+  <section class="pane" id="p-dd"><div class="card"><div class="row"><h2 style="margin:0">印尼合作方 / 目标公司尽调清单</h2><span class="spacer"></span><button class="btn sm ghost" id="dd-export">导出 Markdown</button></div><div id="dd"></div></div></section>
+  <p class="disclaimer">模板内容依据 UU 13/2003（经 UU 6/2023 修订）、PP 35/2021、PP 36/2021 等整理，不替代法律意见。</p>
+</main>
+<script src="/imeos/assets/common.js"></script><script src="/imeos/assets/kb.js"></script>
+<script>
+$$("#tabs button").forEach((b) => b.onclick = () => { $$("#tabs button").forEach((x) => x.classList.toggle("on", x === b)); $$(".pane").forEach((p) => p.classList.toggle("on", p.id === "p-" + b.dataset.p)); });
+$("#c-start").value = dateISO(new Date());
+$("#c-type").onchange = () => { const pkwt = $("#c-type").value === "PKWT"; $("#c-endw").style.opacity = pkwt ? 1 : .4; $("#c-probw").style.opacity = pkwt ? .4 : 1; }; $("#c-type").onchange();
+const cl = (n, id, zh) => `<div class="cl"><div><b>Pasal ${n}</b>${id}</div><div class="zh"><b>第${n}条</b>${zh}</div></div>`;
+const fmtDate = (d) => d ? new Date(d).toLocaleDateString("id-ID", { day: "numeric", month: "long", year: "numeric" }) : "____";
+$("#c-go").onclick = () => {
+  const v = (id) => $(id).value.trim() || "____";
+  const T = $("#c-type").value, pkwt = T === "PKWT", wage = +$("#c-wage").value, allow = +$("#c-allow").value, prob = +$("#c-prob").value, h = $("#c-hours").value;
+  const total = wage + allow;
+  $("#c-out").innerHTML = `<div class="contract">
+    <h2>${pkwt ? "PERJANJIAN KERJA WAKTU TERTENTU (PKWT)" : "PERJANJIAN KERJA WAKTU TIDAK TERTENTU (PKWTT)"}</h2><div class="sub">${pkwt ? "定期劳动合同" : "无固定期限劳动合同"} · No. ___/HRD/${new Date().getFullYear()}</div>
+    <div class="cl"><div>Pada hari ini, tanggal ${fmtDate($("#c-start").value)}, yang bertanda tangan di bawah ini:<br><b>1. ${esc(v("#c-co"))}</b>, beralamat di ${esc(v("#c-addr"))}, diwakili oleh ${esc(v("#c-rep"))} selaku Direktur, selanjutnya disebut <b>PERUSAHAAN</b>;<br><b>2. ${esc(v("#c-emp"))}</b>, NIK/alamat ${esc(v("#c-nik"))}, selanjutnya disebut <b>PEKERJA</b>.<br>Kedua belah pihak sepakat mengadakan perjanjian kerja dengan ketentuan sebagai berikut:</div>
+    <div class="zh">本合同于 ${fmtDate($("#c-start").value)} 由以下双方签署：<br><b>1. ${esc(v("#c-co"))}</b>，地址 ${esc(v("#c-addr"))}，由董事 ${esc(v("#c-rep"))} 代表，以下称<b>公司</b>；<br><b>2. ${esc(v("#c-emp"))}</b>，身份证号/地址 ${esc(v("#c-nik"))}，以下称<b>员工</b>。<br>双方同意按以下条款订立劳动合同：</div></div>
+    ${cl(1, `Perusahaan mempekerjakan Pekerja dalam jabatan <b>${esc(v("#c-pos"))}</b> dengan tempat kerja di ${esc(v("#c-loc"))}. ${pkwt ? `Pekerjaan bersifat ${esc(v("#c-reason"))} sebagaimana dimaksud Pasal 56 UU Ketenagakerjaan jo. PP 35/2021.` : "Pekerja wajib melaksanakan tugas sesuai uraian jabatan dan Peraturan Perusahaan."}`, `公司聘用员工担任<b>${esc(v("#c-pos"))}</b>，工作地点 ${esc(v("#c-loc"))}。${pkwt ? `工作性质为 ${esc(v("#c-reason"))}（劳动法第 56 条及 PP 35/2021 所指的定期工作）。` : "员工应按岗位说明与公司规章履行职责。"}`)}
+    ${cl(2, pkwt ? `Perjanjian ini berlaku untuk jangka waktu tertentu sejak ${fmtDate($("#c-start").value)} sampai dengan ${fmtDate($("#c-end").value)} dan dapat diperpanjang sesuai ketentuan PP 35/2021 dengan total jangka waktu tidak melebihi 5 (lima) tahun. Pada saat berakhirnya PKWT, Perusahaan membayar uang kompensasi sesuai Pasal 15–16 PP 35/2021.` : `Perjanjian ini berlaku untuk waktu tidak tertentu sejak ${fmtDate($("#c-start").value)}${prob ? `, dengan masa percobaan ${prob} (${["", "satu", "dua", "tiga"][prob]}) bulan. Selama masa percobaan, Perusahaan dapat mengakhiri hubungan kerja tanpa kewajiban pembayaran pesangon; upah selama masa percobaan tidak lebih rendah dari upah minimum.` : "."}`, pkwt ? `本合同为定期合同，自 ${fmtDate($("#c-start").value)} 起至 ${fmtDate($("#c-end").value)} 止，可按 PP 35/2021 续签，累计不超过 5 年。合同期满时公司按 PP 35/2021 第 15–16 条支付补偿金。` : `本合同为无固定期限合同，自 ${fmtDate($("#c-start").value)} 起生效${prob ? `，试用期 ${prob} 个月。试用期内公司可解除劳动关系且无需支付遣散费；试用期工资不低于最低工资。` : "。"}`)}
+    ${cl(3, `Waktu kerja ${h === "5" ? "8 (delapan) jam sehari dan 40 (empat puluh) jam seminggu untuk 5 hari kerja" : "7 (tujuh) jam sehari dan 40 (empat puluh) jam seminggu untuk 6 hari kerja"}. Kerja lembur dilaksanakan atas perintah Perusahaan dan persetujuan Pekerja serta dibayar sesuai PP 35/2021.`, `工作时间为${h === "5" ? "每周 5 天、每天 8 小时、每周 40 小时" : "每周 6 天、每天 7 小时、每周 40 小时"}。加班须经公司指令与员工同意，并按 PP 35/2021 支付加班费。`)}
+    ${cl(4, `Perusahaan membayar upah pokok sebesar Rp ${wage.toLocaleString("id-ID")} dan tunjangan tetap sebesar Rp ${allow.toLocaleString("id-ID")} per bulan (total Rp ${total.toLocaleString("id-ID")}), dibayarkan paling lambat tanggal ___ setiap bulan melalui transfer bank, setelah dipotong PPh 21 dan iuran BPJS bagian Pekerja. Perusahaan membayar THR keagamaan sesuai Permenaker 6/2016.`, `公司每月支付基本工资 Rp ${wage.toLocaleString("id-ID")} 及固定津贴 Rp ${allow.toLocaleString("id-ID")}（合计 Rp ${total.toLocaleString("id-ID")}），于每月 ___ 日前银行转账支付，扣除 PPh 21 个人所得税与员工承担的 BPJS 缴费。公司按 Permenaker 6/2016 支付宗教节日津贴 THR。`)}
+    ${cl(5, `Perusahaan mendaftarkan Pekerja sebagai peserta BPJS Ketenagakerjaan (JKK, JKM, JHT, JP, JKP) dan BPJS Kesehatan sesuai peraturan perundang-undangan.`, `公司依法为员工登记 BPJS 劳动保障（JKK、JKM、JHT、JP、JKP）与 BPJS 健康保障。`)}
+    ${cl(6, `Pekerja berhak atas cuti tahunan 12 (dua belas) hari kerja setelah bekerja 12 bulan terus-menerus, cuti sakit dengan surat dokter, serta hak-hak lain sesuai Peraturan Perusahaan.`, `员工连续工作满 12 个月后享有 12 个工作日年假，凭医生证明享有病假，其他权利按公司规章执行。`)}
+    ${cl(7, `Pekerja wajib menjaga kerahasiaan informasi Perusahaan selama dan setelah berakhirnya hubungan kerja, tidak memiliki benturan kepentingan, serta mematuhi Peraturan Perusahaan dan tata tertib.`, `员工在劳动关系存续期间及终止后应保守公司商业秘密，不得存在利益冲突，并遵守公司规章与纪律。`)}
+    ${cl(8, `Pengakhiran hubungan kerja dilaksanakan sesuai UU Ketenagakerjaan jo. UU Cipta Kerja dan PP 35/2021${pkwt ? ". Pihak yang mengakhiri PKWT sebelum jangka waktu berakhir wajib membayar ganti rugi sebesar upah sampai batas waktu berakhirnya perjanjian" : ", termasuk ketentuan pesangon, uang penghargaan masa kerja dan uang penggantian hak"}.`, `劳动关系的终止按劳动法、创造就业法及 PP 35/2021 执行${pkwt ? "。任一方在合同期满前终止合同，须向对方赔偿至合同期满的工资" : "，包括遣散费、工龄奖金与权利补偿的规定"}。`)}
+    ${cl(9, `Perselisihan diselesaikan secara musyawarah; apabila tidak tercapai, diselesaikan melalui mekanisme UU 2/2004 tentang Penyelesaian Perselisihan Hubungan Industrial. Perjanjian ini dibuat dalam Bahasa Indonesia dan Bahasa Mandarin; dalam hal terdapat perbedaan penafsiran, versi Bahasa Indonesia yang berlaku.`, `争议先行协商；协商不成按 UU 2/2004《劳动争议解决法》处理。本合同以印尼语和中文书就，如有歧义以印尼语版本为准。`)}
+    <div class="sig"><div>PERUSAHAAN / 公司<br><br><br>${esc(v("#c-rep"))}<br>Direktur</div><div>PEKERJA / 员工<br><br><br>${esc(v("#c-emp"))}</div></div>
+    <p class="help" style="margin-top:20px">Meterai Rp10.000 · 一式两份。${pkwt ? "PKWT 须在签署后 3 个工作日内向劳工局线上备案（PP 35/2021 第 14 条）。" : ""}</p></div>`;
+};
+
+/* templates */
+const TPL = {
+  dist: { name: "分销协议 Perjanjian Distribusi（非独家/独家）", body: [
+    ["PARA PIHAK", "[Supplier 中国公司], selanjutnya disebut Prinsipal; PT [Distributor], NIB [__], selanjutnya disebut Distributor.", "[中国供应商]，以下称委托方；PT [分销商]，NIB [__]，以下称分销商。"],
+    ["Pasal 1 Penunjukan", "Prinsipal menunjuk Distributor sebagai distributor [eksklusif/non-eksklusif] Produk [__] di wilayah Republik Indonesia untuk jangka waktu [__] tahun. Distributor wajib mendaftarkan penunjukan ini pada Kementerian Perdagangan (STP) dalam 30 hari.", "委托方指定分销商为产品 [__] 在印尼境内的[独家/非独家]分销商，期限 [__] 年。分销商应在 30 日内向贸易部办理分销商登记（STP）。"],
+    ["Pasal 2 Izin dan Pendaftaran Produk", "Distributor mengurus izin edar BPOM/SNI/Halal atas nama Distributor dengan biaya [Prinsipal/Distributor]. Para Pihak sepakat bahwa pada berakhirnya perjanjian, Distributor wajib mengalihkan atau memberikan surat pelepasan (letter of release) atas seluruh izin edar kepada pihak yang ditunjuk Prinsipal dalam 30 hari.", "分销商以自身名义办理 BPOM/SNI/清真等注册，费用由[委托方/分销商]承担。双方约定：协议终止时，分销商须在 30 日内将全部注册证转让或出具放弃函给委托方指定方。"],
+    ["Pasal 3 Target dan Harga", "Target pembelian minimum [__] per tahun. Harga [FOB/CIF] sebagaimana Lampiran A, dapat ditinjau setiap [6] bulan. Pembayaran [T/T 30% DP, 70% sebelum pengapalan / L/C]. Transaksi di wilayah Indonesia wajib menggunakan Rupiah sesuai UU 7/2011.", "年度最低采购目标 [__]。价格按附件 A（FOB/CIF），每 [6] 个月可复核。付款方式 [T/T 30% 预付、70% 装船前 / 信用证]。在印尼境内的交易须按 UU 7/2011 以卢比结算。"],
+    ["Pasal 4 Kekayaan Intelektual", "Merek dagang tetap milik Prinsipal. Distributor tidak boleh mendaftarkan merek, domain atau akun marketplace atas namanya sendiri; Prinsipal mendaftarkan merek di DJKI sebelum pengapalan pertama.", "商标归委托方所有。分销商不得以自身名义注册商标、域名或平台店铺；委托方在首批发货前在 DJKI 完成商标注册。"],
+    ["Pasal 5 Kepatuhan", "Distributor wajib mematuhi ketentuan label Bahasa Indonesia, iklan, pajak, cukai (jika berlaku) dan larangan penjualan kepada anak. Pelanggaran material merupakan alasan pengakhiran seketika.", "分销商应遵守印尼语标签、广告、税务、消费税（如适用）及禁止向未成年人销售等规定。重大违反构成即时解约事由。"],
+    ["Pasal 6 Pengakhiran dan Stok", "Pengakhiran dengan pemberitahuan [90] hari. Prinsipal berhak membeli kembali stok layak jual dengan harga beli. Tidak ada kompensasi goodwill kecuali diatur undang-undang.", "任一方提前 [90] 日通知可终止。委托方有权按进货价回购可售库存。除法律强制外不支付商誉补偿。"],
+    ["Pasal 7 Hukum dan Sengketa", "Diatur hukum Republik Indonesia. Sengketa diselesaikan melalui arbitrase [BANI / SIAC Singapura] dalam Bahasa [Inggris]. Perjanjian dibuat dalam Bahasa Indonesia dan Mandarin; versi Bahasa Indonesia berlaku untuk penafsiran di Indonesia (UU 24/2009).", "适用印尼法律。争议提交 [BANI / 新加坡 SIAC] 仲裁，语言为[英语]。本协议以印尼语与中文书就，在印尼境内以印尼语版本解释（UU 24/2009）。"]] },
+  nda: { name: "保密协议 Perjanjian Kerahasiaan (NDA)", body: [
+    ["Pasal 1 Informasi Rahasia", "Seluruh informasi teknis, komersial, formula, harga, data pelanggan dan rencana usaha yang diungkapkan secara tertulis, lisan atau elektronik.", "以书面、口头或电子方式披露的全部技术、商业、配方、价格、客户数据与业务计划。"],
+    ["Pasal 2 Kewajiban", "Pihak Penerima wajib menjaga kerahasiaan, hanya menggunakan untuk Tujuan [evaluasi kerja sama], membatasi akses pada personel yang perlu tahu, dan tidak melakukan rekayasa balik.", "接收方应保密，仅用于[合作评估]目的，限制于需知人员，且不得进行反向工程。"],
+    ["Pasal 3 Jangka Waktu", "Berlaku [2] tahun sejak tanggal perjanjian; kewajiban kerahasiaan berlanjut [5] tahun setelah berakhir.", "自签署日起 [2] 年有效；保密义务在终止后延续 [5] 年。"],
+    ["Pasal 4 Pengembalian", "Atas permintaan, seluruh salinan dikembalikan atau dimusnahkan dengan konfirmasi tertulis dalam 14 hari.", "应要求在 14 日内返还或销毁全部副本并书面确认。"],
+    ["Pasal 5 Ganti Rugi dan Hukum", "Pelanggaran menimbulkan ganti rugi dan hak atas putusan sela. Hukum Indonesia; Pengadilan Negeri Jakarta Pusat / arbitrase BANI.", "违约方承担损害赔偿，守约方有权申请临时禁令。适用印尼法律；管辖为雅加达中区地方法院 / BANI 仲裁。"]] },
+  supply: { name: "采购/供货协议 Perjanjian Jual Beli / Pasokan", body: [
+    ["Pasal 1 Objek", "Penjual menjual Barang [__] sesuai spesifikasi Lampiran A; kuantitas per Purchase Order yang dikonfirmasi.", "卖方按附件 A 规格出售货物 [__]；数量以确认的采购订单为准。"],
+    ["Pasal 2 Harga dan Pembayaran", "Harga [CIF Tanjung Priok, Incoterms 2020] dalam [USD]. Pembayaran [T/T] dalam [30] hari sejak B/L. Pajak dan bea di Indonesia ditanggung Pembeli.", "价格按 [CIF 丹戎不碌港，Incoterms 2020] 以[美元]计。自提单日起 [30] 日内电汇。印尼境内税费由买方承担。"],
+    ["Pasal 3 Dokumen dan Kepatuhan", "Penjual menyediakan invoice, packing list, B/L, Certificate of Origin (Form E/RCEP), sertifikat uji, dan dokumen yang diperlukan untuk SNI/BPOM/LS. Pembeli bertanggung jawab atas izin impor (PI), LS dan pelabelan Bahasa Indonesia.", "卖方提供发票、装箱单、提单、原产地证（Form E/RCEP）、检测证书及 SNI/BPOM/LS 所需文件。买方负责进口批准（PI）、装运前检验与印尼语标签。"],
+    ["Pasal 4 Jaminan Mutu", "Garansi [12] bulan sejak penerimaan; klaim cacat dalam [30] hari dengan bukti; penggantian atau kredit.", "自收货起 [12] 个月质保；[30] 日内凭证据提出瑕疵索赔；换货或抵扣。"],
+    ["Pasal 5 Keadaan Kahar", "Termasuk perubahan peraturan impor/cukai yang melarang atau menunda pengiriman.", "不可抗力包括禁止或延迟发运的进口/消费税法规变更。"],
+    ["Pasal 6 Hukum dan Sengketa", "Hukum [Indonesia/Singapura]; arbitrase [SIAC/BANI]; bahasa [Inggris]. Versi Bahasa Indonesia disediakan sesuai UU 24/2009.", "适用[印尼/新加坡]法律；[SIAC/BANI] 仲裁；语言[英语]。依 UU 24/2009 提供印尼语版本。"]] },
+};
+$("#tpl-list").innerHTML = Object.entries(TPL).map(([k, t]) => `<div class="req tpl" onclick="loadTpl('${k}')"><b>${esc(t.name)}</b></div>`).join("");
+window.loadTpl = (k) => { const t = TPL[k]; $("#tpl-out").innerHTML = `<h2>${esc(t.name.split(" ").slice(1).join(" "))}</h2><div class="sub">${esc(t.name.split(" ")[0])} · 双语工作底稿</div>` + t.body.map((b) => `<div class="cl"><div><b>${esc(b[0])}</b>${esc(b[1])}</div><div class="zh"><b>${esc(b[0])}</b>${esc(b[2])}</div></div>`).join("") + `<div class="sig"><div>Pihak Pertama / 甲方</div><div>Pihak Kedua / 乙方</div></div>`; };
+loadTpl("dist");
+
+/* DD */
+const done = store.get("dd", {});
+$("#dd").innerHTML = KB.dd.map(([g, items]) => `<h3 style="margin-top:16px">${esc(g)}</h3>${items.map((t) => `<label class="cl-item ${done[t] ? "done" : ""}"><input type="checkbox" data-k="${esc(t)}" ${done[t] ? "checked" : ""}><span class="cl-t">${esc(t)}</span></label>`).join("")}`).join("");
+$$("#dd input").forEach((c) => c.onchange = () => { done[c.dataset.k] = c.checked; store.set("dd", done); c.closest(".cl-item").classList.toggle("done", c.checked); });
+$("#dd-export").onclick = () => download("indonesia-due-diligence.md", "# 印尼合作方尽调清单\n\n" + KB.dd.map(([g, items]) => `## ${g}\n` + items.map((t) => `- [${done[t] ? "x" : " "}] ${t}`).join("\n")).join("\n\n"), "text/markdown");
+</script>
+</body>
+</html>

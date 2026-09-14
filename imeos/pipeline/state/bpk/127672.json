@@ -1,0 +1,51 @@
+{
+ "id": "PERPRES-2019-81",
+ "source": "bpk",
+ "bpk_id": 127672,
+ "url": "https://peraturan.bpk.go.id/Details/127672/perpres-no-81-tahun-2019",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "81",
+ "number_raw": "81",
+ "year": 2019,
+ "title": "Peraturan Presiden (Perpres) Nomor 81 Tahun 2019 tentang Kementerian Badan Usaha Milik Negara",
+ "about": "Kementerian Badan Usaha Milik Negara",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI - STRUKTUR ORGANISASI",
+ "field": "",
+ "date_enacted": "2019-12-10",
+ "date_promulgated": "2019-12-10",
+ "date_effective": "2019-12-10",
+ "gazette": "LN.2019/NO.235, JDIH.SETKAB.GO.ID : 17 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2024-179",
+   "target_bpk_id": 306863,
+   "label": "Perpres No. 179 Tahun 2024",
+   "about": "Kementerian Badan Usaha Milik Negara"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2017-41",
+   "target_bpk_id": 62228,
+   "label": "PERPRES No. 41 Tahun 2017",
+   "about": "Perubahan Atas Peraturan Presiden No 41 Tahun 2015 Tentang Kementerian Badan Usaha Milik Negara"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2015-41",
+   "target_bpk_id": 41774,
+   "label": "PERPRES No. 41 Tahun 2015",
+   "about": "Kementerian Badan Usaha Milik Negara"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 10 Desember 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/118676/Perpres%20Nomor%2081%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:27:26Z"
+}

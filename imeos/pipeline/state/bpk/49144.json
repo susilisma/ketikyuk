@@ -1,0 +1,65 @@
+{
+ "id": "UU-1968-6",
+ "source": "bpk",
+ "bpk_id": 49144,
+ "url": "https://peraturan.bpk.go.id/Details/49144/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "6",
+ "number_raw": "6",
+ "year": 1968,
+ "title": "Undang-undang (UU) Nomor 6 Tahun 1968 tentang Penanaman Modal Dalam Negeri",
+ "about": "Penanaman Modal Dalam Negeri",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PENANAMAN MODAL DAN INVESTASI",
+ "field": "",
+ "date_enacted": "1968-07-03",
+ "date_promulgated": "1968-07-03",
+ "date_effective": "1968-07-03",
+ "gazette": "LN. 1968/No.33, TLN NO.2853, LL : 7 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2007-25",
+   "target_bpk_id": 39903,
+   "label": "UU No. 25 Tahun 2007",
+   "about": "Penanaman Modal"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-1983-7",
+   "target_bpk_id": 46988,
+   "label": "UU No. 7 Tahun 1983",
+   "about": "Pajak Penghasilan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "UU-1970-12",
+   "target_bpk_id": 47914,
+   "label": "UU No. 12 Tahun 1970",
+   "about": "Perubahan dan Tambahan Undang-Undang No. 6 Tahun 1968 tentang Penanaman Modal Dalam Negeri"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1964-27",
+   "target_bpk_id": 50381,
+   "label": "UU No. 27 Tahun 1964",
+   "about": "Pemberian Pembebasan Pajak Perseroan/Pajak Pendapatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1964-26",
+   "target_bpk_id": 50347,
+   "label": "UU No. 26 Tahun 1964",
+   "about": "Pemberian Perangsang Penanaman Modal"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 03 Juli 1968.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/49261/UU%20Nomor%206%20Tahun%201968.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:10Z"
+}

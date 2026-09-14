@@ -1,0 +1,51 @@
+{
+ "id": "PMK-2022-194",
+ "source": "bpk",
+ "bpk_id": 234094,
+ "url": "https://peraturan.bpk.go.id/Details/234094/pmk-no-194pmk072022",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "194",
+ "number_raw": "194/PMK.07/2022",
+ "year": 2022,
+ "title": "Peraturan Menteri Keuangan Nomor 194/PMK.07/2022 Tahun 2022 tentang Batas Maksimal Kumulatif Defisit Anggaran Pendapatan dan Belanja Daerah, Batas Maksimal Defisit Anggaran Pendapatan dan Belanja Daerah, dan Batas Maksimal Kumulatif Pembiayaan Utang Daerah Tahun Anggaran 2023",
+ "about": "Batas Maksimal Kumulatif Defisit Anggaran Pendapatan dan Belanja Daerah, Batas Maksimal Defisit Anggaran Pendapatan dan Belanja Daerah, dan Batas Maksimal Kumulatif Pembiayaan Utang Daerah Tahun Anggaran 2023",
+ "issuer": "Kementerian Keuangan",
+ "subject": "APBD - PIUTANG, UTANG, DAN HIBAH NEGARA / DAERAH",
+ "field": "",
+ "date_enacted": "2022-12-14",
+ "date_promulgated": "2022-12-16",
+ "date_effective": "2022-12-16",
+ "gazette": "BN.2022/NO. 1278; https:jdih.kemenkeu.go.id : 10 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2024-75",
+   "target_bpk_id": 306326,
+   "label": "PMK No. 75 Tahun 2024",
+   "about": "Batas Maksimal Kumulatif Defisit Anggaran Pendapatan dan Belanja Daerah, Batas Maksimal Defisit Anggaran Pendapatan dan Belanja Daerah, dan Batas Maksimal Kumulatif Pembiayaan Utang Daerah Tahun Anggaran 2025"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2020-121",
+   "target_bpk_id": 144739,
+   "label": "PMK No. 121/PMK.07/2020",
+   "about": "Batas Maksimal Kumulatif Defisit Anggaran Pendapatan dan Belanja Daerah, Batas Maksimal Defisit Anggaran Pendapatan dan Belanja Daerah, dan Batas Maksimal Kumulatif Pinjaman Daerah Tahun Anggaran 2021"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2006-72",
+   "target_bpk_id": 234096,
+   "label": "PMK No. 72/PMK.02/2006",
+   "about": "Batas Maksimal Jumlah Komulatif Defisit Anggaran Pendapatan dan Belanja Negara (APBN) dan Anggaran Pendapatan dan Benlanja Daerah (APBD), Batas Maksimal Defisit Apbd Masing-Masing Daerah, dan Batas Maksimal Komulatif Pinjaman Daerah untuk Tahun Anggaran 2007"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 16 Desember 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/286151/194_PMK.07_2022.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:35:31Z"
+}

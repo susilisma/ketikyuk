@@ -1,0 +1,54 @@
+{
+ "id": "UU-2022-13",
+ "source": "bpk",
+ "bpk_id": 212810,
+ "url": "https://peraturan.bpk.go.id/Details/212810/uu-no-13-tahun-2022",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "13",
+ "number_raw": "13",
+ "year": 2022,
+ "title": "Undang-undang (UU) Nomor 13 Tahun 2022 tentang Perubahan Kedua atas Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-Undangan",
+ "about": "Perubahan Kedua atas Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-Undangan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA",
+ "field": "",
+ "date_enacted": "2022-06-16",
+ "date_promulgated": "2022-06-16",
+ "date_effective": "2022-06-16",
+ "gazette": "LN.2022/No.143, TLN No.6801 jdih.setneg.go.id: 13 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "UU-2026-1",
+   "target_bpk_id": 337869,
+   "label": "UU No. 1 Tahun 2026",
+   "about": "Penyesuaian Pidana"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2019-15",
+   "target_bpk_id": 121716,
+   "label": "UU No. 15 Tahun 2019",
+   "about": "Perubahan atas Undang-Undang Nomor 12 Tahun 2011 Tentang Pembentukan Peraturan Perundang-Undangan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "UU-2011-12",
+   "target_bpk_id": 39188,
+   "label": "UU No. 12 Tahun 2011",
+   "about": "Pembentukan Peraturan Perundang-Undangan"
+  }
+ ],
+ "abstract": "Untuk mewujudkan Pembentukan Peraturan Perundang-undangan yang terencana, terpadu, dan berkelanjutan dibutuhkan penataan dan perbaikan mekanisme Pembentukan Peraturan Perundang-undangan sejak perencanaan, penyusunan, pembahasan, pengesahan atau penetapan hingga pengundangan dengan menambahkan antara lain pengaturan mengenai metode omnibus dalam Pembentukan Peraturan Perundang-undangan serta memperkuat keterlibatan dan partisipasi masyarakat yang bermakna.\nDasar hukum UU ini adalah Pasal 20, Pasal 21, dan Pasal 22A Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.\nUU ini mengatur mengenai perubahan beberapa pasal, penjelasan, dan lampiran dalam UU Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-Undangan. Penyempurnaan UU Nomor 12 Tahun 2011 sebagaimana diatur dalam UU ini antara lain: 1) menambahkan metode omnibus; 2) memperbaiki kesalahan teknis setelah persetujuan bersama antara DPR dan presiden dalam rapat paripurna dan sebelum pengesahan dan pengundangan; 3) memperkuat keterlibatan dan partisipasi masyarakat yang bermakna (meaningful participation); 4) membentuk peraturan perundang-undangan secara elektronik; 5) mengubah sistem pendukung dari peneliti menjadi pejabat fungsional lain yang ruang lingkup tugasnya terkait Pembentukan Peraturan Perundang-undangan; 6) mengubah teknik penyusunan Naskah Akademik; dan 7) mengubah teknik penyusunan Peraturan Perundang-undangan.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 16 Juni 2022.\nUU ini mengubah UU Nomor 12 Tahun 2011.\nPenjelasan: 11 hlm; Lampiran : 38 hlm.",
+ "citations": [
+  "UU-2011-12"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/207035/UU%20Nomor%2013%20Tahun%202022.pdf",
+  "https://peraturan.bpk.go.id/Download/218051/uu13-2022.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:23:22Z"
+}

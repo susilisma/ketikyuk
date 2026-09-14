@@ -1,0 +1,44 @@
+{
+ "id": "UU-1961-8",
+ "source": "bpk",
+ "bpk_id": 51154,
+ "url": "https://peraturan.bpk.go.id/Details/51154/x",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "8",
+ "number_raw": "8",
+ "year": 1961,
+ "title": "Undang-undang (UU) Nomor 8 Tahun 1961 tentang Wajib Kerja Sarjana",
+ "about": "Wajib Kerja Sarjana",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PENDIDIKAN",
+ "field": "",
+ "date_enacted": "1961-04-29",
+ "date_promulgated": "1961-04-29",
+ "date_effective": "1961-04-29",
+ "gazette": "LN. 1961 No. 207 , TLN NO. 2270, LL SETNEG : 7 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2003-13",
+   "target_bpk_id": 43013,
+   "label": "UU No. 13 Tahun 2003",
+   "about": "Ketenagakerjaan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-1951-8",
+   "target_bpk_id": 39840,
+   "label": "UU No. 8 Tahun 1951",
+   "about": "Penangguhan Pemberian Surat Idzin kepada Dokter dan Dokter Gigi"
+  }
+ ],
+ "abstract": "",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 29 April 1961.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/40406/UU%20Nomor%208%20Tahun%201961.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:18Z"
+}

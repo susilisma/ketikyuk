@@ -1,0 +1,48 @@
+{
+ "id": "PERPRES-2025-88",
+ "source": "bpk",
+ "bpk_id": 327888,
+ "url": "https://peraturan.bpk.go.id/Details/327888/perpres-no-88-tahun-2025",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "88",
+ "number_raw": "88",
+ "year": 2025,
+ "title": "Peraturan Presiden (Perpres) Nomor 88 Tahun 2025 tentang Perubahan Kedua atas Peraturan Presiden Nomor 6 Tahun 2012 tentang Komite Koordinasi Nasional Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
+ "about": "Perubahan Kedua atas Peraturan Presiden Nomor 6 Tahun 2012 tentang Komite Koordinasi Nasional Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HUKUM PIDANA, PERDATA, DAN DAGANG - PENCUCIAN UANG - TINDAK PIDANA",
+ "field": "HUKUM PIDANA",
+ "date_enacted": "2025-08-25",
+ "date_promulgated": "2025-08-25",
+ "date_effective": "2025-08-25",
+ "gazette": "LN 2025 (136) : 9 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2016-117",
+   "target_bpk_id": 41021,
+   "label": "PERPRES No. 117 Tahun 2016",
+   "about": "Perubahan Atas Peraturan Presiden Nomor 6 Tahun 2012 Tentang Komite Koordinasi Nasional Pencegahan Dan Pemberantasan Tindak Pidana Pencucian Uang"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2012-6",
+   "target_bpk_id": 41249,
+   "label": "PERPRES No. 6 Tahun 2012",
+   "about": "Komite Koordinasi Nasional Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang"
+  }
+ ],
+ "abstract": "Untuk meningkatkan efektivitas dalam pelaksanaan pencegahan dan pemberantasan tindak pidana pencucian uang, perlu mengubah Peraturan Presiden Nomor 6 Tahun 2012 tentang Komite Koordinasi Nasional Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang sebagaimana telah diubah dengan Peraturan Presiden Nomor 117 Tahun 2016 tentang Perubahan atas Peraturan Presiden Nomor 6 Tahun 2012 tentang Komite Koordinasi Nasional Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD 1945; UU Nomor 8 Tahun 2010; dan Perpres Nomor 6 Tahun 2012.\nPerpres ini mengubah beberapa ketentuan dalam Peraturan Presiden Nomor 6 Tahun 2012 tentang Komite Koordinasi Nasional Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang (Lembaran Negara Republik Indonesia Tahun 2012 Nomor 21) sebagaimana telah diubah dengan Peraturan Presiden Nomor 117 Tahun 2016 tentang Perubahan atas Peraturan Presiden Nomor 6 Tahun 2012 tentang Komite Koordinasi Nasional Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 343).",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 25 Agustus 2025.\nPerpres ini mengubah Perpres Nomor 6 Tahun 2012.\nLampiran file: 9 hlm.",
+ "citations": [
+  "PERPRES-2012-6",
+  "PERPRES-2016-117",
+  "UU-2010-8"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/389685/Perpres%20Nomor%2088%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-09-14T05:32:52Z"
+}

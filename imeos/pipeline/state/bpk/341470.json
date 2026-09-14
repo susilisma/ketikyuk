@@ -1,0 +1,51 @@
+{
+ "id": "PMK-2025-95",
+ "source": "bpk",
+ "bpk_id": 341470,
+ "url": "https://peraturan.bpk.go.id/Details/341470/pmk-no-95-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "95",
+ "number_raw": "95",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 95 Tahun 2025 tentang Pedoman Pelaksanaan Analisis Jabatan dan Analisis Beban Kerja di Lingkungan Kementerian Keuangan",
+ "about": "Pedoman Pelaksanaan Analisis Jabatan dan Analisis Beban Kerja di Lingkungan Kementerian Keuangan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-12-19",
+ "date_promulgated": "2025-12-31",
+ "date_effective": "2025-12-31",
+ "gazette": "BN.2025 (1217)/10 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2018-138",
+   "target_bpk_id": 113250,
+   "label": "PMK No. 138/PMK.01/2018",
+   "about": "Pedoman Pelaksanaan Analisis Jabatan Di Lingkungan Kementerian Keuangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2016-175",
+   "target_bpk_id": 145965,
+   "label": "PMK No. 175/PMK.01/2016",
+   "about": "Pedoman Pelaksanaan Analisis Beban Kerja (Workload Analysis) di Lingkungan Kementerian Keuangan"
+  }
+ ],
+ "abstract": "a. bahwa untuk penyederhanaan tata kelola dan peningkatan kualitas hasil pelaksanaan analisis jabatan, perlu dilakukan penyempurnaan pelaksanaan analisis jabatan di lingkungan Kementerian Keuangan;\nb. bahwa untuk penyediaan data beban kerja, efektivitas dan efisiensi kerja unit organisasi dan/atau jabatan, serta kebutuhan pegawai yang berkesinambungan sebagai data dukung kebijakan di bidang organisasi dan sumber daya manusia, perlu dilakukan penyempurnaan pelaksanaan analisis beban kerja di lingkungan Kementerian Keuangan;\nc. bahwa untuk mendukung sistem organisasi yang lincah dan dinamis, perlu dilakukan penyempurnaan ketentuan mengenai pedoman pelaksanaan analisis jabatan dan analisis beban kerja di lingkungan Kementerian Keuangan;\nd. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Menteri Keuangan tentang Pedoman Pelaksanaan Analisis Jabatan dan Analisis Beban Kerja di Lingkungan Kementerian Keuangan;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 20 Tahun 2023, Peraturan Pemerintah Nomor 11 Tahun 2017, Peraturan Pemerintah Nomor 49 Tahun 2018, Peraturan Presiden Nomor 158 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengatur tentang ketentuan umum, tujuan dan prinsip, ruang lingkup, pelaksanaan analisis jabatan, pelaksanaan ABK, ketentuan peralihan dan ketentuan penutup.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 31 Desember 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas:\na. Peraturan Menteri Keuangan Nomor 441/PM.01/2007 tentang Uraian Jabatan Fungsional di Lingkungan Departemen Keuangan;\nb. Peraturan Menteri Keuangan Nomor 175/PMK.01/2016 tentang Pedoman Pelaksanaan Analisis Beban Kerja (Workload Analysis) di Lingkungan Kementerian Keuangan (Berita Negara Republik Indonesia Tahun 2016 Nomor 1756) sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 238/PMK.01/2020 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 175/PMK.01/2016 tentang Pedoman Pelaksanaan Analisis Beban Kerja (Workload Analysis) di Lingkungan Kementerian Keuangan;\nc. Peraturan Menteri Keuangan Nomor 138/PMK.01/2018 tentang Pedoman Pelaksanaan Analisis Jabatan di Lingkungan Kementerian Keuangan (Berita Negara Republik Indonesia Tahun 2018 Nomor 1394) sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 130/PMK.01/2021 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 138/PMK.01/2018 tentang Pedoman Pelaksanaan Analisis Jabatan di Lingkungan Kementerian Keuangan.",
+ "citations": [
+  "UU-2008-39",
+  "UU-2023-20",
+  "PP-2017-11",
+  "PP-2018-49",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/404590/2025pmkeuangan095.pdf"
+ ],
+ "fetched_at": "2026-09-14T06:32:11Z"
+}
