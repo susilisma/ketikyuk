@@ -1,0 +1,50 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="robots" content="noindex,nofollow"><title>Day 01 · 抵达雅加达</title><style>
+:root{--bg:#16110d;--amber:#e8b25a;--cream:#efe2c6;--dim:#a8977c}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--cream);font-family:"Songti SC","Noto Serif CJK SC",Georgia,serif;line-height:1.9;
+background-image:radial-gradient(circle at 50% 0,#2a2018 0,transparent 55%),url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.82' numOctaves='4'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)' opacity='.06'/%3E%3C/svg%3E")}
+.wrap{max-width:1000px;margin:0 auto;padding:40px 22px 90px}
+.nav{display:flex;justify-content:space-between;font-family:"Courier New",monospace;font-size:12px;letter-spacing:2px;margin-bottom:26px}
+.nav a{color:var(--amber);text-decoration:none}.nav a:hover{text-decoration:underline}
+.top{display:flex;justify-content:space-between;align-items:flex-end;gap:20px;flex-wrap:wrap;border-bottom:1px solid #3a2e22;padding-bottom:22px;margin-bottom:30px}
+.kicker{font-family:"Courier New",monospace;letter-spacing:4px;font-size:12px;color:var(--amber)}
+h1{margin:8px 0 4px;font-size:clamp(34px,6.6vw,60px);line-height:1.1;letter-spacing:2px;color:#f7ead0}
+.sub{color:var(--dim)}
+.meta{font-family:"Courier New",monospace;font-size:12px;color:var(--amber);text-align:right;line-height:1.7;letter-spacing:2px}
+.story{max-width:680px;margin:0 0 36px;color:#e4d6b8}.story p{margin:0 0 14px;font-size:16.5px}
+.sched{list-style:none;padding:0;margin:0 0 40px;max-width:680px;font-size:14.5px;color:var(--dim)}
+.sched li{display:flex;gap:14px;padding:4px 0;border-bottom:1px dashed #3a2e22}
+.sched b{font-family:"Courier New",monospace;font-weight:400;letter-spacing:2px;color:var(--amber);flex:none;min-width:64px}
+.label{font-family:"Courier New",monospace;letter-spacing:4px;font-size:12px;color:var(--amber);margin:40px 0 14px}
+.strip{position:relative;display:flex;gap:10px;padding:26px 14px;margin-bottom:18px;background:#0b0907;border-radius:3px;box-shadow:0 10px 26px rgba(0,0,0,.5)}
+.strip::before,.strip::after{content:"";position:absolute;left:0;right:0;height:12px;background:repeating-linear-gradient(90deg,transparent 0 9px,#3b3226 9px 21px,transparent 21px 30px);opacity:.9}
+.strip::before{top:7px}.strip::after{bottom:7px}
+.frame{flex:0 0 calc(20% - 8px);min-width:0;position:relative}
+.strip.few{justify-content:flex-start}
+.fimg{position:relative;aspect-ratio:3/4;overflow:hidden;background:#222}
+.fimg img{width:100%;height:100%;object-fit:contain;background:#050403;display:block;filter:sepia(.25) saturate(.92) contrast(1.06)}
+.fno{display:block;font-family:"Courier New",monospace;font-size:10px;color:var(--amber);letter-spacing:2px;margin-top:5px}
+.circle{position:absolute;inset:-5px;border:3px solid #d23a2a;border-radius:46%;transform:rotate(-4deg);opacity:.9}
+.pick{font-family:"Kaiti SC","STKaiti","KaiTi",serif;color:#d86b55;font-size:19px;margin:8px 0 0;text-align:right}
+.prints{display:grid;grid-template-columns:repeat(2,1fr);gap:50px 40px;align-items:start;margin-bottom:50px}
+.prints .print:nth-child(even){margin-top:58px}
+.print{margin:0;display:flex;flex-direction:column}
+.paper{background:#f3ecdc;padding:14px 14px 40px;width:100%;box-shadow:0 18px 40px rgba(0,0,0,.6);transform:rotate(var(--r,0deg))}
+.print:nth-child(odd) .paper{--r:-1deg}.print:nth-child(even) .paper{--r:1.2deg}
+.paper img{display:block;width:100%;height:auto;filter:sepia(.18) saturate(.95) contrast(1.04)}
+.print figcaption{width:100%;margin-top:12px;padding:0 4px;font-family:"Kaiti SC","STKaiti","KaiTi",serif;font-size:17px;color:#f1deb8}
+.print figcaption b{display:block;font-family:"Courier New",monospace;font-size:11px;letter-spacing:3px;color:var(--amber);font-weight:400}
+.quote{text-align:center;margin:10px 0 56px;font-size:clamp(22px,4vw,28px);letter-spacing:4px;color:var(--amber);border-top:1px solid #3a2e22;border-bottom:1px solid #3a2e22;padding:18px 0}
+.places{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px;margin:10px 0 40px}
+.place{border:1px solid #3a2e22;background:#1d1610;padding:14px 16px}
+.place small{font-family:"Courier New",monospace;letter-spacing:2px;color:var(--amber)}
+.place b{display:block;font-size:17px;color:#f3e3c2}.place p{margin:4px 0 0;font-size:14px;color:var(--dim)}
+.foot{text-align:center;color:var(--dim);font-size:13px;letter-spacing:2px;margin-top:30px}
+.idx{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:18px}
+.card{display:block;text-decoration:none;color:inherit;background:#0b0907;padding:22px 12px 12px;position:relative;box-shadow:0 10px 24px rgba(0,0,0,.5)}
+.card::before{content:"";position:absolute;left:0;right:0;top:6px;height:10px;background:repeating-linear-gradient(90deg,transparent 0 8px,#3b3226 8px 18px,transparent 18px 26px)}
+.card img{width:100%;aspect-ratio:3/4;object-fit:contain;background:#050403;display:block;filter:sepia(.25) saturate(.92)}
+.card b{display:block;font-family:"Courier New",monospace;color:var(--amber);letter-spacing:2px;margin-top:8px;font-weight:400}
+.card span{font-size:14px;color:#e4d6b8;line-height:1.5;display:block}
+@media(max-width:700px){.prints{grid-template-columns:1fr}.prints .print:nth-child(even){margin-top:0}.strip{flex-wrap:wrap}.frame{flex:0 0 calc(33.33% - 7px)}.meta{text-align:left}}
+</style></head><body><div class="wrap"><div class="nav"><a href="../">◂ 版本目录</a><span>DAY 01 · 试做</span><span></span></div><div class="top"><div><div class="kicker">FILM ROLL · SEP 16 · JAKARTA</div><h1>抵达雅加达</h1><div class="sub">妈妈一个人来的！</div></div><div class="meta">DAY 01<br>35MM · 400<br>3 EXPOSURES</div></div><section class="story"><p>去接妈妈的时候先闹了个乌龙——我记错了航站楼，跑去三号下车，结果妈妈其实在二号等着，两个人隔着航站楼找了好一阵子，想起来就想笑。最后赶紧打了辆Silverbird专车冲去二号，总算把人接到了。</p><p>今天妈妈自己一个人从南宁飞过来，这是她第一次独自出国。远远看到她拖着行李从航站楼里走出来，一下子就笑开了，挥着手朝我这边走过来——这一趟真是又勇敢又厉害！人接到了，安全送回家，先让她好好歇一歇。</p><p>晚上带她出去吃了到印尼的第一顿饭：牛肉粿条、槟城炒粿条、沙爹虾咖喱煲，配柠檬茶和热茶。她吃得挺香的，眼睛一直盯着碗，看着就让人安心。</p><p>面包配温牛奶、绿茶，简单吃了点当早餐。顺便量了下体重，65.2公斤，记一笔方便以后对比。</p><p>接错航站楼笑成一团，人还是接到了，第一天平安落地，胃口也很好。</p></section><ul class="sched"><li><b>凌晨</b><span>机场接机，三号航站楼转往二号</span></li><li><b>早晨</b><span>早餐，在家休息</span></li><li><b>晚餐</b><span>粿条与咖喱虾，抵达雅加达后的第一顿晚饭</span></li></ul><div class="label">▍ CONTACT SHEET · 底片小样</div><div class="strip few"><div class="frame"><div class="fimg"><img loading="lazy" src="photos/d16/01.jpg" alt="到家歇了一会儿，妈妈就在厨房里忙起来了"><span class="circle"></span></div><span class="fno">1 ▸ 1A</span></div><div class="frame"><div class="fimg"><img loading="lazy" src="photos/d16/02.jpg" alt="炉子上正煮着东西，妈妈回头对着我笑"></div><span class="fno">2 ▸ 2A</span></div><div class="frame"><div class="fimg"><img loading="lazy" src="photos/d16/03.jpg" alt="到雅加达后的第一顿外食，妈妈坐下来对着镜头笑了笑"></div><span class="fno">3 ▸ 3A</span></div></div><p class="pick">红圈这张，选中了 ↑</p><div class="label">▍ PRINTS · 冲洗出来的</div><div class="prints"><figure class="print"><div class="paper"><img loading="lazy" src="photos/d16/01.jpg" width="1200" height="1600" alt="到家歇了一会儿，妈妈就在厨房里忙起来了"></div><figcaption><b>No.01</b>到家歇了一会儿，妈妈就在厨房里忙起来了</figcaption></figure><figure class="print"><div class="paper"><img loading="lazy" src="photos/d16/02.jpg" width="1200" height="1600" alt="炉子上正煮着东西，妈妈回头对着我笑"></div><figcaption><b>No.02</b>炉子上正煮着东西，妈妈回头对着我笑</figcaption></figure><figure class="print"><div class="paper"><img loading="lazy" src="photos/d16/03.jpg" width="1200" height="1600" alt="到雅加达后的第一顿外食，妈妈坐下来对着镜头笑了笑"></div><figcaption><b>No.03</b>到雅加达后的第一顿外食，妈妈坐下来对着镜头笑了笑</figcaption></figure></div><div class="label">▍ NOTES · 值得记住</div><div class="places"><div class="place"><small>雅加达</small><b>Eaton Tama</b><p>接机当天第一顿午饭</p></div><div class="place"><small>雅加达</small><b>落地第一顿晚饭</b><p>牛肉粿条、槟城炒粿条、沙爹虾咖喱煲——店名忘记记了，下次想起来再补</p></div></div><div class="nav"><a href="../">◂ 版本目录</a><span>DAY 01 · 试做</span><span></span></div><p class="foot">· 第一天 · JAKARTA ·</p></div></body></html>
