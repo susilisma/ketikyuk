@@ -1,0 +1,40 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="robots" content="noindex,nofollow"><title>Day 02 · 订酒店、游泳、逛街、洗牙、追剧</title><style>
+:root{--paper:#efe7d7;--ink:#3b332a;--soft:#6b5f50;--accent:#9c4f3a}
+*{box-sizing:border-box}
+body{margin:0;color:var(--ink);font-family:"Songti SC","Noto Serif CJK SC",Georgia,serif;line-height:1.9;
+background-color:var(--paper);background-image:radial-gradient(circle at 15% 10%,#fffaf0 0,transparent 40%),
+radial-gradient(circle at 85% 85%,#f5ecd7 0,transparent 45%),radial-gradient(circle at 50% 50%,transparent 55%,#d6c9ad 100%),url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.82' numOctaves='4'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)' opacity='.06'/%3E%3C/svg%3E")}
+.wrap{max-width:1040px;margin:0 auto;padding:36px 22px 100px}
+.nav{display:flex;justify-content:space-between;font-family:Georgia,serif;font-size:12px;letter-spacing:2px;margin-bottom:10px}
+.nav a{color:var(--accent);text-decoration:none}
+.head{position:relative;padding:12px 0 30px}
+.kicker{font-family:Georgia,serif;letter-spacing:5px;font-size:11px;color:var(--accent)}
+h1{margin:10px 0 6px;font-size:clamp(38px,7.5vw,68px);line-height:1.06;letter-spacing:3px;color:#35291f;text-shadow:2px 2px 0 #e2d3b4,4px 4px 0 rgba(150,120,80,.25)}
+.sub{color:var(--soft);letter-spacing:1px}
+.postmark{position:absolute;right:2%;top:6px;width:122px;height:122px;border:2.5px solid var(--accent);border-radius:50%;display:grid;place-content:center;text-align:center;color:var(--accent);transform:rotate(-12deg);opacity:.7;font-family:Georgia,serif;box-shadow:inset 0 0 0 5px rgba(156,79,58,.13)}
+.postmark b{display:block;font-size:15px;letter-spacing:1px}.postmark span{display:block;font-size:10px}
+.story{max-width:660px;margin:0 0 44px;background:#fffdf6;border:1px solid #ddd0b4;padding:24px 28px;box-shadow:0 10px 24px rgba(90,70,40,.1);transform:rotate(-.6deg);background-image:repeating-linear-gradient(#fffdf6 0 30px,#f0e6cf 30px 31px)}
+.story p{margin:0 0 14px;font-size:16.5px;color:#473d31}.story p:last-child{margin:0}
+.board{column-count:3;column-gap:34px}
+.pol,.note,.stub{break-inside:avoid;display:block;margin:0 0 38px}
+.board>*:nth-child(3n+2){margin-top:46px}
+.pol{position:relative;background:#fffdf7;padding:11px 11px 46px;transform:rotate(var(--rot));box-shadow:0 12px 26px rgba(70,52,30,.2),0 2px 4px rgba(70,52,30,.12);transition:.25s}
+.pol:hover{transform:rotate(0) scale(1.03);z-index:5}
+.pol img{display:block;width:100%;height:auto;filter:sepia(.14) saturate(.94) contrast(1.03)}
+.pol figcaption{position:absolute;left:12px;right:12px;bottom:11px;font-size:13px;line-height:1.55;color:#5a4e42;font-family:"Kaiti SC","STKaiti","KaiTi",serif}
+.tape{position:absolute;top:-12px;width:100px;height:28px;z-index:3;opacity:.9;box-shadow:0 2px 6px rgba(0,0,0,.14);background:linear-gradient(180deg,color-mix(in srgb,var(--tape) 85%,#fff),var(--tape))}
+.tape::after{content:"";position:absolute;inset:0;background:repeating-linear-gradient(90deg,transparent 0 6px,rgba(255,255,255,.26) 6px 8px)}
+.t-l{left:-14px;transform:rotate(-24deg)}.t-r{right:-14px;transform:rotate(22deg)}
+.note{font-family:"Kaiti SC","STKaiti","KaiTi",serif;font-size:20px;line-height:1.7;color:#7a3b2b;background:#f8efc9;padding:18px 20px;box-shadow:0 8px 18px rgba(70,52,30,.16);transform:rotate(2deg);background-image:repeating-linear-gradient(#f8efc9 0 30px,#eadfae 30px 31px)}
+.n2{transform:rotate(-2.4deg);background-color:#e3ecd9;background-image:repeating-linear-gradient(#e3ecd9 0 30px,#d3dfc6 30px 31px)}
+.n3{transform:rotate(1.4deg);background-color:#f3dcd2;background-image:repeating-linear-gradient(#f3dcd2 0 30px,#e6c8bb 30px 31px)}
+.stub{border:2px dashed var(--accent);padding:16px 18px;text-align:center;color:var(--accent);background:#fbf3e2;transform:rotate(-2deg);font-family:Georgia,serif}
+.stub b{display:block;font-size:19px;letter-spacing:3px}.stub span{display:block;font-size:12px;margin-top:2px}
+.stub i{display:block;margin-top:8px;font-size:11px;letter-spacing:4px;border-top:1px solid var(--accent);padding-top:6px;font-style:normal}
+.places{margin:10px 0 36px;display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px}
+.place{background:#fffdf6;border:1px solid #ddd0b4;padding:14px 16px;box-shadow:0 6px 14px rgba(90,70,40,.08)}
+.place small{font-family:Georgia,serif;letter-spacing:2px;color:var(--accent)}.place b{display:block;font-size:17px}.place p{margin:4px 0 0;font-size:14px;color:var(--soft)}
+.foot{text-align:center;margin-top:30px;color:var(--soft);font-size:13px;letter-spacing:1px}
+@media(max-width:860px){.board{column-count:2;column-gap:22px}.postmark{display:none}}
+@media(max-width:520px){.board{column-count:1}.wrap{padding:26px 16px 80px}.board>*:nth-child(3n+2){margin-top:0}}
+</style></head><body><div class="wrap"><div class="nav"><a href="d16.html">◂ 第一天</a><a href="index.html">▤ 全部十四天</a><a href="d18.html">第三天 ▸</a></div><header class="head"><div class="kicker">SEP 17 · DAY 02 · JAKARTA</div><h1>订酒店、游泳、逛街、洗牙、追剧</h1><div class="sub">忙碌但很满的一天</div><div class="postmark"><b>JAKARTA</b><span>17 · 09 · 2026</span></div></header><section class="story"><p>定完酒店，6:30起床，7点下楼游泳，妈妈游了10圈，状态很好。回来以后妈妈煮了一锅粉，配虾、鸡蛋、火腿肠，两个人都吃得很香，全部吃完了。一天就是从这碗热腾腾的粉开始的。收拾好准备出门，电梯里拍了张合照。</p><p>我去办公室上班，妈妈自己一个人出门逛商场买衣服。发来的照片是在电梯里自拍的，脸都笑虚焦了——她这几天在慢慢放开，敢自己一个人出门、坐电梯、逛街，不用事事跟着我。她开心，我在办公室看着照片也跟着开心。</p><p>优衣库买完衣服，我发了公司的地图定位给妈妈，问她能不能自己导航过来。她说能打开，试着步行走了过来——第一次在陌生的雅加达，靠自己看地图找路，走到的时候跟我说：&quot;找到了我做工的地方。&quot;从&quot;我陪着走&quot;到&quot;她自己找过来&quot;，这几天她真的在一点点变敢。</p><p>妈妈找到办公室以后，两个人就近在 Java Kitchen 吃了顿印尼菜：Set Menu 两份、炒时蔬、茶水。拍照那一下笑得挺开心，不过老实说她其实不太喜欢印尼菜——总觉得偏干、容易上火，还没吃习惯。以后带她出去吃饭，得多找点她熟悉、清淡一些的口味。饭后顺路去 Transmart 买了两根黄瓜，妈妈说拿回去腌酸嘢——家乡味，比印尼菜合她口味多了。</p><p>吃完饭直接带妈妈去洗牙，还是上次那家诊所。屏幕上能看到牙齿的实时画面，医生做了洁牙和检查，并处理发现的蛀洞。今天查出6处窝沟蛀洞，当场都补上了；另外有牙齿松动，今天的处理就是洁牙，医生说回国之后要做牙周评估，旅途这段时间那侧少咬硬东西。</p><p>诊所后来开了正式发票和转诊条：洁牙+去渍+补6颗牙，现场付清；转诊条上写明是 48 号牙（右下智齿）要拔，医生备注建议去医院做口腔外科手术，患者也希望在医院处理——这条正好带回国给医生看，衔接后续治疗。</p><p>诊所手写的转诊条，回国要带上这张。洁牙 + 补6处 + 松动评估 + 开转诊条，今天该做的都做完了，回国后带上这张转诊条，让医院进一步评估48号牙及后续治疗；具体治疗与报销安排以医院核实为准。</p><p>忙了一整天，回到家两个人瘫在沙发上，脚都翘到小凳子上，就这么窝着看《我的阿勒泰》。忙碌的一天，就在这种放松的状态里收尾。</p><p>订酒店、游泳、逛街、吃饭、洗牙、追剧——这一天塞得很满，但妈妈一路都笑眯眯的，越来越敢自己一个人在雅加达走动了。</p></section><section class="board"><figure class="pol" style="--rot:-2.6deg"><span class="tape t-l" style="--tape:#d9c7a3"></span><img loading="lazy" src="photos/d17/01.jpg" width="1200" height="1600" alt="清晨七点的小区泳池，妈妈游完十圈，探出头来看手机"><figcaption>清晨七点的小区泳池，妈妈游完十圈，探出头来看手机</figcaption></figure><figure class="pol" style="--rot:1.8deg"><span class="tape t-r" style="--tape:#c9d7cd"></span><img loading="lazy" src="photos/d17/02.jpg" width="1200" height="1600" alt="收拾好准备出门，在电梯里拍了张合照"><figcaption>收拾好准备出门，在电梯里拍了张合照</figcaption></figure><div class="note ">妈妈游了10圈，状态很好</div><div class="stub"><b>JAKARTA</b><span>17 · 09 · 2026</span><i>ADMIT TWO</i></div><figure class="pol" style="--rot:-1.4deg"><span class="tape t-l" style="--tape:#e3c6c0"></span><img loading="lazy" src="photos/d17/03.jpg" width="1200" height="1600" alt="午饭的印尼菜端上来，拍照那一下妈妈笑得挺开心"><figcaption>午饭的印尼菜端上来，拍照那一下妈妈笑得挺开心</figcaption></figure></section><div class="places"><div class="place"><small>雅加达</small><b>Java Kitchen</b><p>印尼菜偏干，妈妈其实没那么爱，下次换清淡点的</p></div></div><p class="foot">· 第二天 ·</p></div></body></html>
