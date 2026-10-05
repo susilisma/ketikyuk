@@ -1,0 +1,47 @@
+{
+ "id": "PERMENKES-2023-19",
+ "source": "bpk",
+ "bpk_id": 262612,
+ "url": "https://peraturan.bpk.go.id/Details/262612/permenkes-no-19-tahun-2023",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "19",
+ "number_raw": "19",
+ "year": 2023,
+ "title": "Peraturan Menteri Kesehatan Nomor 19 Tahun 2023 tentang Organisasi dan Tata Kerja Balai Besar Biomedis dan Genomika Kesehatan",
+ "about": "Organisasi dan Tata Kerja Balai Besar Biomedis dan Genomika Kesehatan",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - STRUKTUR ORGANISASI",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2023-06-12",
+ "date_promulgated": "2023-07-04",
+ "date_effective": "2023-07-04",
+ "gazette": "BN.2023 (503)/9 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENKES-2026-11",
+   "target_bpk_id": 350844,
+   "label": "Permenkes No. 11 Tahun 2026",
+   "about": "Perubahan atas Peraturan Menteri Kesehatan Nomor 19 Tahun 2023 tentang Organisasi dan Tata Kerja Balai Besar Biomedis dan Genomika Kesehatan"
+  }
+ ],
+ "abstract": "a. bahwa dalam rangka penguatan transformasi layanan rujukan dan transformasi teknologi kesehatan diperlukan unit pelaksana teknis yang melakukan pelayanan kesehatan biomedis dan genomika kesehatan menuju pelayanan kedokteran presisi;\nb. bahwa untuk pembentukan unit pelaksana teknis yang melakukan pelayanan kesehatan biomedis dan genomika kesehatan, perlu dilakukan perubahan Balai Besar Laboratorium Kesehatan yang berlokasi di Jakarta sebagaimana diatur dalam Peraturan Menteri Kesehatan Nomor 52 Tahun 2020 tentang Organisasi dan Tata Kerja Balai Besar Laboratorium Kesehatan di Lingkungan Kementerian Kesehatan menjadi Balai Besar Biomedis dan Genomika Kesehatan;\nc. bahwa pembentukan organisasi dan tata kerja Balai Besar Biomedis dan Genomika Kesehatan telah mendapatkan persetujuan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi melalui surat Nomor B/160/M.KT.01/2023 tanggal 8 Februari 2023;\nd. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, serta untuk melaksanakan ketentuan Pasal 267 Peraturan Menteri Kesehatan Nomor 5 Tahun 2022 tentang Organisasi dan Tata Kerja Kementerian Kesehatan, perlu menetapkan Peraturan Menteri Kesehatan tentang Organisasi dan Tata Kerja Balai Besar Biomedis dan Genomika Kesehatan;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 36 Tahun 2009, Undang-Undang Nomor 27 Tahun 2022, Peraturan Pemerintah Nomor 46 Tahun 2014, Peraturan Pemerintah Nomor 53 Tahun 2021, Peraturan Presiden Nomor 18 Tahun 2021, Peraturan Menteri Kesehatan Nomor 5 Tahun 2022 dan Peraturan Menteri Pendayagunaan Aparatur Sipil Negara dan Reformasi Birokrasi Nomor 2 Tahun 2023\nPeraturan Menteri ini mengatur tentang ketentuan umum, kedudukan, tugas dan fungsi, susunan organisasi, instalasi, kelompok jabatan fungsional, tata kerja, jabatan, pengangkatan dan pemberhentian, ketentuan lain-lain, ketentuan peralihan dan ketentuan penutup",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 04 Juli 2023.",
+ "citations": [
+  "PERMENKES-2020-52",
+  "PERMENKES-2022-5",
+  "UU-2008-39",
+  "UU-2009-36",
+  "UU-2022-27",
+  "PP-2014-46",
+  "PP-2021-53",
+  "PERPRES-2021-18",
+  "PERATURANMENTERI-2023-2"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/319690/permenkes-no-19-tahun-2023.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:21:37Z"
+}

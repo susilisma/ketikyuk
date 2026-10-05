@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKUMHAM-2020-16",
+ "source": "bpk",
+ "bpk_id": 174095,
+ "url": "https://peraturan.bpk.go.id/Details/174095/permenkumham-no-16-tahun-2020",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "16",
+ "number_raw": "16",
+ "year": 2020,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 16 Tahun 2020 tentang Kamus Kompetensi Teknis Jabatan Urusan Pemerintahan di Bidang Hukum dan Hak Asasi Manusia",
+ "about": "Kamus Kompetensi Teknis Jabatan Urusan Pemerintahan di Bidang Hukum dan Hak Asasi Manusia",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "Alias",
+ "date_enacted": "2020-07-02",
+ "date_promulgated": "2020-07-09",
+ "date_effective": "2020-07-09",
+ "gazette": "BN.2020/No.733, peraturan.go.id : 5 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": null,
+   "target_bpk_id": 357142,
+   "label": "Permenkum No. 9 Tahun 2026",
+   "about": "Kamus Kompetensi Teknis Urusan Pemerintahan di Bidang Hukum"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 225566,
+   "label": "Permenkumham No. 15 Tahun 2022",
+   "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 16 Tahun 2020 tentang Kamus Kompetensi Teknis Jabatan Urusan Pemerintahan di Bidang Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 09 Juli 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/167293/16%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:17:36Z"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "POJK-2017-20",
+ "source": "bpk",
+ "bpk_id": 129714,
+ "url": "https://peraturan.bpk.go.id/Details/129714/peraturan-ojk-no-20pojk042017-tahun-2017",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "20",
+ "number_raw": "20/POJK.04/2017",
+ "year": 2017,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 20/POJK.04/2017 Tahun 2017 tentang Perubahan atas POJK Nomor 23/POJK.04/2014 tentang Pedoman Penerbitan dan Pelaporan Efek Beragun Aset Berbentuk Surat Partisipasi dalam Rangka Pembiayaan Sekunder Perumahan",
+ "about": "Perubahan atas POJK Nomor 23/POJK.04/2014 tentang Pedoman Penerbitan dan Pelaporan Efek Beragun Aset Berbentuk Surat Partisipasi dalam Rangka Pembiayaan Sekunder Perumahan",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "PASAR MODAL DAN PERDAGANGAN BERJANGKA KOMODITI",
+ "field": "Alias",
+ "date_enacted": "2017-06-21",
+ "date_promulgated": "2017-06-22",
+ "date_effective": "2017-06-22",
+ "gazette": "LN.2017/NO.120, TLN NO.6067, Jdih.ojk.go.id: 6 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 357474,
+   "label": "Peraturan OJK No. 12 Tahun 2026",
+   "about": "Penerbitan dan Pelaporan Efek Berbentuk Surat Partisipasi dalam Rangka Pembiayaan Sekunder Perumahan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 22 Juni 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/120618/SAL%20POJK%2020(1).pdf"
+ ],
+ "fetched_at": "2026-10-05T05:30:12Z"
+}

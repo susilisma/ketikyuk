@@ -1,0 +1,44 @@
+{
+ "id": "PP-1970-38",
+ "source": "bpk",
+ "bpk_id": 70113,
+ "url": "https://peraturan.bpk.go.id/Details/70113/pp-no-38-tahun-1970",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "38",
+ "number_raw": "38",
+ "year": 1970,
+ "title": "Peraturan Pemerintah (PP) Nomor 38 Tahun 1970 tentang Pengalihan Bentuk Perusahaan Negara PN Virama Karya Menjadi Perusahaan Perseroan (Persero)",
+ "about": "Pengalihan Bentuk Perusahaan Negara PN Virama Karya Menjadi Perusahaan Perseroan (Persero)",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "Alias",
+ "date_enacted": "1970-09-24",
+ "date_promulgated": "1970-09-24",
+ "date_effective": "1970-09-24",
+ "gazette": "LN. 1970/ No 56 , LL Bphn : 3 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2025-1",
+   "target_bpk_id": 313397,
+   "label": "PP No. 1 Tahun 2025",
+   "about": "Perubahan atas Peraturan Pemerintah Nomor 38 Tahun 1970 tentang Pengalihan Bentuk Perusahaan Negara (PN) Virama Karya Menjadi Perusahaan Perseroan (Persero)"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-1961-56",
+   "target_bpk_id": 72820,
+   "label": "PP No. 56 Tahun 1961",
+   "about": "Pendirian Perusahaan Negara \"Virama Karya\""
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 24 September 1970.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/60545/pp%20no%20038%20tahun%201970.pdf"
+ ],
+ "fetched_at": "2026-10-05T04:59:26Z"
+}

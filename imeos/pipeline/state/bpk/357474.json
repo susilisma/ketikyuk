@@ -1,0 +1,49 @@
+{
+ "id": "POJK-2026-12",
+ "source": "bpk",
+ "bpk_id": 357474,
+ "url": "https://peraturan.bpk.go.id/Details/357474/peraturan-ojk-no-12-tahun-2026-penerbitan-dan-pelaporan-efek-berbentuk-surat-par",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "12",
+ "number_raw": "12",
+ "year": 2026,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 12 Tahun 2026 tentang Penerbitan dan Pelaporan Efek Berbentuk Surat Partisipasi dalam Rangka Pembiayaan Sekunder Perumahan",
+ "about": "Penerbitan dan Pelaporan Efek Berbentuk Surat Partisipasi dalam Rangka Pembiayaan Sekunder Perumahan",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-09-04",
+ "date_promulgated": "2026-09-17",
+ "date_effective": "2026-09-17",
+ "gazette": "BN.2026 (23/69 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 129714,
+   "label": "Peraturan OJK No. 20/POJK.04/2017 Tahun 2017",
+   "about": "Perubahan atas POJK Nomor 23/POJK.04/2014 tentang Pedoman Penerbitan dan Pelaporan Efek Beragun Aset Berbentuk Surat Partisipasi dalam Rangka Pembiayaan Sekunder Perumahan"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 129866,
+   "label": "Peraturan OJK No. 23/POJK.04/2014 Tahun 2014",
+   "about": "Pedoman Penerbitan dan Pelaporan Efek Beragun Aset Berbentuk Surat Partisipasi dalam Rangka Pembiayaan Sekunder Perumahan"
+  }
+ ],
+ "abstract": "a. bahwa untuk mendukung pencapaian target program\nstrategis perumahan nasional, diperlukan perluasan\nsumber pembiayaan bagi sektor perumahan melalui\npenerbitan efek beragun aset berbentuk surat\npartisipasi;\nb. bahwa untuk memenuhi kebutuhan industri sektor\njasa keuangan dalam rangka pembiayaan sektor\nperumahan dan untuk mendorong pengembangan dan\npendalaman pasar efek beragun aset berbentuk surat\npartisipasi, sehingga Peraturan Otoritas Jasa Keuangan\nNomor 23/POJK.04/2014 tentang Pedoman Penerbitan\ndan Pelaporan Efek Beragun Aset Berbentuk Surat\nPartisipasi dalam Rangka Pembiayaan Sekunder\nPerumahan perlu diganti;\nc. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a dan huruf b, perlu\nmenetapkan Peraturan Otoritas Jasa Keuangan tentang\nPenerbitan dan Pelaporan Efek Beragun Aset Berbentuk\nSurat Partisipasi dalam Rangka Pembiayaan Sekunder\nPerumahan;\nUndang-Undang Nomor 8 Tahun 1995, Undang-Undang Nomor 21 Tahun 2011 dan Undang-Undang Nomor 4 Tahun 2023\nPeraturan ini mengatur tentang ketentuan umum, aset keuangan EBA-SP, perjanjian penerbitan EBA-SP, tata cara penerbitan EBA-SP, penawaran EBA-SP, penerbit, wali amanat, bankkustodian, kreditur asal dan penyedia jasa, rapat umum pemegang EBA-SP, ketentuan lain-lain dan ketentuan penutup.",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 17 September 2026.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas:\na. Peraturan Otoritas Jasa Keuangan Nomor\n23/POJK.04/2014 tentang Pedoman Penerbitan dan\nPelaporan Efek Beragun Aset Berbentuk Surat\nPartisipasi dalam Rangka Pembiayaan Sekunder\nPerumahan\nb. Peraturan Otoritas Jasa Keuangan Nomor\n20/POJK.04/2017 tentang Perubahan atas Peraturan\nOtoritas Jasa Keuangan Nomor 23/POJK.04/2014\ntentang Pedoman Penerbitan dan Pelaporan Efek\nBeragun Aset Berbentuk Surat Partisipasi dalam\nRangka Pembiayaan Sekunder Perumahan",
+ "citations": [
+  "POJK-2014-23",
+  "UU-1995-8",
+  "UU-2011-21",
+  "UU-2023-4"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/421522/peraturan-ojk-no-12-tahun-2026.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:30:10Z"
+}

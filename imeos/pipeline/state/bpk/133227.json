@@ -1,0 +1,51 @@
+{
+ "id": "PERMENKUMHAM-2016-3",
+ "source": "bpk",
+ "bpk_id": 133227,
+ "url": "https://peraturan.bpk.go.id/Details/133227/permenkumham-no-3-tahun-2016",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "3",
+ "number_raw": "3",
+ "year": 2016,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 3 Tahun 2016 tentang Tata Cara Pengajuan Permohonan Pengesahan Badan Hukum dan Persetujuan Perubahan Anggaran Dasar Perkumpulan",
+ "about": "Tata Cara Pengajuan Permohonan Pengesahan Badan Hukum dan Persetujuan Perubahan Anggaran Dasar Perkumpulan",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "Alias",
+ "date_enacted": "2016-01-07",
+ "date_promulgated": "2015-01-25",
+ "date_effective": "2015-01-25",
+ "gazette": "BN.2016/No.115, peraturan.go.id : 11 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 326227,
+   "label": "Permenkum No. 18 Tahun 2025",
+   "about": "Tata Cara Pengajuan Permohonan Pengesahan, Persetujuan Perubahan Anggaran Dasar, dan Berakhirnya Status Badan Hukum Perkumpulan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 133125,
+   "label": "Permenkumham No. 10 Tahun 2019",
+   "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Republik Indonesia Nomor 3 Tahun 2016 tentang Tata Cara Pengajuan Permohonan Pengesahan Badan Hukum dan Persetujuan Perubahan Anggaran Dasar Perkumpulan"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133333,
+   "label": "Permenkumham No. 6 Tahun 2014",
+   "about": "Pengesahan Badan Hukum Perkumpulan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 25 Januari 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/124015/Permenkumham%20Nomor%203%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:19:38Z"
+}

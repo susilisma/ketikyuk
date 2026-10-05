@@ -12,7 +12,7 @@
  "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 129/PMK.05/2020 tentang Pedoman Pengelolaan Badan Layanan Umum",
  "issuer": "Kementerian Keuangan",
  "subject": "BADAN LAYANAN UMUM - STANDAR / PEDOMAN",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2022-12-19",
  "date_promulgated": "2022-12-20",
  "date_effective": "2022-12-20",
@@ -40,5 +40,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/286880/202_PMK.05_2022.pdf"
  ],
- "fetched_at": "2026-09-14T06:32:39Z"
+ "fetched_at": "2026-10-05T05:07:07Z"
 }

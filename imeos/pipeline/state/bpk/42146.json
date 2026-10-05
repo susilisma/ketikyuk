@@ -12,7 +12,7 @@
  "about": "Perubahan atas Peraturan Presiden Nomor 10 Tahun 2007 tentang Tata Kerja Dewan Pertimbangan Presiden dan Sekretariat Dewan Pertimbangan Presiden",
  "issuer": "Pemerintah Pusat",
  "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2007-10-31",
  "date_promulgated": null,
  "date_effective": "2007-10-31",
@@ -47,5 +47,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/70867/PERPRES%20NO%2096%20TH%202007.pdf"
  ],
- "fetched_at": "2026-09-14T05:31:48Z"
+ "fetched_at": "2026-10-05T05:00:14Z"
 }

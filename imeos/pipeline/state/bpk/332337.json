@@ -1,0 +1,43 @@
+{
+ "id": "PERMENKUM-2025-32",
+ "source": "bpk",
+ "bpk_id": 332337,
+ "url": "https://peraturan.bpk.go.id/Details/332337/permenkum-no-32-tahun-2025",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "32",
+ "number_raw": "32",
+ "year": 2025,
+ "title": "Peraturan Menteri Hukum Nomor 32 Tahun 2025 tentang Tata Cara Permohonan Perbaikan Data Badan Hukum Perseroan Terbatas, Yayasan, dan Perkumpulan",
+ "about": "Tata Cara Permohonan Perbaikan Data Badan Hukum Perseroan Terbatas, Yayasan, dan Perkumpulan",
+ "issuer": "Kementerian Hukum",
+ "subject": "YAYASAN - STATUTA ORGANISASI / LEMBAGA",
+ "field": "HUKUM PERDATA",
+ "date_enacted": "2025-09-16",
+ "date_promulgated": "2025-10-13",
+ "date_effective": "2025-10-13",
+ "gazette": "BN Tahun 2025 No 811",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133198,
+   "label": "Permenkumham No. 17 Tahun 2017",
+   "about": "Tata Cara Permohonan Perbaikan Data Badan Hukum Perseroan Terbatas, Yayasan, dan Perkumpulan"
+  }
+ ],
+ "abstract": "Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 17 Tahun 2017 tentang Tata Cara Permohonan Perbaikan Data Badan Hukum Perseroan Terbatas, Yayasan, dan Perkumpulan sudah tidak sesuai dengan kebutuhan hukum, sehingga perlu diganti.\nDasar hukum Permenkum ini adalah Pasal 17 ayat (3) UUD NRI Tahun 1945; Staatsblad 1870:64; UU No. 16 Tahun 2001; UU No. 40 Tahun 2007; UU No. 39 Tahun 2008; Perpres No. 155 Tahun 2024; dan Permenkum No. 1 Tahun 2024.\nPermenkum ini mengatur mengenai Tata Cara Permohonan Perbaikan Data Badan Hukum Perseroan Terbatas, Yayasan, dan Perkumpulan. Notaris menyampaikan Data badan hukum kepada Direktur Jenderal melalui Sistem Administrasi Badan Hukum.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 13 Oktober 2025.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 17 Tahun 2017 tentang Tata Cara Permohonan Perbaikan Data Badan Hukum Perseroan Terbatas, Yayasan, dan Perkumpulan (Berita Negara Republik Indonesia Tahun 2017 Nomor 1537), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 6 hlm.",
+ "citations": [
+  "PERMENKUMHAM-2017-17",
+  "UU-2001-16",
+  "UU-2007-40",
+  "UU-2008-39",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/394392/permenkum-no-32-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:18:58Z"
+}

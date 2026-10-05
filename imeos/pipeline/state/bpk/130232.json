@@ -1,0 +1,37 @@
+{
+ "id": "PERMENSOS-2012-7",
+ "source": "bpk",
+ "bpk_id": 130232,
+ "url": "https://peraturan.bpk.go.id/Details/130232/permensos-no-7-tahun-2012",
+ "form": "PERMENSOS",
+ "form_long": "Peraturan Menteri Sosial",
+ "number": "7",
+ "number_raw": "7",
+ "year": 2012,
+ "title": "Peraturan Menteri Sosial Nomor 7 Tahun 2012 tentang Pedoman Pola Mutasi Jabatan Karier Pegawai Negeri Sipil di Lingkungan Kementerian Sosial Republik Indoensia",
+ "about": "Pedoman Pola Mutasi Jabatan Karier Pegawai Negeri Sipil di Lingkungan Kementerian Sosial Republik Indoensia",
+ "issuer": "Kementerian Sosial",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "Alias",
+ "date_enacted": "2012-05-29",
+ "date_promulgated": null,
+ "date_effective": "2012-05-29",
+ "gazette": "BN.2012/NO.566, jdih.kemsos.go.id : 6 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2025-16",
+   "target_bpk_id": 344069,
+   "label": "Permenkes No. 16 Tahun 2025",
+   "about": "Pencabutan Peraturan Menteri Kesehatan Nomor 57 Tahun 2012 tentang Pola Karier Pegawai Negeri Sipil d i Lingkungan Kementerian\r\nKesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Sosial ini mulai berlaku pada tanggal 29 Mei 2012.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/121094/Permensos%2007%20tahun%202012.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:23:29Z"
+}

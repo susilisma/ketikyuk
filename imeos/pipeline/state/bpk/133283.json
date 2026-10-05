@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKUMHAM-2016-60",
+ "source": "bpk",
+ "bpk_id": 133283,
+ "url": "https://peraturan.bpk.go.id/Details/133283/permenkumham-no-60-tahun-2016",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "60",
+ "number_raw": "60",
+ "year": 2016,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 60 Tahun 2016 tentang Tata Cara Pelaporan Wasiat dan Permohonan Penerbitan Surat Keterangan Wasiat Secara Elektronik",
+ "about": "Tata Cara Pelaporan Wasiat dan Permohonan Penerbitan Surat Keterangan Wasiat Secara Elektronik",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA - KELUARGA, PERLINDUNGAN ANAK, PEREMPUAN / WANITA",
+ "field": "Alias",
+ "date_enacted": "2016-12-29",
+ "date_promulgated": "2016-12-30",
+ "date_effective": "2016-12-30",
+ "gazette": "BN.2016/No.2127, peraturan.go.id : 11 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 326183,
+   "label": "Permenkum No. 16 Tahun 2025",
+   "about": "Pelaporan Wasiat dan Permohonan Penerbitan Surat Keterangan Wasiat"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 30 Desember 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/124070/Permenkumham%20Nomor%2060%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:19:43Z"
+}

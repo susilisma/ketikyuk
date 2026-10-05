@@ -1,0 +1,42 @@
+{
+ "id": "PERMENKUM-2025-8",
+ "source": "bpk",
+ "bpk_id": 317305,
+ "url": "https://peraturan.bpk.go.id/Details/317305/permenkum-no-8-tahun-2025",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "8",
+ "number_raw": "8",
+ "year": 2025,
+ "title": "Peraturan Menteri Hukum Nomor 8 Tahun 2025 tentang Layanan Legalisasi Dokumen Publik pada Kementerian Hukum",
+ "about": "Layanan Legalisasi Dokumen Publik pada Kementerian Hukum",
+ "issuer": "Kementerian Hukum",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA - PERIZINAN, PELAYANAN PUBLIK",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-02-21",
+ "date_promulgated": "2025-03-23",
+ "date_effective": "2025-03-23",
+ "gazette": "BN 2025 (226) : 10 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 174106,
+   "label": "Permenkumham No. 19 Tahun 2020",
+   "about": "Layanan Legalisasi Tanda Tangan Pejabat pada Dokumen di Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "Untuk meningkatkan pelayanan jasa hukum dan memberikan kepastian hukum dalam pelaksanaan pelayanan di bidang legalisasi dokumen publik dibutuhkan pedoman layanan legalisasi dokumen publik.\nDasar hukum Permenkum ini adalah Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU No. 11 Tahun 2008; UU No. 39 Tahun 2008; Perpres No. 2 Tahun 2021; Perpres No. 155 Tahun 2024; Permenkum No. 1 Tahun 2024; dan Permenkum No. 2 Tahun 2024.\nPermenkum ini mengatur mengenai Layanan Legalisasi Dokumen Publik pada Kementerian Hukum. Legalisasi Dokumen Publik adalah tindakan untuk mengesahkan kesesuaian tanda tangan Pejabat dan cap atau segel resmi dalam dokumen publik yang dimohonkan berdasarkan verifikasi. Legalisasi sebagaimana terhadap: 1) Dokumen Publik yang diterbitkan di wilayah Indonesia dan akan digunakan di luar wilayah Indonesia; atau 2) Dokumen Publik yang diterbitkan di luar wilayah Indonesia dan akan digunakan di wilayah Indonesia.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 23 Maret 2025.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 19 Tahun 2020 tentang Legalisasi Tanda Tangan Pejabat pada Dokumen Di Kementerian Hukum dan Hak Asasi Manusia (Berita Negara Republik Indonesia Tahun 2020 Nomor 900), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 10 hlm.",
+ "citations": [
+  "UU-2008-11",
+  "UU-2008-39",
+  "PERPRES-2021-2",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/378645/Permenkum%20Nomor%208%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:20:03Z"
+}

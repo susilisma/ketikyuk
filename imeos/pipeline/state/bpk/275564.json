@@ -1,0 +1,43 @@
+{
+ "id": "PERMENKES-2023-31",
+ "source": "bpk",
+ "bpk_id": 275564,
+ "url": "https://peraturan.bpk.go.id/Details/275564/permenkes-no-31-tahun-2023",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "31",
+ "number_raw": "31",
+ "year": 2023,
+ "title": "Peraturan Menteri Kesehatan Nomor 31 Tahun 2023 tentang Penetapan dan Perubahan Penggolongan Psikotropika",
+ "about": "Penetapan dan Perubahan Penggolongan Psikotropika",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "NARKOTIKA",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2023-08-16",
+ "date_promulgated": "2023-08-22",
+ "date_effective": "2023-08-22",
+ "gazette": "BN 2023 (644): 3 hlm: jdih.kemkes.go.id",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2025-6",
+   "target_bpk_id": 322556,
+   "label": "Permenkes No. 6 Tahun 2025",
+   "about": "Penetapan dan Perubahan Penggolongan Psikotropika"
+  }
+ ],
+ "abstract": "Terdapat obat keras yang mempunyai potensi mengakibatkan sindroma ketergantungan yang belum termasuk dalam golongan psikotropika sebagaimana diatur dalam Lampiran Undang-Undang Nomor 5 Tahun1997 tentang Psikotropika dan Peraturan MenteriKesehatan Nomor 10 Tahun 2022 tentang Penetapan dan Perubahan Penggolongan Psikotropika.\nDasar hukum peraturan ini adalah UUD RI Tahun 1945 Pasal 17 ayat (3); UU Nomor 5 Tahun 1997; UU Nomor 39 Tahun 2008; UU Nomor 17 Tahun 2023; Perpres Nomor 18 Tahun 2021; dan Permenkes Nomor 5 Tahun 2022.\nPeraturan Menteri Kesehatan tentang penetapan dan perubahan penggolongan psikotropika dengan daftar psikotropika golongan I, golongan II, golongan III, dan golongan IV>",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 22 Agustus 2023.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Kesehatan Nomor 10 Tahun 2022 tentang Penetapan\ndan Perubahan Penggolongan Psikotropika (Berita Negara Republik Indonesia Tahun 2022 Nomor 422), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 7 hlm. (batang tubuh hlm 1 sd 3; lampiran hlm 4 sd 7)",
+ "citations": [
+  "UU-1997-5",
+  "UU-2008-39",
+  "UU-2023-17",
+  "PERPRES-2021-18",
+  "PERMENKES-2022-5"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/334058/Permenkes%20Nomor%2031%20Tahun%202023.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:24:27Z"
+}

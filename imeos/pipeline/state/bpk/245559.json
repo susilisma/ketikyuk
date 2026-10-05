@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKES-2022-40",
+ "source": "bpk",
+ "bpk_id": 245559,
+ "url": "https://peraturan.bpk.go.id/Details/245559/permenkes-no-40-tahun-2022",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "40",
+ "number_raw": "40",
+ "year": 2022,
+ "title": "Peraturan Menteri Kesehatan Nomor 40 Tahun 2022 tentang Persyaratan Teknis Bangunan, Prasarana, dan Peralatan Kesehatan Rumah Sakit",
+ "about": "Persyaratan Teknis Bangunan, Prasarana, dan Peralatan Kesehatan Rumah Sakit",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - KONSTRUKSI, SIPIL, ARSITEK, BANGUNAN, DAN INFRASTRUKTUR - PERIZINAN, PELAYANAN PUBLIK",
+ "field": "Alias",
+ "date_enacted": "2022-12-21",
+ "date_promulgated": "2022-12-22",
+ "date_effective": "2022-12-22",
+ "gazette": "BN.2022/No.1309, peraturan.go.id: 4 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-6",
+   "target_bpk_id": 350851,
+   "label": "Permenkes No. 6 Tahun 2026",
+   "about": "Rumah Sakit"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 22 Desember 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/301581/Permenkes%20Nomor%2040%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:21:51Z"
+}

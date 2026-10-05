@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKES-2016-75",
+ "source": "bpk",
+ "bpk_id": 114631,
+ "url": "https://peraturan.bpk.go.id/Details/114631/permenkes-no-75-tahun-2016",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "75",
+ "number_raw": "75",
+ "year": 2016,
+ "title": "Peraturan Menteri Kesehatan Nomor 75 Tahun 2016 tentang Penyelenggaraan Uji Mutu Obat pada Instalasi Farmasi Pemerintah",
+ "about": "Penyelenggaraan Uji Mutu Obat pada Instalasi Farmasi Pemerintah",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - PERLINDUNGAN KONSUMEN",
+ "field": "Alias",
+ "date_enacted": "2016-12-23",
+ "date_promulgated": "2017-01-09",
+ "date_effective": "2017-01-09",
+ "gazette": "BN.2017/NO. 51, kemkes.go.id : 7 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-5",
+   "target_bpk_id": 350852,
+   "label": "Permenkes No. 5 Tahun 2026",
+   "about": "Perbekalan Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2016-33",
+   "target_bpk_id": 113064,
+   "label": "Permenkes No. 33 Tahun 2016",
+   "about": "Penyelenggaraan Uji Mutu Obat Pada Instalasi Farmasi Pemerintah"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 09 Januari 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/105580/Permenkes%20Nomor%2075%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:22:19Z"
+}

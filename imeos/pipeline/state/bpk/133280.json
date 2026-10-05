@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKUMHAM-2016-57",
+ "source": "bpk",
+ "bpk_id": 133280,
+ "url": "https://peraturan.bpk.go.id/Details/133280/permenkumham-no-57-tahun-2016",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "57",
+ "number_raw": "57",
+ "year": 2016,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 57 Tahun 2016 tentang Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 25 Tahun 2012 tentang Penanganan Laporan Pengaduan di Lingkungan Kementerian Hukum dan Hak Asasi Manusia",
+ "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 25 Tahun 2012 tentang Penanganan Laporan Pengaduan di Lingkungan Kementerian Hukum dan Hak Asasi Manusia",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA - KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "Alias",
+ "date_enacted": "2016-12-29",
+ "date_promulgated": "2016-12-30",
+ "date_effective": "2016-12-30",
+ "gazette": "BN.2016/No.2124, peraturan.go.id: 10 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 357114,
+   "label": "Permenkum No. 4 Tahun 2026",
+   "about": "Pengelolaan Laporan Pengaduan"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 134416,
+   "label": "Permenkumham No. 25 Tahun 2012",
+   "about": "Penanganan Laporan Pengaduan di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 30 Desember 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/124067/Permenkumham%20Nomor%2057%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:17:19Z"
+}

@@ -1,0 +1,51 @@
+{
+ "id": "PMK-2018-175",
+ "source": "bpk",
+ "bpk_id": 113526,
+ "url": "https://peraturan.bpk.go.id/Details/113526/pmk-no-175pmk052018",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "175",
+ "number_raw": "175/PMK.05/2018",
+ "year": 2018,
+ "title": "Peraturan Menteri Keuangan Nomor 175/PMK.05/2018 Tahun 2018 tentang Tarif Layanan Badan Layanan Umum Politeknik Ilmu Pelayaran Semarang Pada Kementerian Perhubungan",
+ "about": "Tarif Layanan Badan Layanan Umum Politeknik Ilmu Pelayaran Semarang Pada Kementerian Perhubungan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BADAN LAYANAN UMUM",
+ "field": "Alias",
+ "date_enacted": "2018-12-21",
+ "date_promulgated": "2018-12-21",
+ "date_effective": "2019-01-05",
+ "gazette": "BN.2018/NO.1725, jdih.kemenkeu.go.id : 20 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-22",
+   "target_bpk_id": 316120,
+   "label": "PMK No. 22 Tahun 2025",
+   "about": "Tarif Layanan Badan Layanan Umum Bidang Pendidikan dan Pelatihan Sumber Daya Manusia Perhubungan Pada Kementerian Perhubungan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2016-54",
+   "target_bpk_id": 144971,
+   "label": "PMK No. 54/PMK.05/2016",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 97/PMK.05/2014 tentang Tarif Layanan Badan Layanan Umum Politeknik Ilmu Pelayaran Semarang Pada Kementerian Perhubungan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2014-97",
+   "target_bpk_id": 144973,
+   "label": "PMK No. 97/PMK.05/2014",
+   "about": "Tarif Layanan Badan Layanan Umum Politeknik Ilmu Pelayaran Semarang pada Kementerian Perhubungan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 05 Januari 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/104482/PMK%20Nomor%20175%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:09:11Z"
+}

@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKUMHAM-2016-5",
+ "source": "bpk",
+ "bpk_id": 133229,
+ "url": "https://peraturan.bpk.go.id/Details/133229/permenkumham-no-5-tahun-2016",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "5",
+ "number_raw": "5",
+ "year": 2016,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 5 Tahun 2016 tentang Tata Cara Pengangkatan, Pelantikan dan Pengambilan Sumpah Atau Janji, Mutasi, Pemberhentian, dan Pengangkatan Kembali Pejabat Penyidik Pegawai Negeri Sipil, Serta Kartu Tanda Pengenal Pejabat Penyidik Pegawai Negeri Sipil",
+ "about": "Tata Cara Pengangkatan, Pelantikan dan Pengambilan Sumpah Atau Janji, Mutasi, Pemberhentian, dan Pengangkatan Kembali Pejabat Penyidik Pegawai Negeri Sipil, Serta Kartu Tanda Pengenal Pejabat Penyidik Pegawai Negeri Sipil",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "Alias",
+ "date_enacted": "2016-01-19",
+ "date_promulgated": "2016-01-20",
+ "date_effective": "2016-01-20",
+ "gazette": "BN.2016/No.87, peraturan.go.id : 22 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 326272,
+   "label": "Permenkum No. 26 Tahun 2025",
+   "about": "Tata Cara Pengangangkatan, Pelantikan dan Pengambilan Sumpah atau Janji, Mutasi, Pemberhentian, dan Pengangkatan Kembali, Pejabat Penyidik Pegawai Negeri Sipil, serta Kartu Tanda Pengenal Pejabat Penyidik Pegawai Negeri Sipil"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 134417,
+   "label": "Permenkumham No. M.HH.01.AH.09.01 Tahun 2011",
+   "about": "Tata Cara Pengangkatan, Pemberhentian, Mutasi, dan Pengambilan Sumpah atau Janji Pejabat Penyidik Pegawai Negeri Sipil, dan Bentuk, Ukuran, Warna, Format, Serta Penerbitan Kartu Tanda Pengenal Pejabat Penyidik Pegawai Negeri Sipil"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 20 Januari 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/124017/Permenkumham%20Nomor%205%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:19:18Z"
+}

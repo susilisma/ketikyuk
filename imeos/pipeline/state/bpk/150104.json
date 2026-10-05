@@ -1,0 +1,72 @@
+{
+ "id": "PERMENKOMINFO-2017-7",
+ "source": "bpk",
+ "bpk_id": 150104,
+ "url": "https://peraturan.bpk.go.id/Details/150104/permenkominfo-no-7-tahun-2017",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Informatika",
+ "number": "7",
+ "number_raw": "7",
+ "year": 2017,
+ "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 7 Tahun 2017 tentang Persyaratan dan Tata Cara Pemberian Izin Penyelenggaraan Pos",
+ "about": "Persyaratan dan Tata Cara Pemberian Izin Penyelenggaraan Pos",
+ "issuer": "Kementerian Komunikasi dan Informatika",
+ "subject": "PERS, POS, DAN PERIKLANAN - TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET",
+ "field": "Alias",
+ "date_enacted": "2017-01-24",
+ "date_promulgated": "2017-02-07",
+ "date_effective": "2017-02-07",
+ "gazette": "BN.2017/NO.232, KOMINFO.GO.ID : 24 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 319703,
+   "label": "Permenkomdigi No. 8 Tahun 2025",
+   "about": "Layanan Pos Komersial"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": null,
+   "target_bpk_id": 259751,
+   "label": "Permenkominfo No. 3 Tahun 2023",
+   "about": "Penyelenggaraan Pos Dinas Lainnya"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": null,
+   "target_bpk_id": 203115,
+   "label": "Permenkominfo No. 4 Tahun 2021",
+   "about": "Penyelenggaraan Pos"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 150530,
+   "label": "Permenkominfo No. 9 Tahun 2016",
+   "about": "Perubahan Kedua atas Peraturan Menteri Komunikasi dan Informatika Nomor 32 Tahun 2014 tentang Persyaratan dan Tata Cara Pemberian Izin Penyelenggaraan Pos"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 150684,
+   "label": "Permenkominfo No. 9 Tahun 2015",
+   "about": "Perubahan Atas Peraturan Menteri Komunikasi Dan Informatika Nomor 32 Tahun 2014 Tentang Persyaratan Dan Tata Cara Pemberian Izin Penyelenggaraan Pos"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 161755,
+   "label": "Permenkominfo No. 32 Tahun 2014",
+   "about": "Persyaratan dan Tata Cara Pemberian Izin Penyelenggaraan Pos"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Komunikasi dan Informatika ini mulai berlaku pada tanggal 07 Februari 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/142271/Permen%20Kominfo%20Nomor%207%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:16:42Z"
+}

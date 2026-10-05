@@ -1,0 +1,39 @@
+{
+ "id": "PERMENKOMINFO-2025-15",
+ "source": "bpk",
+ "bpk_id": 334803,
+ "url": "https://peraturan.bpk.go.id/Details/334803/permenkomdigi-no-15-tahun-2025",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Digital",
+ "number": "15",
+ "number_raw": "15",
+ "year": 2025,
+ "title": "Peraturan Menteri Komunikasi dan Digital Nomor 15 Tahun 2025 tentang Standar Kegiatan Usaha dan Standar Produk/Jasa pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Pos, Telekomunikasi, dan Penyiaran serta Sektor Penyelenggaraan Sistem dan Transaksi Elektronik",
+ "about": "Standar Kegiatan Usaha dan Standar Produk/Jasa pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Pos, Telekomunikasi, dan Penyiaran serta Sektor Penyelenggaraan Sistem dan Transaksi Elektronik",
+ "issuer": "Kementerian Komunikasi dan Digital",
+ "subject": "STANDAR / PEDOMAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-10-20",
+ "date_promulgated": "2025-10-22",
+ "date_effective": "2025-10-22",
+ "gazette": "BN 2025 (851); 142 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 203114,
+   "label": "Permenkominfo No. 3 Tahun 2021",
+   "about": "Standar Kegiatan Usaha dan Standar Produk pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Pos, Telekomunikasi, dan Sistem dan Transaksi Elektronik"
+  }
+ ],
+ "abstract": "bahwa untuk melaksanakan ketentuan Pasal 5 ayat (7)\nPeraturan Pemerintah Nomor 28 Tahun 2025 tentang\nPenyelenggaraan Perizinan Berusaha Berbasis Risiko\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD 1945;\nUU 39/2008 sebagaimana diubah dengan UU 61/2024;\nUU 6/2023;\nPP 28/2025;\nPerpres 174/2024;\nPermen Komdigi 1/2025.\nPeraturan ini mengatur mengenai standar kegiatan usaha dan standar produk/jasa\npada penyelenggaraan PBBR sektor pos, telekomunikasi, dan\npenyiaran serta sektor penyelenggaraan sistem dan transaksi\nelektronik",
+ "note": "Peraturan Menteri Komunikasi dan Digital ini mulai berlaku pada tanggal 22 Oktober 2025.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan\nMenteri Komunikasi dan Informatika Nomor 3 Tahun 2021\ntentang Standar Kegiatan Usaha dan Standar Produk pada\nPenyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor\nPos, Telekomunikasi, dan Sistem dan Transaksi Elektronik\n(Berita Negara Republik Indonesia Tahun 2021 Nomor 265),\ndicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "PP-2025-28"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/397370/Permenkomdigi%2015%20tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:16:25Z"
+}

@@ -1,0 +1,43 @@
+{
+ "id": "PERBPOM-2025-5",
+ "source": "bpk",
+ "bpk_id": 313857,
+ "url": "https://peraturan.bpk.go.id/Details/313857/peraturan-bpom-no-5-tahun-2025",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "5",
+ "number_raw": "5",
+ "year": 2025,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 5 Tahun 2025 tentang Pelatihan Fungsional Pengawas Farmasi dan Makanan",
+ "about": "Pelatihan Fungsional Pengawas Farmasi dan Makanan",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "PENDIDIKAN DAN PELATIHAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-01-21",
+ "date_promulgated": "2025-02-06",
+ "date_effective": "2025-02-06",
+ "gazette": "BN 2025 (82)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 181781,
+   "label": "Peraturan BPOM No. 17 Tahun 2020",
+   "about": "Pelatihan Jabatan Fungsional Pengawas Farmasi dan Makanan Kategori Keahlian Jenjang Ahli Pertama"
+  }
+ ],
+ "abstract": "bahwa ketentuan mengenai pelatihan fungsional\nPengawas Farmasi dan Makanan sebagaimana diatur\ndalam Peraturan Badan Pengawas Obat dan Makanan\nNomor 17 Tahun 2020 tentang Pelatihan Jabatan\nFungsional Pengawas Farmasi dan Makanan Kategori\nKeahlian Jenjang Ahli Pertama, sudah tidak sesuai\ndengan perkembangan hukum dan kebutuhan\norganisasi, sehingga perlu diganti\nDasar hukum peraturan ini adalah UU Nomor 20 Tahun 2023; PP Nomor 11 Tahun 2017 sebagaimana telah diubah dengan PP Nomor 17 Tahun 2020; Perpres Nomor 80 Tahun 2017; Peraturan BPOM Nomor 21 Tahun 2020 sebagaimana telah diubah dengan Peraturan BPOM Nomor 13 Tahun 2022; Permenpan Nomor 1 Tahun 2023; Peraturan BPOM Nomor 19 Tahun 2023; Permenpan Nomor 13 Tahun 2024\nPeraturan ini mengatur mengenai Penyelenggaraan Pelatihan Fungsional Pelatihan Fungsional Pengawas Farmasi dan Makanan, yang terdiri atas Pelatihan Fungsional PFM bagi Pejabat Fungsional\nPFM yang diangkat melalui pengangkatan pertama;\nPelatihan Fungsional PFM bagi Pejabat Fungsional\nPFM yang diangkat melalui perpindahan dari jabatan\nlain; dan\nPelatihan Fungsional PFM bagi Pejabat Fungsional\nPFM yang diangkat melalui promosi; pendanaan",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 06 Februari 2025.\nPada saat Peraturan Badan ini mulai berlaku, Peraturan Badan\nPengawas Obat dan Makanan Nomor 17 Tahun 2020 tentang\nPelatihan Jabatan Fungsional Pengawas Farmasi dan\nMakanan Kategori Keahlian Jenjang Ahli Pertama (Berita\nNegara Republik Indonesia Tahun 2020 Nomor 787), dicabut\ndan dinyatakan tidak berlaku.",
+ "citations": [
+  "PERBPOM-2020-17",
+  "UU-2023-20",
+  "PP-2017-11",
+  "PP-2020-17",
+  "PERPRES-2017-80"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/374756/peraturan-bpom-no-5-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:29:22Z"
+}

@@ -1,0 +1,43 @@
+{
+ "id": "PERMENIMIPAS-2025-6",
+ "source": "bpk",
+ "bpk_id": 316861,
+ "url": "https://peraturan.bpk.go.id/Details/316861/permen-imipas-no-6-tahun-2025",
+ "form": "PERMENIMIPAS",
+ "form_long": "Peraturan Menteri Imigrasi dan Pemasyarakatan",
+ "number": "6",
+ "number_raw": "6",
+ "year": 2025,
+ "title": "Peraturan Menteri Imigrasi dan Pemasyarakatan Nomor 6 Tahun 2025 tentang Pencabutan Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 35 Tahun 2021 tentang Konsultan Keimigrasian",
+ "about": "Pencabutan Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 35 Tahun 2021 tentang Konsultan Keimigrasian",
+ "issuer": "Kementerian Imigrasi dan Pemasyarakatan",
+ "subject": "KEWARGANEGARAAN DAN IMIGRASI",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2025-02-07",
+ "date_promulgated": "2025-03-07",
+ "date_effective": "2025-03-07",
+ "gazette": "BN 2025 (159) : 3 hlm.; https://kemenimipas.go.id/",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 203699,
+   "label": "Permenkumham No. 35 Tahun 2021",
+   "about": "Konsultan Keimigrasian"
+  }
+ ],
+ "abstract": "Untuk mewujudkan tata kelola pelayanan di bidang keimigrasian yang lebih baik, efektif, dan efisien, perlu mencabut Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 35 Tahun 2021 tentang Konsultan Keimigrasian karena sudah tidak sesuai dengan perkembangan hukum dan kebutuhan organisasi.\nDasar hukum Permen Imipas ini adalah Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU No. 39 Tahun 2008; UU No. 6 Tahun 2011; PP No. 31 Tahun 2013; Perpres No. 157 Tahun 2024; dan Permen Imipas No. 1 Tahun 2024.\nPeraturan Menteri Hukum dan Hak Asasi Manusia Nomor 35 Tahun 2021 tentang Konsultan Keimigrasian (Berita Negara Republik Indonesia Tahun 2021 Nomor 1063), dicabut dan dinyatakan tidak berlaku.",
+ "note": "Peraturan Menteri Imigrasi dan Pemasyarakatan ini mulai berlaku pada tanggal 07 Maret 2025.",
+ "citations": [
+  "PERMENKUMHAM-2021-35",
+  "UU-2008-39",
+  "UU-2011-6",
+  "PP-2013-31",
+  "PERPRES-2024-157"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/378169/Permen%20Imipas%20Nomor%206%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:21:03Z"
+}

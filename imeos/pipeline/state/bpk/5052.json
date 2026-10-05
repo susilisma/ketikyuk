@@ -12,7 +12,7 @@
  "about": "Administrasi Prajurit Tentara Nasional Indonesia",
  "issuer": "Pemerintah Pusat",
  "subject": "ADMINISTRASI DAN TATA USAHA NEGARA",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2010-03-01",
  "date_promulgated": "2010-03-12",
  "date_effective": "2010-03-12",
@@ -54,5 +54,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/35938/PP%2039%20Tahun%202010.pdf"
  ],
- "fetched_at": "2026-09-14T05:28:22Z"
+ "fetched_at": "2026-10-05T04:57:12Z"
 }

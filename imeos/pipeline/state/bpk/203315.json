@@ -1,0 +1,72 @@
+{
+ "id": "PERMENKES-2021-14",
+ "source": "bpk",
+ "bpk_id": 203315,
+ "url": "https://peraturan.bpk.go.id/Details/203315/permenkes-no-14-tahun-2021",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "14",
+ "number_raw": "14",
+ "year": 2021,
+ "title": "Peraturan Menteri Kesehatan Nomor 14 Tahun 2021 tentang Standar Kegiatan Usaha dan Produk pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Kesehatan",
+ "about": "Standar Kegiatan Usaha dan Produk pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Kesehatan",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - PERIZINAN, PELAYANAN PUBLIK - CIPTA KERJA",
+ "field": "Alias",
+ "date_enacted": "2021-04-01",
+ "date_promulgated": "2021-04-01",
+ "date_effective": "2021-04-01",
+ "gazette": "BN.2021/No.316, peraturan.go.id: 4 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2025-11",
+   "target_bpk_id": 335213,
+   "label": "Permenkes No. 11 Tahun 2025",
+   "about": "Standar Kegiatan Usaha dan Standar Produk/Jasa pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Subsektor Kesehatan"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2024-19",
+   "target_bpk_id": 312837,
+   "label": "Permenkes No. 19 Tahun 2024",
+   "about": "Penyelenggaraan Pusat Kesehatan Masyarakat"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PERMENKES-2024-19",
+   "target_bpk_id": 312837,
+   "label": "Permenkes No. 19 Tahun 2024",
+   "about": "Penyelenggaraan Pusat Kesehatan Masyarakat"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENKES-2024-17",
+   "target_bpk_id": 308446,
+   "label": "Permenkes No. 17 Tahun 2024",
+   "about": "Perubahan Kedua atas Peraturan Menteri Kesehatan Nomor 14 Tahun 2021\r\ntentang Standar Kegiatan Usaha dan Produk pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Kesehatan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENKES-2022-8",
+   "target_bpk_id": 218295,
+   "label": "Permenkes No. 8 Tahun 2022",
+   "about": "Perubahan atas Peraturan Menteri Kesehatan Nomor 14 Tahun 2021 tentang Standar Kegiatan Usaha dan Produk pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2016-24",
+   "target_bpk_id": 139483,
+   "label": "Permenkes No. 24 Tahun 2016",
+   "about": "Persyaratan Teknis Bangunan dan Prasarana Rumah Sakit"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 01 April 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/197284/Permenkes%20Nomor%2014%20Tahun%202021_compressed.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:24:18Z"
+}

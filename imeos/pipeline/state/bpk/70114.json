@@ -1,0 +1,44 @@
+{
+ "id": "PP-1970-39",
+ "source": "bpk",
+ "bpk_id": 70114,
+ "url": "https://peraturan.bpk.go.id/Details/70114/pp-no-39-tahun-1970",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "39",
+ "number_raw": "39",
+ "year": 1970,
+ "title": "Peraturan Pemerintah (PP) Nomor 39 Tahun 1970 tentang Pengalihan Bentuk Perusahaan Negara (P.N.) Yodya Karya Menjadi Perusahaan Perseroan (Persero)",
+ "about": "Pengalihan Bentuk Perusahaan Negara (P.N.) Yodya Karya Menjadi Perusahaan Perseroan (Persero)",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "Alias",
+ "date_enacted": "1970-09-24",
+ "date_promulgated": "1970-09-24",
+ "date_effective": "1970-09-24",
+ "gazette": "LN. 1970/ No 57 , LL Bphn : 3 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2025-2",
+   "target_bpk_id": 313398,
+   "label": "PP No. 2 Tahun 2025",
+   "about": "Perubahan atas Peraturan Pemerintah Nomor 39 Tahun 1970 tentang Pengalihan Bentuk Perusahaan Negara (PN) Yodya Karya Menjadi Perusahaan Perseroan (Persero)"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-1961-58",
+   "target_bpk_id": 72823,
+   "label": "PP No. 58 Tahun 1961",
+   "about": "Pendirian Perusahaan Negara \"Yodya Karya\""
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 24 September 1970.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/60546/pp%20no%20039%20tahun%201970.pdf"
+ ],
+ "fetched_at": "2026-10-05T04:59:24Z"
+}

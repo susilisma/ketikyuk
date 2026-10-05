@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKOMINFO-2015-5",
+ "source": "bpk",
+ "bpk_id": 161762,
+ "url": "https://peraturan.bpk.go.id/Details/161762/permenkominfo-no-5-tahun-2015",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Informatika",
+ "number": "5",
+ "number_raw": "5",
+ "year": 2015,
+ "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 5 Tahun 2015 tentang Registrar Nama Domain Instansi Penyelenggara Negara",
+ "about": "Registrar Nama Domain Instansi Penyelenggara Negara",
+ "issuer": "Kementerian Komunikasi dan Informatika",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA - TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET",
+ "field": "Alias",
+ "date_enacted": "2015-02-06",
+ "date_promulgated": "2015-02-06",
+ "date_effective": "2015-02-06",
+ "gazette": "BN.2015/No.209, jdih.kominfo.go.id : 10 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 317335,
+   "label": "Permenkomdigi No. 5 Tahun 2025",
+   "about": "Penyelenggara Sistem Elektronik Lingkup Publik"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 160512,
+   "label": "Permenkominfo No. 28/PER/M.KOMINFO/9/2006 Tahun 2006",
+   "about": "Penggunaan Nama Domain go.id Untuk Situs Web Resmi Pemerintahan Pusat dan Daerah"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Komunikasi dan Informatika ini mulai berlaku pada tanggal 06 Februari 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/154429/Kemen%20Kominfo%20Nomor%205%20Tahun%202015.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:16:49Z"
+}

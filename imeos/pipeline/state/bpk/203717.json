@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKUMHAM-2022-8",
+ "source": "bpk",
+ "bpk_id": 203717,
+ "url": "https://peraturan.bpk.go.id/Details/203717/permenkumham-no-8-tahun-2022",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "8",
+ "number_raw": "8",
+ "year": 2022,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 8 Tahun 2022 tentang Intelijen Keimigrasian",
+ "about": "Intelijen Keimigrasian",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "KEWARGANEGARAAN DAN IMIGRASI",
+ "field": "Alias",
+ "date_enacted": "2022-02-03",
+ "date_promulgated": "2022-02-10",
+ "date_effective": "2022-02-10",
+ "gazette": "BN.2022/No.165, peraturan.go.id: 18 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 352495,
+   "label": "Permen Imipas No. 7 Tahun 2026",
+   "about": "Intelijen Keimigrasian"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133254,
+   "label": "Permenkumham No. 30 Tahun 2016",
+   "about": "Intelijen Keimigrasian"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 10 Februari 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/197693/Nomor%208%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:20:36Z"
+}

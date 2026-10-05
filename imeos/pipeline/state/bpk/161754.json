@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKOMINFO-2014-31",
+ "source": "bpk",
+ "bpk_id": 161754,
+ "url": "https://peraturan.bpk.go.id/Details/161754/permenkominfo-no-31-tahun-2014",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Informatika",
+ "number": "31",
+ "number_raw": "31",
+ "year": 2014,
+ "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 31 Tahun 2014 tentang Rencana Induk (Masterplan) Frekuensi Radio Penyelenggaraan Telekomunikasi Khusus untuk Keperluan Televisi Siaran Analog pada Pita Ultra High Frequency",
+ "about": "Rencana Induk (Masterplan) Frekuensi Radio Penyelenggaraan Telekomunikasi Khusus untuk Keperluan Televisi Siaran Analog pada Pita Ultra High Frequency",
+ "issuer": "Kementerian Komunikasi dan Informatika",
+ "subject": "TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET",
+ "field": "Alias",
+ "date_enacted": "2014-09-17",
+ "date_promulgated": "2014-09-22",
+ "date_effective": "2014-09-22",
+ "gazette": "BN.2014/No.1351, peraturan.go.id : 10 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 346039,
+   "label": "Permenkomdigi No. 8 Tahun 2026",
+   "about": "Tabel Alokasi Spektrum Frekuensi Radio Indonesia"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 158684,
+   "label": "Permenkominfo No. 12/PER/M.KOMINFO/2/2009 Tahun 2009",
+   "about": "Perubahan atas Keputusan Menteri Perhubungan Nomor : KM.76 Tahun 2003 tentang Rencana Induk (Master Plan) Frekuensi Radio Penyelenggaraan Telekomunikasi Khusus untuk Keperluan Televisi Siaran Analog pada Pita Ultra High Frequency (UHF)"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Komunikasi dan Informatika ini mulai berlaku pada tanggal 22 September 2014.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/154419/Kemen%20Kominfo%20Nomor%2031%20Tahun%202014.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:15:51Z"
+}

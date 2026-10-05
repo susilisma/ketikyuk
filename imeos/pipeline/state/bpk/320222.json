@@ -1,0 +1,40 @@
+{
+ "id": "PERBPOM-2025-12",
+ "source": "bpk",
+ "bpk_id": 320222,
+ "url": "https://peraturan.bpk.go.id/Details/320222/peraturan-bpom-no-12-tahun-2025",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "12",
+ "number_raw": "12",
+ "year": 2025,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 12 Tahun 2025 tentang Obat-Obat Tertentu yang Sering Disalahgunakan",
+ "about": "Obat-Obat Tertentu yang Sering Disalahgunakan",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "KESEHATAN",
+ "field": "HUKUM PIDANA",
+ "date_enacted": "2025-04-23",
+ "date_promulgated": "2025-05-02",
+ "date_effective": "2025-05-02",
+ "gazette": "BN 2025 (300); 8 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 182037,
+   "label": "Peraturan BPOM No. 10 Tahun 2019",
+   "about": "Pedoman Pengelolaan Obat-obat Tertentu yang Sering Disalahgunakan"
+  }
+ ],
+ "abstract": "bahwa Peraturan Badan Pengawas Obat dan Makanan\nNomor 10 Tahun 2019 tentang Pedoman Pengelolaan\nObat-Obat Tertentu yang Sering Disalahgunakan sudah\ntidak sesuai dengan kebutuhan hukum, sehingga perlu\ndiganti\nDasar hukum peraturan ini adalah Perpres Nomor 80 Tahun 2017; Peraturan BPOM Nomor 21 Tahun 2020 sebagaimana telah diubah dengan Peraturan BPOM Nomor 13 Tahun 2022; Peraturan BPOM Nomor 13 Tahun 2022; Peraturan BPOM Nomor 19 Tahun 2023\nPeraturan ini mengatur mengenai obat-obatan tertentu yang merupakan Obat atau Bahan Obat yang mengandung bahan aktif; industri farmasi,Pedagang Besar Farmasi, Pedagang Besar Farmasi Cabang, Fasilitas\nPengelolaan Kefarmasian, fasilitas pelayanan\nkefarmasian, dan/atau fasilitas lain dalam melakukan\nkegiatan peredaran Obat-Obat Tertentu; Kegiatan pengadaan, penyimpanan, dan/atau penyaluran Obat-Obat Tertentu; Sanksi pelanggaran",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 02 Mei 2025.",
+ "citations": [
+  "PERBPOM-2019-10",
+  "PERPRES-2017-80"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/381859/peraturan-bpom-no-12-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:29:07Z"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "PP-2025-6",
+ "source": "bpk",
+ "bpk_id": 314623,
+ "url": "https://peraturan.bpk.go.id/Details/314623/pp-no-6-tahun-2025",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "6",
+ "number_raw": "6",
+ "year": 2025,
+ "title": "Peraturan Pemerintah (PP) Nomor 6 Tahun 2025 tentang Perubahan atas Peraturan Pemerintah Nomor 37 Tahun 2021 tentang Penyelenggaraan Program Jaminan Kehilangan Pekerjaan",
+ "about": "Perubahan atas Peraturan Pemerintah Nomor 37 Tahun 2021 tentang Penyelenggaraan Program Jaminan Kehilangan Pekerjaan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KETENAGAKERJAAN",
+ "field": "HUKUM PERBURUHAN",
+ "date_enacted": "2025-02-07",
+ "date_promulgated": "2025-02-07",
+ "date_effective": "2025-02-07",
+ "gazette": "LN 2025 (14), TLN (7093) : 10 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PP-2021-37",
+   "target_bpk_id": 161919,
+   "label": "PP No. 37 Tahun 2021",
+   "about": "Penyelenggaraan Program Jaminan Kehilangan Pekerjaan"
+  }
+ ],
+ "abstract": "Ketentuan mengenai jaminan kehilangan pekerjaan sebagaimana telah diatur dalam Peraturan Pemerintah Nomor 37 Tahun 2021 tentang Penyelenggaraan Program Jaminan Kehilangan Pekerjaan tidak sesuai dengan kebutuhan dilapangan, sehingga perlu diubah.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD NRI Tahun 1945; UU Nomor 13 Tahun 2003; UU Nomor 40 Tahun 2004; UU Nomor 24 Tahun 2011; dan PP Nomor 37 Tahun 2021.\nPP ini mengubah beberapa ketentuan dalam PP Nomor 37 Tahun 2021. Perubahan Peraturan Pemerintah Nomor 37 Tahun 2021 ini mencakup perubahan atas ketentuan mengenai syarat kepesertaan, kadaluarsa klaim, syarat mengiur, dan bukti Pemutusan Hubungan Kerja. Tujuan perubahan Peraturan Pemerintah ini adalah untuk mengoptimalkan pelindungan pekerja mengalami Pemutusan Hubungan Kerja melalui program JKP serta mengurangi risiko sosial bagi pekerja yang mengalami Pemutusan Hubungan Kerja di tengah kondisi perekonomian saat ini dan tingginya tingkat Pemutusan Hubungan Kerja yang terjadi di perusahaan.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 07 Februari 2025.\nPP ini mengubah PP Nomor 37 Tahun 2021.\nLampiran file: 16 hlm. (batang tubuh hlm 1 s.d. 10 dan penjelasan hlm 11 s.d. 16)",
+ "citations": [
+  "PP-2021-37",
+  "UU-2003-13",
+  "UU-2004-40",
+  "UU-2011-24"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/375603/PP%20Nomor%206%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T04:59:17Z"
+}

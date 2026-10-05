@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKES-2017-12",
+ "source": "bpk",
+ "bpk_id": 111977,
+ "url": "https://peraturan.bpk.go.id/Details/111977/permenkes-no-12-tahun-2017",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "12",
+ "number_raw": "12",
+ "year": 2017,
+ "title": "Peraturan Menteri Kesehatan Nomor 12 Tahun 2017 tentang Penyelenggaraan Imunisasi",
+ "about": "Penyelenggaraan Imunisasi",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - PROGRAM, RENCANA PEMBANGUNAN DAN RENCANA KERJA",
+ "field": "Alias",
+ "date_enacted": "2017-02-06",
+ "date_promulgated": "2017-04-11",
+ "date_effective": "2017-04-11",
+ "gazette": "BN.2017/NO.559, kemenkes.go.id : 162 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-3",
+   "target_bpk_id": 350854,
+   "label": "Permenkes No. 3 Tahun 2026",
+   "about": "Penanggulangan Penyakit"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PERMENKES-2026-3",
+   "target_bpk_id": 350854,
+   "label": "Permenkes No. 3 Tahun 2026",
+   "about": "Penanggulangan Penyakit"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 11 April 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/102930/Permenkes%20Nomor%2012%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:23:05Z"
+}

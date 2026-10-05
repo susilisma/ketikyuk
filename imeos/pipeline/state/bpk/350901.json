@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKUM-2025-49",
+ "source": "bpk",
+ "bpk_id": 350901,
+ "url": "https://peraturan.bpk.go.id/Details/350901/permenkum-no-49-tahun-2025",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "49",
+ "number_raw": "49",
+ "year": 2025,
+ "title": "Peraturan Menteri Hukum Nomor 49 Tahun 2025 tentang Syarat dan Tata Cara Pendirian, Perubahan, dan Pembubaran Badan Hukum Perseroan Terbatas",
+ "about": "Syarat dan Tata Cara Pendirian, Perubahan, dan Pembubaran Badan Hukum Perseroan Terbatas",
+ "issuer": "Kementerian Hukum",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "HUKUM PERDATA",
+ "date_enacted": "2025-12-11",
+ "date_promulgated": "2025-12-17",
+ "date_effective": "2025-12-17",
+ "gazette": "BN 2025 (1076): 16 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 174160,
+   "label": "Permenkumham No. 21 Tahun 2021",
+   "about": "Syarat dan Tata Cara Pendaftaran Pendirian, Perubahan, dan Pembubaran Badan Hukum Perseroan Terbatas"
+  }
+ ],
+ "abstract": "Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 21 Tahun 2021 tentang Syarat dan Tata Cara Pendaftaran Pendirian, Perubahan, dan Pembubaran Badan Hukum Perseroan Terbatas belum sesuai dengan perkembangan hukum saat ini, sehingga perlu diganti.\nDasar hukum Permenkum ini adalah Pasal 17 ayat (3) UUD 1945; UU No. 40 Tahun 2007; UU No. 39 Tahun 2008; PP No. 43 Tahun 2011; PP No. 8 Tahun 2021; Perpres No. 155 Tahun 2024; dan Permenkum No. 1 Tahun 2024.\nPermenkum ini mengatur mengenai Syarat dan Tata Cara Pendirian, Perubahan, dan Pembubaran Badan Hukum Perseroan Terbatas. Permohonan pendirian, perubahan, dan pembubaran badan hukum Perseroan diajukan oleh pemohon kepada Menteri melalui Direktur Jenderal Administrasi Hukum Umum. Permohonan dimaksud dikenakan tarif sesuai dengan ketentuan peraturan perundang-undangan di bidang penerimaan negara bukan pajak yang berlaku pada Kementerian Hukum.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 17 Desember 2025.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 21 Tahun 2021 Syarat dan Tata Cara Pendaftaran Pendirian, Perubahan, dan Pembubaran Badan Hukum Perseroan Terbatas (Berita Negara Republik Indonesia Tahun 2021 Nomor 470), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 16 hlm.",
+ "citations": [
+  "PERMENKUMHAM-2021-21",
+  "UU-2007-40",
+  "UU-2008-39",
+  "PP-2011-43",
+  "PP-2021-8",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/414656/Permenkum%20Nomor%2049%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:18:19Z"
+}

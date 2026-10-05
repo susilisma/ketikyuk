@@ -1,0 +1,51 @@
+{
+ "id": "PMK-2022-124",
+ "source": "bpk",
+ "bpk_id": 221416,
+ "url": "https://peraturan.bpk.go.id/Details/221416/pmk-no-124pmk052022",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "124",
+ "number_raw": "124/PMK.05/2022",
+ "year": 2022,
+ "title": "Peraturan Menteri Keuangan Nomor 124/PMK.05/2022 Tahun 2022 tentang Tarif Layanan Badan Layanan Umum Politeknik Perkeretaapian Indonesia Madiun pada Kementerian Perhubungan",
+ "about": "Tarif Layanan Badan Layanan Umum Politeknik Perkeretaapian Indonesia Madiun pada Kementerian Perhubungan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BADAN LAYANAN UMUM",
+ "field": "Alias",
+ "date_enacted": "2022-08-11",
+ "date_promulgated": "2022-08-15",
+ "date_effective": "2022-08-30",
+ "gazette": "BN.2022/NO. 774; https:jdih.kemenkeu.go.id : 7 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-22",
+   "target_bpk_id": 316120,
+   "label": "PMK No. 22 Tahun 2025",
+   "about": "Tarif Layanan Badan Layanan Umum Bidang Pendidikan dan Pelatihan Sumber Daya Manusia Perhubungan Pada Kementerian Perhubungan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2019-34",
+   "target_bpk_id": 128022,
+   "label": "PMK No. 34/PMK.05/2019",
+   "about": "Tarif Layanan Badan Layanan Umum Akademi Perkeretaapian Indonesia Madiun Pada Kementerian Perhubungan"
+  }
+ ],
+ "abstract": "Berdasarkan Pasal 9 Peraturan Pemerintah Nomor 23 Tahun 2005 tentang Pengelolaan Keuangan Badan Layanan Umum sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 74 Tahun 2012 tentang Perubahan atas Peraturan Pemerintah Nomor 23 Tahun 2005, telah ditetapkan tarif layanan berdasarkan Peraturan Menteri Keuangan Nomor 34/PMK/05/2019 tentang Tarif Layanan Badan Layanan Umum Akademi Perkeretaapian Indonesia Madiun pada Kementerian Perhubungan, dan melalui surat nomor PR.306/1/2/PHB 2022, Menteri Perhubungan mengusulkan penyesuaian tarif BLU Politeknik Perkeretaapian Indonesia Madiun.\nDasar Hukum Peraturan ini adalah:\nPasal 17 ayat (3) UUD Tahun 1945, UU No.39 Tahun 2008 (LN Tahun 2008 No.166, TLN No.4916), UU No.1 Tahun 2004 (LN Tahun 2004 No.5, TLN No. 4355), UU No.39 Tahun 2008 (LN Tahun 2008 No.166, TLN No.4916), PP No. 23 Tahun 2005 (LN Tahun 2005 No.48, TLN No.4502) sebagaimana diubah dg PP No. 74 Yahun 2012 (LN Tahun 2012 No.171, TLN No.5340), Perpres No.57 Tahun 2020 (LN Tahun 2020 No.98), Permenkeu No.129/PMK.05/2020 (BN Tahun 2020 No.1046), Permenkeu RI 118/PMK.01/2021 (BN Tahun 2021 No.1031).\n- Dalam Peraturan Menteri Keuangan Republik Indonesia ini diatur:\nTarif layanan sebagaimana dimaksud dalam Pasal 1 terdiri atas tarif layanan\nakademik dan tarif layanan penunjang akademik. Tarif layanan akademik\nsebagaimana dimaksud dalam Pasal 2 huruf a terdiri atas: tarif layanan seleksi\npenerimaan taruna, tarif layanan pendidikan dan pelatihan pembentukan, tarif\nlayanan pendidikan dan pelatihan teknis, tarif layanan pendukung akademik, dan\ntarif layanan akademik lainnya. Tarif layanan penunjang akademik sebagaimana\ndimaksud dalam Pasal 2 huruf b terdiri atas: tarif laboratorium dan simulator.\nTarif penyelenggaraan workshop, tarif penggunaan keahlian sumber daya\nmanusia politeknik perkeretaapian Indonesia madiun. Tarif penggunaan lahan,\nruangan, wisma, dan Gedung. Terif perpustakaan, tarif pedang pora dan\ndrumband, dan tarif klinik. Terhadap taruna atau peserta didik yang berasal dari",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 30 Agustus 2022.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 34/PMK.05/2019 tentang Tarif\nLayanan Badan Layanan Umum Alcademi Perkeretaapian Indonesia Madiun pada Kementerian Perhubungan (Berita\nNegara Republik Indonesia Tahun 2019 Nomor 356), dicabut dan dinyatakan tidak berlaku.\n10 HLM, Lampiran halaman 7 - 10.",
+ "citations": [
+  "PP-2005-23",
+  "PP-2012-74",
+  "PMK-2019-34",
+  "UU-2008-39",
+  "UU-2004-1",
+  "PERPRES-2020-57"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/215933/124_PMK.05_2022.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:08:50Z"
+}

@@ -1,0 +1,45 @@
+{
+ "id": "PERMENDAG-2025-1",
+ "source": "bpk",
+ "bpk_id": 320754,
+ "url": "https://peraturan.bpk.go.id/Details/320754/permendag-no-1-tahun-2025",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "1",
+ "number_raw": "1",
+ "year": 2025,
+ "title": "Peraturan Menteri Perdagangan Nomor 1 Tahun 2025 tentang Perubahan Ketiga atas Peraturan Menteri Perdagangan Nomor 33 Tahun 2020 tentang Barang dan Persyaratan Barang yang Dapat Disimpan dalam Sistem Resi Gudang",
+ "about": "Perubahan Ketiga atas Peraturan Menteri Perdagangan Nomor 33 Tahun 2020 tentang Barang dan Persyaratan Barang yang Dapat Disimpan dalam Sistem Resi Gudang",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PENGELOLAAN BARANG MILIK NEGARA / DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-01-06",
+ "date_promulgated": "2025-01-08",
+ "date_effective": "2025-01-08",
+ "gazette": "BN 2025 (8) : 4 hlm.; jdih.kemendag.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERMENDAG-2020-33",
+   "target_bpk_id": 160256,
+   "label": "Permendag No. 33 Tahun 2020",
+   "about": "Barang dan Persyaratan Barang yang Dapat Disimpan dalam Sistem Resi Gudang"
+  }
+ ],
+ "abstract": "a. bahwa untuk optimalisasi pemanfaatan sistem resi gudang dalam mendukung produktivitas, menjaga kualitas dan\nstabilitas harga jual serta meningkatkan nilai ekonomi komoditi agar, karagenan, mocaf, pinang, dan tapioka di\npasar dalam negeri maupun tujuan ekspor, perlu menambahkan kelima jenis barang dimaksud sebagai barang yang dapat disimpan di gudang dalam penyelenggaraan sistem resi gudang;\nb. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, perlu menetapkan Peraturan Menteri\nPerdagangan tentang Perubahan Ketiga atas Peraturan Menteri Perdagangan Nomor 33 Tahun 2020 tentang Barang dan Persyaratan Barang yang dapat Disimpan dalam Sistem Resi Gudang;\nDasar hukum Permendag ini adalah Pasal 17 ayat (3) UUD NRI Tahun 1945, UU No. 9 Tahun 2006, UU No. 39 Tahun 2008, UU No. 7 Tahun 2014, PP No. 36 Tahun 2007, Perpres No. 168 Tahun 2024, Permendag No. 33 Tahun 2020,dan Permendag No. 29 Tahun 2022.\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri Perdagangan Nomor 33 Tahun 2020 tentang Barang dan Persyaratan Barang yang dapat Disimpan dalam Sistem Resi Gudang yaitu tentang jenis barang yang dapat disimpan di gudang SRG.",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 08 Januari 2025.\nPeraturan ini mengubah sebagian Permendag No. 33 Tahun 2020 tentang Barang dan Persyaratan Barang yang dapat Disimpan dalam Sistem Resi Gudang",
+ "citations": [
+  "PERMENDAG-2020-33",
+  "UU-2006-9",
+  "UU-2008-39",
+  "UU-2014-7",
+  "PP-2007-36",
+  "PERPRES-2024-168",
+  "PERMENDAG-2022-29"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/382472/Permendag%20No.%201%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:12:25Z"
+}

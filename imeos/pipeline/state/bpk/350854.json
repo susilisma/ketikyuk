@@ -1,0 +1,177 @@
+{
+ "id": "PERMENKES-2026-3",
+ "source": "bpk",
+ "bpk_id": 350854,
+ "url": "https://peraturan.bpk.go.id/Details/350854/permenkes-no-3-tahun-2026",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "3",
+ "number_raw": "3",
+ "year": 2026,
+ "title": "Peraturan Menteri Kesehatan Nomor 3 Tahun 2026 tentang Penanggulangan Penyakit",
+ "about": "Penanggulangan Penyakit",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2026-02-27",
+ "date_promulgated": "2026-03-11",
+ "date_effective": "2026-03-11",
+ "gazette": "JDIH Kementerian Kesehatan",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2022-22",
+   "target_bpk_id": 245542,
+   "label": "Permenkes No. 22 Tahun 2022",
+   "about": "Penanggulangan Malaria"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2020-18",
+   "target_bpk_id": 152561,
+   "label": "Permenkes No. 18 Tahun 2020",
+   "about": "Pengelolaan Limbah Medis Fasilitas Pelayanan Kesehatan Berbasis Wilayah"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2020-17",
+   "target_bpk_id": 152560,
+   "label": "Permenkes No. 17 Tahun 2020",
+   "about": "Pasar Sehat"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2016-67",
+   "target_bpk_id": 114486,
+   "label": "Permenkes No. 67 Tahun 2016",
+   "about": "Penanggulangan Tuberkulosis"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2015-71",
+   "target_bpk_id": 172102,
+   "label": "Permenkes No. 71 Tahun 2015",
+   "about": "Penanggulangan Penyakit Tidak Menular"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2015-63",
+   "target_bpk_id": 172110,
+   "label": "Permenkes No. 63 Tahun 2015",
+   "about": "Perubahan atas Peraturan Menteri Kesehatan Nomor 30 Tahun 2013 tentang Pencantuman Informasi Kandungan Gula, Garam, dan Lemak Serta Pesan Kesehatan untuk Pangan Olahan dan Pangan Siap Saji"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2015-13",
+   "target_bpk_id": 114918,
+   "label": "Permenkes No. 13 Tahun 2015",
+   "about": "Penyelenggaraan Pelayanan Kesehatan Lingkungan  Di Puskesmas"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "PERMENKES-2023-23",
+   "target_bpk_id": 275531,
+   "label": "Permenkes No. 23 Tahun 2023",
+   "about": "Pedoman Penanggulangan Corono Virus Disease 2019 (Covide-19)"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "PERMENKES-2023-2",
+   "target_bpk_id": 245563,
+   "label": "Permenkes No. 2 Tahun 2023",
+   "about": "Peraturan Pelaksanaan Peraturan Pemerintah Nomor 66 Tahun 2014 tentang Kesehatan Lingkungan"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "PERMENKES-2022-23",
+   "target_bpk_id": 245543,
+   "label": "Permenkes No. 23 Tahun 2022",
+   "about": "Penanggulangan Human Immunodeficiency Virus, Acquired Immuno-Deficiency Syndrome, dan Inkubasi Menular Seksual"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "PERMENKES-2019-7",
+   "target_bpk_id": 111721,
+   "label": "Permenkes No. 7 Tahun 2019",
+   "about": "Kesehatan Lingkungan Rumah Sakit"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "PERMENKES-2019-11",
+   "target_bpk_id": 138606,
+   "label": "Permenkes No. 11 Tahun 2019",
+   "about": "Penanggulangan Kusta"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "PERMENKES-2018-19",
+   "target_bpk_id": 139655,
+   "label": "Permenkes No. 19 Tahun 2018",
+   "about": "Penyelenggaraan Eradikasi Demam Keong"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "PERMENKES-2017-8",
+   "target_bpk_id": 111971,
+   "label": "Permenkes No. 8 Tahun 2017",
+   "about": "Eradikasi Frambusia"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "PERMENKES-2017-52",
+   "target_bpk_id": 112155,
+   "label": "Permenkes No. 52 Tahun 2017",
+   "about": "Eliminasi Penularan Human Immunodeficiency Virus, Sifilis, dan Hepatitis B dari Ibu ke Anak"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "PERMENKES-2017-29",
+   "target_bpk_id": 112083,
+   "label": "Permenkes No. 29 Tahun 2017",
+   "about": "Perubahan Atas Peraturan Menteri Kesehatan Nomor 34 Tahun 2015 Tentang Penanggulangan Kanker Payudara Dan Kanker Leher Rahim"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "PERMENKES-2017-15",
+   "target_bpk_id": 111981,
+   "label": "Permenkes No. 15 Tahun 2017",
+   "about": "Penanggulangan Cacingan"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "PERMENKES-2017-12",
+   "target_bpk_id": 111977,
+   "label": "Permenkes No. 12 Tahun 2017",
+   "about": "Penyelenggaraan Imunisasi"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "PERMENKES-2015-53",
+   "target_bpk_id": 116261,
+   "label": "Permenkes No. 53 Tahun 2015",
+   "about": "Penanggulangan Hepatitis Virus"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "PERMENKES-2015-34",
+   "target_bpk_id": 116060,
+   "label": "Permenkes No. 34 Tahun 2015",
+   "about": "Penanggulangan Kanker Payudara Dan Kanker Leher Rahim"
+  }
+ ],
+ "abstract": "bahwa untuk melaksanakan ketentuan Pasal 44 ayat (4)\nUndang-Undang Nomor 17 Tahun 2023 tentang Kesehatan\nserta Pasal 188 ayat (7), Pasal 189, Pasal 196 ayat (6), Pasal\n204, Pasal 210, Pasal 248 ayat (6), Pasal 250 ayat (7), dan Pasal 265 Peraturan Pemerintah Nomor 28 Tahun 2024 tentang Peraturan Pelaksanaan Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan, perlu menetapkan Peraturan Menteri Kesehatan tentang Penanggulangan Penyakit.\n1. Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;\n2. Undang-Undang Nomor 39 Tahun 2008 tentang\nKementerian Negara (Lembaran Negara Republik\nIndonesia Tahun 2008 Nomor 166, Tambahan Lembaran\nNegara Republik Indonesia Nomor 4916) sebagaimana\ntelah diubah dengan Undang-Undang Nomor 61 Tahun\n2024 tentang Perubahan atas Undang-Undang Nomor 39\nTahun 2008 tentang Kementerian Negara (Lembaran\nNegara Republik Indonesia Tahun 2024 Nomor 225,\nTambahan Lembaran Negara Republik Indonesia Nomor\n6994);\n3. Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan\n(Lembaran Negara Republik Indonesia Tahun 2023 Nomor\n105, Tambahan Lembaran Negara Republik Indonesia\nNomor 6887);\n4. Peraturan Pemerintah Nomor 28 Tahun 2024 tentang\nPeraturan Pelaksanaan Undang-Undang Nomor 17 Tahun\n2023 tentang Kesehatan (Lembaran Negara Republik\nIndonesia Tahun 2024 Nomor 135, Tambahan Lembaran\nNegara Republik Indonesia Nomor 6952);\n5. Peraturan Presiden Nomor 161 Tahun 2024 tentang\nKementerian Kesehatan (Lembaran Negara Republik\nIndonesia Tahun 2024 Nomor 357);\n6. Peraturan Menteri Kesehatan Nomor 21 Tahun 2024\ntentang Organisasi dan Tata Kerja Kementerian Kesehatan\n(Berita Negara Republik Indonesia Tahun 2024 Nomor\n1048) sebagaimana telah diubah dengan Peraturan\nMenteri Kesehatan Nomor 17 Tahun 2025 tentang\nPerubahan atas Peraturan Menteri Kesehatan Nomor 21\nTahun 2024 tentang Organisasi dan Tata Kerja\nKementerian Kesehatan (Berita Negara Republik Indonesia\nTahun 2025 Nomor 1128).\nPeraturan ini mengatur mengenai ketentuan umum, penanggulangan penyakit menular, Penanggulangan Penyakit Tidak Menular, Kesehatan Lingkungan, Kesehatan Matra, Partisipasi Masyarakat, Pencatatan dan Pelaporan, Pembinaan dan Pengawasan, dan sanksi terkait Penanggulangan Penyakit.",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 11 Maret 2026.\n56",
+ "citations": [
+  "UU-2023-17",
+  "PP-2024-28",
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2024-161",
+  "PERMENKES-2024-21"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/414600/Permenkes%203%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:22:42Z"
+}

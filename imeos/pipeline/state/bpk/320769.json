@@ -1,0 +1,46 @@
+{
+ "id": "PERMENDAG-2025-3",
+ "source": "bpk",
+ "bpk_id": 320769,
+ "url": "https://peraturan.bpk.go.id/Details/320769/permendag-no-3-tahun-2025",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "3",
+ "number_raw": "3",
+ "year": 2025,
+ "title": "Peraturan Menteri Perdagangan Nomor 3 Tahun 2025 tentang Rencana Induk Pengembangan Standar Kompetensi Kerja Nasional Indonesia Sektor Perdagangan",
+ "about": "Rencana Induk Pengembangan Standar Kompetensi Kerja Nasional Indonesia Sektor Perdagangan",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PROGRAM, RENCANA PEMBANGUNAN DAN RENCANA KERJA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-01-10",
+ "date_promulgated": "2025-01-17",
+ "date_effective": "2025-01-17",
+ "gazette": "BN 2025 (32) : 22 hlm.; jdih.kemendag.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2020-52",
+   "target_bpk_id": 160281,
+   "label": "Permendag No. 52 Tahun 2020",
+   "about": "Rencana Induk Pengembangan Standar Kompetensi Kerja Nasional Indonesia Sektor Perdagangan"
+  }
+ ],
+ "abstract": "Untuk meningkatkan kompetensi sumber daya manusia di sektor perdagangan, perlu menyusun rencana induk pengembangan standar kompetensi kerja nasional Indonesia sektor perdagangan yang menjadi pedoman dalam penyusunan standar kompetensi kerja nasional Indonesia sektor perdagangan untuk periode tahun 2025 sampai\ndengan tahun 2029. Peraturan Menteri Perdagangan Nomor 52 Tahun 2020 tentang Rencana Induk Pengembangan Standar Kompetensi Kerja Nasional Indonesia Sektor Perdagangan sudah tidak sesuai dengan kebutuhan hukum dan perkembangan standar kompetensi kerja di sektor perdagangan, sehingga perlu diganti.\nPasal 17 ayat (3) UUD NRI Tahun 1945, UU No. 13 Tahun 2003, UU No. 39 Tahun 2008, UU No. 7 Tahun 2014, PP No. 83 Tahun 2019, Perpres No. 168 Tahun 2024, Permenaker No. 3 Tahun 2016, dan Permendag No. 29 Tahun 2022.\nPeraturan ini mengatur tentang ketentuan umum, Rencana Induk Pengembangan SKKNI Sektor Perdagangan dan KSK Sektor Perdagangan.",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 17 Januari 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan Menteri Perdagangan Nomor 52 Tahun 2020 tentang Rencana Induk Pengembangan Standar Kompetensi Kerja Nasional Indonesia Sektor Perdagangan",
+ "citations": [
+  "PERMENDAG-2020-52",
+  "UU-2003-13",
+  "UU-2008-39",
+  "UU-2014-7",
+  "PP-2019-83",
+  "PERPRES-2024-168",
+  "PERMENAKER-2016-3",
+  "PERMENDAG-2022-29"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/382488/Permendag%20No.%203%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:12:21Z"
+}

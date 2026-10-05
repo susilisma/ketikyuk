@@ -1,0 +1,37 @@
+{
+ "id": "PERPRES-2025-17",
+ "source": "bpk",
+ "bpk_id": 316706,
+ "url": "https://peraturan.bpk.go.id/Details/316706/perpres-no-17-tahun-2025",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "17",
+ "number_raw": "17",
+ "year": 2025,
+ "title": "Peraturan Presiden (Perpres) Nomor 17 Tahun 2025 tentang Percepatan Pembangunan Pergaraman Nasional",
+ "about": "Percepatan Pembangunan Pergaraman Nasional",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERIKANAN DAN KELAUTAN",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2025-03-27",
+ "date_promulgated": "2025-03-27",
+ "date_effective": "2025-03-27",
+ "gazette": "LN 2025 (37) : 12 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2022-126",
+   "target_bpk_id": 230414,
+   "label": "PERPRES No. 126 Tahun 2022",
+   "about": "Percepatan Pembangunan Pergaraman Nasional"
+  }
+ ],
+ "abstract": "Untuk mewujudkan swasembada garam tahun 2027 dan meningkatkan usaha pergaraman dalam negeri, serta melanjutkan pembangunan pergaraman nasional secara terpadu dan berkesinambungan, perlu mengatur kembali ketentuan mengenai percepatan pembangunan pergaraman nasional.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.\nPerpres ini mengatur mengenai percepatan pembangunan pergaraman nasional. Pembangunan pergaraman nasional bertujuan untuk mewujudkan swasembada garam nasional pada tahun 2027.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 27 Maret 2025.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 126 Tahun 2022 tentang Percepatan Pembangunan Pergaraman Nasional (Lembaran Negara Republik Indonesia Tahun 2022 Nomor 209), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 62 hlm. (batang tubuh hlm 1 s.d. 12 dan lampiran hlm 13 s.d. 62)",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/378009/Perpres%20Nomor%2017%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:03:08Z"
+}

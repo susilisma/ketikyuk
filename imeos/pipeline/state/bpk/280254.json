@@ -1,0 +1,72 @@
+{
+ "id": "PERMENKUMHAM-2022-26",
+ "source": "bpk",
+ "bpk_id": 280254,
+ "url": "https://peraturan.bpk.go.id/Details/280254/permenkumham-no-26-tahun-2022",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "26",
+ "number_raw": "26",
+ "year": 2022,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 26 Tahun 2022 tentang Pelaksanaan Pengembangan Kompetensi melalui Sistem Pembelajaran Terintegrasi di Bidang Hukum dan Hak Asasi Manusia",
+ "about": "Pelaksanaan Pengembangan Kompetensi melalui Sistem Pembelajaran Terintegrasi di Bidang Hukum dan Hak Asasi Manusia",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2022-12-05",
+ "date_promulgated": "2022-12-09",
+ "date_effective": "2022-12-09",
+ "gazette": "BN 2022 (1224) : 16 hlm.; peraturan.go.id",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 357102,
+   "label": "Permenkum No. 1 Tahun 2026",
+   "about": "Pelaksanaan Pengembangan Kompetensi melalui Sistem Pembelajaran Terintegrasi di Bidang Hukum"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133190,
+   "label": "Permenkumham No. 10 Tahun 2017",
+   "about": "Pendidikan dan Pelatihan Dengan Metode E-Learning di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133304,
+   "label": "Permenkumham No. 19 Tahun 2015",
+   "about": "Pendidikan Dan Pelatihan Fungsional Calon Pejabat Fungsional Perancang Peraturan Perundang-Undangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 134460,
+   "label": "Permenkumham No. M.HH-3.DL.03.02 Tahun 2010",
+   "about": "Penyelenggaraan Pendidikan dan Pelatihan di Kementerian Hukum dan Hak Asasi Manusia"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 134459,
+   "label": "Permenkumham No. M.HH-06.IN.04.02 Tahun 2010",
+   "about": "Kebijakan Pengembangan Sumber Daya Manusia Kementerian Hukum dan Hak Asasi Manusia Republik Indonesia"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 134461,
+   "label": "Permenkumham No. M.HH-05.IN.04.02 Tahun 2010",
+   "about": "Penyelenggaraan Assesment Center dan Sistem Informasi Sumber Daya Manusia Berbasis Kompetensi di Kementerian Hukum dan Hak Asasi Manusia Republik Indonesia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 09 Desember 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/339019/Nomor%2026%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:17:11Z"
+}

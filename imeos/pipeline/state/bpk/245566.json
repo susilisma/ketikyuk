@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKES-2023-6",
+ "source": "bpk",
+ "bpk_id": 245566,
+ "url": "https://peraturan.bpk.go.id/Details/245566/permenkes-no-6-tahun-2023",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "6",
+ "number_raw": "6",
+ "year": 2023,
+ "title": "Peraturan Menteri Kesehatan Nomor 6 Tahun 2023 tentang Pendayagunaan Tenaga Kesehatan Warga Negara Asing",
+ "about": "Pendayagunaan Tenaga Kesehatan Warga Negara Asing",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - KETENAGAKERJAAN",
+ "field": "Alias",
+ "date_enacted": "2023-01-16",
+ "date_promulgated": "2023-01-24",
+ "date_effective": "2023-01-24",
+ "gazette": "BN.2023/No.95, peraturan.go.id: 27 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2025-13",
+   "target_bpk_id": 335214,
+   "label": "Permenkes No. 13 Tahun 2025",
+   "about": "Pengelolaan Sumber Daya Manusia Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 24 Januari 2023.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/301586/Permenkes%20Nomor%206%20Tahun%202023.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:23:37Z"
+}

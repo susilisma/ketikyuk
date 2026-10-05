@@ -12,7 +12,7 @@
  "about": "Pengasuransian Barang Milik Negara",
  "issuer": "Kementerian Keuangan",
  "subject": "APBN - ASURANSI - PENGELOLAAN BARANG MILIK NEGARA / DAERAH",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2019-06-21",
  "date_promulgated": "2019-06-25",
  "date_effective": "2019-06-25",
@@ -43,5 +43,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/119098/97~PMK.06~2019Per.pdf"
  ],
- "fetched_at": "2026-09-14T06:33:38Z"
+ "fetched_at": "2026-10-05T05:08:04Z"
 }

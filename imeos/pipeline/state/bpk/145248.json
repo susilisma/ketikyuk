@@ -1,0 +1,37 @@
+{
+ "id": "PERMENAKER-2019-2",
+ "source": "bpk",
+ "bpk_id": 145248,
+ "url": "https://peraturan.bpk.go.id/Details/145248/permenaker-no-2-tahun-2019",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "2",
+ "number_raw": "2",
+ "year": 2019,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 2 Tahun 2019 tentang Pemberdayaan Komunitas Pekerja Migran Indonesia di Desa Migran Produktif",
+ "about": "Pemberdayaan Komunitas Pekerja Migran Indonesia di Desa Migran Produktif",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "KETENAGAKERJAAN - KEWARGANEGARAAN DAN IMIGRASI",
+ "field": "Alias",
+ "date_enacted": "2019-03-01",
+ "date_promulgated": "2019-03-01",
+ "date_effective": "2019-03-01",
+ "gazette": "BN.2019/No.241, jdih.kemnaker.go.id : 17 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENAKER-2026-2",
+   "target_bpk_id": 344084,
+   "label": "Permenaker No. 2 Tahun 2026",
+   "about": "Pencabutan Peraturan Menteri Ketenagakerjaan Bidang Penempatan dan Pelindungan Pekerja Migran Indonesia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Ketenagakerjaan Republik Indonesia ini mulai berlaku pada tanggal 01 Maret 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/251118/Permenaker%20No.%202%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:14:42Z"
+}

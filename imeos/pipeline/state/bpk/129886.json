@@ -1,0 +1,58 @@
+{
+ "id": "PERMENKES-2011-1148",
+ "source": "bpk",
+ "bpk_id": 129886,
+ "url": "https://peraturan.bpk.go.id/Details/129886/permenkes-no-1148menkespervi2011-tahun-2011",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "1148",
+ "number_raw": "1148/MENKES/PER/VI/2011",
+ "year": 2011,
+ "title": "Peraturan Menteri Kesehatan Nomor 1148/MENKES/PER/VI/2011 Tahun 2011 tentang Pedagang Besar Farmasi",
+ "about": "Pedagang Besar Farmasi",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - PERIZINAN, PELAYANAN PUBLIK",
+ "field": "Alias",
+ "date_enacted": "2011-06-13",
+ "date_promulgated": "2011-06-28",
+ "date_effective": "2011-06-28",
+ "gazette": "BN.2011/NO.370/ peraturan.go.id : 17 Hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-5",
+   "target_bpk_id": 350852,
+   "label": "Permenkes No. 5 Tahun 2026",
+   "about": "Perbekalan Kesehatan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENKES-2018-26",
+   "target_bpk_id": 111928,
+   "label": "Permenkes No. 26 Tahun 2018",
+   "about": "Pelayanan Perizinan Berusaha Terintegrasi Secara Elektronik Sektor Kesehatan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENKES-2017-30",
+   "target_bpk_id": 112085,
+   "label": "Permenkes No. 30 Tahun 2017",
+   "about": "Perubahan Kedua atas Peraturan Menteri Kesehatan Nomor 1148/Menkes/Per/VI/2011 tentang Pedagang Besar Farmasi"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENKES-2014-34",
+   "target_bpk_id": 117570,
+   "label": "Permenkes No. 34 Tahun 2014",
+   "about": "Perubahan atas Peraturan Menteri Kesehatan Nomor 1148/Menkes/Per/VI/2011 Tentang  Pedagang Besar Farmasi"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 28 Juni 2011.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/120758/Permenkes%20Nomor%201148%20Tahun%202011.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:22:31Z"
+}

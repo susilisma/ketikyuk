@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKUMHAM-2016-66",
+ "source": "bpk",
+ "bpk_id": 133288,
+ "url": "https://peraturan.bpk.go.id/Details/133288/permenkumham-no-66-tahun-2016",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "66",
+ "number_raw": "66",
+ "year": 2016,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 66 Tahun 2016 tentang Pemberian Bantuan Hukum di Lingkungan Kementerian Hukum dan Hak Asasi Manusia",
+ "about": "Pemberian Bantuan Hukum di Lingkungan Kementerian Hukum dan Hak Asasi Manusia",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "HUKUM ACARA DAN PERADILAN - HUKUM PIDANA, PERDATA, DAN DAGANG",
+ "field": "Alias",
+ "date_enacted": "2016-12-30",
+ "date_promulgated": "2016-12-30",
+ "date_effective": "2016-12-30",
+ "gazette": "BN.2016/No.2133, peraturan.go.id: 10 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 350906,
+   "label": "Permenkum No. 52 Tahun 2025",
+   "about": "Pemberian Bantuan Hukum di Lingkungan Kementerian Hukum"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 30 Desember 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/124075/Permenkumham%20Nomor%2066%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:18:13Z"
+}

@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKOMINFO-2025-20",
+ "source": "bpk",
+ "bpk_id": 343737,
+ "url": "https://peraturan.bpk.go.id/Details/343737/permenkomdigi-no-20-tahun-2025",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Digital",
+ "number": "20",
+ "number_raw": "20",
+ "year": 2025,
+ "title": "Peraturan Menteri Komunikasi dan Digital Nomor 20 Tahun 2025 tentang Organisasi dan Tata Kerja Balai Besar Pengujian Perangkat Telekomunikasi dan Digital",
+ "about": "Organisasi dan Tata Kerja Balai Besar Pengujian Perangkat Telekomunikasi dan Digital",
+ "issuer": "Kementerian Komunikasi dan Digital",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-12-23",
+ "date_promulgated": "2025-12-29",
+ "date_effective": "2025-12-29",
+ "gazette": "BN 2025 (1132); 9 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 228224,
+   "label": "Permenkominfo No. 2 Tahun 2022",
+   "about": "Organisasi dan Tata Kerja Balai Besar Pengujian Perangkat Telekomunikasi"
+  }
+ ],
+ "abstract": "bahwa Peraturan Menteri Komunikasi dan Informatika\nNomor 2 Tahun 2022 tentang Organisasi dan Tata Kerja\nBalai Besar Pengujian Perangkat Telekomunikasi sudah\ntidak sesuai dengan perkembangan hukum dan\nkebutuhan organisasi, sehingga perlu diganti;\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD NRI Tahun 1945;\nUU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024;\nUU Nomor 20 Tahun 2014;\nPP Nomor 46 Tahun 2021;\nPerpres Nomor 174 Tahun 2024;\nPermenPANRB Nomor 2 Tahun 2023;\nPermen Komdigi Nomor 1 Tahun 2025.\nPeraturan ini mengatur mengenai kedudukan, tugas, dan fungsi; susunan organisasi; jabatan fungsional dan jabatan pelaksana; tata kerja; lokasi; jabatan, pengangkatan, dan pemberhentian; penataan organisasi",
+ "note": "Peraturan Menteri Komunikasi dan Digital ini mulai berlaku pada tanggal 29 Desember 2025.",
+ "citations": [
+  "PERMENKOMINFO-2022-2",
+  "UU-2008-39",
+  "UU-2024-61",
+  "UU-2014-20",
+  "PP-2021-46",
+  "PERPRES-2024-174"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/406955/Pemenkomdigi-no-20-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:16:17Z"
+}

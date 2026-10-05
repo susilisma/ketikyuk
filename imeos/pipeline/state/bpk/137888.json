@@ -12,7 +12,7 @@
  "about": "Bentuk Fisik, Spesifikasi, dan Desain Pita Cukai",
  "issuer": "Kementerian Keuangan",
  "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2020-05-19",
  "date_promulgated": "2020-05-20",
  "date_effective": "2020-05-20",
@@ -38,5 +38,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/128953/52_PMK.04_2020.pdf"
  ],
- "fetched_at": "2026-09-14T06:30:25Z"
+ "fetched_at": "2026-10-05T05:04:02Z"
 }

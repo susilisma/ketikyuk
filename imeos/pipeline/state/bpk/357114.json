@@ -1,0 +1,50 @@
+{
+ "id": "PERMENKUM-2026-4",
+ "source": "bpk",
+ "bpk_id": 357114,
+ "url": "https://peraturan.bpk.go.id/Details/357114/permenkum-no-4-tahun-2026-pengelolaan-laporan-pengaduan",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "4",
+ "number_raw": "4",
+ "year": 2026,
+ "title": "Peraturan Menteri Hukum Nomor 4 Tahun 2026 tentang Pengelolaan Laporan Pengaduan",
+ "about": "Pengelolaan Laporan Pengaduan",
+ "issuer": "Kementerian Hukum",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA - KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-01-12",
+ "date_promulgated": "2026-01-13",
+ "date_effective": "2026-01-13",
+ "gazette": "BN 2026 (15): 13 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133280,
+   "label": "Permenkumham No. 57 Tahun 2016",
+   "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 25 Tahun 2012 tentang Penanganan Laporan Pengaduan di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 134416,
+   "label": "Permenkumham No. 25 Tahun 2012",
+   "about": "Penanganan Laporan Pengaduan di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "Untuk menjalankan fungsi dan tugas Kementerian Hukum, perlu memberikan akses kepada masyarakat dan pegawai untuk berpartisipasi dalam menegakkan integritas dengan menyampaikan laporan pengaduan apabila terjadi pelanggaran dan/atau tindak pidana di lingkungan Kementerian Hukum. Kementerian Hukum perlu memberikan pelindungan bagi yang melaporkan terjadinya pelanggaran dan/atau tindak pidana di lingkungan Kementerian Hukum. Berdasarkan pertimbangan dimaksud, perlu menetapkan Peraturan Menteri Hukum tentang Pengelolaan Laporan Pengaduan.\nDasar hukum Peraturan ini adalah Pasal 17 ayat (3) UUD 1945; UU No. 28 Tahun 1999; UU No. 31 Tahun 1999; UU No. 39 Tahun 2008; UU No. 25 Tahun 2009; Perpres No. 155 Tahun 2024; Permenkum No. 1 Tahun 2024; dan Permenkum No. 2 Tahun 2024.\nPeraturan ini mengatur mengenai Pengelolaan Laporan Pengaduan. Pelapor dapat menyampaikan Laporan Pengaduan. Laporan Pengaduan disampaikan secara: a. langsung; dan/atau b. tidak langsung. Unit Layanan Pengaduan (ULP) Kementerian dilaksanakan oleh Inspektorat\nJenderal sesuai dengan kewenangannya.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 13 Januari 2026.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 25 Tahun 2012 tentang Penanganan Laporan Pengaduan di Lingkungan Kementerian Hukum dan Hak Asasi Manusia (Berita Negara Republik Indonesia Tahun 2012 Nomor 1386) sebagaimana telah diubah dengan Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 57 Tahun 2016 tentang Penanganan Laporan Pengaduan di Lingkungan Kementerian Hukum dan Hak Asasi Manusia (Berita Negara Republik Indonesia Tahun 2016 Nomor 2124), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 13 hlm.",
+ "citations": [
+  "UU-1999-28",
+  "UU-1999-31",
+  "UU-2008-39",
+  "UU-2009-25",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/421135/Permenkum%20No%204%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:17:17Z"
+}

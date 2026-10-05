@@ -12,7 +12,7 @@
  "about": "Penimbunan, Pemasukan, Pengeluaran, dan Pengangkutan Barang Kena Cukai",
  "issuer": "Kementerian Keuangan",
  "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2014-12-17",
  "date_promulgated": "2014-12-17",
  "date_effective": "2015-02-15",
@@ -47,5 +47,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/141594/PMK%20Nomor%20226%20Tahun%202014.pdf"
  ],
- "fetched_at": "2026-09-14T06:32:27Z"
+ "fetched_at": "2026-10-05T05:06:55Z"
 }

@@ -1,0 +1,44 @@
+{
+ "id": "PERBPOM-2022-17",
+ "source": "bpk",
+ "bpk_id": 223981,
+ "url": "https://peraturan.bpk.go.id/Details/223981/peraturan-bpom-no-17-tahun-2022",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "17",
+ "number_raw": "17",
+ "year": 2022,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 17 Tahun 2022 tentang Perubahan atas Peraturan Badan Pengawas Obat dan Makanan Nomor 23 Tahun 2019 tentang Persyaratan Teknis Bahan Kosmetika",
+ "about": "Perubahan atas Peraturan Badan Pengawas Obat dan Makanan Nomor 23 Tahun 2019 tentang Persyaratan Teknis Bahan Kosmetika",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "KESEHATAN",
+ "field": "Alias",
+ "date_enacted": "2022-07-27",
+ "date_promulgated": "2022-07-28",
+ "date_effective": "2022-07-28",
+ "gazette": "BN.2022/No.702, peraturan.go.id: 9 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 333277,
+   "label": "Peraturan BPOM No. 25 Tahun 2025",
+   "about": "Persyaratan Teknis Bahan Kosmetik"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 224837,
+   "label": "Peraturan BPOM No. 23 Tahun 2019",
+   "about": "Persyaratan Teknis Bahan Kosmetika"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 28 Juli 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/218555/Peraturan%20BPOM%20Nomor%2017%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:28:36Z"
+}

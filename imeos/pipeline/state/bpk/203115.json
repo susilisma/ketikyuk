@@ -1,0 +1,65 @@
+{
+ "id": "PERMENKOMINFO-2021-4",
+ "source": "bpk",
+ "bpk_id": 203115,
+ "url": "https://peraturan.bpk.go.id/Details/203115/permenkominfo-no-4-tahun-2021",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Informatika",
+ "number": "4",
+ "number_raw": "4",
+ "year": 2021,
+ "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 4 Tahun 2021 tentang Penyelenggaraan Pos",
+ "about": "Penyelenggaraan Pos",
+ "issuer": "Kementerian Komunikasi dan Informatika",
+ "subject": "PERS, POS, DAN PERIKLANAN - CIPTA KERJA",
+ "field": "Alias",
+ "date_enacted": "2021-04-01",
+ "date_promulgated": "2021-04-01",
+ "date_effective": "2021-04-01",
+ "gazette": "BN.2021/No.302, peraturan.go.id: 75 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": null,
+   "target_bpk_id": 319703,
+   "label": "Permenkomdigi No. 8 Tahun 2025",
+   "about": "Layanan Pos Komersial"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 150094,
+   "label": "Permenkominfo No. 4 Tahun 2017",
+   "about": "Mekanisme Kontribusi Penyelenggaraan Layanan Pos Universal"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 155410,
+   "label": "Permenkominfo No. 29 Tahun 2013",
+   "about": "Tarif Layanan Pos Universal"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 155400,
+   "label": "Permenkominfo No. 22 Tahun 2013",
+   "about": "Penyelenggaraan Layanan Pos Universal"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": null,
+   "target_bpk_id": 150104,
+   "label": "Permenkominfo No. 7 Tahun 2017",
+   "about": "Persyaratan dan Tata Cara Pemberian Izin Penyelenggaraan Pos"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Komunikasi dan Informatika ini mulai berlaku pada tanggal 01 April 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/197084/Nomor%204%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:16:44Z"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKUMHAM-2016-50",
+ "source": "bpk",
+ "bpk_id": 133274,
+ "url": "https://peraturan.bpk.go.id/Details/133274/permenkumham-no-50-tahun-2016",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "50",
+ "number_raw": "50",
+ "year": 2016,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 50 Tahun 2016 tentang Tim Pengawasan Orang Asing",
+ "about": "Tim Pengawasan Orang Asing",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "KEWARGANEGARAAN DAN IMIGRASI",
+ "field": "Alias",
+ "date_enacted": "2016-12-15",
+ "date_promulgated": "2016-12-29",
+ "date_effective": "2016-12-29",
+ "gazette": "BN.2016/No.1940, peraturan.go.id : 11 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 316854,
+   "label": "Permen Imipas No. 2 Tahun 2025",
+   "about": "Pengawasan Keimigrasian dan Tindakan Administratif Keimigrasian"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 29 Desember 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/124061/Permenkumham%20Nomor%2050%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:21:17Z"
+}

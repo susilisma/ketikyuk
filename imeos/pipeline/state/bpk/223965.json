@@ -1,0 +1,44 @@
+{
+ "id": "PERBPOM-2022-6",
+ "source": "bpk",
+ "bpk_id": 223965,
+ "url": "https://peraturan.bpk.go.id/Details/223965/peraturan-bpom-no-6-tahun-2022",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "6",
+ "number_raw": "6",
+ "year": 2022,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 6 Tahun 2022 tentang Tata Naskah Dinas di Lingkungan Badan Pengawas Obat dan Makanan",
+ "about": "Tata Naskah Dinas di Lingkungan Badan Pengawas Obat dan Makanan",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA",
+ "field": "Alias",
+ "date_enacted": "2022-03-11",
+ "date_promulgated": "2022-03-11",
+ "date_effective": "2022-03-11",
+ "gazette": "BN.2022/No.268, jdih.pom.go.id: 6 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 321185,
+   "label": "Peraturan BPOM No. 15 Tahun 2025",
+   "about": "Perubahan atas Peraturan Badan Pengawas Obat dan Makanan\r\nNomor 6 Tahun 2022 tentang Tata Naskah Dinas di\r\nLingkungan Badan Pengawas Obat dan Makanan"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 183214,
+   "label": "Peraturan BPOM No. 21 Tahun 2018",
+   "about": "Pedoman Tata Naskah Dinas di Lingkungan Badan Pengawas Obat dan Makanan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 11 Maret 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/218539/Peraturan%20BPOM%20Nomor%206%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:29:01Z"
+}

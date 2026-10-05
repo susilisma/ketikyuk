@@ -1,0 +1,48 @@
+{
+ "id": "PERMENIMIPAS-2026-3",
+ "source": "bpk",
+ "bpk_id": 352485,
+ "url": "https://peraturan.bpk.go.id/Details/352485/permen-imipas-no-3-tahun-2026",
+ "form": "PERMENIMIPAS",
+ "form_long": "Peraturan Menteri Imigrasi dan Pemasyarakatan",
+ "number": "3",
+ "number_raw": "3",
+ "year": 2026,
+ "title": "Peraturan Menteri Imigrasi dan Pemasyarakatan Nomor 3 Tahun 2026 tentang Jabatan dan Kelas Jabatan di Lingkungan Kementerian Imigrasi dan Pemasyarakatan",
+ "about": "Jabatan dan Kelas Jabatan di Lingkungan Kementerian Imigrasi dan Pemasyarakatan",
+ "issuer": "Kementerian Imigrasi dan Pemasyarakatan",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-04-28",
+ "date_promulgated": "2026-05-04",
+ "date_effective": "2026-05-04",
+ "gazette": "BN 2026 (286): 5 hlm.; jdih.kemenimipas.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut sebagian",
+   "target": null,
+   "target_bpk_id": 280240,
+   "label": "Permenkumham No. 21 Tahun 2022",
+   "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 9 Tahun 2021 tentang Jabatan dan Kelas Jabatan di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": null,
+   "target_bpk_id": 170954,
+   "label": "Permenkumham No. 9 Tahun 2021",
+   "about": "Jabatan dan Kelas Jabatan di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "Untuk melaksanakan hasil evaluasi jabatan sebagai dasar penetapan nilai dan kelas jabatan dalam rangka penataan manajemen aparatur sipil negara serta pelaksanaan pemberian tunjangan kinerja di lingkungan Kementerian Imigrasi dan Pemasyarakatan, perlu menetapkan jabatan dan kelas jabatan.\nDasar hukum Permen Imipas ini adalah Pasal 17 ayat (3) UUD 1945; UU No. 39 Tahun 2008; Perpres No. 157 Tahun 2024; Perpres No. 30 Tahun 2025; PermenPANRB No. 39 Tahun 2013; Permen Imipas No. 1 Tahun 2024; Permen Imipas No. 2 Tahun 2024; dan Permen Imipas No. 4 Tahun 2024.\nPermen Imipas ini mengatur mengenai Jabatan dan Kelas Jabatan di Lingkungan Kementerian Imigrasi dan Pemasyarakatan. Pegawai wajib melaksanakan tugas sesuai dengan jabatannya. Jabatan dimaksud terdiri atas: a) Jabatan Manajerial; dan b) Jabatan Nonmanajerial",
+ "note": "Peraturan Menteri Imigrasi dan Pemasyarakatan ini mulai berlaku pada tanggal 04 Mei 2026.\nPada saat Peraturan Menteri ini mulai berlaku, ketentuan mengenai Kelas Jabatan sebagaimana diatur dalam Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 9 Tahun 2021 tentang Jabatan dan Kelas Jabatan di Lingkungan Kementerian Hukum dan Hak Asasi Manusia (Berita Negara Republik Indonesia Tahun 2021 Nomor 102) sebagaimana telah diubah dengan Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 21 Tahun 2022 tentang Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 9 Tahun 2021 tentang Jabatan dan Kelas Jabatan di Lingkungan Kementerian Hukum dan Hak Asasi Manusia (Berita Negara Republik Indonesia Tahun 2022 Nomor 1083), dinyatakan tidak berlaku bagi Pegawai kecuali ketentuan Pasal 7A, Pasal 7B, dan Pasal 7C.\nLampiran file: 44 hlm (batang tubuh hlm 1 sd 5 dan lampiran hlm 6 sd 44)",
+ "citations": [
+  "UU-2008-39",
+  "PERPRES-2024-157",
+  "PERPRES-2025-30"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/416310/Permen_Nomor3_Tahun2026.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:20:41Z"
+}

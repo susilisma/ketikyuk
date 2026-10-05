@@ -12,7 +12,7 @@
  "about": "Pemberlakuan Standar Nasional Indonesia Kertas dan Karton Untuk Kemasan Pangan Secara Wajib",
  "issuer": "Kementerian Perindustrian",
  "subject": "STANDAR / PEDOMAN",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2020-08-06",
  "date_promulgated": "2020-08-11",
  "date_effective": null,
@@ -43,5 +43,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/159913/Permenperin_No._20_Tahun_2020_1.pdf"
  ],
- "fetched_at": "2026-09-14T06:38:59Z"
+ "fetched_at": "2026-10-05T05:13:35Z"
 }

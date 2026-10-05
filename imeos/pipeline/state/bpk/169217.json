@@ -12,7 +12,7 @@
  "about": "Tata Cara Pengelolaan Iuran dan Pelaporan Penyelenggaraan Program Tabungan Hari Tua, Jaminan Kecelakaan Kerja, dan Jaminan Kematian bagi Pegawai Aparatur Sipil Negara, Prajurit Tentara Nasional Indonesia, dan Anggota Kepolisian Negara Republik Indonesia",
  "issuer": "Kementerian Keuangan",
  "subject": "KEPEGAWAIAN, APARATUR NEGARA",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2021-06-14",
  "date_promulgated": "2021-06-14",
  "date_effective": "2021-06-14",
@@ -67,5 +67,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/162314/66_PMK.02_2021.pdf"
  ],
- "fetched_at": "2026-09-14T06:31:35Z"
+ "fetched_at": "2026-10-05T05:05:58Z"
 }

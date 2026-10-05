@@ -1,0 +1,42 @@
+{
+ "id": "PERMENKUM-2025-16",
+ "source": "bpk",
+ "bpk_id": 326183,
+ "url": "https://peraturan.bpk.go.id/Details/326183/permenkum-no-16-tahun-2025",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "16",
+ "number_raw": "16",
+ "year": 2025,
+ "title": "Peraturan Menteri Hukum Nomor 16 Tahun 2025 tentang Pelaporan Wasiat dan Permohonan Penerbitan Surat Keterangan Wasiat",
+ "about": "Pelaporan Wasiat dan Permohonan Penerbitan Surat Keterangan Wasiat",
+ "issuer": "Kementerian Hukum",
+ "subject": "PERIZINAN, PELAYANAN PUBLIK",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-05-14",
+ "date_promulgated": "2025-05-28",
+ "date_effective": "2025-11-28",
+ "gazette": "BN 2025 (369): 15 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133283,
+   "label": "Permenkumham No. 60 Tahun 2016",
+   "about": "Tata Cara Pelaporan Wasiat dan Permohonan Penerbitan Surat Keterangan Wasiat Secara Elektronik"
+  }
+ ],
+ "abstract": "Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 60 Tahun 2016 tentang Tata Cara Pelaporan Wasiat dan Permohonan Penerbitan Surat Keterangan Wasiat Secara Elektronik, sudah tidak sesuai dengan perkembangan hukum dan kebutuhan organisasi sehingga perlu diganti.\nDasar hukum Permenkum ini adalah Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; KUH Perdata; UU No 30 Tahun 2004; UU No. 39 Tahun 2008; Perpres No. 155 Tahun 2024; dan Permenkum No. 1 Tahun 2024.\nPermenkum ini mengatur mengenai Pelaporan Wasiat dan Permohonan Penerbitan Surat Keterangan Wasiat. Layanan jasa hukum di bidang Wasiat, terdiri atas: a. Pelaporan Wasiat; b. perbaikan Pelaporan Wasiat; c. pemberian SKW; d. pemberian Salinan SKW yang hilang atau rusak; dan e. perbaikan SKW.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 28 November 2025.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 60 Tahun 2016 tentang Tata Cara Pelaporan Wasiat dan Permohonan Penerbitan Surat Keterangan Wasiat Secara Elektronik (Berita Negara Republik Indonesia Tahun 2016 Nomor 2127), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 15 hlm.",
+ "citations": [
+  "PERMENKUMHAM-2016-60",
+  "UU-2004-30",
+  "UU-2008-39",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/387992/Permenkum%20Nomor%2016%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:19:42Z"
+}

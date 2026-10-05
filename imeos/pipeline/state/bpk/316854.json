@@ -1,0 +1,49 @@
+{
+ "id": "PERMENIMIPAS-2025-2",
+ "source": "bpk",
+ "bpk_id": 316854,
+ "url": "https://peraturan.bpk.go.id/Details/316854/permen-imipas-no-2-tahun-2025",
+ "form": "PERMENIMIPAS",
+ "form_long": "Peraturan Menteri Imigrasi dan Pemasyarakatan",
+ "number": "2",
+ "number_raw": "2",
+ "year": 2025,
+ "title": "Peraturan Menteri Imigrasi dan Pemasyarakatan Nomor 2 Tahun 2025 tentang Pengawasan Keimigrasian dan Tindakan Administratif Keimigrasian",
+ "about": "Pengawasan Keimigrasian dan Tindakan Administratif Keimigrasian",
+ "issuer": "Kementerian Imigrasi dan Pemasyarakatan",
+ "subject": "KEWARGANEGARAAN DAN IMIGRASI",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2025-02-07",
+ "date_promulgated": "2025-03-07",
+ "date_effective": "2025-03-07",
+ "gazette": "BN 2025 (155) : 34 hlm.; https://kemenimipas.go.id/",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 135887,
+   "label": "Permenkumham No. 4 Tahun 2017",
+   "about": "Tata Cara Pengawasan Keimigrasian"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133274,
+   "label": "Permenkumham No. 50 Tahun 2016",
+   "about": "Tim Pengawasan Orang Asing"
+  }
+ ],
+ "abstract": "Untuk meningkatkan pengawasan keimigrasian terhadap warga negara Indonesia, orang asing, dan penjamin serta untuk memberikan kepastian hukum dalam pelaksanaan tindakan administratif keimigrasian, perlu dilakukan penyesuaian terhadap beberapa ketentuan peraturan perundang-undangan mengenai pengawasan keimigrasian khususnya terhadap warga negara Indonesia, orang asing, dan penjamin, karena sudah tidak sesuai dengan kebutuhan masyarakat dan perkembangan hukum saat ini.\nDasar hukum Permen Imipas ini adalah Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU No. 39 Tahun 2008; UU No. 6 Tahun 2011; PP No. 31 Tahun 2013; Perpres No. 157 Tahun 2024; Permenkumham No. 19 Tahun 2018; Permen Imipas No. 1 Tahun 2024; dan Permen Imipas No. 2 Tahun 2024.\nPermen Imipas ini mengatur mengenai Pengawasan Keimigrasian dan Tindakan Administratif Keimigrasian. Menteri melakukan Pengawasan Keimigrasian yang meliputi: 1) pengawasan terhadap WNI; 2) pengawasan terhadap Orang Asing; dan 3) pengawasan terhadap Penjamin.",
+ "note": "Peraturan Menteri Imigrasi dan Pemasyarakatan ini mulai berlaku pada tanggal 07 Maret 2025.\nPada saat Peraturan Menteri ini mulai berlaku: a. Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 50 Tahun 2016 tentang Tim Pengawasan Orang Asing (Berita Negara Republik Indonesia Tahun 2016 Nomor 2060); dan b. Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 4 Tahun 2017 tentang Tata Cara Pengawasan Keimigrasian (Berita Negara Republik Indonesia Tahun 2017 Nomor 641), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 59 hlm. (batang tubuh hlm 1 s.d. 34 dan lampiran hlm 35 s.d. 59)",
+ "citations": [
+  "UU-2008-39",
+  "UU-2011-6",
+  "PP-2013-31",
+  "PERPRES-2024-157"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/378162/Permen%20Imipas%20Nomor%202%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:21:14Z"
+}

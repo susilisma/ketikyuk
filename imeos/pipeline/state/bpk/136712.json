@@ -1,0 +1,47 @@
+{
+ "id": "PMK-2020-3",
+ "source": "bpk",
+ "bpk_id": 136712,
+ "url": "https://peraturan.bpk.go.id/Details/136712/pmk-no-3pmk052020",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "3",
+ "number_raw": "3/PMK.05/2020",
+ "year": 2020,
+ "title": "Peraturan Menteri Keuangan Nomor 3/PMK.05/2020 Tahun 2020 tentang Tarif Layanan Badan Layanan Umum Sekolah Tinggi Ilmu Pelayaran Pada Kementerian Perhubungan",
+ "about": "Tarif Layanan Badan Layanan Umum Sekolah Tinggi Ilmu Pelayaran Pada Kementerian Perhubungan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BADAN LAYANAN UMUM",
+ "field": "Alias",
+ "date_enacted": "2020-01-03",
+ "date_promulgated": "2020-01-06",
+ "date_effective": "2020-01-21",
+ "gazette": "BN. 2020/NO. 5, JDIH.KEMENKEU.GO.ID : 8 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-22",
+   "target_bpk_id": 316120,
+   "label": "PMK No. 22 Tahun 2025",
+   "about": "Tarif Layanan Badan Layanan Umum Bidang Pendidikan dan Pelatihan Sumber Daya Manusia Perhubungan Pada Kementerian Perhubungan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2014-134",
+   "target_bpk_id": 136906,
+   "label": "PMK No. 134/PMK.05/2014",
+   "about": "Tarif Layanan Badan Layanan Umum Sekolah Tinggi Ilmu Pelayaran Pada Kementerian Perhubungan"
+  }
+ ],
+ "abstract": "bahwa berdasarkan ketentuan Pasal 9 Peraturan Pemerintah Nomor 23 Tahun 2005 tentang Pengelolaan Keuangan Badan Layanan Umum sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 74 Tahun 2012, Badan Layanan Umum Sekolah Tinggi Ilmu Pelayaran pada Kementerian Perhubungan telah ditetapkan sebagai Instansi Pemerintah yang menerapkan Pengelolaan Keuangan Badan Layanan Umum yang ditetapkan oleh Menteri Keuangan atas usulan Menteri Perhubungan melalui Surat Nomor PR 301/1/1/15 PHB 2019 tanggal 26 April 2019, telah dibahas dan dikaji oleh Tim Penilai\nPasal 17 ayat (3) UUD Tahun 1945, PP No. 23 Tahun 2005 (LN Tahun 2005 No. 48, TLN 4502) sebagaimana telah diubah dengan PP No. 74 Tahun 2012 (LN Tahun 2012 No. 171, TLN 5340); Permenkeu RI No. 100/PMK.05/2016 (BN Tahun 2016 No. 915).\nDalam Peraturan Menteri Keuangan Republik Indonesia ini diatur:\nTarif layanan Badan Layanan Umum Sekolah Tinggi Ilmu Pelayaran pada Kementerian Perhubungan merupakan imbalan atas jasa layanan yang diberikan oleh Badan Layanan Umum Sekolah Tinggi Ilmu Pelayaran pada Kementerian Perhubungan kepada pengguna jasa, dengan Tarif layanan yang terdiri atas tarif layanan akademik dan tarif layanan penunjang akademik.\nBadan Layanan Umum Sekolah Tinggi Ilmu Pelayaran pada Kementerian Perhubungan dapat memberikan Jasa layanan di bidang pendidikan, penelitian, dan pengabdian kepada masyarakat berdasarkan kebutuhan dari pihak pengguna jasa melalui kontrak kerja sama. Badan Layanan Umum Sekolah Tinggi Ilmu Pelayaran pada Kementerian Perhubungan dapat melakukan Kerja Sama Operasional (KSO) dan/atau kerja sama manajemen dengan pihak lain untuk meningkatkan layanan jasa di bidang pendidikan, penelitian, dan pengabdian kepada masyarakat. Terhadap taruna atau peserta didik tertentu dapat diberikan tarif layanan sampai dengan nol rupiah dari tarif layanan.",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 21 Januari 2020.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 134/PMK.05/2014 tentang Tarif Layanan Badan Layanan Umum Sekolah Tinggi Ilmu Pelayaran pada Kementerian Perhubungan, dicabut dan dinyatakan tidak berlaku.\n-\n25 HLM, Lampiran halaman 9 s.d. 25",
+ "citations": [
+  "PP-2005-23",
+  "PP-2012-74"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/127616/3_PMK.05_2020Per.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:08:57Z"
+}

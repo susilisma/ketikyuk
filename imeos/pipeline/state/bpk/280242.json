@@ -1,0 +1,51 @@
+{
+ "id": "PERMENKUMHAM-2022-22",
+ "source": "bpk",
+ "bpk_id": 280242,
+ "url": "https://peraturan.bpk.go.id/Details/280242/permenkumham-no-22-tahun-2022",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "22",
+ "number_raw": "22",
+ "year": 2022,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 22 Tahun 2022 tentang Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 10 Tahun 2021 tentang Pelaksanaan Pemberian Tunjangan Kinerja di Lingkungan Kementerian Hukum dan Hak Asasi Manusia",
+ "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 10 Tahun 2021 tentang Pelaksanaan Pemberian Tunjangan Kinerja di Lingkungan Kementerian Hukum dan Hak Asasi Manusia",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA - KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2022-10-19",
+ "date_promulgated": "2022-10-25",
+ "date_effective": "2022-10-25",
+ "gazette": "BN 2022 (1084) : 9 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": null,
+   "target_bpk_id": 352489,
+   "label": "Permen Imipas No. 4 Tahun 2026",
+   "about": "Pelaksanaan Pemberian Tunjangan Kinerja di Lingkungan Kementerian Imigrasi dan Pemasyarakatan"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": null,
+   "target_bpk_id": 350888,
+   "label": "Permenkum No. 39 Tahun 2025",
+   "about": "Pelaksanaan Pemberian Tunjangan Kinerja di Lingkungan Kementerian Hukum"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 170955,
+   "label": "Permenkumham No. 10 Tahun 2021",
+   "about": "Pelaksanaan Pemberian Tunjangan Kinerja di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 25 Oktober 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/339006/Nomor%2022%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:18:42Z"
+}

@@ -1,0 +1,44 @@
+{
+ "id": "PERMENDAG-2019-83",
+ "source": "bpk",
+ "bpk_id": 173143,
+ "url": "https://peraturan.bpk.go.id/Details/173143/permendag-no-83-tahun-2019",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "83",
+ "number_raw": "83",
+ "year": 2019,
+ "title": "Peraturan Menteri Perdagangan Nomor 83 Tahun 2019 tentang Pengangkatan Pegawai Negeri Sipil dalam Jabatan Fungsional Penera, Pengawas Kemetrologian, dan Penguji Mutu Barang Melalui Penyesuaian/Inpassing",
+ "about": "Pengangkatan Pegawai Negeri Sipil dalam Jabatan Fungsional Penera, Pengawas Kemetrologian, dan Penguji Mutu Barang Melalui Penyesuaian/Inpassing",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA - JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "Alias",
+ "date_enacted": "2019-10-18",
+ "date_promulgated": "2019-10-21",
+ "date_effective": "2019-10-21",
+ "gazette": "BN.2019/No.1246, http://jdih.kemendag.go.id : 19 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2025-4",
+   "target_bpk_id": 320775,
+   "label": "Permendag No. 4 Tahun 2025",
+   "about": "Petunjuk Pelaksanaan dan Petunjuk Teknis Jabatan Fungsional di Bidang Perdagangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2017-67",
+   "target_bpk_id": 128783,
+   "label": "Permendag No. 67/M-DAG/PER/9/2017 Tahun 2017",
+   "about": "Petunjuk Teknis Pelaksanaan Penyesuaian (Inpassing) Dalam Jabatan Fungsional Penera, Pengamat Tera, Pranata Laboratorium Kemetrologian, Pengawas Kemetrologian, dan Penguji Mutu Barang"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 21 Oktober 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/166335/Permendag%20Nomor%2083%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:12:19Z"
+}

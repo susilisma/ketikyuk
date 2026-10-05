@@ -1,0 +1,56 @@
+{
+ "id": "PP-2025-9",
+ "source": "bpk",
+ "bpk_id": 314626,
+ "url": "https://peraturan.bpk.go.id/Details/314626/pp-no-9-tahun-2025",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "9",
+ "number_raw": "9",
+ "year": 2025,
+ "title": "Peraturan Pemerintah (PP) Nomor 9 Tahun 2025 tentang Besaran dan Penggunaan Iuran Badan Usaha dalam Kegiatan Usaha Minyak dan Gas Bumi pada Badan Pengatur Hilir Minyak dan Gas Bumi",
+ "about": "Besaran dan Penggunaan Iuran Badan Usaha dalam Kegiatan Usaha Minyak dan Gas Bumi pada Badan Pengatur Hilir Minyak dan Gas Bumi",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERTAMBANGAN MIGAS, MINERAL DAN ENERGI",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2025-02-20",
+ "date_promulgated": "2025-02-20",
+ "date_effective": "2025-03-22",
+ "gazette": "LN 2025 (24), TLN (7096) : 19 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PP-2019-48",
+   "target_bpk_id": 111899,
+   "label": "PP No. 48 Tahun 2019",
+   "about": "Besaran dan Penggunaan Iuran Badan Usaha Dalam Kegiatan Usaha Penyediaan dan Pendistribusian Bahan Bakar Minyak dan Pengangkutan Gas Bumi Melalui Pipa"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "PP-2012-49",
+   "target_bpk_id": 5262,
+   "label": "PP No. 49 Tahun 2012",
+   "about": "Perubahan Atas Peraturan Pemerintah Nomor 67 Tahun 2002 Tentang Badan Pengatur Penyediaan Dan Pendistribusian Bahan Bakar Minyak Dan Kegiatan Usaha Pengangkutan Gas Bumi Melalui Pipa"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "PP-2002-67",
+   "target_bpk_id": 52618,
+   "label": "PP No. 67 Tahun 2002",
+   "about": "Badan Pengatur Penyediaan Dan Pendistribusian Bahan Bakar Minyak Dan Kegiatan Usaha Pengangkutan Gas Bumi Melalui Pipa"
+  }
+ ],
+ "abstract": "Untuk melakukan penyesuaian mekanisme pengelolaan PNBP mengenai besaran dan penggunaan iuran badan usaha dalam kegiatan usaha penyediaan dan pendistribusian BBM dan pengangkutan gas bumi mealui pipa sebagaimana diatur dalam PP Nomor 48 Tahun 2019, perlu mengatur kembali PP Nomor tentang Besaran dan Penggunaan Iuran Badan Usaha dalam kegiatan usaha penyediaan dan pendistribusian BBM dan pengangkutan gas bumi melalui pipa.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD NRI Tahun 1945; UU Nomor 22 Tahun 2001; UU Nomor 9 Tahun 2018; dan PP Nomor 67 Tahun 2002.\nPP ini mengatur mengenai besaran dan penggunaan Iuran Badan Usaha dalam kegiatan usaha minyak dan gas bumi pada Badan Pengatur Hilir Minyak dan Gas Bumi. Badan Usaha yang melakukan kegiatan penyediaan dan pendistribusian Bahan Bakar Minyak dan/atau Niaga Bahan Bakar Minyak wajib membayar Iuran kepada Badan Pengatur. Badan Usaha yang melakukan kegiatan: a) Pengangkutan Gas Bumi Melalui Pipa; dan/atau b) Usaha Niaga Gas Bumi melalui pipa yang memiliki fasilitas jaringan distribusi, wajib membayar Iuran kepada Badan Pengatur.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 22 Maret 2025.\nPP ini mencabut Pasal 33 ayat (6) PP Nomor 67 Tahun 2002 beserta perubahannya dan PP Nomor 48 Tahun 2019.\nLampiran file: 26 hlm. (batang tubuh hlm 1 s.d. 19 dan penjelasan hlm 20 s.d. 26)",
+ "citations": [
+  "PP-2019-48",
+  "UU-2001-22",
+  "UU-2018-9",
+  "PP-2002-67"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/375606/PP%20Nomor%209%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T04:59:12Z"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKUMHAM-2011-MHH10OT0201",
+ "source": "bpk",
+ "bpk_id": 134439,
+ "url": "https://peraturan.bpk.go.id/Details/134439/permenkumham-no-mhh-10ot0201-tahun-2011",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "MHH10OT0201",
+ "number_raw": "M.HH-10.OT.02.01",
+ "year": 2011,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor M.HH-10.OT.02.01 Tahun 2011 tentang Mars Kementerian Hukum dan Hak Asasi Manusia",
+ "about": "Mars Kementerian Hukum dan Hak Asasi Manusia",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "Alias",
+ "date_enacted": "2011-10-14",
+ "date_promulgated": "2011-10-17",
+ "date_effective": "2011-10-17",
+ "gazette": "BN.2011/No.649, peraturan.go.id: 3 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 317309,
+   "label": "Permenkum No. 10 Tahun 2025",
+   "about": "Logo dan Mars Kementerian Hukum"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 17 Oktober 2011.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/125226/bn649-2011.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:20:00Z"
+}

@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2005-77",
+ "source": "bpk",
+ "bpk_id": 42603,
+ "url": "https://peraturan.bpk.go.id/Details/42603/perpres-no-77-tahun-2005",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "77",
+ "number_raw": "77",
+ "year": 2005,
+ "title": "Peraturan Presiden (Perpres) Nomor 77 Tahun 2005 tentang Penetapan Pupuk Bersubsidi Sebagai Barang dalam Pengawasan",
+ "about": "Penetapan Pupuk Bersubsidi Sebagai Barang dalam Pengawasan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PANGAN, PERTANIAN DAN PETERNAKAN",
+ "field": "Alias",
+ "date_enacted": "2005-12-29",
+ "date_promulgated": null,
+ "date_effective": "2005-12-29",
+ "gazette": "LLSETKAB : 4 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2025-6",
+   "target_bpk_id": 313407,
+   "label": "Perpres No. 6 Tahun 2025",
+   "about": "Tata Kelola Pupuk Bersubsidi"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2011-15",
+   "target_bpk_id": 41149,
+   "label": "PERPRES No. 15 Tahun 2011",
+   "about": "Perubahan atas Peraturan Presiden Nomor 77 Tahun 2005 tentang Penetapan Pupuk Bersubsidi Sebagai Barang dalam Pengawasan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 29 Desember 2005.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/73279/PERPRES%20NO%2077%20TH%202005.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:03:25Z"
+}

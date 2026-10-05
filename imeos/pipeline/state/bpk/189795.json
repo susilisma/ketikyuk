@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2021-178",
+ "source": "bpk",
+ "bpk_id": 189795,
+ "url": "https://peraturan.bpk.go.id/Details/189795/pmk-no-178pmk022021",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "178",
+ "number_raw": "178/PMK.02/2021",
+ "year": 2021,
+ "title": "Peraturan Menteri Keuangan Nomor 178/PMK.02/2021 Tahun 2021 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 174/PMK.02/2019 tentang Tata Cara Penyediaan, Penghitungan, Pembayaran, dan Pertanggungjawaban Subsidi Listrik",
+ "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 174/PMK.02/2019 tentang Tata Cara Penyediaan, Penghitungan, Pembayaran, dan Pertanggungjawaban Subsidi Listrik",
+ "issuer": "Kementerian Keuangan",
+ "subject": "SUBSIDI, PSO",
+ "field": "Alias",
+ "date_enacted": "2021-12-07",
+ "date_promulgated": "2021-12-07",
+ "date_effective": "2021-12-07",
+ "gazette": "BN.2021/NO. 1332; https:jdih.kemenkeu.go.id : 11 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-20",
+   "target_bpk_id": 316100,
+   "label": "PMK No. 20 Tahun 2025",
+   "about": "Tata Cara Penyediaan, Penghitungan, Pembayaran dan Pertanggungjawaban Subsidi Listrik"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PMK-2019-174",
+   "target_bpk_id": 128297,
+   "label": "PMK No. 174/PMK.02/2019 Tahun 2019",
+   "about": "Tata Cara Penyediaan, Penghitungan, Pembayaran, Dan Pertanggungjawaban Subsidi Listrik"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 07 Desember 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/183472/178_PMK.02_2021.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:09:20Z"
+}

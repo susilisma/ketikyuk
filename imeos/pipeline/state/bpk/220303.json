@@ -1,0 +1,37 @@
+{
+ "id": "PERKABPOM-2017-10",
+ "source": "bpk",
+ "bpk_id": 220303,
+ "url": "https://peraturan.bpk.go.id/Details/220303/perka-bpom-no-10-tahun-2017",
+ "form": "PERKABPOM",
+ "form_long": "Peraturan Kepala Badan Pengawas Obat dan Makanan",
+ "number": "10",
+ "number_raw": "10",
+ "year": 2017,
+ "title": "Peraturan Kepala Badan Pengawas Obat dan Makanan Nomor 10 Tahun 2017 tentang Penerapan Pedoman Cara Pembuatan Obat yang Baik di Unit Transfusi Darah dan Pusat Plasmaferesis",
+ "about": "Penerapan Pedoman Cara Pembuatan Obat yang Baik di Unit Transfusi Darah dan Pusat Plasmaferesis",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "KESEHATAN - STANDAR / PEDOMAN",
+ "field": "Alias",
+ "date_enacted": "2017-05-29",
+ "date_promulgated": "2017-06-20",
+ "date_effective": "2017-06-20",
+ "gazette": "BN.2017/No.869, jdih.pom.go.id: 6 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 320018,
+   "label": "Peraturan BPOM No. 11 Tahun 2025",
+   "about": "Standar Cara Pembuatan Obat yang Baik di Unit\r\nPengelola Darah dan Bank Plasma"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Kepala Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 20 Juni 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/214727/Peraturan%20Kepala%20BPOM%20Nomor%2010%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:29:11Z"
+}

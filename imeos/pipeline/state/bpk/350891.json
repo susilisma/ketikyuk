@@ -1,0 +1,41 @@
+{
+ "id": "PERMENKUM-2025-43",
+ "source": "bpk",
+ "bpk_id": 350891,
+ "url": "https://peraturan.bpk.go.id/Details/350891/permenkum-no-43-tahun-2025",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "43",
+ "number_raw": "43",
+ "year": 2025,
+ "title": "Peraturan Menteri Hukum Nomor 43 Tahun 2025 tentang Unit Kerja Pengadaan Barang/Jasa",
+ "about": "Unit Kerja Pengadaan Barang/Jasa",
+ "issuer": "Kementerian Hukum",
+ "subject": "PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA - PENGADAAN BARANG / JASA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-10-29",
+ "date_promulgated": "2025-10-30",
+ "date_effective": "2025-10-30",
+ "gazette": "BN 2025 (890): 12 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133130,
+   "label": "Permenkumham No. 16 Tahun 2019",
+   "about": "Unit Kerja Pengadaan Barang dan Jasa di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "Untuk menjamin pelaksanaan pengadaan barang/jasa agar lebih terintegrasi sesuai dengan tujuan, kebijakan, prinsip, dan etika pengadaan barang/jasa pemerintah, serta dapat dipertanggungjawabkan melalui satu sistem pengadaan barang/jasa pemerintah, perlu didukung oleh Unit Kerja Pengadaan Barang/Jasa di Kementerian Hukum.\nDasar hukum Permenkum ini adalah Pasal 17 ayat (3) UUD 1945; UU No. 39 Tahun 2008; Perpres No. 16 Tahun 2018; Perpres No. 155 Tahun 2024; Permen PANRB No. 31 Tahun 2021; dan Permenkum No. 1 Tahun 2024.\nPermenkum ini mengatur mengenai Unit Kerja Pengadaan Barang/Jasa (UKPBJ). Perangkat Organisasi UKPBJ terdiri atas: a. Kepala UKPBJ; b. Sekretaris UKPBJ; c. Tim Kerja; dan d. Kelompok Jabatan Fungsional dan Pelaksana.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 30 Oktober 2025.\nPada saat Peraturan Menteri ini mulai berlaku: a. Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor M.HH-45.PL.02.02 Tahun 2011 tentang Pengadaan Barang/Jasa Secara Elektronik di Lingkungan Kementerian Hukum dan Hak Asasi Manusia (Berita Negara Republik Indonesia Tahun 2011 Nomor 801); dan b. Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 16 Tahun 2019 tentang Unit Kerja Pengadaan Barang dan Jasa di Lingkungan Kementerian Hukum dan Hak Asasi Manusia (Berita Negara Republik Indonesia Tahun 2019 Nomor 856), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 12 hlm.",
+ "citations": [
+  "UU-2008-39",
+  "PERPRES-2018-16",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/414646/Permenkum%20Nomor%2043%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:18:31Z"
+}

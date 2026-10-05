@@ -1,0 +1,39 @@
+{
+ "id": "PERBPOM-2025-27",
+ "source": "bpk",
+ "bpk_id": 334134,
+ "url": "https://peraturan.bpk.go.id/Details/334134/peraturan-bpom-no-27-tahun-2025",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "27",
+ "number_raw": "27",
+ "year": 2025,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 27 Tahun 2025 tentang Standar Kegiatan Usaha dan Produk pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Subsektor Obat dan Makanan",
+ "about": "Standar Kegiatan Usaha dan Produk pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Subsektor Obat dan Makanan",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "STANDAR / PEDOMAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-10-03",
+ "date_promulgated": "2025-10-03",
+ "date_effective": "2025-10-03",
+ "gazette": "BN 205 (747); 198 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 181750,
+   "label": "Peraturan BPOM No. 10 Tahun 2021",
+   "about": "Standar Kegiatan Usaha dan Produk pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Obat dan Makanan"
+  }
+ ],
+ "abstract": "bahwa untuk melaksanakan ketentuan Pasal 5 ayat (7)\nPeraturan Pemerintah Nomor 28 Tahun 2025 tentang\nPenyelenggaraan Perizinan Berusaha Berbasis Risiko\nDasar hukum peraturan ini adalah UU 6/2023;\nPP 28/2025;\nPerpres 80/2017;\nPerba BPOM 21/2020 sebagaimana diubah dengan Perba BPOM 13/2022;\nPerba BPOM 19/2023 sebagaimana diubah dengan Perba BPOM 3/2025.\nPeraturan ini mengatur mengenai standar kegiatan usaha dan produk pada\npenyelenggaraan perizinan berusaha berbasis risiko subsektor\nobat dan makanan",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 03 Oktober 2025.",
+ "citations": [
+  "PP-2025-28"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/396690/peraturan-bpom-no-27-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:28:31Z"
+}

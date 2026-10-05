@@ -1,0 +1,51 @@
+{
+ "id": "PERBPOM-2018-35",
+ "source": "bpk",
+ "bpk_id": 219917,
+ "url": "https://peraturan.bpk.go.id/Details/219917/peraturan-bpom-no-35-tahun-2018",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "35",
+ "number_raw": "35",
+ "year": 2018,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 35 Tahun 2018 tentang Pelaksanaan Pemberian Tunjangan Kinerja Pegawai di Lingkungan Badan Pengawas Obat dan Makanan",
+ "about": "Pelaksanaan Pemberian Tunjangan Kinerja Pegawai di Lingkungan Badan Pengawas Obat dan Makanan",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA - KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "Alias",
+ "date_enacted": "2018-12-28",
+ "date_promulgated": "2018-12-28",
+ "date_effective": "2018-12-28",
+ "gazette": "BN.2018/No.1760, jdih.pom.go.id: 19 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 321138,
+   "label": "Peraturan BPOM No. 13 Tahun 2025",
+   "about": "Pelaksanaan Pemberian Tunjangan Kinerja Pegawai di Lingkungan Badan Pengawas Obat dan Makanan"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 219846,
+   "label": "Peraturan BPOM No. 29 Tahun 2018",
+   "about": "Perubahan atas Peraturan Badan Pengawas Obat dan Makanan Nomor 15 Tahun 2018 tentang Ketentuan Teknis Pelaksanaan Pemberian Tunjangan Kinerja Pegawai di  Lingkungan Badan Pengawas Obat dan Makanan"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 183208,
+   "label": "Peraturan BPOM No. 15 Tahun 2018",
+   "about": "Ketentuan Teknis Pelaksanaan Pemberian Tunjangan Kinerja Pegawai di Lingkungan Badan Pengawas Obat dan Makanan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 28 Desember 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/214330/Peraturan%20BPOM%20Nomor%2035%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:29:05Z"
+}

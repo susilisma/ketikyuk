@@ -12,7 +12,7 @@
  "about": "Perubahan Atas Peraturan Menteri Keuangan Nomor 75/PMK.08/2013 Tentang Pembelian Kembali Surat Berharga Syariah Negara",
  "issuer": "Kementerian Keuangan",
  "subject": "PASAR MODAL DAN PERDAGANGAN BERJANGKA KOMODITI",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2015-01-23",
  "date_promulgated": "2015-01-27",
  "date_effective": "2015-01-27",
@@ -40,5 +40,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/113197/PERATURAN%20MENTERI%20KEUANGAN%20NOMOR%2016-PMK.08-2015.PDF"
  ],
- "fetched_at": "2026-09-14T06:33:07Z"
+ "fetched_at": "2026-10-05T05:07:35Z"
 }

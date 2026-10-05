@@ -1,0 +1,37 @@
+{
+ "id": "PERPRES-2026-2",
+ "source": "bpk",
+ "bpk_id": 348122,
+ "url": "https://peraturan.bpk.go.id/Details/348122/perpres-no-2-tahun-2026",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "2",
+ "number_raw": "2",
+ "year": 2026,
+ "title": "Peraturan Presiden (Perpres) Nomor 2 Tahun 2026 tentang Urusan Pemerintahan Konkuren Tambahan di Bidang Pertanian",
+ "about": "Urusan Pemerintahan Konkuren Tambahan di Bidang Pertanian",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PANGAN, PERTANIAN DAN PETERNAKAN",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2026-01-26",
+ "date_promulgated": "2026-01-26",
+ "date_effective": "2026-01-26",
+ "gazette": "LN 2026 (6) : 5 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2022-35",
+   "target_bpk_id": 201275,
+   "label": "PERPRES No. 35 Tahun 2022",
+   "about": "Penguatan Fungsi Penyuluhan Pertanian"
+  }
+ ],
+ "abstract": "Untuk mewujudkan swasembada pangan berkelanjutan melalui penguatan sistem penyuluhan pertanian, perlu mengatur urusan\npemerintahan konkuren tambahan di bidang pertanian.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD 1945.\nPerpres ini mengatur mengenai urusan pemerintahan konkuren tambahan di bidang pertanian. Pelaksanaan Urusan Pemerintahan Konkuren Tambahan di bidang Pertanian pada subbidang Penyuluhan Pertanian diatur dengan Peraturan Menteri yang menyelenggarakan urusan pemerintahan bidang Pertanian.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 26 Januari 2026.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 35 Tahun 2022 tentang Penguatan Fungsi Penyuluhan Pertanian (Lembaran Negara Republik Indonesia Tahun 2022 Nomor 57), dicabut dan dinyatakan tidak berlaku.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/411697/Perpres%20Nomor%202%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:00:44Z"
+}

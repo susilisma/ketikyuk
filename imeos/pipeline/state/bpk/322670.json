@@ -1,0 +1,53 @@
+{
+ "id": "PERMENKES-2025-7",
+ "source": "bpk",
+ "bpk_id": 322670,
+ "url": "https://peraturan.bpk.go.id/Details/322670/permenkes-no-7-tahun-2025",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "7",
+ "number_raw": "7",
+ "year": 2025,
+ "title": "Peraturan Menteri Kesehatan Nomor 7 Tahun 2025 tentang Perubahan Penggolongan Narkotika",
+ "about": "Perubahan Penggolongan Narkotika",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-06-26",
+ "date_promulgated": "2025-06-30",
+ "date_effective": "2025-06-30",
+ "gazette": "BN 2025 (447); 19 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2025-15",
+   "target_bpk_id": 343789,
+   "label": "Permenkes No. 15 Tahun 2025",
+   "about": "Perubahan Penggolongan Narkotika"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2023-30",
+   "target_bpk_id": 275562,
+   "label": "Permenkes No. 30 Tahun 2023",
+   "about": "Perubahan Penggolongan Narkotika"
+  }
+ ],
+ "abstract": "bahwa terdapat zat psikoaktif baru yang berpotensi\ndisalahgunakan dan membahayakan kesehatan\nmasyarakat yang belum termasuk dalam golongan\nnarkotika sebagaimana diatur dalam Lampiran I\nUndang-Undang Nomor 35 Tahun 2009 tentang\nNarkotika dan Peraturan Menteri Kesehatan Nomor 30\nTahun 2023 tentang Perubahan Penggolongan Narkotika\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD 1945; UU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024; UU Nomor 35 Tahun 2009 sebagaimana telah diubah dengan UU Nomor 6 Tahun 2023; PP Nomor 40 Tahun 2013; Perpres Nomor 161 Tahun 2024; Permenkes Nomor 21 Tahun 2024\nPeraturan ini menetapkan perubahan penggolongan Narkotika\nGolongan I, Narkotika Golongan II, dan Narkotika\nGolongan III. Perubahan penggolongan Narkotika dilakukan berdasarkan adanya\nzat psikoaktif yang berpotensi disalahgunakan dan/atau\nmengakibatkan ketergantungan, serta belum termasuk\ndalam golongan Narkotika",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 30 Juni 2025.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan\nMenteri Kesehatan Nomor 30 Tahun 2023 tentang Perubahan\nPenggolongan Narkotika (Berita Negara Republik Indonesia\nTahun 2023 Nomor 643), dicabut dan dinyatakan tidak\nberlaku",
+ "citations": [
+  "UU-2009-35",
+  "PERMENKES-2023-30",
+  "UU-2008-39",
+  "UU-2024-61",
+  "UU-2023-6",
+  "PP-2013-40",
+  "PERPRES-2024-161",
+  "PERMENKES-2024-21"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/384474/permenkes-no-7-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:23:32Z"
+}

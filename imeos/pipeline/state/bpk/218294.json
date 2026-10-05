@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKES-2022-7",
+ "source": "bpk",
+ "bpk_id": 218294,
+ "url": "https://peraturan.bpk.go.id/Details/218294/permenkes-no-7-tahun-2022",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "7",
+ "number_raw": "7",
+ "year": 2022,
+ "title": "Peraturan Menteri Kesehatan Nomor 7 Tahun 2022 tentang Penyelenggaraan Program Internsip Dokter dan Dokter Gigi",
+ "about": "Penyelenggaraan Program Internsip Dokter dan Dokter Gigi",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "PENDIDIKAN - JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "Alias",
+ "date_enacted": "2022-03-23",
+ "date_promulgated": "2022-03-24",
+ "date_effective": "2022-03-24",
+ "gazette": "BN.2022/No.314, peraturan.go.id: 22 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2025-13",
+   "target_bpk_id": 335214,
+   "label": "Permenkes No. 13 Tahun 2025",
+   "about": "Pengelolaan Sumber Daya Manusia Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2017-39",
+   "target_bpk_id": 112109,
+   "label": "Permenkes No. 39 Tahun 2017",
+   "about": "Penyelenggaraan Program Internsip Dokter dan Dokter Gigi Indonesia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 24 Maret 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/212687/Permenkes%20Nomor%207%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:23:38Z"
+}

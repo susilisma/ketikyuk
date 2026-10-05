@@ -1,0 +1,58 @@
+{
+ "id": "PERATURANBI-2019-21",
+ "source": "bpk",
+ "bpk_id": 135913,
+ "url": "https://peraturan.bpk.go.id/Details/135913/peraturan-bi-no-2110pbi2019-tahun-2019",
+ "form": "PERATURANBI",
+ "form_long": "Peraturan Bank Indonesia",
+ "number": "21",
+ "number_raw": "21/10/PBI/2019",
+ "year": 2019,
+ "title": "Peraturan Bank Indonesia Nomor 21/10/PBI/2019 Tahun 2019 tentang Pengelolaan Uang Rupiah",
+ "about": "Pengelolaan Uang Rupiah",
+ "issuer": "Bank Indonesia",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN - PEREKONOMIAN",
+ "field": "Alias",
+ "date_enacted": "2019-08-30",
+ "date_promulgated": "2019-08-30",
+ "date_effective": "2019-08-30",
+ "gazette": "BN 2019/NO 154; PERATURAN.GO.ID 41 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 347283,
+   "label": "Peraturan BI No. 3 Tahun 2026",
+   "about": "Uang Rupiah Kertas dan Logam"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 135673,
+   "label": "Peraturan BI No. 18/15/PBI/2016 Tahun 2016",
+   "about": "Penyelenggara Jasa Pengolahan Uang Rupiah"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 136584,
+   "label": "Peraturan BI No. 14/7/PBI/2012 Tahun 2012",
+   "about": "Pengelolaan Uang Rupiah"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 136585,
+   "label": "Peraturan BI No. 14/13/PBI/2012 Tahun 2012",
+   "about": "Penitipan Sementara Surat yang Berharga dan Barang Berharga pada Bank Indonesia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Bank Indonesia ini mulai berlaku pada tanggal 30 Agustus 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/126776/Peraturan%20BI%20No.%2021-10-PBI%202019.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:30:49Z"
+}

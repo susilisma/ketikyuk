@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKES-2015-30",
+ "source": "bpk",
+ "bpk_id": 115838,
+ "url": "https://peraturan.bpk.go.id/Details/115838/permenkes-no-30-tahun-2015",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "30",
+ "number_raw": "30",
+ "year": 2015,
+ "title": "Peraturan Menteri Kesehatan Nomor 30 Tahun 2015 tentang Izin Dan Penyelenggaraan Praktik Teknisi Kardiovaskuler",
+ "about": "Izin Dan Penyelenggaraan Praktik Teknisi Kardiovaskuler",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - PENDIDIKAN - PERIZINAN, PELAYANAN PUBLIK",
+ "field": "Alias",
+ "date_enacted": "2015-04-13",
+ "date_promulgated": "2015-06-17",
+ "date_effective": "2015-06-17",
+ "gazette": "BN.2015/NO. 896, kemenkes.go.id : 11 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2025-13",
+   "target_bpk_id": 335214,
+   "label": "Permenkes No. 13 Tahun 2025",
+   "about": "Pengelolaan Sumber Daya Manusia Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 17 Juni 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/106753/Permenkes%20Nomor%2030%20Tahun%202015.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:24:09Z"
+}

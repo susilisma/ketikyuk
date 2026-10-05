@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKES-2018-24",
+ "source": "bpk",
+ "bpk_id": 111926,
+ "url": "https://peraturan.bpk.go.id/Details/111926/permenkes-no-24-tahun-2018",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "24",
+ "number_raw": "24",
+ "year": 2018,
+ "title": "Peraturan Menteri Kesehatan Nomor 24 Tahun 2018 tentang Izin Dan Penyelenggaraan Praktik Tenaga Kesehatan Tradisional Jamu",
+ "about": "Izin Dan Penyelenggaraan Praktik Tenaga Kesehatan Tradisional Jamu",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - KETENAGAKERJAAN - PERIZINAN, PELAYANAN PUBLIK",
+ "field": "Alias",
+ "date_enacted": "2018-06-28",
+ "date_promulgated": "2018-07-23",
+ "date_effective": "2018-07-23",
+ "gazette": "BN.2018/NO.943, kemkes.go.id : 16 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2025-13",
+   "target_bpk_id": 335214,
+   "label": "Permenkes No. 13 Tahun 2025",
+   "about": "Pengelolaan Sumber Daya Manusia Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 23 Juli 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/102874/Pemenkes%20Nomor%2024%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:23:51Z"
+}

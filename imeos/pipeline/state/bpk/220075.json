@@ -1,0 +1,48 @@
+{
+ "id": "PP-2022-26",
+ "source": "bpk",
+ "bpk_id": 220075,
+ "url": "https://peraturan.bpk.go.id/Details/220075/pp-no-26-tahun-2022",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "26",
+ "number_raw": "26",
+ "year": 2022,
+ "title": "Peraturan Pemerintah (PP) Nomor 26 Tahun 2022 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Kementerian Energi dan Sumber Daya Manusia",
+ "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Kementerian Energi dan Sumber Daya Manusia",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERTAMBANGAN MIGAS, MINERAL DAN ENERGI - PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
+ "field": "Alias",
+ "date_enacted": "2022-08-15",
+ "date_promulgated": "2022-08-15",
+ "date_effective": "2022-09-14",
+ "gazette": "LN.2022/No.167, TLN No.6813, jdih.setneg.go.id: 9 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2025-19",
+   "target_bpk_id": 320049,
+   "label": "PP No. 19 Tahun 2025",
+   "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Kementerian Energi dan Sumber Daya Mineral"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2019-81",
+   "target_bpk_id": 126145,
+   "label": "PP No. 81 Tahun 2019",
+   "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Kementerian Energi dan Sumber Daya Mineral"
+  }
+ ],
+ "abstract": "Untuk melakukan penyesuaian jenis dan tarif atas jenis Penerimaan Negara Bukan Pajak (PNBP) yang berlaku pada Kementerian Energi dan Sumber Daya Mineral sebagaimana telah diatur dalam PP Nomor 81 Tahun 2019 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang berlaku pada Kementerian Energi dan Sumber Daya Mineral, perlu mengatur kembali PP tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang berlaku pada Kementerian Energi dan Sumber Daya Mineral.\nDasar hukum PP ini Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 9 Tahun 2018; dan PP Nomor 69 Tahun 2020.\nPP ini mengatur mengenai penyesuaian terhadap jenis dan tarif atas jenis PNBP pada Kementerian Energi dan Sumber Daya Mineral (Kementerian ESDM). Jenis PNBP yang berlaku pada Kementerian ESDM berasal dari penerimaan: 1) pemanfataan sumber daya alam; 2) pelayanan bidang energi dan sumber daya mineral; 3) penggunaan sarana dan prasarana sesuai dengan tugas dan fungsi; 4) denda administratif; dan 5) penempatan jaminan bidang energi dan sumber daya mineral. Seluruh PNBP yang berlaku pada Kementerian ESDM wajib disetor ke kas negara.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 14 September 2022.\nPP ini mencabut PP Nomor 81 Tahun 2019.\nPenjelasan: 5 hlm; Lampiran: 50 hlm.",
+ "citations": [
+  "PP-2019-81",
+  "UU-2018-9",
+  "PP-2020-69"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/214495/PP%20Nomor%2026%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-10-05T04:59:01Z"
+}

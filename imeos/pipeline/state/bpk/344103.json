@@ -1,0 +1,51 @@
+{
+ "id": "PERMENKOMINFO-2026-2",
+ "source": "bpk",
+ "bpk_id": 344103,
+ "url": "https://peraturan.bpk.go.id/Details/344103/permenkomdigi-no-2-tahun-2026",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Digital",
+ "number": "2",
+ "number_raw": "2",
+ "year": 2026,
+ "title": "Peraturan Menteri Komunikasi dan Digital Nomor 2 Tahun 2026 tentang Organisasi dan Tata Kerja Monumen Pers Nasional",
+ "about": "Organisasi dan Tata Kerja Monumen Pers Nasional",
+ "issuer": "Kementerian Komunikasi dan Digital",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-01-12",
+ "date_promulgated": "2026-01-19",
+ "date_effective": "2026-01-19",
+ "gazette": "BN 2026 (28); 9 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 228288,
+   "label": "Permenkominfo No. 6 Tahun 2022",
+   "about": "Organisasi dan Tata Kerja Monumen Pers Nasional"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 285075,
+   "label": "Permenkominfo No. 13 Tahun 2022",
+   "about": "Perubahan atas Peraturan Menteri Komunikasi dan Informatika Nomor 6 Tahun 2022 tentang Organisasi dan Tata Kerja Monumen Pers Nasional"
+  }
+ ],
+ "abstract": "bahwa Peraturan Menteri Komunikasi dan Informatika Nomor 6 Tahun 2022 tentang Organisasi dan Tata Kerja Monumen Pers Nasional sebagaimana telah diubah dengan Peraturan Menteri Komunikasi dan Informatika Nomor 13 Tahun 2022 tentang Perubahan atas Peraturan Menteri Komunikasi dan Informatika Nomor 6 Tahun 2022 tentang Organisasi dan Tata Kerja Monumen Pers Nasional sudah tidak sesuai dengan perkembangan hukum dan kebutuhan organisasi, sehingga perlu diganti\nDasar hukum peraturan ini adalah UUD NRI Tahun 1945 Pasal 17 ayat (3);\nUU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024;\nPP Nomor 66 Tahun 2015;\nPerpres Nomor 174 Tahun 2024;\nPermen Komdigi Nomor 1 Tahun 2025.\nPeraturan ini mengatur mengenai kedudukan, tugas, dan fungsi Museum Pers Nasional; susunan organisasi; jabatan fungsional dan jabatan pelaksana; tata kerja; lokasi; jabatan, pengangkatan, dan pemberhentian; penataan",
+ "note": "Peraturan Menteri Komunikasi dan Digital ini mulai berlaku pada tanggal 19 Januari 2026.",
+ "citations": [
+  "PERMENKOMINFO-2022-6",
+  "PERMENKOMINFO-2022-13",
+  "UU-2008-39",
+  "UU-2024-61",
+  "PP-2015-66",
+  "PERPRES-2024-174"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/407346/Permenkomdigi-no-2-tahun-2026.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:16:05Z"
+}

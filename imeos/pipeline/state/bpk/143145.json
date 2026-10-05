@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKES-2020-7",
+ "source": "bpk",
+ "bpk_id": 143145,
+ "url": "https://peraturan.bpk.go.id/Details/143145/permenkes-no-7-tahun-2020",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "7",
+ "number_raw": "7",
+ "year": 2020,
+ "title": "Peraturan Menteri Kesehatan Nomor 7 Tahun 2020 tentang Perubahan atas Peraturan Menteri Kesehatan Nomor 51 Tahun 2014 tentang Pemasukan Alat Kesehatan Melalui Mekanisme Jalur Khusus (Special Access Scheme)",
+ "about": "Perubahan atas Peraturan Menteri Kesehatan Nomor 51 Tahun 2014 tentang Pemasukan Alat Kesehatan Melalui Mekanisme Jalur Khusus (Special Access Scheme)",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN - KESEHATAN - COVID-19 / CORONA",
+ "field": "Alias",
+ "date_enacted": "2020-03-27",
+ "date_promulgated": "2020-03-27",
+ "date_effective": "2020-03-27",
+ "gazette": "BN.2020/NO.293, kemkes.go.id : 4 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-5",
+   "target_bpk_id": 350852,
+   "label": "Permenkes No. 5 Tahun 2026",
+   "about": "Perbekalan Kesehatan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENKES-2014-51",
+   "target_bpk_id": 143148,
+   "label": "Permenkes No. 51 Tahun 2014",
+   "about": "Pemasukan Alat Kesehatan Melalui Mekanisme Jalur Khusus (Special Access Scheme)"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 27 Maret 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/134598/Permenkes%20Nomor%207%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:22:09Z"
+}

@@ -1,0 +1,58 @@
+{
+ "id": "PERMENKOMINFO-2025-8",
+ "source": "bpk",
+ "bpk_id": 319703,
+ "url": "https://peraturan.bpk.go.id/Details/319703/permenkomdigi-no-8-tahun-2025",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Digital",
+ "number": "8",
+ "number_raw": "8",
+ "year": 2025,
+ "title": "Peraturan Menteri Komunikasi dan Digital Nomor 8 Tahun 2025 tentang Layanan Pos Komersial",
+ "about": "Layanan Pos Komersial",
+ "issuer": "Kementerian Komunikasi dan Digital",
+ "subject": "PERIZINAN, PELAYANAN PUBLIK",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-05-09",
+ "date_promulgated": "2025-05-14",
+ "date_effective": "2025-05-14",
+ "gazette": "BN 2025 (329); 77 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 150104,
+   "label": "Permenkominfo No. 7 Tahun 2017",
+   "about": "Persyaratan dan Tata Cara Pemberian Izin Penyelenggaraan Pos"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 155572,
+   "label": "Permenkominfo No. 1/PER/M.KOMINFO/1/2012 Tahun 2012",
+   "about": "Formula Tarif Layanan Pos Komersial"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": null,
+   "target_bpk_id": 203115,
+   "label": "Permenkominfo No. 4 Tahun 2021",
+   "about": "Penyelenggaraan Pos"
+  }
+ ],
+ "abstract": "bahwa untuk mendukung penyelenggaraan pos yang efektif,\nefisien, dan berdaya saing serta untuk menjamin\nperlindungan konsumen, meningkatkan pemberdayaan\npenyelenggaraan pos dalam negeri, dan menjaga persaingan\nusaha yang sehat, perlu pengaturan mengenai standar\npelayanan layanan pos komersial, penyesuaian perizinan\npenyelenggaraan pos, monitoring dan evaluasi\npenyelenggaraan pos, pemanfaatan teknologi, interkoneksi\nlayanan pos universal, dan sistem kode pos\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD 1945; UU Nomor 38 Tahun 2009 sebagaimana telah diubah dengan UU Nomor 6 Tahun 2023; PP Nomor 15 Tahun 2013; PP Nomor 5 Tahun 2021; PP Nomor 46 Tahun 2021; Perpres Nomor 174 Tahun 2024; Permenkominfo Nomor 174 Tahun 2024; Permenkominfo Nomor 1 Tahun 2025\nPeraturan ini mengatur mengenai ketentuan teknis penyelenggaraan layanan pos yang terdiri atas terdiri atas layanan:\na. komunikasi tertulis dan/atau surat elektronik;\nb. paket;\nc. logistik;\nd. transaksi keuangan; dan/atau\ne. keagenan Pos; standar pelayanan untuk layanan pos komersial; pemanfaatan teknologi, kode pos, dan kode pengiriman; interkoneksi antar penyelenggara pos; penyelenggaraan pos untuk keperluan kebencanaan; indeks kinerja; pemanfaatn teknologi logistik hijau; pengawasan dan pengendalian;",
+ "note": "Peraturan Menteri Komunikasi dan Digital ini mulai berlaku pada tanggal 14 Mei 2025.",
+ "citations": [
+  "UU-2009-38",
+  "UU-2023-6",
+  "PP-2013-15",
+  "PP-2021-5",
+  "PP-2021-46",
+  "PERPRES-2024-174"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/381302/permenkomdigi-no-8-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:16:40Z"
+}

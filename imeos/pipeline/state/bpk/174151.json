@@ -1,0 +1,58 @@
+{
+ "id": "PERMENKUMHAM-2020-33",
+ "source": "bpk",
+ "bpk_id": 174151,
+ "url": "https://peraturan.bpk.go.id/Details/174151/permenkumham-no-33-tahun-2020",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "33",
+ "number_raw": "33",
+ "year": 2020,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 33 Tahun 2020 tentang Rencana Strategis Kementerian Hukum dan Hak Asasi Manusia Tahun 2020-2024",
+ "about": "Rencana Strategis Kementerian Hukum dan Hak Asasi Manusia Tahun 2020-2024",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "PROGRAM, RENCANA PEMBANGUNAN DAN RENCANA KERJA",
+ "field": "Alias",
+ "date_enacted": "2020-12-23",
+ "date_promulgated": "2020-12-28",
+ "date_effective": "2020-12-28",
+ "gazette": "BN.2020/No.1630, peraturan.go.id : 5 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 332085,
+   "label": "Permenkum No. 42 Tahun 2025",
+   "about": "Rencana Strategis Kementerian Hukum Tahun 2025-2029"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 331885,
+   "label": "Permenham No. 14 Tahun 2025",
+   "about": "Rencana Strategis Kementerian Hak Asasi Manusia Tahun 2025-2029"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 277501,
+   "label": "Permenkumham No. 7 Tahun 2024",
+   "about": "Rencana Strategis Kementerian Hukum dan Hak Asasi Manusia Tahun 20202024"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133233,
+   "label": "Permenkumham No. 9 Tahun 2016",
+   "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 7 Tahun 2015 tentang Rencana Strategis Kementerian Hukum dan Hak Asasi Manusia Tahun 2015-2019"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 28 Desember 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/167347/33%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:18:35Z"
+}

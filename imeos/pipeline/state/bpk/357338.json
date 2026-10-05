@@ -1,0 +1,46 @@
+{
+ "id": "PMK-2026-65",
+ "source": "bpk",
+ "bpk_id": 357338,
+ "url": "https://peraturan.bpk.go.id/Details/357338/pmk-no-65-tahun-2026-perubahan-atas-peraturan-menteri-keuangan-nomor-195pmk08202",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "65",
+ "number_raw": "65",
+ "year": 2026,
+ "title": "Peraturan Menteri Keuangan Nomor 65 Tahun 2026 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 195/PMK.08/2020 tentang Lelang Surat Berharga Syariah Negara di Pasar Perdana Domestik",
+ "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 195/PMK.08/2020 tentang Lelang Surat Berharga Syariah Negara di Pasar Perdana Domestik",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-08-26",
+ "date_promulgated": "2026-09-08",
+ "date_effective": "2026-09-08",
+ "gazette": "BN.20256(621/5 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PMK-2020-195",
+   "target_bpk_id": 155888,
+   "label": "PMK No. 195/PMK.08/2020",
+   "about": "Lelang Surat Berharga Syariah Negara di Pasar Perdana Domestik"
+  }
+ ],
+ "abstract": "a. bahwa ketentuan mengenai lelang surat berharga syariah\nnegara di pasar perdana domestik telah diatur dalam\nPeraturan Menteri Keuangan Nomor 195/PMK.08/2020\ntentang Lelang Surat Berharga Syariah Negara di Pasar\nPerdana Domestik;\nb. bahwa untuk optimalisasi pelaksanaan lelang surat\nberharga syariah negara di pasar perdana domestik dan\nuntuk menyesuaikan perkembangan kondisi pasar\nkeuangan sehingga Peraturan Menteri Keuangan Nomor\n195/PMK.08/2020 tentang Lelang Surat Berharga Syariah\nNegara di Pasar Perdana Domestik perlu diubah;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a dan huruf b, perlu menetapkan Peraturan\nMenteri Keuangan tentang Perubahan atas Peraturan\nMenteri Keuangan Nomor 195/PMK.08/2020 tentang\nLelang Surat Berharga Syariah Negara di Pasar Perdana\nDomestik;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 1 Tahun 2004, Undang-Undang Nomor 19 Tahun 2008, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 45 Tahun 2013, Peraturan Presiden Nomor 16 Tahun 2018, Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Menteri Keuangan Nomor 195/PMK.08/2020 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 195/PMK.08/2020 tentang Lelang Surat Berharga Syariah Negara di Pasar Perdana Domestik yaitu tentang rencana Lelang SBSN sebelum tanggal pelaksanaan Lelang SBSN, Penetapan harga SBSN bagi pemenang Lelang SBSN dan Penawaran pembelian dalam Lelang SBSN Tambahan",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 08 September 2026.\nPeraturan Menteri Keuangan Nomor 195/PMK.08/2020 tentang Lelang Surat Berharga Syariah Negara di Pasar Perdana Domestik",
+ "citations": [
+  "PMK-2020-195",
+  "UU-2004-1",
+  "UU-2008-19",
+  "UU-2008-39",
+  "PP-2013-45",
+  "PERPRES-2018-16",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/421369/2026pmkeuangan065.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:05:31Z"
+}

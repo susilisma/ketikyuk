@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKUMHAM-2021-8",
+ "source": "bpk",
+ "bpk_id": 170962,
+ "url": "https://peraturan.bpk.go.id/Details/170962/permenkumham-no-8-tahun-2021",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "8",
+ "number_raw": "8",
+ "year": 2021,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 8 Tahun 2021 tentang Manajemen Karier Pegawai Negeri Sipil Kementerian Hukum dan Hak Asasi Manusia",
+ "about": "Manajemen Karier Pegawai Negeri Sipil Kementerian Hukum dan Hak Asasi Manusia",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "Alias",
+ "date_enacted": "2021-01-29",
+ "date_promulgated": "2021-02-03",
+ "date_effective": "2021-02-03",
+ "gazette": "BN.2021/NO.101; PERATURAN.GO.ID: 22 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 357163,
+   "label": "Permenkum No. 12 Tahun 2026",
+   "about": "Manajemen Karier Pegawai Negeri Sipil Kementerian Hukum"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 03 Februari 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/167350/8%20Tahun%202021-compressed.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:17:42Z"
+}

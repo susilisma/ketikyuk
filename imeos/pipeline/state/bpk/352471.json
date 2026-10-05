@@ -1,0 +1,43 @@
+{
+ "id": "PERMENIMIPAS-2025-14",
+ "source": "bpk",
+ "bpk_id": 352471,
+ "url": "https://peraturan.bpk.go.id/Details/352471/permen-imipas-no-14-tahun-2025",
+ "form": "PERMENIMIPAS",
+ "form_long": "Peraturan Menteri Imigrasi dan Pemasyarakatan",
+ "number": "14",
+ "number_raw": "14",
+ "year": 2025,
+ "title": "Peraturan Menteri Imigrasi dan Pemasyarakatan Nomor 14 Tahun 2025 tentang Persyaratan dan Tata Cara Pengenaan Tarif Nol Rupiah Terhadap Pelayanan Keimigrasian dan Biaya Beban",
+ "about": "Persyaratan dan Tata Cara Pengenaan Tarif Nol Rupiah Terhadap Pelayanan Keimigrasian dan Biaya Beban",
+ "issuer": "Kementerian Imigrasi dan Pemasyarakatan",
+ "subject": "PERIZINAN, PELAYANAN PUBLIK",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2025-12-17",
+ "date_promulgated": "2025-12-22",
+ "date_effective": "2025-12-22",
+ "gazette": "BN 2025 (1103): 18 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 174002,
+   "label": "Permenkumham No. 9 Tahun 2020",
+   "about": "Syarat dan Tata Cara Pengenaan Tarif Nol Rupiah dan Nol Dollar Amerika terhadap Pelayanan Keimigrasian"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 5 ayat (6) dan Pasal 7 ayat (3) Peraturan Pemerintah Nomor 45 Tahun 2024 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Kementerian Hukum dan Hak Asasi Manusia, perlu menetapkan Peraturan Menteri Imigrasi dan Pemasyarakatan tentang Persyaratan dan Tata Cara Pengenaan Tarif Nol Rupiah Terhadap Pelayanan Keimigrasian dan Biaya Beban.\nDasar hukum Peraturan Menteri ini adalah Pasal 17 ayat (3) UUD 1945; UU No. 39 Tahun 2008; UU No. 6 Tahun 2011; PP No. 31 Tahun 2013; PP No. 45 Tahun 2024; Perpres No. 157 Tahun 2024; dan Permen Imipas No. 1 Tahun 2024.\nPeraturan Menteri ini mengatur mengenai Persyaratan dan Tata Cara Pengenaan Tarif Nol Rupiah Terhadap Pelayanan Keimigrasian dan Biaya Beban. Terhadap jenis penerimaan negara bukan pajak yang berasal dari pelayanan keimigrasian berupa Paspor Biasa dikenakan tarif sebesar Rp0,00 (nol rupiah) kepada: a) calon pekerja migran Indonesia untuk pertama kali; b) warga negara Indonesia yang tidak mampu dan menetap di luar wilayah Indonesia; atau c) warga negara Indonesia yang menerima beasiswa untuk belajar di luar negeri yang dibiayai penuh dari Pemerintah Republik Indonesia. Pengenaan tarif dimaksud diberikan berdasarkan permohonan.",
+ "note": "Peraturan Menteri Imigrasi dan Pemasyarakatan ini mulai berlaku pada tanggal 22 Desember 2025.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 9 Tahun 2020 tentang Syarat dan Tata Cara Pengenaan Tarif Nol Rupiah dan Nol Dollar Amerika Terhadap Layanan Keimigrasian (Berita Negara Republik Indonesia Tahun 2020 Nomor 327), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 15 hlm (batang tubuh hlm 1 sd 18 dan lampiran hlm 19 sd 25)",
+ "citations": [
+  "PP-2024-45",
+  "UU-2008-39",
+  "UU-2011-6",
+  "PP-2013-31",
+  "PERPRES-2024-157"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/416296/Permen%20Imipas%20Nomor%2014%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:20:53Z"
+}

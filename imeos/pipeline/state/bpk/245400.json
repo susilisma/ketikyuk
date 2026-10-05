@@ -1,0 +1,37 @@
+{
+ "id": "PERBPOM-2023-1",
+ "source": "bpk",
+ "bpk_id": 245400,
+ "url": "https://peraturan.bpk.go.id/Details/245400/peraturan-bpom-no-1-tahun-2023",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "1",
+ "number_raw": "1",
+ "year": 2023,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 1 Tahun 2023 tentang Pedoman Sertifikasi Pelulusan Bets/Lot Vaksin",
+ "about": "Pedoman Sertifikasi Pelulusan Bets/Lot Vaksin",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI - STANDAR / PEDOMAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2023-01-10",
+ "date_promulgated": "2023-01-10",
+ "date_effective": "2023-01-10",
+ "gazette": "BN.2023/No.49, jdih.pom.go.id: 9 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 313080,
+   "label": "Peraturan BPOM No. 2 Tahun 2025",
+   "about": "Pedoman Sertifikasi Pelulusan Batch/Lot Vaksin"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 10 Januari 2023.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/301397/P%20BPOM%20No.%201%20Tahun%202023.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:29:28Z"
+}

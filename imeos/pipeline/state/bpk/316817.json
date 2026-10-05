@@ -1,0 +1,58 @@
+{
+ "id": "PERMENKOMINFO-2025-4",
+ "source": "bpk",
+ "bpk_id": 316817,
+ "url": "https://peraturan.bpk.go.id/Details/316817/permenkomdigi-no-4-tahun-2025",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Digital",
+ "number": "4",
+ "number_raw": "4",
+ "year": 2025,
+ "title": "Peraturan Menteri Komunikasi dan Digital Nomor 4 Tahun 2025 tentang Pencabutan 3 (Tiga) Peraturan Menteri Komunikasi dan Informatika",
+ "about": "Pencabutan 3 (Tiga) Peraturan Menteri Komunikasi dan Informatika",
+ "issuer": "Kementerian Komunikasi dan Digital",
+ "subject": "TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-03-17",
+ "date_promulgated": "2025-03-20",
+ "date_effective": "2025-03-20",
+ "gazette": "BN 2025 (209); 3 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 203124,
+   "label": "Permenkominfo No. 13 Tahun 2021",
+   "about": "Standar Teknis Alat Telekomunikasi dan/atau Perangkat Telekomunikasi Bergerak Seluler Berbasis Standar Teknologi Long Term Evolution dan Standar Teknologi International Mobile Telecommunication-2020"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 316819,
+   "label": "Permenkominfo No. 9 Tahun 2019",
+   "about": "Persyaratan Teknis Alat dan/atau Perangkat Telekomunikasi Wavelength Division Multiplexing"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 151078,
+   "label": "Permenkominfo No. 15 Tahun 2015",
+   "about": "Pedoman Penyusunan Persyaratan Teknis Alat dan Perangkat Telekomunikasi"
+  }
+ ],
+ "abstract": "bahwa dengan telah diundangkannya Peraturan\nPemerintah Nomor 46 Tahun 2021 tentang Pos,\nTelekomunikasi, dan Penyiaran dan untuk melaksanakan\nsimplifikasi regulasi mengenai Standar teknis alat\ntelekomunikasi dan/atau perangkat telekomunikasi, perlu\nmencabut 3 (tiga) Peraturan Menteri Komunikasi dan\nInformatika yang sudah tidak sesuai dengan\nperkembangan dan kebutuhan pemenuhan standar teknis\nalat telekomunikasi dan/atau perangkat telekomunikasi\nDasar hukum peraturan ini adalah Pasal 1 ayat (3) UUD 1945; UU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024; Perpres Nomor 174 Tahun 2024; Permenkominfo Nomor 1 Tahun 2025\nPeraturan ini mencabut 2 peraturan, yaitu: Peraturan Menteri Komunikasi dan Informatika Nomor 15\nTahun 2015 tentang Pedoman Penyusunan Persyaratan\nTeknis Alat dan Perangkat Telekomunikasi (Berita Negara\nRepublik Indonesia Tahun 2015 Nomor 623);\nb. Peraturan Menteri Komunikasi dan Informatika Nomor 9\nTahun 2019 tentang Persyaratan Teknis Alat dan/atau\nPerangkat Telekomunikasi Wavelength Division\nMultiplexing (Berita Negara Republik Indonesia Tahun\n2019 Nomor 1044); dan\nc. Peraturan Menteri Komunikasi dan Informatika Nomor 13\nTahun 2021 tentang Standar Teknis Alat Telekomunikasi\ndan/atau Perangkat Telekomunikasi Bergerak Selular\nBerbasis Standar Teknologi Long Term Evolution dan\nStandar Teknologi International Mobile\nTelecommunications-2020 (Berita Negara Republik\nIndonesia Tahun 2021 Nomor 1156),",
+ "note": "Peraturan Menteri Komunikasi dan Digital ini mulai berlaku pada tanggal 20 Maret 2025.",
+ "citations": [
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2024-174",
+  "PERMENKOMINFO-2015-15",
+  "PERMENKOMINFO-2019-9",
+  "PERMENKOMINFO-2021-13"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/378124/permenkomdigi-no-4-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:16:52Z"
+}

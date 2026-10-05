@@ -1,0 +1,44 @@
+{
+ "id": "PP-2019-86",
+ "source": "bpk",
+ "bpk_id": 129230,
+ "url": "https://peraturan.bpk.go.id/Details/129230/pp-no-86-tahun-2019",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "86",
+ "number_raw": "86",
+ "year": 2019,
+ "title": "Peraturan Pemerintah (PP) Nomor 86 Tahun 2019 tentang Keamanan Pangan",
+ "about": "Keamanan Pangan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PANGAN, PERTANIAN DAN PETERNAKAN",
+ "field": "Alias",
+ "date_enacted": "2019-12-26",
+ "date_promulgated": "2019-12-26",
+ "date_effective": "2019-12-26",
+ "gazette": "LN.2019/NO.249, TLN NO.6442, JDIH.SETKAB.GO.ID : 18 HLM.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2026-1",
+   "target_bpk_id": 348700,
+   "label": "PP No. 1 Tahun 2026",
+   "about": "Perubahan atas Peraturan Pemerintah Nomor 86 Tahun 2019 tentang Keamanan Pangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2004-28",
+   "target_bpk_id": 65674,
+   "label": "PP No. 28 Tahun 2004",
+   "about": "Keamanan, Mutu Dan Gizi Pangan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 26 Desember 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/120145/PP%20Nomor%2086%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-10-05T04:57:45Z"
+}

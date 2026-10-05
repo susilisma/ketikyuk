@@ -1,0 +1,47 @@
+{
+ "id": "PERMENKUMHAM-2023-14",
+ "source": "bpk",
+ "bpk_id": 247342,
+ "url": "https://peraturan.bpk.go.id/Details/247342/permenkumham-no-14-tahun-2023",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "14",
+ "number_raw": "14",
+ "year": 2023,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 14 Tahun 2023 tentang Penataan Kerja Sama di Lingkungan Kementerian Hukum dan Hak Asasi Manusia",
+ "about": "Penataan Kerja Sama di Lingkungan Kementerian Hukum dan Hak Asasi Manusia",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "HAK ASASI MANUSIA",
+ "field": "Alias",
+ "date_enacted": "2023-03-09",
+ "date_promulgated": "2023-03-17",
+ "date_effective": "2023-03-17",
+ "gazette": "BN 2023 (253) : 14 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 319987,
+   "label": "Permen Imipas No. 8 Tahun 2025",
+   "about": "Tata Cara Penyelenggaraan Kerja Sama di Lingkungan Kementerian Imigrasi dan Pemasyarakatan"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 350900,
+   "label": "Permenkum No. 48 Tahun 2025",
+   "about": "Tata Kelola Kerja Sama"
+  }
+ ],
+ "abstract": "Untuk mewujudkan kebijakan satu pintu dan tertib administrasi dalam pelaksanaan kerja sama, serta untuk menata penyelenggaraan kerja sama, diperlukan pengaturan mengenai pola kerja sama yang dilakukan di lingkungan Kementerian Hukum dan Hak Asasi Manusia.\nDasar hukum dalam Permenkumham ini adalah Pasal 17 ayat (3) UUD 1945; UU No. 39 Tahun 2008; Perpres No. 18 Tahun 2023; dan Permenkumham No. 41 Tahun 2021.\nMateri pokok dalam Permen ini adalah pengaturan mengenai penataan kerja sama di lingkungan Kementrian Huku, dan Hak Asasi Manusia, yang mengatur jenis, tahapan, pelaksanaan, monitoring, evaluasi, administrasi, serta penyimpanan dan publikasi kerja sama baik dalam negeri maupun luar negeri. Tujuannya adalah untuk mewujudkan kebijakan satu pintu, tertib administrasi, dan efektivitas kerja sama melalui standar prosedur yang jelas dan terkoordinasi di seluruh unit kerja Kementrian.",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 17 Maret 2023.\nPermen ini mencabut Permenkumham No. 65 Tahun 2016\nLampiran file: 14 hlm (batang tubuh hlm 1 sd 13, lampiran hlm 14",
+ "citations": [
+  "UU-2008-39",
+  "PERPRES-2023-18"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/303569/permenkumham-no-14-tahun-2023.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:18:23Z"
+}

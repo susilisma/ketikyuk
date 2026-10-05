@@ -12,7 +12,7 @@
  "about": "Tata Cara Pengawasan Ketenagakerjaan",
  "issuer": "Kementerian Ketenagakerjaan",
  "subject": "KETENAGAKERJAAN",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2016-11-17",
  "date_promulgated": "2016-11-17",
  "date_effective": "2016-11-17",
@@ -33,5 +33,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/251107/Kemnaker%20No.%2033%20Tahun%202016.pdf"
  ],
- "fetched_at": "2026-09-14T06:40:32Z"
+ "fetched_at": "2026-10-05T05:14:08Z"
 }

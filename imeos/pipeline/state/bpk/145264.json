@@ -1,0 +1,51 @@
+{
+ "id": "PERMENAKER-2019-10",
+ "source": "bpk",
+ "bpk_id": 145264,
+ "url": "https://peraturan.bpk.go.id/Details/145264/permenaker-no-10-tahun-2019",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "10",
+ "number_raw": "10",
+ "year": 2019,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 10 Tahun 2019 tentang Tata Cara Pemberian Izin Perusahaan Penempatan Pekerja Migran Indonesia",
+ "about": "Tata Cara Pemberian Izin Perusahaan Penempatan Pekerja Migran Indonesia",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "KETENAGAKERJAAN - STANDAR / PEDOMAN",
+ "field": "Alias",
+ "date_enacted": "2019-06-28",
+ "date_promulgated": "2019-07-02",
+ "date_effective": "2019-07-02",
+ "gazette": "BN.2019/No.730, jdih.kemnaker.go.id : 24 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENAKER-2026-2",
+   "target_bpk_id": 344084,
+   "label": "Permenaker No. 2 Tahun 2026",
+   "about": "Pencabutan Peraturan Menteri Ketenagakerjaan Bidang Penempatan dan Pelindungan Pekerja Migran Indonesia"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENAKER-2015-42",
+   "target_bpk_id": 146041,
+   "label": "Permenaker No. 42 Tahun 2015",
+   "about": "Tata Cara Pemberian, Perpanjangan dan Pencabutan Surat Izin Pelaksana Penempatan Tenaga Kerja Indonesia"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENAKER-2015-41",
+   "target_bpk_id": 146040,
+   "label": "Permenaker No. 41 Tahun 2015",
+   "about": "Rencana Kerja Penempatan dan Perlindungan Tenaga Kerja Indonesia, Sarana dan Prasarana Pelayanan Penempatan Tenaga Kerja Indonesia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Ketenagakerjaan Republik Indonesia ini mulai berlaku pada tanggal 02 Juli 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/137068/Permenaker%20No.%2010%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:14:45Z"
+}

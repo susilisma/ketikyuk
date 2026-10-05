@@ -1,0 +1,45 @@
+{
+ "id": "PERMENKES-2025-14",
+ "source": "bpk",
+ "bpk_id": 343788,
+ "url": "https://peraturan.bpk.go.id/Details/343788/permenkes-no-14-tahun-2025",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "14",
+ "number_raw": "14",
+ "year": 2025,
+ "title": "Peraturan Menteri Kesehatan Nomor 14 Tahun 2025 tentang Penetapan dan Perubahan Penggolongan Psikotropika",
+ "about": "Penetapan dan Perubahan Penggolongan Psikotropika",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-11-21",
+ "date_promulgated": "2025-11-28",
+ "date_effective": "2025-11-28",
+ "gazette": "BN 2025 (988); 8 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2025-6",
+   "target_bpk_id": 322556,
+   "label": "Permenkes No. 6 Tahun 2025",
+   "about": "Penetapan dan Perubahan Penggolongan Psikotropika"
+  }
+ ],
+ "abstract": "bahwa terdapat zat psikoaktif baru yang mempunyai potensi mengakibatkan sindrom ketergantungan yang belum termasuk dalam golongan psikotropika sebagaimana diatur dalam Lampiran Undang-Undang Nomor 5 Tahun 1997 tentang Psikotropika dan Peraturan Menteri Kesehatan Nomor 6 Tahun 2025 tentang Penetapan dan Perubahan Penggolongan Psikotropika, sehingga perlu diganti\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD NRI Tahun 1945;\nUU Nomor 5 Tahun 1997 sebagaimana telah diubah dengan UU Nomor 6 Tahun 2023;\nUU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024;\nPerpres Nomor 161 Tahun 2024;\nPermenkes Nomor 21 Tahun 2024.\nPeraturan ini mengatur mengenai perubahan penggolongan Psikotropika Golongan I, Psikotropika Golongan II, Psikotropika Golongan III, dan Psikotropika Golongan IV yang dilakukan berdasarkan adanya zat psikoaktif baru yang mempunyai potensi mengakibatkan sindroma ketergantungan serta belum termasuk dalam golongan Psikotropika",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 28 November 2025.",
+ "citations": [
+  "UU-1997-5",
+  "PERMENKES-2025-6",
+  "UU-2023-6",
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2024-161",
+  "PERMENKES-2024-21"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/407026/permenkes-no-14-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:23:33Z"
+}

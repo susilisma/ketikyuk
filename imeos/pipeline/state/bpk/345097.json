@@ -1,0 +1,40 @@
+{
+ "id": "PERBPOM-2026-1",
+ "source": "bpk",
+ "bpk_id": 345097,
+ "url": "https://peraturan.bpk.go.id/Details/345097/peraturan-bpom-no-1-tahun-2026",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "1",
+ "number_raw": "1",
+ "year": 2026,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 1 Tahun 2026 tentang Perubahan Kedua atas Peraturan Badan Pengawas Obat dan Makanan Nomor 19 Tahun 2023 tentang Organisasi dan Tata Kerja Unit Pelaksana Teknis pada Badan Pengawas Obat dan Makanan",
+ "about": "Perubahan Kedua atas Peraturan Badan Pengawas Obat dan Makanan Nomor 19 Tahun 2023 tentang Organisasi dan Tata Kerja Unit Pelaksana Teknis pada Badan Pengawas Obat dan Makanan",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-01-22",
+ "date_promulgated": "2026-01-26",
+ "date_effective": "2026-01-26",
+ "gazette": "BN 2026 (61); 15 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 313082,
+   "label": "Peraturan BPOM No. 19 Tahun 2023",
+   "about": "Organisasi dan Tata Kerja Unit Pelaksana Teknis pada Badan Pengawas Obat dan Makanan"
+  }
+ ],
+ "abstract": "bahwa untuk meningkatkan efektivitas dan kualitas\nlayanan pengawasan obat dan makanan, perlu dilakukan\npenataan organisasi dan tata kerja unit pelaksana teknis\npada Badan Pengawas Obat dan Makanan, sehingga\nPeraturan Badan Pengawas Obat dan Makanan Nomor 19\nTahun 2023 tentang Organisasi dan Tata Kerja Unit\nPelaksana Teknis pada Badan Pengawas Obat dan\nMakanan sebagaimana telah diubah dengan Peraturan\nBadan Pengawas Obat dan Makanan Nomor 3 Tahun 2025\ntentang Perubahan atas Peraturan Badan Pengawas Obat\ndan Makanan Nomor 19 Tahun 2023 tentang Organisasi\ndan Tata Kerja Unit Pelaksana Teknis pada Badan\nPengawas Obat dan Makanan perlu diubah\nPeraturan ini mengatur mengenai Perpres Nomor 80 Tahun 2017; Peraturan BPOM Nomor 21 Tahun 2020 sebagaimana telah diubah dengan Peraturan BPOM Nomor 13 Tahun 2022; PermenPANRB Nomor 2 Tahun 2023; Peraturan BPOM Nomor 18 Tahun 2023; Peraturan BPOM Nomor 19 Tahun 2023 sebagaimana telah diubah dengan Peraturan BPOM Nomor 3 Tahun 2025.\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Badan Pengawas Obat\ndan Makanan Nomor 19 Tahun 2023 tentang Organisasi dan\nTata Kerja Unit Pelaksana Teknis pada Badan Pengawas Obat\ndan Makanan",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 26 Januari 2026.",
+ "citations": [
+  "PERBPOM-2023-19",
+  "PERPRES-2017-80"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/408377/peraturan-bpom-no-1-tahun-2026.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:24:49Z"
+}

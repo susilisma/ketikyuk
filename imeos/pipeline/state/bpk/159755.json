@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKOMINFO-2008-26",
+ "source": "bpk",
+ "bpk_id": 159755,
+ "url": "https://peraturan.bpk.go.id/Details/159755/permenkominfo-no-26apermkominfo72008-tahun-20",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Informatika",
+ "number": "26",
+ "number_raw": "26A/PER/M.KOMINFO/7/2008",
+ "year": 2008,
+ "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 26A/PER/M.KOMINFO/7/2008 Tahun 2008 tentang Pedoman Penyusunan Formasi Jabatan Fungsional Pengendali Frekuensi Radio",
+ "about": "Pedoman Penyusunan Formasi Jabatan Fungsional Pengendali Frekuensi Radio",
+ "issuer": "Kementerian Komunikasi dan Informatika",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA - JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "Alias",
+ "date_enacted": "2008-07-14",
+ "date_promulgated": null,
+ "date_effective": "2008-07-14",
+ "gazette": "BN 2008/KOMINFO.GO.ID: 2 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 320006,
+   "label": "Permenkomdigi No. 10 Tahun 2025",
+   "about": "Petunjuk Pelaksanaan dan Petunjuk Teknis\r\nJabatan Fungsional Pengendali Frekuensi Radio, Jabatan\r\nFungsional Penata Kelola Spektrum Frekuensi Radio,\r\nJabatan Fungsional Penguji Perangkat Telekomunikasi,\r\ndan Jabatan Fungsional Asisten Penguji Perangkat\r\nTelekomunikasi"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Komunikasi dan Informatika ini mulai berlaku pada tanggal 14 Juli 2008.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/255979/Permen%20Kominfo%20Nomor%2026A%20Tahun%202008%20(1).pdf"
+ ],
+ "fetched_at": "2026-10-05T05:16:38Z"
+}

@@ -1,0 +1,47 @@
+{
+ "id": "PERMENKUM-2025-45",
+ "source": "bpk",
+ "bpk_id": 350895,
+ "url": "https://peraturan.bpk.go.id/Details/350895/permenkum-no-45-tahun-2025",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "45",
+ "number_raw": "45",
+ "year": 2025,
+ "title": "Peraturan Menteri Hukum Nomor 45 Tahun 2025 tentang Pemberian Tunjangan Kinerja bagi Pegawai yang Ditunjuk sebagai Pelaksana Tugas atau Pelaksana Harian di Lingkungan Kementerian Hukum",
+ "about": "Pemberian Tunjangan Kinerja bagi Pegawai yang Ditunjuk sebagai Pelaksana Tugas atau Pelaksana Harian di Lingkungan Kementerian Hukum",
+ "issuer": "Kementerian Hukum",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA - KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-11-25",
+ "date_promulgated": "2025-11-26",
+ "date_effective": "2025-11-26",
+ "gazette": "BN 2025 (972): 5 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut sebagian",
+   "target": null,
+   "target_bpk_id": 133165,
+   "label": "Permenkumham No. 25 Tahun 2018",
+   "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 1 Tahun 2014 tentang Penunjukan Pelaksana Harian dan Pelaksana Tugas di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": null,
+   "target_bpk_id": 133328,
+   "label": "Permenkumham No. 1 Tahun 2014",
+   "about": "Penunjukan Pelaksana Harian dan Pelaksana Tugas di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "Untuk mewujudkan keadilan dan kepastian hukum dalam pemberian tunjangan kinerja bagi pegawai yang ditunjuk sebagai pelaksana tugas atau pelaksana harian di lingkungan Kementerian Hukum, perlu mengatur mengenai mekanisme dan besaran pemberian tambahan tunjangan kinerja yang bisa diterima oleh pegawai yang ditunjuk sebagai pelaksana tugas atau pelaksana harian.\nDasar hukum Permenkum ini adalah Pasal 17 ayat (3) UUD 1945; UU No. 39 Tahun 2008; Perpres No. 155 Tahun 2024; Permenkum No. 1 Tahun 2024; dan Permenkum No 2 Tahun 2024.\nPermenkum ini mengatur mengenai Pemberian Tunjangan Kinerja bagi Pegawai yang Ditunjuk sebagai Pelaksana Tugas atau Pelaksana Harian di Lingkungan Kementerian Hukum. Pegawai yang ditunjuk sebagai Pelaksana Tugas atau Pelaksana Harian diberikan Tunjangan Kinerja dari jabatan definitifnya setiap bulan sesuai dengan ketentuan peraturan perundang-undangan.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 26 November 2025.\nPada saat peraturan ini mulai berlaku, ketentuan Pasal 25 Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 1 Tahun 2014 tentang Penunjukan Pelaksana Harian dan Pelaksana Tugas di Lingkungan Kementerian Hukum dan Hak Asasi Manusia (Berita Negara Republik Indonesia Tahun 2014 Nomor 123) sebagaimana telah diubah dengan Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 25 Tahun 2018 tentang Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 1 Tahun 2014 tentang Penunjukan Pelaksana Harian dan Pelaksana Tugas di Lingkungan Kementerian Hukum dan Hak Asasi Manusia (Berita Negara Republik Indonesia Tahun 2018 Nomor 1219), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 5 hlm.",
+ "citations": [
+  "UU-2008-39",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/414650/Permenkum%20Nomor%2045%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:18:27Z"
+}

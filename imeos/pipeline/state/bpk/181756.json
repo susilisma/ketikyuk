@@ -1,0 +1,37 @@
+{
+ "id": "PERBPOM-2021-17",
+ "source": "bpk",
+ "bpk_id": 181756,
+ "url": "https://peraturan.bpk.go.id/Details/181756/peraturan-bpom-no-17-tahun-2021",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "17",
+ "number_raw": "17",
+ "year": 2021,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 17 Tahun 2021 tentang Pedoman Penilaian Produk Suplemen Kesehatan Mengandung Probiotik",
+ "about": "Pedoman Penilaian Produk Suplemen Kesehatan Mengandung Probiotik",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "Jenis",
+ "field": "Alias",
+ "date_enacted": "2021-06-02",
+ "date_promulgated": "2021-06-03",
+ "date_effective": "2021-06-03",
+ "gazette": "BN.2019/No. 608, peraturan.go.id : 7 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 326074,
+   "label": "Peraturan BPOM No. 17 Tahun 2025",
+   "about": "Pedoman Penilaian Produk Suplemen\r\nKesehatan Mengandung Probiotik"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 03 Juni 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/175156/Peraturan%20BPOM%20Nomor%2017%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:28:57Z"
+}

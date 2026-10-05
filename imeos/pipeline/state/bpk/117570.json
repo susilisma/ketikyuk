@@ -1,0 +1,58 @@
+{
+ "id": "PERMENKES-2014-34",
+ "source": "bpk",
+ "bpk_id": 117570,
+ "url": "https://peraturan.bpk.go.id/Details/117570/permenkes-no-34-tahun-2014",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "34",
+ "number_raw": "34",
+ "year": 2014,
+ "title": "Peraturan Menteri Kesehatan Nomor 34 Tahun 2014 tentang Perubahan atas Peraturan Menteri Kesehatan Nomor 1148/Menkes/Per/VI/2011 Tentang Pedagang Besar Farmasi",
+ "about": "Perubahan atas Peraturan Menteri Kesehatan Nomor 1148/Menkes/Per/VI/2011 Tentang Pedagang Besar Farmasi",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "Alias",
+ "date_enacted": "2014-06-23",
+ "date_promulgated": "2014-08-11",
+ "date_effective": "2014-08-11",
+ "gazette": "BN.2014 /NO. 1097, kemkes.go.id : 15 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-5",
+   "target_bpk_id": 350852,
+   "label": "Permenkes No. 5 Tahun 2026",
+   "about": "Perbekalan Kesehatan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENKES-2018-26",
+   "target_bpk_id": 111928,
+   "label": "Permenkes No. 26 Tahun 2018",
+   "about": "Pelayanan Perizinan Berusaha Terintegrasi Secara Elektronik Sektor Kesehatan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENKES-2017-30",
+   "target_bpk_id": 112085,
+   "label": "Permenkes No. 30 Tahun 2017",
+   "about": "Perubahan Kedua atas Peraturan Menteri Kesehatan Nomor 1148/Menkes/Per/VI/2011 tentang Pedagang Besar Farmasi"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENKES-2011-1148",
+   "target_bpk_id": 129886,
+   "label": "Permenkes No. 1148/MENKES/PER/VI/2011 Tahun 2011",
+   "about": "Pedagang Besar Farmasi"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 11 Agustus 2014.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/108356/Permenkes%20Nomor%2034%20Tahun%202014.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:22:26Z"
+}

@@ -12,7 +12,7 @@
  "about": "Standar Harga Satuan Regional",
  "issuer": "Pemerintah Pusat",
  "subject": "APBD - PENGELOLAAN KEUANGAN NEGARA / DAERAH",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2020-02-20",
  "date_promulgated": "2020-02-24",
  "date_effective": "2020-02-24",
@@ -44,5 +44,5 @@
   "https://peraturan.bpk.go.id/Download/123376/Perpres%20Nomor%2033%20Tahun%202020%20-%20Lampiran%20I.pdf",
   "https://peraturan.bpk.go.id/Download/123377/Perpres%20Nomor%2033%20Tahun%202020%20-%20Lampiran%20II.pdf"
  ],
- "fetched_at": "2026-09-14T05:33:13Z"
+ "fetched_at": "2026-10-05T05:02:09Z"
 }

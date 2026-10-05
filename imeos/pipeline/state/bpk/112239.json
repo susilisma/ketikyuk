@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKES-2017-60",
+ "source": "bpk",
+ "bpk_id": 112239,
+ "url": "https://peraturan.bpk.go.id/Details/112239/permenkes-no-60-tahun-2017",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "60",
+ "number_raw": "60",
+ "year": 2017,
+ "title": "Peraturan Menteri Kesehatan Nomor 60 Tahun 2017 tentang Pengawasan Tata Niaga Impor Alat Kesehatan, Alat Kesehatan Diagnostik In Vitro, dan Perbekalan Kesehatan Rumah Tangga",
+ "about": "Pengawasan Tata Niaga Impor Alat Kesehatan, Alat Kesehatan Diagnostik In Vitro, dan Perbekalan Kesehatan Rumah Tangga",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN - KESEHATAN",
+ "field": "Alias",
+ "date_enacted": "2017-12-29",
+ "date_promulgated": "2018-01-09",
+ "date_effective": "2018-02-01",
+ "gazette": "BN.2018/NO.33, kemkes.go.id : 11 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-5",
+   "target_bpk_id": 350852,
+   "label": "Permenkes No. 5 Tahun 2026",
+   "about": "Perbekalan Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 01 Februari 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/103185/Permankes%20Nomor%2060%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:22:15Z"
+}

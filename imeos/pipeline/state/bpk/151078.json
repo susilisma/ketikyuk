@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKOMINFO-2015-15",
+ "source": "bpk",
+ "bpk_id": 151078,
+ "url": "https://peraturan.bpk.go.id/Details/151078/permenkominfo-no-15-tahun-2015",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Informatika",
+ "number": "15",
+ "number_raw": "15",
+ "year": 2015,
+ "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 15 Tahun 2015 tentang Pedoman Penyusunan Persyaratan Teknis Alat dan Perangkat Telekomunikasi",
+ "about": "Pedoman Penyusunan Persyaratan Teknis Alat dan Perangkat Telekomunikasi",
+ "issuer": "Kementerian Komunikasi dan Informatika",
+ "subject": "TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET - STANDAR / PEDOMAN",
+ "field": "Alias",
+ "date_enacted": "2015-04-20",
+ "date_promulgated": "2015-04-27",
+ "date_effective": "2015-04-27",
+ "gazette": "BN.2015/No.623, jdih.kominfo.go.id : 6 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 316817,
+   "label": "Permenkomdigi No. 4 Tahun 2025",
+   "about": "Pencabutan 3 (Tiga) Peraturan Menteri Komunikasi dan Informatika"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Komunikasi dan Informatika ini mulai berlaku pada tanggal 27 April 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/143297/Permen%20Kominfo%20Nomor%2015%20Tahun%202015.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:16:55Z"
+}

@@ -12,7 +12,7 @@
  "about": "Sistem Klasifikasi Keamanan dan Akses Arsip Dinamis di Lingkungan Kementerian Perdagangan",
  "issuer": "Kementerian Perdagangan",
  "subject": "ARSIP",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2020-09-22",
  "date_promulgated": "2020-09-25",
  "date_effective": "2020-09-25",
@@ -33,5 +33,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/152927/Permendag%20Nomor%2073%20Tahun%202020.pdf"
  ],
- "fetched_at": "2026-09-14T06:36:51Z"
+ "fetched_at": "2026-10-05T05:11:10Z"
 }

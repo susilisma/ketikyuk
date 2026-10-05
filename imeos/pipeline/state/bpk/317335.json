@@ -1,0 +1,54 @@
+{
+ "id": "PERMENKOMINFO-2025-5",
+ "source": "bpk",
+ "bpk_id": 317335,
+ "url": "https://peraturan.bpk.go.id/Details/317335/permenkomdigi-no-5-tahun-2025",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Digital",
+ "number": "5",
+ "number_raw": "5",
+ "year": 2025,
+ "title": "Peraturan Menteri Komunikasi dan Digital Nomor 5 Tahun 2025 tentang Penyelenggara Sistem Elektronik Lingkup Publik",
+ "about": "Penyelenggara Sistem Elektronik Lingkup Publik",
+ "issuer": "Kementerian Komunikasi dan Digital",
+ "subject": "SISTEM PEMERINTAHAN BERBASIS ELEKTRONIK (SPBE)",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-03-18",
+ "date_promulgated": "2025-03-25",
+ "date_effective": "2025-03-25",
+ "gazette": "BN 2025 (225); 92 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 161762,
+   "label": "Permenkominfo No. 5 Tahun 2015",
+   "about": "Registrar Nama Domain Instansi Penyelenggara Negara"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 151069,
+   "label": "Permenkominfo No. 10 Tahun 2015",
+   "about": "Tata Cara Pendaftaran Sistem Elektronik Instansi Penyelenggara Negara"
+  }
+ ],
+ "abstract": "bahwa untuk melaksanakan ketentuan Pasal 5 ayat (3), Pasal 6\nayat (4), Pasal 20 ayat (7), Pasal 81 ayat (4), Pasal 89, Pasal 97\nayat (5), dan Pasal 98 ayat (4) Peraturan Pemerintah Nomor 71\nTahun 2019 tentang Penyelenggaraan Sistem dan Transaksi\nElektronik serta untuk memenuhi kebutuhan pengaturan\ndalam penyelenggaraan sistem elektronik lingkup publik\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD 1945; UU Nomor 11 Tahun 2008 sebagaimana\ntelah beberapa kali diubah terakhir dengan UU Nomor 1 Tahun 2024; UU Nomor 39 Tahun 2008 sebagaimana\ntelah diubah dengan UU Nomor 61 Tahun 2024; UU Nomor 23 Tahun 2014 sebagaimana\ntelah beberapa kali diubah terakhir dengan UU Nomor 6 Tahun 2023; PP Nomor 71 Tahun 2019; Perpres Nomor 39 Tahun 2019; Perpres Nomor 174 Tahun 2024; Permenkominfo Nomor 1 Tahun 2025\nPeraturan ini mengatur mengenai pendaftaran penyelenggara sistem elektronik lingkup publik; tata kelola dan moderasi informasi elektronik dan/atau dokumen elektronik; pemutuan akses informasi elektronik dan/atau dokumen elektronik yang dilarang; penyelenggaran ana domain instansi; klasifikasi data sesuai risiko penyelenggara sistem elektronik lingkup publik",
+ "note": "Peraturan Menteri Komunikasi dan Digital ini mulai berlaku pada tanggal 25 Maret 2025.",
+ "citations": [
+  "PP-2019-71",
+  "UU-2008-11",
+  "UU-2024-1",
+  "UU-2008-39",
+  "UU-2024-61",
+  "UU-2014-23",
+  "UU-2023-6",
+  "PERPRES-2019-39",
+  "PERPRES-2024-174"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/378675/Permenkomdigi%205%20tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:16:48Z"
+}

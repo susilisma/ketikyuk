@@ -12,7 +12,7 @@
  "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 231/PMK.05/2022 tentang Kebijakan Akuntansi Pemerintah Pusat",
  "issuer": "Kementerian Keuangan",
  "subject": "KEBIJAKAN AKUNTANSI",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2023-05-23",
  "date_promulgated": "2023-05-24",
  "date_effective": "2023-05-24",
@@ -46,5 +46,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/310682/2023pmkeuangan057.pdf"
  ],
- "fetched_at": "2026-09-14T06:32:01Z"
+ "fetched_at": "2026-10-05T05:06:29Z"
 }

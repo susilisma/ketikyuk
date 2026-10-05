@@ -1,0 +1,44 @@
+{
+ "id": "PP-1996-5",
+ "source": "bpk",
+ "bpk_id": 56433,
+ "url": "https://peraturan.bpk.go.id/Details/56433/pp-no-5-tahun-1996",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "5",
+ "number_raw": "5",
+ "year": 1996,
+ "title": "Peraturan Pemerintah (PP) Nomor 5 Tahun 1996 tentang Hak Keuangan/Administratif Duta Besar Luar Biasa Dan Berkuasa Penuh Dan Mantan Duta Besar Luar Biasa Dan Berkuasa Penuh Serta Janda/Dudanya",
+ "about": "Hak Keuangan/Administratif Duta Besar Luar Biasa Dan Berkuasa Penuh Dan Mantan Duta Besar Luar Biasa Dan Berkuasa Penuh Serta Janda/Dudanya",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA",
+ "field": "Alias",
+ "date_enacted": "1996-02-14",
+ "date_promulgated": "1996-02-14",
+ "date_effective": "1996-02-14",
+ "gazette": "LN. 1996, LL Setkab : 10 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2026-5",
+   "target_bpk_id": 347924,
+   "label": "PP No. 5 Tahun 2026",
+   "about": "Perubahan Kedua atas Peraturan Pemerintah Nomor 51 Tahun 1996 tentang Hak Keuangan/Administratif Duta Besar Luar Biasa dan Berkuasa Penuh dan Mantan Duta Besar Luar Biasa dan Berkuasa Penuh serta Janda/Dudanya"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2000-61",
+   "target_bpk_id": 53344,
+   "label": "PP No. 61 Tahun 2000",
+   "about": "Perubahan Atas Peraturan Pemerintah Nomor 5 Tahun 1996 Tentang Hak Keuangan/Administratif Duta Besar Luar Biasa Dan Berkuasa Penuh Dan Mantan Duta Besar Luar Biasa Dan Berkuasa Penuh Serta Janda/Dudanya"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 14 Februari 1996.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/45937/PP%20No.%205%20Th%201996.pdf"
+ ],
+ "fetched_at": "2026-10-05T04:57:31Z"
+}

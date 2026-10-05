@@ -1,0 +1,51 @@
+{
+ "id": "PERMENKUMHAM-2024-7",
+ "source": "bpk",
+ "bpk_id": 277501,
+ "url": "https://peraturan.bpk.go.id/Details/277501/permenkumham-no-7-tahun-2024",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "7",
+ "number_raw": "7",
+ "year": 2024,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 7 Tahun 2024 tentang Rencana Strategis Kementerian Hukum dan Hak Asasi Manusia Tahun 20202024",
+ "about": "Rencana Strategis Kementerian Hukum dan Hak Asasi Manusia Tahun 20202024",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "PROGRAM, RENCANA PEMBANGUNAN DAN RENCANA KERJA",
+ "field": "HUKUM TATA NEGARA",
+ "date_enacted": "2024-01-25",
+ "date_promulgated": "2024-01-30",
+ "date_effective": "2024-01-30",
+ "gazette": "BN 2024 (66); 317 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 332085,
+   "label": "Permenkum No. 42 Tahun 2025",
+   "about": "Rencana Strategis Kementerian Hukum Tahun 2025-2029"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 331885,
+   "label": "Permenham No. 14 Tahun 2025",
+   "about": "Rencana Strategis Kementerian Hak Asasi Manusia Tahun 2025-2029"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 174151,
+   "label": "Permenkumham No. 33 Tahun 2020",
+   "about": "Rencana Strategis Kementerian Hukum dan Hak Asasi Manusia Tahun 2020-2024"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 30 Januari 2024.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/336104/permenkumham-no-7-tahun-2024.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:18:34Z"
+}

@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKES-2017-8",
+ "source": "bpk",
+ "bpk_id": 111971,
+ "url": "https://peraturan.bpk.go.id/Details/111971/permenkes-no-8-tahun-2017",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "8",
+ "number_raw": "8",
+ "year": 2017,
+ "title": "Peraturan Menteri Kesehatan Nomor 8 Tahun 2017 tentang Eradikasi Frambusia",
+ "about": "Eradikasi Frambusia",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - PROGRAM, RENCANA PEMBANGUNAN DAN RENCANA KERJA",
+ "field": "Alias",
+ "date_enacted": "2017-01-25",
+ "date_promulgated": "2017-02-28",
+ "date_effective": "2017-02-28",
+ "gazette": "BN.2017/NO.351, kemenkes.go.id : 142 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-3",
+   "target_bpk_id": 350854,
+   "label": "Permenkes No. 3 Tahun 2026",
+   "about": "Penanggulangan Penyakit"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PERMENKES-2026-3",
+   "target_bpk_id": 350854,
+   "label": "Permenkes No. 3 Tahun 2026",
+   "about": "Penanggulangan Penyakit"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 28 Februari 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/102924/Permenkes%20Nomor%208%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:23:00Z"
+}

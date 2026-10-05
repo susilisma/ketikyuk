@@ -1,0 +1,41 @@
+{
+ "id": "PERBPOM-2026-4",
+ "source": "bpk",
+ "bpk_id": 345742,
+ "url": "https://peraturan.bpk.go.id/Details/345742/peraturan-bpom-no-4-tahun-2026",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "4",
+ "number_raw": "4",
+ "year": 2026,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 4 Tahun 2026 tentang Pelaksanaan Farmakovigilans",
+ "about": "Pelaksanaan Farmakovigilans",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "KESEHATAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-02-23",
+ "date_promulgated": "2026-02-26",
+ "date_effective": "2026-02-26",
+ "gazette": "BN 2026 (133) : 131 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 223976,
+   "label": "Peraturan BPOM No. 15 Tahun 2022",
+   "about": "Penerapan Farmakovigilans"
+  }
+ ],
+ "abstract": "bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a, serta untuk melaksanakan ketentuan\nPasal 410 ayat (1) Peraturan Pemerintah Nomor 28 Tahun\n2024 tentang Peraturan Pelaksanaan Undang-Undang\nNomor 17 Tahun 2023 tentang Kesehatan, perlu\nmenetapkan Peraturan Badan Pengawas Obat dan\nMakanan tentang Pelaksanaan Farmakovigilans\nDasar hukum peraturan ini adalah PP Nomor 28 Tahun 2024; Perpres Nomor 80 Tahun 2017; PerBPOM Nomor 21 Tahun 2020\nPeraturan ini mengatur mengenai Pelaksanaan Farmakovigilans; Tata laksana Farmakovigilans; Pengawasan Farmakovigilans; Tindak lanjut regulator; Sanksi administratif",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 26 Februari 2026.\nPeraturan yang dicabut Peraturan Badan\nPengawas Obat dan Makanan Nomor 15 Tahun 2022",
+ "citations": [
+  "PP-2024-28",
+  "UU-2023-17",
+  "PERPRES-2017-80"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/409089/peraturan-bpom-no-4-tahun-2026.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:24:47Z"
+}

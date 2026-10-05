@@ -1,0 +1,46 @@
+{
+ "id": "PERMENKOMINFO-2025-16",
+ "source": "bpk",
+ "bpk_id": 342746,
+ "url": "https://peraturan.bpk.go.id/Details/342746/permenkomdigi-no-16-tahun-2025",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Digital",
+ "number": "16",
+ "number_raw": "16",
+ "year": 2025,
+ "title": "Peraturan Menteri Komunikasi dan Digital Nomor 16 Tahun 2025 tentang Rencana Strategis Kementerian Komunikasi dan Digital Tahun 2025-2029",
+ "about": "Rencana Strategis Kementerian Komunikasi dan Digital Tahun 2025-2029",
+ "issuer": "Kementerian Komunikasi dan Digital",
+ "subject": "PROGRAM, RENCANA PEMBANGUNAN DAN RENCANA KERJA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-12-10",
+ "date_promulgated": "2025-12-18",
+ "date_effective": "2025-12-18",
+ "gazette": "BN 2025 (1083); 261 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 169164,
+   "label": "Permenkominfo No.  2  Tahun 2021",
+   "about": "Rencana Strategis Kementerian Komunikasi Dan Informatika Tahun 2020-2024"
+  }
+ ],
+ "abstract": "bahwa untuk melaksanakan ketentuan Pasal 19 ayat (2)\nUndang-Undang Nomor 25 Tahun 2004 tentang Sistem\nPerencanaan Pembangunan Nasional, Pasal 17 ayat (3)\nPeraturan Pemerintah Nomor 40 Tahun 2006 tentang Tata Cara\nPenyusunan Rencana Pembangunan Nasional, dan Pasal 19\nayat (1) Peraturan Presiden Nomor 80 Tahun 2025 tentang\nPenyusunan Rencana Strategis dan Rencana Kerja\nKementerian/Lembaga\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD NRI Tahun 1945; UU Nomor 25 Tahun 2004; UU Nomor 39 Tahun 2008 sebagaimana diubah dengan UU Nomor 61 Tahun 2024; UU Nomor 59 Tahun 2024; PP Nomor 40 Tahun 2006; Perpres Nomor 174 Tahun 2024; Perpres Nomor 12 Tahun 2025; Perpres Nomor 80 Tahun 2025; Permen Komdigi Nomor 1 Tahun 2025.\nPeraturan ini mengatur mengenai Rencana Strategis Kementerian Komunikasi dan Digital Tahun 2025-2029 yang merupakan dokumen perencanaan Kementerian Komunikasi dan Digital untuk periode 5 (lima) tahun terhitung mulai tahun 2025 sampai dengan tahun 2029.",
+ "note": "Peraturan Menteri Komunikasi dan Digital ini mulai berlaku pada tanggal 18 Desember 2025.",
+ "citations": [
+  "UU-2004-25",
+  "PP-2006-40",
+  "PERPRES-2025-80",
+  "UU-2008-39",
+  "UU-2024-61",
+  "UU-2024-59",
+  "PERPRES-2024-174",
+  "PERPRES-2025-12"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/405908/Pemenkomdigi-no-16-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:16:23Z"
+}

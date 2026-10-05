@@ -1,0 +1,50 @@
+{
+ "id": "PERPRES-2025-13",
+ "source": "bpk",
+ "bpk_id": 313865,
+ "url": "https://peraturan.bpk.go.id/Details/313865/perpres-no-13-tahun-2025",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "13",
+ "number_raw": "13",
+ "year": 2025,
+ "title": "Peraturan Presiden (Perpres) Nomor 13 Tahun 2025 tentang Perubahan Kedua atas Peraturan Presiden Nomor 16 Tahun 2016 tentang Tata Cara Pelantikan Gubernur dan Wakil Gubernur, Bupati dan Wakil Bupati, serta Walikota dan Wakil Walikota",
+ "about": "Perubahan Kedua atas Peraturan Presiden Nomor 16 Tahun 2016 tentang Tata Cara Pelantikan Gubernur dan Wakil Gubernur, Bupati dan Wakil Bupati, serta Walikota dan Wakil Walikota",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH - PROTOKOLER",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-02-11",
+ "date_promulgated": "2025-02-11",
+ "date_effective": "2025-02-11",
+ "gazette": "LN 2025 (20) : 6 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2024-80",
+   "target_bpk_id": 295708,
+   "label": "Perpres No. 80 Tahun 2024",
+   "about": "Perubahan atas Peraturan Presiden Nomor 16 Tahun 2016 tentang Tata Cara Pelantikan Gubernur dan Wakil Gubernur, Bupati dan Wakil Bupati, serta Walikota dan Wakil Walikota"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2016-16",
+   "target_bpk_id": 39763,
+   "label": "PERPRES No. 16 Tahun 2016",
+   "about": "Tata Cara Pelantikan Gubernur dan Wakil Gubernur, Bupati dan Wakil Bupati, serta Walikota dan Wakil Walikota"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 164B Undang-Undang Nomor 10 Tahun 2016 tentang Perubahan Kedua atas Undang-Undang Nomor 1 Tahun 2015 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2014 tentang Pemilihan Gubernur, Bupati, dan Walikota menjadi Undang-Undang dan memperhatikan Putusan Mahkamah Konstitusi dalam perkara perselisihan hasil pemilihan kepala daerah dan wakil kepala daerah serentak tahun 2024 pada tanggal 4 Februari 2025 dan 5 Februari 2025, perlu dilakukan penyesuaian jadwal dan tata cara pelantikan gubernur dan wakil gubernur, bupati dan wakil bupati, serta walikota dan wakil walikota.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD 1945; UU Nomor 11 Tahun 2006; UU Nomor 1 Tahun 2015; dan Perpres Nomor 16 Tahun 2016.\nPerpres ini mengatur mengenai Perubahan Kedua atas Peraturan Presiden Nomor 16 Tahun 2016 tentang Tata Cara Pelantikan Gubernur dan Wakil Gubernur, Bupati dan Wakil Bupati, serta Walikota dan Wakil Walikota. Beberapa ketentuan dalam Perpres Nomor 16 Tahun 2016 diubah dalam Perpres ini.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 11 Februari 2025.\nPerpres ini mengubah Perpres Nomor 13 Tahun 2025.\nLampiran file: 6 hlm.",
+ "citations": [
+  "UU-2016-10",
+  "UU-2015-1",
+  "PERPPU-2014-1",
+  "UU-2006-11",
+  "PERPRES-2016-16"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/374764/Perpres%20Nomor%2013%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:03:17Z"
+}

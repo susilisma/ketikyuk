@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKES-2014-24",
+ "source": "bpk",
+ "bpk_id": 117561,
+ "url": "https://peraturan.bpk.go.id/Details/117561/permenkes-no-24-tahun-2014",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "24",
+ "number_raw": "24",
+ "year": 2014,
+ "title": "Peraturan Menteri Kesehatan Nomor 24 Tahun 2014 tentang Rumah Sakit Kelas D Pratama",
+ "about": "Rumah Sakit Kelas D Pratama",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - PERIZINAN, PELAYANAN PUBLIK",
+ "field": "Alias",
+ "date_enacted": "2014-05-28",
+ "date_promulgated": "2014-06-06",
+ "date_effective": "2014-06-06",
+ "gazette": "BN.2014 /NO. 751, kemkes.go.id : 9 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-6",
+   "target_bpk_id": 350851,
+   "label": "Permenkes No. 6 Tahun 2026",
+   "about": "Rumah Sakit"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENKES-2018-26",
+   "target_bpk_id": 111928,
+   "label": "Permenkes No. 26 Tahun 2018",
+   "about": "Pelayanan Perizinan Berusaha Terintegrasi Secara Elektronik Sektor Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 06 Juni 2014.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/108348/Permenkes%20Nomor%2024%20Tahun%202014.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:22:02Z"
+}

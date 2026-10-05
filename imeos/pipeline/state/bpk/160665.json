@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2021-12",
+ "source": "bpk",
+ "bpk_id": 160665,
+ "url": "https://peraturan.bpk.go.id/Details/160665/pmk-no-12pmk052021",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "12",
+ "number_raw": "12/PMK.05/2021",
+ "year": 2021,
+ "title": "Peraturan Menteri Keuangan Nomor 12/PMK.05/2021 Tahun 2021 tentang Tarif Layanan Badan Layanan Umum Politeknik Pelayaran Barombong pada Kementerian Perhubungan",
+ "about": "Tarif Layanan Badan Layanan Umum Politeknik Pelayaran Barombong pada Kementerian Perhubungan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BADAN LAYANAN UMUM",
+ "field": "Alias",
+ "date_enacted": "2021-02-02",
+ "date_promulgated": "2021-02-03",
+ "date_effective": "2021-02-18",
+ "gazette": "BN.2021/NO. 90, https:jdih.kemenkeu.go.id : 9 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-22",
+   "target_bpk_id": 316120,
+   "label": "PMK No. 22 Tahun 2025",
+   "about": "Tarif Layanan Badan Layanan Umum Bidang Pendidikan dan Pelatihan Sumber Daya Manusia Perhubungan Pada Kementerian Perhubungan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2018-4",
+   "target_bpk_id": 111924,
+   "label": "PMK No. 4/PMK.05/2018",
+   "about": "Tarif Layanan Badan Layanan Umum Balai Pendidikan dan Pelatihan Ilmu Pelayaran Barombong \r\npada Kementerian Perhubungan"
+  }
+ ],
+ "abstract": "Bahwa telah ditetapkan Peraturan Menteri Keuangan Nornor 4/PMK.05/2018 tentang Tarif Layanan\nBadan Layanan Umum Balai Pendidikan dan Pelatihan Ilmu Pelayaran Barombong pada\nKementerian Perhubungan. Bahwa usulan perubahan tarif layanan Badan Layanan Umum Politeknik\nPelayaran Barombong pada Kementerian Perhubungan telah dibahas dan dikaji oleh Tim Penilai,\nperlu menetapkan Peraturan Menteri Keuangan tentang Tarif Layanan Badan Layanan Umum\nPoliteknik Pelayaran Barombong pada Kementerian Perhubungan.\nPasal 17 ayat (3) UUD Tahun 1945, UU 1 Tahun 2004 (LN Tahun 2004 No. 5, TLN No. 4355), UU 39\nTahun 2008 (LN Tahun 2008 No. 166, TLN No. 4916), PP23 Tahun 2005 (LN Tahun 2005No. 48, TLN\nNo. 4502) sebagaimana telah diubah dengan PP 74 Tahun 2012 (LN Tahun 2012 No. 171, TLN No.\n5340), Perpres 57 Tahun 2020 (LN Tahun 2020 No. 98), Permenkeu RI 217/PMK.01/2018 (BN Tahun\n2018 No. 1862) sebagaimana telah beberapa kali diubah terakhir dengan Permenkeu RI\n229/PMK.01/2019 (BN Tahun 2019 No. 1745), Permenkeu RI 129/PMK.05/2020 (BN Tahun 2020\nNo. 1046)\nTarif layanan BLU Politeknik Pelayaran Barombong pada Kementerian Perhubungan merupakan\nimbalan atas jasa layanan yang diberikan oleh BLU Politeknik Pelayaran Barombong pada\nKementerian Perhubungan kepada pengguna jasa. Tarif layanan dimaksud terdiri atas tarif layanan\nakademik dan tarif layanan penunjang akademik. BLU Politeknik Pelayaran Barombong pada\nKementerian Perhubungan dapat memberikan jasa layanan di bidang pendidikan, penelitian, dan\npengabdian kepada masyarakat berdasarkan kebutuhan dari pihak pengguna jasa melalui kontrak\nkerja sama. Tarif jasa layanan di bidang pendidikan, penelitian, dan pengabdian kepada masyarakat\nditetapkan dalam kontrak kerja sama antara Direktur BLU Politeknik Pelayaran Barombong pada\nKementerian Perhubungan dengan pihak pengguna jasa. BLU Politeknik Pelayaran Barombong pada\nKementerian Perhubungan dapat melakukan kerja sama operasional dan/atau kerja sama\nmanajemen dengan pihak lain untuk meningkatkan layanan jasa di bidang pendidikan, penelitian,\ndan pengabdian kepada masyarakat. Tarif layanan kerja sama operasional dan/atau kerja sama\nmanajemen dengan pihak lain ditetapkan dalam kontrak kerja sama antara Direktur BLU Politeknik\nPelayaran Barombong pada Kementerian Perhubungan dengan pihak lain. Terhadap taruna atau\npeserta didik tertentu dapat diberikan tarif layanan sampai dengan Rp0,00 (nol Rupiah) dari tarif\nlayanan akademik. Terhadap taruna atau peserta didik yang berasal dari warga negara asing dapat\ndikenakan tarif layanan paling rendah 150% (seratus lirna puluh persen) daritarif layanan akadernik",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 18 Februari 2021.\nPada saat Peraturan Menteri ini mulai berlaku, Permenkeu RI Nomor 4/PMK.05/2018 tentang Tarif\nLayanan Badan Layanan Umum Balai Pendidikan dan Pelatihan Ilmu Pelayaran Barombong pada\nKementerian Perhubungan, dicabut dan dinyatakan tidak berlaku.\n18 HLM, Lampiran halaman 10-18",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/153256/12_PMK.05_2021.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:08:54Z"
+}

@@ -1,0 +1,50 @@
+{
+ "id": "PERPRES-2024-61",
+ "source": "bpk",
+ "bpk_id": 286317,
+ "url": "https://peraturan.bpk.go.id/Details/286317/perpres-no-61-tahun-2024",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "61",
+ "number_raw": "61",
+ "year": 2024,
+ "title": "Peraturan Presiden (Perpres) Nomor 61 Tahun 2024 tentang Neraca Komoditas",
+ "about": "Neraca Komoditas",
+ "issuer": "Pemerintah Pusat",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2024-05-21",
+ "date_promulgated": "2024-05-21",
+ "date_effective": "2024-06-20",
+ "gazette": "LN 2024 (87) : 42 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2025-7",
+   "target_bpk_id": 314634,
+   "label": "Perpres No. 7 Tahun 2025",
+   "about": "Perubahan atas Peraturan Presiden Nomor 61 Tahun 2024 tentang Neraca Komoditas"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2022-32",
+   "target_bpk_id": 199375,
+   "label": "PERPRES No. 32 Tahun 2022",
+   "about": "Neraca Komoditas"
+  }
+ ],
+ "abstract": "Untuk memberikan kemudahan bagi pelaku usaha dalam memenuhi kebutuhan barang konsumsi untuk penduduk dan bahan baku dan/atau bahan penolong untuk keperluan industri serta untuk meningkatkan efektivitas penerbitan persetujuan impor dan persetujuan ekspor, perlu mengatur kembali ketentuan mengenai neraca komoditas.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD 1945; PP Nomor 5 Tahun 2021; PP Nomor 27 Tahun 2021; PP Nomor 28 Tahun 2021; PP Nomor 29 Tahun 2021; dan Perpres Nomor 44 Tahun 2018.\nPerpres ini mengatur tentang neraca komoditas dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Menteri melakukan koordinasi dan pengendalian atas penyusunan, penetapan, dan pelaksanaan Neraca Komoditas. Neraca komoditas berfungsi sebagai: 1) dasar penerbitan Persetujuan Ekspor dan Persetujuan Impor; 2) acuan data dan informasi situasi konsumsi dan produksi suatu komoditas berskala nasional; 3) acuan data dan informasi kondisi serta proyeksi pengembangan industri nasional; dan 4) acuan penerbitan Perizinan Berusaha untuk menunjang kegiatan usaha di bidang Ekspor dan di bidang Impor dari kementerian/lembaga pemerintah nonkementerian pembina sektor komoditas.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 20 Juni 2024.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 32 Tahun 2022 tentang Neraca Komoditas (Lembaran Negara Republik Indonesia Tahun 2022 Nomor 48), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 42 hlm.",
+ "citations": [
+  "PP-2021-5",
+  "PP-2021-27",
+  "PP-2021-28",
+  "PP-2021-29",
+  "PERPRES-2018-44"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/345436/Perpres%20Nomor%2061%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:03:23Z"
+}

@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKOMINFO-2022-2",
+ "source": "bpk",
+ "bpk_id": 228224,
+ "url": "https://peraturan.bpk.go.id/Details/228224/permenkominfo-no-2-tahun-2022",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Informatika",
+ "number": "2",
+ "number_raw": "2",
+ "year": 2022,
+ "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 2 Tahun 2022 tentang Organisasi dan Tata Kerja Balai Besar Pengujian Perangkat Telekomunikasi",
+ "about": "Organisasi dan Tata Kerja Balai Besar Pengujian Perangkat Telekomunikasi",
+ "issuer": "Kementerian Komunikasi dan Informatika",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "Alias",
+ "date_enacted": "2022-04-05",
+ "date_promulgated": "2022-04-25",
+ "date_effective": "2022-04-25",
+ "gazette": "BN.2021/No.443, https://jdih.kominfo.go.id/: 9 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 343737,
+   "label": "Permenkomdigi No. 20 Tahun 2025",
+   "about": "Organisasi dan Tata Kerja Balai Besar Pengujian Perangkat Telekomunikasi dan Digital"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 161440,
+   "label": "Permenkominfo No. 4/PER/M.KOMINFO/3/2011 Tahun 2011",
+   "about": "Organisasi dan Tata Kerja Balai Besar Pengujian Perangkat Telekomunikasi"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Komunikasi dan Informatika ini mulai berlaku pada tanggal 25 April 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/223042/Salinan_PM_Kominfo_Nomor_2_tahun_2022_tentang_OTK_Balai_Uji_TTE.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:16:18Z"
+}

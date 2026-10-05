@@ -1,0 +1,39 @@
+{
+ "id": "PERPRES-2025-49",
+ "source": "bpk",
+ "bpk_id": 320204,
+ "url": "https://peraturan.bpk.go.id/Details/320204/perpres-no-49-tahun-2025",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "49",
+ "number_raw": "49",
+ "year": 2025,
+ "title": "Peraturan Presiden (Perpres) Nomor 49 Tahun 2025 tentang Pencabutan Peraturan Presiden Nomor 87 Tahun 2016 tentang Satuan Tugas Sapu Bersih Pungutan Liar",
+ "about": "Pencabutan Peraturan Presiden Nomor 87 Tahun 2016 tentang Satuan Tugas Sapu Bersih Pungutan Liar",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KETENAGAKERJAAN - STRUKTUR ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-05-06",
+ "date_promulgated": "2025-05-06",
+ "date_effective": "2025-05-06",
+ "gazette": "LN 2025 (75) : 2 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2016-87",
+   "target_bpk_id": 40991,
+   "label": "PERPRES No. 87 Tahun 2016",
+   "about": "Satuan Tugas Sapu Bersih Pungutan Liar"
+  }
+ ],
+ "abstract": "Keberadaan Satuan Tugas Sapu Bersih pungutan Liar sudah tidak efektif sehingga perlu membubarkan Satuan Tugas Sapu Bersih Pungutan Liar sebagaimana ditetapkan dalam Peraturan Presiden Nomor 87 Tahun\n2016 tentang Satuan Tugas Sapu Bersih Pungutan Liar. Berdasarkan hal tersebut pemerintah perlu menetapkan Peraturan Presiden tentang Pencabutan Peraturan Presiden Nomor 87 Tahun 2016 tentang Satuan Tugas Sapu Bersih Pungutan Liar.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.\nPerpres ini mengatur mengenai Pencabutan Peraturan Presiden Nomor 87 Tahun 2016 tentang Satuan Tugas Sapu Bersih Pungutan Liar yang dinilai sudah tidak efektif.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 06 Mei 2025.\nPeraturan Presiden Nomor 87 Tahun 2016 tentang Satuan Tugas Sapu Bersih Pungutan Liar (kmbaran Negara Republik Indonesia Tahun 2016 Nomor 202), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 2 hlm",
+ "citations": [
+  "PERPRES-2016-87"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/381841/Perpres%20Nomor%20%2049%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:02:46Z"
+}

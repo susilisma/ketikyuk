@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKUMHAM-2024-1",
+ "source": "bpk",
+ "bpk_id": 277457,
+ "url": "https://peraturan.bpk.go.id/Details/277457/permenkumham-no-1-tahun-2024",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "1",
+ "number_raw": "1",
+ "year": 2024,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 1 Tahun 2024 tentang Sistem Kerja Aparatur Sipil Negara di Lingkungan Kementerian Hukum dan Hak Asasi Manusia",
+ "about": "Sistem Kerja Aparatur Sipil Negara di Lingkungan Kementerian Hukum dan Hak Asasi Manusia",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-01-09",
+ "date_promulgated": "2024-01-16",
+ "date_effective": "2024-01-16",
+ "gazette": "BN 2024 (34); 34 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 326250,
+   "label": "Permenkum No. 19 Tahun 2025",
+   "about": "Sistem Kerja Aparatur Sipil Negara di Lingkungan Kementerian Hukum"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 16 Januari 2024.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/336060/permenkumham-no-1-tahun-2024.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:19:34Z"
+}

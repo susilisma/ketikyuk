@@ -1,0 +1,51 @@
+{
+ "id": "PERMENKUMHAM-2015-30",
+ "source": "bpk",
+ "bpk_id": 133310,
+ "url": "https://peraturan.bpk.go.id/Details/133310/permenkumham-no-30-tahun-2015",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "30",
+ "number_raw": "30",
+ "year": 2015,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 30 Tahun 2015 tentang Tata Cara Pembentukan Peraturan Menteri di Lingkungan Kementerian Hukum dan Hak Asasi Manusia",
+ "about": "Tata Cara Pembentukan Peraturan Menteri di Lingkungan Kementerian Hukum dan Hak Asasi Manusia",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA",
+ "field": "Alias",
+ "date_enacted": "2015-09-30",
+ "date_promulgated": "2015-09-30",
+ "date_effective": "2015-09-30",
+ "gazette": "BN.2015/No.1474, peraturan.go.id : 8 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 326274,
+   "label": "Permenkum No. 28 Tahun 2025",
+   "about": "Tata Cara Pembentukan Peraturan Menteri Hukum"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 133208,
+   "label": "Permenkumham No. 22 Tahun 2017",
+   "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 30 Tahun 2015 tentang Tata Cara Pembentukan Peraturan Menteri di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 134423,
+   "label": "Permenkumham No. M.HH-01.PP.01.01 Tahun 2011",
+   "about": "Tata Cara Mempersiapkan Rancangan Peraturan Menteri di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 30 September 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/124097/Permenkumham%20Nomor%2030%20Tahun%202015.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:19:12Z"
+}

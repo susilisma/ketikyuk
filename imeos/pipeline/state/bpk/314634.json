@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2025-7",
+ "source": "bpk",
+ "bpk_id": 314634,
+ "url": "https://peraturan.bpk.go.id/Details/314634/perpres-no-7-tahun-2025",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "7",
+ "number_raw": "7",
+ "year": 2025,
+ "title": "Peraturan Presiden (Perpres) Nomor 7 Tahun 2025 tentang Perubahan atas Peraturan Presiden Nomor 61 Tahun 2024 tentang Neraca Komoditas",
+ "about": "Perubahan atas Peraturan Presiden Nomor 61 Tahun 2024 tentang Neraca Komoditas",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PENANAMAN MODAL DAN INVESTASI - PEREKONOMIAN",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2025-02-03",
+ "date_promulgated": "2025-02-03",
+ "date_effective": "2025-02-03",
+ "gazette": "LN 2025 (11) : 21 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2024-61",
+   "target_bpk_id": 286317,
+   "label": "Perpres No. 61 Tahun 2024",
+   "about": "Neraca Komoditas"
+  }
+ ],
+ "abstract": "Sehubungan dengan perubahan penataan tugas, fungsi, organisasi, dan nomenklatur kementerian negara serta upaya penyempurnaan kebijakan Neraca Komoditas, perlu mengubah ketentuan Neraca Komoditas sebagaimana diatur dalam Perpres Nomor 61 Tahun 2024.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD NRI Tahun 1945; PP Nomor 5 Tahun 2021; PP Nomor 27 Tahun 2021; PP Nomor 28 Tahun 2021; PP Nomor 29 Tahun 2021; Perpres Nomor 44 Tahun 2018; dan Perpres Nomor 61 Tahun 2024.\nPerpres ini mengubah beberapa ketentuan dalam Perpres Nomor 61 Tahun 2024. Menko Perekonomian melakukan koordinasi dan pengendalian atas penyusunan, penetapan, dan pelaksanaan Neraca Komoditas nonpangan. Komoditas nonpangan tersebut terdiri atas minyak bumi dan gas bumi. Menko Pangan melakukan koordinasi dan pengendalian atas penyusunan, penetapan, dan pelaksanaan Neraca Komoditas pangan. Komoditas pangan tersebut terdiri atas: gula, pergaraman, jagung, beras, daging lembu, perikanan, dan bawang putih.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 03 Februari 2025.\nPerpres ini mengubah Perpres Nomor 61 Tahun 2024.\nLampiran file: 21 hlm.",
+ "citations": [
+  "PERPRES-2024-61",
+  "PP-2021-5",
+  "PP-2021-27",
+  "PP-2021-28",
+  "PP-2021-29",
+  "PERPRES-2018-44"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/375619/Perpres%20Nomor%207%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:03:22Z"
+}

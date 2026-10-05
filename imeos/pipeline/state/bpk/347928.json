@@ -1,0 +1,39 @@
+{
+ "id": "PERPRES-2026-4",
+ "source": "bpk",
+ "bpk_id": 347928,
+ "url": "https://peraturan.bpk.go.id/Details/347928/perpres-no-4-tahun-2026",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "4",
+ "number_raw": "4",
+ "year": 2026,
+ "title": "Peraturan Presiden (Perpres) Nomor 4 Tahun 2026 tentang Pengendalian Alih Fungsi Lahan Sawah",
+ "about": "Pengendalian Alih Fungsi Lahan Sawah",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PANGAN, PERTANIAN DAN PETERNAKAN",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2026-02-04",
+ "date_promulgated": "2026-02-04",
+ "date_effective": "2026-02-04",
+ "gazette": "LN 2026 (11) : 17 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2019-59",
+   "target_bpk_id": 120618,
+   "label": "PERPRES No. 59 Tahun 2019",
+   "about": "Pengendalian Alih Fungsi Lahan Sawah"
+  }
+ ],
+ "abstract": "Untuk mengoptimalkan pengendalian alih fungsi lahan sawah serta untuk menyesuaikan kebutuhan hukum dan kebutuhan masyrakat, Peraturan Presiden Nomor 59 Tahun 2019 tentang Pengendalian Alih Fungsi Lahan Sawah perlu diganti.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD 1945.\nPerpres ini mengatur mengenai pengendalian alih fungsi lahan sawah. Ruang lingkup Peraturan Presiden ini meliputi: 1) Tim Terpadu\nPengendalian Alih Fungsi Lahan Sawah; 2) penetapan peta Lahan Sawah yang dilindungi; 3) pengendalian Alih Fungsi Lahan Sawah yang dilindungi; 4) pemberdayaan tahan Sawah yang dilindungi; 5) pembinaan dan pengawasan; 6) pelaporan; dan 7) pendanaan.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 04 Februari 2026.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 59 Tahun 2019 tentang Pengendalian Alih Fungsi Lahan Sawah (Lembaran Negara Republik Indonesia Tahun 2019 Nomor 163), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 17 hlm.",
+ "citations": [
+  "PERPRES-2019-59"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/411503/Perpres%20Nomor%204%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:00:40Z"
+}

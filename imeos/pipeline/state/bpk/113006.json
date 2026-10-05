@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKES-2016-11",
+ "source": "bpk",
+ "bpk_id": 113006,
+ "url": "https://peraturan.bpk.go.id/Details/113006/permenkes-no-11-tahun-2016",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "11",
+ "number_raw": "11",
+ "year": 2016,
+ "title": "Peraturan Menteri Kesehatan Nomor 11 Tahun 2016 tentang Penyelenggaraan Pelayanan Rawat Jalan Eksekutif Di Rumah Sakit",
+ "about": "Penyelenggaraan Pelayanan Rawat Jalan Eksekutif Di Rumah Sakit",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - PERIZINAN, PELAYANAN PUBLIK",
+ "field": "Alias",
+ "date_enacted": "2016-03-17",
+ "date_promulgated": "2016-04-07",
+ "date_effective": "2016-04-07",
+ "gazette": "BN.2016/NO.531, kemenkes.go.id : 10 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-6",
+   "target_bpk_id": 350851,
+   "label": "Permenkes No. 6 Tahun 2026",
+   "about": "Rumah Sakit"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 07 April 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/103956/Permenkes%20Nomor%2011%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:21:57Z"
+}

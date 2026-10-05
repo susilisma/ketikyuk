@@ -1,0 +1,43 @@
+{
+ "id": "PERBPOM-2025-28",
+ "source": "bpk",
+ "bpk_id": 333960,
+ "url": "https://peraturan.bpk.go.id/Details/333960/peraturan-bpom-no-28-tahun-2025",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "28",
+ "number_raw": "28",
+ "year": 2025,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 28 Tahun 2025 tentang Rencana Strategis Badan Pengawas Obat dan Makanan Tahun 2025-2029",
+ "about": "Rencana Strategis Badan Pengawas Obat dan Makanan Tahun 2025-2029",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "PROGRAM, RENCANA PEMBANGUNAN DAN RENCANA KERJA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-10-07",
+ "date_promulgated": "2025-10-07",
+ "date_effective": "2025-10-07",
+ "gazette": "BN 2025 (763); 256 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 181774,
+   "label": "Peraturan BPOM No. 9 Tahun 2020",
+   "about": "Rencana Strategis Badan Pengawas Obat dan Makanan Tahun 2020-2024"
+  }
+ ],
+ "abstract": "bahwa untuk melaksanakan ketentuan Pasal 19 ayat (2)\nUndang-Undang Nomor 25 Tahun 2004 tentang Sistem\nPerencanaan Pembangunan Nasional, Pasal 17 ayat (3)\nPeraturan Pemerintah Nomor 40 Tahun 2006 tentang Tata Cara\nPenyusunan Rencana Pembangunan Nasional, dan Pasal 19\nayat (1) Peraturan Presiden Nomor 80 Tahun 2025 tentang\nPenyusunan Rencana Strategis dan Rencana Kerja\nKementerian/Lembaga\nDasar hukum peraturan ini adalah UU Nomor 25 Tahun 2004;\nPP Nomor 40 Tahun 2006;\nPerpres Nomor 80 Tahun 2017;\nPerpres Nomor 12 Tahun 2025;\nPerpres Nomor 80 Tahun 2025;\nPerBPOM Nomor 21 Tahun 2020 sebagaimana telah diubah dengan PerBPOM Nomor 13 Tahun 2022;\nPerBPOM Nomor 23 Tahun 2020;\nPerBPOM Nomor 19 Tahun 2023 sebagaimana telah diubah dengan PerBPOM Nomor 3 Tahun 2025.\nPeraturan ini mengatur mengenai Rencana Strategis Badan Pengawas Obat dan Makanan Tahun 2025-2029 yang memuat:\na. visi, misi, tujuan, dan sasaran strategis;\nb. arah kebijakan, strategi, kerangka regulasi, dan\nkerangka kelembagaan; dan\nc. target kinerja dan kerangka pendanaan",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 07 Oktober 2025.\nPada saat Peraturan Badan ini mulai berlaku, Peraturan Badan\nPengawas Obat dan Makanan Nomor 9 Tahun 2020 tentang\nRencana Strategis Badan Pengawas Obat dan Makanan Tahun\n2020-2024 (Berita Negara Republik Indonesia Tahun 2020\nNomor 446), dicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "UU-2004-25",
+  "PP-2006-40",
+  "PERPRES-2025-80",
+  "PERPRES-2017-80",
+  "PERPRES-2025-12"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/396515/peraturan-bpom-no-28-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:28:29Z"
+}

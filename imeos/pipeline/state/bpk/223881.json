@@ -12,7 +12,7 @@
  "about": "Tata Cara Penetapan Harga Patokan Ekspor Atas Produk Pertanian dan Kehutanan Yang Dikenakan Bea Keluar, Harga Referensi Atas Produk Pertanian dan Kehutanan dan Daftar Merek Refined, Bleached and Deodorized Palm Olein Yang Dikenakan Bea Keluar dan Tarif Layanan Badan Layanan Umum Badan Pengelola Dana Perkebunan Kelapa Sawit",
  "issuer": "Kementerian Perdagangan",
  "subject": "BADAN LAYANAN UMUM - BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2022-08-01",
  "date_promulgated": "2022-08-01",
  "date_effective": "2022-08-01",
@@ -68,5 +68,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/218453/Salinan%20Permendag%20Nomor%2046%20Tahun%202022_BNRI.pdf"
  ],
- "fetched_at": "2026-09-14T06:36:54Z"
+ "fetched_at": "2026-10-05T05:11:12Z"
 }

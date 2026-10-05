@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKES-2015-63",
+ "source": "bpk",
+ "bpk_id": 172110,
+ "url": "https://peraturan.bpk.go.id/Details/172110/permenkes-no-63-tahun-2015",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "63",
+ "number_raw": "63",
+ "year": 2015,
+ "title": "Peraturan Menteri Kesehatan Nomor 63 Tahun 2015 tentang Perubahan atas Peraturan Menteri Kesehatan Nomor 30 Tahun 2013 tentang Pencantuman Informasi Kandungan Gula, Garam, dan Lemak Serta Pesan Kesehatan untuk Pangan Olahan dan Pangan Siap Saji",
+ "about": "Perubahan atas Peraturan Menteri Kesehatan Nomor 30 Tahun 2013 tentang Pencantuman Informasi Kandungan Gula, Garam, dan Lemak Serta Pesan Kesehatan untuk Pangan Olahan dan Pangan Siap Saji",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - PERLINDUNGAN KONSUMEN",
+ "field": "Alias",
+ "date_enacted": "2015-09-17",
+ "date_promulgated": "2015-09-18",
+ "date_effective": "2015-09-18",
+ "gazette": "BN.2015/No.1402, peraturan.go.id : 4 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-3",
+   "target_bpk_id": 350854,
+   "label": "Permenkes No. 3 Tahun 2026",
+   "about": "Penanggulangan Penyakit"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENKES-2013-30",
+   "target_bpk_id": 172111,
+   "label": "Permenkes No. 30 Tahun 2013",
+   "about": "Pencantuman Informasi Kandungan Gula, Garam, dan Lemak Serta Pesan Kesehatan untuk Pangan Olahan dan Pangan Siap Saji"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 18 September 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/165279/Permenkes%20Nomor%2063%20Tahun%202015.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:22:50Z"
+}

@@ -1,0 +1,68 @@
+{
+ "id": "PERPRES-2026-5",
+ "source": "bpk",
+ "bpk_id": 347929,
+ "url": "https://peraturan.bpk.go.id/Details/347929/perpres-no-5-tahun-2026",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "5",
+ "number_raw": "5",
+ "year": 2026,
+ "title": "Peraturan Presiden (Perpres) Nomor 5 Tahun 2026 tentang Hak Keuangan dan Fasilitas Hakim Ad Hoc",
+ "about": "Hak Keuangan dan Fasilitas Hakim Ad Hoc",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA - KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-02-04",
+ "date_promulgated": "2026-02-04",
+ "date_effective": "2026-02-04",
+ "gazette": "LN 2026 (12): 8 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2023-42",
+   "target_bpk_id": 252136,
+   "label": "PERPRES No. 42 Tahun 2023",
+   "about": "Perubahan atas Peraturan Presiden Nomor 5 Tahun 2013 tentang Hak Keuangan dan Fasilitas Hakim Ad Hoc"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2013-5",
+   "target_bpk_id": 41375,
+   "label": "PERPRES No. 5 Tahun 2013",
+   "about": "Hak Keuangan dan Fasilitas Hakim Ad Hoc"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2010-85",
+   "target_bpk_id": 41103,
+   "label": "PERPRES No. 85 Tahun 2010",
+   "about": "Perubahan atas Keputusan Presiden Nomor 64 Tahun 2002 tentang Uang Kehormatan bagi Hakim Ad Hoc"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 56728,
+   "label": "Keppres No. 64 Tahun 2002",
+   "about": "Uang Kehormatan Bagi Hakim Ad Hoc"
+  }
+ ],
+ "abstract": "Hak keuangan dan fasilitas Hakim Ad Hoc sebagai pejabat yang melaksanakan kekuasaan kehakiman perlu diatur secara terintegrasi\ndi dalam peraturan perundang-undangan.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD 1945; UU No. 14 Tahun 1985; UU No. 2 Tahun 1986; UU No. 26 Tahun 2000; UU No. 17 Tahun 2003; UU No. 2 Tahun 2004; UU No. 31 Tahun 2004; UU No. 37 Tahun 2004; UU No. 46 Tahun 2009; dan UU No. 48 Tahun 2009.\nPerpres ini mengatur mengenai hak keuangan dan fasilitas Hakim Ad Hoc. Hakim Ad Hoc diberikan hak keuangan dan fasilitas yang terdiri atas: 1) tunjangan; 2) rumah negara; 3) fasilitas transportasi; 4) jaminan kesehatan; 5) jaminan keamanan dalam menjalankan tugasnya; 6) biaya perjalanan dinas; dan 7) uang penghargaan.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 04 Februari 2026.\nPerpres ini mencabut Keppres No. 64 Tahun 2002 dan Perpres No. 5 Tahun 2013.\nLampiran file: 10 hlm (batang tubuh hlm 1 sd 8, lampiran hlm 9 sd 10)",
+ "citations": [
+  "UU-1985-14",
+  "UU-1986-2",
+  "UU-2000-26",
+  "UU-2003-17",
+  "UU-2004-2",
+  "UU-2004-31",
+  "UU-2004-37",
+  "UU-2009-46",
+  "UU-2009-48"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/411504/Perpres%20Nomor%205%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:00:34Z"
+}

@@ -12,7 +12,7 @@
  "about": "Pedoman Penyelenggaraan Sistem Pengendalian Intern Pemerintah Kementerian Ketenagakerjaan",
  "issuer": "Kementerian Ketenagakerjaan",
  "subject": "KETENAGAKERJAAN - SISTEM PENGENDALIAN INTERN",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2019-09-03",
  "date_promulgated": "2019-09-03",
  "date_effective": "2019-09-03",
@@ -40,5 +40,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/251527/Permenaker%20No.%2013%20Tahun%202019.pdf"
  ],
- "fetched_at": "2026-09-14T06:40:50Z"
+ "fetched_at": "2026-10-05T05:14:26Z"
 }

@@ -1,0 +1,51 @@
+{
+ "id": "PERMENKUMHAM-2019-19",
+ "source": "bpk",
+ "bpk_id": 133132,
+ "url": "https://peraturan.bpk.go.id/Details/133132/permenkumham-no-19-tahun-2019",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "19",
+ "number_raw": "19",
+ "year": 2019,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 19 Tahun 2019 tentang Syarat dan Tata Cara Pengangkatan, Cuti, Perpindahan, Pemberhentian, dan Perpanjangan Masa Jabatan Notaris",
+ "about": "Syarat dan Tata Cara Pengangkatan, Cuti, Perpindahan, Pemberhentian, dan Perpanjangan Masa Jabatan Notaris",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "Alias",
+ "date_enacted": "2019-09-02",
+ "date_promulgated": "2019-09-02",
+ "date_effective": "2019-09-02",
+ "gazette": "BN.2019/NO.990, peraturan.go.id : 53 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 326269,
+   "label": "Permenkum No. 22 Tahun 2025",
+   "about": "Syarat dan Tata Cara Pengangkatan, Cuti, Pindah Wilayah, Pemberhentian, dan Perpanjangan Masa Jabatan Notaris"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133285,
+   "label": "Permenkumham No. 62 Tahun 2016",
+   "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 25 Tahun 2014 tentang Syarat dan Tata Cara Pengangkatan, Perpindahan, Pemberhentian, dan Perpanjangan Masa Jabatan Notaris"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133346,
+   "label": "Permenkumham No. 25 Tahun 2014",
+   "about": "Syarat dan Tata Cara Pengangkatan, Perpindahan, Pemberhentian, dan Perpanjangan Masa Jabatan Notaris"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 02 September 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/123919/Permenkumham%20Nomor%2019%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:19:27Z"
+}

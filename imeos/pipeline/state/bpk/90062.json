@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2018-63",
+ "source": "bpk",
+ "bpk_id": 90062,
+ "url": "https://peraturan.bpk.go.id/Details/90062/perpres-no-63-tahun-2018",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "63",
+ "number_raw": "63",
+ "year": 2018,
+ "title": "Peraturan Presiden (Perpres) Nomor 63 Tahun 2018 tentang Penetapan dan Pendaftaran Barang Terkait Dengan Keamanan, Keselamatan, Kesehatan dan Lingkungan Hidup",
+ "about": "Penetapan dan Pendaftaran Barang Terkait Dengan Keamanan, Keselamatan, Kesehatan dan Lingkungan Hidup",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "Alias",
+ "date_enacted": "2018-08-13",
+ "date_promulgated": "2018-08-14",
+ "date_effective": null,
+ "gazette": "LN.2018/NO.131, LL SETKAB : 7 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2026-3",
+   "target_bpk_id": 343972,
+   "label": "PP No. 3 Tahun 2026",
+   "about": "Perubahan atas Peraturan Pemerintah Nomor 29 Tahun 2021 tentang Penyelenggaraan Bidang Perdagangan"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2021-29",
+   "target_bpk_id": 161870,
+   "label": "PP No. 29 Tahun 2021",
+   "about": "Penyelenggaraan Bidang Perdagangan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal .",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/80941/Perpres%20Nomor%2063%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-10-05T04:57:39Z"
+}

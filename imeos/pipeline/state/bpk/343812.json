@@ -1,0 +1,42 @@
+{
+ "id": "PERBPOM-2025-32",
+ "source": "bpk",
+ "bpk_id": 343812,
+ "url": "https://peraturan.bpk.go.id/Details/343812/peraturan-bpom-no-32-tahun-2025",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "32",
+ "number_raw": "32",
+ "year": 2025,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 32 Tahun 2025 tentang Penyelenggaraan Pelatihan Bidang Keamanan Pangan",
+ "about": "Penyelenggaraan Pelatihan Bidang Keamanan Pangan",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "PANGAN, PERTANIAN DAN PETERNAKAN - PENDIDIKAN DAN PELATIHAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-12-11",
+ "date_promulgated": "2025-12-16",
+ "date_effective": "2025-12-16",
+ "gazette": "BN 2025 (1062); 9 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 181760,
+   "label": "Peraturan BPOM No. 16 Tahun 2021",
+   "about": "Penyelenggaraan Pelatihan Pengawas Pangan Kabupaten/Kota dan Penyuluh Keamanan Pangan"
+  }
+ ],
+ "abstract": "bahwa pengaturan mengenai penyelenggaraan pelatihan bidang keamanan pangan sebagaimana telah diatur dalam Peraturan Badan Pengawas Obat dan Makanan Nomor 16 Tahun 2021 tentang Penyelenggaraan Pelatihan Pengawas Pangan Kabupaten/Kota dan Penyuluh Keamanan Pangan sudah tidak sesuai dengan perkembangan hukum dan kebutuhan organisasi, sehingga perlu diganti\nDasar hukum peraturan ini adalah UU Nomor 18 Tahun 2012;\nPP Nomor 86 Tahun 2019;\nPerpres Nomor 80 Tahun 2017;\nPerBPOM Nomor 21 Tahun 2020 sebagaimana telah diubah dengan PerBPOM Nomor 13 Tahun 2022;\nPerBPOM Nomor 19 Tahun 2023 sebagaimana telah diubah dengan PerBPOM Nomor 3 Tahun 2025.\nPeraturan ini mengatur mengenai pelatihan bidang keamanan pangan yang diselenggarakan oleh:\na. unit kerja yang mempunyai tugas melaksanakan pengembangan sumber daya manusia pengawasan obat dan makanan;\nb. unit kerja pusat atau unit pelaksana teknis BPOM; atau\nc. lembaga penyelenggara pelatihan.",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 16 Desember 2025.\nPada saat Peraturan Badan ini mulai berlaku, Peraturan Badan Pengawas Obat dan Makanan Nomor 16 Tahun 2021 tentang Penyelenggaraan Pelatihan Pengawas Pangan Kabupaten/Kota dan Penyuluh Keamanan Pangan (Berita Negara Republik Indonesia Tahun 2021 Nomor 472), dicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "PERBPOM-2021-16",
+  "UU-2012-18",
+  "PP-2019-86",
+  "PERPRES-2017-80"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/407049/peraturan-bpom-no-32-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:28:20Z"
+}

@@ -12,7 +12,7 @@
  "about": "Perubahan atas Peraturan Menteri Ketenagakerjaan Nomor 11 Tahun 2021 tentang Indikator Kinerja Utama Kementerian Ketenagakerjaan Tahun 2020-2024",
  "issuer": "Kementerian Ketenagakerjaan",
  "subject": "KEPEGAWAIAN, APARATUR NEGARA",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2022-09-01",
  "date_promulgated": "2022-09-05",
  "date_effective": "2022-09-05",
@@ -40,5 +40,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/264867/Permenaker%20Nomor%209%20Tahun%202022.pdf"
  ],
- "fetched_at": "2026-09-14T06:40:53Z"
+ "fetched_at": "2026-10-05T05:14:30Z"
 }

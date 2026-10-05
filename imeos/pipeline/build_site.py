@@ -134,6 +134,19 @@ def amendment_target(texts_rec, rec):
     return None
 
 
+def text_revocations(t):
+    """Regulations a text revokes in its closing provisions ("Pada saat ... mulai berlaku, X ... dicabut dan dinyatakan
+    tidak berlaku"). BPK metadata often lags on this, e.g. BKPM 5/2025 revoking BKPM 4/2021."""
+    body = "\n".join(a["text"] for a in t.get("articles", []))
+    out = set()
+    for m in re.finditer(r"dicabut\s+dan\s+dinyatakan\s+tidak\s+berlaku", body, re.I):
+        seg = body[max(0, m.start() - 2500):m.start()]
+        k = seg.rfind("Pada saat")
+        if k >= 0:
+            out.update(extract_citations(seg[k:]))
+    return out
+
+
 def write(path, data):
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")), "utf8")
@@ -170,6 +183,18 @@ def build(max_text=40, min_relevance=55, summarize_docs=True):
             budget -= downloaded
             if t:
                 texts[tgt] = t
+
+    # ---- revocations stated in the text itself (same form only: a Permen cannot revoke a PP)
+    for rid, t in texts.items():
+        for tgt in text_revocations(t):
+            r, g = recs[rid], recs.get(tgt)
+            if not g or tgt == rid or g["form"] != r["form"] or rid in g["revoked_by"]:
+                continue
+            g["revoked_by"] = sorted(set(g["revoked_by"]) | {rid})
+            g["status"] = "revoked"
+            g["relations"].append({"type": "Dicabut dengan", "target": rid, "label": f"{r['form']} {r['number_raw']}/{r['year']}", "source": "text"})
+            if not any(x.get("target") == tgt for x in r["relations"]):
+                r["relations"].append({"type": "Mencabut", "target": tgt, "label": f"{g['form']} {g['number_raw']}/{g['year']}", "source": "text"})
 
     # ---- diffs along amendment chains
     chains = defaultdict(list)

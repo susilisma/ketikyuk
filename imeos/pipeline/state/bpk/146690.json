@@ -12,7 +12,7 @@
  "about": "Pedoman Pengelolaan Badan Layanan Umum",
  "issuer": "Kementerian Keuangan",
  "subject": "BADAN LAYANAN UMUM - STANDAR / PEDOMAN",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2020-09-18",
  "date_promulgated": "2020-09-18",
  "date_effective": "2020-09-18",
@@ -155,5 +155,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/138516/129_PMK.05_2020.pdf"
  ],
- "fetched_at": "2026-09-14T06:32:40Z"
+ "fetched_at": "2026-10-05T05:07:08Z"
 }

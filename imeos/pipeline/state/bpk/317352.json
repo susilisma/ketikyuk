@@ -1,0 +1,35 @@
+{
+ "id": "PERMENKOMINFO-2025-7",
+ "source": "bpk",
+ "bpk_id": 317352,
+ "url": "https://peraturan.bpk.go.id/Details/317352/permenkomdigi-no-7-tahun-2025",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Digital",
+ "number": "7",
+ "number_raw": "7",
+ "year": 2025,
+ "title": "Peraturan Menteri Komunikasi dan Digital Nomor 7 Tahun 2025 tentang Pemanfaatan Teknologi Modul Identitas",
+ "about": "Pemanfaatan Teknologi Modul Identitas",
+ "issuer": "Kementerian Komunikasi dan Digital",
+ "subject": "ILMU PENGETAHUAN DAN TEKNOLOGI - TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-04-10",
+ "date_promulgated": "2025-04-11",
+ "date_effective": "2025-04-11",
+ "gazette": "BN 2025 (255); 21 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [],
+ "abstract": "bahwa dalam pembinaan penyelenggaraan\ntelekomunikasi, Menteri Komunikasi dan Digital\nberwenang menetapkan kebijakan dan pengaturan\nsebagai landasan hukum serta melakukan pengawasan\ndan pengendalian pemanfaatan teknologi modul\nidentitas pelanggan melekat (embedded subscriber\nidentity module) dalam penyelenggaraan telekomunikasi\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD 1945; UU Nomor 36 Tahun 1999 sebagaimana telah diubah dengan UU Nomor 6 Tahun 2023; UU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024; Perpres Nomor 174 Tahun 2024; Permenkominfo Nomor 1 Tahun 2025\nPeraturan ini mengatur mengenai pemanfaatan teknolodi eSIM yang dalam dilaksanakan oleh a. Penyelenggara Jaringan Bergerak Seluler; dan\nb. Penyelenggara Jaringan Bergerak Satelit; (1) Sistem Provisioning terdiri atas spesifikasi:\na. sistem proprietary; dan\nb. Global System for Mobile Communication\nAssociation (GSMA); standar minimal perangkat konsumen; Sertifikasi skema akreditasi keamanan data Sistem Provisioning;",
+ "note": "Peraturan Menteri Komunikasi dan Digital ini mulai berlaku pada tanggal 11 April 2025.",
+ "citations": [
+  "UU-1999-36",
+  "UU-2023-6",
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2024-174"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/378693/permenkomdigi%207-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:16:45Z"
+}

@@ -1,0 +1,51 @@
+{
+ "id": "PERPRES-2007-86",
+ "source": "bpk",
+ "bpk_id": 42158,
+ "url": "https://peraturan.bpk.go.id/Details/42158/perpres-no-86-tahun-2007",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "86",
+ "number_raw": "86",
+ "year": 2007,
+ "title": "Peraturan Presiden (Perpres) Nomor 86 Tahun 2007 tentang Badan Pusat Statistik",
+ "about": "Badan Pusat Statistik",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "Alias",
+ "date_enacted": "2007-08-26",
+ "date_promulgated": null,
+ "date_effective": "2007-08-26",
+ "gazette": "LLSETKAB : 13 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2025-1",
+   "target_bpk_id": 314632,
+   "label": "Perpres No. 1 Tahun 2025",
+   "about": "Perubahan atas Peraturan Presiden Nomor 86 Tahun 2007 tentang Badan Pusat Statistik"
+  },
+  {
+   "type": "Mengubah sebagian",
+   "target": null,
+   "target_bpk_id": 57352,
+   "label": "Keppres No. 110 Tahun 2001",
+   "about": "Unit Organisasi Dan Tugas Eselon I Lembaga Pemerintah Non Departemen"
+  },
+  {
+   "type": "Mengubah sebagian",
+   "target": null,
+   "target_bpk_id": 57340,
+   "label": "Keppres No. 103 Tahun 2001",
+   "about": "Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, dan Tata Kerja Lembaga Pemerintah Non Departemen"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 26 Agustus 2007.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/70832/PERPRES%20NO%2086%20TH%202007.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:03:36Z"
+}

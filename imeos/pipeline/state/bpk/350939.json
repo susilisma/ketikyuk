@@ -1,0 +1,43 @@
+{
+ "id": "PERBPOM-2026-5",
+ "source": "bpk",
+ "bpk_id": 350939,
+ "url": "https://peraturan.bpk.go.id/Details/350939/peraturan-bpom-no-5-tahun-2026",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "5",
+ "number_raw": "5",
+ "year": 2026,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 5 Tahun 2026 tentang Pengawasan Pengelolaan Obat dan Bahan Obat di Fasilitas Pelayanan Kefarmasian dan Fasilitas Lain",
+ "about": "Pengawasan Pengelolaan Obat dan Bahan Obat di Fasilitas Pelayanan Kefarmasian dan Fasilitas Lain",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "SISTEM PENGENDALIAN INTERN - PENGAWASAN / AUDIT INTERNAL",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2026-03-13",
+ "date_promulgated": "2026-04-06",
+ "date_effective": "2026-04-06",
+ "gazette": "JDIH BPOM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 223930,
+   "label": "Peraturan BPOM No. 24 Tahun 2021",
+   "about": "Pengawasan Pengelolaan Obat, Bahan Obat, Narkotika, Psikotropika, dan Prekursor Farmasi di Fasilitas Pelayanan Kefarmasian"
+  }
+ ],
+ "abstract": "masyarakat perlu dilindungi dari risiko obat dan bahan obat yang tidak memenuhi persyaratan keamanan, khasiat, dan mutu serta risiko penyimpangan pengelolaan obat dan bahan obat yang dapat membahayakan kesehatan masyarakat;\nketentuan mengenai pengelolaan obat, bahan obat, narkotika, psikotropika, dan prekursor farmasi sebagaimana diatur dalam Peraturan Badan Pengawas Obat dan Makanan Nomor 24 Tahun 2021 tentang Pengawasan Pengelolaan Obat, Bahan Obat, Narkotika, Psikotropika, dan Prekursor Farmasi di Fasilitas\nPelayanan Kefarmasian sudah tidak sesuai dengan perkembangan hukum, sehingga perlu diganti;\nberdasarkan ketentuan Pasal 3 ayat (1) huruf d Peraturan Presiden Nomor 80 Tahun 2017 tentang Badan Pengawas Obat dan Makanan, Badan Pengawas Obat dan Makanan memiliki fungsi pelaksanaan tugas pengawasan sebelum beredar dan pengawasan selama beredar\nPeraturan Pemerintah Nomor 28 Tahun 2024; Peraturan Presiden Nomor 80 Tahun 2017;Peraturan Badan Pengawas Obat dan Makanan Nomor 21\nTahun 2020; Peraturan Badan Pengawas Obat dan Makanan Nomor 19 Tahun 2023\nKetentuan Umum, Pengelolaan Onbat dan Bahan Obat, Pengawasan, Larangan, Sanksi Administratif, Ketentuan Peralihan, Ketentuan Penutup",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 06 April 2026.\nPeraturan Badan Pengawas Obat dan Makanan Nomor 24 Tahun 2021 tentang Pengawasan Pengelolaan Obat, Bahan Obat, Narkotika, Psikotropika, dan Prekursor Farmasi di Fasilitas Pelayanan Kefarmasian (Berita Negara Republik Indonesia Tahun 2021 Nomor 1152)",
+ "citations": [
+  "PERBPOM-2021-24",
+  "PERPRES-2017-80",
+  "PP-2024-28",
+  "PERBPOM-2020-21",
+  "PERBPOM-2023-19"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/414694/Peraturan%20Badan%20Pengawas%20Obat%20dan%20Makanan%20Nomor%205%20Tahun%202026%20tentang%20Pengawasan%20Pengelolaan%20Obat%20dan%20Bahan%20Obat%20di%20Fasilitas%20Pelayanan%20Kefarmasian%20dan%20Fasilitas%20Lain.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:24:44Z"
+}

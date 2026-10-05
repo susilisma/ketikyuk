@@ -1,0 +1,46 @@
+{
+ "id": "PERPRES-2023-20",
+ "source": "bpk",
+ "bpk_id": 244663,
+ "url": "https://peraturan.bpk.go.id/Details/244663/perpres-no-20-tahun-2023",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "20",
+ "number_raw": "20",
+ "year": 2023,
+ "title": "Peraturan Presiden (Perpres) Nomor 20 Tahun 2023 tentang Perubahan atas Peraturan Presiden Nomor 192 Tahun 2014 tentang Badan Pengawasan Keuangan dan Pembangunan",
+ "about": "Perubahan atas Peraturan Presiden Nomor 192 Tahun 2014 tentang Badan Pengawasan Keuangan dan Pembangunan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "Alias",
+ "date_enacted": "2023-02-27",
+ "date_promulgated": "2023-02-27",
+ "date_effective": "2023-02-27",
+ "gazette": "LN.2023/No.35, jdih.setneg.go.id: 8 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2025-2",
+   "target_bpk_id": 314633,
+   "label": "Perpres No. 2 Tahun 2025",
+   "about": "Perubahan Kedua atas Peraturan Presiden Nomor 192 Tahun 2014 tentang Badan Pengawasan Keuangan dan Pembangunan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2014-192",
+   "target_bpk_id": 41712,
+   "label": "PERPRES No. 192 Tahun 2014",
+   "about": "Badan Pengawasan Keuangan dan Pembangunan"
+  }
+ ],
+ "abstract": "Sebagian tugas dan fungsi Badan Pengawasan Keuangan dan Pembangunan sudah tidak sesuai dengan kebijakan dan/atau regulasi serta perubahan dinamika organisasi yang berkembang pada lingkup instansi pemerintah, sehingga perlu diubah dan/atau ditata kembali.\nDasar hukum Keppres ini adalah Pasal 4 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 dan Perpres Nomor 192 Tahun 2014.\nPerpres ini mengatur mengenai perubahan beberapa ketentuan dalam Perpres Nomor 192 Tahun 2014 tentang Badan Pengawasan Keuangan dan Pembangunan. Pasal yang diubah yaitu Pasal 3, Pasal 8, Pasal 9, Pasal 13, Pasal 17, Pasal 21, Pasal 25, Pasal 29, Pasal 33, Pasal 34, dan Pasal 35.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 27 Februari 2023.\nPerpres ini mengubah Perpres Nomor 192 Tahun 2014.\nLampiran file: 8 hlm.",
+ "citations": [
+  "PERPRES-2014-192"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/300564/Perpres%20Nomor%2020%20Tahun%202023.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:03:32Z"
+}

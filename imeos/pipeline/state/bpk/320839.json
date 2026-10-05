@@ -1,0 +1,44 @@
+{
+ "id": "PERMENDAG-2025-7",
+ "source": "bpk",
+ "bpk_id": 320839,
+ "url": "https://peraturan.bpk.go.id/Details/320839/permendag-no-7-tahun-2025",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "7",
+ "number_raw": "7",
+ "year": 2025,
+ "title": "Peraturan Menteri Perdagangan Nomor 7 Tahun 2025 tentang Jadwal Retensi Arsip di Lingkungan Kementerian Perdagangan",
+ "about": "Jadwal Retensi Arsip di Lingkungan Kementerian Perdagangan",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "ARSIP",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-03-05",
+ "date_promulgated": "2025-03-10",
+ "date_effective": "2025-03-10",
+ "gazette": "BN 2025 (165) : 99 hlm.; jdih.kemendag.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2017-5",
+   "target_bpk_id": 128660,
+   "label": "Permendag No. 5/M-DAG/PER/2/2017 Tahun 2017",
+   "about": "Jadwal Retensi Arsip Substantif Bidang Perundingan Perdagangan Internasional, Bidang Pengembangan Ekspor Nasional, dan Bidang Pengawasan Perdagangan Berjangka Komoditi"
+  }
+ ],
+ "abstract": "a. bahwa untuk mewujudkan penyelenggaraan kearsipan yang komprehensif dan terpadu serta menjamin ketersediaan arsip yang autentik, utuh, terpercaya, dan mudah sebagai satu keutuhan informasi, perlu diatur jadwal retensi arsip untuk pemindahan, pemusnahan, dan penyerahan arsip di lingkungan Kementerian Perdagangan;\nb. bahwa berdasarkan ketentuan Pasal 53 ayat (1) dan ayat (2) Peraturan Pemerintah Nomor 28 Tahun 2012 tentang pelaksanaan Undang-Undang Nomor 43 Tahun 2009 tentang Kearsiapan, perlu menyusun Jadwal Retensi Arsip di lingkungan Kementerian Perdagangan;\nc. bahwa Peraturan Menteri Perdagangan Nomor 05/M-DAG/PER/2/2017 tentang Jadwal Retensi Arsip Substantif Bidang Perundingan Perdagangan Internasional, Bidang Pengembangan Ekspor Nasional, dan Bidang Pengawasan Perdagangan Berjangka Komoditi sudah tidak sesuai dengan perkembangan dan kebutuhan organisasi, sehingga perlu diganti;\nd. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Menteri Perdagangan tentang Jadwal Retensi Arsip di Lingkungan Kementerian Perdagangan;\nPasal 17 ayat (3) UUD NRI Tahun 1945, UU No. 39 Tahun 2008, UU No. 43 Tahun 2009, PP No. 28 Tahun 2012, Perpres No. 168 Tahun 2024, dan Permendag No. 6 Tahun 2025.\nPeraturan ini mengatur tentang ketentuan umum, jadwal retensi arsip dan JRA fasilitatif dan substantif.",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 10 Maret 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan Menteri Perdagangan Nomor 05/M-DAG/PER/2/2017 tentang Jadwal Retensi Arsip Substantif Bidang Perundingan Perdagangan Internasional, Bidang Pengembangan Ekspor Nasional, dan Bidang Pengawasan Perdagangan Berjangka Komoditi.",
+ "citations": [
+  "PP-2012-28",
+  "UU-2009-43",
+  "PERMENDAG-2017-5",
+  "UU-2008-39",
+  "PERPRES-2024-168",
+  "PERMENDAG-2025-6"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/382579/Permendag%20No.%207%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:12:00Z"
+}

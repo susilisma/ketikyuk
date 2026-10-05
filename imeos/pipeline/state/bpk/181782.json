@@ -1,0 +1,37 @@
+{
+ "id": "PERBPOM-2020-18",
+ "source": "bpk",
+ "bpk_id": 181782,
+ "url": "https://peraturan.bpk.go.id/Details/181782/peraturan-bpom-no-18-tahun-2020",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "18",
+ "number_raw": "18",
+ "year": 2020,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 18 Tahun 2020 tentang Pedoman Penilaian Obat Berbasis Sel Manusia",
+ "about": "Pedoman Penilaian Obat Berbasis Sel Manusia",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "KESEHATAN",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2020-07-20",
+ "date_promulgated": "2020-07-22",
+ "date_effective": "2020-07-22",
+ "gazette": "BN.2020/No. 812, peraturan.go.id : 5 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 316278,
+   "label": "Peraturan BPOM No. 8 Tahun 2025",
+   "about": "Pedoman Penilaian Produk Terapi Advanced"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 22 Juli 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/175182/Peraturan%20BPOM%20Nomor%2018%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:29:17Z"
+}

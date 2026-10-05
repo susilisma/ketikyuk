@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKES-2019-36",
+ "source": "bpk",
+ "bpk_id": 138626,
+ "url": "https://peraturan.bpk.go.id/Details/138626/permenkes-no-36-tahun-2019",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "36",
+ "number_raw": "36",
+ "year": 2019,
+ "title": "Peraturan Menteri Kesehatan Nomor 36 Tahun 2019 tentang Peraturan Pelaksanaan Peraturan Presiden Nomor 31 Tahun 2019 tentang Pendayagunaan Dokter Spesialis",
+ "about": "Peraturan Pelaksanaan Peraturan Presiden Nomor 31 Tahun 2019 tentang Pendayagunaan Dokter Spesialis",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "Alias",
+ "date_enacted": "2019-09-30",
+ "date_promulgated": "2019-10-01",
+ "date_effective": "2019-10-01",
+ "gazette": "BN.2019/NO.1121, PERATURAN.GO.ID : 21 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2025-13",
+   "target_bpk_id": 335214,
+   "label": "Permenkes No. 13 Tahun 2025",
+   "about": "Pengelolaan Sumber Daya Manusia Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2016-69",
+   "target_bpk_id": 139210,
+   "label": "Permenkes No. 69 Tahun 2016",
+   "about": "Penyelenggaraan Wajib Kerja Dokter Spesialis Dalam Rangka Pemenuhan Kebutuhan Pelayanan Spesialistik di Indonesia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 01 Oktober 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/129891/Permenkes%20Nomor%2036%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:23:44Z"
+}

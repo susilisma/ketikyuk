@@ -1,0 +1,42 @@
+{
+ "id": "PERMENKUMHAM-2023-12",
+ "source": "bpk",
+ "bpk_id": 247323,
+ "url": "https://peraturan.bpk.go.id/Details/247323/permenkumham-no-12-tahun-2023",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "12",
+ "number_raw": "12",
+ "year": 2023,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 12 Tahun 2023 tentang Penyelenggaraan Satu Data Kementerian Hukum dan Hak Asasi Manusia",
+ "about": "Penyelenggaraan Satu Data Kementerian Hukum dan Hak Asasi Manusia",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "SATU DATA INDONESIA",
+ "field": "Alias",
+ "date_enacted": "2023-03-07",
+ "date_promulgated": "2023-03-13",
+ "date_effective": "2023-03-13",
+ "gazette": "BN 2023 (231) : 18 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 332339,
+   "label": "Permenkum No. 29 Tahun 2025",
+   "about": "Satu Data"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 14 ayat (3) dan Pasal 15 ayat (2) Peraturan Presiden Nomor 39 Tahun 2019 tentang Satu Data Indonesia, perlu menetapkan Peraturan Menteri Hukum dan Hak Asasi Manusia tentang Penyelenggaraan Satu Data Kementerian Hukum dan Hak Asasi Manusia.\nDasar hukum dalam permen ini adalah Pasal 17 ayat (3) UUD 1945; UU No. 11 Tahun 2008; UU No. 39 Tahun 2008; Perpres No.39 Tahun 2019; Perpres No. 18 Tahun 2023; Permen PPN No. 17 Tahun 2020; Permen PPN 18 Tahun 2020; Permenkumham No. 41 Tahun 2021; dan Permenkumham No. 30 Tahun 2021.\nMateri pokok dalam permen ini adalah pengaturan mengenai Penyelenggaraan Satu Data Kementerian Hukum dan Hak Asasi Manusia yang bertujuan untuk mendukung kebijakan nasional Satu Data Indonesia. Peraturan ini menetapkan prinsip, struktur, dan tata kelola data yang akurat serta didalamnya diatur tentang peran Walidata, Produsen Data, Penanggung Jawab Data, dan Forum Satu Data. Peraturan ini juga mengatur pengelolaan Portal Satu Data Kementerian, kerja sama lintas sektor, pembatasan akses data, dan ketentuan pembiataan serta transisi pelaksanaan.",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 13 Maret 2023.\nLampiran file: 18 hlm (batang tubuh hlm 1 sd 16, lampiran hlm 17 sd 18)",
+ "citations": [
+  "PERPRES-2019-39",
+  "UU-2008-11",
+  "UU-2008-39",
+  "PERPRES-2023-18"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/303548/permenkumham%20no%2012%20tahun%202023.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:19:08Z"
+}

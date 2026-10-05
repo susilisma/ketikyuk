@@ -1,0 +1,58 @@
+{
+ "id": "PERMENKES-2019-75",
+ "source": "bpk",
+ "bpk_id": 138674,
+ "url": "https://peraturan.bpk.go.id/Details/138674/permenkes-no-75-tahun-2019",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "75",
+ "number_raw": "75",
+ "year": 2019,
+ "title": "Peraturan Menteri Kesehatan Nomor 75 Tahun 2019 tentang Penanggulangan Krisis Kesehatan",
+ "about": "Penanggulangan Krisis Kesehatan",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - BANTUAN, SUMBANGAN, BENCANA / KEBENCANAAN, DAN PENANGGULANGAN BENCANA",
+ "field": "Alias",
+ "date_enacted": "2019-10-18",
+ "date_promulgated": "2019-12-31",
+ "date_effective": "2019-12-31",
+ "gazette": "BN.2019/No.1781, peraturan.go.id : 21 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-1",
+   "target_bpk_id": 344092,
+   "label": "Permenkes No. 1 Tahun 2026",
+   "about": "Kejadian Luar Biasa, Wabah, dan Krisis Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2014-77",
+   "target_bpk_id": 139423,
+   "label": "Permenkes No. 77 Tahun 2014",
+   "about": "Sistem Informasi Penanggulangan Krisis Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2014-36",
+   "target_bpk_id": 117618,
+   "label": "Permenkes No. 36 Tahun 2014",
+   "about": "Penilaian Kerusakan, Kerugian, dan Kebutuhan  Sumber Daya Kesehatan Pasca Bencana"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2013-64",
+   "target_bpk_id": 139419,
+   "label": "Permenkes No. 64 Tahun 2013",
+   "about": "Penanggulangan Krisis Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 31 Desember 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/129939/Permenkes%20Nomor%2075%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:23:11Z"
+}

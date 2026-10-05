@@ -1,0 +1,37 @@
+{
+ "id": "KEPPRES-2003-33",
+ "source": "bpk",
+ "bpk_id": 56124,
+ "url": "https://peraturan.bpk.go.id/Details/56124/keppres-no-33-tahun-2003",
+ "form": "KEPPRES",
+ "form_long": "Keputusan Presiden (Keppres)",
+ "number": "33",
+ "number_raw": "33",
+ "year": 2003,
+ "title": "Keputusan Presiden (Keppres) Nomor 33 Tahun 2003 tentang Pendirian Institut Seni Indonesia Denpasar",
+ "about": "Pendirian Institut Seni Indonesia Denpasar",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PENDIDIKAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2003-05-26",
+ "date_promulgated": null,
+ "date_effective": "2003-05-26",
+ "gazette": "",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2025-14",
+   "target_bpk_id": 314639,
+   "label": "Perpres No. 14 Tahun 2025",
+   "about": "Perubahan Institut Seni Indonesia Denpasar menjadi Institut Seni Indonesia Bali"
+  }
+ ],
+ "abstract": "",
+ "note": "Keputusan Presiden (Keppres) ini mulai berlaku pada tanggal 26 Mei 2003.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/45610/KEPPRES%20No.33%20TH%202003.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:03:15Z"
+}

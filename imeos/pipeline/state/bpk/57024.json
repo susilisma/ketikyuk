@@ -12,7 +12,7 @@
  "about": "Perlindungan Tanaman",
  "issuer": "Pemerintah Pusat",
  "subject": "KEHUTANAN DAN PERKEBUNAN - LINGKUNGAN HIDUP",
- "field": "",
+ "field": "Alias",
  "date_enacted": "1995-02-28",
  "date_promulgated": "1995-02-28",
  "date_effective": "1995-02-28",
@@ -33,5 +33,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/46478/PP%20No.%206%20Th%201995.pdf"
  ],
- "fetched_at": "2026-09-14T05:28:31Z"
+ "fetched_at": "2026-10-05T04:57:23Z"
 }

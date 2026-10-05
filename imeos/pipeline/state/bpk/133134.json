@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKUMHAM-2019-21",
+ "source": "bpk",
+ "bpk_id": 133134,
+ "url": "https://peraturan.bpk.go.id/Details/133134/permenkumham-no-21-tahun-2019",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "21",
+ "number_raw": "21",
+ "year": 2019,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 21 Tahun 2019 tentang Tata Cara Pengawasan Penerapan Prinsip Mengenali Pemilik Manfaat dari Korporasi",
+ "about": "Tata Cara Pengawasan Penerapan Prinsip Mengenali Pemilik Manfaat dari Korporasi",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN - PERIZINAN, PELAYANAN PUBLIK",
+ "field": "Alias",
+ "date_enacted": "2019-09-23",
+ "date_promulgated": "2019-09-27",
+ "date_effective": "2019-12-27",
+ "gazette": "BN.2019/NO.1112, peraturan.go.id: 13 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 314767,
+   "label": "Permenkum No. 2 Tahun 2025",
+   "about": "Verifikasi dan Pengawasan Pemilik Manfaat Korporasi"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 27 Desember 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/123921/Permenkumham%20Nomor%2021%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:20:15Z"
+}

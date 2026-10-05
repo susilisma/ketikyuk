@@ -1,0 +1,51 @@
+{
+ "id": "PERMENKES-2018-23",
+ "source": "bpk",
+ "bpk_id": 129742,
+ "url": "https://peraturan.bpk.go.id/Details/129742/permenkes-no-23-tahun-2018",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "23",
+ "number_raw": "23",
+ "year": 2018,
+ "title": "Peraturan Menteri Kesehatan Nomor 23 Tahun 2018 tentang Pelayanan dan Penerbitan Sertifikat Vaksinasi Internasional",
+ "about": "Pelayanan dan Penerbitan Sertifikat Vaksinasi Internasional",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN",
+ "field": "Alias",
+ "date_enacted": "2018-06-25",
+ "date_promulgated": "2018-07-23",
+ "date_effective": "2018-07-23",
+ "gazette": "BN.2018/NO.942, PERATURAN.GO.ID : 16 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-1",
+   "target_bpk_id": 344092,
+   "label": "Permenkes No. 1 Tahun 2026",
+   "about": "Kejadian Luar Biasa, Wabah, dan Krisis Kesehatan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENKES-2019-12",
+   "target_bpk_id": 111758,
+   "label": "Permenkes No. 12 Tahun 2019",
+   "about": "Perubahan Atas Peraturan Menteri Kesehatan Nomor 23 Tahun 2018 Tentang Pelayanan Dan Penerbitan Sertifikat Vaksinasi Internasional"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2016-13",
+   "target_bpk_id": 113011,
+   "label": "Permenkes No. 13 Tahun 2016",
+   "about": "Pemberian Sertifikat Vaksinasi Internasional"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 23 Juli 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/120645/Permenkes%20Nomor%2023%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:23:14Z"
+}

@@ -12,7 +12,7 @@
  "about": "Tata Cara Penyediaan, Pencairan, dan Pertanggungjawaban Dana Subsidi Pupuk",
  "issuer": "Kementerian Keuangan",
  "subject": "PENGELOLAAN KEUANGAN NEGARA / DAERAH - SUBSIDI, PSO",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2016-04-26",
  "date_promulgated": "2016-04-27",
  "date_effective": "2016-04-27",
@@ -40,5 +40,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/137014/PMK%2068_PMK.02_2016.pdf"
  ],
- "fetched_at": "2026-09-14T06:33:29Z"
+ "fetched_at": "2026-10-05T05:07:56Z"
 }

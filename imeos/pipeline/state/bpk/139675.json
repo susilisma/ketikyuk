@@ -1,0 +1,51 @@
+{
+ "id": "PERMENKES-2011-889",
+ "source": "bpk",
+ "bpk_id": 139675,
+ "url": "https://peraturan.bpk.go.id/Details/139675/permenkes-no-889menkesperv2011-tahun-2011",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "889",
+ "number_raw": "889/MENKES/PER/V/2011",
+ "year": 2011,
+ "title": "Peraturan Menteri Kesehatan Nomor 889/MENKES/PER/V/2011 Tahun 2011 tentang Registrasi, Izin Praktik, dan Izin Kerja Tenaga Kefarmasian",
+ "about": "Registrasi, Izin Praktik, dan Izin Kerja Tenaga Kefarmasian",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - KETENAGAKERJAAN - JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "Alias",
+ "date_enacted": "2011-05-03",
+ "date_promulgated": "2011-06-01",
+ "date_effective": "2011-06-01",
+ "gazette": "BN.2011/NO.322, peraturan.go.id : 17 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2025-13",
+   "target_bpk_id": 335214,
+   "label": "Permenkes No. 13 Tahun 2025",
+   "about": "Pengelolaan Sumber Daya Manusia Kesehatan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENKES-2016-80",
+   "target_bpk_id": 114645,
+   "label": "Permenkes No. 80 Tahun 2016",
+   "about": "Penyelenggaraan Pekerjaan Asisten Tenaga Kesehatan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENKES-2016-31",
+   "target_bpk_id": 113061,
+   "label": "Permenkes No. 31 Tahun 2016",
+   "about": "Perubahan Atas Peraturan Menteri Kesehatan Nomor 889/Menkes/Per/V/2011 Tentang Registrasi, Izin Praktik, Dan Izin Kerja Tenaga Kefarmasian"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 01 Juni 2011.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/131019/Permenkes%20Nomor%20889%20Tahun%202011.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:24:11Z"
+}

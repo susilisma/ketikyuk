@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKES-2015-98",
+ "source": "bpk",
+ "bpk_id": 116671,
+ "url": "https://peraturan.bpk.go.id/Details/116671/permenkes-no-98-tahun-2015",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "98",
+ "number_raw": "98",
+ "year": 2015,
+ "title": "Peraturan Menteri Kesehatan Nomor 98 Tahun 2015 tentang Pemberian Informasi Harga Eceran Tertinggi Obat",
+ "about": "Pemberian Informasi Harga Eceran Tertinggi Obat",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "PERS, POS, DAN PERIKLANAN - KESEHATAN",
+ "field": "Alias",
+ "date_enacted": "2015-12-31",
+ "date_promulgated": "2016-01-06",
+ "date_effective": "2016-01-06",
+ "gazette": "BN.2016/NO. 11, kemenkes.go.id : 8 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-5",
+   "target_bpk_id": 350852,
+   "label": "Permenkes No. 5 Tahun 2026",
+   "about": "Perbekalan Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 06 Januari 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/107592/Permenkes%20Nomor%2098%20Tahun%202015.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:22:21Z"
+}

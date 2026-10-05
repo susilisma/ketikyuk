@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKOMINFO-2021-13",
+ "source": "bpk",
+ "bpk_id": 203124,
+ "url": "https://peraturan.bpk.go.id/Details/203124/permenkominfo-no-13-tahun-2021",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Informatika",
+ "number": "13",
+ "number_raw": "13",
+ "year": 2021,
+ "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 13 Tahun 2021 tentang Standar Teknis Alat Telekomunikasi dan/atau Perangkat Telekomunikasi Bergerak Seluler Berbasis Standar Teknologi Long Term Evolution dan Standar Teknologi International Mobile Telecommunication-2020",
+ "about": "Standar Teknis Alat Telekomunikasi dan/atau Perangkat Telekomunikasi Bergerak Seluler Berbasis Standar Teknologi Long Term Evolution dan Standar Teknologi International Mobile Telecommunication-2020",
+ "issuer": "Kementerian Komunikasi dan Informatika",
+ "subject": "TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET - STANDAR / PEDOMAN - CIPTA KERJA",
+ "field": "Alias",
+ "date_enacted": "2021-10-12",
+ "date_promulgated": "2021-10-18",
+ "date_effective": "2021-10-18",
+ "gazette": "BN.2021/No.1156, peraturan.go.id: 6 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 316817,
+   "label": "Permenkomdigi No. 4 Tahun 2025",
+   "about": "Pencabutan 3 (Tiga) Peraturan Menteri Komunikasi dan Informatika"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 151100,
+   "label": "Permenkominfo No. 27 Tahun 2015",
+   "about": "Persyaratan Teknis Alat danaAtau Perangkat Perangkat Telekomunikasi Berbasis Standar Teknologi Long Term Evolution"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Komunikasi dan Informatika ini mulai berlaku pada tanggal 18 Oktober 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/197093/Nomor%2013%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:16:53Z"
+}

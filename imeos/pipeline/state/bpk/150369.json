@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKOMINFO-2017-16",
+ "source": "bpk",
+ "bpk_id": 150369,
+ "url": "https://peraturan.bpk.go.id/Details/150369/permenkominfo-no-16-tahun-2017",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Informatika",
+ "number": "16",
+ "number_raw": "16",
+ "year": 2017,
+ "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 16 Tahun 2017 tentang Kriteria Klasifikasi Unit Peleksana Teknis Bidang Monitor Spektrum Frekuensi Radio",
+ "about": "Kriteria Klasifikasi Unit Peleksana Teknis Bidang Monitor Spektrum Frekuensi Radio",
+ "issuer": "Kementerian Komunikasi dan Informatika",
+ "subject": "TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI - STRUKTUR ORGANISASI",
+ "field": "Alias",
+ "date_enacted": "2017-09-13",
+ "date_promulgated": "2017-09-14",
+ "date_effective": "2017-09-14",
+ "gazette": "BN.2017/NO.1274, KOMINFO.GO.ID : 14 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 353714,
+   "label": "Permenkomdigi No. 10 Tahun 2026",
+   "about": "Kriteria Klasifikasi Unit Pelaksana Teknis Bidang Monitor Spektrum Frekuensi Radio dan Infrastruktur Digital"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 158700,
+   "label": "Permenkominfo No. 16/PER/M.KOMINFO/2/2009 Tahun 2009",
+   "about": "Kriteria Klasifikasi Unit Pelaksana Teknis di Bidang Monitor Spektrum Frekuensi Radio"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Komunikasi dan Informatika ini mulai berlaku pada tanggal 14 September 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/253874/Permen%20Kominfo%20Nomor%2016%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:15:46Z"
+}

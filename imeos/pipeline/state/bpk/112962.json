@@ -12,7 +12,7 @@
  "about": "Organisasi Dan Tata Kerja Instansi Vertikal Direktorat Jenderal Pajak",
  "issuer": "Kementerian Keuangan",
  "subject": "STRUKTUR ORGANISASI",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2017-12-29",
  "date_promulgated": "2017-12-29",
  "date_effective": "2017-12-29",
@@ -40,5 +40,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/103914/PMK%20Nomor%20210%20Tahun%202017.pdf"
  ],
- "fetched_at": "2026-09-14T06:31:13Z"
+ "fetched_at": "2026-10-05T05:04:56Z"
 }

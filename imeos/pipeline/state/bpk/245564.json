@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKES-2023-4",
+ "source": "bpk",
+ "bpk_id": 245564,
+ "url": "https://peraturan.bpk.go.id/Details/245564/permenkes-no-4-tahun-2023",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "4",
+ "number_raw": "4",
+ "year": 2023,
+ "title": "Peraturan Menteri Kesehatan Nomor 4 Tahun 2023 tentang Penyelenggaraan Fraksionasi Plasma",
+ "about": "Penyelenggaraan Fraksionasi Plasma",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN",
+ "field": "Alias",
+ "date_enacted": "2023-01-06",
+ "date_promulgated": "2023-01-17",
+ "date_effective": "2023-01-17",
+ "gazette": "BN.2023/No.73, peraturan.go.id: 11 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-5",
+   "target_bpk_id": 350852,
+   "label": "Permenkes No. 5 Tahun 2026",
+   "about": "Perbekalan Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2019-15",
+   "target_bpk_id": 138609,
+   "label": "Permenkes No. 15 Tahun 2019",
+   "about": "Penyelenggaraan Fraksionasi Plasma"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 17 Januari 2023.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/301584/Permenkes%20Nomor%204%20Tahun%202023.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:22:08Z"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "PERMENDAG-2020-52",
+ "source": "bpk",
+ "bpk_id": 160281,
+ "url": "https://peraturan.bpk.go.id/Details/160281/permendag-no-52-tahun-2020",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "52",
+ "number_raw": "52",
+ "year": 2020,
+ "title": "Peraturan Menteri Perdagangan Nomor 52 Tahun 2020 tentang Rencana Induk Pengembangan Standar Kompetensi Kerja Nasional Indonesia Sektor Perdagangan",
+ "about": "Rencana Induk Pengembangan Standar Kompetensi Kerja Nasional Indonesia Sektor Perdagangan",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN - PROGRAM, RENCANA PEMBANGUNAN DAN RENCANA KERJA",
+ "field": "Alias",
+ "date_enacted": "2020-05-20",
+ "date_promulgated": "2020-05-28",
+ "date_effective": "2020-05-28",
+ "gazette": "BN.2020/No.533, peraturan.go.id : 8 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2025-3",
+   "target_bpk_id": 320769,
+   "label": "Permendag No. 3 Tahun 2025",
+   "about": "Rencana Induk Pengembangan Standar Kompetensi Kerja Nasional Indonesia Sektor Perdagangan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 28 Mei 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/152871/Permendag%20Nomor%2052%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:12:22Z"
+}

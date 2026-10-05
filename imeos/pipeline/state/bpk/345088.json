@@ -1,0 +1,43 @@
+{
+ "id": "PERMENKOMINFO-2026-6",
+ "source": "bpk",
+ "bpk_id": 345088,
+ "url": "https://peraturan.bpk.go.id/Details/345088/permenkomdigi-no-6-tahun-2026",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Digital",
+ "number": "6",
+ "number_raw": "6",
+ "year": 2026,
+ "title": "Peraturan Menteri Komunikasi dan Digital Nomor 6 Tahun 2026 tentang Organisasi dan Tata Kerja Sekretariat Dewan Pers",
+ "about": "Organisasi dan Tata Kerja Sekretariat Dewan Pers",
+ "issuer": "Kementerian Komunikasi dan Digital",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-01-13",
+ "date_promulgated": "2026-01-19",
+ "date_effective": "2026-01-19",
+ "gazette": "BN 2026 (32); 10 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 228295,
+   "label": "Permenkominfo No. 8 Tahun 2022",
+   "about": "Organisasi dan Tata Kerja Sekretariat Dewan Pers"
+  }
+ ],
+ "abstract": "bahwa Peraturan Menteri Komunikasi dan Informatika\nNomor 8 Tahun 2022 tentang Organisasi dan Tata Kerja\nSekretariat Dewan Pers sudah tidak sesuai dengan\nperkembangan hukum dan kebutuhan organisasi,\nsehingga perlu diganti\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD NRI Tahun 1945; UU Nomor 40 Tahun 1999; UU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024; Perpres Nomor 174 Tahun 2024; Permen Komdigi Nomor 1 Tahun 2025.\nPeraturan ini mengatur mengenai kedudukan, tugas, dan fungsi Sekretariat Dewan Pers; susunan organisasi; jabatan fungsional dan jabatan pelaksana; tata kerja; lokasi; jabatan, pengangkatan, dan pemberhentian; penataan organisasi",
+ "note": "Peraturan Menteri Komunikasi dan Digital ini mulai berlaku pada tanggal 19 Januari 2026.\nPasal 29\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan\nMenteri Komunikasi dan Informatika Nomor 8 Tahun 2022\ntentang Organisasi dan Tata Kerja Sekretariat Dewan Pers\n(Berita Negara Republik Indonesia Tahun 2022 Nomor 638),\ndicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "PERMENKOMINFO-2022-8",
+  "UU-1999-40",
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2024-174"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/408368/Permenkomdigi-no-6-tahun-2026.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:15:56Z"
+}

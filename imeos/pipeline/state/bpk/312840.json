@@ -1,0 +1,48 @@
+{
+ "id": "PERMENKES-2024-21",
+ "source": "bpk",
+ "bpk_id": 312840,
+ "url": "https://peraturan.bpk.go.id/Details/312840/permenkes-no-21-tahun-2024",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "21",
+ "number_raw": "21",
+ "year": 2024,
+ "title": "Peraturan Menteri Kesehatan Nomor 21 Tahun 2024 tentang Organisasi dan Tata Kerja Kementerian Kesehatan",
+ "about": "Organisasi dan Tata Kerja Kementerian Kesehatan",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-12-31",
+ "date_promulgated": "2024-12-31",
+ "date_effective": "2024-12-31",
+ "gazette": "BN 2024 (1048); 68 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENKES-2025-17",
+   "target_bpk_id": 344070,
+   "label": "Permenkes No. 17 Tahun 2025",
+   "about": "Perubahan atas Peraturan Menteri Kesehatan Nomor 21 Tahun 2024 tentang Organisasi dan Tata Kerja Kementerian Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2022-5",
+   "target_bpk_id": 218272,
+   "label": "Permenkes No. 5 Tahun 2022",
+   "about": "Organisasi dan Tata Kerja Kementerian Kesehatan"
+  }
+ ],
+ "abstract": "bahwa untuk mewujudkan organisasi dan tata kerja yang\nlebih efektif dan efisien guna meningkatkan kinerja\npelaksanaan tugas dan fungsi Kementerian Kesehatan,\nperlu melakukan penataan organisasi dan tata kerja\nKementerian Kesehatan\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD 1945; UU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024; Perpres Nomor 161 Tahun 2024\nPeraturan ini mengatur mengenai kedudukan, tugas, dan fungsi Kementerian Kesehatan; susunan organisasi Kementerian Kesehatan yang terdiri atas a. Sekretariat Jenderal;\nb. Direktorat Jenderal Kesehatan Primer dan\nKomunitas;\nc. Direktorat Jenderal Penanggulangan Penyakit;\nd. Direktorat Jenderal Kesehatan Lanjutan;\ne. Direktorat Jenderal Farmasi dan Alat Kesehatan;\nf. Direktorat Jenderal Sumber Daya Manusia\nKesehatan;\ng. Inspektorat Jenderal;\nh. Badan Kebijakan Pembangunan Kesehatan;\ni. Staf Ahli Bidang Ekonomi Kesehatan;\nj. Staf Ahli Bidang Teknologi Kesehatan;\nk. Staf Ahli Bidang Hukum Kesehatan;\nl. Staf Ahli Bidang Politik dan Globalisasi Kesehatan;\nm. Pusat Data dan Teknologi Informasi;\nn. Pusat Sistem dan Strategi Kesehatan;\no. Pusat Krisis Kesehatan;\np. Pusat Kesehatan Haji;\nq. Pusat Pengembangan Kompetensi Aparatur; dan\nr. Pusat Pembiayaan Kesehatan.",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 31 Desember 2024.",
+ "citations": [
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2024-161"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/373661/permenkes-no-21-tahun-2024.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:23:27Z"
+}

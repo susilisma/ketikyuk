@@ -1,0 +1,37 @@
+{
+ "id": "PERBPOM-2020-9",
+ "source": "bpk",
+ "bpk_id": 181774,
+ "url": "https://peraturan.bpk.go.id/Details/181774/peraturan-bpom-no-9-tahun-2020",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "9",
+ "number_raw": "9",
+ "year": 2020,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 9 Tahun 2020 tentang Rencana Strategis Badan Pengawas Obat dan Makanan Tahun 2020-2024",
+ "about": "Rencana Strategis Badan Pengawas Obat dan Makanan Tahun 2020-2024",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "PROGRAM, RENCANA PEMBANGUNAN DAN RENCANA KERJA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2020-04-30",
+ "date_promulgated": "2020-05-05",
+ "date_effective": "2020-05-05",
+ "gazette": "BN.2020/No. 446, peraturan.go.id : 5 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 333960,
+   "label": "Peraturan BPOM No. 28 Tahun 2025",
+   "about": "Rencana Strategis Badan Pengawas Obat dan Makanan Tahun 2025-2029"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 05 Mei 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/175174/Peraturan%20BPOM%20Nomor%209%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:28:30Z"
+}

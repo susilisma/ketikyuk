@@ -1,0 +1,51 @@
+{
+ "id": "PERMENDAG-2025-10",
+ "source": "bpk",
+ "bpk_id": 320887,
+ "url": "https://peraturan.bpk.go.id/Details/320887/permendag-no-10-tahun-2025",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "10",
+ "number_raw": "10",
+ "year": 2025,
+ "title": "Peraturan Menteri Perdagangan Nomor 10 Tahun 2025 tentang Perubahan atas Peraturan Menteri Perdagangan Nomor 8 Tahun 2023 tentang Tata",
+ "about": "Perubahan atas Peraturan Menteri Perdagangan Nomor 8 Tahun 2023 tentang Tata",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-03-12",
+ "date_promulgated": "2025-03-12",
+ "date_effective": "2025-03-12",
+ "gazette": "BN 2025 (192) : 4 hlm.; jdih.kemendag.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah sebagian",
+   "target": "PERMENDAG-2023-8",
+   "target_bpk_id": 247546,
+   "label": "Permendag No. 8 Tahun 2023",
+   "about": "Tata Cara Penetapan Harga Patokan Ekspor Atas Produk Pertambangan Yang Dikenakan Bea Keluar"
+  }
+ ],
+ "abstract": "a. bahwa untuk melaraskan metode perhitungan harga patokan ekspor dan optimalisasi penerimaan negara, perlu mengubah Peraturan Menteri Perdagangan Nomor 8 Tahun 2023 tentang Tata Cara Penetapan Harga Patokan Ekspor atas Produk Pertambangan yang Dikenakan Bea Keluar;\nb. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, perlu menetapkan Peraturan Menteri Perdagangan tentang Perubahan atas Peraturan Menteri Perdagangan Nomor 8 Tahun 2023 tentang Tata Cara Penetapan Harga Patokan Ekspor atas Produk Pertambangan yang Dikenakan Bea Keluar;\nPasal 17 ayat (3) UUD NRI Tahun 1945, UU No. 7 Tahun 1994, UU No. 10 Tahun 1995, UU No. 39 Tahun 2008, UU NO. 4 Tahun 2009, UU No. 7 Tahun 2014, PP No. 55 Tahun 2008, PP No. 55 Tahun 2010, PP No. 96 Tahun 2021, PP No. 168 Tahun 2024, Permen ESDM No. 25 Tahun 2018, Permendag No. 8 Tahun 2023, Permendag No. 23 Tahun 2023, Permen ESDM No. 6 Tahun 2024, PMK No. 38 Tahun 2024, dan Permendag No. 6 Tahun 2025.\nPeraturan ini mengubah Peraturan Menteri Perdagangan Nomor 8 Tahun 2023 tentang Tata Cara Penetapan Harga Patokan Ekspor atas Produk Pertambangan Yang Dikenakan Bea Keluar yaitu tentang Penetapan HPE atas Produk Pertambangan Hasil Pengolahan dan/atau Pemurnian.",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 12 Maret 2025.\nPeraturan ini mengubah Permendag No. 8 Tahun 2023.",
+ "citations": [
+  "PERMENDAG-2023-8",
+  "UU-1994-7",
+  "UU-1995-10",
+  "UU-2008-39",
+  "UU-2009-4",
+  "UU-2014-7",
+  "PP-2008-55",
+  "PP-2010-55",
+  "PP-2021-96",
+  "PP-2024-168",
+  "PERMENDAG-2023-23",
+  "PMK-2024-38",
+  "PERMENDAG-2025-6"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/382626/Permendag%20No.%2010%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:11:55Z"
+}

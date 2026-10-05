@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKUMHAM-2015-35",
+ "source": "bpk",
+ "bpk_id": 133314,
+ "url": "https://peraturan.bpk.go.id/Details/133314/permenkumham-no-35-tahun-2015",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "35",
+ "number_raw": "35",
+ "year": 2015,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 35 Tahun 2015 tentang Tata Cara Penegasan Status Kewarganegaraan Republik Indonesia Bagi Warga Negara Indonesia Keturunan Asing Yang Tidak Memiliki Dokumen Kewarganegaraan",
+ "about": "Tata Cara Penegasan Status Kewarganegaraan Republik Indonesia Bagi Warga Negara Indonesia Keturunan Asing Yang Tidak Memiliki Dokumen Kewarganegaraan",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "KEWARGANEGARAAN DAN IMIGRASI",
+ "field": "Alias",
+ "date_enacted": "2015-10-23",
+ "date_promulgated": "2015-10-29",
+ "date_effective": "2015-10-29",
+ "gazette": "BN.2015/NO.1636, PERATURAN.GO.ID :6 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 357191,
+   "label": "Permenkum No. 15 Tahun 2026",
+   "about": "Layanan Bidang Kewarganegaraan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 29 Oktober 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/124101/Permenkumham%20Nomor%2035%20Tahun%202015.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:17:59Z"
+}

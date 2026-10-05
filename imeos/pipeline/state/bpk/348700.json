@@ -1,0 +1,42 @@
+{
+ "id": "PP-2026-1",
+ "source": "bpk",
+ "bpk_id": 348700,
+ "url": "https://peraturan.bpk.go.id/Details/348700/pp-no-1-tahun-2026",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "1",
+ "number_raw": "1",
+ "year": 2026,
+ "title": "Peraturan Pemerintah (PP) Nomor 1 Tahun 2026 tentang Perubahan atas Peraturan Pemerintah Nomor 86 Tahun 2019 tentang Keamanan Pangan",
+ "about": "Perubahan atas Peraturan Pemerintah Nomor 86 Tahun 2019 tentang Keamanan Pangan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PANGAN, PERTANIAN DAN PETERNAKAN",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2026-01-05",
+ "date_promulgated": "2026-01-05",
+ "date_effective": "2026-01-05",
+ "gazette": "LN 2026 (2), TLN (7154) : 39 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PP-2019-86",
+   "target_bpk_id": 129230,
+   "label": "PP No. 86 Tahun 2019",
+   "about": "Keamanan Pangan"
+  }
+ ],
+ "abstract": "Dalam rangka menyesuaikan dengan perubahan lingkungan strategis keamanan pangan, Peraturan Pemerintah Nomor 86 Tahun 2019 tentang Keamanan Pangan sebagai peraturan pelaksanaan Undang-Undang Nomor 18 Tahun 2012 tentang Pangan sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 terttang Cipta Kerja menjadi Undang-Undang, perlu dilakukan penyesuaian.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945; UU No. 18 Tahun 2012; dan PP No. 86 Tahun 2019.\nPP ini mengubah beberapa ketentuan dalam PP No. 86 Tahun 2019.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 05 Januari 2026.\nPP ini mengubah PP No. 86 Tahun 2019.\nLampiran file: 65 hlm (batang tubuh hlm 1 sd 39 dan penjelasan hlm 40 sd 65)",
+ "citations": [
+  "PP-2019-86",
+  "UU-2012-18",
+  "UU-2023-6",
+  "PERPPU-2022-2"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/412361/PP%20Nomor%201%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-10-05T04:57:44Z"
+}

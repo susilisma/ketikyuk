@@ -1,0 +1,63 @@
+{
+ "id": "PERPRES-2023-42",
+ "source": "bpk",
+ "bpk_id": 252136,
+ "url": "https://peraturan.bpk.go.id/Details/252136/perpres-no-42-tahun-2023",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "42",
+ "number_raw": "42",
+ "year": 2023,
+ "title": "Peraturan Presiden (Perpres) Nomor 42 Tahun 2023 tentang Perubahan atas Peraturan Presiden Nomor 5 Tahun 2013 tentang Hak Keuangan dan Fasilitas Hakim Ad Hoc",
+ "about": "Perubahan atas Peraturan Presiden Nomor 5 Tahun 2013 tentang Hak Keuangan dan Fasilitas Hakim Ad Hoc",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA - JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "Alias",
+ "date_enacted": "2023-06-19",
+ "date_promulgated": "2023-06-19",
+ "date_effective": "2023-06-19",
+ "gazette": "LN.2023/No.93, jdih.setneg.go.id: 3 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2026-5",
+   "target_bpk_id": 347929,
+   "label": "Perpres No. 5 Tahun 2026",
+   "about": "Hak Keuangan dan Fasilitas Hakim Ad Hoc"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "PERPRES-2010-85",
+   "target_bpk_id": 41103,
+   "label": "PERPRES No. 85 Tahun 2010",
+   "about": "Perubahan atas Keputusan Presiden Nomor 64 Tahun 2002 tentang Uang Kehormatan bagi Hakim Ad Hoc"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": null,
+   "target_bpk_id": 56728,
+   "label": "Keppres No. 64 Tahun 2002",
+   "about": "Uang Kehormatan Bagi Hakim Ad Hoc"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2013-5",
+   "target_bpk_id": 41375,
+   "label": "PERPRES No. 5 Tahun 2013",
+   "about": "Hak Keuangan dan Fasilitas Hakim Ad Hoc"
+  }
+ ],
+ "abstract": "Pemberian hak keuangan berupa uang kehormatan bagi Hakim Ad Hoc Pengadilan Hak Asasi Manusia sebagaimana diatur dalam Keputusan Presiden Nomor 64 Tahun 2002 tentang Uang Kehormatan Bagi Hakim Ad Hoc sebagaimana telah diubah dengan Peraturan Presiden Nomor 85 Tahun 2010 tentang Perubahan atas Keputusan Presiden Nomor 64 Tahun 2002 tentang Uang Kehormatan Bagi Hakim Ad Hoc perlu dilakukan penyesuaian.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 26 Tahun 2000; dan Perpres Nomor 5 Tahun 2013.\nPerpres ini mengatur mengenai penambahan satu pasal diantara Pasal 3 dan Pasal 4 yang mengatur mengenai Hakim Ad Hoc Pengadilan Hak Asasi Manusia. Selain itu, Perpres ini mencabut ketentuan yang mengatur mengenai uang kehormatan Hakim Ad Hoc Pengadilan Hak Asasi Manusia sebagaimana diatur dalam Keputusan Presiden Nomor 64 Tahun 2002 tentang Uang Kehormatan Bagi Hakim Ad Hoc sebagaimana telah diubah dengan Peraturan Presiden Nomor 85 Tahun 2010 tentang Perubahan atas Keputusan Presiden Nomor 64 Tahun 2002 tentang Uang Kehormatan Bagi Hakim Ad Hoc.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 19 Juni 2023.\nPerpres ini mengubah Perpres Nomor 5 Tahun 2013.\nLampiran file: 4 hlm. (batang tubuh hlm 1 sd 3; lampiran hlm 4)",
+ "citations": [
+  "KEPPRES-2002-64",
+  "PERPRES-2010-85",
+  "UU-2000-26",
+  "PERPRES-2013-5"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/308751/Perpres%20Nomor%2042%20Tahun%202023.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:00:35Z"
+}

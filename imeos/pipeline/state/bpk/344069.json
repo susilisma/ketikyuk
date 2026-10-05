@@ -1,0 +1,46 @@
+{
+ "id": "PERMENKES-2025-16",
+ "source": "bpk",
+ "bpk_id": 344069,
+ "url": "https://peraturan.bpk.go.id/Details/344069/permenkes-no-16-tahun-2025",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "16",
+ "number_raw": "16",
+ "year": 2025,
+ "title": "Peraturan Menteri Kesehatan Nomor 16 Tahun 2025 tentang Pencabutan Peraturan Menteri Kesehatan Nomor 57 Tahun 2012 tentang Pola Karier Pegawai Negeri Sipil d i Lingkungan Kementerian",
+ "about": "Pencabutan Peraturan Menteri Kesehatan Nomor 57 Tahun 2012 tentang Pola Karier Pegawai Negeri Sipil d i Lingkungan Kementerian",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-12-08",
+ "date_promulgated": "2025-12-15",
+ "date_effective": "2025-12-15",
+ "gazette": "BN 2025 (1052); 3 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 130232,
+   "label": "Permensos No. 7 Tahun 2012",
+   "about": "Pedoman Pola Mutasi Jabatan Karier Pegawai Negeri Sipil di Lingkungan Kementerian Sosial Republik Indoensia"
+  }
+ ],
+ "abstract": "bahwa Peraturan Menteri Kesehatan Nomor 57 Tahun\n2012 tentang Pola Karier Pegawai Negeri Sipil di\nLingkungan Kementerian Kesehatan sudah tidak sesuai\ndengan perkembangan kebutuhan hukum sehingga\nperlu dicabut\nDasar hukum peraturan ini adalah UUD NRI Tahun 1945 Pasal 17 ayat (3);\nUU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024;\nUU Nomor 20 Tahun 2023;\nPP Nomor 11 Tahun 2017 sebagaimana telah diubah dengan PP Nomor 17 Tahun 2020;\nPerpres Nomor 161 Tahun 2024;\nPermenPANRB Nomor 22 Tahun 2021;\nPermenkes Nomor 21 Tahun 2024.\nPeraturan ini mencabut Peraturan Menteri Kesehatan Nomor 57 Tahun 2012 tentang Pola Karier Pegawai Negeri Sipil di Lingkungan Kementerian Kesehatan",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 15 Desember 2025.",
+ "citations": [
+  "PERMENKES-2012-57",
+  "UU-2008-39",
+  "UU-2024-61",
+  "UU-2023-20",
+  "PP-2017-11",
+  "PP-2020-17",
+  "PERPRES-2024-161",
+  "PERMENKES-2024-21"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/407313/permenkes-no-16-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:23:28Z"
+}

@@ -12,7 +12,7 @@
  "about": "Penyelesaian Terhadap Barang Yang Dinyatakan Tidak Dikuasai, Barang Yang Dikuasai Negara, Dan Barang Yang Menjadi Milik Negara",
  "issuer": "Kementerian Keuangan",
  "subject": "PENGELOLAAN BARANG MILIK NEGARA / DAERAH",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2019-11-28",
  "date_promulgated": "2019-11-28",
  "date_effective": "2019-12-28",
@@ -40,5 +40,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/252920/178_PMK.04_2019.pdf"
  ],
- "fetched_at": "2026-09-14T06:32:22Z"
+ "fetched_at": "2026-10-05T05:06:50Z"
 }

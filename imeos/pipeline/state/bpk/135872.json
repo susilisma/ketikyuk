@@ -1,0 +1,100 @@
+{
+ "id": "PERATURANBI-2018-20",
+ "source": "bpk",
+ "bpk_id": 135872,
+ "url": "https://peraturan.bpk.go.id/Details/135872/peraturan-bi-no-204pbi2018-tahun-2018",
+ "form": "PERATURANBI",
+ "form_long": "Peraturan Bank Indonesia",
+ "number": "20",
+ "number_raw": "20/4/PBI/2018",
+ "year": 2018,
+ "title": "Peraturan Bank Indonesia Nomor 20/4/PBI/2018 Tahun 2018 tentang Rasio Intermediasi Makroprudensial Dan Penyangga Likuiditas Makroprudensial Bagi Bank Umum Konvensional, Bank Umum Syariah, Dan Unit Usaha Syariah",
+ "about": "Rasio Intermediasi Makroprudensial Dan Penyangga Likuiditas Makroprudensial Bagi Bank Umum Konvensional, Bank Umum Syariah, Dan Unit Usaha Syariah",
+ "issuer": "Bank Indonesia",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "Alias",
+ "date_enacted": "2018-03-29",
+ "date_promulgated": "2018-04-03",
+ "date_effective": "2018-04-03",
+ "gazette": "BN 2018/NO 44; PERATURAN.GO.ID 34 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 347280,
+   "label": "Peraturan BI No. 2 Tahun 2026",
+   "about": "Perubahan Kelima atas Peraturan Bank Indonesia Nomor 20/4/PBI/2018 tentang Rasio Intermediasi Makroprudensial dan Penyangga Likuiditas Makroprudensial Bagi Bank Umum Konvensional, Bank Umum Syariah dan Unit Syariah"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 219619,
+   "label": "Peraturan BI No. 23/17/PBI/2021",
+   "about": "Perubahan Ketiga atas Peraturan Bank Indonesia Nomor 20/4/PBI/2018 tentang Rasio Intermediasi Makroprudensial dan Penyangga Likuiditas Makroprudensial bagi Bank Umum Konvensional, Bank Umum Syariah, dan Unit Usaha Syariah"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 219248,
+   "label": "Peraturan BI No. 22/17/PBI/2020",
+   "about": "Perubahan Kedua Atas Peraturan Bank Indonesia Nomor 20/4/PBI/2018 Tentang Rasio Intermediasi Makroprudensial dan Penyangga Likuiditas Makroprudensial Bagi Bank Umum Konvensional, Bank Umum Syariah, dan Unit Usaha Syariah"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 135915,
+   "label": "Peraturan BI No. 21/12/PBI/2019 Tahun 2019",
+   "about": "Perubahan Atas Peraturan Bank Indonesia Nomor 20/4/PBI/2018 Tentang Rasio Intermediasi Makroprudensial Dan Penyangga Likuiditas Makroprudensial Bagi Bank Umum Konvensional, Bank Umum Syariah, Dan Unit Usaha Syariah"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 135770,
+   "label": "Peraturan BI No. 19/6/PBI/2017 Tahun 2017",
+   "about": "Perubahan Kelima Atas Peraturan Bank Indonesia Nomor 15/15/PBI/2013 Tentang Giro Wajib Minimum Bank Umum Dalam Rupiah Dan Valuta Asing Bagi Bank Umum Konvensional"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 135663,
+   "label": "Peraturan BI No. 18/3/PBI/2016 Tahun 2016",
+   "about": "Perubahan Ketiga atas Peraturan Bank Indonesia Nomor 15/15/PBI/2013 tentang Giro Wajib Minimum Bank Umum Dalam Rupiah dan Valuta Asing bagi Bank Umum Konvensional"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 135672,
+   "label": "Peraturan BI No. 18/14/PBI/2016 Tahun 2016",
+   "about": "Perubahan Keempat atas Peraturan Bank Indonesia Nomor 15/15/PBI/2013 tentang Giro Wajib Minimum Bank Umum dalam Rupiah dan Valuta Asing bagi Bank Umum Konvensional"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 135541,
+   "label": "Peraturan BI No. 17/21/PBI/2015 Tahun 2015",
+   "about": "Perubahan Kedua atas Peraturan Bank Indonesia Nomor 15/15/PBI/2013 tentang Giro Wajib Minimum Bank Umum Dalam Rupiah dan Valuta Asing Bagi Bank Umum Konvensional"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 135526,
+   "label": "Peraturan BI No. 17/11/PBI/2015 Tahun 2015",
+   "about": "Perubahan atas Peraturan Bank Indonesia Nomor 15/15/PBI/2013 tentang Giro Wajib Minimum Bank Umum dalam Rupiah dan Valuta Asing Bagi Bank Umum Konvensional"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 136591,
+   "label": "Peraturan BI No. 15/15/PBI/2013 Tahun 2013",
+   "about": "Giro Wajib Minimum Bank Umum dalam Rupiah dan Valuta Asing bagi Bank Umum Konvensional"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Bank Indonesia ini mulai berlaku pada tanggal 03 April 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/126735/Peraturan%20BI%20No.%2020-4-PBI%202018.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:30:52Z"
+}

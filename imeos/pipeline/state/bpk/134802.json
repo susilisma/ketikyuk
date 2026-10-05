@@ -1,0 +1,37 @@
+{
+ "id": "PERPRES-2020-44",
+ "source": "bpk",
+ "bpk_id": 134802,
+ "url": "https://peraturan.bpk.go.id/Details/134802/perpres-no-44-tahun-2020",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "44",
+ "number_raw": "44",
+ "year": 2020,
+ "title": "Peraturan Presiden (Perpres) Nomor 44 Tahun 2020 tentang Sistem Sertifikasi Perkebunan Kelapa Sawit Berkelanjutan Indonesia",
+ "about": "Sistem Sertifikasi Perkebunan Kelapa Sawit Berkelanjutan Indonesia",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KEHUTANAN DAN PERKEBUNAN - JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "Alias",
+ "date_enacted": "2020-03-13",
+ "date_promulgated": "2020-03-16",
+ "date_effective": "2020-03-16",
+ "gazette": "LN.2020/NO.75, JDIH.SETKAB.GO.ID : 22 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2025-16",
+   "target_bpk_id": 316704,
+   "label": "Perpres No. 16 Tahun 2025",
+   "about": "Sistem Sertifikasi Kelapa Sawit Berkelanjutan Indonesia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 16 Maret 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/125621/Perpres%20Nomor%2044%20Tahun%202020.PDF"
+ ],
+ "fetched_at": "2026-10-05T05:03:12Z"
+}

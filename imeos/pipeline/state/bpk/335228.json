@@ -1,0 +1,41 @@
+{
+ "id": "PERBPOM-2025-30",
+ "source": "bpk",
+ "bpk_id": 335228,
+ "url": "https://peraturan.bpk.go.id/Details/335228/peraturan-bpom-no-30-tahun-2025",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "30",
+ "number_raw": "30",
+ "year": 2025,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 30 Tahun 2025 tentang Perubahan atas Peraturan Badan Pengawas Obat dan",
+ "about": "Perubahan atas Peraturan Badan Pengawas Obat dan",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "PENGAWASAN / AUDIT INTERNAL",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-10-22",
+ "date_promulgated": "2025-11-03",
+ "date_effective": "2025-11-03",
+ "gazette": "BN 2025 (900); 4 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 297143,
+   "label": "Peraturan BPOM No. 14 Tahun 2024",
+   "about": "Pengawasan Obat dan Makanan yang Diedarkan secara\r\nDaring"
+  }
+ ],
+ "abstract": "bahwa pengaturan mengenai pengawasan peredaran obat\ndan makanan secara daring sebagaimana telah diatur\ndalam Peraturan Badan Pengawas Obat dan Makanan\nNomor 14 Tahun 2024 tentang Pengawasan Obat dan\nMakanan yang Diedarkan Secara Daring sudah tidak\nsesuai dengan kebutuhan hukum, sehingga perlu diubah\nDasar hukum peraturan ini adalah PP Nomor 71 Tahun 2019;\nPerpres Nomor 80 Tahun 2017;\nPerBPOM Nomor 21 Tahun 2020 sebagaimana telah diubah dengan PerBPOM Nomor 13 Tahun 2022;\nPerBPOM Nomor 19 Tahun 2023 sebagaimana telah diubah dengan PerBPOM Nomor 3 Tahun 2025;\nPerBPOM Nomor 14 Tahun 2024.\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Badan Pengawas Obat\ndan Makanan Nomor 14 Tahun 2024 tentang Pengawasan Obat\ndan Makanan yang Diedarkan Secara Daring yaitu Pasal 3, Pasal 5, dan Pasal 28A",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 03 November 2025.",
+ "citations": [
+  "PERBPOM-2024-14",
+  "PP-2019-71",
+  "PERPRES-2017-80"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/397799/peraturan-bpom-no-30-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:28:25Z"
+}

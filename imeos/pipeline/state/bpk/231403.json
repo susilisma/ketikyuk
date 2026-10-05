@@ -12,7 +12,7 @@
  "about": "Pedoman Pemberian Bantuan Pemerintah Berupa Subsidi Gaji/Upah bagi Pekerja/Buruh",
  "issuer": "Kementerian Ketenagakerjaan",
  "subject": "KETENAGAKERJAAN - BANTUAN, SUMBANGAN, BENCANA / KEBENCANAAN, DAN PENANGGULANGAN BENCANA - STANDAR / PEDOMAN",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2022-09-05",
  "date_promulgated": "2022-09-05",
  "date_effective": "2022-09-05",
@@ -54,5 +54,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/264896/Permenaker%20Nomor%2010%20Tahun%202022.pdf"
  ],
- "fetched_at": "2026-09-14T06:41:14Z"
+ "fetched_at": "2026-10-05T05:15:20Z"
 }

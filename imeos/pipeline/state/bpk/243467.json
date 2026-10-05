@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2023-5",
+ "source": "bpk",
+ "bpk_id": 243467,
+ "url": "https://peraturan.bpk.go.id/Details/243467/pmk-no-5pmk052023",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "5",
+ "number_raw": "5/PMK.05/2023",
+ "year": 2023,
+ "title": "Peraturan Menteri Keuangan Nomor 5/PMK.05/2023 Tahun 2023 tentang Tarif Layanan Badan Layanan Umum Balai Pendidikan dan Pelatihan Transportasi Laut Jakarta",
+ "about": "Tarif Layanan Badan Layanan Umum Balai Pendidikan dan Pelatihan Transportasi Laut Jakarta",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BADAN LAYANAN UMUM",
+ "field": "Alias",
+ "date_enacted": "2023-01-17",
+ "date_promulgated": "2023-01-18",
+ "date_effective": "2023-02-02",
+ "gazette": "BN.2023/NO. 80; https:jdih.kemenkeu.go.id : 7 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-22",
+   "target_bpk_id": 316120,
+   "label": "PMK No. 22 Tahun 2025",
+   "about": "Tarif Layanan Badan Layanan Umum Bidang Pendidikan dan Pelatihan Sumber Daya Manusia Perhubungan Pada Kementerian Perhubungan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2018-23",
+   "target_bpk_id": 111992,
+   "label": "PMK No. 23/PMK.05/2018",
+   "about": "Tarif Layanan Badan Layanan Umum Balai Pendidikan Dan Pelatihan Transportasi Laut Jakarta pada Kementerian Perhubungan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 02 Februari 2023.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/299201/5_PMK.05_2023.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:08:48Z"
+}

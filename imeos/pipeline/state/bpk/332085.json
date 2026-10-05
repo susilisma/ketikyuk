@@ -1,0 +1,53 @@
+{
+ "id": "PERMENKUM-2025-42",
+ "source": "bpk",
+ "bpk_id": 332085,
+ "url": "https://peraturan.bpk.go.id/Details/332085/permenkum-no-42-tahun-2025",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "42",
+ "number_raw": "42",
+ "year": 2025,
+ "title": "Peraturan Menteri Hukum Nomor 42 Tahun 2025 tentang Rencana Strategis Kementerian Hukum Tahun 2025-2029",
+ "about": "Rencana Strategis Kementerian Hukum Tahun 2025-2029",
+ "issuer": "Kementerian Hukum",
+ "subject": "PROGRAM, RENCANA PEMBANGUNAN DAN RENCANA KERJA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-10-10",
+ "date_promulgated": "2025-10-22",
+ "date_effective": "2025-10-10",
+ "gazette": "BN Tahun 2025 No. 854",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 277501,
+   "label": "Permenkumham No. 7 Tahun 2024",
+   "about": "Rencana Strategis Kementerian Hukum dan Hak Asasi Manusia Tahun 20202024"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 174151,
+   "label": "Permenkumham No. 33 Tahun 2020",
+   "about": "Rencana Strategis Kementerian Hukum dan Hak Asasi Manusia Tahun 2020-2024"
+  }
+ ],
+ "abstract": "bahwa untuk melaksanakan ketentuan Pasal 19 ayat (2) Undang-Undang Nomor 25 Tahun 2004 tentang Sistem Perencanaan Pembangunan Nasional, ketentuan Pasal 17 ayat (3) Peraturan Pemerintah Nomor 40 Tahun 2006 tentang Tata Cara Penyusunan Rencana Pembangunan Nasional, dan ketentuan Pasal 19 ayat (2) Peraturan Presiden Nomor 80 Tahun 2025 tentang Penyusunan Rencana Strategis dan Rencana Kerja Kementerian/Lembaga, perlu menetapkan Peraturan Menteri Hukum tentang Rencana Strategis Kementerian Hukum Tahun 2025-2029\n1. Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;\n2. Undang-Undang Nomor 25 Tahun 2004 tentang Sistem Perencanaan Pembangunan Nasional (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 104, Tambahan Lembaran Negara Republik Indonesia Nomor 4421);\n3. Peraturan Pemerintah Nomor 40 Tahun 2006 tentang Tata Cara Penyusunan Rencana Pembangunan Nasional (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 97, Tambahan Lembaran Negara Republik Indonesia Nomor 4664) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 17 Tahun 2017 tentang Sinkronisasi Proses Perencanaan dan Penganggaran Pembangunan Nasional (Lembaran Negara Republik Indonesia Tahun 2017 Nomor 105, Tambahan Lembaran Negara Republik Indonesia Nomor 6056);\n4. Peraturan Presiden Nomor 155 Tahun 2024 tentang Kementerian Hukum (Lembaran Negara Republik Indonesia Tahun 2024 Nomor 351);\n5.Peraturan Presiden Nomor 12 Tahun 2025 tentang Rencana Pembangunan Jangka Menengah Nasional Tahun 2025-2029 (Lembaran Negara Republik Indonesia Tahun 2025 Nomor 19);\n6. Peraturan Presiden Nomor 80 Tahun 2025 tentang Penyusunan Rencana Strategis dan Rencana Kerja Kementerian/Lembaga (Lembaran Negara Republik Indonesia Tahun 2025 Nomor 114);\n7. Peraturan Menteri Hukum Nomor 1 Tahun 2024 tentang Organisasi dan Tata Kerja Kementerian Hukum (Berita Negara Republik Indonesia Tahun 2024 Nomor 832);\n8. Peraturan Menteri Hukum Nomor 2 Tahun 2024 tentang Organisasi dan Tata Kerja Kantor Wilayah Kementerian Hukum (Berita Negara Republik Indonesia Tahun 2024 Nomor 912)\nRencana Strategis sebagaimana dimaksud dalam Pasal 1 memuat:\na. visi, misi, tujuan, dan sasaran strategis;\nb. arah kebijakan, strategi, kerangka regulasi dan kerangka kelembagaan; dan\nc. target kinerja dan kerangka pendanaan",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 10 Oktober 2025.\nMencabut:\n1. Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 33 Tahun 2020 tentang Rencana Strategis Kementerian Hukum dan Hak Asasi Manusia Tahun 2020-2024\n2. Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 7 Tahun 2024 tentang Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 33 Tahun 2020 tentang Rencana Strategis Kementerian Hukum dan Hak Asasi Manusia Tahun 2020-2024\n290 halaman",
+ "citations": [
+  "UU-2004-25",
+  "PP-2006-40",
+  "PERPRES-2025-80",
+  "PP-2017-17",
+  "PERPRES-2024-155",
+  "PERPRES-2025-12",
+  "PERMENKUM-2024-1",
+  "PERMENKUM-2024-2"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/394133/permenkum-no-42-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:18:33Z"
+}

@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKOMINFO-2026-1",
+ "source": "bpk",
+ "bpk_id": 344098,
+ "url": "https://peraturan.bpk.go.id/Details/344098/permenkomdigi-no-1-tahun-2026",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Digital",
+ "number": "1",
+ "number_raw": "1",
+ "year": 2026,
+ "title": "Peraturan Menteri Komunikasi dan Digital Nomor 1 Tahun 2026 tentang Organisasi dan Tata Kerja Museum Penerangan",
+ "about": "Organisasi dan Tata Kerja Museum Penerangan",
+ "issuer": "Kementerian Komunikasi dan Digital",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-01-12",
+ "date_promulgated": "2026-01-19",
+ "date_effective": "2026-01-19",
+ "gazette": "BN 2026 (27); 9 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 228285,
+   "label": "Permenkominfo No. 5 Tahun 2022",
+   "about": "Organisasi dan Tata Kerja Museum Penerangan"
+  }
+ ],
+ "abstract": "bahwa Peraturan Menteri Komunikasi dan Informatika Nomor 5 Tahun 2022 tentang Organisasi dan Tata Kerja Museum Penerangan sudah tidak sesuai dengan perkembangan hukum dan kebutuhan organisasi, sehingga perlu diganti\nDasar hukum peraturan ini adalah UUD NRI Tahun 1945 Pasal 17 ayat (3);\nUU Nomor 14 Tahun 2008;\nUU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024;\nPP Nomor 66 Tahun 2015;\nPerpres Nomor 174 Tahun 2024;\nPermen Komdigi Nomor 1 Tahun 2025.\nPeraturan ini mengatur mengenai kedudukan, tugas, dan fungsi Museum Penerangan; susunan organisasi; jabatan fungsional dan jabatan pelaksana; tata kerja; lokasi; jabatan, pengangkatan, dan pemberhentian; penataan",
+ "note": "Peraturan Menteri Komunikasi dan Digital ini mulai berlaku pada tanggal 19 Januari 2026.",
+ "citations": [
+  "PERMENKOMINFO-2022-5",
+  "UU-2008-14",
+  "UU-2008-39",
+  "UU-2024-61",
+  "PP-2015-66",
+  "PERPRES-2024-174"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/407341/Permenkomdigi-no-1-tahun-2026.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:16:09Z"
+}

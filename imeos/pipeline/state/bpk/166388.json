@@ -1,0 +1,38 @@
+{
+ "id": "PERMENDAG-2021-4",
+ "source": "bpk",
+ "bpk_id": 166388,
+ "url": "https://peraturan.bpk.go.id/Details/166388/permendag-no-4-tahun-2021",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "4",
+ "number_raw": "4",
+ "year": 2021,
+ "title": "Peraturan Menteri Perdagangan Nomor 4 Tahun 2021 tentang Petunjuk Teknis Jabatan Fungsional Analis Perdagangan",
+ "about": "Petunjuk Teknis Jabatan Fungsional Analis Perdagangan",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "Alias",
+ "date_enacted": "2021-01-25",
+ "date_promulgated": "2021-01-28",
+ "date_effective": "2021-01-28",
+ "gazette": "BN.2021/No. 65; http://jdih.kemendag.go.id : 66 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2025-4",
+   "target_bpk_id": 320775,
+   "label": "Permendag No. 4 Tahun 2025",
+   "about": "Petunjuk Pelaksanaan dan Petunjuk Teknis Jabatan Fungsional di Bidang Perdagangan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 28 Januari 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/159304/Permendag%20Nomor%2004%20Tahun%202021_1.pdf",
+  "https://peraturan.bpk.go.id/Download/159305/Permendag%20Nomor%2004%20Tahun%202021_2.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:12:10Z"
+}

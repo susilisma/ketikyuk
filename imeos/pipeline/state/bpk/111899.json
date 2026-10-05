@@ -1,0 +1,44 @@
+{
+ "id": "PP-2019-48",
+ "source": "bpk",
+ "bpk_id": 111899,
+ "url": "https://peraturan.bpk.go.id/Details/111899/pp-no-48-tahun-2019",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "48",
+ "number_raw": "48",
+ "year": 2019,
+ "title": "Peraturan Pemerintah (PP) Nomor 48 Tahun 2019 tentang Besaran dan Penggunaan Iuran Badan Usaha Dalam Kegiatan Usaha Penyediaan dan Pendistribusian Bahan Bakar Minyak dan Pengangkutan Gas Bumi Melalui Pipa",
+ "about": "Besaran dan Penggunaan Iuran Badan Usaha Dalam Kegiatan Usaha Penyediaan dan Pendistribusian Bahan Bakar Minyak dan Pengangkutan Gas Bumi Melalui Pipa",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERTAMBANGAN MIGAS, MINERAL DAN ENERGI",
+ "field": "Alias",
+ "date_enacted": "2019-07-03",
+ "date_promulgated": "2019-07-08",
+ "date_effective": "2019-09-06",
+ "gazette": "LN.2019/NO.122, TLN NO.6364, LL SETNEG : 16 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2025-9",
+   "target_bpk_id": 314626,
+   "label": "PP No. 9 Tahun 2025",
+   "about": "Besaran dan Penggunaan Iuran Badan Usaha dalam Kegiatan Usaha Minyak dan Gas Bumi pada Badan Pengatur Hilir Minyak dan Gas Bumi"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2006-1",
+   "target_bpk_id": 48992,
+   "label": "PP No. 1 Tahun 2006",
+   "about": "Besaran Dan Penggunaan Iuran Badan Usaha Dalam Kegiatan Usaha Penyediaan Dan Pendistribusian Bahan Bakar Minyak Dan Pengangkutan Gas Bumi Melalui Pipa"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 06 September 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/102847/PP%20Nomor%2048%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-10-05T04:59:14Z"
+}

@@ -12,7 +12,7 @@
  "about": "Rencana Strategis Kementerian Ketenagakerjaan Tahun 2020-2024",
  "issuer": "Kementerian Ketenagakerjaan",
  "subject": "PROGRAM, RENCANA PEMBANGUNAN DAN RENCANA KERJA",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2021-07-09",
  "date_promulgated": "2021-07-09",
  "date_effective": "2021-07-09",
@@ -47,5 +47,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/189817/Permenaker%20Nomor%2010%20Tahun%202021.pdf"
  ],
- "fetched_at": "2026-09-14T06:41:08Z"
+ "fetched_at": "2026-10-05T05:15:13Z"
 }

@@ -1,0 +1,65 @@
+{
+ "id": "PERMENKUMHAM-2021-9",
+ "source": "bpk",
+ "bpk_id": 170954,
+ "url": "https://peraturan.bpk.go.id/Details/170954/permenkumham-no-9-tahun-2021",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "9",
+ "number_raw": "9",
+ "year": 2021,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 9 Tahun 2021 tentang Jabatan dan Kelas Jabatan di Lingkungan Kementerian Hukum dan Hak Asasi Manusia",
+ "about": "Jabatan dan Kelas Jabatan di Lingkungan Kementerian Hukum dan Hak Asasi Manusia",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA - JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "Alias",
+ "date_enacted": "2021-01-29",
+ "date_promulgated": "2021-02-03",
+ "date_effective": "2021-02-03",
+ "gazette": "BN.2021/NO.102; PERATURAN.GO.ID: 6 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": null,
+   "target_bpk_id": 352485,
+   "label": "Permen Imipas No. 3 Tahun 2026",
+   "about": "Jabatan dan Kelas Jabatan di Lingkungan Kementerian Imigrasi dan Pemasyarakatan"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": null,
+   "target_bpk_id": 350886,
+   "label": "Permenkum No. 38 Tahun 2025",
+   "about": "Jabatan dan Kelas Jabatan di Lingkungan Kementerian Hukum"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 280240,
+   "label": "Permenkumham No. 21 Tahun 2022",
+   "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 9 Tahun 2021 tentang Jabatan dan Kelas Jabatan di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133196,
+   "label": "Permenkumham No. 15 Tahun 2017",
+   "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 47 Tahun 2015 tentang Jabatan dan Kelas Jabatan di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133326,
+   "label": "Permenkumham No. 47 Tahun 2015",
+   "about": "Jabatan dan Kelas Jabatan di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 03 Februari 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/164113/Nomor%209%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:18:47Z"
+}

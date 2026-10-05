@@ -12,7 +12,7 @@
  "about": "Penyelenggaraan Nilai Ekonomi Karbon untuk Pencapaian Target Kontribusi yang Ditetapkan Secara Nasional dan Pengendalian Emisi Gas Rumah Kaca dalam Pembangunan Nasional",
  "issuer": "Pemerintah Pusat",
  "subject": "LINGKUNGAN HIDUP - PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2021-10-29",
  "date_promulgated": "2021-10-29",
  "date_effective": "2021-10-29",
@@ -55,5 +55,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/180699/Perpres%20Nomor%2098%20Tahun%202021.pdf"
  ],
- "fetched_at": "2026-09-14T05:32:23Z"
+ "fetched_at": "2026-10-05T05:01:17Z"
 }

@@ -1,0 +1,45 @@
+{
+ "id": "PERMENKES-2026-4",
+ "source": "bpk",
+ "bpk_id": 350853,
+ "url": "https://peraturan.bpk.go.id/Details/350853/permenkes-no-4-tahun-2026",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "4",
+ "number_raw": "4",
+ "year": 2026,
+ "title": "Peraturan Menteri Kesehatan Nomor 4 Tahun 2026 tentang Pencabutan Peraturan Menteri Kesehatan Nomor 5 Tahun 2014 tentang Panduan Praktik Klinis Bagi Dokter di Fasilitas Pelayanan Kesehatan Primer",
+ "about": "Pencabutan Peraturan Menteri Kesehatan Nomor 5 Tahun 2014 tentang Panduan Praktik Klinis Bagi Dokter di Fasilitas Pelayanan Kesehatan Primer",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - STANDAR / PEDOMAN",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2026-03-05",
+ "date_promulgated": "2026-03-11",
+ "date_effective": "2026-03-11",
+ "gazette": "JDIH Kementerian Kesehatan",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2014-5",
+   "target_bpk_id": 116719,
+   "label": "Permenkes No. 5 Tahun 2014",
+   "about": "Panduan Praktik Klinis Bagi Dokter di Fasilitas Pelayanan Kesehatan Primer"
+  }
+ ],
+ "abstract": "a. bahwa dengan ditetapkannya Undang-Undang Nomor 17\nTahun 2023 tentang Kesehatan dan Peraturan Pemerintah\nNomor 28 Tahun 2024 tentang Peraturan Pelaksanaan\nUndang-Undang Nomor 17 Tahun 2023 tentang\nKesehatan, panduan praktik klinis disusun oleh fasilitas\npelayanan kesehatan sebagai bagian dari standar\nprosedur operasional;\nb. bahwa Peraturan Menteri Kesehatan Nomor 5 Tahun 2014\ntentang Panduan Praktik Klinis bagi Dokter di Fasilitas\nPelayanan Kesehatan Primer sudah tidak sesuai dengan\nperkembangan ilmu pengetahuan dan teknologi\nkedokteran serta kebutuhan pelayanan kesehatan\nmasyarakat, sehingga perlu dicabut;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a dan huruf b, perlu menetapkan Peraturan\nMenteri Kesehatan tentang Pencabutan Peraturan Menteri\nKesehatan Nomor 5 Tahun 2014 tentang Panduan Praktik\nKlinis bagi Dokter di Fasilitas Pelayanan Kesehatan\nPrimer.\n1. Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;\n2. Undang-Undang Nomor 39 Tahun 2008 tentang\nKementerian Negara (Lembaran Negara Republik\nIndonesia Tahun 2008 Nomor 166, Tambahan Lembaran\nNegara Republik Indonesia Nomor 4916) sebagaimana\ntelah diubah dengan Undang-Undang Nomor 61 Tahun\n2024 tentang Perubahan atas Undang-Undang Nomor 39\nTahun 2008 tentang Kementerian Negara (Lembaran\nNegara Republik Indonesia Tahun 2024 Nomor 225,\nTambahan Lembaran Negara Republik Indonesia Nomor\n6994);\n3. Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan\n(Lembaran Negara Republik Indonesia Tahun 2023 Nomor\n105, Tambahan Lembaran Negara Republik Indonesia\nNomor 6887);\n4. Peraturan Pemerintah Nomor 28 Tahun 2024 tentang\nPeraturan Pelaksanaan Undang-Undang Nomor 17 Tahun\n2023 tentang Kesehatan (Lembaran Negara Republik\nIndonesia Tahun 2024 Nomor 135, Tambahan Lembaran\nNegara Republik Indonesia Nomor 6952);\n5. Peraturan Presiden Nomor 161 Tahun 2024 tentang\nKementerian Kesehatan (Lembaran Negara Republik\nIndonesia Tahun 2024 Nomor 357);\n6. Peraturan Menteri Kesehatan Nomor 21 Tahun 2024\ntentang Organisasi dan Tata Kerja Kementerian Kesehatan\n(Berita Negara Republik Indonesia Tahun 2024 Nomor\n1048) sebagaimana telah diubah dengan Peraturan\nMenteri Kesehatan Nomor 17 Tahun 2025 tentang\nPerubahan atas Peraturan Menteri Kesehatan Nomor 21\nTahun 2024 tentang Organisasi dan Tata Kerja\nKementerian Kesehatan (Berita Negara Republik Indonesia\nTahun 2025 Nomor 1128).\nPeraturan ini mencabut Peraturan Menteri Kesehatan Nomor 5 Tahun 2014 tentang Panduan Praktik Klinis bagi Dokter di Fasilitas Pelayanan Kesehatan Primer",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 11 Maret 2026.\nPeraturan Menteri Kesehatan Nomor 5 Tahun 2014 tentang Panduan Praktik Klinis bagi Dokter di Fasilitas Pelayanan Kesehatan Primer\n3",
+ "citations": [
+  "UU-2023-17",
+  "PP-2024-28",
+  "PERMENKES-2014-5",
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2024-161",
+  "PERMENKES-2024-21"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/414599/Permenkes%204%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:22:40Z"
+}

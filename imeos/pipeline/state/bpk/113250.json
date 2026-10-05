@@ -12,7 +12,7 @@
  "about": "Pedoman Pelaksanaan Analisis Jabatan Di Lingkungan Kementerian Keuangan",
  "issuer": "Kementerian Keuangan",
  "subject": "STANDAR / PEDOMAN",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2018-09-21",
  "date_promulgated": "2018-10-01",
  "date_effective": "2018-10-01",
@@ -40,5 +40,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/104207/PMK%20Nomor%20138%20Tahun%202018.pdf"
  ],
- "fetched_at": "2026-09-14T06:32:12Z"
+ "fetched_at": "2026-10-05T05:06:40Z"
 }

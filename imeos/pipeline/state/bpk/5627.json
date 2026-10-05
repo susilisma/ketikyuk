@@ -12,7 +12,7 @@
  "about": "Perubahan atas Peraturan Pemerintah Nomor 99 Tahun 2013 Tentang Pengelolaan Aset Jaminan Sosial Ketenagakerjaan",
  "issuer": "Pemerintah Pusat",
  "subject": "KETENAGAKERJAAN",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2015-08-03",
  "date_promulgated": "2015-08-04",
  "date_effective": "2015-07-01",
@@ -40,5 +40,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/28983/PP%20Nomor%2055%20Tahun%202015.pdf"
  ],
- "fetched_at": "2026-09-14T05:27:38Z"
+ "fetched_at": "2026-10-05T04:56:24Z"
 }

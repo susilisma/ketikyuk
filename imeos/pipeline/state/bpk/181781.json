@@ -1,0 +1,37 @@
+{
+ "id": "PERBPOM-2020-17",
+ "source": "bpk",
+ "bpk_id": 181781,
+ "url": "https://peraturan.bpk.go.id/Details/181781/peraturan-bpom-no-17-tahun-2020",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "17",
+ "number_raw": "17",
+ "year": 2020,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 17 Tahun 2020 tentang Pelatihan Jabatan Fungsional Pengawas Farmasi dan Makanan Kategori Keahlian Jenjang Ahli Pertama",
+ "about": "Pelatihan Jabatan Fungsional Pengawas Farmasi dan Makanan Kategori Keahlian Jenjang Ahli Pertama",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA - PENDIDIKAN - JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "Alias",
+ "date_enacted": "2020-07-17",
+ "date_promulgated": "2020-07-17",
+ "date_effective": "2020-07-17",
+ "gazette": "BN.2020/No. 787, peraturan.go.id : 6 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 313857,
+   "label": "Peraturan BPOM No. 5 Tahun 2025",
+   "about": "Pelatihan Fungsional Pengawas Farmasi dan Makanan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 17 Juli 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/175181/Peraturan%20BPOM%20Nomor%2017%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:29:23Z"
+}

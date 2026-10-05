@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKUMHAM-2018-17",
+ "source": "bpk",
+ "bpk_id": 133158,
+ "url": "https://peraturan.bpk.go.id/Details/133158/permenkumham-no-17-tahun-2018",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "17",
+ "number_raw": "17",
+ "year": 2018,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 17 Tahun 2018 tentang Pendaftaran Persekutuan Komanditer, Persekutuan Firma, dan Persekutuan Perdata",
+ "about": "Pendaftaran Persekutuan Komanditer, Persekutuan Firma, dan Persekutuan Perdata",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "Alias",
+ "date_enacted": "2018-07-12",
+ "date_promulgated": "2018-08-01",
+ "date_effective": "2018-08-01",
+ "gazette": "BN.2018/NO.1011, peraturan.go.id : 14 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 332340,
+   "label": "Permenkum No. 25 Tahun 2025",
+   "about": "Penyelenggaraan Layanan Jasa Hukum Persekutuan Perdata, Persekutuan Firma, dan Persekutuan Komanditer"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 01 Agustus 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/123946/Permenkumham%20Nomor%2017%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:19:20Z"
+}

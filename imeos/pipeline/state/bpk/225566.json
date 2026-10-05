@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKUMHAM-2022-15",
+ "source": "bpk",
+ "bpk_id": 225566,
+ "url": "https://peraturan.bpk.go.id/Details/225566/permenkumham-no-15-tahun-2022",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "15",
+ "number_raw": "15",
+ "year": 2022,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 15 Tahun 2022 tentang Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 16 Tahun 2020 tentang Kamus Kompetensi Teknis Jabatan Urusan Pemerintahan di Bidang Hukum dan Hak Asasi Manusia",
+ "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 16 Tahun 2020 tentang Kamus Kompetensi Teknis Jabatan Urusan Pemerintahan di Bidang Hukum dan Hak Asasi Manusia",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA - JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "Alias",
+ "date_enacted": "2022-08-19",
+ "date_promulgated": "2022-08-25",
+ "date_effective": "2022-08-25",
+ "gazette": "BN.2022/No.811, peraturan.go.id: 6 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": null,
+   "target_bpk_id": 357142,
+   "label": "Permenkum No. 9 Tahun 2026",
+   "about": "Kamus Kompetensi Teknis Urusan Pemerintahan di Bidang Hukum"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 174095,
+   "label": "Permenkumham No. 16 Tahun 2020",
+   "about": "Kamus Kompetensi Teknis Jabatan Urusan Pemerintahan di Bidang Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 25 Agustus 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/220207/Nomor%2015%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:17:35Z"
+}

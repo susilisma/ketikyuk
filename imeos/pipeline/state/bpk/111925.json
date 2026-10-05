@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKES-2018-22",
+ "source": "bpk",
+ "bpk_id": 111925,
+ "url": "https://peraturan.bpk.go.id/Details/111925/permenkes-no-22-tahun-2018",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "22",
+ "number_raw": "22",
+ "year": 2018,
+ "title": "Peraturan Menteri Kesehatan Nomor 22 Tahun 2018 tentang Petunjuk Teknis Restriksi Penggunaan Obat Trastuzumab Untuk Kanker Payudara Metastasik Pada Pelayanan Jaminan Kesehatan Nasional",
+ "about": "Petunjuk Teknis Restriksi Penggunaan Obat Trastuzumab Untuk Kanker Payudara Metastasik Pada Pelayanan Jaminan Kesehatan Nasional",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - PROGRAM, RENCANA PEMBANGUNAN DAN RENCANA KERJA",
+ "field": "Alias",
+ "date_enacted": "2018-06-08",
+ "date_promulgated": "2018-07-23",
+ "date_effective": "2018-07-23",
+ "gazette": "BN.2018/NO.941, kemkes.go.id : 5 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-5",
+   "target_bpk_id": 350852,
+   "label": "Permenkes No. 5 Tahun 2026",
+   "about": "Perbekalan Kesehatan"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-5",
+   "target_bpk_id": 350852,
+   "label": "Permenkes No. 5 Tahun 2026",
+   "about": "Perbekalan Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 23 Juli 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/102872/Permenkes%20Nomor%2022%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:22:12Z"
+}

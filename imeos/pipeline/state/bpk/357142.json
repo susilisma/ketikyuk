@@ -1,0 +1,49 @@
+{
+ "id": "PERMENKUM-2026-9",
+ "source": "bpk",
+ "bpk_id": 357142,
+ "url": "https://peraturan.bpk.go.id/Details/357142/permenkum-no-9-tahun-2026-kamus-kompetensi-teknis-urusan-pemerintahan-di-bidang",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "9",
+ "number_raw": "9",
+ "year": 2026,
+ "title": "Peraturan Menteri Hukum Nomor 9 Tahun 2026 tentang Kamus Kompetensi Teknis Urusan Pemerintahan di Bidang Hukum",
+ "about": "Kamus Kompetensi Teknis Urusan Pemerintahan di Bidang Hukum",
+ "issuer": "Kementerian Hukum",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-01-26",
+ "date_promulgated": "2026-08-31",
+ "date_effective": "2026-08-31",
+ "gazette": "BN 2026 (601): 186 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut sebagian",
+   "target": null,
+   "target_bpk_id": 225566,
+   "label": "Permenkumham No. 15 Tahun 2022",
+   "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 16 Tahun 2020 tentang Kamus Kompetensi Teknis Jabatan Urusan Pemerintahan di Bidang Hukum dan Hak Asasi Manusia"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": null,
+   "target_bpk_id": 174095,
+   "label": "Permenkumham No. 16 Tahun 2020",
+   "about": "Kamus Kompetensi Teknis Jabatan Urusan Pemerintahan di Bidang Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "Untuk melaksanakan manajemen Aparatur Sipil Negara di lingkungan Kementerian Hukum berbasis sistem merit, diperlukan standar kompetensi jabatan yang disusun berdasarkan kamus kompetensi teknis, manajerial, dan sosial kultural.\nDasar hukum Peraturan ini adalah Pasal 17 ayat (3) UUD 1945; UU No. 39 Tahun 2008; UU No. 20 Tahun 2023; PP No. 11 Tahun 2017; Perpres No. 155 Tahun 2024; Permen PANRB No. 38 Tahun 2017; Permenkum No. 1 Tahun 2024; dan Permenkum No. 2 Tahun 2024.\nPeraturan ini mengatur mengenai Kamus Kompetensi Teknis Urusan Pemerintahan di Bidang Hukum yang merupakan kumpulan kompetensi yang meliputi nama kompetensi teknis, definisi kompetensi teknis, deskripsi kompetensi teknis, dan indikator perilaku untuk setiap level kompetensi teknis yang diperlukan dalam jabatan. Kamus Kompetensi Teknis digunakan sebagai acuan dalam penyusunan dan penetapan standar kompetensi jabatan aparatur sipil negara urusan pemerintahan di bidang hukum sesuai dengan karakteristik tugas jabatan.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 31 Agustus 2026.\nPada saat Peraturan Menteri ini mulai berlaku, ketentuan mengenai Kompetensi Teknis suburusan peraturan perundang-undangan, suburusan administrasi hukum umum, suburusan kekayaan intelektual, dan suburusan pembinaan hukum nasional berdasarkan Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 16 Tahun 2020 tentang Kamus Kompetensi Teknis Jabatan Urusan Pemerintahan di Bidang Hukum dan Hak Asasi Manusia (Berita Negara Republik Indonesia Tahun 2020 Nomor 733) sebagaimana telah diubah dengan Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 15 Tahun 2022 tentang Kamus Kompetensi Teknis Urusan Pemerintahan di Bidang Hukum dan Hak Asasi Manusia (Berita Negara Republik Indonesia Tahun 2022 Nomor 15), dicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "UU-2008-39",
+  "UU-2023-20",
+  "PP-2017-11",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/421163/Permenkum%20No%209%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:17:33Z"
+}

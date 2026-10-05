@@ -1,0 +1,58 @@
+{
+ "id": "PERMENKES-2017-30",
+ "source": "bpk",
+ "bpk_id": 112085,
+ "url": "https://peraturan.bpk.go.id/Details/112085/permenkes-no-30-tahun-2017",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "30",
+ "number_raw": "30",
+ "year": 2017,
+ "title": "Peraturan Menteri Kesehatan Nomor 30 Tahun 2017 tentang Perubahan Kedua atas Peraturan Menteri Kesehatan Nomor 1148/Menkes/Per/VI/2011 tentang Pedagang Besar Farmasi",
+ "about": "Perubahan Kedua atas Peraturan Menteri Kesehatan Nomor 1148/Menkes/Per/VI/2011 tentang Pedagang Besar Farmasi",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "Alias",
+ "date_enacted": "2017-05-29",
+ "date_promulgated": "2017-06-20",
+ "date_effective": "2017-06-20",
+ "gazette": "BN.2017/NO.863, kemkes.go.id : 7 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-5",
+   "target_bpk_id": 350852,
+   "label": "Permenkes No. 5 Tahun 2026",
+   "about": "Perbekalan Kesehatan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENKES-2018-26",
+   "target_bpk_id": 111928,
+   "label": "Permenkes No. 26 Tahun 2018",
+   "about": "Pelayanan Perizinan Berusaha Terintegrasi Secara Elektronik Sektor Kesehatan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENKES-2014-34",
+   "target_bpk_id": 117570,
+   "label": "Permenkes No. 34 Tahun 2014",
+   "about": "Perubahan atas Peraturan Menteri Kesehatan Nomor 1148/Menkes/Per/VI/2011 Tentang  Pedagang Besar Farmasi"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENKES-2011-1148",
+   "target_bpk_id": 129886,
+   "label": "Permenkes No. 1148/MENKES/PER/VI/2011 Tahun 2011",
+   "about": "Pedagang Besar Farmasi"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 20 Juni 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/103035/Permenkes%20Nomor%2030%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:22:16Z"
+}

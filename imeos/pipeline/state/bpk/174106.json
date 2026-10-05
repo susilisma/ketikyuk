@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKUMHAM-2020-19",
+ "source": "bpk",
+ "bpk_id": 174106,
+ "url": "https://peraturan.bpk.go.id/Details/174106/permenkumham-no-19-tahun-2020",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "19",
+ "number_raw": "19",
+ "year": 2020,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 19 Tahun 2020 tentang Layanan Legalisasi Tanda Tangan Pejabat pada Dokumen di Kementerian Hukum dan Hak Asasi Manusia",
+ "about": "Layanan Legalisasi Tanda Tangan Pejabat pada Dokumen di Kementerian Hukum dan Hak Asasi Manusia",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA - PERIZINAN, PELAYANAN PUBLIK",
+ "field": "Alias",
+ "date_enacted": "2020-07-02",
+ "date_promulgated": "2020-07-09",
+ "date_effective": "2020-07-09",
+ "gazette": "BN.2020/No.735, peraturan.go.id : 9 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 317305,
+   "label": "Permenkum No. 8 Tahun 2025",
+   "about": "Layanan Legalisasi Dokumen Publik pada Kementerian Hukum"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133183,
+   "label": "Permenkumham No. 1 Tahun 2017",
+   "about": "Tata Cara Permohonan Legalisasi Dokumen pada Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 09 Juli 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/167302/19%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:20:04Z"
+}

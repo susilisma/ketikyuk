@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKES-2020-18",
+ "source": "bpk",
+ "bpk_id": 152561,
+ "url": "https://peraturan.bpk.go.id/Details/152561/permenkes-no-18-tahun-2020",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "18",
+ "number_raw": "18",
+ "year": 2020,
+ "title": "Peraturan Menteri Kesehatan Nomor 18 Tahun 2020 tentang Pengelolaan Limbah Medis Fasilitas Pelayanan Kesehatan Berbasis Wilayah",
+ "about": "Pengelolaan Limbah Medis Fasilitas Pelayanan Kesehatan Berbasis Wilayah",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - LINGKUNGAN HIDUP",
+ "field": "Alias",
+ "date_enacted": "2020-07-15",
+ "date_promulgated": "2020-07-21",
+ "date_effective": "2020-07-21",
+ "gazette": "BN.2020/No.804, jdih.kemkes.go.id: 12 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-3",
+   "target_bpk_id": 350854,
+   "label": "Permenkes No. 3 Tahun 2026",
+   "about": "Penanggulangan Penyakit"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 21 Juli 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/144821/Permenkes%20Nomor%2018%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:22:45Z"
+}

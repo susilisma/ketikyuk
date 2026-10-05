@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKOMINFO-2022-8",
+ "source": "bpk",
+ "bpk_id": 228295,
+ "url": "https://peraturan.bpk.go.id/Details/228295/permenkominfo-no-8-tahun-2022",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Informatika",
+ "number": "8",
+ "number_raw": "8",
+ "year": 2022,
+ "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 8 Tahun 2022 tentang Organisasi dan Tata Kerja Sekretariat Dewan Pers",
+ "about": "Organisasi dan Tata Kerja Sekretariat Dewan Pers",
+ "issuer": "Kementerian Komunikasi dan Informatika",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "Alias",
+ "date_enacted": "2022-05-31",
+ "date_promulgated": "2022-07-04",
+ "date_effective": "2022-07-04",
+ "gazette": "BN.2021/No.638, https://jdih.kominfo.go.id/: 9 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 345088,
+   "label": "Permenkomdigi No. 6 Tahun 2026",
+   "about": "Organisasi dan Tata Kerja Sekretariat Dewan Pers"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 161448,
+   "label": "Permenkominfo No. 12/PER/M.KOMINFO/3/2011 Tahun 2011",
+   "about": "Organisasi dan Tata Kerja Sekretariat Dewan Pers"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Komunikasi dan Informatika ini mulai berlaku pada tanggal 04 Juli 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/223116/Salinan_PM_Kominfo_Nomor_8_Tahun_2022_OTK_Sekretariat_Dewan_Pers.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:15:57Z"
+}

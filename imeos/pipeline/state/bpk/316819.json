@@ -1,0 +1,51 @@
+{
+ "id": "PERMENKOMINFO-2019-9",
+ "source": "bpk",
+ "bpk_id": 316819,
+ "url": "https://peraturan.bpk.go.id/Details/316819/permenkominfo-no-9-tahun-2019",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Informatika",
+ "number": "9",
+ "number_raw": "9",
+ "year": 2019,
+ "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 9 Tahun 2019 tentang Persyaratan Teknis Alat dan/atau Perangkat Telekomunikasi Wavelength Division Multiplexing",
+ "about": "Persyaratan Teknis Alat dan/atau Perangkat Telekomunikasi Wavelength Division Multiplexing",
+ "issuer": "Kementerian Komunikasi dan Informatika",
+ "subject": "TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2019-09-05",
+ "date_promulgated": "2019-09-12",
+ "date_effective": "2019-09-12",
+ "gazette": "BN 2019 (1044); 22 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 316817,
+   "label": "Permenkomdigi No. 4 Tahun 2025",
+   "about": "Pencabutan 3 (Tiga) Peraturan Menteri Komunikasi dan Informatika"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 156854,
+   "label": "Permenkominfo No. 14 Tahun 2012",
+   "about": "Persyaratan Teknis Perangkat Telekomunikasi Dense-Wavelength Digital Multiplexer"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 155588,
+   "label": "Permenkominfo No. 11/PER/M.KOMINFO/4/2012 Tahun 2012",
+   "about": "Persyaratan Teknis Perangkat Telekomunikasi Coarse Wavelength Digital Multiplexer"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Komunikasi dan Informatika ini mulai berlaku pada tanggal 12 September 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/378125/Permenkominfo%209%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:16:54Z"
+}

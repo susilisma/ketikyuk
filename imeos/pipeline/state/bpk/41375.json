@@ -1,0 +1,89 @@
+{
+ "id": "PERPRES-2013-5",
+ "source": "bpk",
+ "bpk_id": 41375,
+ "url": "https://peraturan.bpk.go.id/Details/41375/perpres-no-5-tahun-2013",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "5",
+ "number_raw": "5",
+ "year": 2013,
+ "title": "Peraturan Presiden (Perpres) Nomor 5 Tahun 2013 tentang Hak Keuangan dan Fasilitas Hakim Ad Hoc",
+ "about": "Hak Keuangan dan Fasilitas Hakim Ad Hoc",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA",
+ "field": "Alias",
+ "date_enacted": "2013-01-10",
+ "date_promulgated": "2013-01-11",
+ "date_effective": "2013-01-11",
+ "gazette": "LN.2013/NO.13, LL SETKAB : 9 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2026-5",
+   "target_bpk_id": 347929,
+   "label": "Perpres No. 5 Tahun 2026",
+   "about": "Hak Keuangan dan Fasilitas Hakim Ad Hoc"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2023-42",
+   "target_bpk_id": 252136,
+   "label": "PERPRES No. 42 Tahun 2023",
+   "about": "Perubahan atas Peraturan Presiden Nomor 5 Tahun 2013 tentang Hak Keuangan dan Fasilitas Hakim Ad Hoc"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2011-20",
+   "target_bpk_id": 41152,
+   "label": "PERPRES No. 20 Tahun 2011",
+   "about": "Perubahan atas Peraturan Presiden Nomor 96 Tahun 2006 tentang Tunjangan dan Hak-hak Lainnya bagi Hakim Ad Hoc pada Pengadilan Hubungan Industrial"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2010-87",
+   "target_bpk_id": 41104,
+   "label": "PERPRES No. 87 Tahun 2010",
+   "about": "Perubahan atas Peraturan Presiden Nomor 23 Tahun 2008 tentang Uang Kehormatan dan Hak-Hak Lainnya bagi Hakim Ad Hoc pada Pengadilan Perikanan di Pengadilan Negeri"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2010-86",
+   "target_bpk_id": 41106,
+   "label": "PERPRES No. 86 Tahun 2010",
+   "about": "Perubahan atas Peraturan Presiden Nomor 49 Tahun 2005 tentang Uang Kehormatan bagi Hakim pada Pengadilan Tindak Pidana Korupsi"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2008-23",
+   "target_bpk_id": 42208,
+   "label": "PERPRES No. 23 Tahun 2008",
+   "about": "Uang Kehormatan dan Hak-hak Lainnya bagi Hakim Ad Hoc pada Pengadilan Perikanan di Pengadilan Negeri"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2006-96",
+   "target_bpk_id": 42030,
+   "label": "PERPRES No. 96 Tahun 2006",
+   "about": "Tunjangan dan Hak-Hak Lainnya Bagi Hakim Ad Hoc Pada Pengadilan Hubungan Industrial"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2005-49",
+   "target_bpk_id": 42578,
+   "label": "PERPRES No. 49 Tahun 2005",
+   "about": "Uang Kehormatan Bagi Hakim Pada Pengadilan Tindak Pidana Korupsi"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 11 Januari 2013.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/67625/Perpres%2005%202013.pdf",
+  "https://peraturan.bpk.go.id/Download/67626/Perpres%2005%202013%20-%20Lampiran1.pdf",
+  "https://peraturan.bpk.go.id/Download/67627/Perpres%2005%202013%20-%20Lampiran2.pdf",
+  "https://peraturan.bpk.go.id/Download/67628/Perpres%2005%202013%20-%20Lampiran3.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:00:37Z"
+}

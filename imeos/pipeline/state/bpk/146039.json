@@ -1,0 +1,37 @@
+{
+ "id": "PERMENAKER-2015-40",
+ "source": "bpk",
+ "bpk_id": 146039,
+ "url": "https://peraturan.bpk.go.id/Details/146039/permenaker-no-40-tahun-2015",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "40",
+ "number_raw": "40",
+ "year": 2015,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 40 Tahun 2015 tentang Tata Cara Perpanjangan Perjanjian Kerja pada Pengguna Perseorangan",
+ "about": "Tata Cara Perpanjangan Perjanjian Kerja pada Pengguna Perseorangan",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "KETENAGAKERJAAN - KEWARGANEGARAAN DAN IMIGRASI",
+ "field": "Alias",
+ "date_enacted": "2015-12-31",
+ "date_promulgated": "2015-12-31",
+ "date_effective": "2015-12-31",
+ "gazette": "BN.2015/No.2072, jdih.kemnaker.go.id : 9 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENAKER-2026-2",
+   "target_bpk_id": 344084,
+   "label": "Permenaker No. 2 Tahun 2026",
+   "about": "Pencabutan Peraturan Menteri Ketenagakerjaan Bidang Penempatan dan Pelindungan Pekerja Migran Indonesia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Ketenagakerjaan Republik Indonesia ini mulai berlaku pada tanggal 31 Desember 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/252004/Kemnaker%20No.%2040%20Tahun%202015.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:14:49Z"
+}

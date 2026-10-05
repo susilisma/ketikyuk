@@ -1,0 +1,45 @@
+{
+ "id": "PMK-2025-16",
+ "source": "bpk",
+ "bpk_id": 314173,
+ "url": "https://peraturan.bpk.go.id/Details/314173/pmk-no-16-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "16",
+ "number_raw": "16",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 16 Tahun 2025 tentang Rincian Dana Bagi Hasil Cukai Hasil Tembakau Menurut Daerah Provinsi/Kabupaten/Kota Tahun Anggaran 2025",
+ "about": "Rincian Dana Bagi Hasil Cukai Hasil Tembakau Menurut Daerah Provinsi/Kabupaten/Kota Tahun Anggaran 2025",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-02-14",
+ "date_promulgated": "2025-02-20",
+ "date_effective": "2025-02-20",
+ "gazette": "BN.2025 (113)/15 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2024-6",
+   "target_bpk_id": 279077,
+   "label": "PMK No. 6 Tahun 2024",
+   "about": "Rincian Dana Bagi Hasil Cukai Hasil Tembakau Menurut Daerah Provinsi/Kabupaten/Kota Tahun Anggaran 2024"
+  }
+ ],
+ "abstract": "a. bahwa berdasarkan Peraturan Presiden Nomor 201 Tahun 2024 tentang Rincian Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2025, telah ditetapkan rincian dana bagi hasil cukai hasil tembakau tahun anggaran 2025 menurut total per provinsi;\nb. bahwa berdasarkan ketentuan Pasal 66A ayat (4) Undang-Undang Nomor 11 Tahun 1995 tentang Cukai sebagaimana telah diubah dengan Undang-Undang Nomor 39 Tahun 2007 tentang Perubahan atas Undang-Undang Nomor 11 Tahun 1995 tentang Cukai, gubernur mengatur pembagian dana bagi hasil cukai hasil tembakau kepada bupati/wali kota di daerahnya masing-masing berdasarkan besaran kontribusi penerimaan cukai hasil tembakaunya dengan persetujuan Menteri;\nc. bahwa berdasarkan ketentuan Pasal 24 ayat (1) Peraturan Menteri Keuangan Nomor 67 Tahun 2024 tentang Pengelolaan Dana Bagi Hasil dan Dana Alokasi Umum, persetujuan atas penetapan pembagian dana bagi hasil cukai hasil tembakau untuk daerah provinsi/kabupaten/kota yang diusulkan oleh gubernur kepada Menteri Keuangan ditetapkan dengan Peraturan Menteri;\nd. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Menteri Keuangan tentang Rincian Dana Bagi Hasil Cukai Hasil Tembakau Menurut Daerah Provinsi/Kabupaten/Kota Tahun Anggaran 2025;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 11 Tahun 1995, Undang-Undang Nomor 39 Tahun 2008, Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Presiden Nomor 201 Tahun 2024, Peraturan Menteri Keuangan Nomor 67 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengatur tentang Dana Bagi Hasil Cukai Hasil Tembakau, rincian Dana Bagi Hasil Cukai Hasil Tembakau dan penyaluran",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 20 Februari 2025.\nPeraturan Menteri Keuangan Nomor 6 Tahun 2024 tentang Rincian Dana Bagi Hasil Cukai Hasil Tembakau Menurut Daerah Provinsi/Kabupaten/Kota Tahun Anggaran 2024 dicabut dan dinyatakan tidak berlaku",
+ "citations": [
+  "PERPRES-2024-201",
+  "UU-1995-11",
+  "UU-2007-39",
+  "PMK-2024-67",
+  "UU-2008-39",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/375100/2025pmkeuangan016.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:09:28Z"
+}

@@ -1,0 +1,212 @@
+{
+ "id": "PERMENKES-2018-26",
+ "source": "bpk",
+ "bpk_id": 111928,
+ "url": "https://peraturan.bpk.go.id/Details/111928/permenkes-no-26-tahun-2018",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "26",
+ "number_raw": "26",
+ "year": 2018,
+ "title": "Peraturan Menteri Kesehatan Nomor 26 Tahun 2018 tentang Pelayanan Perizinan Berusaha Terintegrasi Secara Elektronik Sektor Kesehatan",
+ "about": "Pelayanan Perizinan Berusaha Terintegrasi Secara Elektronik Sektor Kesehatan",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - PERIZINAN, PELAYANAN PUBLIK",
+ "field": "Alias",
+ "date_enacted": "2018-07-12",
+ "date_promulgated": "2018-07-12",
+ "date_effective": "2018-07-12",
+ "gazette": "BN.2018/NO.887, kemenkes.go.id : 98 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2025-11",
+   "target_bpk_id": 335213,
+   "label": "Permenkes No. 11 Tahun 2025",
+   "about": "Standar Kegiatan Usaha dan Standar Produk/Jasa pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Subsektor Kesehatan"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2019-30",
+   "target_bpk_id": 138624,
+   "label": "Permenkes No. 30 Tahun 2019",
+   "about": "Klasifikasi dan Perizinan Rumah Sakit"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2014-93",
+   "target_bpk_id": 129832,
+   "label": "Permenkes No. 93 Tahun 2014",
+   "about": "Pelaksanaan Pelayanan Terpadu Satu Pintu Bidang Kesehatan di Badan Koordinasi Penanaman Modal"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENKES-2017-9",
+   "target_bpk_id": 111973,
+   "label": "Permenkes No. 9 Tahun 2017",
+   "about": "Apotek"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENKES-2017-62",
+   "target_bpk_id": 112243,
+   "label": "Permenkes No. 62 Tahun 2017",
+   "about": "Izin Edar Alat Kesehatan, Alat Kesehatan Diagnostik In Vitro dan Perbekalan Kesehatan Rumah Tangga"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENKES-2017-50",
+   "target_bpk_id": 112145,
+   "label": "Permenkes No. 50 Tahun 2017",
+   "about": "Standar Baku Mutu Kesehatan Lingkungan dan Persyaratan Kesehatan untuk Vektor dan Binatang Pembawa Penyakit  Serta Pengendaliannya"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENKES-2017-30",
+   "target_bpk_id": 112085,
+   "label": "Permenkes No. 30 Tahun 2017",
+   "about": "Perubahan Kedua atas Peraturan Menteri Kesehatan Nomor 1148/Menkes/Per/VI/2011 tentang Pedagang Besar Farmasi"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENKES-2015-54",
+   "target_bpk_id": 116264,
+   "label": "Permenkes No. 54 Tahun 2015",
+   "about": "Pengujian dan Kalibrasi Alat Kesehatan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENKES-2014-9",
+   "target_bpk_id": 117304,
+   "label": "Permenkes No. 9 Tahun 2014",
+   "about": "Klinik"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENKES-2014-70",
+   "target_bpk_id": 129901,
+   "label": "Permenkes No. 70 Tahun 2014",
+   "about": "Perusahaan Rumah Tangga Alat Kesehatan dan Perbekalan Kesehatan Rumah Tangga"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENKES-2014-56",
+   "target_bpk_id": 129900,
+   "label": "Permenkes No. 56 Tahun 2014",
+   "about": "Klasifikasi dan Perizinan Rumah Sakit"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENKES-2014-34",
+   "target_bpk_id": 117570,
+   "label": "Permenkes No. 34 Tahun 2014",
+   "about": "Perubahan atas Peraturan Menteri Kesehatan Nomor 1148/Menkes/Per/VI/2011 Tentang  Pedagang Besar Farmasi"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENKES-2014-24",
+   "target_bpk_id": 117561,
+   "label": "Permenkes No. 24 Tahun 2014",
+   "about": "Rumah Sakit Kelas D Pratama"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENKES-2013-63",
+   "target_bpk_id": 129898,
+   "label": "Permenkes No. 63 Tahun 2013",
+   "about": "Perubahan atas Peraturan Menteri Kesehatan Nomor 1175/MENKES/PER/VIII/2010 tentang Izin Produksi Kosmetika"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENKES-2013-62",
+   "target_bpk_id": 129897,
+   "label": "Permenkes No. 62 Tahun 2013",
+   "about": "Penyelenggaraan Bank Jaringan dan/atau Sel"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENKES-2013-16",
+   "target_bpk_id": 129892,
+   "label": "Permenkes No. 16 Tahun 2013",
+   "about": "Perubahan atas Peraturan Menteri Kesehatan Nomor 1799/MENKES/PER/XII/2010 tentang Industri Farmasi"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENKES-2013-10",
+   "target_bpk_id": 129891,
+   "label": "Permenkes No. 10 Tahun 2013",
+   "about": "Impor dan Ekspor Narkotika, Psikotropika, dan Prekursor Farmasi"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENKES-2012-6",
+   "target_bpk_id": 129888,
+   "label": "Permenkes No. 6 Tahun 2012",
+   "about": "Industri dan Usaha Obat Tradisional"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENKES-2012-50",
+   "target_bpk_id": 129890,
+   "label": "Permenkes No. 50 Tahun 2012",
+   "about": "Penyelenggaraan Laboratorium Pengolahan Sel Punca untuk Aplikasi Klinis"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENKES-2012-48",
+   "target_bpk_id": 129889,
+   "label": "Permenkes No. 48 Tahun 2012",
+   "about": "Penyelenggaraan Bank Sel Punca Darah Tali Pusat"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENKES-2011-1148",
+   "target_bpk_id": 129886,
+   "label": "Permenkes No. 1148/MENKES/PER/VI/2011 Tahun 2011",
+   "about": "Pedagang Besar Farmasi"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENKES-2010-411",
+   "target_bpk_id": 129877,
+   "label": "Permenkes No. 411/MENKES/PER/III/2010 Tahun 2010",
+   "about": "Laboratorium Klinik"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENKES-2010-1799",
+   "target_bpk_id": 129885,
+   "label": "Permenkes No. 1799/MENKES/PER/XII/2010 Tahun 2010",
+   "about": "Industri Farmasi"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENKES-2010-1191",
+   "target_bpk_id": 129882,
+   "label": "Permenkes No. 1191/MENKES/PER/VIII/2010 Tahun 2010",
+   "about": "Penyaluran Alat Kesehatan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENKES-2010-1189",
+   "target_bpk_id": 129880,
+   "label": "Permenkes No. 1189/MENKES/PER/VIII/2010 Tahun 2010",
+   "about": "Produksi Alat Kesehatan dan Perbekalan Kesehatan Rumah Tangga"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENKES-2010-1175",
+   "target_bpk_id": 129878,
+   "label": "Permenkes No. 1175/MENKES/PER/VIII/2010 Tahun 2010",
+   "about": "Izin Produksi Kosmetika"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 12 Juli 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/102876/Permenkes%20Nomor%2026%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:24:19Z"
+}

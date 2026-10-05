@@ -1,0 +1,51 @@
+{
+ "id": "PERMENKUMHAM-2020-9",
+ "source": "bpk",
+ "bpk_id": 174002,
+ "url": "https://peraturan.bpk.go.id/Details/174002/permenkumham-no-9-tahun-2020",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "9",
+ "number_raw": "9",
+ "year": 2020,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 9 Tahun 2020 tentang Syarat dan Tata Cara Pengenaan Tarif Nol Rupiah dan Nol Dollar Amerika terhadap Pelayanan Keimigrasian",
+ "about": "Syarat dan Tata Cara Pengenaan Tarif Nol Rupiah dan Nol Dollar Amerika terhadap Pelayanan Keimigrasian",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "KEWARGANEGARAAN DAN IMIGRASI - PNBP / PENERIMAAN NEGARA BUKAN PAJAK - PERIZINAN, PELAYANAN PUBLIK - STANDAR / PEDOMAN",
+ "field": "Alias",
+ "date_enacted": "2020-03-30",
+ "date_promulgated": "2020-04-03",
+ "date_effective": "2020-04-03",
+ "gazette": "BN.2020/No.327, peraturan.go.id : 28 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 352471,
+   "label": "Permen Imipas No. 14 Tahun 2025",
+   "about": "Persyaratan dan Tata Cara Pengenaan Tarif Nol Rupiah Terhadap Pelayanan Keimigrasian dan Biaya Beban"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133160,
+   "label": "Permenkumham No. 20 Tahun 2018",
+   "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 25 Tahun 2016 tentang Syarat dan Tata Cara Pengenaan Tarif Nol Rupiah dan Nol Dollar Amerika Terhadap Layanan Keimigrasian"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133249,
+   "label": "Permenkumham No. 25 Tahun 2016",
+   "about": "Syarat dan Tata Cara Pengenaan Tarif Nol Rupiah dan Nol Dollar Amerika Terhadap Layanan Keimigrasian"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 03 April 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/167197/9%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:20:54Z"
+}

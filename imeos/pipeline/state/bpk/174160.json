@@ -1,0 +1,58 @@
+{
+ "id": "PERMENKUMHAM-2021-21",
+ "source": "bpk",
+ "bpk_id": 174160,
+ "url": "https://peraturan.bpk.go.id/Details/174160/permenkumham-no-21-tahun-2021",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "21",
+ "number_raw": "21",
+ "year": 2021,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 21 Tahun 2021 tentang Syarat dan Tata Cara Pendaftaran Pendirian, Perubahan, dan Pembubaran Badan Hukum Perseroan Terbatas",
+ "about": "Syarat dan Tata Cara Pendaftaran Pendirian, Perubahan, dan Pembubaran Badan Hukum Perseroan Terbatas",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "Alias",
+ "date_enacted": "2021-04-30",
+ "date_promulgated": "2021-04-30",
+ "date_effective": "2021-04-30",
+ "gazette": "BN.2021/No.470, peraturan.go.id : 19 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 350901,
+   "label": "Permenkum No. 49 Tahun 2025",
+   "about": "Syarat dan Tata Cara Pendirian, Perubahan, dan Pembubaran Badan Hukum Perseroan Terbatas"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 174035,
+   "label": "Permenkumham No. 14 Tahun 2020",
+   "about": "Perubahan Kedua atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 4 Tahun 2014 tentang Tata Cara Pengajuan Permohonan Pengesahan Badan Hukum dan Persetujuan Perubahan Anggaran Dasar serta Penyampaian Pemberitahuan Perubahan Anggaran Dasar dan Perubahan Data Perseroan Terbatas"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133225,
+   "label": "Permenkumham No. 1 Tahun 2016",
+   "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 4 Tahun 2014 Tentang Tata Cara Pengajuan Permohonan Pengesahan Badan Hukum dan Persetujuan Perubahan Anggaran Dasar Serta Penyampaian Pemberitahuan Perubahan Anggaran Dasar dan Perubahan Data Perseroan Terbatas"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133331,
+   "label": "Permenkumham No. 4 Tahun 2014",
+   "about": "Tata Cara Pengajuan Permohonan Pengesahan Badan Hukum dan Persetujuan Perubahan Anggaran Dasar Serta Penyampaian Pemberitahuan Perubahan Anggaran Dasar dan Perubahan Data Perseroan Terbatas"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 30 April 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/167357/21%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:18:21Z"
+}

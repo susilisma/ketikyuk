@@ -1,0 +1,51 @@
+{
+ "id": "PERMENKUM-2025-27",
+ "source": "bpk",
+ "bpk_id": 326273,
+ "url": "https://peraturan.bpk.go.id/Details/326273/permenkum-no-27-tahun-2025",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "27",
+ "number_raw": "27",
+ "year": 2025,
+ "title": "Peraturan Menteri Hukum Nomor 27 Tahun 2025 tentang Peraturan Pelaksanaan Peraturan Pemerintah Nomor 56 Tahun 2021 tentang Pengelolaan Royalti Hak Cipta Lagu dan/atau Musik",
+ "about": "Peraturan Pelaksanaan Peraturan Pemerintah Nomor 56 Tahun 2021 tentang Pengelolaan Royalti Hak Cipta Lagu dan/atau Musik",
+ "issuer": "Kementerian Hukum",
+ "subject": "HAK ATAS KEKAYAAN INTELEKTUAL",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2025-08-07",
+ "date_promulgated": "2025-08-07",
+ "date_effective": "2025-08-07",
+ "gazette": "BN 2025 (580): 31 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 225558,
+   "label": "Permenkumham No. 9 Tahun 2022",
+   "about": "Pelaksanaan Peraturan Pemerintah Nomor 56 Tahun 2021 tentang Pengelolaan Royalti Hak Cipta Lagu dan/atau Musik"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": null,
+   "target_bpk_id": 133176,
+   "label": "Permenkumham No. 36 Tahun 2018",
+   "about": "Tata Cara Permohonan dan Penerbitan Izin Operasional Serta Evaluasi Lembaga Manajemen Kolektif"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 3 ayat (3), Pasal 15 ayat (4), Pasal 18 ayat (5), dan Pasal 19 ayat (3) Peraturan Pemerintah Nomor 56 Tahun 2021 tentang Pengelolaan Royalti Hak Cipta Lagu dan/atau Musik telah diberlakukan Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 9 Tahun 2022 tentang Peraturan Pelaksanaan Peraturan Pemerintah Nomor 56 Tahun 2021 tentang Pengelolaan Royalti Hak Cipta Lagu dan/atau Musik, perlu dilakukan penyesuaian dengan kebutuhan perkembangan hukum di masyarakat, sehingga perlu diganti.\nDasar hukum Permenkum ini adalah Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU No. 39 Tahun 2008; UU No. 28 Tahun 2014; PP No. 56 Tahun 2014; Perpres No. 155 Tahun 2024; dan Permenkum No. 1 Tahun 2024.\nPermenkum ini mengatur mengenai Peraturan Pelaksanaan Peraturan Pemerintah Nomor 56 Tahun 2021 tentang Pengelolaan Royalti Hak Cipta Lagu dan/atau Musik. Untuk Pengelolaan Royalti, Menteri membentuk LMKN yang merepresentasikan kepentingan Pencipta dan pemilik Hak Terkait. LMKN Pencipta dan LMKN pemilik Hak Terkait memiliki kewenangan untuk menarik, menghimpun, dan mendistribusikan Royalti dari Orang yang melakukan Penggunaan Secara Komersial.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 07 Agustus 2025.\nPada saat Peraturan Menteri ini mulai berlaku: a. Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 36 Tahun 2018 tentang Tata Cara Permohonan dan Penerbitan Izin Operasional serta Evaluasi Lembaga Manajemen Kolektif (Berita Negara Republik Indonesia Tahun 2018 Nomor 1786) terkait ketentuan izin operasional LMK di bidang lagu dan/atau musik; dan b. Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 9 Tahun 2022 tentang Peraturan Pelaksanaan Peraturan Pemerintah Nomor 56 Tahun 2021 tentang Pengelolaan Royalti Hak Cipta Lagu dan/atau Musik (Berita Negara Republik Indonesia Tahun 2022 Nomor 437), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 31 hlm.",
+ "citations": [
+  "PP-2021-56",
+  "PERMENKUMHAM-2022-9",
+  "UU-2008-39",
+  "UU-2014-28",
+  "PP-2014-56",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/388082/Permenkum%20Nomor%2027%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:19:13Z"
+}

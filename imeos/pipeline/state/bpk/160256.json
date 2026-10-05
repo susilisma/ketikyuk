@@ -12,7 +12,7 @@
  "about": "Barang dan Persyaratan Barang yang Dapat Disimpan dalam Sistem Resi Gudang",
  "issuer": "Kementerian Perdagangan",
  "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2020-03-24",
  "date_promulgated": "2020-03-26",
  "date_effective": "2020-03-26",
@@ -75,5 +75,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/152846/Permendag%20Nomor%2033%20Tahun%202020.pdf"
  ],
- "fetched_at": "2026-09-14T06:35:55Z"
+ "fetched_at": "2026-10-05T05:10:07Z"
 }

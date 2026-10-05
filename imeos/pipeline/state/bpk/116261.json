@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKES-2015-53",
+ "source": "bpk",
+ "bpk_id": 116261,
+ "url": "https://peraturan.bpk.go.id/Details/116261/permenkes-no-53-tahun-2015",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "53",
+ "number_raw": "53",
+ "year": 2015,
+ "title": "Peraturan Menteri Kesehatan Nomor 53 Tahun 2015 tentang Penanggulangan Hepatitis Virus",
+ "about": "Penanggulangan Hepatitis Virus",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - BANTUAN, SUMBANGAN, BENCANA / KEBENCANAAN, DAN PENANGGULANGAN BENCANA",
+ "field": "Alias",
+ "date_enacted": "2015-07-15",
+ "date_promulgated": "2015-07-30",
+ "date_effective": "2015-07-30",
+ "gazette": "BN.2015/NO. 1126, kemenkes.go.id : 8 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PERMENKES-2026-3",
+   "target_bpk_id": 350854,
+   "label": "Permenkes No. 3 Tahun 2026",
+   "about": "Penanggulangan Penyakit"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 30 Juli 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/107177/Permenkes%20Nomor%2053%20Tahun%202015.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:23:06Z"
+}

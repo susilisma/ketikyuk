@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKES-2016-18",
+ "source": "bpk",
+ "bpk_id": 113053,
+ "url": "https://peraturan.bpk.go.id/Details/113053/permenkes-no-18-tahun-2016",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "18",
+ "number_raw": "18",
+ "year": 2016,
+ "title": "Peraturan Menteri Kesehatan Nomor 18 Tahun 2016 tentang Izin Dan Penyelenggaraan Praktik Penata Anestesi",
+ "about": "Izin Dan Penyelenggaraan Praktik Penata Anestesi",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - PERIZINAN, PELAYANAN PUBLIK",
+ "field": "Alias",
+ "date_enacted": "2016-04-04",
+ "date_promulgated": "2016-05-11",
+ "date_effective": "2016-05-11",
+ "gazette": "BN.2016/NO. 719, kemenkes.go.id : 16 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2025-13",
+   "target_bpk_id": 335214,
+   "label": "Permenkes No. 13 Tahun 2025",
+   "about": "Pengelolaan Sumber Daya Manusia Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2013-31",
+   "target_bpk_id": 153869,
+   "label": "Permenkes No. 31 Tahun 2013",
+   "about": "Penyelenggaraan Pekerjaan perawat Anestesi"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 11 Mei 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/104002/Permeneks%20Nomor%2018%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:24:01Z"
+}

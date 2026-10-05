@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKUMHAM-2018-4",
+ "source": "bpk",
+ "bpk_id": 133147,
+ "url": "https://peraturan.bpk.go.id/Details/133147/permenkumham-no-4-tahun-2018",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "4",
+ "number_raw": "4",
+ "year": 2018,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 4 Tahun 2018 tentang Organisasi dan Tata Kerja Balai Pendidikan Dan Pelatihan Hukum dan Hak Asasi Manusia",
+ "about": "Organisasi dan Tata Kerja Balai Pendidikan Dan Pelatihan Hukum dan Hak Asasi Manusia",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "Alias",
+ "date_enacted": "2018-12-15",
+ "date_promulgated": "2018-02-19",
+ "date_effective": "2018-02-19",
+ "gazette": "BN.2018/NO.283, peraturan.go.id: 8 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 357109,
+   "label": "Permenkum No. 2 Tahun 2026",
+   "about": "Organisasi dan Tata Kerja Balai Pelatihan Hukum"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 19 Februari 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/126716/Permenkumham%20Nomor%204%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:17:14Z"
+}

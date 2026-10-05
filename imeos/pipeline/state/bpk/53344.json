@@ -1,0 +1,44 @@
+{
+ "id": "PP-2000-61",
+ "source": "bpk",
+ "bpk_id": 53344,
+ "url": "https://peraturan.bpk.go.id/Details/53344/pp-no-61-tahun-2000",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "61",
+ "number_raw": "61",
+ "year": 2000,
+ "title": "Peraturan Pemerintah (PP) Nomor 61 Tahun 2000 tentang Perubahan Atas Peraturan Pemerintah Nomor 5 Tahun 1996 Tentang Hak Keuangan/Administratif Duta Besar Luar Biasa Dan Berkuasa Penuh Dan Mantan Duta Besar Luar Biasa Dan Berkuasa Penuh Serta Janda/Dudanya",
+ "about": "Perubahan Atas Peraturan Pemerintah Nomor 5 Tahun 1996 Tentang Hak Keuangan/Administratif Duta Besar Luar Biasa Dan Berkuasa Penuh Dan Mantan Duta Besar Luar Biasa Dan Berkuasa Penuh Serta Janda/Dudanya",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA - PELIMPAHAN KEWENANGAN / PENUGASAN PEJABAT NEGARA / PENUGASAN BUMN",
+ "field": "Alias",
+ "date_enacted": "2000-07-26",
+ "date_promulgated": "2000-07-26",
+ "date_effective": "2000-07-26",
+ "gazette": "LN. 2000 No. 123, LL SETNEG : 3 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2026-5",
+   "target_bpk_id": 347924,
+   "label": "PP No. 5 Tahun 2026",
+   "about": "Perubahan Kedua atas Peraturan Pemerintah Nomor 51 Tahun 1996 tentang Hak Keuangan/Administratif Duta Besar Luar Biasa dan Berkuasa Penuh dan Mantan Duta Besar Luar Biasa dan Berkuasa Penuh serta Janda/Dudanya"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PP-1996-5",
+   "target_bpk_id": 56433,
+   "label": "PP No. 5 Tahun 1996",
+   "about": "Hak Keuangan/Administratif Duta Besar Luar Biasa Dan Berkuasa Penuh Dan Mantan Duta Besar Luar Biasa Dan Berkuasa Penuh Serta Janda/Dudanya"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 26 Juli 2000.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/42726/PP%20No.61%20TH%202000.pdf"
+ ],
+ "fetched_at": "2026-10-05T04:57:29Z"
+}

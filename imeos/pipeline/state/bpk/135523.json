@@ -1,0 +1,37 @@
+{
+ "id": "PERATURANBI-2015-17",
+ "source": "bpk",
+ "bpk_id": 135523,
+ "url": "https://peraturan.bpk.go.id/Details/135523/peraturan-bi-no-178pbi2015-tahun-2015",
+ "form": "PERATURANBI",
+ "form_long": "Peraturan Bank Indonesia",
+ "number": "17",
+ "number_raw": "17/8/PBI/2015",
+ "year": 2015,
+ "title": "Peraturan Bank Indonesia Nomor 17/8/PBI/2015 Tahun 2015 tentang Pengaturan dan Pengawasan Moneter",
+ "about": "Pengaturan dan Pengawasan Moneter",
+ "issuer": "Bank Indonesia",
+ "subject": "PEREKONOMIAN - KEBIJAKAN PEMERINTAH",
+ "field": "Alias",
+ "date_enacted": "2015-05-29",
+ "date_promulgated": "2015-06-04",
+ "date_effective": "2015-06-04",
+ "gazette": "LN.2015/NO 121; PERATURAN.GO.ID : 6 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 317906,
+   "label": "Peraturan BI No. 5 Tahun 2025",
+   "about": "Kebijakan Moneter"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Bank Indonesia ini mulai berlaku pada tanggal 04 Juni 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/126376/Peraturan%20BI%20No.%2017-8-PBI%202015.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:31:07Z"
+}

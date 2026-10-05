@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKES-2014-70",
+ "source": "bpk",
+ "bpk_id": 129901,
+ "url": "https://peraturan.bpk.go.id/Details/129901/permenkes-no-70-tahun-2014",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "70",
+ "number_raw": "70",
+ "year": 2014,
+ "title": "Peraturan Menteri Kesehatan Nomor 70 Tahun 2014 tentang Perusahaan Rumah Tangga Alat Kesehatan dan Perbekalan Kesehatan Rumah Tangga",
+ "about": "Perusahaan Rumah Tangga Alat Kesehatan dan Perbekalan Kesehatan Rumah Tangga",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "Alias",
+ "date_enacted": "2014-10-01",
+ "date_promulgated": "2014-10-15",
+ "date_effective": "2014-10-15",
+ "gazette": "BN.2014/NO.1563/ kemkes.go.id : 9 Hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-5",
+   "target_bpk_id": 350852,
+   "label": "Permenkes No. 5 Tahun 2026",
+   "about": "Perbekalan Kesehatan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENKES-2018-26",
+   "target_bpk_id": 111928,
+   "label": "Permenkes No. 26 Tahun 2018",
+   "about": "Pelayanan Perizinan Berusaha Terintegrasi Secara Elektronik Sektor Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 15 Oktober 2014.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/120773/Permenkes%20Nomor%2070%20Tahun%202014.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:22:23Z"
+}

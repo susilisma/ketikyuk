@@ -1,0 +1,39 @@
+{
+ "id": "PERBPOM-2025-8",
+ "source": "bpk",
+ "bpk_id": 316278,
+ "url": "https://peraturan.bpk.go.id/Details/316278/peraturan-bpom-no-8-tahun-2025",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "8",
+ "number_raw": "8",
+ "year": 2025,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 8 Tahun 2025 tentang Pedoman Penilaian Produk Terapi Advanced",
+ "about": "Pedoman Penilaian Produk Terapi Advanced",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "STANDAR / PEDOMAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-03-06",
+ "date_promulgated": "2025-03-18",
+ "date_effective": "2025-03-18",
+ "gazette": "BN 2025 (203); 54 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 181782,
+   "label": "Peraturan BPOM No. 18 Tahun 2020",
+   "about": "Pedoman Penilaian Obat Berbasis Sel Manusia"
+  }
+ ],
+ "abstract": "bahwa berdasarkan ketentuan Pasal 3 ayat (1) huruf d\nPeraturan Presiden Nomor 80 Tahun 2017 tentang Badan\nPengawas Obat dan Makanan, Badan Pengawas Obat dan\nMakanan memiliki fungsi pelaksanaan tugas pengawasan\nsebelum beredar dan selama beredar\nDasar hukum peraturan ini adalah Perpres Nomor 80 Tahun 2017; Peraturan BPOM Nomor 21 Tahun 2020 sebagaimana telah diubah dengan Peraturan BPOM Nomor 13 Tahun 2022\nPeraturan ini mengatur mengenai pedoman penilaian Produk Terapi Advanced digunakan\nsebagai panduan bagi:\na. Evaluator dalam melakukan evaluasi dan/atau\npenilaian Produk Terapi Advanced; dan\nb. Pelaku Usaha dalam memenuhi persyaratan\nregistrasi Obat dan melakukan pengembangan\nProduk Terapi Advanced",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 18 Maret 2025.",
+ "citations": [
+  "PERPRES-2017-80"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/377527/peraturan-bpom-no-8-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:29:15Z"
+}

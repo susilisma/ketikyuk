@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKES-2017-28",
+ "source": "bpk",
+ "bpk_id": 112080,
+ "url": "https://peraturan.bpk.go.id/Details/112080/permenkes-no-28-tahun-2017",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "28",
+ "number_raw": "28",
+ "year": 2017,
+ "title": "Peraturan Menteri Kesehatan Nomor 28 Tahun 2017 tentang Izin Dan Penyelenggaraan Praktik Bidan",
+ "about": "Izin Dan Penyelenggaraan Praktik Bidan",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - PERIZINAN, PELAYANAN PUBLIK - JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "Alias",
+ "date_enacted": "2017-05-12",
+ "date_promulgated": "2017-07-13",
+ "date_effective": "2017-07-13",
+ "gazette": "BN.2017/NO.954, kemenkes.go.id : 48 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2025-13",
+   "target_bpk_id": 335214,
+   "label": "Permenkes No. 13 Tahun 2025",
+   "about": "Pengelolaan Sumber Daya Manusia Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 13 Juli 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/103030/Permenkes%20Nomor%2028%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:23:54Z"
+}

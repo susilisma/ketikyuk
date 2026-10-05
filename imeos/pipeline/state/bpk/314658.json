@@ -1,0 +1,49 @@
+{
+ "id": "PERMENAKER-2025-1",
+ "source": "bpk",
+ "bpk_id": 314658,
+ "url": "https://peraturan.bpk.go.id/Details/314658/permenaker-no-1-tahun-2025",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "1",
+ "number_raw": "1",
+ "year": 2025,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 1 Tahun 2025 tentang Perubahan atas Peraturan Menteri Ketenagakerjaan Nomor 5 Tahun 2021 tentang Tata Cara Penyelenggaraan Program Jaminan Kecelakaan Kerja, Jaminan Kematian, dan Jaminan Hari Tua",
+ "about": "Perubahan atas Peraturan Menteri Ketenagakerjaan Nomor 5 Tahun 2021 tentang Tata Cara Penyelenggaraan Program Jaminan Kecelakaan Kerja, Jaminan Kematian, dan Jaminan Hari Tua",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "KETENAGAKERJAAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-02-18",
+ "date_promulgated": "2025-02-24",
+ "date_effective": "2025-02-24",
+ "gazette": "BN 2025 (118); 39 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERMENAKER-2021-5",
+   "target_bpk_id": 195976,
+   "label": "Permenaker No. 5 Tahun 2021",
+   "about": "Tata Cara Penyelenggaraan Program Jaminan Kecelakaan Kerja, Jaminan Kematian, dan Jaminan Hari Tua"
+  }
+ ],
+ "abstract": "bahwa untuk melaksanakan ketentuan Pasal 25A dan\nPasal 25B Peraturan Pemerintah Nomor 49 Tahun\n2023 tentang Perubahan Kedua atas Peraturan\nPemerintah Nomor 44 Tahun 2015 tentang\nPenyelenggaraan Program Jaminan Kecelakaan Kerja\ndan Jaminan Kematian perlu dilakukan perubahan\nmengenai ketentuan penyelenggaraan program\njaminan kecelakaan kerja, jaminan kematian, dan\njaminan hari tua\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD 1945; UU Nomor 40 Tahun 2004; UU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024; PP Nomor 44 Tahun 2015 sebagaimana telah beberapa kali diubah terakhir denga PP Nomor 49 Tahun 2023; PP Nomor 46 Tahun 2015 sebagaimana telah diubah dengan PP Nomor 60 Tahun 2015; Perpres Nomor 109 Tahun 2013; Perpres Nomor 164 Tahun 2024; Permenaker Nomor 5 Tahun 2021; Permenaker Nomor 20 Tahun 2024\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri Ketenagakerjaan Nomor 5 Tahun 2021 tentang Tata Cara Penyelenggaraan Program Jaminan Kecelakaan Kerja, Jaminan Kematian, dan Jaminan Hari Tua",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 24 Februari 2025.",
+ "citations": [
+  "PP-2023-49",
+  "UU-2004-40",
+  "UU-2008-39",
+  "UU-2024-61",
+  "PP-2015-44",
+  "PP-2015-46",
+  "PP-2015-60",
+  "PERPRES-2013-109",
+  "PERPRES-2024-164",
+  "PERMENAKER-2021-5",
+  "PERMENAKER-2024-20"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/375649/permenaker-no-1-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:15:27Z"
+}

@@ -1,0 +1,44 @@
+{
+ "id": "PP-2012-49",
+ "source": "bpk",
+ "bpk_id": 5262,
+ "url": "https://peraturan.bpk.go.id/Details/5262/pp-no-49-tahun-2012",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "49",
+ "number_raw": "49",
+ "year": 2012,
+ "title": "Peraturan Pemerintah (PP) Nomor 49 Tahun 2012 tentang Perubahan Atas Peraturan Pemerintah Nomor 67 Tahun 2002 Tentang Badan Pengatur Penyediaan Dan Pendistribusian Bahan Bakar Minyak Dan Kegiatan Usaha Pengangkutan Gas Bumi Melalui Pipa",
+ "about": "Perubahan Atas Peraturan Pemerintah Nomor 67 Tahun 2002 Tentang Badan Pengatur Penyediaan Dan Pendistribusian Bahan Bakar Minyak Dan Kegiatan Usaha Pengangkutan Gas Bumi Melalui Pipa",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERTAMBANGAN MIGAS, MINERAL DAN ENERGI",
+ "field": "Alias",
+ "date_enacted": "2012-04-10",
+ "date_promulgated": "2012-04-12",
+ "date_effective": "2012-04-12",
+ "gazette": "LN. 2012 No. 95, TLN No. 5308, LL SETNEG : 5 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PP-2025-9",
+   "target_bpk_id": 314626,
+   "label": "PP No. 9 Tahun 2025",
+   "about": "Besaran dan Penggunaan Iuran Badan Usaha dalam Kegiatan Usaha Minyak dan Gas Bumi pada Badan Pengatur Hilir Minyak dan Gas Bumi"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PP-2002-67",
+   "target_bpk_id": 52618,
+   "label": "PP No. 67 Tahun 2002",
+   "about": "Badan Pengatur Penyediaan Dan Pendistribusian Bahan Bakar Minyak Dan Kegiatan Usaha Pengangkutan Gas Bumi Melalui Pipa"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 12 April 2012.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/35124/PP%20Nomor%2049%20Tahun%202012.pdf"
+ ],
+ "fetched_at": "2026-10-05T04:59:15Z"
+}

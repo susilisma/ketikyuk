@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKES-2015-43",
+ "source": "bpk",
+ "bpk_id": 116243,
+ "url": "https://peraturan.bpk.go.id/Details/116243/permenkes-no-43-tahun-2015",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "43",
+ "number_raw": "43",
+ "year": 2015,
+ "title": "Peraturan Menteri Kesehatan Nomor 43 Tahun 2015 tentang Penyelenggaraan Pelayanan Reproduksi Dengan Bantuan Atau Kehamilan Di Luar Cara Alamiah",
+ "about": "Penyelenggaraan Pelayanan Reproduksi Dengan Bantuan Atau Kehamilan Di Luar Cara Alamiah",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KEPENDUDUKAN DAN PERKAWINAN - KESEHATAN",
+ "field": "Alias",
+ "date_enacted": "2015-05-27",
+ "date_promulgated": "2015-06-10",
+ "date_effective": "2015-06-10",
+ "gazette": "BN.2015/NO. 868, kemenkes.go.id : 13 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2025-2",
+   "target_bpk_id": 314518,
+   "label": "Permenkes No. 2 Tahun 2025",
+   "about": "Penyelenggaraan Upaya Kesehatan Reproduksi"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 10 Juni 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/107161/Permenkes%20Nomor%2043%20Tahun%202015.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:24:37Z"
+}

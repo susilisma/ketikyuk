@@ -1,0 +1,52 @@
+{
+ "id": "PMK-2024-62",
+ "source": "bpk",
+ "bpk_id": 301469,
+ "url": "https://peraturan.bpk.go.id/Details/301469/pmk-no-62-tahun-2024",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "62",
+ "number_raw": "62",
+ "year": 2024,
+ "title": "Peraturan Menteri Keuangan Nomor 62 Tahun 2024 tentang Tarif Layanan Badan Layanan Umum Badan Pengelola Dana Perkebunan Kelapa Sawit Pada Kementerian Keuangan",
+ "about": "Tarif Layanan Badan Layanan Umum Badan Pengelola Dana Perkebunan Kelapa Sawit Pada Kementerian Keuangan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BUMD / BADAN USAHA MILIK DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-09-11",
+ "date_promulgated": "2024-09-19",
+ "date_effective": "2024-09-22",
+ "gazette": "BN.2024 (561)/12 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-30",
+   "target_bpk_id": 319300,
+   "label": "PMK No. 30 Tahun 2025",
+   "about": "Tarif Layanan Badan Layanan Umum  Badan Pengelola Dana Perkebunan Pada Kementerian Keuangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2022-103",
+   "target_bpk_id": 216350,
+   "label": "PMK No. 103/PMK.05/2022",
+   "about": "Tarif Layanan Badan Layanan Umum Badan Pengelola Dana Perkebunan Kelapa Sawit pada Kementerian Keuangan"
+  }
+ ],
+ "abstract": "a. bahwa untuk meningkatkan daya saing harga komoditas kelapa sawit dan memberikan nilai tambah harga tandan buah segar di tingkat petani diperlukan penyesuaian nilai pungutan dana perkebunan atas ekspor kelapa sawit, crude palm oil, dan/atau produk turunannya melalui pengaturan tarif layanan atas barang atau jasa yang diberikan oleh Badan Layanan Umum Badan Pengelola Dana Perkebunan Kelapa Sawit pada Kementerian Keuangan;\nb. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan sesuai dengan ketentuan\nPasal 9 ayat (8) Peraturan Pemerintah Nomor 23 Tahun\n2005 tentang Pengelolaan Keuangan Badan Layanan\nUmum sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 74 Tahun 2012 tentang Perubahan atas Peraturan Pemerintah Nomor 23 Tahun 2005 tentang Pengelolaan Keuangan Badan Layanan Umum, perlu menetapkan Peraturan Menteri Keuangan tentang Tarif Layanan Badan Layanan Umum Badan Pengelola Dana Perkebunan Kelapa Sawit pada Kementerian Keuangan;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 1 Tahun 2004, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 23 Tahun 2005, Peraturan Presiden Nomor 57 Tahun 2020, Peraturan Menteri Keuangan Nomor 129/PMK.05/2020 dan Peraturan Menteri Keuangan Nomor 118/PMK.01/2021\nPeraturan ini mengatur tentang Tarif layanan Badan Layanan Umum Badan Pengelola Dana Perkebunan Kelapa Sawit, tarif pungutan dan Jumlah satuan barang/produk dan jasa layanan di bidang perkebunan kelapa sawit",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 22 September 2024.\nPeraturan Menteri Keuangan Nomor 103/PMK.05/2022 tentang Tarif Badan Layanan Umum Badan Pengelola Dana Perkebunan Kelapa Sawit pada Kementerian Keuangan sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 154/PMK.05/2022 tentang\nPerubahan Ketiga atas Peraturan Menteri Keuangan Nomor 103/PMK.05/2022 tentang Tarif Layanan Badan Layanan Umum Badan Pengelola Dana Perkebunan Kelapa Sawit pada Kementerian Keuangan dicabut dan dinyatakan tidak berlaku",
+ "citations": [
+  "PP-2005-23",
+  "PP-2012-74",
+  "UU-2004-1",
+  "UU-2008-39",
+  "PERPRES-2020-57",
+  "PMK-2020-129",
+  "PMK-2021-118"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/361293/2024pmkeuangan062.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:08:34Z"
+}

@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKUMHAM-2019-10",
+ "source": "bpk",
+ "bpk_id": 133125,
+ "url": "https://peraturan.bpk.go.id/Details/133125/permenkumham-no-10-tahun-2019",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "10",
+ "number_raw": "10",
+ "year": 2019,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 10 Tahun 2019 tentang Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Republik Indonesia Nomor 3 Tahun 2016 tentang Tata Cara Pengajuan Permohonan Pengesahan Badan Hukum dan Persetujuan Perubahan Anggaran Dasar Perkumpulan",
+ "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Republik Indonesia Nomor 3 Tahun 2016 tentang Tata Cara Pengajuan Permohonan Pengesahan Badan Hukum dan Persetujuan Perubahan Anggaran Dasar Perkumpulan",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "PERIZINAN, PELAYANAN PUBLIK - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "Alias",
+ "date_enacted": "2019-06-14",
+ "date_promulgated": "2019-06-19",
+ "date_effective": "2019-06-19",
+ "gazette": "BN.2019/NO.660, peraturan.go.id : 6 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 326227,
+   "label": "Permenkum No. 18 Tahun 2025",
+   "about": "Tata Cara Pengajuan Permohonan Pengesahan, Persetujuan Perubahan Anggaran Dasar, dan Berakhirnya Status Badan Hukum Perkumpulan"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 133227,
+   "label": "Permenkumham No. 3 Tahun 2016",
+   "about": "Tata Cara Pengajuan Permohonan Pengesahan Badan Hukum dan Persetujuan Perubahan Anggaran Dasar Perkumpulan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 19 Juni 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/123912/Permenkumham%20Nomor%2010%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:19:37Z"
+}

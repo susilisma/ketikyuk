@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKUMHAM-2016-67",
+ "source": "bpk",
+ "bpk_id": 133289,
+ "url": "https://peraturan.bpk.go.id/Details/133289/permenkumham-no-67-tahun-2016",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "67",
+ "number_raw": "67",
+ "year": 2016,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 67 Tahun 2016 tentang Pendaftaran Merek",
+ "about": "Pendaftaran Merek",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "HAK ASASI MANUSIA",
+ "field": "Alias",
+ "date_enacted": "2016-12-30",
+ "date_promulgated": "2016-12-30",
+ "date_effective": "2017-01-30",
+ "gazette": "BN.2016/No.2134, peraturan.go.id : 28 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 357117,
+   "label": "Permenkum No. 5 Tahun 2026",
+   "about": "Pendaftaran Merek"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 170959,
+   "label": "Permenkumham No. 12 Tahun 2021",
+   "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 67 Tahun 2016 Tentang Pendaftaran Merek"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 30 Januari 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/124076/Permenkumham%20Nomor%2067%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:17:24Z"
+}

@@ -1,0 +1,51 @@
+{
+ "id": "PERMENKES-2022-8",
+ "source": "bpk",
+ "bpk_id": 218295,
+ "url": "https://peraturan.bpk.go.id/Details/218295/permenkes-no-8-tahun-2022",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "8",
+ "number_raw": "8",
+ "year": 2022,
+ "title": "Peraturan Menteri Kesehatan Nomor 8 Tahun 2022 tentang Perubahan atas Peraturan Menteri Kesehatan Nomor 14 Tahun 2021 tentang Standar Kegiatan Usaha dan Produk pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Kesehatan",
+ "about": "Perubahan atas Peraturan Menteri Kesehatan Nomor 14 Tahun 2021 tentang Standar Kegiatan Usaha dan Produk pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Kesehatan",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - PERIZINAN, PELAYANAN PUBLIK - STANDAR / PEDOMAN - CIPTA KERJA",
+ "field": "Alias",
+ "date_enacted": "2022-03-23",
+ "date_promulgated": "2022-03-28",
+ "date_effective": "2022-03-28",
+ "gazette": "BN.2022/No.317, peraturan.go.id: 4 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2025-11",
+   "target_bpk_id": 335213,
+   "label": "Permenkes No. 11 Tahun 2025",
+   "about": "Standar Kegiatan Usaha dan Standar Produk/Jasa pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Subsektor Kesehatan"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PERMENKES-2024-19",
+   "target_bpk_id": 312837,
+   "label": "Permenkes No. 19 Tahun 2024",
+   "about": "Penyelenggaraan Pusat Kesehatan Masyarakat"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENKES-2021-14",
+   "target_bpk_id": 203315,
+   "label": "Permenkes No. 14 Tahun 2021",
+   "about": "Standar Kegiatan Usaha dan Produk pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 28 Maret 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/212688/Permenkes%20Nomor%208%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:24:17Z"
+}

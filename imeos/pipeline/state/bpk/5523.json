@@ -12,7 +12,7 @@
  "about": "Kebijakan Energi Nasional",
  "issuer": "Pemerintah Pusat",
  "subject": "PERTAMBANGAN MIGAS, MINERAL DAN ENERGI",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2014-10-17",
  "date_promulgated": "2014-10-17",
  "date_effective": "2014-10-17",
@@ -33,5 +33,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/33346/PP%20Nomor%2079%20Tahun%202014.pdf"
  ],
- "fetched_at": "2026-09-14T05:29:04Z"
+ "fetched_at": "2026-10-05T04:58:24Z"
 }

@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKOMINFO-2022-7",
+ "source": "bpk",
+ "bpk_id": 228293,
+ "url": "https://peraturan.bpk.go.id/Details/228293/permenkominfo-no-7-tahun-2022",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Informatika",
+ "number": "7",
+ "number_raw": "7",
+ "year": 2022,
+ "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 7 Tahun 2022 tentang Organisasi dan Tata Kerja Sekretariat Komisi Penyiaran Indonesia Pusat",
+ "about": "Organisasi dan Tata Kerja Sekretariat Komisi Penyiaran Indonesia Pusat",
+ "issuer": "Kementerian Komunikasi dan Informatika",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "Alias",
+ "date_enacted": "2022-05-31",
+ "date_promulgated": "2022-07-04",
+ "date_effective": "2022-07-04",
+ "gazette": "BN.2021/No.637, https://jdih.kominfo.go.id/: 9 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 344574,
+   "label": "Permenkomdigi No. 5 Tahun 2026",
+   "about": "Organisasi dan Tata Kerja Sekretariat Komisi Penyiaran Indonesia Pusat"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 161670,
+   "label": "Permenkominfo No. 9 Tahun 2013",
+   "about": "Organisasi dan Tata Kerja Sekretariat Komisi Penyiaran Indonesia Pusat"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Komunikasi dan Informatika ini mulai berlaku pada tanggal 04 Juli 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/223114/Salinan_PM_7_2022_Salinan_PM_Kominfo_Nomor_7_Tahun_2022_OTK_Sekretariat_KPI_Pusat.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:16:00Z"
+}

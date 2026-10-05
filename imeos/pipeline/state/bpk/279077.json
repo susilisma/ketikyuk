@@ -1,0 +1,52 @@
+{
+ "id": "PMK-2024-6",
+ "source": "bpk",
+ "bpk_id": 279077,
+ "url": "https://peraturan.bpk.go.id/Details/279077/pmk-no-6-tahun-2024",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "6",
+ "number_raw": "6",
+ "year": 2024,
+ "title": "Peraturan Menteri Keuangan Nomor 6 Tahun 2024 tentang Rincian Dana Bagi Hasil Cukai Hasil Tembakau Menurut Daerah Provinsi/Kabupaten/Kota Tahun Anggaran 2024",
+ "about": "Rincian Dana Bagi Hasil Cukai Hasil Tembakau Menurut Daerah Provinsi/Kabupaten/Kota Tahun Anggaran 2024",
+ "issuer": "Kementerian Keuangan",
+ "subject": "APBD",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-01-31",
+ "date_promulgated": "2024-01-31",
+ "date_effective": "2024-01-31",
+ "gazette": "BN.2024 (72)/16 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-16",
+   "target_bpk_id": 314173,
+   "label": "PMK No. 16 Tahun 2025",
+   "about": "Rincian Dana Bagi Hasil Cukai Hasil Tembakau Menurut Daerah Provinsi/Kabupaten/Kota Tahun Anggaran 2025"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2023-3",
+   "target_bpk_id": 243465,
+   "label": "PMK No. 3/PMK.07/2023",
+   "about": "Rincian Dana Bagi Hasil Cukai Hasil Tembakau Menurut Daerah Provinsi/Kabupaten/Kota Tahun Anggaran 2023"
+  }
+ ],
+ "abstract": "a. bahwa berdasarkan Peraturan Presiden Nomor 76 Tahun\n2023 tentang Rincian Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2024, telah ditetapkan rincian dana bagi hasil cukai hasil tembakau Tahun Anggaran 2024 menurut total per provinsi;\nb. bahwa berdasarkan ketentuan Pasal 66A ayat (4) Undang•\nUndang Nomor 11 Tahun 1995 tentang Cukai sebagaimana telah diubah dengan Undang-Undang Nomor 39 Tahun 2007 tentang Perubahan atas Undang-Undang Nomor 11 Tahun\n1995 tentang Cukai, gubernur mengatur pembagian dana bagi hasil cukai hasil tembakau kepada bupati/wali kota di daerahnya masing-masing berdasarkan besaran kontribusi penerimaan cukai hasil tembakaunya dengan persetujuan Menteri Keuangan;\nc. bahwa berdasarkan ketentuan Pasal 18 ayat (5) Peraturan Menteri Keuangan Nomor 139 /PMK.07/2019 ten tang Pengelolaan Dana Bagi Hasil, Dana Alokasi Umum, dan Dana Otonomi Khusus sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor\n134 Tahun 2023 tentang Perubahan Keempat atas\nPeraturan Menteri Keuangan Nomor 139 /PMK.07/2019 tentang Pengelolaan Dana Bagi Hasil, Dana Alokasi Umum, dan Dana Otonomi Khusus, persetujuan atas penetapan pembagian dana bagi hasil cukai hasil tembakau untuk daerah provinsi/kabupaten/kota yang diusulkan oleh gubernur kepada Menteri Keuangan ditetapkan dengan Peraturan Menteri Keuangan;\nd. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Menteri Keuangan tentang Rincian Dana Bagi Hasil Cukai Hasil Tembakau Menurut Daerah Provinsi/Kabupaten/Kota Tahun Anggaran 2024;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 11 Tahun 1995, Undang-Undang Nomor 39 Tahun 2008, Peraturan Presiden Nomor 57 Tahun 2020, Peraturan Presiden Nomor 76 Tahun 2023, Peraturan Menteri Keuangan Nomor 139/PMK.07 /2019 dan Peraturan Menteri Keuangan Nomor 118/PMK.01/2021\nPeraturan ini mengatur tentang ketentuan umum, Penyaluran DBB CBT,",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 31 Januari 2024.\nPeraturan Menteri Keuangan Nomor 3/PMK.07 /2023 tentang Rincian Dana Bagi Basil Cukai Basil Tembakau Menurut Daerah Provinsi/Kabupaten/Kota Tahun Anggaran 2023 dicabut dan dinyatakan tidak berlaku",
+ "citations": [
+  "PERPRES-2023-76",
+  "UU-2007-39",
+  "UU-1995-11",
+  "PMK-2023-134",
+  "UU-2008-39",
+  "PERPRES-2020-57",
+  "PMK-2021-118"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/337779/2024pmkeuangan006.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:09:29Z"
+}

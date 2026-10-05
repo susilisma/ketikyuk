@@ -1,0 +1,42 @@
+{
+ "id": "PERMENKUM-2025-29",
+ "source": "bpk",
+ "bpk_id": 332339,
+ "url": "https://peraturan.bpk.go.id/Details/332339/permenkum-no-29-tahun-2025",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "29",
+ "number_raw": "29",
+ "year": 2025,
+ "title": "Peraturan Menteri Hukum Nomor 29 Tahun 2025 tentang Satu Data",
+ "about": "Satu Data",
+ "issuer": "Kementerian Hukum",
+ "subject": "SATU DATA INDONESIA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-08-26",
+ "date_promulgated": "2025-09-01",
+ "date_effective": "2025-09-01",
+ "gazette": "BN Tahun 2025 No. 653",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 247323,
+   "label": "Permenkumham No. 12 Tahun 2023",
+   "about": "Penyelenggaraan Satu Data Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 12 Tahun 2023 tentang Penyelenggaraan Satu Data Kementerian Hukum dan Hak Asasi Manusia sudah tidak sesuai dengan perkembangan hukum dan kebutuhan organisasi, sehingga perlu diganti.\nDasar hukum Permenkum ini adalah Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU No. 39 Tahun 2008; Perpres No. 39 Tahun 2019; Perpres No. 155 Tahun 2024; dan Permenkum No. 1 Tahun 2024.\nPermenkum ini mengatur mengenai Satu Data. Satu Data Kementerian harus dilakukan berdasarkan prinsip sebagai berikut: a. memenuhi Standar Data; b. memiliki Metadata; c. memenuhi kaidah Interoperabilitas Data; dan d. menggunakan Kode Referensi dan/atau Data Induk.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 01 September 2025.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 12 Tahun 2023 tentang Penyelenggaraan Satu Data Kementerian Hukum dan Hak Asasi Manusia (Berita Negara Republik Indonesia Tahun 2023 Nomor 231), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 26 hlm.",
+ "citations": [
+  "PERMENKUMHAM-2023-12",
+  "UU-2008-39",
+  "PERPRES-2019-39",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/394394/permenkum-no-29-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:19:07Z"
+}

@@ -1,0 +1,48 @@
+{
+ "id": "PERMENKUM-2025-18",
+ "source": "bpk",
+ "bpk_id": 326227,
+ "url": "https://peraturan.bpk.go.id/Details/326227/permenkum-no-18-tahun-2025",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "18",
+ "number_raw": "18",
+ "year": 2025,
+ "title": "Peraturan Menteri Hukum Nomor 18 Tahun 2025 tentang Tata Cara Pengajuan Permohonan Pengesahan, Persetujuan Perubahan Anggaran Dasar, dan Berakhirnya Status Badan Hukum Perkumpulan",
+ "about": "Tata Cara Pengajuan Permohonan Pengesahan, Persetujuan Perubahan Anggaran Dasar, dan Berakhirnya Status Badan Hukum Perkumpulan",
+ "issuer": "Kementerian Hukum",
+ "subject": "PERIZINAN, PELAYANAN PUBLIK",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2025-05-19",
+ "date_promulgated": "2025-05-28",
+ "date_effective": "2025-05-28",
+ "gazette": "BN 2025 (373): 12 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133125,
+   "label": "Permenkumham No. 10 Tahun 2019",
+   "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Republik Indonesia Nomor 3 Tahun 2016 tentang Tata Cara Pengajuan Permohonan Pengesahan Badan Hukum dan Persetujuan Perubahan Anggaran Dasar Perkumpulan"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133227,
+   "label": "Permenkumham No. 3 Tahun 2016",
+   "about": "Tata Cara Pengajuan Permohonan Pengesahan Badan Hukum dan Persetujuan Perubahan Anggaran Dasar Perkumpulan"
+  }
+ ],
+ "abstract": "Untuk meningkatkan pelayanan jasa hukum dan memberikan kepastian hukum kepada masyarakat, serta mewujudkan tertib administrasi dalam pelaksanaan pelayanan pada badan hukum Perkumpulan, perlu dilakukan penataan kembali terhadap tata cara permohonan pengesahan, persetujuan perubahan anggaran dasar, dan berakhirnya status badan hukum perkumpulan.\nDasar hukum Permenkum ini adalah Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; Staatsblad 1870 Nomor 64; UU No. 39 Tahun 2008; UU No. 17 Tahun 2013; Perpres No. 155 Tahun 2024; dan Permenkum No. 1 Tahun 2024.\nPermenkum ini mengatur mengenai Tata Cara Pengajuan Permohonan Pengesahan, Persetujuan Perubahan Anggaran Dasar, dan Berakhirnya Status Badan Hukum Perkumpulan. Pengesahan Perkumpulan dilakukan Menteri. Pengesahan Perkumpulan tersebut harus didahului dengan pengajuan pemakaian nama Perkumpulan. Pengajuan pemakaian nama Perkumpulan dilakukan oleh Pemohon kepada Menteri melalui Direktur Jenderal Administrasi Hukum Umum.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 28 Mei 2025.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 3 Tahun 2016 tentang Tata Cara Pengajuan Permohonan Pengesahan Badan Hukum dan Persetujuan Perubahan Anggaran Dasar Perkumpulan (Berita Negara Republik Indonesia Tahun 2016 Nomor 115) sebagaimana telah diubah dengan Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 10 Tahun 2019 tentang Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 3 Tahun 2016 tentang Tata Cara Pengajuan Permohonan Pengesahan Badan Hukum dan Persetujuan Perubahan Anggaran Dasar Perkumpulan (Berita Negara Republik Indonesia Tahun 2019 Nomor 660), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 12 hlm.",
+ "citations": [
+  "UU-2008-39",
+  "UU-2013-17",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/388035/Permenkum%20Nomor%2018%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:19:35Z"
+}

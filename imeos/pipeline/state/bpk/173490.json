@@ -1,0 +1,37 @@
+{
+ "id": "PERMENDAG-2018-113",
+ "source": "bpk",
+ "bpk_id": 173490,
+ "url": "https://peraturan.bpk.go.id/Details/173490/permendag-no-113-tahun-2018",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "113",
+ "number_raw": "113",
+ "year": 2018,
+ "title": "Peraturan Menteri Perdagangan Nomor 113 Tahun 2018 tentang Tata Cara Penyesuaian/Inpassing Dalam Jabatan Fungsional Analis Investigasi dan Pengamanan Perdagangan",
+ "about": "Tata Cara Penyesuaian/Inpassing Dalam Jabatan Fungsional Analis Investigasi dan Pengamanan Perdagangan",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA - JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "Alias",
+ "date_enacted": "2018-12-05",
+ "date_promulgated": "2018-12-11",
+ "date_effective": "2018-12-11",
+ "gazette": "BN 2018/NO 1633;http://jdih.kemendag.go.id/ : 9 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2025-4",
+   "target_bpk_id": 320775,
+   "label": "Permendag No. 4 Tahun 2025",
+   "about": "Petunjuk Pelaksanaan dan Petunjuk Teknis Jabatan Fungsional di Bidang Perdagangan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 11 Desember 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/166683/Permendag%20Nomor%20113%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:12:20Z"
+}

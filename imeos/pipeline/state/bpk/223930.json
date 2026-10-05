@@ -1,0 +1,37 @@
+{
+ "id": "PERBPOM-2021-24",
+ "source": "bpk",
+ "bpk_id": 223930,
+ "url": "https://peraturan.bpk.go.id/Details/223930/peraturan-bpom-no-24-tahun-2021",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "24",
+ "number_raw": "24",
+ "year": 2021,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 24 Tahun 2021 tentang Pengawasan Pengelolaan Obat, Bahan Obat, Narkotika, Psikotropika, dan Prekursor Farmasi di Fasilitas Pelayanan Kefarmasian",
+ "about": "Pengawasan Pengelolaan Obat, Bahan Obat, Narkotika, Psikotropika, dan Prekursor Farmasi di Fasilitas Pelayanan Kefarmasian",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "NARKOTIKA",
+ "field": "Alias",
+ "date_enacted": "2021-10-13",
+ "date_promulgated": "2021-10-14",
+ "date_effective": "2021-10-14",
+ "gazette": "BN.2021/No.1152, peraturan.go.id: 12 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 350939,
+   "label": "Peraturan BPOM No. 5 Tahun 2026",
+   "about": "Pengawasan Pengelolaan Obat dan Bahan Obat di Fasilitas Pelayanan Kefarmasian dan Fasilitas Lain"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 14 Oktober 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/218504/Peraturan%20BPOM%20Nomor%2024%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:24:45Z"
+}

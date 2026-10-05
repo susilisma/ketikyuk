@@ -12,7 +12,7 @@
  "about": "Perubahan Atas Peraturan Pemerintah Nomor 38 Tahun 2002 Tentang Daftar Koordinat Geografis Titik Titik Garis Pangkal Kepulauan Indonesia",
  "issuer": "Pemerintah Pusat",
  "subject": "TERITORIAL INDONESIA",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2008-05-19",
  "date_promulgated": "2008-05-19",
  "date_effective": "2008-05-19",
@@ -40,5 +40,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/37185/PP%2037%20Tahun%202008.pdf"
  ],
- "fetched_at": "2026-09-14T05:28:10Z"
+ "fetched_at": "2026-10-05T04:56:58Z"
 }

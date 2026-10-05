@@ -1,0 +1,44 @@
+{
+ "id": "PP-2016-49",
+ "source": "bpk",
+ "bpk_id": 5770,
+ "url": "https://peraturan.bpk.go.id/Details/5770/pp-no-49-tahun-2016",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "49",
+ "number_raw": "49",
+ "year": 2016,
+ "title": "Peraturan Pemerintah (PP) Nomor 49 Tahun 2016 tentang Jenis Dan Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Berlaku Pada Kementerian Luar Negeri",
+ "about": "Jenis Dan Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Berlaku Pada Kementerian Luar Negeri",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
+ "field": "Alias",
+ "date_enacted": "2016-11-03",
+ "date_promulgated": "2016-11-07",
+ "date_effective": "2017-01-05",
+ "gazette": "LN. 2016 No. 233, TLN No. 5944, LL SETNEG : 6 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2025-21",
+   "target_bpk_id": 320146,
+   "label": "PP No. 21 Tahun 2025",
+   "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Kementerian Luar Negeri"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2002-33",
+   "target_bpk_id": 52438,
+   "label": "PP No. 33 Tahun 2002",
+   "about": "Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Berlaku Pada Departemen Luar Negeri"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 05 Januari 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/27749/PP%20Nomor%2049%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-10-05T04:58:56Z"
+}

@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKES-2019-12",
+ "source": "bpk",
+ "bpk_id": 111758,
+ "url": "https://peraturan.bpk.go.id/Details/111758/permenkes-no-12-tahun-2019",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "12",
+ "number_raw": "12",
+ "year": 2019,
+ "title": "Peraturan Menteri Kesehatan Nomor 12 Tahun 2019 tentang Perubahan Atas Peraturan Menteri Kesehatan Nomor 23 Tahun 2018 Tentang Pelayanan Dan Penerbitan Sertifikat Vaksinasi Internasional",
+ "about": "Perubahan Atas Peraturan Menteri Kesehatan Nomor 23 Tahun 2018 Tentang Pelayanan Dan Penerbitan Sertifikat Vaksinasi Internasional",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - PERIZINAN, PELAYANAN PUBLIK",
+ "field": "Alias",
+ "date_enacted": "2019-04-11",
+ "date_promulgated": "2019-04-12",
+ "date_effective": "2019-04-12",
+ "gazette": "BN.2019/NO.426, kemkes.go.id : 4 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-1",
+   "target_bpk_id": 344092,
+   "label": "Permenkes No. 1 Tahun 2026",
+   "about": "Kejadian Luar Biasa, Wabah, dan Krisis Kesehatan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENKES-2018-23",
+   "target_bpk_id": 129742,
+   "label": "Permenkes No. 23 Tahun 2018",
+   "about": "Pelayanan dan Penerbitan Sertifikat Vaksinasi Internasional"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 12 April 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/102711/Permenkes%20Nomor%2012%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:23:12Z"
+}

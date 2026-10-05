@@ -1,0 +1,53 @@
+{
+ "id": "PMK-2025-38",
+ "source": "bpk",
+ "bpk_id": 320001,
+ "url": "https://peraturan.bpk.go.id/Details/320001/pmk-no-38-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "38",
+ "number_raw": "38",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 38 Tahun 2025 tentang Manajemen Talenta Di Lingkungan Kementerian Keuangan",
+ "about": "Manajemen Talenta Di Lingkungan Kementerian Keuangan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-06-12",
+ "date_promulgated": "2025-06-13",
+ "date_effective": "2025-06-13",
+ "gazette": "BN.2025 (415)/33 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2016-60",
+   "target_bpk_id": 145154,
+   "label": "PMK No. 60/PMK.01/2016",
+   "about": "Manajemen Talenta Kementerian Keuangan"
+  }
+ ],
+ "abstract": "a. bahwa untuk mewujudkan rencana suksesi yang objektif, terencana, terbuka, tepat waktu, dan akuntabel guna memperkuat dan mengakselerasi penerapan sistem merit di Kementerian Keuangan, telah ditetapkan Peraturan Menteri Keuangan Nomor 60/PMK.01/2016 tentang Manajemen Talenta Kementerian Keuangan sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 161/PMK.01/2017 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 60/PMK.01/2016 tentang Manajemen Talenta Kementerian Keuangan;\nb. bahwa untuk menyelaraskan ketentuan mengenai Manajemen Talenta Aparatur Sipil Negara Kementerian Keuangan dengan kebutuhan organisasi dan arah kebijakan Manajemen Talenta nasional sebagaimana diatur dalam Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 3 Tahun 2020 tentang Manajemen Talenta Aparatur Sipil Negara, serta memperkuat penerapan sistem merit Kementerian Keuangan, perlu diatur kembali ketentuan mengenai Manajemen Talenta di lingkungan Kementerian Keuangan;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a dan huruf b, perlu menetapkan Peraturan Menteri Keuangan tentang Manajemen Talenta di Lingkungan Kementerian Keuangan;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 20 Tahun 2023, Peraturan Pemerintah Nomor 11 Tahun 2017, Peraturan Pemerintah Nomor 30 Tahun 2019, Peraturan Pemerintah Nomor 94 Tahun 2021, Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Menteri Keuangan Nomor 191/PMK.01/2018, Peraturan Menteri Keuangan Nomor 216/PMK.01/2018, Peraturan Menteri Keuangan Nomor 146/PMK.01/2020, Peraturan Menteri Keuangan Nomor 224/PMK.01/2020, Peraturan Menteri Keuangan Nomor 123 Tahun 2023 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengatur tentang ketentuan umum, Manajemen Talenta, prinsip Manajemen Talenta, prinsip Manajemen Talenta, Manajemen Talenta pusat, Manajemen Talenta unit dilaksanakan untuk pengisian Jabatan Kritikal, proses manajemen talenta, ketentuan lain-lain, ketentuan peralihan dan ketentuan penutup.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 13 Juni 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan\nMenteri Keuangan Nomor 60/PMK.01/2016 tentang\nManajemen Talenta Kementerian Keuangan sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor\n161/PMK.01/2017 tentang Perubahan atas Peraturan Menteri\nKeuangan Nomor 60/PMK.01/2016 tentang Manajemen Talenta",
+ "citations": [
+  "PMK-2016-60",
+  "PMK-2017-161",
+  "PERATURANMENTERI-2020-3",
+  "UU-2008-39",
+  "UU-2023-20",
+  "PP-2017-11",
+  "PP-2019-30",
+  "PP-2021-94",
+  "PERPRES-2024-158",
+  "PMK-2018-191",
+  "PMK-2018-216",
+  "PMK-2020-146",
+  "PMK-2020-224",
+  "PMK-2023-123",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/381622/38%20th%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:08:12Z"
+}

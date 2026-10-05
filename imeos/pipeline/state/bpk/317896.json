@@ -1,0 +1,43 @@
+{
+ "id": "PERATURANBI-2025-4",
+ "source": "bpk",
+ "bpk_id": 317896,
+ "url": "https://peraturan.bpk.go.id/Details/317896/peraturan-bi-no-4-tahun-2025",
+ "form": "PERATURANBI",
+ "form_long": "Peraturan Bank Indonesia",
+ "number": "4",
+ "number_raw": "4",
+ "year": 2025,
+ "title": "Peraturan Bank Indonesia Nomor 4 Tahun 2025 tentang Kebijakan Sistem Pembayaran",
+ "about": "Kebijakan Sistem Pembayaran",
+ "issuer": "Bank Indonesia",
+ "subject": "KEBIJAKAN PEMERINTAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-03-27",
+ "date_promulgated": "2025-03-27",
+ "date_effective": "2025-03-27",
+ "gazette": "BN.2025 (11/22 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 136732,
+   "label": "Peraturan BI No. 18/9/PBI/2016 Tahun 2016",
+   "about": "Pengaturan dan Pengawasan Sistem Pembayaran dan Pengelolaan Uang Rupiah"
+  }
+ ],
+ "abstract": "a. bahwa untuk mencapai salah satu tujuan Bank Indonesia\nyaitu memelihara stabilitas sistem pembayaran, Bank\nIndonesia menetapkan dan melaksanakan kebijakan\nsistem pembayaran;\nb. bahwa dengan semakin kompleksnya tantangan yang\ndihadapi oleh Bank Indonesia, termasuk akibat\nperubahan lingkungan strategis baik internal maupun\neksternal, diperlukan penguatan kerangka kerja kebijakan\nsistem pembayaran sebagai bagian dari bauran kebijakan\nBank Indonesia;\nc. bahwa untuk mendukung pencapaian tujuan Bank\nIndonesia sebagaimana dimaksud dalam huruf a serta\nuntuk penguatan kerangka kerja kebijakan sistem\npembayaran sebagaimana dimaksud dalam huruf b,\nPeraturan Bank Indonesia Nomor 18/9/PBI/2016 tentang\nPengaturan dan Pengawasan Sistem Pembayaran dan\nPengelolaan Uang Rupiah perlu diganti;\nd. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a, huruf b, dan huruf c, perlu menetapkan\nPeraturan Bank Indonesia tentang Kebijakan Sistem\nPembayaran;\nUndang-Undang Nomor 23 Tahun 1999, Undang-Undang Nomor 24 Tahun 1999, Undang-Undang Nomor 7 Tahun 2011 dan Peraturan Bank Indonesia Nomor 4 Tahun 2024.\nPeraturan ini mengatur tentang ketentuan umum, prinsip dasar kebijakan sistem pembayaran, kerangka kerja kebijakan sistem pembayaran, perumusan kebijakan sistem pembayaran, pelaksanaan kebijakan sistem pembayaran, pelaoran dan pengawasan, koordinasi dan sinergi, akuntabilitas dan transparasi dan ketentuan penutup.",
+ "note": "Peraturan Bank Indonesia ini mulai berlaku pada tanggal 27 Maret 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan Bank Indonesia ini mulai berlaku,\nPeraturan Bank Indonesia Nomor 18/9/PBI/2016 tentang\nPengaturan dan Pengawasan Sistem Pembayaran dan\nPengelolaan Uang Rupiah",
+ "citations": [
+  "PBI-2016-18",
+  "UU-1999-23",
+  "UU-1999-24",
+  "UU-2011-7",
+  "PBI-2024-4"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/379307/peraturan-bi-no-4-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:31:08Z"
+}

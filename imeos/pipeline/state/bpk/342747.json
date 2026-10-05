@@ -1,0 +1,35 @@
+{
+ "id": "PERMENKOMINFO-2025-17",
+ "source": "bpk",
+ "bpk_id": 342747,
+ "url": "https://peraturan.bpk.go.id/Details/342747/permenkomdigi-no-17-tahun-2025",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Digital",
+ "number": "17",
+ "number_raw": "17",
+ "year": 2025,
+ "title": "Peraturan Menteri Komunikasi dan Digital Nomor 17 Tahun 2025 tentang Penggunaan Spektrum Frekuensi Radio pada Pita Frekuensi Radio 2,6 GHz",
+ "about": "Penggunaan Spektrum Frekuensi Radio pada Pita Frekuensi Radio 2,6 GHz",
+ "issuer": "Kementerian Komunikasi dan Digital",
+ "subject": "TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-12-23",
+ "date_promulgated": "2025-12-29",
+ "date_effective": "2025-12-29",
+ "gazette": "BN 2025 (1121);",
+ "status_bpk": "Berlaku",
+ "relations": [],
+ "abstract": "bahwa untuk mendukung tercapainya target kecepatan akses internet jaringan pitalebar bergerak (mobile broadband) dibutuhkan penyediaan spektrum frekuensi radio untuk penyelenggaraan jaringan bergerak seluler pada pita frekuensi radio 2,6 GHz dengan mengimplementasikan sistem telekomunikasi bergerak internasional (international mobile telecommunications) sesuai dengan ketentuan Peraturan Menteri Komunikasi dan Digital yang mengatur mengenai tabel alokasi spektrum frekuensi radio Indonesia\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD NRI Tahun 1945; UU Nomor 36 Tahun 1999 sebagaimana diubah dengan UU Nomor 6 Tahun 2023; UU Nomor 39 Tahun 2008 sebagaimana diubah dengan UU Nomor 61 Tahun 2024; Perpres Nomor 174 Tahun 2024; Permen Kominfo Nomor 12 Tahun 2022; Permen Komdigi Nomor 1 Tahun 2025\nPeraturan ini mengatur mengenai penggunaan pita frekuensi radio 2,6 GHz yang digunakan dengan moda TDD untuk penyelenggaraan jaringan bergerak seluler yang bertujuan untuk meningkatkan kecepatan akses internet jaringan pitalebar bergerak (mobile broadband)",
+ "note": "Peraturan Menteri Komunikasi dan Digital ini mulai berlaku pada tanggal 29 Desember 2025.",
+ "citations": [
+  "UU-1999-36",
+  "UU-2023-6",
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2024-174"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/405909/Pemenkomdigi-no-17-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:16:22Z"
+}

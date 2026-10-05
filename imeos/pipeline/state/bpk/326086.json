@@ -1,0 +1,41 @@
+{
+ "id": "PERMENKUM-2025-14",
+ "source": "bpk",
+ "bpk_id": 326086,
+ "url": "https://peraturan.bpk.go.id/Details/326086/permenkum-no-14-tahun-2025",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "14",
+ "number_raw": "14",
+ "year": 2025,
+ "title": "Peraturan Menteri Hukum Nomor 14 Tahun 2025 tentang Pembangunan dan Evaluasi Zona Integritas Menuju Wilayah Bebas dari Korupsi dan Wilayah Birokrasi Bersih dan Melayani di Lingkungan Kementerian Hukum",
+ "about": "Pembangunan dan Evaluasi Zona Integritas Menuju Wilayah Bebas dari Korupsi dan Wilayah Birokrasi Bersih dan Melayani di Lingkungan Kementerian Hukum",
+ "issuer": "Kementerian Hukum",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-05-02",
+ "date_promulgated": "2025-05-06",
+ "date_effective": "2025-05-06",
+ "gazette": "BN 2025 (307): 6 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 225562,
+   "label": "Permenkumham No. 11 Tahun 2022",
+   "about": "Pembangunan dan Evaluasi Zona Integritas Menuju Wilayah Bebas dari Korupsi dan Wilayah Birokrasi Bersih dan Melayani di Lingkungan Kementerian Hukum dan Asasi Manusia"
+  }
+ ],
+ "abstract": "Terdapat perubahan nomenklatur Kementerian Hukum berdasarkan Peraturan Presiden Nomor 155 Tahun 2024 tentang Kementerian Hukum sehingga Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 11 Tahun 2022 tentang Pembangunan dan Evaluasi Zona Integritas Menuju Wilayah Bebas dari Korupsi dan Wilayah Birokrasi Bersih dan Melayani di Lingkungan Kementerian Hukum dan Asasi Manusia perlu diganti.\nDasar hukum Permenkum ini adalah Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU No. 39 Tahun 2008; Perpres No. 155 Tahun 2024; Permen PANRB No. 90 Tahun 2021; Permenkum No. 1 Tahun 2024; dan Permenkum No. 2 Tahun 2024.\nPermenkum ini mengatur mengenai Pembangunan dan Evaluasi Zona Integritas Menuju Wilayah Bebas dari Korupsi dan Wilayah Birokrasi Bersih dan Melayani di Lingkungan Kementerian Hukum. Pelaksanaan pembangunan dan evaluasi ZI menuju WBK dan WBBM di lingkungan Kementerian Hukum mengacu pada pedoman pembangunan dan evaluasi ZI menuju WBK dan WBBM di lingkungan Kementerian Hukum.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 06 Mei 2025.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 11 Tahun 2022 tentang Pembangunan dan Evaluasi Zona Integritas Menuju Wilayah Bebas dari Korupsi dan Wilayah Birokrasi Bersih dan Melayani di Lingkungan Kementerian Hukum dan Asasi Manusia (Berita Negara Republik Indonesia Tahun 2022 Nomor 567), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 6 hlm.",
+ "citations": [
+  "PERPRES-2024-155",
+  "PERMENKUMHAM-2022-11",
+  "UU-2008-39"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/387878/Permenkum%20Nomor%2014%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:19:46Z"
+}

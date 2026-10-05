@@ -12,7 +12,7 @@
  "about": "Pedoman Analisis Kebutuhan Pembelajaran Di Lingkungan Kementerian Keuangan",
  "issuer": "Kementerian Keuangan",
  "subject": "PENDIDIKAN",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2018-05-07",
  "date_promulgated": "2018-05-08",
  "date_effective": "2018-05-08",
@@ -40,5 +40,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/103160/PMK%20Nomor%2045%20Tahun%202018.pdf"
  ],
- "fetched_at": "2026-09-14T06:31:55Z"
+ "fetched_at": "2026-10-05T05:06:21Z"
 }

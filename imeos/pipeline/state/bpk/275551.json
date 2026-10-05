@@ -1,0 +1,53 @@
+{
+ "id": "PERMENKES-2023-28",
+ "source": "bpk",
+ "bpk_id": 275551,
+ "url": "https://peraturan.bpk.go.id/Details/275551/permenkes-no-28-tahun-2023",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "28",
+ "number_raw": "28",
+ "year": 2023,
+ "title": "Peraturan Menteri Kesehatan Nomor 28 Tahun 2023 tentang Organisasi dan Tata Kerja Unit Pelaksana Teknis Bidang Pengamanan Alat dan Fasilitas Kesehatan",
+ "about": "Organisasi dan Tata Kerja Unit Pelaksana Teknis Bidang Pengamanan Alat dan Fasilitas Kesehatan",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2023-08-16",
+ "date_promulgated": "2023-08-18",
+ "date_effective": "2023-08-18",
+ "gazette": "BN 2023 (637): 10 hlm: jdih.kemkes.go.id",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-10",
+   "target_bpk_id": 350845,
+   "label": "Permenkes No. 10 Tahun 2026",
+   "about": "Perubahan atas Peraturan Menteri Kesehatan Nomor 28 Tahun 2023 tentang Organisasi dan Tata Kerja Unit Pelaksana Teknis Bidang Pengamanan Alat dan Fasilitas Kesehatan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENKES-2026-10",
+   "target_bpk_id": 350845,
+   "label": "Permenkes No. 10 Tahun 2026",
+   "about": "Perubahan atas Peraturan Menteri Kesehatan Nomor 28 Tahun 2023 tentang Organisasi dan Tata Kerja Unit Pelaksana Teknis Bidang Pengamanan Alat dan Fasilitas Kesehatan"
+  }
+ ],
+ "abstract": "Peraturan Menteri Kesehatan Nomor 61 Tahun 2020 tentang Organisasi dan Tata Kerja Unit Pelaksana Teknis Bidang Pengamanan Fasilitas Kesehatan sudah tidak sesuai dengan kebutuhan sehingga perlu dilakukan penyesuaian. Bahwa penataan organisasi dan tata kerja Unit Pelaksana Teknis Bidang Pengamanan Alat dan Fasilitas Kesehatan telah mendapatkan persetujuan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi melalui surat Nomor B/750/M.KT.01/2023 tanggal 4 Juli 2023.\nDasar hukum peraturan ini adalah UUD RI Tahun 1945 Pasal 17 ayat (3); UU Nomor 17 Tahun 2023; PP Nomor 72 Tahun 1998; Perpres nomor 18 Tahun 2021; Permenkes Nomor 1184/Menkes/Per/X/2004; Permenkes Nomor 54 Tahun 2015; Permenkes Nomor 5 Tahun 2022; dan Peraturan Menteri Pendayagunaan Aparatur Sipil Negara dan Reformasi Birokrasi Nomor 2 Tahun 2023.\nUPT Bidang Pengamanan Alat dan Fasilitas Kesehatan yang selanjutnya disebut UPT Bidang PAFK adalah UPT yang melaksanakan pengamanan alat dan fasilitas kesehatan. UPT Bidang PAFK mempunyai tugas melaksanakan pengamanan alat dan fasilitas kesehatan. Selain melaksanakan tugas sebagaimana dimaksud pada ayat (1), UPT Bidang PAFK juga mendukung pelaksanaan tugas dari unit organisasi jabatan pimpinan tinggi madya yang berkesesuaian di lingkungan Kementerian Kesehatan setelah mendapat persetujuan dari Direktur Jenderal.",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 18 Agustus 2023.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Kesehatan Nomor 61 Tahun 2020 tentang Organisasi dan Tata Kerja Unit Pelaksana Teknis Bidang Pengamanan Fasilitas Kesehatan (Berita Negara Republik Indonesia Tahun 2020 Nomor 1529), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 13 hlm. (batang tubuh hlm 1 sd 10; lampiran hlm 12 sd 13)",
+ "citations": [
+  "PERMENKES-2020-61",
+  "UU-2023-17",
+  "PP-1998-72",
+  "PERPRES-2021-18",
+  "PERMENKES-2004-1184",
+  "PERMENKES-2015-54",
+  "PERMENKES-2022-5",
+  "PERATURANMENTERI-2023-2"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/334048/Permenkes%20Nomor%2028%20Tahun%202023.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:21:39Z"
+}

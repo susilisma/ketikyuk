@@ -12,7 +12,7 @@
  "about": "Tata Cara Pengembalian Pendahuluan Kelebihan Pembayaran Pajak",
  "issuer": "Kementerian Keuangan",
  "subject": "PERPAJAKAN",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2018-04-12",
  "date_promulgated": "2018-04-12",
  "date_effective": "2018-04-12",
@@ -75,5 +75,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/103089/PMK%20Nomor%2039%20Tahun%202018.pdf"
  ],
- "fetched_at": "2026-09-14T06:31:02Z"
+ "fetched_at": "2026-10-05T05:04:44Z"
 }

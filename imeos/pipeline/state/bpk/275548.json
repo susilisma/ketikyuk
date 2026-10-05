@@ -1,0 +1,43 @@
+{
+ "id": "PERMENKES-2023-27",
+ "source": "bpk",
+ "bpk_id": 275548,
+ "url": "https://peraturan.bpk.go.id/Details/275548/permenkes-no-27-tahun-2023",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "27",
+ "number_raw": "27",
+ "year": 2023,
+ "title": "Peraturan Menteri Kesehatan Nomor 27 Tahun 2023 tentang Organisasi dna tata Kerja Balai Besar Laboratorium Kesehatan Lingkungan",
+ "about": "Organisasi dna tata Kerja Balai Besar Laboratorium Kesehatan Lingkungan",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2023-08-16",
+ "date_promulgated": "2023-08-18",
+ "date_effective": "2023-08-18",
+ "gazette": "BN 2023 (636): 9 hlm: jdih.kemkes.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENKES-2026-9",
+   "target_bpk_id": 350847,
+   "label": "Permenkes No. 9 Tahun 2026",
+   "about": "Perubahan atas Peraturan Menteri Kesehatan Nomor 27 Tahun 2023 tentang Organisasi dan Tata Kerja Balai Besar Laboratorium Kesehatan Lingkungan"
+  }
+ ],
+ "abstract": "Untuk pembentukan unit pelaksana teknis yang melakukan pengelolaan laboratorium di bidang kesehatan lingkungan, perlu dilakukan perubahan Balai Besar Penelitian dan Pengembangan Vektor dan Reservoir Penyakit sebagaimana diatur dalam Peraturan Menteri Kesehatan Nomor 51 Tahun 2020 tentang Organisasi dan Tata Kerja Unit Pelaksana Teknis di Lingkungan Badan Penelitian dan Pengembangan Kesehatan.\nDasar hukum peraturan ini adalah UUD RI Tahun 1945 Pasal 17 ayat (3) UU Nomor 17 Tahun 2023; Perpres Nomor 18 Tahun 2021; Permenkes Nomor 5 Tahun 2022; dan Peraturan Menteri Pendayagunaan Aparatur Sipil Negara dan Reformasi Birokrasi Nomor 2 Tahun 2023.\nBalai Besar Laboratorium Kesehatan Lingkungan mempunyai tugas melaksanakan pengelolaan laboratorium kesehatan lingkungan.",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 18 Agustus 2023.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Kesehatan Nomor 51 Tahun 2020 tentang Organisasi\ndan Tata Kerja Unit Pelaksana Teknis di Lingkungan Badan Penelitian dan Pengembangan Kesehatan (Berita Negara\nRepublik Indonesia Tahun 2020 Nomor 1519) sepanjang mengatur tentang Balai Besar Penelitian dan Pengembangan\nVektor dan Reservoir Penyakit, dicabut dan dinyatakan tidak berlaku.\nLampiran file: 10 hlm. (batang tubuh hlm 1 sd 9; lampiran hlm 10)",
+ "citations": [
+  "PERMENKES-2020-51",
+  "UU-2023-17",
+  "PERPRES-2021-18",
+  "PERMENKES-2022-5",
+  "PERATURANMENTERI-2023-2"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/334045/Permenkes%20Nomor%2027%20Tahun%202023.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:21:42Z"
+}

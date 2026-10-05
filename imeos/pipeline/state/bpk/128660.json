@@ -1,0 +1,37 @@
+{
+ "id": "PERMENDAG-2017-5",
+ "source": "bpk",
+ "bpk_id": 128660,
+ "url": "https://peraturan.bpk.go.id/Details/128660/permendag-no-5m-dagper22017-tahun-2017",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "5",
+ "number_raw": "5/M-DAG/PER/2/2017",
+ "year": 2017,
+ "title": "Peraturan Menteri Perdagangan Nomor 5/M-DAG/PER/2/2017 Tahun 2017 tentang Jadwal Retensi Arsip Substantif Bidang Perundingan Perdagangan Internasional, Bidang Pengembangan Ekspor Nasional, dan Bidang Pengawasan Perdagangan Berjangka Komoditi",
+ "about": "Jadwal Retensi Arsip Substantif Bidang Perundingan Perdagangan Internasional, Bidang Pengembangan Ekspor Nasional, dan Bidang Pengawasan Perdagangan Berjangka Komoditi",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "ARSIP - PASAR MODAL DAN PERDAGANGAN BERJANGKA KOMODITI - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "Alias",
+ "date_enacted": "2017-02-10",
+ "date_promulgated": "2017-02-16",
+ "date_effective": "2017-02-16",
+ "gazette": "BN 2017/ NO.290; PERATURAN.GO.ID : 19 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2025-7",
+   "target_bpk_id": 320839,
+   "label": "Permendag No. 7 Tahun 2025",
+   "about": "Jadwal Retensi Arsip di Lingkungan Kementerian Perdagangan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 16 Februari 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/261805/Permendag%20No.%205%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:12:02Z"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKES-2015-13",
+ "source": "bpk",
+ "bpk_id": 114918,
+ "url": "https://peraturan.bpk.go.id/Details/114918/permenkes-no-13-tahun-2015",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "13",
+ "number_raw": "13",
+ "year": 2015,
+ "title": "Peraturan Menteri Kesehatan Nomor 13 Tahun 2015 tentang Penyelenggaraan Pelayanan Kesehatan Lingkungan Di Puskesmas",
+ "about": "Penyelenggaraan Pelayanan Kesehatan Lingkungan Di Puskesmas",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - PERIZINAN, PELAYANAN PUBLIK",
+ "field": "Alias",
+ "date_enacted": "2015-02-26",
+ "date_promulgated": "2015-03-18",
+ "date_effective": "2015-03-18",
+ "gazette": "BN.2015/NO. 403, kemenkes.go.id : 10 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-3",
+   "target_bpk_id": 350854,
+   "label": "Permenkes No. 3 Tahun 2026",
+   "about": "Penanggulangan Penyakit"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 18 Maret 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/105856/Permenkes%20Nomor%2013%20Tahun%202015.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:22:51Z"
+}

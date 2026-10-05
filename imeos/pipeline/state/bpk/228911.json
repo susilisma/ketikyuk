@@ -1,0 +1,43 @@
+{
+ "id": "PP-2022-34",
+ "source": "bpk",
+ "bpk_id": 228911,
+ "url": "https://peraturan.bpk.go.id/Details/228911/pp-no-34-tahun-2022",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "34",
+ "number_raw": "34",
+ "year": 2022,
+ "title": "Peraturan Pemerintah (PP) Nomor 34 Tahun 2022 tentang Penambahan Penyertaan Modal Negara Republik Indonesia ke Dalam Modal Saham Perusahaan Perseroan (Persero) PT Waskita Karya Tbk",
+ "about": "Penambahan Penyertaan Modal Negara Republik Indonesia ke Dalam Modal Saham Perusahaan Perseroan (Persero) PT Waskita Karya Tbk",
+ "issuer": "Pemerintah Pusat",
+ "subject": "BUMN - PENANAMAN MODAL DAN INVESTASI",
+ "field": "Alias",
+ "date_enacted": "2022-10-04",
+ "date_promulgated": "2022-10-04",
+ "date_effective": "2022-10-04",
+ "gazette": "LN.2022/No.195, jdih.setneg.go.id: 4 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2025-20",
+   "target_bpk_id": 320119,
+   "label": "PP No. 20 Tahun 2025",
+   "about": "Pencabutan Peraturan Pemerintah Nomor 34 Tahun 2022 tentang Penambahan\r\nPenyertaan Modal Negara Republik Indonesia ke Dalam Modal Saham Perusahaan Perseroan (Persero) PT Waskita Karya Tbk"
+  }
+ ],
+ "abstract": "Untuk memperbaiki struktur permodalan dan meningkatkan kapasitas usaha Perusahaan (Persero) PT Waskita Karya Tbk dalam rangka menyelesaikan Proyek Strategis Nasional di bidang jalan tol melalui penerbitan saham baru guna mempertahankan komposisi kepemilikan saham negara pada Perusahaan Perseroan (Persero) PT Waskita Karya Tbk, perlu melakukan penambahan penyertaan modal Negara Republik Indonesia ke dalam modal saham Perusahaan Perseroan (Persero) PT Waskita Karya Tbk yang bersumber dari Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2022 sebagaimana ditetapkan kembali dalam Rincian Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2022.\nDasar hukum PP ini adalah Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 19 Tahun 2003; UU Nomor 1 Tahun 2004; UU Nomor 6 Tahun 2021; dan PP Nomor 44 Tahun 2005.\nPP ini mengatur mengenai penambahan penyertaan modal Negara Republik Indonesia ke dalam modal saham Perusahaan Perseroan (Persero) PT Waskita Karya Tbk yang statusnya sebagai Perusahaan Perseroan (Persero) ditetapkan berdasarkan Peraturan Pemerintah Nomor 40 Tahun 1970 tentang Pengalihan Bentuk Perusahaan Negara (P.N.) Waskita Karya menjadi Perusahaan Perseroan (PERSERO). Nilai penyertaan modal negara tersebut sebesar paling banyak Rp3.000.000. 000.000,00 (tiga triliun rupiah) yang bersumber dari Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2022 sebagaimana ditetapkan kembali dalam Rincian Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2022.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 04 Oktober 2022.\nLampiran: 4 hlm.",
+ "citations": [
+  "UU-2003-19",
+  "UU-2004-1",
+  "UU-2021-6",
+  "PP-2005-44",
+  "PP-1970-40"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/223744/PP%20Nomor%2034%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-10-05T04:58:59Z"
+}

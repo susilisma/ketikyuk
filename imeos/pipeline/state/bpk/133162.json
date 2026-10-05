@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKUMHAM-2018-22",
+ "source": "bpk",
+ "bpk_id": 133162,
+ "url": "https://peraturan.bpk.go.id/Details/133162/permenkumham-no-22-tahun-2018",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "22",
+ "number_raw": "22",
+ "year": 2018,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 22 Tahun 2018 tentang Pengharmonisasian Rancangan Peraturan Perundang-Undangan yang Dibentuk di Daerah oleh Perancang Peraturan Perundang-Undangan",
+ "about": "Pengharmonisasian Rancangan Peraturan Perundang-Undangan yang Dibentuk di Daerah oleh Perancang Peraturan Perundang-Undangan",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA",
+ "field": "Alias",
+ "date_enacted": "2018-08-23",
+ "date_promulgated": "2018-08-23",
+ "date_effective": "2018-10-22",
+ "gazette": "BN.2018/NO.1133, peraturan.go.id : 11 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 331881,
+   "label": "Permenkum No. 40 Tahun 2025",
+   "about": "Tata Cara Pengharmonisasian, Pembulatan, dan Pemantapan Konsepsi Rancangan Peraturan Daerah dan Rancangan Peraturan Kepala Daerah"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 22 Oktober 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/123950/Permenkumham%20Nomor%2022%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:18:39Z"
+}

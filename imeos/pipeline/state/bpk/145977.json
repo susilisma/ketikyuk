@@ -1,0 +1,37 @@
+{
+ "id": "PERMENAKER-2015-7",
+ "source": "bpk",
+ "bpk_id": 145977,
+ "url": "https://peraturan.bpk.go.id/Details/145977/permenaker-no-7-tahun-2015",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "7",
+ "number_raw": "7",
+ "year": 2015,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 7 Tahun 2015 tentang Tata Cara Pemberian Elektronik Kartu Tenaga Kerja Luar Negeri kepada Tenaga Kerja Indonesia",
+ "about": "Tata Cara Pemberian Elektronik Kartu Tenaga Kerja Luar Negeri kepada Tenaga Kerja Indonesia",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "KETENAGAKERJAAN - KEWARGANEGARAAN DAN IMIGRASI",
+ "field": "Alias",
+ "date_enacted": "2015-02-11",
+ "date_promulgated": "2015-02-11",
+ "date_effective": "2015-05-11",
+ "gazette": "BN.2015/No.232, jdih.kemnaker.go.id : 4 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENAKER-2026-2",
+   "target_bpk_id": 344084,
+   "label": "Permenaker No. 2 Tahun 2026",
+   "about": "Pencabutan Peraturan Menteri Ketenagakerjaan Bidang Penempatan dan Pelindungan Pekerja Migran Indonesia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Ketenagakerjaan Republik Indonesia ini mulai berlaku pada tanggal 11 Mei 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/137790/Kemnaker%20No.%207%20Tahun%202015.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:14:46Z"
+}

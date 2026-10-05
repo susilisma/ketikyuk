@@ -12,7 +12,7 @@
  "about": "Pengurusan Piutang Negara",
  "issuer": "Kementerian Keuangan",
  "subject": "PIUTANG, UTANG, DAN HIBAH NEGARA / DAERAH",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2016-12-30",
  "date_promulgated": "2016-12-30",
  "date_effective": "2016-12-30",
@@ -68,5 +68,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/112160/PMK%20Nomor%20240%20Tahun%202016.pdf"
  ],
- "fetched_at": "2026-09-14T06:31:06Z"
+ "fetched_at": "2026-10-05T05:04:49Z"
 }

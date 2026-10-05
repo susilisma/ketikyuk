@@ -12,7 +12,7 @@
  "about": "Perubahan Atas Peraturan Presiden Nomor 6 Tahun 2012 Tentang Komite Koordinasi Nasional Pencegahan Dan Pemberantasan Tindak Pidana Pencucian Uang",
  "issuer": "Pemerintah Pusat",
  "subject": "PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2016-12-30",
  "date_promulgated": "2016-12-30",
  "date_effective": "2016-12-30",
@@ -40,5 +40,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/33133/Perpres%20Nomor%20117%20Tahun%202016.pdf"
  ],
- "fetched_at": "2026-09-14T05:32:53Z"
+ "fetched_at": "2026-10-05T05:01:49Z"
 }

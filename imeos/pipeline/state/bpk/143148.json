@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKES-2014-51",
+ "source": "bpk",
+ "bpk_id": 143148,
+ "url": "https://peraturan.bpk.go.id/Details/143148/permenkes-no-51-tahun-2014",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "51",
+ "number_raw": "51",
+ "year": 2014,
+ "title": "Peraturan Menteri Kesehatan Nomor 51 Tahun 2014 tentang Pemasukan Alat Kesehatan Melalui Mekanisme Jalur Khusus (Special Access Scheme)",
+ "about": "Pemasukan Alat Kesehatan Melalui Mekanisme Jalur Khusus (Special Access Scheme)",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN - KESEHATAN",
+ "field": "Alias",
+ "date_enacted": "2014-08-07",
+ "date_promulgated": "2014-08-22",
+ "date_effective": "2014-08-22",
+ "gazette": "BN.2014/NO.1184, kemkes.go.id : 12 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-5",
+   "target_bpk_id": 350852,
+   "label": "Permenkes No. 5 Tahun 2026",
+   "about": "Perbekalan Kesehatan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENKES-2020-7",
+   "target_bpk_id": 143145,
+   "label": "Permenkes No. 7 Tahun 2020",
+   "about": "Perubahan atas Peraturan Menteri Kesehatan Nomor 51 Tahun 2014 tentang Pemasukan Alat Kesehatan Melalui Mekanisme Jalur Khusus (Special Access Scheme)"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 22 Agustus 2014.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/134601/Permenkes%20Nomor%2051%20Tahun%202014.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:22:25Z"
+}

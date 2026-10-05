@@ -1,0 +1,37 @@
+{
+ "id": "PMK-2014-256",
+ "source": "bpk",
+ "bpk_id": 122098,
+ "url": "https://peraturan.bpk.go.id/Details/122098/pmk-no-256pmk032014",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "256",
+ "number_raw": "256/PMK.03/2014",
+ "year": 2014,
+ "title": "Peraturan Menteri Keuangan Nomor 256/PMK.03/2014 Tahun 2014 tentang Tata Cara Pemeriksaan Dan Penelitian Pajak Bumi Dan Bangunan",
+ "about": "Tata Cara Pemeriksaan Dan Penelitian Pajak Bumi Dan Bangunan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "Alias",
+ "date_enacted": "2014-12-30",
+ "date_promulgated": "2014-12-30",
+ "date_effective": "2015-01-29",
+ "gazette": "BN.2014/NO.2015,jdih.kemenkeu.go.id : 36 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-15",
+   "target_bpk_id": 314172,
+   "label": "PMK No. 15 Tahun 2025",
+   "about": "Pemeriksaan Pajak"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 29 Januari 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/112879/2014%20PMK%20256.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:09:31Z"
+}

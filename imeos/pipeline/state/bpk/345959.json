@@ -1,0 +1,43 @@
+{
+ "id": "PMK-2026-8",
+ "source": "bpk",
+ "bpk_id": 345959,
+ "url": "https://peraturan.bpk.go.id/Details/345959/pmk-no-8-tahun-2026",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "8",
+ "number_raw": "8",
+ "year": 2026,
+ "title": "Peraturan Menteri Keuangan Nomor 8 Tahun 2026 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 228/PMK.03/2017 tentang Rincian Jenis dan Data Informasi Serta Tata Cara Penyampaian Data dan Informasi yang Berkaitan dengan Perpajakan",
+ "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 228/PMK.03/2017 tentang Rincian Jenis dan Data Informasi Serta Tata Cara Penyampaian Data dan Informasi yang Berkaitan dengan Perpajakan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-02-11",
+ "date_promulgated": "2026-02-27",
+ "date_effective": "2026-02-27",
+ "gazette": "BN.2026 (136/139 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PMK-2017-228",
+   "target_bpk_id": 112987,
+   "label": "PMK No. 228/PMK.03/2017",
+   "about": "Rincian Jenis Data Dan Informasi Serta Tata Cara Penyampaian Data Dan Informasi Yang Berkaitan Dengan Perpajakan"
+  }
+ ],
+ "abstract": "a. bahwa untuk memberikan kepastian hukum,\nkemanfaatan, dan kejelasan terhadap pelaksanaan\nkegiatan penyampaian data dan informasi oleh instansi\npemerintah, lembaga, asosiasi, dan pihak lain dan\nkegiatan penghimpunan data dan informasi untuk\nkepentingan penerimaan negara, perlu dilakukan\npenyesuaian pengaturan rincian jenis data dan\ninformasi serta tata cara penyampaian data dan\ninformasi yang berkaitan dengan perpajakan;\nb. bahwa Peraturan Menteri Keuangan Nomor\n228/PMK.03/2017 tentang Rincian Jenis Data dan\nInformasi serta Tata Cara Penyampaian Data dan\nInformasi yang Berkaitan dengan Perpajakan belum\nmengatur mengenai pemberitahuan pemanfaatan data\ndan informasi, ketentuan penghimpunan data dan\ninformasi dalam hal data dan informasi tidak\nmencukupi, dan penyesuaian instansi pemerintah,\nlembaga, asosiasi, dan pihak lain, serta rincian jenis\ndata sesuai kebutuhan Direktorat Jenderal Pajak saat\nini, sehingga perlu dilakukan perubahan;\nc. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a dan huruf b, serta untuk\nmelaksanakan ketentuan Pasal 3 ayat (4), Pasal 4\nayat (1), Pasal 5 ayat (2), dan Pasal 7 ayat (3) Peraturan\nPemerintah Nomor 31 Tahun 2012 tentang Pemberian\ndan Penghimpunan Data dan Informasi yang Berkaitan\ndengan Perpajakan, perlu menetapkan Peraturan\nMenteri Keuangan tentang Perubahan atas Peraturan\nMenteri Keuangan Nomor 228/PMK.03/2017 tentang\nRincian Jenis Data dan Informasi serta Tata Cara\nPenyampaian Data dan Informasi yang Berkaitan\ndengan Perpajakan;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 31 Tahun 2012, Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Menteri Keuangan Nomor 228/PMK.03/2017 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri Keuangan\nNomor 228/PMK.03/2017 tentang Rincian Jenis Data dan\nInformasi serta Tata Cara Penyampaian Data dan Informasi\nyang Berkaitan dengan Perpajakan yaitu tentang ketentuan umum, pemberitahuan laporan atas pemanfaatan data dan informasi, pelimpahan kewenangan Direktur Jenderal Pajak",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 27 Februari 2026.\nPeraturan Menteri Keuangan\nNomor 228/PMK.03/2017 tentang Rincian Jenis Data dan\nInformasi serta Tata Cara Penyampaian Data dan Informasi\nyang Berkaitan dengan Perpajakan diubah sebagian.",
+ "citations": [
+  "PMK-2017-228",
+  "UU-2008-39",
+  "PP-2012-31",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/409313/2026pmkeuangan008.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:05:10Z"
+}

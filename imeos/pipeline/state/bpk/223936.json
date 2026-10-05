@@ -1,0 +1,37 @@
+{
+ "id": "PERBPOM-2021-27",
+ "source": "bpk",
+ "bpk_id": 223936,
+ "url": "https://peraturan.bpk.go.id/Details/223936/peraturan-bpom-no-27-tahun-2021",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "27",
+ "number_raw": "27",
+ "year": 2021,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 27 Tahun 2021 tentang Persyaratan Pangan Olahan Berasam Rendah Dikemas Hermetis",
+ "about": "Persyaratan Pangan Olahan Berasam Rendah Dikemas Hermetis",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "PANGAN, PERTANIAN DAN PETERNAKAN",
+ "field": "Alias",
+ "date_enacted": "2021-11-01",
+ "date_promulgated": "2021-11-02",
+ "date_effective": "2021-11-02",
+ "gazette": "BN.2021/No.1218, peraturan.go.id: 11 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 321139,
+   "label": "Peraturan BPOM No. 14 Tahun 2025",
+   "about": "Perubahan atas Peraturan Badan Pengawas Obat dan Makanan Nomor 27\r\nTahun 2021 tentang Persyaratan Pangan Olahan Berasam Rendah Dikemas Hermetis"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 02 November 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/218510/Peraturan%20BPOM%20Nomor%2027%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:29:03Z"
+}

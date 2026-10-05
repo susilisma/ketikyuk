@@ -1,0 +1,37 @@
+{
+ "id": "PERPRES-2025-16",
+ "source": "bpk",
+ "bpk_id": 316704,
+ "url": "https://peraturan.bpk.go.id/Details/316704/perpres-no-16-tahun-2025",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "16",
+ "number_raw": "16",
+ "year": 2025,
+ "title": "Peraturan Presiden (Perpres) Nomor 16 Tahun 2025 tentang Sistem Sertifikasi Kelapa Sawit Berkelanjutan Indonesia",
+ "about": "Sistem Sertifikasi Kelapa Sawit Berkelanjutan Indonesia",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KEHUTANAN DAN PERKEBUNAN",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2025-03-19",
+ "date_promulgated": "2025-03-19",
+ "date_effective": "2025-03-19",
+ "gazette": "LN 2025 (28) : 18 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2020-44",
+   "target_bpk_id": 134802,
+   "label": "PERPRES No. 44 Tahun 2020",
+   "about": "Sistem Sertifikasi Perkebunan Kelapa Sawit Berkelanjutan Indonesia"
+  }
+ ],
+ "abstract": "Untuk menjamin usaha perkebunan kelapa sawit, industri hilir kelapa sawit, dan usaha bioenergi kelapa sawit yang layak secara sosial, ekonomi, dan lingkungan sesuai dengan ketentuan peraturan perundang-undangan serta untuk meningkatkan keberterimaan pasar dan pelaksanaan prinsip keberlanjutan di seluruh rantai pasok produk dan/atau turunan kelapa sawit, perlu dilakukan penyempurnaan dalam penyelenggaraan sistem sertifikasi kelapa sawit berkelanjutan di Indonesia.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.\nPerpres ini menetapkan mengenai sistem sertifikasi kelapa sawit berkelanjutan di Indonesia. Kelapa Sawit Berkelanjutan Indonesia (Indonesian Sustainable Palm Oil) / ISPO adalah sistem usaha Perkebunan Kelapa Sawit, Industri Hilir Kelapa Sawit, dan Usaha Bioenergi Kelapa Sawit yang layak secara sosial, ekonomi, dan lingkungan sesuai dengan ketentuan peraturan perundang-undangan.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 19 Maret 2025.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 44 Tahun 2020 tentang Sistem Sertifikasi Perkebunan Kelapa Sawit Berkelanjutan Indonesia (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 75), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 18 hlm.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/378005/Perpres%20Nomor%2016%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:03:10Z"
+}

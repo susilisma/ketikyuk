@@ -12,7 +12,7 @@
  "about": "Perubahan atas Undang-Undang Nomor 12 Tahun 2011 Tentang Pembentukan Peraturan Perundang-Undangan",
  "issuer": "Pemerintah Pusat",
  "subject": "ADMINISTRASI DAN TATA USAHA NEGARA",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2019-10-02",
  "date_promulgated": "2019-10-04",
  "date_effective": "2019-10-04",
@@ -49,5 +49,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/112490/UU%20Nomor%2015%20Tahun%202019.pdf"
  ],
- "fetched_at": "2026-09-14T05:23:23Z"
+ "fetched_at": "2026-10-05T04:55:18Z"
 }

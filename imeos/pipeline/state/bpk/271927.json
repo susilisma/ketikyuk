@@ -1,0 +1,40 @@
+{
+ "id": "PERATURANBI-2023-11",
+ "source": "bpk",
+ "bpk_id": 271927,
+ "url": "https://peraturan.bpk.go.id/Details/271927/peraturan-bi-no-11-tahun-2023",
+ "form": "PERATURANBI",
+ "form_long": "Peraturan Bank Indonesia",
+ "number": "11",
+ "number_raw": "11",
+ "year": 2023,
+ "title": "Peraturan Bank Indonesia Nomor 11 Tahun 2023 tentang Kebijakan Insentif Likuiditas Makroprudensial",
+ "about": "Kebijakan Insentif Likuiditas Makroprudensial",
+ "issuer": "Bank Indonesia",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2023-09-18",
+ "date_promulgated": "2023-09-18",
+ "date_effective": "2023-10-01",
+ "gazette": "BN.2023 (31)/11 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 334668,
+   "label": "Peraturan BI No. 9 Tahun 2025",
+   "about": "Kebijakan Insentif Likuiditas Makroprudensial"
+  }
+ ],
+ "abstract": "a. bahwa Bank Indonesia memiliki tujuan untuk mencapai stabilitas nilai rupiah, memelihara stabilitas sistem pembayaran, dan turut menjaga stabilitas sistem keuangan dalam rangka mendukung pertumbuhan ekonomi yang berkelanjutan;\nb. bahwa salah satu tugas yang dilakukan oleh Bank Indonesia guna mencapai tujuan sebagaimana dimaksud dalam huruf a, Bank Indonesia menetapkan dan melaksanakan kebijakan makroprudensial melalui upaya mendorong intermediasi yang seimbang, berkualitas, dan berkelanjutan, memitigasi dan mengelola risiko sistemik, serta meningkatkan inklusi ekonomi, inklusi keuangan, dan keuangan berkelanjutan;\nc. bahwa guna mendukung pertumbuhan ekonomi Indonesia diperlukan upaya penguatan stimulus kebijakan makroprudensial yang berbasis likuiditas untuk menghadapi kecenderungan kredit dan pembiayaan perbankan yang tumbuh melambat di tengah tantangan global dan domestik;\nd. bahwa untuk penguatan stimulus kebijakan makroprudensial yang berbasis likuiditas sebagaimana dimaksud dalam huruf c untuk tetap mendorong intermediasi guna mendukung pertumbuhan ekonomi yang berkelanjutan, Peraturan Bank Indonesia Nomor 24/5/PBI/2022 tentang Insentif bagi Bank yang Memberikan Penyediaan Dana untuk Kegiatan Ekonomi Tertentu dan Inklusif perlu diganti;\ne. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, huruf c, dan huruf d, perlu menetapkan Peraturan Bank Indonesia tentang Kebijakan Insentif Likuiditas Makroprudensial;\nUndang-Undang Nomor 23 Tahun 1999 tentang Bank Indonesia\nPeraturan ini mengatur tentang ketentuan umum, pemberian KLM, data dan laporan sebagai sumber pemberian KLM, penyampaian informasi kepada bank, pengecualian pemberian KLM, pengawasan, penelitian ulang pemberian KLM kepada bank dan ketentuan penutup",
+ "note": "Peraturan Bank Indonesia ini mulai berlaku pada tanggal 01 Oktober 2023.\nPeraturan Bank Indonesia Nomor 24/5/PBI/2022 tentang Insentif bagi Bank yang Memberikan Penyediaan Dana untuk Kegiatan Ekonomi Tertentu dan Inklusif dicabut dan dinyatakan tidak berlaku",
+ "citations": [
+  "PBI-2022-24",
+  "UU-1999-23"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/330023/PBI_112023.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:31:01Z"
+}

@@ -1,0 +1,48 @@
+{
+ "id": "PP-2026-5",
+ "source": "bpk",
+ "bpk_id": 347924,
+ "url": "https://peraturan.bpk.go.id/Details/347924/pp-no-5-tahun-2026",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "5",
+ "number_raw": "5",
+ "year": 2026,
+ "title": "Peraturan Pemerintah (PP) Nomor 5 Tahun 2026 tentang Perubahan Kedua atas Peraturan Pemerintah Nomor 51 Tahun 1996 tentang Hak Keuangan/Administratif Duta Besar Luar Biasa dan Berkuasa Penuh dan Mantan Duta Besar Luar Biasa dan Berkuasa Penuh serta Janda/Dudanya",
+ "about": "Perubahan Kedua atas Peraturan Pemerintah Nomor 51 Tahun 1996 tentang Hak Keuangan/Administratif Duta Besar Luar Biasa dan Berkuasa Penuh dan Mantan Duta Besar Luar Biasa dan Berkuasa Penuh serta Janda/Dudanya",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-02-04",
+ "date_promulgated": "2026-02-04",
+ "date_effective": "2026-02-04",
+ "gazette": "LN 2026 (9), TLN (7158): 5 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PP-2000-61",
+   "target_bpk_id": 53344,
+   "label": "PP No. 61 Tahun 2000",
+   "about": "Perubahan Atas Peraturan Pemerintah Nomor 5 Tahun 1996 Tentang Hak Keuangan/Administratif Duta Besar Luar Biasa Dan Berkuasa Penuh Dan Mantan Duta Besar Luar Biasa Dan Berkuasa Penuh Serta Janda/Dudanya"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PP-1996-5",
+   "target_bpk_id": 56433,
+   "label": "PP No. 5 Tahun 1996",
+   "about": "Hak Keuangan/Administratif Duta Besar Luar Biasa Dan Berkuasa Penuh Dan Mantan Duta Besar Luar Biasa Dan Berkuasa Penuh Serta Janda/Dudanya"
+  }
+ ],
+ "abstract": "PP Nomor 5 Tahun 1996 dan perubahannya, belum mencakup pengaturan mengenai besaran tunjangan jabatan dan belum terdapat kepastian pemberian tunjangan yang berlaku bagi Pegawai Negeri Sipil bagi Duta Besar Luar Biasa dan Berkuasa Penuh serta sudah tidak sesuai dengan perkembangan hukum, sehingga perlu diubah.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945; UU No. 20 Tahun 2023; PP No. 7 Tahun 1977; dan PP No. 5 Tahun 1996.\nPP ini mengubah beberapa ketantuan dalam PP No. 5 Tahun 1996.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 04 Februari 2026.\nPP ini mengubah PP Nomor 5 Tahun 2026.\nLampiran file: 8 hlm (batang tubuh hlm 1 sd 5, lampiran hlm 6 sd 8)",
+ "citations": [
+  "PP-1996-5",
+  "UU-2023-20",
+  "PP-1977-7"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/411499/PP%20Nomor%205%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-10-05T04:57:28Z"
+}

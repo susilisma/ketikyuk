@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2018-136",
+ "source": "bpk",
+ "bpk_id": 99844,
+ "url": "https://peraturan.bpk.go.id/Details/99844/perpres-no-136-tahun-2018",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "136",
+ "number_raw": "136",
+ "year": 2018,
+ "title": "Peraturan Presiden (Perpres) Nomor 136 Tahun 2018 tentang Tunjangan Kinerja Pegawai di Lingkungan Kementerian Pendidikan dan Kebudayaan",
+ "about": "Tunjangan Kinerja Pegawai di Lingkungan Kementerian Pendidikan dan Kebudayaan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA",
+ "field": "Alias",
+ "date_enacted": "2018-12-28",
+ "date_promulgated": "2018-12-28",
+ "date_effective": "2018-12-28",
+ "gazette": "LN.2018/NO.254, LL SETNEG : 7 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2025-18",
+   "target_bpk_id": 316718,
+   "label": "Perpres No. 18 Tahun 2025",
+   "about": "Tunjangan Kinerja Pegawai di Lingkungan Kementerian Pendidikan Dasar dan Menengah"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2015-151",
+   "target_bpk_id": 41910,
+   "label": "PERPRES No. 151 Tahun 2015",
+   "about": "Tunjangan Kinerja Pegawai di Lingkungan Kementerian Pendidikan dan Kebudayaan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 28 Desember 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/90554/Perpres%20Nomor%20136%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:03:06Z"
+}

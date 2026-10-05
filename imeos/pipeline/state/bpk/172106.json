@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKES-2015-80",
+ "source": "bpk",
+ "bpk_id": 172106,
+ "url": "https://peraturan.bpk.go.id/Details/172106/permenkes-no-80-tahun-2015",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "80",
+ "number_raw": "80",
+ "year": 2015,
+ "title": "Peraturan Menteri Kesehatan Nomor 80 Tahun 2015 tentang Perubahan atas Peraturan Menteri Kesehatan Nomor 9 Tahun 2013 tentang Penugasan Khusus Tenaga Kesehatan",
+ "about": "Perubahan atas Peraturan Menteri Kesehatan Nomor 9 Tahun 2013 tentang Penugasan Khusus Tenaga Kesehatan",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA - KESEHATAN",
+ "field": "Alias",
+ "date_enacted": "2015-11-27",
+ "date_promulgated": "2015-12-15",
+ "date_effective": "2015-01-01",
+ "gazette": "BN.2015/No.1862, peraturan.go.id : 10 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2025-13",
+   "target_bpk_id": 335214,
+   "label": "Permenkes No. 13 Tahun 2025",
+   "about": "Pengelolaan Sumber Daya Manusia Kesehatan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENKES-2013-9",
+   "target_bpk_id": 172107,
+   "label": "Permenkes No. 9 Tahun 2013",
+   "about": "Penugasan Khusus Tenaga Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 01 Januari 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/165275/Permenkes%20Nomor%2080%20Tahun%202015.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:24:03Z"
+}

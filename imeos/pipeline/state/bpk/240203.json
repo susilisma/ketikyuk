@@ -12,7 +12,7 @@
  "about": "Pengembangan dan Penguatan Sektor Keuangan",
  "issuer": "Pemerintah Pusat",
  "subject": "ASURANSI - PENANAMAN MODAL DAN INVESTASI - PERBANKAN, LEMBAGA KEUANGAN - PEREKONOMIAN - KOPERASI, UMKM",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2023-01-12",
  "date_promulgated": "2023-01-12",
  "date_effective": "2023-01-12",
@@ -225,5 +225,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/295189/UU%20Nomor%204%20Tahun%202023.pdf"
  ],
- "fetched_at": "2026-09-14T05:23:14Z"
+ "fetched_at": "2026-10-05T04:55:07Z"
 }

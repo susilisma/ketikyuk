@@ -12,7 +12,7 @@
  "about": "Tentara Nasional Indonesia",
  "issuer": "Pemerintah Pusat",
  "subject": "PERTAHANAN DAN KEAMANAN, MILITER",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2004-10-16",
  "date_promulgated": "2004-10-16",
  "date_effective": "2004-10-16",
@@ -40,5 +40,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/30510/UU%20Nomor%2034%20Tahun%202004.pdf"
  ],
- "fetched_at": "2026-09-14T05:23:59Z"
+ "fetched_at": "2026-10-05T04:56:02Z"
 }

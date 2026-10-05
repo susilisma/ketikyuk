@@ -1,0 +1,51 @@
+{
+ "id": "PERMENKUMHAM-2012-16",
+ "source": "bpk",
+ "bpk_id": 134409,
+ "url": "https://peraturan.bpk.go.id/Details/134409/permenkumham-no-16-tahun-2012",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "16",
+ "number_raw": "16",
+ "year": 2012,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 16 Tahun 2012 tentang Perubahan Kedua atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor M.HH-05.UM.01.01 Tahun 2011 Tentang Logo Kementerian Hukum dan Hak Asasi Manusia",
+ "about": "Perubahan Kedua atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor M.HH-05.UM.01.01 Tahun 2011 Tentang Logo Kementerian Hukum dan Hak Asasi Manusia",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA",
+ "field": "Alias",
+ "date_enacted": "2012-09-19",
+ "date_promulgated": "2012-09-19",
+ "date_effective": "2012-09-19",
+ "gazette": "BN.2012/No.931, peraturan.go.id: 3 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 317309,
+   "label": "Permenkum No. 10 Tahun 2025",
+   "about": "Logo dan Mars Kementerian Hukum"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 134440,
+   "label": "Permenkumham No. M.HH-07.UM.01.01 Tahun 2011",
+   "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor M.HH-05.UM.01.01 Tahun 2011 tentang Logo Kementerian Hukum dan Hak Asasi Manusia"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 134431,
+   "label": "Permenkumham No. M.HH-05.UM.01.01 Tahun 2011",
+   "about": "Logo Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 19 September 2012.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/125196/Permenkumham%20Nomor%2016%20Tahun%202012.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:19:59Z"
+}

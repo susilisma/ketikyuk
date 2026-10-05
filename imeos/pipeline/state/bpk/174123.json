@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKUMHAM-2020-28",
+ "source": "bpk",
+ "bpk_id": 174123,
+ "url": "https://peraturan.bpk.go.id/Details/174123/permenkumham-no-28-tahun-2020",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "28",
+ "number_raw": "28",
+ "year": 2020,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 28 Tahun 2020 tentang Statuta Politeknik Imigrasi",
+ "about": "Statuta Politeknik Imigrasi",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "PENDIDIKAN",
+ "field": "Alias",
+ "date_enacted": "2020-11-03",
+ "date_promulgated": "2020-11-10",
+ "date_effective": "2020-11-10",
+ "gazette": "BN.2020/No.1301, peraturan.go.id : 45 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 332338,
+   "label": "Permenkum No. 30 Tahun 2025",
+   "about": "Statuta Politeknik Pengayoman Indonesia"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133195,
+   "label": "Permenkumham No. 14 Tahun 2017",
+   "about": "Statuta Politeknik Imigrasi"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 10 November 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/167319/28%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:19:06Z"
+}

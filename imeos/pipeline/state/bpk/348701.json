@@ -1,0 +1,39 @@
+{
+ "id": "PP-2026-4",
+ "source": "bpk",
+ "bpk_id": 348701,
+ "url": "https://peraturan.bpk.go.id/Details/348701/pp-no-4-tahun-2026",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "4",
+ "number_raw": "4",
+ "year": 2026,
+ "title": "Peraturan Pemerintah (PP) Nomor 4 Tahun 2026 tentang Perubahan atas Peraturan Pemerintah Nomor 28 Tahun 2022 tentang Pengurusan Piutang Negara oleh Panitia Urusan Piutang Negara",
+ "about": "Perubahan atas Peraturan Pemerintah Nomor 28 Tahun 2022 tentang Pengurusan Piutang Negara oleh Panitia Urusan Piutang Negara",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PIUTANG, UTANG, DAN HIBAH NEGARA / DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-01-26",
+ "date_promulgated": "2026-01-26",
+ "date_effective": "2026-01-26",
+ "gazette": "LN 2026 (7), TLN (7157) : 9 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PP-2022-28",
+   "target_bpk_id": 222113,
+   "label": "PP No. 28 Tahun 2022",
+   "about": "Pengurusan Piutang Negara oleh Panitia Urusan Piutang Negara"
+  }
+ ],
+ "abstract": "Dengan adanya piutang negara yang diurus oleh panitia urusan piutang negara namun belum diselesaikannya kewajiban para penanggung utang sebagaimana mestinya, perlu menyempurnakan ketentuan pengurusan piutang negara mengenai pendayagunaan, penguasaan fisik dan penggunaan barang jaminan/harta kekayaan lain, pembelian barang jaminan/harta kekayaan lain, pembelian melalui lelang, serta pembayaran utang dengan pengambilalihan aset untuk penyelenggaraan pemerintahan dan/atau untuk pelaksanaan pembangunan guna kepentingan umum.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945; UU No. 49 Prp Tahun 1960; dan PP No. 28 Tahun 2022.\nPP ini mengubah beberapa ketentuan dalam PP No. 28 Tahun 2022.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 26 Januari 2026.\nPP ini mengubah PP No. 28 Tahun 2022\nLampiran file: 13 hlm (batang tubuh hlm 1 sd 9 dan penjelasan hlm 10 sd 13)",
+ "citations": [
+  "PP-2022-28"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/412362/PP%20Nomor%204%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-10-05T04:57:32Z"
+}

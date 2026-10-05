@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKOMINFO-2022-9",
+ "source": "bpk",
+ "bpk_id": 228298,
+ "url": "https://peraturan.bpk.go.id/Details/228298/permenkominfo-no-9-tahun-2022",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Informatika",
+ "number": "9",
+ "number_raw": "9",
+ "year": 2022,
+ "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 9 Tahun 2022 tentang Organisasi dan Tata Kerja Sekretariat Komisi Informasi Pusat",
+ "about": "Organisasi dan Tata Kerja Sekretariat Komisi Informasi Pusat",
+ "issuer": "Kementerian Komunikasi dan Informatika",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "Alias",
+ "date_enacted": "2022-05-31",
+ "date_promulgated": "2022-07-04",
+ "date_effective": "2022-07-04",
+ "gazette": "BN.2021/No.639, https://jdih.kominfo.go.id/: 9 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 344573,
+   "label": "Permenkomdigi No. 4 Tahun 2026",
+   "about": "Organisasi dan Tata Kerja Sekretariat Komisi Informasi Pusat"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 161447,
+   "label": "Permenkominfo No. 11/PER/M.KOMINFO/3/2011 Tahun 2011",
+   "about": "Organisasi dan Tata Kerja Sekretariat Komisi Informasi Pusat"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Komunikasi dan Informatika ini mulai berlaku pada tanggal 04 Juli 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/223119/Salinan_PM_Kominfo_Nomor_9_Tahun_2022_OTK_Sekretariat_KIP.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:16:02Z"
+}

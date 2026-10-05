@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKES-2017-63",
+ "source": "bpk",
+ "bpk_id": 112244,
+ "url": "https://peraturan.bpk.go.id/Details/112244/permenkes-no-63-tahun-2017",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "63",
+ "number_raw": "63",
+ "year": 2017,
+ "title": "Peraturan Menteri Kesehatan Nomor 63 Tahun 2017 tentang Cara Uji Klinik Alat Kesehatan yang Baik",
+ "about": "Cara Uji Klinik Alat Kesehatan yang Baik",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - PERLINDUNGAN KONSUMEN - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "Alias",
+ "date_enacted": "2017-12-29",
+ "date_promulgated": "2018-01-16",
+ "date_effective": "2018-01-16",
+ "gazette": "BN.2018/NO.106, kemkes.go.id : 17 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-5",
+   "target_bpk_id": 350852,
+   "label": "Permenkes No. 5 Tahun 2026",
+   "about": "Perbekalan Kesehatan"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PERMENKES-2026-5",
+   "target_bpk_id": 350852,
+   "label": "Permenkes No. 5 Tahun 2026",
+   "about": "Perbekalan Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 16 Januari 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/103188/Permenkes%20Nomor%2063%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:22:37Z"
+}

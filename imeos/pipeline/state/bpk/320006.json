@@ -1,0 +1,51 @@
+{
+ "id": "PERMENKOMINFO-2025-10",
+ "source": "bpk",
+ "bpk_id": 320006,
+ "url": "https://peraturan.bpk.go.id/Details/320006/permenkomdigi-no-10-tahun-2025",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Digital",
+ "number": "10",
+ "number_raw": "10",
+ "year": 2025,
+ "title": "Peraturan Menteri Komunikasi dan Digital Nomor 10 Tahun 2025 tentang Petunjuk Pelaksanaan dan Petunjuk Teknis",
+ "about": "Petunjuk Pelaksanaan dan Petunjuk Teknis",
+ "issuer": "Kementerian Komunikasi dan Digital",
+ "subject": "JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-05-19",
+ "date_promulgated": "2025-05-23",
+ "date_effective": "2025-05-23",
+ "gazette": "BN 2025 (354); 134 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 149648,
+   "label": "Permenkominfo No. 8 Tahun 2018",
+   "about": "Petunjuk Teknis Jabatan Fungsional Penguji Dan Asisten Penguji Perangkat Telekomunikasi"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 159755,
+   "label": "Permenkominfo No. 26A/PER/M.KOMINFO/7/2008 Tahun 2008",
+   "about": "Pedoman Penyusunan Formasi Jabatan Fungsional Pengendali Frekuensi Radio"
+  }
+ ],
+ "abstract": "bahwa petunjuk pelaksanaan dan petunjuk teknis\nJabatan Fungsional Pengendali Frekuensi Radio, Jabatan\nFungsional Penata Kelola Spektrum Frekuensi Radio,\nJabatan Fungsional Penguji Perangkat Telekomunikasi,\ndan Jabatan Fungsional Asisten Penguji Perangkat\nTelekomunikasi disusun sebagai pedoman dalam\npelaksanaan tugas, tanggung jawab, dan wewenang\nJabatan Fungsional Pengendali Frekuensi Radio, Jabatan\nFungsional Penata Kelola Spektrum Frekuensi Radio,\nJabatan Fungsional Penguji Perangkat Telekomunikasi,\ndan Jabatan Fungsional Asisten Penguji Perangkat\nTelekomunikasi\nDasar hukum Pasal 17 ayat (3) UUD 1945; UU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024; UU Nomor 20 Tahun 2023; PP Nomor 11 Tahun 2017 sebagaimana telah diubah dengan PP Nomor 17 Tahun 2020; Perpres Nomor 174 Tahun 2024; Permenkominfo Nomor 1 Tahun 2022; Permenkominfo Nomor 2 Tahun 2022; Permenpan Nomor 1 Tahun 2023; Peraturan BKN Nomor 3 Tahun 2023; Permenpan Nomor 17 Tahun 2023; Permenkomdigi Nomor 1 Tahun 2025\nPeraturan ini mengatur mengenai kedudukan, tanggung jawab, klasifikasi/rumpun jabatan, kategori, dan jenjang jabatan; tugas jabatan, ruang lingkup kegiatan, dan hasil kerja; pedoman penghitungan kebutuhan; pengangkatan dalam jabatan; pemberhentian dari jabatan dan tata cara pemberhentian; pengelolaan kinerja dan pengembangan kompetensi; kenaikan pangkat; uji kompentensi; organisasi profesi; sistem informasi jabatan fungsional",
+ "note": "Peraturan Menteri Komunikasi dan Digital ini mulai berlaku pada tanggal 23 Mei 2025.",
+ "citations": [
+  "UU-2008-39",
+  "UU-2024-61",
+  "UU-2023-20",
+  "PP-2017-11",
+  "PP-2020-17",
+  "PERPRES-2024-174"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/381636/permenkomdigi-no-10-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:16:35Z"
+}

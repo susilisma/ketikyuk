@@ -1,0 +1,41 @@
+{
+ "id": "PP-2025-2",
+ "source": "bpk",
+ "bpk_id": 313398,
+ "url": "https://peraturan.bpk.go.id/Details/313398/pp-no-2-tahun-2025",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "2",
+ "number_raw": "2",
+ "year": 2025,
+ "title": "Peraturan Pemerintah (PP) Nomor 2 Tahun 2025 tentang Perubahan atas Peraturan Pemerintah Nomor 39 Tahun 1970 tentang Pengalihan Bentuk Perusahaan Negara (PN) Yodya Karya Menjadi Perusahaan Perseroan (Persero)",
+ "about": "Perubahan atas Peraturan Pemerintah Nomor 39 Tahun 1970 tentang Pengalihan Bentuk Perusahaan Negara (PN) Yodya Karya Menjadi Perusahaan Perseroan (Persero)",
+ "issuer": "Pemerintah Pusat",
+ "subject": "BUMN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-01-16",
+ "date_promulgated": "2025-01-16",
+ "date_effective": "2025-01-16",
+ "gazette": "LN 2025 (2) : 5 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PP-1970-39",
+   "target_bpk_id": 70114,
+   "label": "PP No. 39 Tahun 1970",
+   "about": "Pengalihan Bentuk Perusahaan Negara (P.N.) Yodya Karya Menjadi Perusahaan Perseroan (Persero)"
+  }
+ ],
+ "abstract": "Untuk mendukung program pemerintah dalam mewujudkan swasembada pangan serta untuk mengoptimalkan peran badan usaha milik negara sebagai agen pembangunan nasional dalam rangka meningkatkan perekonomian nasional dan pencapaian swasembada pangan melalui pengembangan ekosistem komoditas pertanian dengan tetap menjalankan kegiatan usaha sebelumnya, perlu mengubah maksud dan tujuan serta kegiatan usaha Perusahaan Perseroan (Persero) PT Yodya Karya.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD NRI Tahun 1945; UU Nomor 19 Tahun 2003; PP Nomor 39 Tahun 1970; dan PP Nomor 41 Tahun 2003.\nPP ini mengubah dan menambah beberapa ketentuan dalam PP Nomor 39 Tahun 1970. Diantara Bab I dan Bab II disisipkan 1 (satu) bab, yang mengatur mengenai maksud dan tujuan serta kegiatan usaha. Perusahaan Perseroan (Persero) memiliki maksud dan tujuan untuk melaksanakan kegiatan usaha di bidang pertanian dan konsultansi konstruksi, serta melakukan optimalisasi pemanfaatan sumber daya Perusahaan Perseroan (Persero) berdasarkan prinsip tata kelola perusahaan yang baik.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 16 Januari 2025.\nPP ini mengubah PP Nomor 39 Tahun 1970.\nLampiran file: 5 hlm.",
+ "citations": [
+  "UU-2003-19",
+  "PP-1970-39",
+  "PP-2003-41"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/374289/PP%20Nomor%202%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T04:59:22Z"
+}

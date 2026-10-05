@@ -12,7 +12,7 @@
  "about": "Pemerintahan Daerah",
  "issuer": "Pemerintah Pusat",
  "subject": "APBD - OTONOMI DAERAH DAN PEMERINTAH DAERAH",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2014-09-30",
  "date_promulgated": "2014-10-02",
  "date_effective": "2014-10-02",
@@ -127,5 +127,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/28013/UU%20Nomor%2023%20Tahun%202014.pdf"
  ],
- "fetched_at": "2026-09-14T05:23:26Z"
+ "fetched_at": "2026-10-05T04:55:22Z"
 }

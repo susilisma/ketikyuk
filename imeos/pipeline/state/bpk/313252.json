@@ -1,0 +1,47 @@
+{
+ "id": "PMK-2025-4",
+ "source": "bpk",
+ "bpk_id": 313252,
+ "url": "https://peraturan.bpk.go.id/Details/313252/pmk-no-4-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "4",
+ "number_raw": "4",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 4 Tahun 2025 tentang Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 96 Tahun 2023 tentang Ketentuan Kepabeanan, Cukai dan Pajak atas Impor dan Ekspor Barang Kiriman",
+ "about": "Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 96 Tahun 2023 tentang Ketentuan Kepabeanan, Cukai dan Pajak atas Impor dan Ekspor Barang Kiriman",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-01-06",
+ "date_promulgated": "2025-02-03",
+ "date_effective": "2025-03-05",
+ "gazette": "BN 2024 (72); 21 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah sebagian",
+   "target": "PMK-2023-96",
+   "target_bpk_id": 269778,
+   "label": "PMK No. 96 Tahun 2023",
+   "about": "Ketentuan Kepabeaan Cukai Dan Pajak Atas Impor Dan Ekspor Barang Kiriman"
+  }
+ ],
+ "abstract": "a. bahwa ketentuan kepabeanan, cukai, dan pajak atas impor dan ekspor barang kiriman telah diatur dalam Peraturan Menteri Keuangan Nomor 96 Tahun 2023 tentang Ketentuan Kepabeanan, Cukai, dan Pajak atas Impor dan Ekspor Barang Kiriman sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 111\nTahun 2023 tentang Perubahan atas Peraturan Menteri\nKeuangan Nomor 96 Tahun 2023 tentang Ketentuan Kepabeanan, Cukai, dan Pajak atas Impor dan Ekspor Barang Kiriman;\nb. bahwa untuk lebih meningkatkan pelayanan dan pengawasan serta memberikan kepastian hukum dalam kegiatan impor dan ekspor barang kiriman, Peraturan Menteri Keuangan Nomor 96 Tahun 2023 tentang Ketentuan Kepabeanan, Cukai, dan Pajak atas Impor dan Ekspor Barang Kiriman sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 111 Tahun 2023 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 96 Tahun 2023 tentang Ketentuan Kepabeanan, Cukai, dan Pajak atas Impor dan Ekspor Barang Kiriman, sehingga perlu diubah;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu menetapkan\nPeraturan Menteri Keuangan tentang Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 96 Tahun 2023 tentang Ketentuan Kepabeanan, Cukai, dan Pajak atas Impor dan Ekspor Barang Kiriman;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 7 Tahun 1983, Undang-Undang Nomor 8 Tahun 1983, Undang-Undang Nomor 10 Tahun 1995, Undang-Undang Nomor 11 Tahun 1995, Undang-Undang Nomor 39 Tahun 2008, Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Menteri Keuangan Nomor 96 Tahun 2023 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 96 Tahun 2023 tentang Ketentuan Kepabeanan, Cukai, dan\nPajak atas Impor dan Ekspor Barang Kiriman sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 111 Tahun\n2023 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 96 Tahun 2023 tentang Ketentuan Kepabeanan, Cukai, dan Pajak atas Impor dan Ekspor Barang Kiriman yaitu tentang penyelenggaraan pos, PPMSE, barang kiriman, tarif pembebanan bea masuk, elemen data dalam CN, pemberitahuan ekspor barang atas ekspor Barang Kiriman kepada Pejabat Bea dan Cukai dan Konsolidasi Barang Kiriman",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 05 Maret 2025.\nPeraturan Menteri Keuangan Nomor 96 Tahun 2023 tentang Ketentuan Kepabeanan, Cukai, dan Pajak atas Impor dan Ekspor Barang Kiriman diubah sebagian",
+ "citations": [
+  "PMK-2023-96",
+  "PMK-2023-111",
+  "UU-1983-7",
+  "UU-1983-8",
+  "UU-1995-10",
+  "UU-1995-11",
+  "UU-2008-39",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/374129/2024pmkeuangan004.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:09:44Z"
+}

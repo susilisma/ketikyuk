@@ -1,0 +1,73 @@
+{
+ "id": "PERMENKES-2026-1",
+ "source": "bpk",
+ "bpk_id": 344092,
+ "url": "https://peraturan.bpk.go.id/Details/344092/permenkes-no-1-tahun-2026",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "1",
+ "number_raw": "1",
+ "year": 2026,
+ "title": "Peraturan Menteri Kesehatan Nomor 1 Tahun 2026 tentang Kejadian Luar Biasa, Wabah, dan Krisis Kesehatan",
+ "about": "Kejadian Luar Biasa, Wabah, dan Krisis Kesehatan",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-01-20",
+ "date_promulgated": "2026-01-21",
+ "date_effective": "2026-01-21",
+ "gazette": "BN 2026 (48); 78",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2019-75",
+   "target_bpk_id": 138674,
+   "label": "Permenkes No. 75 Tahun 2019",
+   "about": "Penanggulangan Krisis Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2019-12",
+   "target_bpk_id": 111758,
+   "label": "Permenkes No. 12 Tahun 2019",
+   "about": "Perubahan Atas Peraturan Menteri Kesehatan Nomor 23 Tahun 2018 Tentang Pelayanan Dan Penerbitan Sertifikat Vaksinasi Internasional"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2018-23",
+   "target_bpk_id": 129742,
+   "label": "Permenkes No. 23 Tahun 2018",
+   "about": "Pelayanan dan Penerbitan Sertifikat Vaksinasi Internasional"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2016-19",
+   "target_bpk_id": 139480,
+   "label": "Permenkes No. 19 Tahun 2016",
+   "about": "Sistem Penanggulangan Gawat Darurat Terpadu"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2014-45",
+   "target_bpk_id": 154750,
+   "label": "Permenkes No. 45 Tahun 2014",
+   "about": "Penyelenggaraan Surveilans Kesehatan"
+  }
+ ],
+ "abstract": "bahwa untuk melaksanakan ketentuan Pasal 271 ayat (3), Pasal 278, Pasal 638, Pasal 1041, Pasal 1047, Pasal 1049 ayat (7), Pasal 1069, Pasal 1075, Pasal 1083, Pasal 1093, Pasal 1112 ayat (7), Pasal 1115, dan Pasal 1121 Peraturan Pemerintah Nomor 28 Tahun 2024 tentang Peraturan Pelaksanaan Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan,\nDasar hukum peraturan ini adalah UUD NRI Tahun 1945 Pasal 17 ayat (3);\nUU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024;\nUU Nomor 17 Tahun 2023;\nPP Nomor 28 Tahun 2024;\nPerpres Nomor 161 Tahun 2024;\nPermenkes Nomor 21 Tahun 2024 sebagaimana telah diubah dengan Permenkes Nomor 17 Tahun 2025.\nPeraturan ini mengatur mengenai kewaspadaan kejadian luar biasa di wilayah; Kewaspadaan Kejadian Luar Biasa di Pintu Masuk dan Pelabuhan atau Bandar Udara yang Melayani Lalu Lintas Domestik; kewaspadaan wabah; dokumen karantina kesehatan; krisis kesehatan; sumber daya kesehatan",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 21 Januari 2026.",
+ "citations": [
+  "PP-2024-28",
+  "UU-2023-17",
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2024-161",
+  "PERMENKES-2024-21",
+  "PERMENKES-2025-17"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/407335/permenkes-no-1-tahun-2026.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:23:10Z"
+}

@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKES-2010-1189",
+ "source": "bpk",
+ "bpk_id": 129880,
+ "url": "https://peraturan.bpk.go.id/Details/129880/permenkes-no-1189menkesperviii2010-tahun-2010",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "1189",
+ "number_raw": "1189/MENKES/PER/VIII/2010",
+ "year": 2010,
+ "title": "Peraturan Menteri Kesehatan Nomor 1189/MENKES/PER/VIII/2010 Tahun 2010 tentang Produksi Alat Kesehatan dan Perbekalan Kesehatan Rumah Tangga",
+ "about": "Produksi Alat Kesehatan dan Perbekalan Kesehatan Rumah Tangga",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - PERIZINAN, PELAYANAN PUBLIK",
+ "field": "Alias",
+ "date_enacted": "2010-08-23",
+ "date_promulgated": "2010-08-23",
+ "date_effective": "2010-08-23",
+ "gazette": "BN.2010/NO.399/ peraturan.go.id : 19 Hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-5",
+   "target_bpk_id": 350852,
+   "label": "Permenkes No. 5 Tahun 2026",
+   "about": "Perbekalan Kesehatan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENKES-2018-26",
+   "target_bpk_id": 111928,
+   "label": "Permenkes No. 26 Tahun 2018",
+   "about": "Pelayanan Perizinan Berusaha Terintegrasi Secara Elektronik Sektor Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 23 Agustus 2010.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/120749/Permenkes%20Nomor%201189%20Tahun%202010.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:22:35Z"
+}

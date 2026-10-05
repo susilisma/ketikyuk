@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKES-2014-10",
+ "source": "bpk",
+ "bpk_id": 117307,
+ "url": "https://peraturan.bpk.go.id/Details/117307/permenkes-no-10-tahun-2014",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "10",
+ "number_raw": "10",
+ "year": 2014,
+ "title": "Peraturan Menteri Kesehatan Nomor 10 Tahun 2014 tentang Dewan Pengawas Rumah Sakit",
+ "about": "Dewan Pengawas Rumah Sakit",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "BADAN LAYANAN UMUM - KESEHATAN",
+ "field": "Alias",
+ "date_enacted": "2014-02-14",
+ "date_promulgated": "2014-02-24",
+ "date_effective": "2014-02-24",
+ "gazette": "BN.2014 /NO.360, kemenkes.go.id : 8 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-6",
+   "target_bpk_id": 350851,
+   "label": "Permenkes No. 6 Tahun 2026",
+   "about": "Rumah Sakit"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 24 Februari 2014.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/108105/Permenkes%20Nomor%2010%20Tahun%202014.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:22:04Z"
+}

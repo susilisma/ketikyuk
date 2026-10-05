@@ -1,0 +1,37 @@
+{
+ "id": "PERBPOM-2022-15",
+ "source": "bpk",
+ "bpk_id": 223976,
+ "url": "https://peraturan.bpk.go.id/Details/223976/peraturan-bpom-no-15-tahun-2022",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "15",
+ "number_raw": "15",
+ "year": 2022,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 15 Tahun 2022 tentang Penerapan Farmakovigilans",
+ "about": "Penerapan Farmakovigilans",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "KESEHATAN",
+ "field": "Alias",
+ "date_enacted": "2022-07-07",
+ "date_promulgated": "2022-07-07",
+ "date_effective": "2022-07-07",
+ "gazette": "BN.2022/No.655, peraturan.go.id: 23 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 345742,
+   "label": "Peraturan BPOM No. 4 Tahun 2026",
+   "about": "Pelaksanaan Farmakovigilans"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 07 Juli 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/218550/Peraturan%20BPOM%20Nomor%2015%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:24:48Z"
+}

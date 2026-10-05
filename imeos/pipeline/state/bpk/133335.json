@@ -12,7 +12,7 @@
  "about": "Paspor Biasa dan Surat Perjalanan Laksana Paspor",
  "issuer": "Kementerian Hukum dan HAM",
  "subject": "KEWARGANEGARAAN DAN IMIGRASI",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2014-04-30",
  "date_promulgated": "2014-05-16",
  "date_effective": "2014-05-16",
@@ -61,5 +61,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/124122/Permenkumham%20Nomor%208%20Tahun%202014.pdf"
  ],
- "fetched_at": "2026-09-14T06:42:30Z"
+ "fetched_at": "2026-10-05T05:20:30Z"
 }

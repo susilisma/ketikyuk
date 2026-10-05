@@ -1,0 +1,51 @@
+{
+ "id": "PERMENKUMHAM-2022-24",
+ "source": "bpk",
+ "bpk_id": 280244,
+ "url": "https://peraturan.bpk.go.id/Details/280244/permenkumham-no-24-tahun-2022",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "24",
+ "number_raw": "24",
+ "year": 2022,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 24 Tahun 2022 tentang Pakaian Dinas Aparatur Sipil Negara di Lingkungan Kementerian Hukum dan Hak Asasi Manusia",
+ "about": "Pakaian Dinas Aparatur Sipil Negara di Lingkungan Kementerian Hukum dan Hak Asasi Manusia",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2022-11-23",
+ "date_promulgated": "2022-11-23",
+ "date_effective": "2022-11-23",
+ "gazette": "BN 2022 (1182) : 20 hlm.; peraturan.go.id",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 350883,
+   "label": "Permenkum No. 12 Tahun 2025",
+   "about": "Pakaian Dinas Aparatur Sipil Negara di Lingkungan Kementerian Hukum"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 288658,
+   "label": "Permenkumham No. 12 Tahun 2024",
+   "about": "Perubahan Kedua atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 24 Tahun 2022 tentang Pakaian Dinas Aparatur Sipil Negara di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 247320,
+   "label": "Permenkumham No. 9 Tahun 2023",
+   "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 24 Tahun 2022 tentang Pakaian Dinas Aparatur Sipil Negara di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 23 November 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/339010/Nomor%2024%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:19:55Z"
+}

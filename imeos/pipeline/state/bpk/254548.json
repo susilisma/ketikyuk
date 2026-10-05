@@ -1,0 +1,48 @@
+{
+ "id": "PERMENPERIN-2023-8",
+ "source": "bpk",
+ "bpk_id": 254548,
+ "url": "https://peraturan.bpk.go.id/Details/254548/permenperin-no-8-tahun-2023",
+ "form": "PERMENPERIN",
+ "form_long": "Peraturan Menteri Perindustrian",
+ "number": "8",
+ "number_raw": "8",
+ "year": 2023,
+ "title": "Peraturan Menteri Perindustrian Nomor 8 Tahun 2023 tentang Organisasi dan Tata Kerja Kementerian Perindustrian",
+ "about": "Organisasi dan Tata Kerja Kementerian Perindustrian",
+ "issuer": "Kementerian Perindustrian",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "Alias",
+ "date_enacted": "2023-05-11",
+ "date_promulgated": "2023-05-12",
+ "date_effective": "2023-05-12",
+ "gazette": "BN.2023/No.384, http://jdih.kemenperin.go.id: 93 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENPERIN-2025-1",
+   "target_bpk_id": 321014,
+   "label": "Permenperin No. 1 Tahun 2025",
+   "about": "Organisasi dan Tata Kerja Kementerian Perindustrian"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENPERIN-2021-7",
+   "target_bpk_id": 166919,
+   "label": "Permenperin No. 7 Tahun 2021",
+   "about": "Organisasi dan Tata Kerja Kementerian Perindustrian"
+  }
+ ],
+ "abstract": "Untuk mewujudkan tata kelola organisasi Kementerian Perindustrian yang lebih efektif dan efesien dengan birokrasi yang lincah dan dinamis, perlu melakukan penataan kembali organisasi dan tata kerja Kementerian Prindustrian, penataan organisasi dan tata kerja Kementerian Perindustrian telah mendapatkan persetujuan tertulis dari Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi, maka perlu menetapkan Peraturan Menteri Perindustrian tentang Organisasi dan Tata Kerja Kementerian Perindustrian.\nDasar hukum Peraturan Menteri ini adalah : Pasal 17 Ayat (3) UUD 1945, UU No. 39 Tahun 2008, UU No. 3 Tahun 2014, PERPRES No. 107 Tahun 2020.\nDalam Peraturan Menteri ini diatur tentang Organisasi dan Tata Kerja Kementerian Perindustrian, dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Kementerian Perindustrian berada di bawah dan bertanggung jawab kepada Presiden dan dipimpin oleh Menteri dibantu dengan Wakil Menteri yang merupakan satu kesatuan unsur pimpinan kementerian. Kementerian Perindustrian mempunyai tugas menyelenggarakan urusan pemerintahan di bidang perindustrian untuk membantu Presiden dalam menyelenggarakan pemerintahan negara.",
+ "note": "Peraturan Menteri Perindustrian ini mulai berlaku pada tanggal 12 Mei 2023.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Nomor 7 Tahun 2021 tentang Organisasi dan Tata Kerja Kementerian Perindustrian (Berita Negara Republik Indonesia Tahun 2021 Nomor 170), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 106 hlm (batang tubuh hlm 1 sd 93, lampiran hlm 94 sd 106)",
+ "citations": [
+  "UU-2008-39",
+  "UU-2014-3",
+  "PERPRES-2020-107"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/311205/2023pmperin08.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:13:41Z"
+}

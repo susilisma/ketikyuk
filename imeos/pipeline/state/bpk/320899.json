@@ -1,0 +1,45 @@
+{
+ "id": "PERMENDAG-2025-11",
+ "source": "bpk",
+ "bpk_id": 320899,
+ "url": "https://peraturan.bpk.go.id/Details/320899/permendag-no-11-tahun-2025",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "11",
+ "number_raw": "11",
+ "year": 2025,
+ "title": "Peraturan Menteri Perdagangan Nomor 11 Tahun 2025 tentang Pengelolaan Piutang Negara pada Kementerian Perdagangan",
+ "about": "Pengelolaan Piutang Negara pada Kementerian Perdagangan",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PIUTANG, UTANG, DAN HIBAH NEGARA / DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-03-20",
+ "date_promulgated": "2025-03-26",
+ "date_effective": "2025-03-26",
+ "gazette": "BN 2025 (241) : 36 hlm.; jdih.kemendag.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2021-32",
+   "target_bpk_id": 173101,
+   "label": "Permendag No. 32 Tahun 2021",
+   "about": "Pelimpahan Kewenangan Dalam Pengajuan Usulan Penghapusan Piutang Negara di Lingkungan Kementerian Perdagangan"
+  }
+ ],
+ "abstract": "a. bahwa untuk meningkatkan efektivitas, efisiensi, dan\ntransparansi penyempurnaan mekanisme pengelolaan\npiutang negara pada Kementerian Perdagangan, perlu\nmengatur pengelolaan piutang negara di lingkungan\nKementerian Perdagangan;\nb. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a, perlu menetapkan Peraturan\nMenteri Perdagangan tentang Pengelolaan Piutang Negara\npada Kementerian Perdagangan;\nPasal 17 ayat (3) UUD NRI Tahun 1945, UU No. 49 Prp. Tahun 1960, UU No. 17 Tahun 2003, UU No. 1 Tahun 2004, UU No. 39 Tahun 2008, PP No. 14 Tahun 2005, PP No. 168 Tahun 2024, PMK No. 163/PMK.06/2020, dan Permendag No. 6 Tahun 2025.\nPeraturan ini mengatur tentang ketentuan umum, tugas dan kewenangan menteri dalam pengelolaan piutang negara, pengelolaan piutang negara dalam Kementerian Perdagangan, pengelolaan piutang negara pada Kementerian Perdagangan yang tidak dapat diserahkan kepengurusannya kepada panitia urusan piutang negara, tata cara pengajuan usulan, penelitian dan penetapan penghapusan piutang negara pada Kementerian Perdagangan yang tidak dapat diserahkan kepada PUPN, pembinaan, pengawasan, pengendalian dan pertanggungjawaban, rekonsiliasi dan pemutakhiran data pada Kementerian Perdagangan dan ketentuan penutup",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 26 Maret 2025.\nPeraturan ini mencabut dan menyatakan tidak tidak berlaku atas Peraturan Menteri Perdagangan Nomor 32 Tahun 2021 tentang Pelimpahan Kewenangan Dalam Pengajuan Usulan Penghapusan Piutang Negara di Lingkungan Kementerian Perdagangan.",
+ "citations": [
+  "UU-2003-17",
+  "UU-2004-1",
+  "UU-2008-39",
+  "PP-2005-14",
+  "PP-2024-168",
+  "PMK-2020-163",
+  "PERMENDAG-2025-6"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/382638/Permendag%20No.%2011%20Tahun%202025..pdf"
+ ],
+ "fetched_at": "2026-10-05T05:11:53Z"
+}

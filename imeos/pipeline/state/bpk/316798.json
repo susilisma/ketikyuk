@@ -1,0 +1,44 @@
+{
+ "id": "PERMENAKER-2025-3",
+ "source": "bpk",
+ "bpk_id": 316798,
+ "url": "https://peraturan.bpk.go.id/Details/316798/permenaker-no-3-tahun-2025",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "3",
+ "number_raw": "3",
+ "year": 2025,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 3 Tahun 2025 tentang Perubahan atas Peraturan Menteri",
+ "about": "Perubahan atas Peraturan Menteri",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "KETENAGAKERJAAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-03-25",
+ "date_promulgated": "2025-03-26",
+ "date_effective": "2025-02-07",
+ "gazette": "BN 2025 (240); 6 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERMENAKER-2021-7",
+   "target_bpk_id": 171227,
+   "label": "Permenaker No. 7 Tahun 2021",
+   "about": "Tata Cara Pendaftaran Peserta dan Pelaksanaan Rekomposisi Iuran Dalam Program Jaminan Kehilangan Pekerjaan"
+  }
+ ],
+ "abstract": "bahwa beberapa ketentuan dalam Peraturan Menteri\nKetenagakerjaan Nomor 7 Tahun 2021 tentang Tata\nCara Pendaftaran Peserta dan Pelaksanaan\nRekomposisi Iuran dalam Program Jaminan Kehilangan\nPekerjaan sudah tidak sesuai dengan perkembangan\nhukum dan kebutuhan masyarakat, sehingga perlu\ndiubah\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD 1945; UU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024; PP Nomor 37 Tahun 2021 sebagaimana telah diubah dengan PP Nomor 6 Tahun 2025; Perpres Nomor 164 Tahun 2024; Permenaker Noor 7 Tahun 2021; Permenaker Nomor 20 Tahun 2024\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri\nKetenagakerjaan Nomor 7 Tahun 2021 tentang Tata Cara\nPendaftaran Peserta dan Pelaksanaan Rekomposisi Iuran\ndalam Program Jaminan Kehilangan Pekerjaan",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 07 Februari 2025.",
+ "citations": [
+  "UU-2008-39",
+  "UU-2024-61",
+  "PP-2021-37",
+  "PP-2025-6",
+  "PERPRES-2024-164",
+  "PERMENAKER-2024-20"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/378105/permenaker-no-3-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:15:22Z"
+}

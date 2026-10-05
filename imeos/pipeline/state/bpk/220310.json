@@ -1,0 +1,37 @@
+{
+ "id": "PERKABPOM-2017-16",
+ "source": "bpk",
+ "bpk_id": 220310,
+ "url": "https://peraturan.bpk.go.id/Details/220310/perka-bpom-no-16-tahun-2017",
+ "form": "PERKABPOM",
+ "form_long": "Peraturan Kepala Badan Pengawas Obat dan Makanan",
+ "number": "16",
+ "number_raw": "16",
+ "year": 2017,
+ "title": "Peraturan Kepala Badan Pengawas Obat dan Makanan Nomor 16 Tahun 2017 tentang Pedoman Pelaksanaan Uji Kompetensi Teknis Jabatan Fungsional Pengawas Farmasi dan Makanan di Lingkungan Badan Pengawas Obat dan Makanan",
+ "about": "Pedoman Pelaksanaan Uji Kompetensi Teknis Jabatan Fungsional Pengawas Farmasi dan Makanan di Lingkungan Badan Pengawas Obat dan Makanan",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA - STANDAR / PEDOMAN",
+ "field": "Alias",
+ "date_enacted": "2017-09-27",
+ "date_promulgated": "2017-09-29",
+ "date_effective": "2017-09-29",
+ "gazette": "BN.2017/No.1362, jdih.pom.go.id: 15 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 343797,
+   "label": "Peraturan BPOM No. 31 Tahun 2025",
+   "about": "Pedoman Penyelenggaraan Uji Kompetensi Jabatan Fungsional Pengawas Farmasi dan Makanan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Kepala Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 29 September 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/214734/Peraturan%20Kepala%20BPOM%20Nomor%2016%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:28:24Z"
+}

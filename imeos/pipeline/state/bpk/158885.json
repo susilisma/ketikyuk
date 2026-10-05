@@ -12,7 +12,7 @@
  "about": "Tarif Layanan Badan Layanan Umum Pusat Investasi Pemerintah pada Kementerian Keuangan",
  "issuer": "Kementerian Keuangan",
  "subject": "BADAN LAYANAN UMUM",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2021-01-14",
  "date_promulgated": "2021-01-15",
  "date_effective": "2021-01-15",
@@ -43,5 +43,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/151368/1_PMK.05_2021.pdf"
  ],
- "fetched_at": "2026-09-14T06:33:44Z"
+ "fetched_at": "2026-10-05T05:08:11Z"
 }

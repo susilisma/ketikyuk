@@ -1,0 +1,37 @@
+{
+ "id": "PMK-2021-197",
+ "source": "bpk",
+ "bpk_id": 197505,
+ "url": "https://peraturan.bpk.go.id/Details/197505/pmk-no-197pmk022021",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "197",
+ "number_raw": "197/PMK.02/2021",
+ "year": 2021,
+ "title": "Peraturan Menteri Keuangan Nomor 197/PMK.02/2021 Tahun 2021 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Bersifat Volatil pada Badan Meteorologi, Klimatologi, dan Geofisika",
+ "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Bersifat Volatil pada Badan Meteorologi, Klimatologi, dan Geofisika",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
+ "field": "Alias",
+ "date_enacted": "2021-12-22",
+ "date_promulgated": "2021-12-23",
+ "date_effective": "2022-01-02",
+ "gazette": "BN.2021/NO. 1401; https:jdih.kemenkeu.go.id : 4 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-24",
+   "target_bpk_id": 316139,
+   "label": "PMK No. 24 Tahun 2025",
+   "about": "Jenis dan Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Bersifat Volatil Yang Berlaku Pada Badan Meteorologi, Klimatologi dan Geofisika"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 02 Januari 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/191393/197_PMK.02_2021.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:08:42Z"
+}

@@ -12,7 +12,7 @@
  "about": "Laporan Harta Kekayaan Penyelenggara Negara Di Lingkungan Kementerian Perdagangan",
  "issuer": "Kementerian Perdagangan",
  "subject": "KEPEGAWAIAN, APARATUR NEGARA",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2019-04-25",
  "date_promulgated": "2019-05-31",
  "date_effective": "2019-05-31",
@@ -47,5 +47,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/122511/Permendag%20No.%2032%20Tahun%202019.pdf"
  ],
- "fetched_at": "2026-09-14T06:36:17Z"
+ "fetched_at": "2026-10-05T05:10:30Z"
 }

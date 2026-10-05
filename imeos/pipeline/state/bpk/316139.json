@@ -1,0 +1,43 @@
+{
+ "id": "PMK-2025-24",
+ "source": "bpk",
+ "bpk_id": 316139,
+ "url": "https://peraturan.bpk.go.id/Details/316139/pmk-no-24-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "24",
+ "number_raw": "24",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 24 Tahun 2025 tentang Jenis dan Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Bersifat Volatil Yang Berlaku Pada Badan Meteorologi, Klimatologi dan Geofisika",
+ "about": "Jenis dan Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Bersifat Volatil Yang Berlaku Pada Badan Meteorologi, Klimatologi dan Geofisika",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-03-13",
+ "date_promulgated": "2025-03-20",
+ "date_effective": "2025-06-04",
+ "gazette": "BN.2025 (206)/12 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2021-197",
+   "target_bpk_id": 197505,
+   "label": "PMK No. 197/PMK.02/2021",
+   "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Bersifat Volatil pada Badan Meteorologi, Klimatologi, dan Geofisika"
+  }
+ ],
+ "abstract": "a. bahwa untuk melakukan penyesuaian jenis dan tarif atas jenis Penerimaan Negara Bukan Pajak yang Bersifat Volatil yang Berlaku pada Badan Meteorologi, Klimatologi, dan Geofisika sebagaimana telah diatur\ndalam Peraturan Menteri Keuangan Nomor 197/PMK.02/2021 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Bersifat Volatil pada Badan Meteorologi, Klimatologi, dan Geofisika, perlu mengatur jenis dan tarif atas jenis Penerimaan Negara Bukan Pajak yang bersifat volatil yang berlaku pada Badan Meteorologi, Klimatologi, dan Geofisika;\nb. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan untuk melaksanakan ketentuan Pasal 8 ayat (1) Peraturan Pemerintah Nomor 69 Tahun 2020 tentang Tata Cara Penetapan Tarif atas Jenis Penerimaan Negara Bukan Pajak, perlu menetapkan Peraturan Menteri Keuangan tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Bersifat Volatil yang Berlaku pada Badan Meteorologi, Klimatologi, dan Geofisika;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 69 Tahun 2020 tentang Tata Cara Penetapan Tarif atas Jenis Penerimaan Negara Bukan Pajak, Peraturan Presiden Nomor 158 Tahun 2024 tentang Kementerian Keuangan dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024 tentang Organisasi dan Tata Kerja Kementerian\nKeuangan\nPeraturan ini mengatur tentang Jenis Penerimaan Negara Bukan Pajak yang bersifat volatil yang berlaku pada Badan Meteorologi, Klimatologi, dan Geofisika, Jenis Penerimaan Negara Bukan Pajak bersifat volatil atas layanan modifikasi cuaca dan pengenaan tarif sampai dengan Rp 0,00 (nol rupiah) atau 0% (nol persen).",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 04 Juni 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas:\na. Ketentuan mengenai jenis dan tarif atas jenis Penerimaan Negara Bukan Pajak yang berasal dari jasa teknologi modifikasi cuaca sebagaimana diatur dalam Peraturan Menteri Keuangan Nomor 210/PMK.02/2021 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak Kebutuhan Mendesak yang Berlaku pada Badan Riset dan Inovasi Nasional sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 129/PMK.02/2022 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 210/PMK.02/2021 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak Kebutuhan Mendesak yang Berlaku pada Badan Riset dan Inovasi Nasional\nb. Peraturan Menteri Keuangan Nomor 197/PMK.02/2021\ntentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak Yang Bersifat Volatil Pada Badan Meteorologi, Klimatologi, dan Geofisika\ndicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "PMK-2021-197",
+  "PP-2020-69",
+  "UU-2008-39",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/377363/24%20th%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:08:41Z"
+}

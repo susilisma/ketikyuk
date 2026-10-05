@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKES-2018-54",
+ "source": "bpk",
+ "bpk_id": 111957,
+ "url": "https://peraturan.bpk.go.id/Details/111957/permenkes-no-54-tahun-2018",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "54",
+ "number_raw": "54",
+ "year": 2018,
+ "title": "Peraturan Menteri Kesehatan Nomor 54 Tahun 2018 tentang Penyusunan Dan Penerapan Formularium Nasional Dalam Penyelenggaraan Program Jaminan Kesehatan",
+ "about": "Penyusunan Dan Penerapan Formularium Nasional Dalam Penyelenggaraan Program Jaminan Kesehatan",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - PROGRAM, RENCANA PEMBANGUNAN DAN RENCANA KERJA",
+ "field": "Alias",
+ "date_enacted": "2018-12-31",
+ "date_promulgated": "2019-01-16",
+ "date_effective": "2019-01-16",
+ "gazette": "BN.2019/NO.22, kemkes.go.id : 10 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-5",
+   "target_bpk_id": 350852,
+   "label": "Permenkes No. 5 Tahun 2026",
+   "about": "Perbekalan Kesehatan"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PERMENKES-2026-5",
+   "target_bpk_id": 350852,
+   "label": "Permenkes No. 5 Tahun 2026",
+   "about": "Perbekalan Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 16 Januari 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/102910/Permenkes%20Nomor%2054%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:22:36Z"
+}

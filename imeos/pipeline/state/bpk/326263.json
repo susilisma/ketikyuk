@@ -1,0 +1,42 @@
+{
+ "id": "PERMENKUM-2025-21",
+ "source": "bpk",
+ "bpk_id": 326263,
+ "url": "https://peraturan.bpk.go.id/Details/326263/permenkum-no-21-tahun-2025",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "21",
+ "number_raw": "21",
+ "year": 2025,
+ "title": "Peraturan Menteri Hukum Nomor 21 Tahun 2025 tentang Pemblokiran dan Pembukaan Pemblokiran Akses Perseroan Terbatas pada Sistem Administrasi Badan Hukum",
+ "about": "Pemblokiran dan Pembukaan Pemblokiran Akses Perseroan Terbatas pada Sistem Administrasi Badan Hukum",
+ "issuer": "Kementerian Hukum",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA - HUKUM PIDANA, PERDATA, DAN DAGANG - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2025-05-28",
+ "date_promulgated": "2025-06-10",
+ "date_effective": "2025-06-10",
+ "gazette": "BN 2025 (396): 12 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 280257,
+   "label": "Permenkumham No. 29 Tahun 2022",
+   "about": "Pemblokiran dan Pembukaan Pemblokiran Akses Perseroan Terbatas pada Sistem Administrasi Badan Hukum"
+  }
+ ],
+ "abstract": "Untuk meningkatkan pelayanan pemblokiran dan pembukaan pemblokiran akses perseroan terbatas yang efisien dalam penyelesaian sengketa bisnis, memberikan pelindungan, dan kepastian hukum yang dapat memberikan kontribusi positif bagi perkembangan dunia usaha di Indonesia, perlu melakukan perbaikan mekanisme pemblokiran dan pembukaan pemblokiran akses perseroan terbatas.\nDasar hukum Permenkum ini adalah Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU No. 39 Tahun 2008; PP No. 7 Tahun 2021; PP No. 8 Tahun 2021; Perpres No. 155 Tahun 2024; dan Permenkum No. 1 Tahun 2024.\nPermenkum ini mengatur mengenai Pemblokiran dan Pembukaan Pemblokiran Akses Perseroan Terbatas pada Sistem Administrasi Badan Hukum. Permohonan Pemblokiran Akses diajukan kepada Menteri melalui Direktur Jenderal yang diajukan secara elektronik dengan mencantumkan alasan Pemblokiran Akses. Permohonan Pemblokiran Akses diajukan melalui Sistem Administrasi Badan Hukum. Pemblokiran Akses dilakukan terhadap: a. Perseroan persekutuan modal; dan b. Perseroan perorangan. Terhadap Perseroan yang telah dilakukan Pemblokiran Akses dapat diajukan Pembukaan Pemblokiran Akses.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 10 Juni 2025.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 29 Tahun 2022 tentang Pemblokiran dan Pembukaan Pemblokiran Akses Perseroan Terbatas pada Sistem Administrasi Badan Hukum (Berita Negara Republik Indonesia Tahun 2022 Nomor 1283), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 12 hlm.",
+ "citations": [
+  "UU-2008-39",
+  "PP-2021-7",
+  "PP-2021-8",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/388072/Permenkum%20Nomor%2021%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:19:28Z"
+}

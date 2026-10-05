@@ -1,0 +1,51 @@
+{
+ "id": "PERMENKUMHAM-2022-29",
+ "source": "bpk",
+ "bpk_id": 280257,
+ "url": "https://peraturan.bpk.go.id/Details/280257/permenkumham-no-29-tahun-2022",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "29",
+ "number_raw": "29",
+ "year": 2022,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 29 Tahun 2022 tentang Pemblokiran dan Pembukaan Pemblokiran Akses Perseroan Terbatas pada Sistem Administrasi Badan Hukum",
+ "about": "Pemblokiran dan Pembukaan Pemblokiran Akses Perseroan Terbatas pada Sistem Administrasi Badan Hukum",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN - PERIZINAN, PELAYANAN PUBLIK",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2022-12-13",
+ "date_promulgated": "2022-12-19",
+ "date_effective": "2022-12-19",
+ "gazette": "BN 2022 (1283) : 12 hlm.; peraturan.go.id",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 326263,
+   "label": "Permenkum No. 21 Tahun 2025",
+   "about": "Pemblokiran dan Pembukaan Pemblokiran Akses Perseroan Terbatas pada Sistem Administrasi Badan Hukum"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133200,
+   "label": "Permenkumham No. 19 Tahun 2017",
+   "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 24 Tahun 2012 Tentang Tata Cara Pemblokiran dan Pembukaan Pemblokiran Akses Sistem Administrasi Badan Hukum Perseroan Terbatas"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 134415,
+   "label": "Permenkumham No. 24 Tahun 2012",
+   "about": "Tata Cara Pemblokiran dan Pembukaan Pemblokiran Akses Sistem Administrasi Badan Hukum Perseroan Terbatas"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 19 Desember 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/339022/Nomor%2029%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:19:29Z"
+}

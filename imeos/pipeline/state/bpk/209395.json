@@ -12,7 +12,7 @@
  "about": "Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 39/PMK.03/2018 tentang Tata Cara Pengembalian Pendahuluan Kelebihan Pembayaran Pajak",
  "issuer": "Kementerian Keuangan",
  "subject": "PERPAJAKAN",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2021-12-29",
  "date_promulgated": "2021-12-30",
  "date_effective": "2022-01-01",
@@ -47,5 +47,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/203491/209_PMK.03_2021.pdf"
  ],
- "fetched_at": "2026-09-14T06:31:00Z"
+ "fetched_at": "2026-10-05T05:04:41Z"
 }

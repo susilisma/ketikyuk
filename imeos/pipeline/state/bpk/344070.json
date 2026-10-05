@@ -1,0 +1,46 @@
+{
+ "id": "PERMENKES-2025-17",
+ "source": "bpk",
+ "bpk_id": 344070,
+ "url": "https://peraturan.bpk.go.id/Details/344070/permenkes-no-17-tahun-2025",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "17",
+ "number_raw": "17",
+ "year": 2025,
+ "title": "Peraturan Menteri Kesehatan Nomor 17 Tahun 2025 tentang Perubahan atas Peraturan Menteri Kesehatan Nomor 21 Tahun 2024 tentang Organisasi dan Tata Kerja Kementerian Kesehatan",
+ "about": "Perubahan atas Peraturan Menteri Kesehatan Nomor 21 Tahun 2024 tentang Organisasi dan Tata Kerja Kementerian Kesehatan",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-12-17",
+ "date_promulgated": "2025-12-29",
+ "date_effective": "2025-12-29",
+ "gazette": "BN 2025 (1128); 6 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERMENKES-2024-21",
+   "target_bpk_id": 312840,
+   "label": "Permenkes No. 21 Tahun 2024",
+   "about": "Organisasi dan Tata Kerja Kementerian Kesehatan"
+  }
+ ],
+ "abstract": "bahwa untuk mendukung efektivitas dan efisiensi pembinaan kesehatan dalam penyelenggaraan ibadah haji dan umrah, dilakukan pengintegrasian Pusat Kesehatan Haji ke kementerian yang menyelenggarakan suburusan pemerintahan haji dan umrah yang merupakan lingkup urusan pemerintahan di bidang agama\nDasar hukum praturan ini adalah UUD NRI Tahun 1945 Pasal 17 ayat (3);\nUU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024;\nUU Nomor 17 Tahun 2023;\nUU Nomor 8 Tahun 2019 sebagaimana telah diubah terakhir dengan UU Nomor 14 Tahun 2025;\nPP Nomor 28 Tahun 2024;\nPerpres Nomor 161 Tahun 2024;\nPermenkes Nomor 21 Tahun 2024.\nPeraturan ini mengubah ketentuan dalam Peraturan Menteri Kesehatan Nomor 21 Tahun 2024 tentang Organisasi dan Tata Kerja Kementerian Kesehatan",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 29 Desember 2025.",
+ "citations": [
+  "UU-2008-39",
+  "UU-2024-61",
+  "UU-2023-17",
+  "UU-2019-8",
+  "UU-2025-14",
+  "PP-2024-28",
+  "PERPRES-2024-161",
+  "PERMENKES-2024-21"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/407314/permenkes-no-17-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:23:25Z"
+}

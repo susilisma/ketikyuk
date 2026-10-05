@@ -1,0 +1,45 @@
+{
+ "id": "PMK-2025-20",
+ "source": "bpk",
+ "bpk_id": 316100,
+ "url": "https://peraturan.bpk.go.id/Details/316100/pmk-no-20-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "20",
+ "number_raw": "20",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 20 Tahun 2025 tentang Tata Cara Penyediaan, Penghitungan, Pembayaran dan Pertanggungjawaban Subsidi Listrik",
+ "about": "Tata Cara Penyediaan, Penghitungan, Pembayaran dan Pertanggungjawaban Subsidi Listrik",
+ "issuer": "Kementerian Keuangan",
+ "subject": "SUBSIDI, PSO",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-03-05",
+ "date_promulgated": "2025-03-11",
+ "date_effective": "2025-03-11",
+ "gazette": "BN.2025 (190)/19 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2021-178",
+   "target_bpk_id": 189795,
+   "label": "PMK No. 178/PMK.02/2021",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 174/PMK.02/2019 tentang Tata Cara Penyediaan, Penghitungan, Pembayaran, dan Pertanggungjawaban Subsidi Listrik"
+  }
+ ],
+ "abstract": "a. bahwa untuk menjaga stabilitas harga dan daya beli masyarakat, mendukung usaha mikro, kecil, dan menengah serta menjaga ketersediaan pasokan energi telah dialokasikan subsidi listrik dalam anggaran pendapatan dan belanja negara dan/atau perubahan anggaran pendapatan dan belanja negara;\nb. bahwa berdasarkan ketentuan Pasal 98 Peraturan Pemerintah Nomor 45 Tahun 2013 tentang Tata Cara Pelaksanaan Anggaran Pendapatan dan Belanja Negara sebagaimana telah diubah dengan Peraturan\nPemerintah Nomor 50 Tahun 2018 tentang Perubahan atas Peraturan Pemerintah Nomor 45 Tahun 2013 tentang Tata Cara Pelaksanaan Anggaran Pendapatan dan Belanja Negara, Menteri Keuangan selaku Bendahara Umum Negara berwenang mengatur tata cara pelaksanaan belanja subsidi;\nc. bahwa ketentuan mengenai tata cara penyediaan,\npenghitungan, pembayaran, dan pertanggungjawaban subsidi listrik, yang telah diatur dalam Peraturan Menteri Keuangan Nomor 174/PMK.02/2019 tentang Tata Cara Penyediaan, Penghitungan, Pembayaran, dan Pertanggungjawaban Subsidi Listrik sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 178/PMK.02/2021 tentang Perubahan atas Peraturan\nMenteri Keuangan Nomor 174/PMK.02/2019 tentang Tata Cara Penyediaan, Penghitungan, Pembayaran, dan Pertanggungjawaban Subsidi Listrik, perlu dilakukan penyempurnaan dan pengaturan kembali;\nd. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Menteri Keuangan tentang Tata Cara Penyediaan, Penghitungan, Pembayaran, dan Pertanggungjawaban Subsidi Listrik;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 45 Tahun 2013, Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Menteri Keuangan Nomor 62 Tahun 2023 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengatur tentang ketentuan umum, alokasi subsidi listrik, Direktur Penerimaan Negara Bukan Pajak Sumber Daya Alam dan Kekayaan Negara Dipisahkan sebagai KPA BUN Subsidi Listrik, KPA BUN Subsidi Listrik, Subsidi Listrik diberikan kepada Konsumen dengan Golongan Tarif, formulasi subsidi listrik, usulan kebutuhan subsidi listrik, besaran subsidi listrik,BPP Tenaga Listrik, Komponen BPP Tenaga Listrik, Biaya-biaya yang tidak termasuk dalam komponen BPP Tenaga Listrik, kewajiban yang harus disampaikan oleh Direksi PT setiap bulan, Hasil verifikasi Direktorat Jenderal Ketenagalistrikan, Tata cara pencairan Subsidi Listrik dan penyelenggaraan KPA BUN Subsidi Listrik.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 11 Maret 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan\nMenteri Keuangan Nomor 174/PMK.02/2019 tentang Tata Cara Penyediaan, Penghitungan, Pembayaran, dan Pertanggungjawaban Subsidi Listrik sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor\n178/PMK.02/2021 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 174/PMK.02/2019 tentang Tata Cara Penyediaan, Penghitungan, Pembayaran, dan Pertanggung jawaban Subsidi Listrik",
+ "citations": [
+  "PP-2013-45",
+  "PMK-2019-174",
+  "PMK-2021-178",
+  "UU-2008-39",
+  "PERPRES-2024-158",
+  "PMK-2023-62",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/377321/20%20th%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:09:19Z"
+}

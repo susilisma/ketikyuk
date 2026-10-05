@@ -1,0 +1,48 @@
+{
+ "id": "PMK-2023-96",
+ "source": "bpk",
+ "bpk_id": 269778,
+ "url": "https://peraturan.bpk.go.id/Details/269778/pmk-no-96-tahun-2023",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "96",
+ "number_raw": "96",
+ "year": 2023,
+ "title": "Peraturan Menteri Keuangan Nomor 96 Tahun 2023 tentang Ketentuan Kepabeaan Cukai Dan Pajak Atas Impor Dan Ekspor Barang Kiriman",
+ "about": "Ketentuan Kepabeaan Cukai Dan Pajak Atas Impor Dan Ekspor Barang Kiriman",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN",
+ "field": "HUKUM DAGANG",
+ "date_enacted": "2023-09-15",
+ "date_promulgated": "2023-09-18",
+ "date_effective": "2023-11-18",
+ "gazette": "BN.2023 (740)/127 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah sebagian dengan",
+   "target": "PMK-2025-4",
+   "target_bpk_id": 313252,
+   "label": "PMK No. 4 Tahun 2025",
+   "about": "Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 96 Tahun 2023 tentang Ketentuan Kepabeanan, Cukai dan Pajak atas Impor dan Ekspor Barang Kiriman"
+  }
+ ],
+ "abstract": "a. bahwa ketentuan kepabeanan, cukai, dan pajak atas impor barang kiriman telah diatur dalam Peraturan Menteri Keuangan Nomor 199/PMK.010/2019 tentang Ketentuan Kepabeanan, Cukai, dan Pajak atas Impor Barang Kiriman;\nb. bahwa untuk memberikan kepastian hukum,\nmenciptakan keadilan dan kepastian dalam berusaha, meningkatkan kecepatan pelayanan, efektivitas pengawasan, optimalisasi penerimaan, serta akurasi data atas impor dan ekspor barang kiriman, Peraturan Menteri Keuangan N omor 199/PMK.010/2019 ten tang Keten tuan Kepabeanan, Cukai, dan Pajak atas Impor Barang Kiriman perlu diganti;\nc. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a dan huruf b, serta untuk melaksanakan ketentuan Pasal lOB ayat (5), Pasal 1 lA ayat (7), Pasal 13 ayat (2), Pasal 25 ayat (3), Pasal 28, dan Pasal 92A ayat (2) Undang-Undang Nomor 17\nTahun 2006 tentang Perubahan atas Undang-Undang\nNomor 10 Tahun 1995 tentang Kepabeanan, serta ketentuan Pasal 9 ayat (4) Undang-Undang Nomor 39\nTahun 2007 tentang Perubahan atas Undang-Undang\nNomor 11 Tahun 1995 tentang Cukai, perlu menetapkan Peraturan Menteri Keuangan tentang Ketentuan Kepabeanan, Cukai, dan Pajak atas Impor dan Ekspor Barang Kiriman;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 7 Tahun 1983, Undang-Undang Nomor 8 Tahun 1983, Undang-Undang Nomor 10 Tahun 1995, Undang-Undang Nomor 11 Tahun 1995, Undang-Undang Nomor 39 Tahun 2008, Peraturan Presiden Nomor 57 Tahun 2020 dan Peraturan Menteri Keuangan Nomor 118/PMK.01/2021\nPeraturan Menteri ini mengatur tentang ketentuan umum, penyelenggaraan impor dan ekspor barang kiriman, impor barang kiriman, ekspor barang kiriman, ketentuan lain-lain, ketentuan peralihan dan ketentuan penutup",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 18 November 2023.",
+ "citations": [
+  "PMK-2019-199",
+  "UU-2006-17",
+  "UU-1995-10",
+  "UU-2007-39",
+  "UU-1995-11",
+  "UU-1983-7",
+  "UU-1983-8",
+  "UU-2008-39",
+  "PERPRES-2020-57",
+  "PMK-2021-118"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/327397/2023pmkeuangan096.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:09:45Z"
+}

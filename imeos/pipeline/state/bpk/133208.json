@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKUMHAM-2017-22",
+ "source": "bpk",
+ "bpk_id": 133208,
+ "url": "https://peraturan.bpk.go.id/Details/133208/permenkumham-no-22-tahun-2017",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "22",
+ "number_raw": "22",
+ "year": 2017,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 22 Tahun 2017 tentang Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 30 Tahun 2015 tentang Tata Cara Pembentukan Peraturan Menteri di Lingkungan Kementerian Hukum dan Hak Asasi Manusia",
+ "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 30 Tahun 2015 tentang Tata Cara Pembentukan Peraturan Menteri di Lingkungan Kementerian Hukum dan Hak Asasi Manusia",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA",
+ "field": "Alias",
+ "date_enacted": "2017-11-13",
+ "date_promulgated": "2017-11-29",
+ "date_effective": "2017-11-29",
+ "gazette": "BN.2017/No.1713, peraturan.go.id : 5 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 326274,
+   "label": "Permenkum No. 28 Tahun 2025",
+   "about": "Tata Cara Pembentukan Peraturan Menteri Hukum"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 133310,
+   "label": "Permenkumham No. 30 Tahun 2015",
+   "about": "Tata Cara Pembentukan Peraturan Menteri di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 29 November 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/123996/Permenkumham%20Nomor%2022%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:19:10Z"
+}

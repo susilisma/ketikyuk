@@ -1,0 +1,51 @@
+{
+ "id": "PERMENKOMINFO-2022-1",
+ "source": "bpk",
+ "bpk_id": 228222,
+ "url": "https://peraturan.bpk.go.id/Details/228222/permenkominfo-no-1-tahun-2022",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Informatika",
+ "number": "1",
+ "number_raw": "1",
+ "year": 2022,
+ "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 1 Tahun 2022 tentang Organisasi dan Tata Kerja Unit Pelaksana Teknis Bidang Monitor Spektrum Frekuensi Radio",
+ "about": "Organisasi dan Tata Kerja Unit Pelaksana Teknis Bidang Monitor Spektrum Frekuensi Radio",
+ "issuer": "Kementerian Komunikasi dan Informatika",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "Alias",
+ "date_enacted": "2022-04-05",
+ "date_promulgated": "2022-04-25",
+ "date_effective": "2022-04-25",
+ "gazette": "BN.2021/No.442, https://jdih.kominfo.go.id/: 12 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 353716,
+   "label": "Permenkomdigi No. 11 Tahun 2026",
+   "about": "Organisasi dan Tata Kerja Unit Pelaksana Teknis Bidang Monitor Spektrum Frekuensi Radio dan Infrastruktur Digital"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 149085,
+   "label": "Permenkominfo No. 2 Tahun 2018",
+   "about": "Perubahan Atas Peraturan Menteri Komunikasi Dan Informatika Nomor 15 Tahun 2017 Tentang Organisasi Dan Tata Kerja Unit Pelaksana Teknis Bidang Monitor Spektrum Frekuensi Radio"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 150123,
+   "label": "Permenkominfo No. 15 Tahun 2017",
+   "about": "Organisasi dan Tata Kerja Unit Pelaksana Teknis Bidang Monitor Spektrum Frekuensi Radio"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Komunikasi dan Informatika ini mulai berlaku pada tanggal 25 April 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/223041/Salinan_PM_Kominfo_Nomor_1_Tahun_2022_tentang_OTK_UPT_Balmon_TTE.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:15:43Z"
+}

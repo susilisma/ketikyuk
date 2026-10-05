@@ -1,0 +1,54 @@
+{
+ "id": "PERMENKUM-2025-10",
+ "source": "bpk",
+ "bpk_id": 317309,
+ "url": "https://peraturan.bpk.go.id/Details/317309/permenkum-no-10-tahun-2025",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "10",
+ "number_raw": "10",
+ "year": 2025,
+ "title": "Peraturan Menteri Hukum Nomor 10 Tahun 2025 tentang Logo dan Mars Kementerian Hukum",
+ "about": "Logo dan Mars Kementerian Hukum",
+ "issuer": "Kementerian Hukum",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-03-21",
+ "date_promulgated": "2025-03-23",
+ "date_effective": "2025-03-23",
+ "gazette": "BN 2025 (227) : 5 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 134409,
+   "label": "Permenkumham No. 16 Tahun 2012",
+   "about": "Perubahan Kedua atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor M.HH-05.UM.01.01 Tahun 2011 Tentang Logo Kementerian Hukum dan Hak Asasi Manusia"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 134439,
+   "label": "Permenkumham No. M.HH-10.OT.02.01 Tahun 2011",
+   "about": "Mars Kementerian Hukum dan Hak Asasi Manusia"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 134431,
+   "label": "Permenkumham No. M.HH-05.UM.01.01 Tahun 2011",
+   "about": "Logo Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "Untuk meningkatkan semangat persatuan dan kesatuan, memperkokoh tekad, jiwa, cipta, rasa, dan karsa serta menjadi identitas kebanggaan seluruh pegawai di lingkungan Kementerian Hukum, perlu menetapkan logo dan mars Kementerian Hukum.\nDasar hukum Permenkum ini adalah Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU No. 39 Tahun 2008; Perpres No. 155 Tahun 2024; Permenkum No. 1 Tahun 2024; dan Permenkum No. 2 Tahun 2024.\nPermenkum ini mengatur mengenai Logo dan Mars Kementerian Hukum. Logo digunakan dengan tujuan untuk: 1) memperkuat visi dan misi Kementerian Hukum; 2) mempersatukan tekad, semangat, jiwa, cipta, serta rasa dan karsa seluruh pegawai di lingkungan Kementerian Hukum; dan 3) meningkatkan citra, wibawa, dan kepercayaan publik terhadap Kementerian Hukum. Mars memuat tanda nada, irama, syair dari lagu yang sesuai dengan visi dan misi Kementerian Hukum.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 23 Maret 2025.\nPada saat Peraturan Menteri ini mulai berlaku: 1) Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor M.HH-05.UM.01.01 Tahun 2011 tentang Logo Kementerian Hukum dan Hak Asasi Manusia (Berita Negara Republik Indonesia Tahun 2011 Nomor 433); 2) Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor M.HH-07.UM.01.01 Tahun 2011 tentang Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor M.HH-05.UM.01.01 Tahun 2011 tentang Logo Kementerian Hukum dan Hak Asasi Manusia (Berita Negara Republik Indonesia Tahun 2011 Nomor 650); 3) Peraturan Menteri Hukum dan Hak Asasi Manusia Republik Indonesia Nomor M.HH-10.OT.02.01 Tahun 2011 tentang Mars Kementerian Hukum dan Hak Asasi Manusia (Berita Negara Republik Indonesia Tahun 2011 Nomor 649); dan 4) Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 16 Tahun 2012 tentang Perubahan Kedua atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor M.HH-05.UM.01.01 Tahun 2011 tentang Logo Kementerian Hukum dan Hak Asasi Manusia (Berita Negara Republik Indonesia Tahun 2012 Nomor 931), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 8 hlm. (batang tubuh hlm 1 s.d. 5 dan lampiran hlm 6 s.d. 8)",
+ "citations": [
+  "UU-2008-39",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/378649/Permenkum%20Nomor%2010%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:19:58Z"
+}

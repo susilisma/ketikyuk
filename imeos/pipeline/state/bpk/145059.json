@@ -12,7 +12,7 @@
  "about": "Perubahan atas Peraturan Menteri Ketenagakerjaan Nomor 33 Tahun 2016 tentang Tata Cara Pengawasan Ketenagakerjaan",
  "issuer": "Kementerian Ketenagakerjaan",
  "subject": "KETENAGAKERJAAN",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2020-01-10",
  "date_promulgated": "2020-01-10",
  "date_effective": "2020-01-10",
@@ -33,5 +33,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/136862/Permenaker%20Nomor%201%20Tahun%202020.pdf"
  ],
- "fetched_at": "2026-09-14T06:40:30Z"
+ "fetched_at": "2026-10-05T05:14:06Z"
 }

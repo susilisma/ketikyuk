@@ -1,0 +1,43 @@
+{
+ "id": "PERMENKOMINFO-2026-4",
+ "source": "bpk",
+ "bpk_id": 344573,
+ "url": "https://peraturan.bpk.go.id/Details/344573/permenkomdigi-no-4-tahun-2026",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Digital",
+ "number": "4",
+ "number_raw": "4",
+ "year": 2026,
+ "title": "Peraturan Menteri Komunikasi dan Digital Nomor 4 Tahun 2026 tentang Organisasi dan Tata Kerja Sekretariat Komisi Informasi Pusat",
+ "about": "Organisasi dan Tata Kerja Sekretariat Komisi Informasi Pusat",
+ "issuer": "Kementerian Komunikasi dan Digital",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-01-13",
+ "date_promulgated": "2026-01-19",
+ "date_effective": "2026-01-19",
+ "gazette": "BN 2026 (30); 11 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 228298,
+   "label": "Permenkominfo No. 9 Tahun 2022",
+   "about": "Organisasi dan Tata Kerja Sekretariat Komisi Informasi Pusat"
+  }
+ ],
+ "abstract": "bahwa Peraturan Menteri Komunikasi dan Informatika Nomor 9 Tahun 2022 tentang Organisasi dan Tata Kerja Sekretariat Komisi Informasi Pusat sudah tidak sesuai dengan perkembangan hukum dan kebutuhan organisasi, sehingga perlu diganti\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD NRI Tahun 1945; UU Nomor 14 Tahun 2008; UU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024; Perpres Nomor 174 Tahun 2024; Permen Komdigi Nomor 1 Tahun 2025.\nPeraturan ini mengatur mengenai kedudukan, tugas, dan fungsi Sekretariat Komisi Informasi Pusat; susunan organisasi; jabatan fungsional dan jabatan pelaksana; tata kerja; lokasi; jabatan, pengangkatan, dan pemberhentian; penataan organisasi",
+ "note": "Peraturan Menteri Komunikasi dan Digital ini mulai berlaku pada tanggal 19 Januari 2026.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Komunikasi dan Informatika Nomor 9 tahun 2022 tentang Organisasi dan Tata Kerja Sekretariat Komisi Informasi Pusat (Berita Negara Republik Indonesia Tahun 2022 Nomor 639), dicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "PERMENKOMINFO-2022-9",
+  "UU-2008-14",
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2024-174"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/407838/Permenkomdigi-no-4-tahun-2026.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:16:01Z"
+}

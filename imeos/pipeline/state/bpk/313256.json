@@ -1,0 +1,42 @@
+{
+ "id": "PMK-2025-7",
+ "source": "bpk",
+ "bpk_id": 313256,
+ "url": "https://peraturan.bpk.go.id/Details/313256/pmk-no-7-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "7",
+ "number_raw": "7",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 7 Tahun 2025 tentang Pedoman Pemeriksaan dan Penagihan Pajak Daerah",
+ "about": "Pedoman Pemeriksaan dan Penagihan Pajak Daerah",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PAJAK DAN RETRIBUSI DAERAH - STANDAR / PEDOMAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-01-21",
+ "date_promulgated": "2025-03-03",
+ "date_effective": "2025-03-03",
+ "gazette": "BN 2025 (73); 80 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2018-207",
+   "target_bpk_id": 113744,
+   "label": "PMK No. 207/PMK.07/2018",
+   "about": "Pedoman Penagihan Dan Pemeriksaan Pajak Daerah"
+  }
+ ],
+ "abstract": "bahwa untuk melaksanakan ketentuan Pasal 73 ayat (5) dan Pasal 84 Peraturan Pemerintah Nomor 35 Tahun 2023 tentang Ketentuan Umum Pajak Daerah dan Retribusi Daerah, perlu menetapkan Peraturan Menteri Keuangan tentang Pedoman Pemeriksaan dan Penagihan Pajak Daerah;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 35 Tahun 2023, Peraturan Presiden Nomor 158 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengatur tentang ketentuan umum, pemeriksaan, penagihan, kerja sama pemeriksaan dan penagihan dan ketentuan penutup.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 03 Maret 2025.\nPeraturan Menteri ini mulai berlaku, Peraturan\nMenteri Keuangan Nomor 207/PMK.07/2018 tentang Pedoman Pemeriksaan dan Penagihan Pajak Daerah dicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "PP-2023-35",
+  "UU-2008-39",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/374133/2024pmkeuangan007.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:09:38Z"
+}

@@ -12,7 +12,7 @@
  "about": "Kebijakan Akuntansi Pemerintah Pusat",
  "issuer": "Kementerian Keuangan",
  "subject": "KEBIJAKAN AKUNTANSI",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2022-12-30",
  "date_promulgated": "2022-12-30",
  "date_effective": "2022-12-30",
@@ -54,5 +54,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/293506/231_PMK.05_2022.pdf"
  ],
- "fetched_at": "2026-09-14T06:32:02Z"
+ "fetched_at": "2026-10-05T05:06:30Z"
 }

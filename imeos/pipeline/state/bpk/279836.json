@@ -1,0 +1,48 @@
+{
+ "id": "PP-2024-14",
+ "source": "bpk",
+ "bpk_id": 279836,
+ "url": "https://peraturan.bpk.go.id/Details/279836/pp-no-14-tahun-2024",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "14",
+ "number_raw": "14",
+ "year": 2024,
+ "title": "Peraturan Pemerintah (PP) Nomor 14 Tahun 2024 tentang Pemberian Tunjangan Hari Raya dan Gaji Ketiga Belas kepada Aparatur Negara, Pensiunan, Penerima Pensiun, dan Penerima Tunjangan Tahun 2024",
+ "about": "Pemberian Tunjangan Hari Raya dan Gaji Ketiga Belas kepada Aparatur Negara, Pensiunan, Penerima Pensiun, dan Penerima Tunjangan Tahun 2024",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA - KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-03-13",
+ "date_promulgated": "2024-03-13",
+ "date_effective": "2024-03-13",
+ "gazette": "LN 2024 (50), TLN (6911): 20 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2025-11",
+   "target_bpk_id": 315889,
+   "label": "PP No. 11 Tahun 2025",
+   "about": "Pemberian Tunjangan Hari Raya dan Gaji Ketiga Belas kepada Aparatur Negara, Pensiunan, Penerima Pensiun, dan Penerima Tunjangan Tahun 2025"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2023-15",
+   "target_bpk_id": 246381,
+   "label": "PP No. 15 Tahun 2023",
+   "about": "Pemberian Tunjangan Hari Raya dan Gaji Ketiga Belas kepada Aparatur Negara, Pensiunan, Penerima Pensiun, dan Penerima Tunjangan Tahun 2023"
+  }
+ ],
+ "abstract": "Untuk meningkatkan pembelanjaan Aparatur Negara, Pensiunan, Penerima Pensiun, dan penerima Tunjangan, Pemerintah memberikan Tunjangan Hari Raya dan Gaji Ketiga Belas Tahun 2024 sebagai wujud penghargaan atas pengabdian kepada bangsa dan negara.\nDasar hukum PP ini adalah Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 17 Tahun 2003; UU Nomor 1 Tahun 2004; dan UU Nomor 19 Tahun 2023.\nPP ini mengatur tentang pemberian Tunjangan Hari Raya dan Gaji Ketiga Belas Tahun kepada Aparatur Negara, Pensiunan, Penerima Pensiun, dan penerima Tunjangan tahun 2024 dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Pemerintah memberikan tunjangan Hari Raya dan gaji ketiga belas Tahun 2024 kepada Aparatur Negara, Pensiunan, Penerima Pensiun, dan Penerima Tunjangan sebagai wujud penghargaan atas pengabdian kepada bangsa dan negara dengan memperhatikan kemampuan keuangan negara. Ketentuan lebih lanjut mengenai teknis pemberian tunjangan Hari Raya dan gaji ketiga belas yang bersumber dari Anggaran Pendapatan dan Belanja Negara diatur dengan Peraturan Menteri yang menyelenggarakan urusan pemerintahan di bidang keuangan.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 13 Maret 2024.\nPada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 15 Tahun 2023 tentang Pemberian Tunjangan Hari Raya dan Gaji Ketiga Belas kepada Aparatur Negara, Pensiunan, Penerima Pensiun, dan Penerima Tunjangan Tahun 2023 (Lembaran Negara Republik Indonesia Tahun 2023 Nomor 40, Tambahan Lembaran Negara Republik Indonesia Nomor 6855), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 35 hlm. (batang tubuh hlm 1 sd 20; penjelasan hlm 21 sd 33; lampiran hlm 34 sd 35)",
+ "citations": [
+  "UU-2003-17",
+  "UU-2004-1",
+  "UU-2023-19"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/338575/PP%20Nomor%2014%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-10-05T04:59:11Z"
+}

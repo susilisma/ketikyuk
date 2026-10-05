@@ -12,7 +12,7 @@
  "about": "Pembelian Kembali Surat Berharga Syariah Negara",
  "issuer": "Kementerian Keuangan",
  "subject": "PENGELOLAAN KEUANGAN NEGARA / DAERAH - PEREKONOMIAN",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2013-04-08",
  "date_promulgated": "2013-04-12",
  "date_effective": "2013-04-12",
@@ -41,5 +41,5 @@
   "https://peraturan.bpk.go.id/Download/142046/PMK%20Nomor%2075%20Tahun%202013.pdf",
   "https://peraturan.bpk.go.id/Download/252240/PMK%20Nomor%2075%20Tahun%202013%20Lampiran.pdf"
  ],
- "fetched_at": "2026-09-14T06:33:08Z"
+ "fetched_at": "2026-10-05T05:07:36Z"
 }

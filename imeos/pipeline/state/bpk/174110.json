@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKUMHAM-2020-21",
+ "source": "bpk",
+ "bpk_id": 174110,
+ "url": "https://peraturan.bpk.go.id/Details/174110/permenkumham-no-21-tahun-2020",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "21",
+ "number_raw": "21",
+ "year": 2020,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 21 Tahun 2020 tentang Tata Cara Penyampaian Permohonan Pewarganegaraan dan Penyampaian Berita Acara Sumpah Pemberian Kewarganegaraan Republik Indonesia",
+ "about": "Tata Cara Penyampaian Permohonan Pewarganegaraan dan Penyampaian Berita Acara Sumpah Pemberian Kewarganegaraan Republik Indonesia",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "KEWARGANEGARAAN DAN IMIGRASI",
+ "field": "Alias",
+ "date_enacted": "2020-08-31",
+ "date_promulgated": "2020-09-02",
+ "date_effective": "2020-09-02",
+ "gazette": "BN.2020/No.984 peraturan.go.id : 12 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 357191,
+   "label": "Permenkum No. 15 Tahun 2026",
+   "about": "Layanan Bidang Kewarganegaraan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 285155,
+   "label": "Permenkumham No. 10 Tahun 2024",
+   "about": "Perubahan atas Peraturan Menteri Hukum dan dan Hak Asasi Manusia Nomor 21 Tahun 2020 tentang Tata Cara Penyampaian Permohonan Pewarganegaraan dan Penyampaian Berita Acara Sumpah Pemberian Kewarganegaraan Republik Indonesia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 02 September 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/167306/21%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:17:56Z"
+}

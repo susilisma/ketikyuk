@@ -1,0 +1,40 @@
+{
+ "id": "PERMENDAG-2025-6",
+ "source": "bpk",
+ "bpk_id": 320828,
+ "url": "https://peraturan.bpk.go.id/Details/320828/permendag-no-6-tahun-2025",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "6",
+ "number_raw": "6",
+ "year": 2025,
+ "title": "Peraturan Menteri Perdagangan Nomor 6 Tahun 2025 tentang Organisasi dan Tata Kerja Kementerian Perdagangan",
+ "about": "Organisasi dan Tata Kerja Kementerian Perdagangan",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "STRUKTUR ORGANISASI - STATUTA ORGANISASI / LEMBAGA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-01-22",
+ "date_promulgated": "2025-01-23",
+ "date_effective": "2025-01-23",
+ "gazette": "BN 2025 (53) : 154 hlm.; jdih.kemendag.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2022-29",
+   "target_bpk_id": 223637,
+   "label": "Permendag No. 29 Tahun 2022",
+   "about": "Organisasi dan Tata Kerja Kementerian Perdagangan"
+  }
+ ],
+ "abstract": "a. bahwa untuk mewujudkan organisasi dan tata kerja yang efektif dan efisien guna meningkatkan kinerja\npelaksanaan tugas dan fungsi Kementerian Perdagangan, perlu melakukan penataan organisasi dan tata kerja\nKementerian Perdagangan;\nb. bahwa penataan organisasi dan tata kerja Kementerian Perdagangan telah mendapatkan persetujuan tertulis dari Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b serta untuk\nmelaksanakan ketentuan Pasal 53 ayat (1) huruf b Peraturan Presiden Nomor 168 Tahun 2024 tentang\nKementerian Perdagangan, perlu menetapkan Peraturan Menteri Perdagangan tentang Organisasi dan Tata Kerja\nKementerian Perdagangan;\nPasal 17 ayat (3) UUD NRI Tahun 1945, UU No. 39 Tahun 2008, dan Perpres No. 168 Tahun 2024.\nPeraturan ini mengatur tentang ketentuan umum, kedudukan, tugas dan fungsi, susunan organisasi, sekretariat jenderal, Direktorat Jenderal Perdagangan Dalam Negeri, Direktorat Jenderal Perlindungan Konsumen dan Tertib Niaga, Direktorat Jenderal Perdagangan Luar Negeri, Direktorat Jenderal Perundingan Perdagangan Internasional, Direktorat Jenderal Pengembangan Ekspor Nasional, Inspektorat Jenderal",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 23 Januari 2025.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Perdagangan Nomor 29 Tahun 2022 tentang Organisasi dan Tata Kerja Kementerian Perdagangan (Berita Negara Republik Indonesia Tahun 2022 Nomor 492), dicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "PERPRES-2024-168",
+  "UU-2008-39"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/382580/Permendag%20No.%206%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:12:03Z"
+}

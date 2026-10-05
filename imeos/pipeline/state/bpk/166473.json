@@ -1,0 +1,51 @@
+{
+ "id": "PERMENDAG-2021-10",
+ "source": "bpk",
+ "bpk_id": 166473,
+ "url": "https://peraturan.bpk.go.id/Details/166473/permendag-no-10-tahun-2021",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "10",
+ "number_raw": "10",
+ "year": 2021,
+ "title": "Peraturan Menteri Perdagangan Nomor 10 Tahun 2021 tentang Petunjuk Teknis Jabatan Fungsional Analis Investigasi Dan Pengamanan Perdagangan",
+ "about": "Petunjuk Teknis Jabatan Fungsional Analis Investigasi Dan Pengamanan Perdagangan",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA - JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "Alias",
+ "date_enacted": "2021-03-10",
+ "date_promulgated": "2021-03-15",
+ "date_effective": "2021-03-15",
+ "gazette": "BN.2021/No. 202; http://jdih.kemendag.go.id : 66 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2025-4",
+   "target_bpk_id": 320775,
+   "label": "Permendag No. 4 Tahun 2025",
+   "about": "Petunjuk Pelaksanaan dan Petunjuk Teknis Jabatan Fungsional di Bidang Perdagangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2020-21",
+   "target_bpk_id": 160249,
+   "label": "Permendag No. 21 Tahun 2020",
+   "about": "Petunjuk Pelaksanaan Jabatan Fungsional Analis Investigasi dan Pengamanan Perdagangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2018-112",
+   "target_bpk_id": 128657,
+   "label": "Permendag No. 112 Tahun 2018",
+   "about": "Pedoman Penyusunan Formasi Jabatan Fungsional Analis Investigasi Dan Pengamanan Perdagangan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 15 Maret 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/159395/PERMENDAG%20NOMOR%2010%20TAHUN%202021.PDF"
+ ],
+ "fetched_at": "2026-10-05T05:12:14Z"
+}

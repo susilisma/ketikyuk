@@ -1,0 +1,65 @@
+{
+ "id": "PERMENKES-2023-2",
+ "source": "bpk",
+ "bpk_id": 245563,
+ "url": "https://peraturan.bpk.go.id/Details/245563/permenkes-no-2-tahun-2023",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "2",
+ "number_raw": "2",
+ "year": 2023,
+ "title": "Peraturan Menteri Kesehatan Nomor 2 Tahun 2023 tentang Peraturan Pelaksanaan Peraturan Pemerintah Nomor 66 Tahun 2014 tentang Kesehatan Lingkungan",
+ "about": "Peraturan Pelaksanaan Peraturan Pemerintah Nomor 66 Tahun 2014 tentang Kesehatan Lingkungan",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN",
+ "field": "Alias",
+ "date_enacted": "2023-01-04",
+ "date_promulgated": "2023-01-12",
+ "date_effective": "2023-01-12",
+ "gazette": "BN.2023/No.55, peraturan.go.id: 26 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PERMENKES-2026-3",
+   "target_bpk_id": 350854,
+   "label": "Permenkes No. 3 Tahun 2026",
+   "about": "Penanggulangan Penyakit"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2017-50",
+   "target_bpk_id": 112145,
+   "label": "Permenkes No. 50 Tahun 2017",
+   "about": "Standar Baku Mutu Kesehatan Lingkungan dan Persyaratan Kesehatan untuk Vektor dan Binatang Pembawa Penyakit  Serta Pengendaliannya"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2017-32",
+   "target_bpk_id": 112092,
+   "label": "Permenkes No. 32 Tahun 2017",
+   "about": "Standar Baku Mutu Kesehatan Lingkungan dan Persyaratan Kesehatan Air Untuk Keperluan Higiene Sanitasi, Kolam Renang, Solus Per Aqua, dan Pemandian Umum"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2014-43",
+   "target_bpk_id": 119084,
+   "label": "Permenkes No. 43 Tahun 2014",
+   "about": "Higiene Sanitasi Depot Air Minum"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "PERMENKES-2019-7",
+   "target_bpk_id": 111721,
+   "label": "Permenkes No. 7 Tahun 2019",
+   "about": "Kesehatan Lingkungan Rumah Sakit"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 12 Januari 2023.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/301587/Permenkes%20Nomor%202%20Tahun%202023.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:22:54Z"
+}

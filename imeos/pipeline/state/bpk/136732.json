@@ -1,0 +1,37 @@
+{
+ "id": "PERATURANBI-2016-18",
+ "source": "bpk",
+ "bpk_id": 136732,
+ "url": "https://peraturan.bpk.go.id/Details/136732/peraturan-bi-no-189pbi2016-tahun-2016",
+ "form": "PERATURANBI",
+ "form_long": "Peraturan Bank Indonesia",
+ "number": "18",
+ "number_raw": "18/9/PBI/2016",
+ "year": 2016,
+ "title": "Peraturan Bank Indonesia Nomor 18/9/PBI/2016 Tahun 2016 tentang Pengaturan dan Pengawasan Sistem Pembayaran dan Pengelolaan Uang Rupiah",
+ "about": "Pengaturan dan Pengawasan Sistem Pembayaran dan Pengelolaan Uang Rupiah",
+ "issuer": "Bank Indonesia",
+ "subject": "PEREKONOMIAN",
+ "field": "Alias",
+ "date_enacted": "2016-03-31",
+ "date_promulgated": "2016-06-03",
+ "date_effective": "2016-06-03",
+ "gazette": "LN 2016/NO 106 PERATURAN.GO.ID : 11 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 317896,
+   "label": "Peraturan BI No. 4 Tahun 2025",
+   "about": "Kebijakan Sistem Pembayaran"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Bank Indonesia ini mulai berlaku pada tanggal 03 Juni 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/127636/Peraturan%20BI%20No.%2018-9-PBI%202016.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:31:10Z"
+}

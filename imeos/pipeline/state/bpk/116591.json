@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKES-2015-85",
+ "source": "bpk",
+ "bpk_id": 116591,
+ "url": "https://peraturan.bpk.go.id/Details/116591/permenkes-no-85-tahun-2015",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "85",
+ "number_raw": "85",
+ "year": 2015,
+ "title": "Peraturan Menteri Kesehatan Nomor 85 Tahun 2015 tentang Pola Tarif Nasional Rumah Sakit",
+ "about": "Pola Tarif Nasional Rumah Sakit",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - PERIZINAN, PELAYANAN PUBLIK",
+ "field": "Alias",
+ "date_enacted": "2015-12-11",
+ "date_promulgated": "2016-01-06",
+ "date_effective": "2016-01-06",
+ "gazette": "BN.2016/NO. 9, kemkes.go.id : 17 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-6",
+   "target_bpk_id": 350851,
+   "label": "Permenkes No. 6 Tahun 2026",
+   "about": "Rumah Sakit"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2013-12",
+   "target_bpk_id": 156333,
+   "label": "Permenkes No. 12 Tahun 2013",
+   "about": "Pola Tarif Badan Layanan Umum Rumah Sakit di Lingkungan Kementerian Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 06 Januari 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/107516/Permenkes%20Nomor%2085%20Tahun%202015.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:22:00Z"
+}

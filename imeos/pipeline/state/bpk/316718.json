@@ -1,0 +1,40 @@
+{
+ "id": "PERPRES-2025-18",
+ "source": "bpk",
+ "bpk_id": 316718,
+ "url": "https://peraturan.bpk.go.id/Details/316718/perpres-no-18-tahun-2025",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "18",
+ "number_raw": "18",
+ "year": 2025,
+ "title": "Peraturan Presiden (Perpres) Nomor 18 Tahun 2025 tentang Tunjangan Kinerja Pegawai di Lingkungan Kementerian Pendidikan Dasar dan Menengah",
+ "about": "Tunjangan Kinerja Pegawai di Lingkungan Kementerian Pendidikan Dasar dan Menengah",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-03-27",
+ "date_promulgated": "2025-03-27",
+ "date_effective": "2025-03-27",
+ "gazette": "LN 2025 (38) : 7 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2018-136",
+   "target_bpk_id": 99844,
+   "label": "PERPRES No. 136 Tahun 2018",
+   "about": "Tunjangan Kinerja Pegawai di Lingkungan Kementerian Pendidikan dan Kebudayaan"
+  }
+ ],
+ "abstract": "Dengan adanya penataan organisasi kementerian perlu dilakukan penataan pemberian tunjangan kinerja bagi pegawai di lingkungan kementerian yang mengalami perubahan nomenklatur dan/atau kementerian baru yang dibentuk.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU No. 20 Tahun 2023; dan Perpres Nomor 188 Tahun 2024.\nPerpres ini mengatur mengenai Tunjangan Kinerja Pegawai di Lingkungan Kementerian Pendidikan Dasar dan Menengah. Pegawai di Lingkungan Kementerian Pendidikan Dasar dan Menengah, selain diberikan penghasilan sesuai dengan ketentuan peraturan perundang-undangan, diberikan tunjangan kinerja setiap bulan.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 27 Maret 2025.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 136 Tahun 2018 tentang Tunjangan Kinerja Pegawai di Lingkungan Kementerian Pendidikan dan Kebudayaan (Lembaran Negara Republik Indonesia Tahun 2018 Nomor 254), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 8 hlm. (batang tubuh hlm 1 s.d. 7 dan lampiran hlm 8)",
+ "citations": [
+  "UU-2023-20",
+  "PERPRES-2024-188"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/378022/Perpres%20Nomor%2018%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:03:05Z"
+}

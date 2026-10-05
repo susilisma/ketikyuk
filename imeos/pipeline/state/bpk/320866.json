@@ -1,0 +1,49 @@
+{
+ "id": "PERMENDAG-2025-8",
+ "source": "bpk",
+ "bpk_id": 320866,
+ "url": "https://peraturan.bpk.go.id/Details/320866/permendag-no-8-tahun-2025",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "8",
+ "number_raw": "8",
+ "year": 2025,
+ "title": "Peraturan Menteri Perdagangan Nomor 8 Tahun 2025 tentang Perubahan Ketiga atas Peraturan Menteri Perdagangan Nomor 22 Tahun 2023",
+ "about": "Perubahan Ketiga atas Peraturan Menteri Perdagangan Nomor 22 Tahun 2023",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-03-06",
+ "date_promulgated": "2025-03-10",
+ "date_effective": "2025-03-13",
+ "gazette": "BN 2025 (166) : 39 hlm.; jdih.kemendag.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERMENDAG-2023-22",
+   "target_bpk_id": 260133,
+   "label": "Permendag No. 22 Tahun 2023",
+   "about": "Barang Yang Dilarang Untuk Diekspor"
+  }
+ ],
+ "abstract": "a. bahwa untuk menyelaraskan pelaksanaan kebijakan pengoperasian fasilitas pemurnian mineral logam komoditas tembaga dan menjaga penerimaan negara dan pendapatan daerah yang berasal dari pemegang izin usaha pertambangan khusus pada tahap kegiatan operasi produksi mineral logam pada saat terjadinya keadaan kahar, serta memberikan kepastian hukum dan kepastian berusaha bagi eksportir, perlu mengubah Peraturan Menteri Perdagangan Nomor 22 Tahun 2023 tentang Barang yang Dilarang untuk Diekspor sebagaimana telah diubah beberapa kali terakhir dengan Peraturan Menteri Perdagangan Nomor 20 Tahun 2024 tentang Perubahan Kedua atas Peraturan Menteri Perdagangan Nomor 22 Tahun 2023 tentang Barang yang Dilarang untuk Diekspor;\nb. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, perlu menetapkan Peraturan Menteri Perdagangan tentang Perubahan Ketiga atas Peraturan Menteri Perdagangan Nomor 22 Tahun 2023 tentang Barang yang Dilarang untuk Diekspor;\nPasal 17 ayat (3) UUD NRI Tahun 1945, UU No. 10 Tahun 1995, UU No. 39 Tahun 2008, UU No. 7 Tahun 2014, PP No. 83 Tahun 2010, PP No. 29 Tahun 2021, PP No. 40 Tahun 2021, PP No. 41 Tahun 2021, Perpres No. 168 Tahun 2024, Permendag No. 22 Tahun 2023, Permen ESDM No. 6 Tahun 2024, dan Permendag No. 6 Tahun 2025\nPeraturan ini mengubah beberapa ketentuan Peraturan Menteri Perdagangan Nomor 22 Tahun 2023 tentang Barang yang Dilarang untuk Diekspor yaitu tentang Ketentuan Barang yang Dilarang untuk Diekspor bidang pertambangan",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 13 Maret 2025.\nPeraturan ini mengubah Permendag No. 22 Tahun 2023 tentang tentang Barang yang Dilarang untuk Diekspor",
+ "citations": [
+  "PERMENDAG-2023-22",
+  "PERMENDAG-2024-20",
+  "UU-1995-10",
+  "UU-2008-39",
+  "UU-2014-7",
+  "PP-2010-83",
+  "PP-2021-29",
+  "PP-2021-40",
+  "PP-2021-41",
+  "PERPRES-2024-168",
+  "PERMENDAG-2025-6"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/382605/Permendag%20No.%208%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:11:58Z"
+}

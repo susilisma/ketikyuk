@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKES-2014-45",
+ "source": "bpk",
+ "bpk_id": 154750,
+ "url": "https://peraturan.bpk.go.id/Details/154750/permenkes-no-45-tahun-2014",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "45",
+ "number_raw": "45",
+ "year": 2014,
+ "title": "Peraturan Menteri Kesehatan Nomor 45 Tahun 2014 tentang Penyelenggaraan Surveilans Kesehatan",
+ "about": "Penyelenggaraan Surveilans Kesehatan",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN",
+ "field": "Alias",
+ "date_enacted": "2014-07-25",
+ "date_promulgated": "2014-08-12",
+ "date_effective": "2014-08-12",
+ "gazette": "BN.2014/No.1113, kemkes.go.id : 14 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-1",
+   "target_bpk_id": 344092,
+   "label": "Permenkes No. 1 Tahun 2026",
+   "about": "Kejadian Luar Biasa, Wabah, dan Krisis Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 12 Agustus 2014.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/147076/Permenkes%20Nomor%2045%20Tahun%202014.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:23:16Z"
+}

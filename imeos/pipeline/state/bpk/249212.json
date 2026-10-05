@@ -1,0 +1,47 @@
+{
+ "id": "PERMENKES-2023-10",
+ "source": "bpk",
+ "bpk_id": 249212,
+ "url": "https://peraturan.bpk.go.id/Details/249212/permenkes-no-10-tahun-2023",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "10",
+ "number_raw": "10",
+ "year": 2023,
+ "title": "Peraturan Menteri Kesehatan Nomor 10 Tahun 2023 tentang Organisasi dan Tata Kerja Unit Pelaksana Teknis Bidang Kekarantinaan Kesehatan",
+ "about": "Organisasi dan Tata Kerja Unit Pelaksana Teknis Bidang Kekarantinaan Kesehatan",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "Alias",
+ "date_enacted": "2023-02-20",
+ "date_promulgated": "2023-03-03",
+ "date_effective": "2023-03-03",
+ "gazette": "BN.2023 (209)/17 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENKES-2026-8",
+   "target_bpk_id": 350849,
+   "label": "Permenkes No. 8 Tahun 2026",
+   "about": "Perubahan atas Peraturan Menteri Kesehatan Nomor 10 Tahun 2023 tentang Organisasi dan Tata Kerja Unit Pelaksana Teknis Bidang Kekarantinaan Kesehatan"
+  }
+ ],
+ "abstract": "a. bahwa untuk mendukung penerapan transformasi kesehatan dan memperjelas ruang lingkup tugas dan fungsi kekarantinaan kesehatan pada kantor kesehatan pelabuhan, perlu dilakukan penataan organisasi dan tata kerja unit pelaksana teknis bidang kekarantinaan kesehatan;\nb. bahwa untuk penataan organisasi dan tata kerja unit pelaksana teknis bidang kekarantinaan kesehatan, perlu dilakukan penyesuaian terhadap Peraturan Menteri Kesehatan Nomor 33 Tahun 2021 tentang Organisasi dan Tata Kerja Kantor Kesehatan Pelabuhan;\nc. bahwa penataan organisasi dan tata kerja Unit Pelaksana Teknis Bidang Kekarantinaan Kesehatan telah mendapatkan persetujuan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi melalui surat Nomor B/915/M.KT.01/2022 tanggal 29 Agustus 2022;\nd. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, serta untuk melaksanakan ketentuan Pasal 267 Peraturan Menteri Kesehatan Nomor 5 Tahun 2022 tentang Organisasi dan Tata Kerja Kementerian Kesehatan, perlu menetapkan Peraturan Menteri Kesehatan tentang Organisasi dan Tata Kerja Unit Pelaksana Teknis Bidang Kekarantinaan Kesehatan;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 4 Tahun 1984, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 36 Tahun 2009, Undang-Undang Nomor 6 Tahun 2018, Peraturan Pemerintah Nomor 40 Tahun 1991, Peraturan Presiden Nomor 18 Tahun 2021, Peraturan Menteri Kesehatan Nomor 5 Tahun 2022 dan Peraturan Menteri Kesehatan Nomor 9 Tahun 2023\nPeraturan Menteri ini mengatur tentang ketentuan umum, kedudukan dan klasifikasi, tugas dan fungsi, susunan organisasi, instalasi, wilayah kerja UPT bidang kekarantinaan kesehatan, kelompom jabatan fungsional, tata kerja, jabatan, pengangkatan dan pemberhentian, ketentuan lain-lain, ketentuan peralihan dan ketentuan penutup",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 03 Maret 2023.",
+ "citations": [
+  "PERMENKES-2021-33",
+  "PERMENKES-2022-5",
+  "UU-1984-4",
+  "UU-2008-39",
+  "UU-2009-36",
+  "UU-2018-6",
+  "PP-1991-40",
+  "PERPRES-2021-18",
+  "PERMENKES-2023-9"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/305606/Permenkes%20no10%20tahun%202023.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:21:45Z"
+}

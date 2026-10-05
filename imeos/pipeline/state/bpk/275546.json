@@ -1,0 +1,41 @@
+{
+ "id": "PERMENKES-2023-26",
+ "source": "bpk",
+ "bpk_id": 275546,
+ "url": "https://peraturan.bpk.go.id/Details/275546/permenkes-no-26-tahun-2023",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "26",
+ "number_raw": "26",
+ "year": 2023,
+ "title": "Peraturan Menteri Kesehatan Nomor 26 Tahun 2023 tentang Organisasi dan Tata Kerja Balai Besar Laboratorium Biologi Kesehatan",
+ "about": "Organisasi dan Tata Kerja Balai Besar Laboratorium Biologi Kesehatan",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2023-08-16",
+ "date_promulgated": "2023-08-18",
+ "date_effective": "2023-08-18",
+ "gazette": "BN 2023 (635): 9 hlm.; jdih.kemkes.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENKES-2026-12",
+   "target_bpk_id": 350841,
+   "label": "Permenkes No. 12 Tahun 2026",
+   "about": "Perubahan atas Peraturan Menteri Kesehatan Nomor 26 Tahun 2023 tentang Organisasi dan Tata Kerja Balai Besar Laboratorium Biologi Kesehatan"
+  }
+ ],
+ "abstract": "Untuk penguatan transformasi layanan primer dan transformasi sistem ketahanan kesehatan diperlukan unit pelaksana teknis yang melakukan pengelolaan laboratorium di bidang biologi kesehatan.\nDasar hukum peraturan ini adalah UUD RI Tahun 1945 Pasal 17 ayat (3); UU Nomor 17 tahun 2023; Perpres Nomo 18 Tahun 2021; Permenkes Nomor 5 Tahun 2022; dan Peraturan Menteri Pendayagunaan Aparatur Sipil Negara dan Reformasi Birokrasi Nomor 2 Tahun 2023.\nBalai Besar Laboratorium Biologi Kesehatan mempunyai tugas melaksanakan pengelolaan laboratorium biologi kesehatan.",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 18 Agustus 2023.\nLampiran file: 9 hlm. (batang tubuh hlm 1 sd 8; lampiran hlm 9)",
+ "citations": [
+  "UU-2023-17",
+  "PERMENKES-2022-5",
+  "PERATURANMENTERI-2023-2"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/334043/Permenkes%20Nomor%2026%20Tahun%202023.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:21:34Z"
+}

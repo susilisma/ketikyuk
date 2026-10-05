@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKUMHAM-2019-16",
+ "source": "bpk",
+ "bpk_id": 133130,
+ "url": "https://peraturan.bpk.go.id/Details/133130/permenkumham-no-16-tahun-2019",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "16",
+ "number_raw": "16",
+ "year": 2019,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 16 Tahun 2019 tentang Unit Kerja Pengadaan Barang dan Jasa di Lingkungan Kementerian Hukum dan Hak Asasi Manusia",
+ "about": "Unit Kerja Pengadaan Barang dan Jasa di Lingkungan Kementerian Hukum dan Hak Asasi Manusia",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA - PENGADAAN BARANG / JASA",
+ "field": "Alias",
+ "date_enacted": "2019-07-19",
+ "date_promulgated": "2019-08-02",
+ "date_effective": "2019-10-01",
+ "gazette": "BN.2019/NO.856, peraturan.go.id : 12 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 350891,
+   "label": "Permenkum No. 43 Tahun 2025",
+   "about": "Unit Kerja Pengadaan Barang/Jasa"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 01 Oktober 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/123917/Permenkumham%20Nomor%2016%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:18:32Z"
+}

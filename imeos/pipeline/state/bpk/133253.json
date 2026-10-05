@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKUMHAM-2016-29",
+ "source": "bpk",
+ "bpk_id": 133253,
+ "url": "https://peraturan.bpk.go.id/Details/133253/permenkumham-no-29-tahun-2016",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "29",
+ "number_raw": "29",
+ "year": 2016,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 29 Tahun 2016 tentang Syarat dan Tata Cara Pengangkatan, Pelaporan, dan Pemberhentian Penerjemah Tersumpah",
+ "about": "Syarat dan Tata Cara Pengangkatan, Pelaporan, dan Pemberhentian Penerjemah Tersumpah",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "Alias",
+ "date_enacted": "2016-08-15",
+ "date_promulgated": "2016-08-16",
+ "date_effective": "2016-08-16",
+ "gazette": "BN.2016/No.1211,peraturan.go.id : 14 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 314771,
+   "label": "Permenkum No. 4 Tahun 2025",
+   "about": "Syarat dan Tata Cara Pengangkatan, Pelaporan, Pemberhentian, Perpanjangan, dan Pengawasan Penerjemah Tersumpah"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 133119,
+   "label": "Permenkumham No. 4 Tahun 2019",
+   "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 29 Tahun 2016 tentang Syarat dan Tata Cara Pengangkatan, Pelaporan, dan Pemberhentian Penerjemah Tersumpah"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 16 Agustus 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/124040/Permenkumham%20Nomor%2029%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:20:10Z"
+}

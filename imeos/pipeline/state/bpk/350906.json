@@ -1,0 +1,40 @@
+{
+ "id": "PERMENKUM-2025-52",
+ "source": "bpk",
+ "bpk_id": 350906,
+ "url": "https://peraturan.bpk.go.id/Details/350906/permenkum-no-52-tahun-2025",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "52",
+ "number_raw": "52",
+ "year": 2025,
+ "title": "Peraturan Menteri Hukum Nomor 52 Tahun 2025 tentang Pemberian Bantuan Hukum di Lingkungan Kementerian Hukum",
+ "about": "Pemberian Bantuan Hukum di Lingkungan Kementerian Hukum",
+ "issuer": "Kementerian Hukum",
+ "subject": "HAK ASASI MANUSIA - HUKUM ACARA DAN PERADILAN",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2025-12-17",
+ "date_promulgated": "2025-12-18",
+ "date_effective": "2025-12-18",
+ "gazette": "BN 2025 (1093): 8 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133288,
+   "label": "Permenkumham No. 66 Tahun 2016",
+   "about": "Pemberian Bantuan Hukum di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "Untuk menjamin dan memenuhi hak bantuan hukum baik dalam proses peradilan maupun di luar peradilan terkait dengan pelaksanaan tugas dan fungsi Kementerian Hukum, perlu diatur mekanisme pemberian bantuan hukum di lingkungan Kementerian Hukum.\nDasar hukum Permenkum ini adalah Pasal 17 ayat (3) UUD 1945; UU No. 39 Tahun 2008; Perpres No. 155 Tahun 2024; Permenkum No. 1 Tahun 2024; dan Permenkum No 2 Tahun 2024.\nPermenkum ini mengatur mengenai Pemberian Bantuan Hukum di Lingkungan Kementerian Hukum. Pemberian Bantuan Hukum adalah layanan hukum yang diberikan oleh Kementerian Hukum dalam menangani permasalahan hukum yang terkait dengan pelaksanaan tugas dan fungsi kedinasan di Kementerian Hukum. Pemberian Bantuan Hukum terdiri atas: a. bantuan hukum Litigasi; dan b. bantuan hukum Nonlitigasi.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 18 Desember 2025.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Hukum dan Hak Asasi Manusia Nomor 66 Tahun 2016 tentang Pemberian Bantuan Hukum di Lingkungan Kementerian Hukum dan Hak Asasi Manusia (Berita Negara Republik Indonesia Tahun 2016 Nomor 2133), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 8 hlm.",
+ "citations": [
+  "UU-2008-39",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/414661/Permenkum%20Nomor%2052%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:18:12Z"
+}

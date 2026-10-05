@@ -12,7 +12,7 @@
  "about": "Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah",
  "issuer": "Pemerintah Pusat",
  "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2015-03-18",
  "date_promulgated": "2015-03-18",
  "date_effective": "2015-03-18",
@@ -77,5 +77,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/27377/UU%20Nomor%209%20Tahun%202015.pdf"
  ],
- "fetched_at": "2026-09-14T05:23:24Z"
+ "fetched_at": "2026-10-05T04:55:19Z"
 }

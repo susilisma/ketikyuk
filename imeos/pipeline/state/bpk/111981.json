@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKES-2017-15",
+ "source": "bpk",
+ "bpk_id": 111981,
+ "url": "https://peraturan.bpk.go.id/Details/111981/permenkes-no-15-tahun-2017",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "15",
+ "number_raw": "15",
+ "year": 2017,
+ "title": "Peraturan Menteri Kesehatan Nomor 15 Tahun 2017 tentang Penanggulangan Cacingan",
+ "about": "Penanggulangan Cacingan",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - PROGRAM, RENCANA PEMBANGUNAN DAN RENCANA KERJA",
+ "field": "Alias",
+ "date_enacted": "2017-02-10",
+ "date_promulgated": "2017-03-21",
+ "date_effective": "2017-03-21",
+ "gazette": "BN.2017/NO.438, kemenkes.go.id : 16 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PERMENKES-2026-3",
+   "target_bpk_id": 350854,
+   "label": "Permenkes No. 3 Tahun 2026",
+   "about": "Penanggulangan Penyakit"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 21 Maret 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/102934/Permenkes%20Nomor%2015%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:23:04Z"
+}

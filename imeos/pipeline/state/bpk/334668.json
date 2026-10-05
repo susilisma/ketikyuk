@@ -1,0 +1,41 @@
+{
+ "id": "PERATURANBI-2025-9",
+ "source": "bpk",
+ "bpk_id": 334668,
+ "url": "https://peraturan.bpk.go.id/Details/334668/peraturan-bi-no-9-tahun-2025",
+ "form": "PERATURANBI",
+ "form_long": "Peraturan Bank Indonesia",
+ "number": "9",
+ "number_raw": "9",
+ "year": 2025,
+ "title": "Peraturan Bank Indonesia Nomor 9 Tahun 2025 tentang Kebijakan Insentif Likuiditas Makroprudensial",
+ "about": "Kebijakan Insentif Likuiditas Makroprudensial",
+ "issuer": "Bank Indonesia",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-11-26",
+ "date_promulgated": "2025-11-27",
+ "date_effective": "2025-12-01",
+ "gazette": "LN.2024 (41)/12 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 271927,
+   "label": "Peraturan BI No. 11 Tahun 2023",
+   "about": "Kebijakan Insentif Likuiditas Makroprudensial"
+  }
+ ],
+ "abstract": "a. bahwa untuk mencapai tujuan Bank Indonesia yaitu turut\nmenjaga stabilitas sistem keuangan dalam rangka\nmendukung pertumbuhan ekonomi yang berkelanjutan,\nBank Indonesia menetapkan dan melaksanakan kebijakan\nmakroprudensial, salah satunya melalui upaya\nmendorong intermediasi yang seimbang, berkualitas, dan\nberkelanjutan untuk mencapai sasaran kredit atau\npembiayaan yang optimal;\nb. bahwa untuk mencapai sasaran kredit atau pembiayaan\nyang optimal, Bank Indonesia menetapkan kebijakan\nmakroprudensial berupa pengaturan kebijakan insentif\nlikuiditas makroprudensial bagi bank;\nc. bahwa pengaturan kebijakan insentif likuiditas\nmakroprudensial perlu diperkuat dengan mengatur skema\npemberian insentif likuiditas makroprudensial bagi bank\nyang berbasis kinerja dan berorientasi ke depan, sehingga\nPeraturan Bank Indonesia Nomor 11 Tahun 2023 tentang\nKebijakan Insentif Likuiditas Makroprudensial perlu\ndiganti;\nd. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a, huruf b, dan huruf c, perlu menetapkan\nPeraturan Bank Indonesia tentang Kebijakan Insentif\nLikuiditas Makroprudensial;\nUndang-Undang Nomor 23 Tahun 1999, Undang-Undang Nomor 23 Tahun 1999 dan Peraturan Bank Indonesia Nomor 13 Tahun 2024\nPeraturan ini mengatur tentang ketentuan umum, prinsip dasar KLM, kerangka KLM, pemberian KLM, data dan laporan untuk penghitungan KLM, penyampaian informasi kepada bank, pengecualian pemberian KLM, perhitungan KLM bagi bank yang melakukan langkah strategis dan mendasar, pengawasan dan ketentuan penutup.",
+ "note": "Peraturan Bank Indonesia ini mulai berlaku pada tanggal 01 Desember 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan Bank Indonesia Nomor 11 Tahun 2023 tentang Kebijakan Insentif Likuiditas Makroprudensial (Lembaran\nNegara Republik Indonesia Tahun 2023 Nomor 31/BI",
+ "citations": [
+  "PBI-2023-11",
+  "UU-1999-23",
+  "PBI-2024-13"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/397234/PBI%20No%209%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:31:00Z"
+}

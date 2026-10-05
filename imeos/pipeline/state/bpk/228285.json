@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKOMINFO-2022-5",
+ "source": "bpk",
+ "bpk_id": 228285,
+ "url": "https://peraturan.bpk.go.id/Details/228285/permenkominfo-no-5-tahun-2022",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Informatika",
+ "number": "5",
+ "number_raw": "5",
+ "year": 2022,
+ "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 5 Tahun 2022 tentang Organisasi dan Tata Kerja Museum Penerangan",
+ "about": "Organisasi dan Tata Kerja Museum Penerangan",
+ "issuer": "Kementerian Komunikasi dan Informatika",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "Alias",
+ "date_enacted": "2022-04-05",
+ "date_promulgated": "2022-04-25",
+ "date_effective": "2022-04-25",
+ "gazette": "BN.2021/No.446, https://jdih.kominfo.go.id/: 9 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 344098,
+   "label": "Permenkomdigi No. 1 Tahun 2026",
+   "about": "Organisasi dan Tata Kerja Museum Penerangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 161441,
+   "label": "Permenkominfo No. 5/PER/M.KOMINFO/3/2011 Tahun 2011",
+   "about": "Organisasi dan Tata Kerja Museum Penerangan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Komunikasi dan Informatika ini mulai berlaku pada tanggal 25 April 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/223106/Salinan_PM_Kominfo_Nomor_5_Tahun_2022_tentang_OTK_MUSPEN_TTE.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:16:10Z"
+}

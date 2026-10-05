@@ -1,0 +1,47 @@
+{
+ "id": "PERMENKES-2025-1",
+ "source": "bpk",
+ "bpk_id": 313043,
+ "url": "https://peraturan.bpk.go.id/Details/313043/permenkes-no-1-tahun-2025",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "1",
+ "number_raw": "1",
+ "year": 2025,
+ "title": "Peraturan Menteri Kesehatan Nomor 1 Tahun 2025 tentang Pedoman Penyelenggaraan Uji Kompetensi Jabatan Fungsional di Bidang Kesehatan",
+ "about": "Pedoman Penyelenggaraan Uji Kompetensi Jabatan Fungsional di Bidang Kesehatan",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-01-09",
+ "date_promulgated": "2025-01-14",
+ "date_effective": "2025-01-14",
+ "gazette": "BN 2025 (23); 25 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2017-18",
+   "target_bpk_id": 111996,
+   "label": "Permenkes No. 18 Tahun 2017",
+   "about": "Penyelenggaraan Uji Kompetensi  Jabatan Fungsional Kesehatan"
+  }
+ ],
+ "abstract": "bahwa Peraturan Menteri Kesehatan Nomor 18 Tahun\n2017 tentang Penyelenggaraan Uji Kompetensi Jabatan\nFungsional di bidang Kesehatan sudah tidak sesuai\ndengan perkembangan hukum dan kebutuhan\norganisasi, sehingga perlu diganti\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD 1945; UU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 20024; UU Nomor 17 Tahun 2023; UU Nomor 20 Tahun 2023; PP Nomor 11 Tahun 2017 sebagaimana telah diubah dengan PP Nomor 17 Tahun 2020; Perpres Nomor 161 Tahun 2024; Permenpan Nomor 38 Tahun 2017; Permenkes Nomor 21 Tahun 2024\nPeraturan ini mengatur mengenai penyelenggaraan Uji Kompetensi Jabatan Fungsional di Bidang Kesehatan yang digunakan sebagai acuan bagi\npenyelenggaraan Uji Kompetensi Jabatan Fungsional di\nBidang Kesehatan",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 14 Januari 2025.",
+ "citations": [
+  "PERMENKES-2017-18",
+  "UU-2008-39",
+  "UU-2002-61",
+  "UU-2023-17",
+  "UU-2023-20",
+  "PP-2017-11",
+  "PP-2020-17",
+  "PERPRES-2024-161",
+  "PERMENKES-2024-21"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/373887/permenkes-no-1-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:24:38Z"
+}

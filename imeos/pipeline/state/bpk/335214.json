@@ -1,0 +1,233 @@
+{
+ "id": "PERMENKES-2025-13",
+ "source": "bpk",
+ "bpk_id": 335214,
+ "url": "https://peraturan.bpk.go.id/Details/335214/permenkes-no-13-tahun-2025",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "13",
+ "number_raw": "13",
+ "year": 2025,
+ "title": "Peraturan Menteri Kesehatan Nomor 13 Tahun 2025 tentang Pengelolaan Sumber Daya Manusia Kesehatan",
+ "about": "Pengelolaan Sumber Daya Manusia Kesehatan",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-10-08",
+ "date_promulgated": "2025-11-03",
+ "date_effective": "2025-11-03",
+ "gazette": "BN 2025 (902); 134hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2023-6",
+   "target_bpk_id": 245566,
+   "label": "Permenkes No. 6 Tahun 2023",
+   "about": "Pendayagunaan Tenaga Kesehatan Warga Negara Asing"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2022-7",
+   "target_bpk_id": 218294,
+   "label": "Permenkes No. 7 Tahun 2022",
+   "about": "Penyelenggaraan Program Internsip Dokter dan Dokter Gigi"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2022-37",
+   "target_bpk_id": 245557,
+   "label": "Permenkes No. 37 Tahun 2022",
+   "about": "Bantuan Biaya Pendidikan Kedokteran dan Fellowship"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2022-14",
+   "target_bpk_id": 218302,
+   "label": "Permenkes No. 14 Tahun 2022",
+   "about": "Program Adaptasi Dokter Spesialis Warga Negara Indonesia Lulusan Luar Negeri di Fasilitas Pelayanan Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2021-17",
+   "target_bpk_id": 171446,
+   "label": "Permenkes No. 17 Tahun 2021",
+   "about": "Izin dan Penyelenggaraan Praktik Tenaga Kesehatan Tradisional Interkontinental"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2020-6",
+   "target_bpk_id": 162977,
+   "label": "Permenkes No. 6 Tahun 2020",
+   "about": "Konsultan Manajemen Kesehatan Warga Negara Asing"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2019-36",
+   "target_bpk_id": 138626,
+   "label": "Permenkes No. 36 Tahun 2019",
+   "about": "Peraturan Pelaksanaan Peraturan Presiden Nomor 31 Tahun 2019 tentang Pendayagunaan Dokter Spesialis"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2019-26",
+   "target_bpk_id": 138617,
+   "label": "Permenkes No. 26 Tahun 2019",
+   "about": "Peraturan Pelaksanaan Undang-Undang Nomor 38 Tahun 2014 Tentang Keperawatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2019-18",
+   "target_bpk_id": 138611,
+   "label": "Permenkes No. 18 Tahun 2019",
+   "about": "Konsultan Manajemen Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2018-34",
+   "target_bpk_id": 111949,
+   "label": "Permenkes No. 34 Tahun 2018",
+   "about": "Izin Dan Penyelenggaraan Praktik Akupunktur Terapis"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2018-33",
+   "target_bpk_id": 111947,
+   "label": "Permenkes No. 33 Tahun 2018",
+   "about": "Penugasan Khusus Tenaga Kesehatan Dalam Mendukung Program Nusantara Sehat"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2018-24",
+   "target_bpk_id": 111926,
+   "label": "Permenkes No. 24 Tahun 2018",
+   "about": "Izin Dan Penyelenggaraan Praktik  Tenaga Kesehatan Tradisional Jamu"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2017-45",
+   "target_bpk_id": 139564,
+   "label": "Permenkes No. 45 Tahun 2017",
+   "about": "Izin dan Penyelenggaraan Praktik Psikolog Klinis"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2017-28",
+   "target_bpk_id": 112080,
+   "label": "Permenkes No. 28 Tahun 2017",
+   "about": "Izin Dan Penyelenggaraan Praktik Bidan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2016-80",
+   "target_bpk_id": 114645,
+   "label": "Permenkes No. 80 Tahun 2016",
+   "about": "Penyelenggaraan Pekerjaan Asisten Tenaga Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2016-41",
+   "target_bpk_id": 113090,
+   "label": "Permenkes No. 41 Tahun 2016",
+   "about": "Program Percepatan Peningkatan Kualifikasi Pendidikan Tenaga Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2016-31",
+   "target_bpk_id": 113061,
+   "label": "Permenkes No. 31 Tahun 2016",
+   "about": "Perubahan Atas Peraturan Menteri Kesehatan Nomor 889/Menkes/Per/V/2011 Tentang Registrasi, Izin Praktik, Dan Izin Kerja Tenaga Kefarmasian"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2016-23",
+   "target_bpk_id": 113056,
+   "label": "Permenkes No. 23 Tahun 2016",
+   "about": "Pedoman Penyelenggaraan Pemberian Penghargaan  Bagi Tenaga Kesehatan Teladan Di Pusat Kesehatan Masyarakat"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2016-20",
+   "target_bpk_id": 113054,
+   "label": "Permenkes No. 20 Tahun 2016",
+   "about": "Izin Dan Penyelenggaraan Praktik Terapis Gigi Dan Mulut"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2016-18",
+   "target_bpk_id": 113053,
+   "label": "Permenkes No. 18 Tahun 2016",
+   "about": "Izin Dan Penyelenggaraan Praktik Penata Anestesi"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2015-80",
+   "target_bpk_id": 172106,
+   "label": "Permenkes No. 80 Tahun 2015",
+   "about": "Perubahan atas Peraturan Menteri Kesehatan Nomor 9 Tahun 2013 tentang Penugasan Khusus Tenaga Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2015-45",
+   "target_bpk_id": 116249,
+   "label": "Permenkes No. 45 Tahun 2015",
+   "about": "Izin Dan Penyelenggaraan Praktik Elektromedis"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2015-42",
+   "target_bpk_id": 116191,
+   "label": "Permenkes No. 42 Tahun 2015",
+   "about": "Izin Dan Penyelenggaraan Praktik  Ahli Teknologi Laboratorium Medik"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2015-37",
+   "target_bpk_id": 116178,
+   "label": "Permenkes No. 37 Tahun 2015",
+   "about": "Pendayagunaan Tenaga Kesehatan Ke Luar Negeri"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2015-33",
+   "target_bpk_id": 116057,
+   "label": "Permenkes No. 33 Tahun 2015",
+   "about": "Pedoman Penyusunan Perencanaan Kebutuhan Sumber Daya Manusia Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2015-30",
+   "target_bpk_id": 115838,
+   "label": "Permenkes No. 30 Tahun 2015",
+   "about": "Izin Dan Penyelenggaraan Praktik  Teknisi Kardiovaskuler"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2013-9",
+   "target_bpk_id": 172107,
+   "label": "Permenkes No. 9 Tahun 2013",
+   "about": "Penugasan Khusus Tenaga Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2011-889",
+   "target_bpk_id": 139675,
+   "label": "Permenkes No. 889/MENKES/PER/V/2011 Tahun 2011",
+   "about": "Registrasi, Izin Praktik, dan Izin Kerja Tenaga Kefarmasian"
+  }
+ ],
+ "abstract": "bahwa untuk melaksanakan ketentuan Pasal 574, Pasal\n586, Pasal 593 ayat (3), Pasal 604, Pasal 610 ayat (8), Pasal\n616, Pasal 621 ayat (2), Pasal 625, Pasal 626 ayat (5), Pasal\n628 ayat (6), Pasal 631, Pasal 638, Pasal 648, Pasal 657,\nPasal 668, Pasal 676, Pasal 680, Pasal 687, Pasal 693, Pasal\n723 ayat (5), Pasal 727, Pasal 732 ayat (3), Pasal 746, dan\nPasal 760 Peraturan Pemerintah Nomor 28 Tahun 2024\ntentang Peraturan Pelaksanaan Undang-Undang Nomor 17\nTahun 2023 tentang Kesehatan\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD NRI Tahun 1945;\nUU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024;\nUU Nomor 17 Tahun 2023;\nPP Nomor 28 Tahun 2024;\nPerpres Nomor 161 Tahun 2024;\nPermenkes Nomor 21 Tahun 2024.\nPeraturan ini mengatur mengenai Pengelolaan Sumber Daya Manusia Kesehatan yang terdiri atas:\na. Tenaga Medis;\nb. Tenaga Kesehatan; dan\nc. Tenaga Pendukung atau Penunjang Kesehatan, yang meliputi pengelolaan a. perencanaan;\nb. pengadaan;\nc. pendayagunaan;\nd. peningkatan mutu; dan\ne. pemenuhan kesejahteraan.",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 03 November 2025.\n134hlm",
+ "citations": [
+  "PP-2024-28",
+  "UU-2023-17",
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2024-161",
+  "PERMENKES-2024-21"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/397785/permenkes-no-13-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:23:36Z"
+}

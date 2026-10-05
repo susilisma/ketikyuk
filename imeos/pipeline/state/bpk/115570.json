@@ -1,0 +1,37 @@
+{
+ "id": "PMK-2015-113",
+ "source": "bpk",
+ "bpk_id": 115570,
+ "url": "https://peraturan.bpk.go.id/Details/115570/pmk-no-113pmk012015",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "113",
+ "number_raw": "113/PMK.01/2015",
+ "year": 2015,
+ "title": "Peraturan Menteri Keuangan Nomor 113/PMK.01/2015 Tahun 2015 tentang Organisasi Dan Tata Kerja Badan Pengelola Dana Perkebunan Kelapa Sawit",
+ "about": "Organisasi Dan Tata Kerja Badan Pengelola Dana Perkebunan Kelapa Sawit",
+ "issuer": "Kementerian Keuangan",
+ "subject": "KEHUTANAN DAN PERKEBUNAN - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "Alias",
+ "date_enacted": "2015-06-10",
+ "date_promulgated": "2015-06-11",
+ "date_effective": "2015-06-11",
+ "gazette": "BN.2015/NO.886, jdih.kemenkeu.go.id : 13 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-6",
+   "target_bpk_id": 313255,
+   "label": "PMK No. 6 Tahun 2025",
+   "about": "Organisasi dan Tata Kerja Badan Pengelola Dana Perkebunan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 11 Juni 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/106502/113~PMK.01~2015Per.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:09:42Z"
+}

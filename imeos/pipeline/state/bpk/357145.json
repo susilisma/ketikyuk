@@ -1,0 +1,43 @@
+{
+ "id": "PERMENKUM-2026-10",
+ "source": "bpk",
+ "bpk_id": 357145,
+ "url": "https://peraturan.bpk.go.id/Details/357145/permenkum-no-10-tahun-2026-penerapan-prinsip-mengenali-pengguna-jasa-bagi-notari",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "10",
+ "number_raw": "10",
+ "year": 2026,
+ "title": "Peraturan Menteri Hukum Nomor 10 Tahun 2026 tentang Penerapan Prinsip Mengenali Pengguna Jasa bagi Notaris",
+ "about": "Penerapan Prinsip Mengenali Pengguna Jasa bagi Notaris",
+ "issuer": "Kementerian Hukum",
+ "subject": "PENCUCIAN UANG - TERORISME - JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2026-01-28",
+ "date_promulgated": "2026-02-06",
+ "date_effective": "2026-02-06",
+ "gazette": "BN 2026 (86): 20 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133189,
+   "label": "Permenkumham No. 9 Tahun 2017",
+   "about": "Penerapan Prinsip Mengenali Pengguna Jasa Bagi Notaris"
+  }
+ ],
+ "abstract": "Sebagai wujud komitmen Indonesia dalam pencegahan dan pemberantasan tindak pidana pencucian uang serta memastikan pemenuhan standar internasional rekomendasi financial action task force, perlu dilakukan penyempurnaan terhadap ketentuan mengenai penerapan prinsip mengenali pengguna jasa bagi Notaris.\nDasar hukum Peraturan ini adalah Pasal 17 ayat (3) UUD 1945; UU No. 30 Tahun 2004; UU No. 39 Tahun 2008; UU No. 8 Tahun 2010; PP No. 43 Tahun 2015; Perpres No. 155 Tahun 2024; dan Permenkum No. 1 Tahun 2024.\nPeraturan ini mengatur mengenai Penerapan Prinsip Mengenali Pengguna Jasa bagi Notaris. Notaris wajib menerapkan prinsip mengenali Pengguna Jasa. Prinsip mengenali Pengguna Jasa dimaksud paling sedikit memuat: a. identifikasi Pengguna Jasa; b. verifikasi Pengguna Jasa; dan c. pemantauan Transaksi Pengguna Jasa. Notaris dilarang membuka atau memelihara rekening anonim atau rekening yang menggunakan nama fiktif. Rekening dimaksud termasuk bukti hubungan usaha antara Notaris dengan Pengguna Jasa.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 06 Februari 2026.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 9 Tahun 2017 tentang Penerapan Prinsip Mengenali Pengguna Jasa bagi Notaris (Berita Negara Republik Indonesia Tahun 2017 Nomor 1087), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 20 hlm.",
+ "citations": [
+  "UU-2004-30",
+  "UU-2008-39",
+  "UU-2010-8",
+  "PP-2015-43",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/421166/Permenkum%20No%2010%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:17:37Z"
+}

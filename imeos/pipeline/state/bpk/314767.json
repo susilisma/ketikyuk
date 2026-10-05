@@ -1,0 +1,43 @@
+{
+ "id": "PERMENKUM-2025-2",
+ "source": "bpk",
+ "bpk_id": 314767,
+ "url": "https://peraturan.bpk.go.id/Details/314767/permenkum-no-2-tahun-2025",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "2",
+ "number_raw": "2",
+ "year": 2025,
+ "title": "Peraturan Menteri Hukum Nomor 2 Tahun 2025 tentang Verifikasi dan Pengawasan Pemilik Manfaat Korporasi",
+ "about": "Verifikasi dan Pengawasan Pemilik Manfaat Korporasi",
+ "issuer": "Kementerian Hukum",
+ "subject": "HUKUM PIDANA, PERDATA, DAN DAGANG - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "HUKUM DAGANG",
+ "date_enacted": "2025-02-02",
+ "date_promulgated": "2025-02-04",
+ "date_effective": "2025-02-04",
+ "gazette": "BN 2025 (76) : 9 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133134,
+   "label": "Permenkumham No. 21 Tahun 2019",
+   "about": "Tata Cara Pengawasan Penerapan Prinsip Mengenali Pemilik Manfaat dari Korporasi"
+  }
+ ],
+ "abstract": "Untuk meningkatkan kepatuhan atas jumlah pelaporan pemilik manfaat dan mengoptimalkan akurasi data pemilik manfaat, sehingga data tersebut dapat dimanfaatkan oleh aparat penegak hukum maupun instansi berwenang, serta untuk mengatur dan menerapkan sanksi yang efektif bagi korporasi, perlu mengatur mengenai verifikasi dan pengawasan pemilik manfaat terhadap korporasi.\nDasar hukum Permenkum ini adalah Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 39 Tahun 2008; UU Nomor 8 Tahun 2010; UU Nomor 9 Tahun 2013; Perpres Nomor 13 Tahun 2018; Perpres Nomor 155 Tahun 2024; Permenkumham Nomor 15 Tahun 2019; dan Permenkum Nomor 1 Tahun 2024.\nPermenkum ini mengatur mengenai verifikasi dan pengawasan pemilik manfaat terhadap korporasi dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Pemilik Manfaat adalah orang perseorangan yang dapat menunjuk atau memberhentikan direksi, dewan komisaris, pengurus, pembina, atau pengawas pada Korporasi, memiliki kemampuan untuk mengendalikan Korporasi, berhak atas dan/atau menerima manfaat dari Korporasi baik langsung maupun tidak langsung, merupakan pemilik sebenarnya dari dana atau saham Korporasi dan/atau memenuhi kriteria sebagaimana dimaksud dalam ketentuan peraturan perundang-undangan. Setiap Korporasi wajib menetapkan Pemilik Manfaat dari Korporasi. Penetapan Pemilik Manfaat dari Korporasi dimaksud dilakukan oleh Korporasi melalui penerapan prinsip mengenali Pemilik Manfaat dari Korporasi. Korporasi tersebut meliputi: a. perseroan terbatas; b. yayasan; c. perkumpulan; d. koperasi; e. persekutuan komanditer; f. persekutuan firma; dan g. persekutuan perdata.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 04 Februari 2025.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 21 Tahun 2019 tentang Tata Cara Pengawasan Penerapan Prinsip Mengenali Pemilik Manfaat dari Korporasi (Berita Negara Republik Indonesia Tahun 2019 Nomor 1112), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 25 hlm. (batang tubuh hlm 1 s.d. 9 dan lampiran hlm 10 s.d. 25)",
+ "citations": [
+  "UU-2008-39",
+  "UU-2010-8",
+  "UU-2013-9",
+  "PERPRES-2018-13",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/375763/Permenkum%20Nomor%202%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:20:14Z"
+}

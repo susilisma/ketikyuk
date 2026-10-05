@@ -1,0 +1,51 @@
+{
+ "id": "PERBPOM-2024-7",
+ "source": "bpk",
+ "bpk_id": 286412,
+ "url": "https://peraturan.bpk.go.id/Details/286412/peraturan-bpom-no-7-tahun-2024",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "7",
+ "number_raw": "7",
+ "year": 2024,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 7 Tahun 2024 tentang Standar Cara Pembuatan Obat yang Baik",
+ "about": "Standar Cara Pembuatan Obat yang Baik",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "STANDAR / PEDOMAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-05-02",
+ "date_promulgated": "2024-05-21",
+ "date_effective": "2024-05-21",
+ "gazette": "BN 2024 (271); 374 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 316277,
+   "label": "Peraturan BPOM No. 7 Tahun 2025",
+   "about": "Perubahan atas Peraturan Badan Pengawas Obat dan Makanan Nomor 7 Tahun 2024 tentang Standar Cara Pembuatan Obat yang Baik"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 219916,
+   "label": "Peraturan BPOM No. 34 Tahun 2018",
+   "about": "Pedoman Cara Pembuatan Obat yang Baik"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 286414,
+   "label": "Perka BPOM No. 40 Tahun 2013",
+   "about": "Pedoman Pengelolaan Prekursor Farmasi dan Obat Mengandung Prekursor Farmasi"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 21 Mei 2024.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/345540/peraturan-bpom-no-7-tahun-2024.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:29:19Z"
+}

@@ -1,0 +1,47 @@
+{
+ "id": "PERBPOM-2025-25",
+ "source": "bpk",
+ "bpk_id": 333277,
+ "url": "https://peraturan.bpk.go.id/Details/333277/peraturan-bpom-no-25-tahun-2025",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "25",
+ "number_raw": "25",
+ "year": 2025,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 25 Tahun 2025 tentang Persyaratan Teknis Bahan Kosmetik",
+ "about": "Persyaratan Teknis Bahan Kosmetik",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "KESEHATAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-09-09",
+ "date_promulgated": "2025-10-03",
+ "date_effective": "2025-10-03",
+ "gazette": "BN 2025 (742); 352 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 223981,
+   "label": "Peraturan BPOM No. 17 Tahun 2022",
+   "about": "Perubahan atas Peraturan Badan Pengawas Obat dan Makanan Nomor 23 Tahun 2019 tentang Persyaratan Teknis Bahan Kosmetika"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 224837,
+   "label": "Peraturan BPOM No. 23 Tahun 2019",
+   "about": "Persyaratan Teknis Bahan Kosmetika"
+  }
+ ],
+ "abstract": "bahwa pengaturan mengenai persyaratan teknis bahan\nkosmetik sebagaimana diatur dalam Peraturan Badan\nPengawas Obat dan Makanan Nomor 23 Tahun 2019\ntentang Persyaratan Teknis Bahan Kosmetika\nsebagaimana telah diubah dengan Peraturan Badan\nPengawas Obat dan Makanan Nomor 17 Tahun 2022\ntentang Perubahan atas Peraturan Badan Pengawas Obat\ndan Makanan Nomor 23 Tahun 2019 tentang Persyaratan\nTeknis Bahan Kosmetika sudah tidak sesuai dengan\nkebutuhan hukum serta perkembangan ilmu pengetahuan\ndan teknologi di bidang kosmetik, sehingga perlu diganti;\nDasar hukum peraturan ini adalah PP Nomor 28 Tahun 2024;\nPerpres Nomor 80 Tahun 2017;\nPeraturan BPOM Nomor 21 Tahun 2020 sebagaimana telah diubah dengan Peraturan BPOM Nomor 13 Tahun 2022;\nPeraturan BPOM Nomor 19 Tahun 2023 sebagaimana telah diubah dengan Peraturan BPOM Nomor 3 Tahun 2025.\nPeraturan ini mengatur mengenai persyaratan teknis bahan kosmetik yang meliputi a. keamanan;\nb. kemanfaatan; dan\nc. mutu.",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 03 Oktober 2025.",
+ "citations": [
+  "PP-2024-28",
+  "PERPRES-2017-80"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/395521/peraturan-bpom-no-25-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:28:35Z"
+}

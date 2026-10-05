@@ -12,7 +12,7 @@
  "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 210/PMK.01/2017 tentang Organisasi dan Tata Kerja Instansi Vertikal Direktorat Jenderal Pajak",
  "issuer": "Kementerian Keuangan",
  "subject": "STRUKTUR ORGANISASI",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2020-11-18",
  "date_promulgated": "2020-11-23",
  "date_effective": "2020-11-23",
@@ -40,5 +40,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/148211/184_PMK.01_2020.pdf"
  ],
- "fetched_at": "2026-09-14T06:31:12Z"
+ "fetched_at": "2026-10-05T05:04:55Z"
 }

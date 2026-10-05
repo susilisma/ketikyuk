@@ -1,0 +1,37 @@
+{
+ "id": "PERATURANBI-2020-22",
+ "source": "bpk",
+ "bpk_id": 219277,
+ "url": "https://peraturan.bpk.go.id/Details/219277/peraturan-bi-no-2223pbi2020",
+ "form": "PERATURANBI",
+ "form_long": "Peraturan Bank Indonesia",
+ "number": "22",
+ "number_raw": "22/23/PBI/2020",
+ "year": 2020,
+ "title": "Peraturan Bank Indonesia Nomor 22/23/PBI/2020 Tahun 2020 tentang Sistem Pembayaran",
+ "about": "Sistem Pembayaran",
+ "issuer": "Bank Indonesia",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "Alias",
+ "date_enacted": "2020-12-29",
+ "date_promulgated": "2020-12-30",
+ "date_effective": "2021-07-01",
+ "gazette": "LN.2020/NO.311, bi.go.id : 50 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 342569,
+   "label": "Peraturan BI No. 10 Tahun 2025",
+   "about": "Pengaturan Industri Sistem Pembayaran"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Bank Indonesia ini mulai berlaku pada tanggal 01 Juli 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/213684/22.23.PBI.2020.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:30:58Z"
+}

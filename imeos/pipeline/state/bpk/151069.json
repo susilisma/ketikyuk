@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKOMINFO-2015-10",
+ "source": "bpk",
+ "bpk_id": 151069,
+ "url": "https://peraturan.bpk.go.id/Details/151069/permenkominfo-no-10-tahun-2015",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Informatika",
+ "number": "10",
+ "number_raw": "10",
+ "year": 2015,
+ "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 10 Tahun 2015 tentang Tata Cara Pendaftaran Sistem Elektronik Instansi Penyelenggara Negara",
+ "about": "Tata Cara Pendaftaran Sistem Elektronik Instansi Penyelenggara Negara",
+ "issuer": "Kementerian Komunikasi dan Informatika",
+ "subject": "PERS, POS, DAN PERIKLANAN - TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET",
+ "field": "Alias",
+ "date_enacted": "2015-02-25",
+ "date_promulgated": "2015-02-25",
+ "date_effective": "2015-02-25",
+ "gazette": "BN.2015/No.321, jdih.kominfo.go.id : 7 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 317335,
+   "label": "Permenkomdigi No. 5 Tahun 2025",
+   "about": "Penyelenggara Sistem Elektronik Lingkup Publik"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Komunikasi dan Informatika ini mulai berlaku pada tanggal 25 Februari 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/143289/Permen%20Kominfo%20Nomor%2010%20Tahun%202015.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:16:50Z"
+}

@@ -1,0 +1,45 @@
+{
+ "id": "PERMENKES-2023-23",
+ "source": "bpk",
+ "bpk_id": 275531,
+ "url": "https://peraturan.bpk.go.id/Details/275531/permenkes-no-23-tahun-2023",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "23",
+ "number_raw": "23",
+ "year": 2023,
+ "title": "Peraturan Menteri Kesehatan Nomor 23 Tahun 2023 tentang Pedoman Penanggulangan Corono Virus Disease 2019 (Covide-19)",
+ "about": "Pedoman Penanggulangan Corono Virus Disease 2019 (Covide-19)",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "STANDAR / PEDOMAN",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2023-08-01",
+ "date_promulgated": "2023-08-04",
+ "date_effective": "2023-08-04",
+ "gazette": "BN 2023 (597): 2 hlm: jdih.kemkes.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PERMENKES-2026-3",
+   "target_bpk_id": 350854,
+   "label": "Permenkes No. 3 Tahun 2026",
+   "about": "Penanggulangan Penyakit"
+  }
+ ],
+ "abstract": "Untuk menindaklanjuti perubahan status pandemi COVID-19 menjadi endemi, diperlukan upaya penanggulangan COVID-19 yang menyeluruh dan berkesinambungan guna pencegahan dan pengendalian kasus COVID-19. Bahwa pelaksanaan penanggulangan COVID-19 membutuhkan dukungan dan kerja sama lintas sektor, pemerintah daerah, serta pemangku kepentingan lain, sehingga diperlukan pedoman dalam pelaksanaannya.\nDasar hukum peraturan ini adalah UUD RI Tahun 1945 Pasal 17 ayat (3); UU Nomor 4 tahun 1984; UU Nomor 39 Tahun 2008; UU Nomor 36 Tahun 2009; UU Nomor 23 Tahun 2014; Perpres Nomor 18 Tahun 2021; Permenkes Nomor 82 Tahun 2014; dan Permenkes nomor 5 tahun 2022.\nPemerintah pusat dan pemerintah daerah bertanggung jawab dalam pelaksanaan penanggulangan Corona Virus Disease\n2019 (COVID-19) untuk meminimalisir penularan COVID-19 dan menurunkan angka kesakitan dan kematian akibat COVID-19.",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 04 Agustus 2023.\nLampiran file: 24 hlm. (batang tubuh hlm 1 sd 6; lampiran 7 s 24)",
+ "citations": [
+  "UU-1984-4",
+  "UU-2008-39",
+  "UU-2009-36",
+  "UU-2014-23",
+  "PERPRES-2021-18",
+  "PERMENKES-2014-82",
+  "PERMENKES-2022-5"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/334028/Permenkes%20Nomor%2023%20Tahun%202023.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:22:52Z"
+}

@@ -1,0 +1,41 @@
+{
+ "id": "PERMENKUM-2025-48",
+ "source": "bpk",
+ "bpk_id": 350900,
+ "url": "https://peraturan.bpk.go.id/Details/350900/permenkum-no-48-tahun-2025",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "48",
+ "number_raw": "48",
+ "year": 2025,
+ "title": "Peraturan Menteri Hukum Nomor 48 Tahun 2025 tentang Tata Kelola Kerja Sama",
+ "about": "Tata Kelola Kerja Sama",
+ "issuer": "Kementerian Hukum",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-12-08",
+ "date_promulgated": "2025-12-10",
+ "date_effective": "2025-12-10",
+ "gazette": "BN 2025 (1037): 12 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 247342,
+   "label": "Permenkumham No. 14 Tahun 2023",
+   "about": "Penataan Kerja Sama di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "Penataan kerja sama di lingkungan Kementerian Hukum yang telah diatur dalam Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 14 Tahun 2023 tentang Penataan Kerja Sama di Lingkungan Kementerian Hukum dan Hak Asasi Manusia sudah tidak sesuai dengan perkembangan dan kebutuhan penyelenggaraan kerja sama, sehingga perlu diganti.\nDasar hukum Permenkum ini adalah Pasal 17 ayat (3) UUD 1945; UU No. 39 Tahun 2008; Perpres No. 155 Tahun 2024; dan Permenkum No. 1 Tahun 2024.\nPermenkum ini mengatur mengenai tata kelola kerja sama. Jenis Kerja Sama di lingkungan Kementerian, terdiri atas: a. Kerja Sama dalam negeri; dan b. Kerja Sama luar negeri. Naskah Kerja Sama disampaikan kepada Menteri melalui Sekretaris Jenderal untuk kepentingan: a. penyimpanan; dan b. publikasi. Penyimpanan dan publikasi Naskah Kerja Sama menggunakan aplikasi yang dikelola oleh Sekretariat Jenderal Kementerian.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 10 Desember 2025.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 14 Tahun 2023 tentang Penataan Kerja Sama di Lingkungan Kementerian Hukum dan Hak Asasi Manusia (Berita Negara Republik Indonesia Tahun 2023 Nomor 253), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 25 hlm.",
+ "citations": [
+  "PERMENKUMHAM-2023-14",
+  "UU-2008-39",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/414655/Permenkum%20Nomor%2048%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:18:22Z"
+}

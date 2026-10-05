@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKES-2015-71",
+ "source": "bpk",
+ "bpk_id": 172102,
+ "url": "https://peraturan.bpk.go.id/Details/172102/permenkes-no-71-tahun-2015",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "71",
+ "number_raw": "71",
+ "year": 2015,
+ "title": "Peraturan Menteri Kesehatan Nomor 71 Tahun 2015 tentang Penanggulangan Penyakit Tidak Menular",
+ "about": "Penanggulangan Penyakit Tidak Menular",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN",
+ "field": "Alias",
+ "date_enacted": "2015-10-23",
+ "date_promulgated": "2015-11-30",
+ "date_effective": "2015-11-30",
+ "gazette": "BN.2015/No.1175, peraturan.go.id : 15 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-3",
+   "target_bpk_id": 350854,
+   "label": "Permenkes No. 3 Tahun 2026",
+   "about": "Penanggulangan Penyakit"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 30 November 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/165271/Permenkes%20Nomor%2071%20Tahun%202015.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:22:49Z"
+}

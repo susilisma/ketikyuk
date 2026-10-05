@@ -1,0 +1,42 @@
+{
+ "id": "PERBPOM-2025-13",
+ "source": "bpk",
+ "bpk_id": 321138,
+ "url": "https://peraturan.bpk.go.id/Details/321138/peraturan-bpom-no-13-tahun-2025",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "13",
+ "number_raw": "13",
+ "year": 2025,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 13 Tahun 2025 tentang Pelaksanaan Pemberian Tunjangan Kinerja Pegawai di Lingkungan Badan Pengawas Obat dan Makanan",
+ "about": "Pelaksanaan Pemberian Tunjangan Kinerja Pegawai di Lingkungan Badan Pengawas Obat dan Makanan",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-04-25",
+ "date_promulgated": "2025-05-02",
+ "date_effective": "2025-05-02",
+ "gazette": "BN 2025 (301); 14 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 219917,
+   "label": "Peraturan BPOM No. 35 Tahun 2018",
+   "about": "Pelaksanaan Pemberian Tunjangan Kinerja Pegawai di Lingkungan Badan Pengawas Obat dan Makanan"
+  }
+ ],
+ "abstract": "bahwa ketentuan mengenai pelaksanaan pemberian\ntunjangan kinerja pegawai di lingkungan Badan\nPengawas Obat dan Makanan sebagaimana diatur\ndalam Peraturan Badan Pengawas Obat dan Makanan\nNomor 35 Tahun 2018 tentang Pelaksanaan Pemberian\nTunjangan Kinerja Pegawai di Lingkungan Badan\nPengawas Obat dan Makanan sebagaimana telah\ndiubah dengan Peraturan Badan Pengawas Obat dan\nMakanan Nomor 33 Tahun 2019 tentang Perubahan\natas Peraturan Badan Pengawas Obat dan Makanan\nNomor 35 Tahun 2018 tentang Pelaksanaan Pemberian\nTunjangan Kinerja Pegawai di Lingkungan Badan\nPengawas Obat dan Makanan sudah tidak sesuai\ndengan perkembangan hukum dan kebutuhan\norganisasi, sehingga perlu diganti\nDasar hukum peraturan ini adalah UU Nomor 20 Tahun 2023; Perpres Nomor 80 Tahun 2017; Perpres Nomor 138 Tahun 2018; Peraturan BPOM Nomor 21 Tahun 2020 sebagaimana telah diubah dengan Peraturan BPOM Nomor 13 Tahun 2022; Peraturan BPOM Nomor 23 Tahun 2020; Peraturan BPOM Nomor 19 Tahun 2023 sebagaimana telah diubah dengan Peraturan BPOM Nomor 3 Tahun 2025\nPeraturan ini mengatur mengenai Pembayaran Tunjangan Kinerja; dasar pemberian Tunjangan Kinerja; dan pengurangan Tunjangan Kinerja",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 02 Mei 2025.",
+ "citations": [
+  "PERBPOM-2018-35",
+  "UU-2023-20",
+  "PERPRES-2017-80",
+  "PERPRES-2018-138"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/382879/peraturan-bpom-no-13-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:29:04Z"
+}

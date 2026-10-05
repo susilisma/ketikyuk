@@ -12,7 +12,7 @@
  "about": "Tata Cara Penyediaan, Pencairan, dan Pertanggungjawaban Dana Bantuan Operasional Layanan Pos Universal",
  "issuer": "Kementerian Keuangan",
  "subject": "PENGELOLAAN KEUANGAN NEGARA / DAERAH",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2016-05-16",
  "date_promulgated": "2016-05-18",
  "date_effective": "2016-05-18",
@@ -47,5 +47,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/137430/PMK%2082_PMK.02_2016.pdf"
  ],
- "fetched_at": "2026-09-14T06:33:12Z"
+ "fetched_at": "2026-10-05T05:07:39Z"
 }

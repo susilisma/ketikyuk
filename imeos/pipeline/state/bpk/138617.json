@@ -1,0 +1,51 @@
+{
+ "id": "PERMENKES-2019-26",
+ "source": "bpk",
+ "bpk_id": 138617,
+ "url": "https://peraturan.bpk.go.id/Details/138617/permenkes-no-26-tahun-2019",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "26",
+ "number_raw": "26",
+ "year": 2019,
+ "title": "Peraturan Menteri Kesehatan Nomor 26 Tahun 2019 tentang Peraturan Pelaksanaan Undang-Undang Nomor 38 Tahun 2014 Tentang Keperawatan",
+ "about": "Peraturan Pelaksanaan Undang-Undang Nomor 38 Tahun 2014 Tentang Keperawatan",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "Alias",
+ "date_enacted": "2019-08-09",
+ "date_promulgated": "2019-08-12",
+ "date_effective": "2019-08-12",
+ "gazette": "BN.2019/NO.912, PERATURAN.GO.ID : 31 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2025-13",
+   "target_bpk_id": 335214,
+   "label": "Permenkes No. 13 Tahun 2025",
+   "about": "Pengelolaan Sumber Daya Manusia Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2013-17",
+   "target_bpk_id": 139235,
+   "label": "Permenkes No. 17 Tahun 2013",
+   "about": "Perubahan atas Peraturan Menteri Kesehatan Nomor HK.02.02/Menkes/148/I/2010 tentang Izin dan Penyelenggaraan Praktik Perawat"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 139237,
+   "label": "Permenkes No. HK.02.02/MENKES/148/I/2010 Tahun 2010",
+   "about": "Izin dan Penyelenggaraan Praktik Perawat"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 12 Agustus 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/129882/Permenkes%20Nomor%2026%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:23:46Z"
+}

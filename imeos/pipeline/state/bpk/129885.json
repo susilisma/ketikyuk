@@ -1,0 +1,51 @@
+{
+ "id": "PERMENKES-2010-1799",
+ "source": "bpk",
+ "bpk_id": 129885,
+ "url": "https://peraturan.bpk.go.id/Details/129885/permenkes-no-1799menkesperxii2010-tahun-2010",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "1799",
+ "number_raw": "1799/MENKES/PER/XII/2010",
+ "year": 2010,
+ "title": "Peraturan Menteri Kesehatan Nomor 1799/MENKES/PER/XII/2010 Tahun 2010 tentang Industri Farmasi",
+ "about": "Industri Farmasi",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - PERIZINAN, PELAYANAN PUBLIK",
+ "field": "Alias",
+ "date_enacted": "2010-12-16",
+ "date_promulgated": "2010-12-31",
+ "date_effective": "2010-12-31",
+ "gazette": "BN.2010/NO.721/ kemkes.go.id : 15 Hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-5",
+   "target_bpk_id": 350852,
+   "label": "Permenkes No. 5 Tahun 2026",
+   "about": "Perbekalan Kesehatan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENKES-2018-26",
+   "target_bpk_id": 111928,
+   "label": "Permenkes No. 26 Tahun 2018",
+   "about": "Pelayanan Perizinan Berusaha Terintegrasi Secara Elektronik Sektor Kesehatan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENKES-2013-16",
+   "target_bpk_id": 129892,
+   "label": "Permenkes No. 16 Tahun 2013",
+   "about": "Perubahan atas Peraturan Menteri Kesehatan Nomor 1799/MENKES/PER/XII/2010 tentang Industri Farmasi"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 31 Desember 2010.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/120755/Permenkes%20Nomor%201799%20Tahun%202010.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:22:32Z"
+}

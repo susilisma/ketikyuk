@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKUM-2025-15",
+ "source": "bpk",
+ "bpk_id": 326093,
+ "url": "https://peraturan.bpk.go.id/Details/326093/permenkum-no-15-tahun-2025",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "15",
+ "number_raw": "15",
+ "year": 2025,
+ "title": "Peraturan Menteri Hukum Nomor 15 Tahun 2025 tentang Penerapan Manajemen Risiko di Lingkungan Kementerian Hukum",
+ "about": "Penerapan Manajemen Risiko di Lingkungan Kementerian Hukum",
+ "issuer": "Kementerian Hukum",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-05-08",
+ "date_promulgated": "2025-05-13",
+ "date_effective": "2025-05-13",
+ "gazette": "BN 2025 (330): 8 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 135841,
+   "label": "Permenkumham No. 5 Tahun 2018",
+   "about": "Penerapan Manajemen Risiko di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "Untuk meningkatkan kepastian hukum dalam menyelenggarakan manajemen risiko di lingkungan Kementerian Hukum, perlu mengganti Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 5 Tahun 2018 tentang Penerapan Manajemen Risiko di Lingkungan Kementerian Hukum dan Hak Asasi Manusia, karena sudah tidak sesuai dengan kebutuhan hukum dan perkembangan penyelenggaraan manajemen risiko saat ini.\nDasar hukum Permenkum ini adalah Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU No 28 Tahun 1999; UU No. 39 Tahun 2008; Perpres No. 60 Tahun 2008; Perpres No. 39 Tahun 2023; Perpres No. 155 Tahun 2024; Permenkum No. 1 Tahun 2024; dan Permenkum No. 2 Tahun 2024.\nPermenkum ini mengatur mengenai penerapan Manajemen Risiko di Lingkungan Kementerian Hukum. Ruang lingkup Peraturan Menteri ini meliputi: a. Infrastruktur Manajemen Risiko; dan b. Kerangka Kerja Manajemen Risiko.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 13 Mei 2025.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 5 Tahun 2018 tentang Penerapan Manajemen Risiko di Lingkungan Kementerian Hukum dan Hak Asasi Manusia (Berita Negara Tahun 2018 Nomor 399), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 40 hlm (batang tubuh hlm 1 sd 8 dan lampiran hlm 9 sd 40)",
+ "citations": [
+  "PERMENKUMHAM-2018-5",
+  "UU-1999-28",
+  "UU-2008-39",
+  "PERPRES-2008-60",
+  "PERPRES-2023-39",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/387885/Permenkum%20Nomor%2015%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:19:44Z"
+}

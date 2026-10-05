@@ -1,0 +1,37 @@
+{
+ "id": "PERMENAKER-2015-45",
+ "source": "bpk",
+ "bpk_id": 146044,
+ "url": "https://peraturan.bpk.go.id/Details/146044/permenaker-no-45-tahun-2015",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "45",
+ "number_raw": "45",
+ "year": 2015,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 45 Tahun 2015 tentang Pembiayaan Penempatan Tenaga Kerja Indonesia ke Luar Negeri",
+ "about": "Pembiayaan Penempatan Tenaga Kerja Indonesia ke Luar Negeri",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "KETENAGAKERJAAN - KEWARGANEGARAAN DAN IMIGRASI",
+ "field": "Alias",
+ "date_enacted": "2015-12-31",
+ "date_promulgated": "2015-12-31",
+ "date_effective": "2015-12-31",
+ "gazette": "BN.2015/No.2077, jdih.kemnaker.go.id : 14 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENAKER-2026-2",
+   "target_bpk_id": 344084,
+   "label": "Permenaker No. 2 Tahun 2026",
+   "about": "Pencabutan Peraturan Menteri Ketenagakerjaan Bidang Penempatan dan Pelindungan Pekerja Migran Indonesia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Ketenagakerjaan Republik Indonesia ini mulai berlaku pada tanggal 31 Desember 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/252024/Kemnaker%20No.%2045%20Tahun%202015.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:14:47Z"
+}

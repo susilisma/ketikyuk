@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKES-2016-23",
+ "source": "bpk",
+ "bpk_id": 113056,
+ "url": "https://peraturan.bpk.go.id/Details/113056/permenkes-no-23-tahun-2016",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "23",
+ "number_raw": "23",
+ "year": 2016,
+ "title": "Peraturan Menteri Kesehatan Nomor 23 Tahun 2016 tentang Pedoman Penyelenggaraan Pemberian Penghargaan Bagi Tenaga Kesehatan Teladan Di Pusat Kesehatan Masyarakat",
+ "about": "Pedoman Penyelenggaraan Pemberian Penghargaan Bagi Tenaga Kesehatan Teladan Di Pusat Kesehatan Masyarakat",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA - KESEHATAN - STANDAR / PEDOMAN",
+ "field": "Alias",
+ "date_enacted": "2016-05-16",
+ "date_promulgated": "2016-06-06",
+ "date_effective": "2016-06-06",
+ "gazette": "BN.2016/NO. 830, kemenkes.go.id : 7 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2025-13",
+   "target_bpk_id": 335214,
+   "label": "Permenkes No. 13 Tahun 2025",
+   "about": "Pengelolaan Sumber Daya Manusia Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 06 Juni 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/104005/Permenkes%20Nomor%2023%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:23:59Z"
+}

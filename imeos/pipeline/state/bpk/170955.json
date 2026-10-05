@@ -1,0 +1,58 @@
+{
+ "id": "PERMENKUMHAM-2021-10",
+ "source": "bpk",
+ "bpk_id": 170955,
+ "url": "https://peraturan.bpk.go.id/Details/170955/permenkumham-no-10-tahun-2021",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "10",
+ "number_raw": "10",
+ "year": 2021,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 10 Tahun 2021 tentang Pelaksanaan Pemberian Tunjangan Kinerja di Lingkungan Kementerian Hukum dan Hak Asasi Manusia",
+ "about": "Pelaksanaan Pemberian Tunjangan Kinerja di Lingkungan Kementerian Hukum dan Hak Asasi Manusia",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA - KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "Alias",
+ "date_enacted": "2021-01-29",
+ "date_promulgated": "2021-02-03",
+ "date_effective": "2021-02-03",
+ "gazette": "BN 2021/NO. 103; PERATURAN.GO.ID: 121 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": null,
+   "target_bpk_id": 352489,
+   "label": "Permen Imipas No. 4 Tahun 2026",
+   "about": "Pelaksanaan Pemberian Tunjangan Kinerja di Lingkungan Kementerian Imigrasi dan Pemasyarakatan"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": null,
+   "target_bpk_id": 350888,
+   "label": "Permenkum No. 39 Tahun 2025",
+   "about": "Pelaksanaan Pemberian Tunjangan Kinerja di Lingkungan Kementerian Hukum"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 280242,
+   "label": "Permenkumham No. 22 Tahun 2022",
+   "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 10 Tahun 2021 tentang Pelaksanaan Pemberian Tunjangan Kinerja di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133217,
+   "label": "Permenkumham No. 33 Tahun 2017",
+   "about": "Pelaksanaan Pemberian Tunjangan Kinerja bagi Menteri dan Pegawai di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 03 Februari 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/164114/Nomor%2010%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:18:43Z"
+}

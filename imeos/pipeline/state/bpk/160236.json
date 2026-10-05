@@ -12,7 +12,7 @@
  "about": "Larangan Sementara Impor Binatang Hidup dari Republik Rakyat Tiongkok",
  "issuer": "Kementerian Perdagangan",
  "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2020-02-06",
  "date_promulgated": "2020-02-07",
  "date_effective": "2020-02-07",
@@ -33,5 +33,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/152826/Permendag%20Nomor%2010%20Tahun%202020.PDF"
  ],
- "fetched_at": "2026-09-14T06:36:06Z"
+ "fetched_at": "2026-10-05T05:10:19Z"
 }

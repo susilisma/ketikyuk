@@ -1,0 +1,58 @@
+{
+ "id": "PERMENKUMHAM-2018-36",
+ "source": "bpk",
+ "bpk_id": 133176,
+ "url": "https://peraturan.bpk.go.id/Details/133176/permenkumham-no-36-tahun-2018",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "36",
+ "number_raw": "36",
+ "year": 2018,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 36 Tahun 2018 tentang Tata Cara Permohonan dan Penerbitan Izin Operasional Serta Evaluasi Lembaga Manajemen Kolektif",
+ "about": "Tata Cara Permohonan dan Penerbitan Izin Operasional Serta Evaluasi Lembaga Manajemen Kolektif",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "HAK ATAS KEKAYAAN INTELEKTUAL - PERIZINAN, PELAYANAN PUBLIK",
+ "field": "Alias",
+ "date_enacted": "2018-12-18",
+ "date_promulgated": "2018-12-28",
+ "date_effective": "2018-12-28",
+ "gazette": "BN.2018/NO.1786, peraturan.go.id : 19 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 326273,
+   "label": "Permenkum No. 27 Tahun 2025",
+   "about": "Peraturan Pelaksanaan Peraturan Pemerintah Nomor 56 Tahun 2021 tentang Pengelolaan Royalti Hak Cipta Lagu dan/atau Musik"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": null,
+   "target_bpk_id": 326273,
+   "label": "Permenkum No. 27 Tahun 2025",
+   "about": "Peraturan Pelaksanaan Peraturan Pemerintah Nomor 56 Tahun 2021 tentang Pengelolaan Royalti Hak Cipta Lagu dan/atau Musik"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 174159,
+   "label": "Permenkumham No. 20 Tahun 2021",
+   "about": "Peraturan Pelaksanaan Peraturan Pemerintah Nomor 56 Tahun 2021 tentang Pengelolaan Royalti Hak Cipta Lagu dan/atau Musik"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133355,
+   "label": "Permenkumham No. 29 Tahun 2014",
+   "about": "Tata Cara Permohonan Dan Penerbitan Izin Operasional Serta Evaluasi Lembaga Manajemen Kolektif"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 28 Desember 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/123964/Permenkumham%20Nomor%2036%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:19:16Z"
+}

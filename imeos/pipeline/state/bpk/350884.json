@@ -1,0 +1,41 @@
+{
+ "id": "PERMENKUM-2025-31",
+ "source": "bpk",
+ "bpk_id": 350884,
+ "url": "https://peraturan.bpk.go.id/Details/350884/permenkum-no-31-tahun-2025",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "31",
+ "number_raw": "31",
+ "year": 2025,
+ "title": "Peraturan Menteri Hukum Nomor 31 Tahun 2025 tentang Kode Etik dan Kode Perilaku Pegawai",
+ "about": "Kode Etik dan Kode Perilaku Pegawai",
+ "issuer": "Kementerian Hukum",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-09-09",
+ "date_promulgated": "2025-09-10",
+ "date_effective": "2025-09-10",
+ "gazette": "BN 2025 (684): 12 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133201,
+   "label": "Permenkumham No. 20 Tahun 2017",
+   "about": "Kode Etik dan Kode Perilaku Pegawai Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 20 Tahun 2017 tentang Kode Etik dan Kode Perilaku Pegawai Kementerian Hukum dan Hak Asasi Manusia sudah tidak sesuai dengan perkembangan hukum dan nilai dasar Aparatur Sipil Negara yang berlaku, sehingga perlu diganti.\nDasar hukum Permenkum ini adalah Pasal 17 ayat (3) UUD 1945; UU No. 39 Tahun 2008; Perpres No. 155 Tahun 2024; Permenkum No. 1 Tahun 2024; dan Permenkum No 2 Tahun 2024.\nPermenkum ini mengatur mengenai ode Etik dan Kode Perilaku Pegawai. Pegawai ASN di Kementerian dalam menjalankan tugas fungsi berpedoman kepada Kode Etik dan Kode Perilaku. Kode Etik dan Kode Perilaku dimaksud berpedoman pada nilai dasar ASN BerAKHLAK.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 10 September 2025.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Hukum dan Hak Asasi Manusia 20 Tahun 2017 tentang Kode Etik dan Kode Perilaku Pegawai Kementerian Hukum dan Hak Asasi Manusia (Berita Negara Republik Indonesia Tahun 2017 Nomor 1507), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 30 hlm.",
+ "citations": [
+  "PERMENKUMHAM-2017-20",
+  "UU-2008-39",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/414639/Permenkum%20Nomor%2031%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:19:01Z"
+}

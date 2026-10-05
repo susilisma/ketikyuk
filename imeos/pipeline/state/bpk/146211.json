@@ -12,7 +12,7 @@
  "about": "Keselamatan dan Kesehatan Kerja Bejana Tekanan dan Tangki Timbun",
  "issuer": "Kementerian Ketenagakerjaan",
  "subject": "KESEHATAN - KETENAGAKERJAAN",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2016-12-27",
  "date_promulgated": "2016-12-27",
  "date_effective": "2016-12-27",
@@ -33,5 +33,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/138030/Kemnaker%20No.%2037%20Tahun%202016.pdf"
  ],
- "fetched_at": "2026-09-14T06:40:39Z"
+ "fetched_at": "2026-10-05T05:14:15Z"
 }

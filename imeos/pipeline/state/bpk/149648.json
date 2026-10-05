@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKOMINFO-2018-8",
+ "source": "bpk",
+ "bpk_id": 149648,
+ "url": "https://peraturan.bpk.go.id/Details/149648/permenkominfo-no-8-tahun-2018",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Informatika",
+ "number": "8",
+ "number_raw": "8",
+ "year": 2018,
+ "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 8 Tahun 2018 tentang Petunjuk Teknis Jabatan Fungsional Penguji Dan Asisten Penguji Perangkat Telekomunikasi",
+ "about": "Petunjuk Teknis Jabatan Fungsional Penguji Dan Asisten Penguji Perangkat Telekomunikasi",
+ "issuer": "Kementerian Komunikasi dan Informatika",
+ "subject": "TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET - JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "Alias",
+ "date_enacted": "2018-08-09",
+ "date_promulgated": "2018-08-21",
+ "date_effective": "2018-08-21",
+ "gazette": "BN.2018/NO.1117; KOMINFO..GO.ID ;69 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 320006,
+   "label": "Permenkomdigi No. 10 Tahun 2025",
+   "about": "Petunjuk Pelaksanaan dan Petunjuk Teknis\r\nJabatan Fungsional Pengendali Frekuensi Radio, Jabatan\r\nFungsional Penata Kelola Spektrum Frekuensi Radio,\r\nJabatan Fungsional Penguji Perangkat Telekomunikasi,\r\ndan Jabatan Fungsional Asisten Penguji Perangkat\r\nTelekomunikasi"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Komunikasi dan Informatika ini mulai berlaku pada tanggal 21 Agustus 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/141694/Permen%20Kominfo%20Nomor%208%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:16:37Z"
+}

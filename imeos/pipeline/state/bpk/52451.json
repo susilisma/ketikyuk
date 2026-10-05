@@ -12,7 +12,7 @@
  "about": "Daftar Koordinat Geografis Titik-Titik Garis Pangkal Kepulauan Indonesia",
  "issuer": "Pemerintah Pusat",
  "subject": "TERITORIAL INDONESIA",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2002-06-28",
  "date_promulgated": "2002-06-28",
  "date_effective": "2002-06-28",
@@ -40,5 +40,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/41794/PP%20No.38%20TH%202002.pdf"
  ],
- "fetched_at": "2026-09-14T05:28:11Z"
+ "fetched_at": "2026-10-05T04:57:00Z"
 }

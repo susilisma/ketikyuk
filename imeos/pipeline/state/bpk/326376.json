@@ -1,0 +1,41 @@
+{
+ "id": "PERBPOM-2025-22",
+ "source": "bpk",
+ "bpk_id": 326376,
+ "url": "https://peraturan.bpk.go.id/Details/326376/peraturan-bpom-no-22-tahun-2025",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "22",
+ "number_raw": "22",
+ "year": 2025,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 22 Tahun 2025 tentang Penarikan dan Pemusnahan Pangan Olahan",
+ "about": "Penarikan dan Pemusnahan Pangan Olahan",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "Jenis",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-07-24",
+ "date_promulgated": "2025-07-28",
+ "date_effective": "2025-07-28",
+ "gazette": "BN 2025 (545); 47 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 220385,
+   "label": "Perka BPOM No. 22 Tahun 2017",
+   "about": "Penarikan Pangan dari Peredaran"
+  }
+ ],
+ "abstract": "bahwa ketentuan mengenai penarikan pangan dari\nperedaran sebagaimana diatur dalam Peraturan Kepala\nBadan Pengawas Obat dan Makanan Nomor 22\nTahun 2017 tentang Penarikan Pangan dari Peredaran,\nsudah tidak sesuai dengan perkembangan kebutuhan\nhukum serta perkembangan ilmu pengetahuan dan\nteknologi di bidang pangan, sehingga perlu diganti\nDasar hukum peraturan ini adalah UU Nomor 18 Tahun 2012; PP Nomor 86 Tahun 2019; Perpres Nomor 80 Tahun 2017; Peraturan BPOM Nomor 21 Tahun 2020 sebagaimana telah diubah dengan Peraturan BPOM Nomor 13 Tahun 2022; PEraturan BPOM Nomor 19 Tahun 2023 sebagaimana telah diubah dengan Peraturan BPOM Nomor 3 Tahun 2025\nPeraturan ini mengatur mengenai penarikan pangan berupa Penarikan Wajib atau Penarikan Sukarela; Pemusnahan berupa a. Pemusnahan atas perintah Kepala Badan atau\nPemerintah Daerah sesuai kewenangannya; atau\nb. Pemusnahan atas prakarsa Pelaku Usaha Pangan.",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 28 Juli 2025.",
+ "citations": [
+  "UU-2012-18",
+  "PP-2019-86",
+  "PERPRES-2017-80"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/388176/peraturan-bpom-no-22-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:28:42Z"
+}

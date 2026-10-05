@@ -1,0 +1,37 @@
+{
+ "id": "PERMENAKER-2021-15",
+ "source": "bpk",
+ "bpk_id": 195983,
+ "url": "https://peraturan.bpk.go.id/Details/195983/permenaker-no-15-tahun-2021",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "15",
+ "number_raw": "15",
+ "year": 2021,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 15 Tahun 2021 tentang Tata Cara Pemberian Manfaat Jaminan Kehilangan Pekerjaan",
+ "about": "Tata Cara Pemberian Manfaat Jaminan Kehilangan Pekerjaan",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "KETENAGAKERJAAN",
+ "field": "Alias",
+ "date_enacted": "2021-07-28",
+ "date_promulgated": "2021-07-28",
+ "date_effective": "2021-07-28",
+ "gazette": "BN.2021/No.864, jdih.kemnaker.go.id : 20 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENAKER-2025-2",
+   "target_bpk_id": 316794,
+   "label": "Permenaker No. 2 Tahun 2025",
+   "about": "Perubahan atas Peraturan Menteri\r\nKetenagakerjaan Nomor 15 Tahun 2021 tentang Tata\r\nCara Pemberian Manfaat Jaminan Kehilangan\r\nPekerjaan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 28 Juli 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/189822/Permenaker%20Nomor%2015%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:15:26Z"
+}

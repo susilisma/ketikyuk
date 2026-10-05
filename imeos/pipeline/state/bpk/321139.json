@@ -1,0 +1,42 @@
+{
+ "id": "PERBPOM-2025-14",
+ "source": "bpk",
+ "bpk_id": 321139,
+ "url": "https://peraturan.bpk.go.id/Details/321139/peraturan-bpom-no-14-tahun-2025",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "14",
+ "number_raw": "14",
+ "year": 2025,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 14 Tahun 2025 tentang Perubahan atas Peraturan Badan Pengawas Obat dan Makanan Nomor 27",
+ "about": "Perubahan atas Peraturan Badan Pengawas Obat dan Makanan Nomor 27",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "KESEHATAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-05-05",
+ "date_promulgated": "2025-05-15",
+ "date_effective": "2025-05-15",
+ "gazette": "BN 2025 (332); 4 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 223936,
+   "label": "Peraturan BPOM No. 27 Tahun 2021",
+   "about": "Persyaratan Pangan Olahan Berasam Rendah Dikemas Hermetis"
+  }
+ ],
+ "abstract": "bahwa pengaturan persyaratan pangan olahan berasam\nrendah dikemas hermetis sebagaimana telah diatur dalam\nPeraturan Badan Pengawas Obat dan Makanan Nomor 27\nTahun 2021 tentang Persyaratan Pangan Olahan Berasam\nRendah Dikemas Hermetis sudah tidak sesuai dengan\nperkembangan ilmu pengetahuan dan teknologi di bidang\npangan olahan, sehingga perlu diubah\nDasar hukum peraturan ini adalah UU Nomor 18 Tahun 2012; PP Nomor 86 Tahun 2019; Perpres Nomor 80 Tahun 2017; Peraturan BPOM Nomor 21 Tahun 2020 sebagaimana telah diubah dengan Peraturan BPOM Nomor 13 Tahun 2022; Peraturan BPOM Nomor 23 Tahun 2020; Peraturan BPOM Nomor 27 Tahun 2021; Peraturan BPOM Nomor 19 Tahun 2023 sebagaimana telah diubah dengan Peraturan BPOM Nomor 3 Tahun 2025\nPeraturan ini mengubah Beberapa ketentuan dalam Peraturan Badan Pengawas Obat dan Makanan Nomor 27 Tahun 2021 tentang Persyaratan Pangan Olahan Berasam Rendah Dikemas Hermetis, yaitu ketentuan Pasal 7 mengenai Teknologi Halang Rintang dan Pangan Olahan Berasam Rendah dikemas Hermetis\nyang menggunakan Teknologi Halang Rintang",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 15 Mei 2025.",
+ "citations": [
+  "PERBPOM-2021-27",
+  "UU-2012-18",
+  "PP-2019-86",
+  "PERPRES-2017-80"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/382880/peraturan-bpom-no-14-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:29:02Z"
+}

@@ -12,7 +12,7 @@
  "about": "Institut Agama Islam Negeri Kediri",
  "issuer": "Pemerintah Pusat",
  "subject": "PENDIDIKAN",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2018-04-05",
  "date_promulgated": "2018-04-07",
  "date_effective": "2018-04-07",
@@ -33,5 +33,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/64425/Perpres%20Nomor%2026%20Tahun%202018.pdf"
  ],
- "fetched_at": "2026-09-14T06:25:58Z"
+ "fetched_at": "2026-10-05T05:02:37Z"
 }

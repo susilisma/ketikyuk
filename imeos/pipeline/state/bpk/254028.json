@@ -12,7 +12,7 @@
  "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Bersifat Volatil atas Pengelolaan Hotel Praktik Politeknik Pariwisata yang Berlaku pada Kementerian Pariwisata dan Ekonomi Kreatif/Badan Pariwisata dan Ekonomi Kreatif",
  "issuer": "Kementerian Keuangan",
  "subject": "PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2023-05-11",
  "date_promulgated": "2023-05-17",
  "date_effective": "2023-06-16",
@@ -40,5 +40,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/310676/2023pmkeuangan054.pdf"
  ],
- "fetched_at": "2026-09-14T06:30:17Z"
+ "fetched_at": "2026-10-05T05:03:52Z"
 }

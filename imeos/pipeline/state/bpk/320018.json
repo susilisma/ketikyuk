@@ -1,0 +1,40 @@
+{
+ "id": "PERBPOM-2025-11",
+ "source": "bpk",
+ "bpk_id": 320018,
+ "url": "https://peraturan.bpk.go.id/Details/320018/peraturan-bpom-no-11-tahun-2025",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "11",
+ "number_raw": "11",
+ "year": 2025,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 11 Tahun 2025 tentang Standar Cara Pembuatan Obat yang Baik di Unit",
+ "about": "Standar Cara Pembuatan Obat yang Baik di Unit",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "STANDAR / PEDOMAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-04-23",
+ "date_promulgated": "2025-05-02",
+ "date_effective": "2025-05-02",
+ "gazette": "BN 2025 (299); 142 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 220303,
+   "label": "Perka BPOM No. 10 Tahun 2017",
+   "about": "Penerapan Pedoman Cara Pembuatan Obat yang Baik di Unit Transfusi Darah dan Pusat Plasmaferesis"
+  }
+ ],
+ "abstract": "bahwa berdasarkan ketentuan Pasal 3 ayat (1) huruf d\nPeraturan Presiden Nomor 80 Tahun 2017 tentang\nBadan Pengawas Obat dan Makanan, Badan Pengawas\nObat dan Makanan memiliki fungsi pelaksanaan tugas\npengawasan sebelum beredar dan pengawasan selama\nberedar\nDasar hukum ini mengatur mengenai PP Nomor 28 Tahun 2024; Perpres Nomor 80 Tahun 2017; Peraturan BPOM Nomor 21 Tahun 2020 sebagaimana telah diubah dengan Peraturan BPOM Nomor 13 Tahun 2022; Peraturan BPOM Nomor 19 Tahun 2023 sebagaimana telah diubah dengan Peraturan BPOM Nomor 3 Tahun 2025\nPeraturan ini mengatur mengenai penerapan Cara Pembuatan Obat yang Baik pada Unit Pengelola Darah dan Bank Plasma mulai dari penyeleksian donor, pengambilan, pengujian,\npengolahan, penyimpanan dan/atau pendistribusian\ndarah dan/atau plasma",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 02 Mei 2025.",
+ "citations": [
+  "PERPRES-2017-80",
+  "PP-2024-28"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/381648/peraturan-bpom-no-11-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:29:09Z"
+}

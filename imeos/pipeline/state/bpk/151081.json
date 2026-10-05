@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKOMINFO-2015-18",
+ "source": "bpk",
+ "bpk_id": 151081,
+ "url": "https://peraturan.bpk.go.id/Details/151081/permenkominfo-no-18-tahun-2015",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Informatika",
+ "number": "18",
+ "number_raw": "18",
+ "year": 2015,
+ "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 18 Tahun 2015 tentang Perencanaan Penggunaan Spektrum Frekuensi Radio pada Pita Frekuensi Radio 350 – 438 Mhz",
+ "about": "Perencanaan Penggunaan Spektrum Frekuensi Radio pada Pita Frekuensi Radio 350 – 438 Mhz",
+ "issuer": "Kementerian Komunikasi dan Informatika",
+ "subject": "PROGRAM, RENCANA PEMBANGUNAN DAN RENCANA KERJA - TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET",
+ "field": "Alias",
+ "date_enacted": "2015-04-20",
+ "date_promulgated": "2015-04-27",
+ "date_effective": "2015-04-27",
+ "gazette": "BN.2015/No.626, jdih.kominfo.go.id : 11 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": null,
+   "target_bpk_id": 346039,
+   "label": "Permenkomdigi No. 8 Tahun 2026",
+   "about": "Tabel Alokasi Spektrum Frekuensi Radio Indonesia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Komunikasi dan Informatika ini mulai berlaku pada tanggal 27 April 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/143300/Permen%20Kominfo%20Nomor%2018%20Tahun%202015.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:15:52Z"
+}

@@ -1,0 +1,65 @@
+{
+ "id": "PMK-2013-17",
+ "source": "bpk",
+ "bpk_id": 149608,
+ "url": "https://peraturan.bpk.go.id/Details/149608/pmk-no-17pmk032013",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "17",
+ "number_raw": "17/PMK.03/2013",
+ "year": 2013,
+ "title": "Peraturan Menteri Keuangan Nomor 17/PMK.03/2013 Tahun 2013 tentang Tata Cara Pemeriksaan",
+ "about": "Tata Cara Pemeriksaan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "Alias",
+ "date_enacted": "2013-01-07",
+ "date_promulgated": "2013-01-07",
+ "date_effective": "2013-02-01",
+ "gazette": "BN.2013/NO.47,jdih.kemenkeu.go.id : 61 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-15",
+   "target_bpk_id": 314172,
+   "label": "PMK No. 15 Tahun 2025",
+   "about": "Pemeriksaan Pajak"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2021-18",
+   "target_bpk_id": 162653,
+   "label": "PMK No. 18/PMK.03/2021",
+   "about": "Pelaksanaan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja di Bidang Pajak Penghasilan, Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, serta Ketentuan Umum dan Tata Cara Perpajakan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2015-184",
+   "target_bpk_id": 121777,
+   "label": "PMK No. 184/PMK.03/2015",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 17/PMK.03/2013 tentang Tata Cara Pemeriksaan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2011-82",
+   "target_bpk_id": 149620,
+   "label": "PMK No. 82/PMK.03/2011",
+   "about": "Perubahan Atas Peraturan Menteri Keuangan Nomor 199/PMK.03/2007 Tentang Tata Cara Pemeriksaan Pajak"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2007-199",
+   "target_bpk_id": 149618,
+   "label": "PMK No. 199/PMK.03/2007",
+   "about": "Tata Cara Pemeriksaan Pajak"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 01 Februari 2013.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/141653/PMK%20Nomor%2017%20Tahun%202013.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:09:33Z"
+}

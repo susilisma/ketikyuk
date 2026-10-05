@@ -12,7 +12,7 @@
  "about": "Komite Koordinasi Nasional Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
  "issuer": "Pemerintah Pusat",
  "subject": "PENCUCIAN UANG - PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2012-01-11",
  "date_promulgated": "2012-01-11",
  "date_effective": "2012-01-11",
@@ -37,7 +37,7 @@
    "type": "Mencabut",
    "target": null,
    "target_bpk_id": 55555,
-   "label": "KEPPRES No. 1 Tahun 2004",
+   "label": "Keppres No. 1 Tahun 2004",
    "about": "Komite Koordinasi Nasional Pencegahan Dan Pemberantasan Tindak Pidana Pencucian Uang"
   }
  ],
@@ -47,5 +47,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/68825/Peraturan%20Presiden%20No%206%20Tahun%202012.pdf"
  ],
- "fetched_at": "2026-09-14T05:32:54Z"
+ "fetched_at": "2026-10-05T05:01:51Z"
 }

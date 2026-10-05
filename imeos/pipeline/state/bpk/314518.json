@@ -1,0 +1,58 @@
+{
+ "id": "PERMENKES-2025-2",
+ "source": "bpk",
+ "bpk_id": 314518,
+ "url": "https://peraturan.bpk.go.id/Details/314518/permenkes-no-2-tahun-2025",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "2",
+ "number_raw": "2",
+ "year": 2025,
+ "title": "Peraturan Menteri Kesehatan Nomor 2 Tahun 2025 tentang Penyelenggaraan Upaya Kesehatan Reproduksi",
+ "about": "Penyelenggaraan Upaya Kesehatan Reproduksi",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-02-20",
+ "date_promulgated": "2025-02-20",
+ "date_effective": "2025-02-20",
+ "gazette": "BN 2024 (114); 36 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2021-21",
+   "target_bpk_id": 314519,
+   "label": "Permenkes No. 21 Tahun 2021",
+   "about": "Penyelenggaraan Pelayanan Kesehatan Masa Sebelum Hamil, Masa Hamil, Persalinan, dan Masa Sesudah Melahirkan, Pelayanan Kontrasepsi, dan Pelayanan Kesehatan Seksual"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2016-3",
+   "target_bpk_id": 112979,
+   "label": "Permenkes No. 3 Tahun 2016",
+   "about": "Pelatihan Dan Penyelenggaraan  Pelayanan Aborsi Atas Indikasi Kedaruratan Medis  Dan Kehamilan Akibat Perkosaan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2015-43",
+   "target_bpk_id": 116243,
+   "label": "Permenkes No. 43 Tahun 2015",
+   "about": "Penyelenggaraan Pelayanan Reproduksi Dengan Bantuan Atau Kehamilan Di Luar Cara Alamiah"
+  }
+ ],
+ "abstract": "bahwa untuk melaksanakan ketentuan Pasal 112 ayat (7),\nPasal 113 ayat (3), dan Pasal 130 Peraturan Pemerintah Nomor\n28 Tahun 2024 tentang Peraturan Pelaksanaan Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD 1945; UU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024; PP Nomor 28 Tahun 2024; Perpres Nomor 161 Tahun 2024; Permenkes Nomor 21 Tahun 2024\nPeraturan ini mengatur mengenai a. Upaya Kesehatan Sistem Reproduksi sesuai siklus hidup;\nb. pelayanan pengaturan kehamilan;\nc. Pelayanan Kesehatan reproduksi dengan bantuan;\nd. Upaya Kesehatan seksual;\ne. pelayanan aborsi atas indikasi kedaruratan medis atau\nterhadap korban tindak pidana perkosaan atau tindak\npidana kekerasan seksual lain yang menyebabkan\nkehamilan;\nf. Upaya Kesehatan reproduksi pada kondisi khusus;\ng. partisipasi masyarakat;\nh. pencatatan dan pelaporan;\ni. pembinaan dan pengawasan; dan\nj. pendanaan.",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 20 Februari 2025.",
+ "citations": [
+  "PP-2024-28",
+  "UU-2023-17",
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2024-161",
+  "PERMENKES-2024-21"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/375490/permenkes-no-2-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:24:33Z"
+}

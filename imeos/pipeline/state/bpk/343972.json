@@ -1,0 +1,62 @@
+{
+ "id": "PP-2026-3",
+ "source": "bpk",
+ "bpk_id": 343972,
+ "url": "https://peraturan.bpk.go.id/Details/343972/pp-no-3-tahun-2026",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "3",
+ "number_raw": "3",
+ "year": 2026,
+ "title": "Peraturan Pemerintah (PP) Nomor 3 Tahun 2026 tentang Perubahan atas Peraturan Pemerintah Nomor 29 Tahun 2021 tentang Penyelenggaraan Bidang Perdagangan",
+ "about": "Perubahan atas Peraturan Pemerintah Nomor 29 Tahun 2021 tentang Penyelenggaraan Bidang Perdagangan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "HUKUM DAGANG",
+ "date_enacted": "2026-01-15",
+ "date_promulgated": "2026-01-15",
+ "date_effective": "2026-01-15",
+ "gazette": "LN 2026 (5), TLN (7156): 50 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PP-2019-33",
+   "target_bpk_id": 106343,
+   "label": "PP No. 33 Tahun 2019",
+   "about": "Pengenaan Sanksi Administratif kepada Pemilik Gudang yang Tidak Melakukan Pendaftaran Gudang"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2018-63",
+   "target_bpk_id": 90062,
+   "label": "PERPRES No. 63 Tahun 2018",
+   "about": "Penetapan dan Pendaftaran Barang Terkait Dengan Keamanan, Keselamatan, Kesehatan dan Lingkungan Hidup"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2007-112",
+   "target_bpk_id": 42157,
+   "label": "PERPRES No. 112 Tahun 2007",
+   "about": "Penataan dan Pembinaan Pasar Tradisional, Pusat Perbelanjaan dan Toko Modern"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PP-2021-29",
+   "target_bpk_id": 161870,
+   "label": "PP No. 29 Tahun 2021",
+   "about": "Penyelenggaraan Bidang Perdagangan"
+  }
+ ],
+ "abstract": "Untuk mewujudkan efektivitas kebijakan dan pengendalian ekspor dan impor, memberikan kepastian dan kemudahan berusaha dalam kegiatan distribusi barang serta sarana perdagangan, dan memperkuat pengawasan kegiatan perdagangan serta menyelaraskan pengaturan pasca diterbitkannya Peraturan Pemerintah Nomor 28 Tahun 2025 tentang Penyelenggaraan Perizinan Berusaha Berbasis Risiko, perlu melakukan penyesuaian terhadap beberapa ketentuan dalam Peraturan Pemerintah Nomor 29 Tahun 2021 tentang Penyelenggaraan Bidang Perdagangan.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD 1945; UU No. 7 Tahun 2014; dan PP No. 29 Tahun 2021.\nPP ini mengubah beberapa ketentuan dalam PP No. 29 Tahun 2021.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 15 Januari 2026.\nPada saat Peraturan Pemerintah ini mulai berlaku: 1) Peraturan Pemerintah Nomor 33 Tahun 2019 tentang Pengenaan Sanksi Administratif kepada Pemilik Gudang yang Tidak Melakukan Pendaftaran Gudang (Lembaran Negara Republik Indonesia Tahun 2019 Nomor 90, Tambahan Lembaran Negara Republik Indonesia Nomor 6346); 2) Peraturan Presiden Nomor 63 Tahun 2018 tentang Penetapan dan Pendaftaran Barang terkait dengan Keamanan, Keselamatan, Kesehatan, dan Lingkungan Hidup (Lembaran Negara Republik Indonesia Tahun 2018 Nomor 131); dan 3) Peraturan Presiden Nomor 112 Tahun 2007 tentang Penataan dan Pembinaan Pasar Tradisional, Pusat Perbelanjaan dan Toko Modern, dicabut dan dinyatakan tidak berlaku.\nLampiran file: 65 hlm (batang tubuh hlm 1 sd 50, penjelasan hlm 51 sd 65)",
+ "citations": [
+  "PP-2025-28",
+  "PP-2021-29",
+  "UU-2014-7"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/407212/PP%20Nomor%203%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-10-05T04:57:34Z"
+}

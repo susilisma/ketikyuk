@@ -12,7 +12,7 @@
  "about": "Pajak Penghasilan dan/atau Pajak Pertambahan Nilai atas Penjualan/Penyerahan Emas Perhiasan, Emas Batangan, Perhiasan yang Bahan Seluruhnya Bukan dari Emas, Batu Permata dan/atau Batu Lainnya yang Sejenis, serta Jasa yang terkait dengan Emas Perhiasan, Emas Batangan, Perhiasan yang Bahan Seluruhnya Bukan dari Emas, dan/atau Batu Permata dan/atau Batu Lainnya yang Sejenis, yang Dilakukan oleh Pabrikan Emas Perhiasan, Pedagang Emas Perhiasan, dan/atau Pengusaha Emas Batangan",
  "issuer": "Kementerian Keuangan",
  "subject": "PERPAJAKAN",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2023-04-28",
  "date_promulgated": "2023-04-28",
  "date_effective": "2023-05-01",
@@ -61,5 +61,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/304998/2023pmkeuangan048.pdf"
  ],
- "fetched_at": "2026-09-14T06:33:23Z"
+ "fetched_at": "2026-10-05T05:07:50Z"
 }

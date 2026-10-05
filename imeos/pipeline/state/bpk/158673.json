@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKOMINFO-2009-7",
+ "source": "bpk",
+ "bpk_id": 158673,
+ "url": "https://peraturan.bpk.go.id/Details/158673/permenkominfo-no-7permkominfo12009-tahun-2009",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Informatika",
+ "number": "7",
+ "number_raw": "7/PER/M.KOMINFO/1/2009",
+ "year": 2009,
+ "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 7/PER/M.KOMINFO/1/2009 Tahun 2009 tentang Penataan Pita Frekuensi Radio untuk Keperluan Layanan Pita Lebar Nirkabel (Wireless Broadband)",
+ "about": "Penataan Pita Frekuensi Radio untuk Keperluan Layanan Pita Lebar Nirkabel (Wireless Broadband)",
+ "issuer": "Kementerian Komunikasi dan Informatika",
+ "subject": "TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET",
+ "field": "Alias",
+ "date_enacted": "2009-01-19",
+ "date_promulgated": null,
+ "date_effective": "2009-01-19",
+ "gazette": "KOMINFO.GO.ID: 13 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 321099,
+   "label": "Permenkomdigi No. 13 Tahun 2025",
+   "about": "Penggunaan Spektrum Frekuensi Radio pada Pita Frekuensi Radio 1,4\r\nGHz"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Komunikasi dan Informatika ini mulai berlaku pada tanggal 19 Januari 2009.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/151154/Permen%20Kominfo%20Nomor%207%20Tahun%202009.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:16:32Z"
+}

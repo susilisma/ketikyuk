@@ -1,0 +1,49 @@
+{
+ "id": "PERMENIMIPAS-2026-4",
+ "source": "bpk",
+ "bpk_id": 352489,
+ "url": "https://peraturan.bpk.go.id/Details/352489/permen-imipas-no-4-tahun-2026",
+ "form": "PERMENIMIPAS",
+ "form_long": "Peraturan Menteri Imigrasi dan Pemasyarakatan",
+ "number": "4",
+ "number_raw": "4",
+ "year": 2026,
+ "title": "Peraturan Menteri Imigrasi dan Pemasyarakatan Nomor 4 Tahun 2026 tentang Pelaksanaan Pemberian Tunjangan Kinerja di Lingkungan Kementerian Imigrasi dan Pemasyarakatan",
+ "about": "Pelaksanaan Pemberian Tunjangan Kinerja di Lingkungan Kementerian Imigrasi dan Pemasyarakatan",
+ "issuer": "Kementerian Imigrasi dan Pemasyarakatan",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-04-28",
+ "date_promulgated": "2026-05-04",
+ "date_effective": "2026-05-04",
+ "gazette": "BN 2026 (287): 16 hlm.; jdih.kemenimipas.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut sebagian",
+   "target": null,
+   "target_bpk_id": 280242,
+   "label": "Permenkumham No. 22 Tahun 2022",
+   "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 10 Tahun 2021 tentang Pelaksanaan Pemberian Tunjangan Kinerja di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": null,
+   "target_bpk_id": 170955,
+   "label": "Permenkumham No. 10 Tahun 2021",
+   "about": "Pelaksanaan Pemberian Tunjangan Kinerja di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 12 Peraturan Presiden Nomor 30 Tahun 2025 tentang Tunjangan Kinerja Pegawai di Lingkungan Kementerian Imigrasi dan Pemasyarakatan, perlu menetapkan Peraturan Menteri Imigrasi dan Pemasyarakatan tentang Pelaksanaan Pemberian Tunjangan Kinerja di Lingkungan Kementerian Imigrasi dan Pemasyarakatan.\nDasar hukum Permen Imipas ini adalah Pasal 17 ayat (3) UUD 1945; UU No. 39 Tahun 2008; Perpres No. 140 Tahun 2024; Perpres No. 157 Tahun 2024; Perpres No. 30 Tahun 2025; Permen Imipas No. 1 Tahun 2024; Permen Imipas No. 2 Tahun 2024; dan Permen Imipas No. 4 Tahun 2024.\nPermen Imipas ini mengatur mengenai Pelaksanaan Pemberian Tunjangan Kinerja di Lingkungan Kementerian Imigrasi dan Pemasyarakatan. Setiap Pegawai berhak menerima Tunjangan Kinerja setiap bulan sesuai dengan ketentuan dalam peraturan Menteri ini. Besaran Tunjangan Kinerja ditentukan berdasarkan Kelas Jabatan. Tunjangan Kinerja dimaksud dibayarkan setiap bulan berdasarkan periode yang ditetapkan oleh Menteri.",
+ "note": "Peraturan Menteri Imigrasi dan Pemasyarakatan ini mulai berlaku pada tanggal 04 Mei 2026.\nPada saat Permen ini mulai berlaku, ketentuan mengenai pembayaran Tunjangan Kinerja sebagaimana diatur dalam Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 10 Tahun 2021 tentang Pelaksanaan Pemberian Tunjangan Kinerja di Lingkungan Kementerian Hukum dan Hak Asasi Manusia (Berita Negara Republik Indonesia Tahun 2021 Nomor 103) sebagaimana telah diubah dengan Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 22 Tahun 2022 tentang Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 10 Tahun 2021 tentang Pelaksanaan Pemberian Tunjangan Kinerja di Lingkungan Kementerian Hukum dan Hak Asasi Manusia (Berita Negara Republik Indonesia Tahun 2022 Nomor 1084), dinyatakan tidak berlaku bagi Pegawai kecuali ketentuan Pasal 24A dan Pasal 24B.\nLampiran file: 17 hlm (batang tubuh hlm 1 sd 16 dan lampiran hlm 17)",
+ "citations": [
+  "PERPRES-2025-30",
+  "UU-2008-39",
+  "PERPRES-2024-140",
+  "PERPRES-2024-157"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/416314/Permen_Nomor4_Tahun2026.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:20:40Z"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "PERMENAKER-2013-6",
+ "source": "bpk",
+ "bpk_id": 146452,
+ "url": "https://peraturan.bpk.go.id/Details/146452/permenaker-no-6-tahun-2013",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "6",
+ "number_raw": "6",
+ "year": 2013,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 6 Tahun 2013 tentang Tata Cara Pembentukan Perwakilan Pelaksana Penempatan Tenaga Kerja Indonesia Swasta di Luar Negeri",
+ "about": "Tata Cara Pembentukan Perwakilan Pelaksana Penempatan Tenaga Kerja Indonesia Swasta di Luar Negeri",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "KETENAGAKERJAAN - KEWARGANEGARAAN DAN IMIGRASI - STANDAR / PEDOMAN",
+ "field": "Alias",
+ "date_enacted": "2013-06-07",
+ "date_promulgated": "2013-06-07",
+ "date_effective": "2013-06-07",
+ "gazette": "BN.2013/No.804, jdih.kemnaker.go.id : 5 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENAKER-2026-2",
+   "target_bpk_id": 344084,
+   "label": "Permenaker No. 2 Tahun 2026",
+   "about": "Pencabutan Peraturan Menteri Ketenagakerjaan Bidang Penempatan dan Pelindungan Pekerja Migran Indonesia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Ketenagakerjaan Republik Indonesia ini mulai berlaku pada tanggal 07 Juni 2013.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/138279/Kemnaker%20No.%206%20Tahun%202013.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:14:51Z"
+}

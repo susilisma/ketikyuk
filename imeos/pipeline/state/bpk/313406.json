@@ -1,0 +1,41 @@
+{
+ "id": "PERPRES-2025-4",
+ "source": "bpk",
+ "bpk_id": 313406,
+ "url": "https://peraturan.bpk.go.id/Details/313406/perpres-no-4-tahun-2025",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "4",
+ "number_raw": "4",
+ "year": 2025,
+ "title": "Peraturan Presiden (Perpres) Nomor 4 Tahun 2025 tentang Perubahan atas Peraturan Presiden Nomor 5 Tahun 2015 tentang Penyelenggaraan Sistem Administrasi Manunggal Satu Atap Kendaraan Bermotor",
+ "about": "Perubahan atas Peraturan Presiden Nomor 5 Tahun 2015 tentang Penyelenggaraan Sistem Administrasi Manunggal Satu Atap Kendaraan Bermotor",
+ "issuer": "Pemerintah Pusat",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA - OTONOMI DAERAH DAN PEMERINTAH DAERAH - PERIZINAN, PELAYANAN PUBLIK",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-01-21",
+ "date_promulgated": "2025-01-21",
+ "date_effective": "2025-01-21",
+ "gazette": "LN 2025 (7) : 20 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2015-5",
+   "target_bpk_id": 41724,
+   "label": "PERPRES No. 5 Tahun 2015",
+   "about": "Penyelenggaraan Sistem Administrasi Manunggal Satu Atap Kendaraan Bermotor"
+  }
+ ],
+ "abstract": "Untuk mengakomodasi penyesuaian pajak daerah yang dipungut oleh pemerintah kabupaten/kota sebagaimana diatur dalam Pasal 4 ayat (2) huruf h dan huruf i Undang-Undang Nomor 1 Tahun 2022 tentang Hubungan Keuangan Antara Pemerintah Pusat dan Pemerintahan Daerah dan untuk melakukan penyempurnaan terhadap proses bisnis penyelenggaraan sistem administrasi manunggal satu atap kendaraan bermotor, perlu dilakukan perubahan terhadap Peraturan Presiden Nomor 5 Tahun 2015 tentang Penyelenggaraan Sistem Administrasi Manunggal Satu Atap Kendaraan Bermotor.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD NRI Tahun 1945; UU Nomor 22 Tahun 2009; UU Nomor 1 Tahun 2022; dan Perpres Nomor 5 Tahun 2015.\nPerpres ini mengatur mengenai perubahan beberapa ketentuan dalam Perpres Nomor 5 Tahun 2015. Pembayaran pajak atas kendaraan bermotor sebagaimana dimaksud dalam Pasal 3 huruf b meliputi: a. PKB; b. BBNKB; c. Opsen PKB; dan d. Opsen BBNKB.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 21 Januari 2025.\nLampiran file: 20 hlm.",
+ "citations": [
+  "UU-2022-1",
+  "PERPRES-2015-5",
+  "UU-2009-22"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/374297/Perpres%20Nomor%204%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:03:28Z"
+}

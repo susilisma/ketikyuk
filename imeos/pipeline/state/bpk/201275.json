@@ -1,0 +1,37 @@
+{
+ "id": "PERPRES-2022-35",
+ "source": "bpk",
+ "bpk_id": 201275,
+ "url": "https://peraturan.bpk.go.id/Details/201275/perpres-no-35-tahun-2022",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "35",
+ "number_raw": "35",
+ "year": 2022,
+ "title": "Peraturan Presiden (Perpres) Nomor 35 Tahun 2022 tentang Penguatan Fungsi Penyuluhan Pertanian",
+ "about": "Penguatan Fungsi Penyuluhan Pertanian",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PANGAN, PERTANIAN DAN PETERNAKAN",
+ "field": "Alias",
+ "date_enacted": "2022-03-04",
+ "date_promulgated": "2022-03-04",
+ "date_effective": "2022-03-04",
+ "gazette": "LN.2022/No.57, jdih.setneg.go.id : 15 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2026-2",
+   "target_bpk_id": 348122,
+   "label": "Perpres No. 2 Tahun 2026",
+   "about": "Urusan Pemerintahan Konkuren Tambahan di Bidang Pertanian"
+  }
+ ],
+ "abstract": "Untuk meningkatkan produksi dan produktivitas pertanian, dibutuhkan penguatan sumber daya manusia pertanian dan penerapan inovasi teknologi pertanian tepat guna, efektif, dan efisien yang dilakukan melalui penyuluhan pertanian yang mampu memberikan dukungan yang kuat dalam pencapaian ketahanan pangan nasional sehingga diperlukan penguatan fungsi penyuluhan pertanian.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.\nPerpres ini mengatur mengenai kebijakan dalam penguatan fungsi penyuluhan pertanian yang dilaksanakan melalui: 1) penguatan hubungan kerja; 2) penguatan kelembagaan Penyuluhan Pertanian kecamatan dan desa; 3) penyediaan dan peningkatan kapasitas ketenagaan Penyuluh; 4) materi Penyuluhan Pertanian; 5) pemanfaatan teknologi informasi dan komunikasi; dan 6) jaminan ketersediaan prasarana dan sarana. Terdapat enam materi penyuluhan pertanian dalam mendukung peningkatan ketersediaan pangan yang meliputi, tapi tidak terbatas pada: 1) teknis budi daya dan pascapanen tanaman Pangan, hortikultura, perkebunan, dan peternakan sesuai dengan ketentuan peraturan perundang-undangan; 2) peningkatan perluasan area tanam dan indeks pertanaman; 3) teknik penyediaan Pangan yang beragam, bergizi seimbang, bermutu, dan aman; 4) pengawalan cadangan Pangan masyarakat; 5) pengelolaan Pertanian terintegrasi dan Pertanian presisi; dan 6) teknik input data atau informasi dan pelaporan menggunakan sarana teknologi informasi dan komunikasi.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 04 Maret 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/195229/Perpres%20Nomor%2035%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:00:45Z"
+}

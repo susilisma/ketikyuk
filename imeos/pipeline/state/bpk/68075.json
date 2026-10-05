@@ -12,7 +12,7 @@
  "about": "Pengawasan Atas Peredaran, Penyimpanan Dan Penggunaan Pestisida",
  "issuer": "Pemerintah Pusat",
  "subject": "LINGKUNGAN HIDUP - PANGAN, PERTANIAN DAN PETERNAKAN",
- "field": "",
+ "field": "Alias",
  "date_enacted": "1973-03-17",
  "date_promulgated": "1973-03-17",
  "date_effective": "1973-03-17",
@@ -33,5 +33,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/58444/PP%20NO%207%20TH%201973.pdf"
  ],
- "fetched_at": "2026-09-14T05:28:33Z"
+ "fetched_at": "2026-10-05T04:57:26Z"
 }

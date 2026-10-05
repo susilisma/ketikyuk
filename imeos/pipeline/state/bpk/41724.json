@@ -1,0 +1,39 @@
+{
+ "id": "PERPRES-2015-5",
+ "source": "bpk",
+ "bpk_id": 41724,
+ "url": "https://peraturan.bpk.go.id/Details/41724/perpres-no-5-tahun-2015",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "5",
+ "number_raw": "5",
+ "year": 2015,
+ "title": "Peraturan Presiden (Perpres) Nomor 5 Tahun 2015 tentang Penyelenggaraan Sistem Administrasi Manunggal Satu Atap Kendaraan Bermotor",
+ "about": "Penyelenggaraan Sistem Administrasi Manunggal Satu Atap Kendaraan Bermotor",
+ "issuer": "Pemerintah Pusat",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA - PAJAK DAN RETRIBUSI DAERAH - TRANSPORTASI DARAT / LAUT / UDARA - PERIZINAN, PELAYANAN PUBLIK - PERPAJAKAN - LALU LINTAS, JALAN",
+ "field": "Alias",
+ "date_enacted": "2015-01-19",
+ "date_promulgated": "2015-01-20",
+ "date_effective": "2015-01-20",
+ "gazette": "LN. 2015 No. 6",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2025-4",
+   "target_bpk_id": 313406,
+   "label": "Perpres No. 4 Tahun 2025",
+   "about": "Perubahan atas Peraturan Presiden Nomor 5 Tahun 2015 tentang Penyelenggaraan Sistem Administrasi Manunggal Satu Atap Kendaraan Bermotor"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 67 Ayat (4) Undang-Undang Nomor 22 Tahun 2009 tentang Lalu Lintas dan Angkutan Jalan, perlu menetapkan Peraturan Presiden tentang Penyelenggaraan Sistem Administrasi Manunggal Satu Atap Kendaraan Bermotor.\nDasar hukum dalam Perpres ini adalah Pasal 4 ayat (1) UUD 1945 dan UU No. 22 Tahun 2009.\nMateri pokok dalam Perpres ini adalah Samsat bertujuan memberikan pelayanan Registrasi dan Identifikasi Kendaraan Bermotor, pembayaran pajak atas kendaraan bermotor, dan Sumbangan Wajib Dana Kecelakaan Lalu Lintas dan Angkatan Jalanan secara terintegrasi dan terkoordinasi dengan cepat, tepat, transparan, akuntabel, dan informatif.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 20 Januari 2015.\nLampiran file: 24 hlm",
+ "citations": [
+  "UU-2009-22"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/63411/Perpres_05_2015.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:03:29Z"
+}

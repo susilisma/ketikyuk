@@ -12,7 +12,7 @@
  "about": "Perubahan Kedua atas Peraturan Pemerintah Nomor 43 Tahun 2014 tentang Peraturan Pelaksanaan Undang-Undang Nomor 6 Tahun 2014 tentang Desa",
  "issuer": "Pemerintah Pusat",
  "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH - DESA",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2019-02-28",
  "date_promulgated": "2019-02-28",
  "date_effective": "2019-02-28",
@@ -65,5 +65,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/93324/PP%20Nomor%2011%20Tahun%202019.pdf"
  ],
- "fetched_at": "2026-09-14T05:28:03Z"
+ "fetched_at": "2026-10-05T04:56:51Z"
 }

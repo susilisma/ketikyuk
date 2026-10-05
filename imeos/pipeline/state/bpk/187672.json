@@ -12,7 +12,7 @@
  "about": "Tata Cara Penyediaan, Pencairan, dan Pertanggungjawaban Dana Kompensasi atas Kekurangan Penerimaan Badan Usaha Akibat Kebijakan Penetapan Harga Jual Eceran Bahan Bakar Minyak dan Tarif Tenaga Listrik",
  "issuer": "Kementerian Keuangan",
  "subject": "APBN - PERTAMBANGAN MIGAS, MINERAL DAN ENERGI",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2021-11-17",
  "date_promulgated": "2021-11-18",
  "date_effective": "2021-11-18",
@@ -47,5 +47,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/181266/159_PMK.02_2021.pdf"
  ],
- "fetched_at": "2026-09-14T06:32:45Z"
+ "fetched_at": "2026-10-05T05:07:13Z"
 }

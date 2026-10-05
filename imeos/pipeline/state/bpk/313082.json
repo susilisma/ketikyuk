@@ -1,0 +1,53 @@
+{
+ "id": "PERBPOM-2023-19",
+ "source": "bpk",
+ "bpk_id": 313082,
+ "url": "https://peraturan.bpk.go.id/Details/313082/peraturan-bpom-no-19-tahun-2023",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "19",
+ "number_raw": "19",
+ "year": 2023,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 19 Tahun 2023 tentang Organisasi dan Tata Kerja Unit Pelaksana Teknis pada Badan Pengawas Obat dan Makanan",
+ "about": "Organisasi dan Tata Kerja Unit Pelaksana Teknis pada Badan Pengawas Obat dan Makanan",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2023-08-08",
+ "date_promulgated": "2023-08-08",
+ "date_effective": "2023-08-08",
+ "gazette": "BN 2023 (611); 21 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 345097,
+   "label": "Peraturan BPOM No. 1 Tahun 2026",
+   "about": "Perubahan Kedua atas Peraturan Badan Pengawas Obat dan Makanan Nomor 19 Tahun 2023 tentang Organisasi dan Tata Kerja Unit Pelaksana Teknis pada Badan Pengawas Obat dan Makanan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 313081,
+   "label": "Peraturan BPOM No. 3 Tahun 2025",
+   "about": "Perubahan atas Peraturan Badan Pengawas Obat dan Makanan Nomor 19 Tahun 2023 tentang Organisasi dan Tata Kerja Unit Pelaksana Teknis pada Badan Pengawas Obat dan Makanan"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 181786,
+   "label": "Peraturan BPOM No. 22 Tahun 2020",
+   "about": "Organisasi dan Tata Kerja Unit Pelaksana Teknis di Lingkungan Badan Pengawas Obat dan Makanan"
+  }
+ ],
+ "abstract": "bahwa penataan organisasi dan tata kerja Unit Pelaksana\nTeknis pada Badan Pengawas Obat dan Makanan telah\nmendapat persetujuan dari Menteri Pendayagunaan\nAparatur Negara dan Reformasi Birokrasi berdasarkan\nsurat Menteri Pendayagunaan Aparatur Negara dan\nReformasi Birokrasi Nomor B/559/M.KT.01/2023 tanggal\n11 Mei 2023 perihal Penataan Unit Pelaksana Teknis\nBadan Pengawas Obat dan Makanan\nDasar hukum peraturan ini adalah Perpres Nomor 80 Tahun 2017; Peraturan BPOM Nomor 21 Tahun 2020 sebagaimana telah diubah dengan Peraturan BPOM Nomor 13 Tahun 2022; Permenpan Nomor 2 Tahun 2023\nPeraturan ini mengatur mengenai kedudukan, tugas, fungsi, dan klasifikasi UPT BPOM; susunan organisasi; kelompok jabatan fungsional; jabatan, pengangkatan, dan pemberhentian; lokasi dan wilayah kerja",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 08 Agustus 2023.",
+ "citations": [
+  "PERPRES-2017-80"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/373931/peraturan-bpom-no-19-tahun-2023.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:24:50Z"
+}

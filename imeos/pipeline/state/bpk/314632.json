@@ -1,0 +1,42 @@
+{
+ "id": "PERPRES-2025-1",
+ "source": "bpk",
+ "bpk_id": 314632,
+ "url": "https://peraturan.bpk.go.id/Details/314632/perpres-no-1-tahun-2025",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "1",
+ "number_raw": "1",
+ "year": 2025,
+ "title": "Peraturan Presiden (Perpres) Nomor 1 Tahun 2025 tentang Perubahan atas Peraturan Presiden Nomor 86 Tahun 2007 tentang Badan Pusat Statistik",
+ "about": "Perubahan atas Peraturan Presiden Nomor 86 Tahun 2007 tentang Badan Pusat Statistik",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA",
+ "field": "HUKUM TATA NEGARA",
+ "date_enacted": "2025-01-20",
+ "date_promulgated": "2025-01-20",
+ "date_effective": "2025-01-20",
+ "gazette": "LN 2025 (4) : 5 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2007-86",
+   "target_bpk_id": 42158,
+   "label": "PERPRES No. 86 Tahun 2007",
+   "about": "Badan Pusat Statistik"
+  }
+ ],
+ "abstract": "Dalam rangka optimalisasi tugas dan fungsi penyelenggaraan statistik, perlu menyempurnakan organisasi Badan Pusat Statistik.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD NRI Tahun 1945; UU Nomor 16 Tahun 1997; UU Nomor 23 Tahun 2014; PP Nomor 51 Tahun 1999; dan Perpres Nomor 86 Tahun 2007.\nPerpres ini mengubah beberapa ketentuan dalam Perpres Nomor 86 Tahun 2007. Badan Pusat Statistik (BPS) merupakan lembaga pemerintah yang berada di bawah dan bertanggungjawab kepada Presiden dan dipimpin oleh Kepala. Kepala diberikan hak keuangan dan fasilitas setingkat menteri. Wakil Kepala diberikan hak keuangan dan fasilitas setingkat wakil menteri.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 20 Januari 2025.\nPerpres ini mengubah Perpres Nomor 86 Tahun 2007.\nLampiran file: 5 hlm.",
+ "citations": [
+  "UU-1997-16",
+  "UU-2014-23",
+  "PP-1999-51",
+  "PERPRES-2007-86"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/375617/Perpres%20Nomor%201%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:03:34Z"
+}

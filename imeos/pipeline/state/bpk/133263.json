@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKUMHAM-2016-40",
+ "source": "bpk",
+ "bpk_id": 133263,
+ "url": "https://peraturan.bpk.go.id/Details/133263/permenkumham-no-40-tahun-2016",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "40",
+ "number_raw": "40",
+ "year": 2016,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 40 Tahun 2016 tentang Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 20 Tahun 2015 tentang Tata Cara dan Prosedur Pengharmonisasian, Pembulatan, dan Pemantapan Konsepsi Rancangan Peraturan Perundang-Undangan",
+ "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 20 Tahun 2015 tentang Tata Cara dan Prosedur Pengharmonisasian, Pembulatan, dan Pemantapan Konsepsi Rancangan Peraturan Perundang-Undangan",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA",
+ "field": "Alias",
+ "date_enacted": "2016-11-11",
+ "date_promulgated": "2016-11-11",
+ "date_effective": "2016-11-11",
+ "gazette": "BN.2016/No.1715, peraturan.go.id: 5 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 357127,
+   "label": "Permenkum No. 7 Tahun 2026",
+   "about": "Tata Cara Pengharmonisasian, Pembulatan, dan Pemantapan Konsepsi Rancangan Undang-Undang, Rancangan Peraturan Pemerintah, Rancangan Peraturan Presiden, dan Rancangan Peraturan Menteri/Badan/Lembaga/Komisi"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 133305,
+   "label": "Permenkumham No. 20 Tahun 2015",
+   "about": "Tata Cara dan Prosedur Pengharmonisasian, Pembulatan, dan Pemantapan Konsepsi Rancangan Peraturan Perundang-Undangan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 11 November 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/124050/Permenkumham%20Nomor%2040%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:17:31Z"
+}

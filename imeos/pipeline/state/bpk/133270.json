@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKUMHAM-2016-47",
+ "source": "bpk",
+ "bpk_id": 133270,
+ "url": "https://peraturan.bpk.go.id/Details/133270/permenkumham-no-47-tahun-2016",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "47",
+ "number_raw": "47",
+ "year": 2016,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 47 Tahun 2016 tentang Tata Cara Penyampaian Permohonan Kewarganegaraan Republik Indonesia Secara Elektronik",
+ "about": "Tata Cara Penyampaian Permohonan Kewarganegaraan Republik Indonesia Secara Elektronik",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "KEWARGANEGARAAN DAN IMIGRASI",
+ "field": "Alias",
+ "date_enacted": "2016-12-07",
+ "date_promulgated": "2016-12-20",
+ "date_effective": "2016-12-20",
+ "gazette": "BN.2016/No.1938, peraturan.go.id : 26 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 357191,
+   "label": "Permenkum No. 15 Tahun 2026",
+   "about": "Layanan Bidang Kewarganegaraan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 276682,
+   "label": "Permenkumham No. 3 Tahun 2024",
+   "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 47 Tahun 2016 tentang Tata Cara Penyampaian Permohonan Kewarganegaraan Republik Indonesia Secara Elektronik"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 20 Desember 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/124057/Permenkumham%20Nomor%2047%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:17:57Z"
+}

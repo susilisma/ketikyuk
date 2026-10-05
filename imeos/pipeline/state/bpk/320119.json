@@ -1,0 +1,40 @@
+{
+ "id": "PP-2025-20",
+ "source": "bpk",
+ "bpk_id": 320119,
+ "url": "https://peraturan.bpk.go.id/Details/320119/pp-no-20-tahun-2025",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "20",
+ "number_raw": "20",
+ "year": 2025,
+ "title": "Peraturan Pemerintah (PP) Nomor 20 Tahun 2025 tentang Pencabutan Peraturan Pemerintah Nomor 34 Tahun 2022 tentang Penambahan",
+ "about": "Pencabutan Peraturan Pemerintah Nomor 34 Tahun 2022 tentang Penambahan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PENANAMAN MODAL DAN INVESTASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-05-06",
+ "date_promulgated": "2025-05-06",
+ "date_effective": "2025-05-06",
+ "gazette": "LN 2025 (69) : 3 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PP-2022-34",
+   "target_bpk_id": 228911,
+   "label": "PP No. 34 Tahun 2022",
+   "about": "Penambahan Penyertaan Modal Negara Republik Indonesia ke Dalam Modal Saham Perusahaan Perseroan (Persero) PT Waskita Karya Tbk"
+  }
+ ],
+ "abstract": "Peraturan Pemerintah Nomor 34 Tahun 2022 tentang Penambahan Penyertaan Modal Negara Republik Indonesia ke Dalam Modal Saham Perusahaan Perseroan (Persero) PT Waskita Karya Tbk tidak dapat dilaksanakan, sehingga perlu dicabut. Maka dari itu perlu menetapkan Peraturan Pemerintah tentang Pencabutan Peraturan Pemerintah Nomor 34 Tahun 2022 tentang penambahan Penyertaan Modal Negara Republik Indonesia ke Dalam Modal Saham Perusahaan Perseroan (Persero) PT Wakskita Karya Tbk.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD NRI Tahun 1945 dan UU No. 19 Tahun 2003\nPP ini mengatur mengenai Pencabutan PP No. 34 Tahun 2022 tentang Penambahan Penyertaan Modal Negara Republik Indonesia ke Dalam Modal Saham Perusahaan Perseroan (Persero) PT Wakskita Karya Tbk.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 06 Mei 2025.\nPeraturan Pemerintah Nomor 34 Tahun 2022 tentang Penambahan Penyertaan Modal Negara Republik Indonesia ke Dalam Modal Saham Perusahaan Perseroan (Persero) PT Waskita Karya Tbk (Lembaran Negara Republik Indonesia Tahun 2O22 Nomor 195) dicabut dan dinyatakan tidak berlaku.\nLampiran file: 3 hlm (batang tubuh hlm 1 sd 3)",
+ "citations": [
+  "PP-2022-34",
+  "UU-2003-19"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/381752/PP%20Nomor%2020%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T04:58:57Z"
+}

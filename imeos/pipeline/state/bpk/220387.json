@@ -1,0 +1,58 @@
+{
+ "id": "PERKABPOM-2017-24",
+ "source": "bpk",
+ "bpk_id": 220387,
+ "url": "https://peraturan.bpk.go.id/Details/220387/perka-bpom-no-24-tahun-2017",
+ "form": "PERKABPOM",
+ "form_long": "Peraturan Kepala Badan Pengawas Obat dan Makanan",
+ "number": "24",
+ "number_raw": "24",
+ "year": 2017,
+ "title": "Peraturan Kepala Badan Pengawas Obat dan Makanan Nomor 24 Tahun 2017 tentang Kriteria dan Tata Laksana Registrasi Obat",
+ "about": "Kriteria dan Tata Laksana Registrasi Obat",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "KESEHATAN - PERLINDUNGAN KONSUMEN",
+ "field": "Alias",
+ "date_enacted": "2017-11-24",
+ "date_promulgated": "2017-11-24",
+ "date_effective": "2017-11-24",
+ "gazette": "BN.2017/No.1692, jdih.pom.go.id: 44 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 328077,
+   "label": "Peraturan BPOM No. 23 Tahun 2025",
+   "about": "Perubahan Kelima atas Peraturan Kepala Badan Pengawas Obat dan Makanan Nomor 24 Tahun 2017 tentang Kriteria dan Tata Laksana Registrasi Obat"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 263266,
+   "label": "Peraturan BPOM No. 15 Tahun 2023",
+   "about": "Perubahan Keempat Atas Peraturan Kepala Badan Pengawas Obat dan Makanan Nomor 24 Tahun 2017 tentang Kriteria dan Tata Laksana Registrasi Obat"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 181753,
+   "label": "Peraturan BPOM No. 13 Tahun 2021",
+   "about": "Perubahan Ketiga atas Peraturan Kepala Badan Pengawas Obat dan Makanan Nomor 24 Tahun 2017 tentang Kriteria dan Tata Laksana Registrasi Obat"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 181791,
+   "label": "Peraturan BPOM No. 27 Tahun 2020",
+   "about": "Perubahan Kedua atas Peraturan Kepala Badan Pengawas Obat dan Makanan Nomor 24 Tahun 2017 tentang Kriteria dan Tata Laksana Registrasi Obat"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Kepala Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 24 November 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/214814/Peraturan%20Kepala%20BPOM%20Nomor%2024%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:28:41Z"
+}

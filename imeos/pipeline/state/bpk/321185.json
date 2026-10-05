@@ -1,0 +1,42 @@
+{
+ "id": "PERBPOM-2025-15",
+ "source": "bpk",
+ "bpk_id": 321185,
+ "url": "https://peraturan.bpk.go.id/Details/321185/peraturan-bpom-no-15-tahun-2025",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "15",
+ "number_raw": "15",
+ "year": 2025,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 15 Tahun 2025 tentang Perubahan atas Peraturan Badan Pengawas Obat dan Makanan",
+ "about": "Perubahan atas Peraturan Badan Pengawas Obat dan Makanan",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "PEDOMAN PENULISAN / TATA NASKAH DINAS",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-05-15",
+ "date_promulgated": "2025-05-20",
+ "date_effective": "2025-05-20",
+ "gazette": "BN 2025 (351); 86 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 223965,
+   "label": "Peraturan BPOM No. 6 Tahun 2022",
+   "about": "Tata Naskah Dinas di Lingkungan Badan Pengawas Obat dan Makanan"
+  }
+ ],
+ "abstract": "bahwa beberapa ketentuan dalam Peraturan Badan\nPengawas Obat dan Makanan Nomor 6 Tahun 2022\ntentang Tata Naskah Dinas di Lingkungan Badan\nPengawas Obat dan Makanan sudah tidak sesuai dengan\nperkembangan hukum dan kebutuhan organisasi,\nsehingga perlu diubah\nDasar hukum peraturan ini adalah UU Nomor 43 Tahun 2009; PP Nomor 28 Tahun 2012; Perpres Nomor 80 Tahun 2017; Peraturan BPOM Nomor 21 Tahun 2020 sebagaimana telah diubah dengan Peraturan BPOM Nomor 13 Tahun 2022; Peraturan BPOM Nomor 23 Tahun 2020; Peraturan ANRI Nomor 5 Tahun 2021; Peraturan BPOM Nomor 6 Tahun 2022; Peraturan BPOM Nomor 19 Tahun 2023 sebagaimana telah diubah dengan Peraturan BPOM Nomor 3 Tahun 2025\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Badan Pengawas Obat dan Makanan Nomor 6 Tahun 2022 tentang Tata Naskah Dinas di Lingkungan Badan Pengawas Obat dan Makanan",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 20 Mei 2025.",
+ "citations": [
+  "UU-2009-43",
+  "PP-2012-28",
+  "PERPRES-2017-80",
+  "PERBPOM-2022-6"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/382927/peraturan-bpom-no-15-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:28:59Z"
+}

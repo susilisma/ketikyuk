@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2007-112",
+ "source": "bpk",
+ "bpk_id": 42157,
+ "url": "https://peraturan.bpk.go.id/Details/42157/perpres-no-112-tahun-2007",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "112",
+ "number_raw": "112",
+ "year": 2007,
+ "title": "Peraturan Presiden (Perpres) Nomor 112 Tahun 2007 tentang Penataan dan Pembinaan Pasar Tradisional, Pusat Perbelanjaan dan Toko Modern",
+ "about": "Penataan dan Pembinaan Pasar Tradisional, Pusat Perbelanjaan dan Toko Modern",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KEBIJAKAN PEMERINTAH",
+ "field": "Alias",
+ "date_enacted": "2007-12-27",
+ "date_promulgated": null,
+ "date_effective": "2007-12-27",
+ "gazette": "LLSETKAB : 22 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2026-3",
+   "target_bpk_id": 343972,
+   "label": "PP No. 3 Tahun 2026",
+   "about": "Perubahan atas Peraturan Pemerintah Nomor 29 Tahun 2021 tentang Penyelenggaraan Bidang Perdagangan"
+  },
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2021-29",
+   "target_bpk_id": 161870,
+   "label": "PP No. 29 Tahun 2021",
+   "about": "Penyelenggaraan Bidang Perdagangan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 27 Desember 2007.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/70926/PERPRES%20NO%20112%20TH%202007.pdf"
+ ],
+ "fetched_at": "2026-10-05T04:57:41Z"
+}

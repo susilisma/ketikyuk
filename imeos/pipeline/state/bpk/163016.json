@@ -1,0 +1,51 @@
+{
+ "id": "PERMENKES-2020-71",
+ "source": "bpk",
+ "bpk_id": 163016,
+ "url": "https://peraturan.bpk.go.id/Details/163016/permenkes-no-71-tahun-2020",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "71",
+ "number_raw": "71",
+ "year": 2020,
+ "title": "Peraturan Menteri Kesehatan Nomor 71 Tahun 2020 tentang Organisasi dan Tata Kerja Politeknik Kesehatan Di Lingkungan Kementerian Kesehatan",
+ "about": "Organisasi dan Tata Kerja Politeknik Kesehatan Di Lingkungan Kementerian Kesehatan",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - PENDIDIKAN - STRUKTUR ORGANISASI",
+ "field": "Alias",
+ "date_enacted": "2020-10-26",
+ "date_promulgated": "2020-12-17",
+ "date_effective": "2020-12-17",
+ "gazette": "BN 2020/ NO 1538; PERATURAN.GO.ID : 24 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENKES-2026-13",
+   "target_bpk_id": 350839,
+   "label": "Permenkes No. 13 Tahun 2026",
+   "about": "Perubahan Kedua atas Peraturan Menteri Kesehatan Nomor 71 Tahun 2020 tentang Organisasi dan Tata Kerja Politeknik Kesehatan di Lingkungan Kementerian Kesehatan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENKES-2023-12",
+   "target_bpk_id": 249360,
+   "label": "Permenkes No. 12 Tahun 2023",
+   "about": "Perubahan Atas Peraturan Menteri Kesehatan Nomor 71 Tahun 2020 tentang Organisasi dan Tata Kerja Politeknik Kesehatan di Lingkungan Kementrian Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2018-38",
+   "target_bpk_id": 139662,
+   "label": "Permenkes No. 38 Tahun 2018",
+   "about": "Organisasi dan Tata Kerja Politeknik Kesehatan di Lingkungan Badan Pengembangan dan Pemberdayaan Sumber Daya Manusia Kesehatan Kementerian Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 17 Desember 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/155711/Permenkes%2071%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:21:31Z"
+}

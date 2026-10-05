@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKUMHAM-2010-MHH02AH0201",
+ "source": "bpk",
+ "bpk_id": 134456,
+ "url": "https://peraturan.bpk.go.id/Details/134456/permenkumham-no-mhh-02ah0201-tahun-2010",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "MHH02AH0201",
+ "number_raw": "M.HH-02.AH.02.01",
+ "year": 2010,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor M.HH-02.AH.02.01 Tahun 2010 tentang Tata Cara Pengumuman Yayasan Dalam Tambahan Berita Negara Republik Indonesia",
+ "about": "Tata Cara Pengumuman Yayasan Dalam Tambahan Berita Negara Republik Indonesia",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA - PERIZINAN, PELAYANAN PUBLIK - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "Alias",
+ "date_enacted": "2010-07-09",
+ "date_promulgated": "2010-07-09",
+ "date_effective": "2009-06-03",
+ "gazette": "BN.2010/No.335, peraturan.go.id: 4 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 357188,
+   "label": "Permenkum No. 14 Tahun 2026",
+   "about": "Tata Cara Pengumuman Perseroan Terbatas dalam Berita Negara Republik Indonesia dan Tambahan Berita Negara Republik Indonesia dan Pengumuman Yayasan dalam Tambahan Berita Negara Republik Indonesia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 03 Juni 2009.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/125243/bn335-2010.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:17:48Z"
+}

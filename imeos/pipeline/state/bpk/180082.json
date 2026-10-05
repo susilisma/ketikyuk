@@ -12,7 +12,7 @@
  "about": "Perubahan atas Peraturan Presiden Nomor 107 Tahun 2015 tentang Percepatan Penyelenggaraan Prasarana dan Sarana Kereta Cepat antara Jakarta dan Bandung",
  "issuer": "Pemerintah Pusat",
  "subject": "KONSTRUKSI, SIPIL, ARSITEK, BANGUNAN, DAN INFRASTRUKTUR - TRANSPORTASI DARAT / LAUT / UDARA",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2021-10-06",
  "date_promulgated": "2021-10-06",
  "date_effective": "2021-10-06",
@@ -43,5 +43,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/173476/Perpres%20Nomor%2093%20Tahun%202021.pdf"
  ],
- "fetched_at": "2026-09-14T05:31:26Z"
+ "fetched_at": "2026-10-05T04:59:51Z"
 }

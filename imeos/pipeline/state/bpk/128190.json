@@ -1,0 +1,37 @@
+{
+ "id": "PMK-2019-145",
+ "source": "bpk",
+ "bpk_id": 128190,
+ "url": "https://peraturan.bpk.go.id/Details/128190/pmk-no-145pmk052019",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "145",
+ "number_raw": "145/PMK.05/2019",
+ "year": 2019,
+ "title": "Peraturan Menteri Keuangan Nomor 145/PMK.05/2019 Tahun 2019 tentang Tarif Layanan Badan Layanan Umum Balai Pendidikan Dan Pelatihan Penerbangan Banyuwangi Pada Kementerian Perhubungan",
+ "about": "Tarif Layanan Badan Layanan Umum Balai Pendidikan Dan Pelatihan Penerbangan Banyuwangi Pada Kementerian Perhubungan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BADAN LAYANAN UMUM",
+ "field": "Alias",
+ "date_enacted": "2019-10-18",
+ "date_promulgated": "2019-10-18",
+ "date_effective": "2019-11-02",
+ "gazette": "BN 2019/NO 1223, JDIH.KEMENKEU.GO.ID : 17 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-22",
+   "target_bpk_id": 316120,
+   "label": "PMK No. 22 Tahun 2025",
+   "about": "Tarif Layanan Badan Layanan Umum Bidang Pendidikan dan Pelatihan Sumber Daya Manusia Perhubungan Pada Kementerian Perhubungan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 02 November 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/129743/145~PMK.05~2019.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:09:07Z"
+}

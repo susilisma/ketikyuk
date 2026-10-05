@@ -1,0 +1,48 @@
+{
+ "id": "PERMENKUM-2025-39",
+ "source": "bpk",
+ "bpk_id": 350888,
+ "url": "https://peraturan.bpk.go.id/Details/350888/permenkum-no-39-tahun-2025",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "39",
+ "number_raw": "39",
+ "year": 2025,
+ "title": "Peraturan Menteri Hukum Nomor 39 Tahun 2025 tentang Pelaksanaan Pemberian Tunjangan Kinerja di Lingkungan Kementerian Hukum",
+ "about": "Pelaksanaan Pemberian Tunjangan Kinerja di Lingkungan Kementerian Hukum",
+ "issuer": "Kementerian Hukum",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA - KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-10-16",
+ "date_promulgated": "2025-10-17",
+ "date_effective": "2025-10-17",
+ "gazette": "BN 2025 (842): 12 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut sebagian",
+   "target": null,
+   "target_bpk_id": 280242,
+   "label": "Permenkumham No. 22 Tahun 2022",
+   "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 10 Tahun 2021 tentang Pelaksanaan Pemberian Tunjangan Kinerja di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": null,
+   "target_bpk_id": 170955,
+   "label": "Permenkumham No. 10 Tahun 2021",
+   "about": "Pelaksanaan Pemberian Tunjangan Kinerja di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 12 Peraturan Presiden Nomor 28 Tahun 2025 tentang Tunjangan Kinerja Pegawai di Lingkungan Kementerian Hukum, perlu menetapkan Peraturan Menteri Hukum tentang Pelaksanaan Pemberian Tunjangan Kinerja di Lingkungan Kementerian Hukum.\nDasar hukum Permenkum ini adalah Pasal 17 ayat (3) UUD 1945; UU No. 39 Tahun 2008; Perpres No. 155 Tahun 2024; Perpres No. 28 Tahun 2025; Permenkum No. 1 Tahun 2024; dan Permenkum No 2 Tahun 2024.\nPermenkum ini mengatur mengenai Pelaksanaan Pemberian Tunjangan Kinerja di Lingkungan Kementerian Hukum. Setiap Pegawai berhak menerima Tunjangan Kinerja setiap bulan berdasarkan ketentuan dalam Peraturan Menteri ini. Besaran Tunjangan Kinerja ditentukan berdasarkan Kelas Jabatan.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 17 Oktober 2025.\nPada saat Peraturan Menteri ini mulai berlaku, Ketentuan mengenai pembayaran Tunjangan Kinerja sebagaimana diatur dalam Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 10 Tahun 2021 tentang Pelaksanaan Pemberian Tunjangan Kinerja di Lingkungan Kementerian Hukum dan Hak Asasi Manusia (Berita Negara Republik Indonesia Tahun 2021 Nomor 103) sebagaimana telah diubah dengan Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 22 Tahun 2022 tentang Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 10 Tahun 2021 tentang Pelaksanaan Pemberian Tunjangan Kinerja di Lingkungan Kementerian Hukum dan Hak Asasi Manusia (Berita Negara Republik Indonesia Tahun 2022 Nomor 1084), dinyatakan tidak berlaku bagi Pegawai kecuali ketentuan Pasal 24A dan Pasal 24B.\nLampiran file: 31 hlm.",
+ "citations": [
+  "PERPRES-2025-28",
+  "UU-2008-39",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/414643/Permenkum%20Nomor%2039%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:18:41Z"
+}

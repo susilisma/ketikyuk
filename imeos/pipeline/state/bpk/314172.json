@@ -1,0 +1,58 @@
+{
+ "id": "PMK-2025-15",
+ "source": "bpk",
+ "bpk_id": 314172,
+ "url": "https://peraturan.bpk.go.id/Details/314172/pmk-no-15-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "15",
+ "number_raw": "15",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 15 Tahun 2025 tentang Pemeriksaan Pajak",
+ "about": "Pemeriksaan Pajak",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-02-10",
+ "date_promulgated": "2025-02-14",
+ "date_effective": "2025-02-14",
+ "gazette": "BN.2025 (101)/204 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2014-256",
+   "target_bpk_id": 122098,
+   "label": "PMK No. 256/PMK.03/2014",
+   "about": "Tata Cara Pemeriksaan Dan Penelitian Pajak Bumi Dan Bangunan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2013-17",
+   "target_bpk_id": 149608,
+   "label": "PMK No. 17/PMK.03/2013",
+   "about": "Tata Cara Pemeriksaan"
+  }
+ ],
+ "abstract": "a. bahwa untuk memberikan kepastian hukum terhadap pemeriksaan pajak, termasuk pemeriksaan pajak bumi dan bangunan, yang saat ini diatur dalam beberapa peraturan di bidang perpajakan, perlu dilakukan simplifikasi dan pengaturan kembali ketentuan mengenai pemeriksaan pajak dalam satu Peraturan Menteri Keuangan;\nb. bahwa dengan diterbitkannya Peraturan Pemerintah Nomor 50 Tahun 2022 tentang Tata Cara Pelaksanaan Hak dan Pemenuhan Kewajiban Perpajakan, perlu dilakukan penyesuaian terhadap ketentuan mengenai pemeriksaan pajak;\nc. bahwa Peraturan Menteri Keuangan Nomor 17/PMK.03/2013 tentang Tata Cara Pemeriksaan sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 18/PMK.03/2021 tentang Pelaksanaan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja di Bidang Pajak Penghasilan, Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, serta Ketentuan Umum dan Tata Cara Perpajakan dan Peraturan Menteri Keuangan Nomor 256/PMK.03/2014 tentang Tata Cara Pemeriksaan dan Penelitian Pajak Bumi dan Bangunan, belum menampung penyesuaian sebagaimana dimaksud dalam huruf a dan huruf b, sehingga perlu diganti;\nd. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, serta untuk melaksanakan ketentuan Pasal 17B ayat (1a), Pasal 30 ayat (2), dan Pasal 31 ayat (1) Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja Menjadi Undang-Undang, ketentuan Pasal 23 Undang-Undang Nomor 12 Tahun 1985 tentang Pajak Bumi dan Bangunan sebagaimana telah diubah dengan Undang-Undang Nomor 12 Tahun 1994 tentang Perubahan atas Undang-Undang Nomor 12 Tahun 1985 tentang Pajak Bumi dan Bangunan serta ketentuan Pasal 8 ayat (7) Peraturan Pemerintah Nomor 50 Tahun 2022 tentang Tata Cara Pelaksanaan Hak dan Pemenuhan Kewajiban Perpajakan, perlu menetapkan Peraturan Menteri Keuangan tentang Pemeriksaan Pajak;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 6 Tahun 1983, Undang-Undang Nomor 12 Tahun 1985, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 50 Tahun 2022, Peraturan Presiden Nomor 158 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengatur tentang ketentuan umum, kewenangan, tujuan, tipe, ruangan lingkup dan kriteria pemeriksaaan, standar pemeriksaan, jangka waktu pemeriksaan, kewajiban dan hak dalam pemeriksaan, pelaksanaan pemeriksaan, pelaporan pemeriksaan, penangguhan pemeriksaan, pemeriksaan ulang, ketentuan lain-lain, ketentuan peralohan dan ketentuan penutup.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 14 Februari 2025.\nPeraturan ini mencabut Peraturan Menteri Keuangan Nomor 17/PMK.03/2013 tentang Tata Cara Pemeriksaan, Peraturan Menteri Keuangan Nomor 256/PMK.03/2014 tentang Tata Cara Pemeriksaan dan Penelitian Pajak Bumi dan Bangunan dan Pasal 105 Peraturan Menteri Keuangan Nomor 18/PMK.03/2021 tentang Pelaksanaan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja di Bidang Pajak Penghasilan, Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, serta Ketentuan Umum dan Tata Cara Perpajakan dicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "PP-2022-50",
+  "PMK-2013-17",
+  "PMK-2021-18",
+  "UU-2020-11",
+  "PMK-2014-256",
+  "UU-1983-6",
+  "UU-2023-6",
+  "PERPPU-2022-2",
+  "UU-1985-12",
+  "UU-1994-12",
+  "UU-2008-39",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/375099/2025pmkeuangan015.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:09:30Z"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "PMK-2017-136",
+ "source": "bpk",
+ "bpk_id": 161067,
+ "url": "https://peraturan.bpk.go.id/Details/161067/pmk-no-136pmk052017",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "136",
+ "number_raw": "136/PMK.05/2017",
+ "year": 2017,
+ "title": "Peraturan Menteri Keuangan Nomor 136/PMK.05/2017 Tahun 2017 tentang Tarif Layanan Badan Layanan Umum Sekolah Tinggi Transportasi Darat Pada Kementerian Perhubungan",
+ "about": "Tarif Layanan Badan Layanan Umum Sekolah Tinggi Transportasi Darat Pada Kementerian Perhubungan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BADAN LAYANAN UMUM",
+ "field": "Alias",
+ "date_enacted": "2017-02-06",
+ "date_promulgated": "2017-02-11",
+ "date_effective": "2017-02-11",
+ "gazette": "BN.2017/NO.1413, jdih.kemenkeu.go.id : 7 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-22",
+   "target_bpk_id": 316120,
+   "label": "PMK No. 22 Tahun 2025",
+   "about": "Tarif Layanan Badan Layanan Umum Bidang Pendidikan dan Pelatihan Sumber Daya Manusia Perhubungan Pada Kementerian Perhubungan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 11 Februari 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/153692/136_PMK.05_2017.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:09:17Z"
+}

@@ -1,0 +1,51 @@
+{
+ "id": "PERPRES-2016-16",
+ "source": "bpk",
+ "bpk_id": 39763,
+ "url": "https://peraturan.bpk.go.id/Details/39763/perpres-no-16-tahun-2016",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "16",
+ "number_raw": "16",
+ "year": 2016,
+ "title": "Peraturan Presiden (Perpres) Nomor 16 Tahun 2016 tentang Tata Cara Pelantikan Gubernur dan Wakil Gubernur, Bupati dan Wakil Bupati, serta Walikota dan Wakil Walikota",
+ "about": "Tata Cara Pelantikan Gubernur dan Wakil Gubernur, Bupati dan Wakil Bupati, serta Walikota dan Wakil Walikota",
+ "issuer": "Pemerintah Pusat",
+ "subject": "KETATANEGARAAN, KENEGARAAN - PEMILIHAN UMUM DAERAH, DPRD, PEMILIHAN KEPALA DAERAH",
+ "field": "Alias",
+ "date_enacted": "2016-02-12",
+ "date_promulgated": "2016-02-12",
+ "date_effective": "2016-02-12",
+ "gazette": "LN.2016/NO.33, LL SETNEG : 11 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2025-13",
+   "target_bpk_id": 313865,
+   "label": "Perpres No. 13 Tahun 2025",
+   "about": "Perubahan Kedua atas Peraturan Presiden Nomor 16 Tahun 2016 tentang Tata Cara Pelantikan Gubernur dan Wakil Gubernur, Bupati dan Wakil Bupati, serta Walikota dan Wakil Walikota"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2024-80",
+   "target_bpk_id": 295708,
+   "label": "Perpres No. 80 Tahun 2024",
+   "about": "Perubahan atas Peraturan Presiden Nomor 16 Tahun 2016 tentang Tata Cara Pelantikan Gubernur dan Wakil Gubernur, Bupati dan Wakil Bupati, serta Walikota dan Wakil Walikota"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2014-167",
+   "target_bpk_id": 39768,
+   "label": "PERPRES No. 167 Tahun 2014",
+   "about": "Tata Cara Pelantikan Gubernur, Bupati, dan Walikota"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 12 Februari 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/29345/Perpres%20Nomor%2016%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:03:19Z"
+}

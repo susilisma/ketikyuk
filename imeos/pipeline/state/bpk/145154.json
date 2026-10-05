@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2016-60",
+ "source": "bpk",
+ "bpk_id": 145154,
+ "url": "https://peraturan.bpk.go.id/Details/145154/pmk-no-60pmk012016",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "60",
+ "number_raw": "60/PMK.01/2016",
+ "year": 2016,
+ "title": "Peraturan Menteri Keuangan Nomor 60/PMK.01/2016 Tahun 2016 tentang Manajemen Talenta Kementerian Keuangan",
+ "about": "Manajemen Talenta Kementerian Keuangan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "Alias",
+ "date_enacted": "2016-04-11",
+ "date_promulgated": "2016-04-12",
+ "date_effective": "2016-04-12",
+ "gazette": "BN.2016/NO.557, jdih.kemenkeu.go.id : 9 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-38",
+   "target_bpk_id": 320001,
+   "label": "PMK No. 38 Tahun 2025",
+   "about": "Manajemen Talenta Di Lingkungan Kementerian Keuangan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2017-161",
+   "target_bpk_id": 112865,
+   "label": "PMK No. 161/PMK.01/2017",
+   "about": "Perubahan Atas Peraturan Menteri Keuangan Nomor 60/PMK.01/2016 Tentang Manajemen Talenta Kementerian Keuangan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 12 April 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/136957/PMK%2060_PMK.01_2016.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:08:13Z"
+}

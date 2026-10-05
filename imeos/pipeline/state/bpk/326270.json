@@ -1,0 +1,43 @@
+{
+ "id": "PERMENKUM-2025-23",
+ "source": "bpk",
+ "bpk_id": 326270,
+ "url": "https://peraturan.bpk.go.id/Details/326270/permenkum-no-23-tahun-2025",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "23",
+ "number_raw": "23",
+ "year": 2025,
+ "title": "Peraturan Menteri Hukum Nomor 23 Tahun 2025 tentang Tata Cara Penyelesaian Kerugian Negara terhadap Pegawai Negeri Bukan Bendahara atau Pejabat Lain di Lingkungan Kementerian Hukum",
+ "about": "Tata Cara Penyelesaian Kerugian Negara terhadap Pegawai Negeri Bukan Bendahara atau Pejabat Lain di Lingkungan Kementerian Hukum",
+ "issuer": "Kementerian Hukum",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA - PENYELESAIAN KERUGIAN NEGARA DAN DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-06-10",
+ "date_promulgated": "2025-06-12",
+ "date_effective": "2025-06-12",
+ "gazette": "BN 2025 (405): 36 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 247317,
+   "label": "Permenkumham No. 5 Tahun 2023",
+   "about": "Tata Cara Penyelesaian Kerugian Negara Terhadap Pegawai Negeri Bukan Bendahara Atau Pejabat Lain di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 54 ayat (3) Peraturan Pemerintah Nomor 38 Tahun 2016 tentang Tata Cara Tuntutan Ganti Kerugian Negara/Daerah terhadap Pegawai Negeri Bukan Bendahara atau Pejabat Lain, perlu mengatur mengenai tata cara penyelesaian kerugian negara terhadap Pegawai Negeri bukan Bendahara dan Pejabat lain di lingkungan Kementerian Hukum.\nDasar hukum Permenkum ini adalah Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU No. 39 Tahun 2008; PP No. 14 Tahun 2005; PP No. 38 Tahun 2016; Perpres No. 155 Tahun 2024; PMK No. 163/PMK.06/2020; dan Permenkum No. 1 Tahun 2024.\nPermenkum ini mengatur mengenai Tata Cara Penyelesaian Kerugian Negara terhadap Pegawai Negeri Bukan Bendahara atau Pejabat Lain di Lingkungan Kementerian Hukum. Tata cara penyelesaian Kerugian Negara yang diatur dalam Peraturan Menteri ini ditujukan bagi pelaksanaan Tuntutan Ganti Kerugian Negara di Lingkungan Kementerian atas uang, surat berharga, dan/atau barang milik negara yang berada dalam penguasaan: a. Pegawai Negeri Bukan Bendahara; dan b. Pejabat Lain. Tuntutan Ganti Kerugian tersebut berlaku pula terhadap uang dan/atau barang bukan milik negara yang digunakan dalam penyelenggaraan tugas pemerintahan di lingkungan Kementerian.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 12 Juni 2025.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 5 Tahun 2023 (Berita Negara Republik Indonesia Tahun 2023 Nomor 101) tentang Tata Cara Penyelesaian Kerugian Negara di Lingkungan Kementerian Hukum dan Hak Asasi Manusia dicabut dan dinyatakan tidak berlaku.\nLampiran file: 36 hlm.",
+ "citations": [
+  "PP-2016-38",
+  "UU-2008-39",
+  "PP-2005-14",
+  "PERPRES-2024-155",
+  "PMK-2020-163"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/388079/Permenkum%20Nomor%2023%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:19:23Z"
+}

@@ -1,0 +1,148 @@
+{
+ "id": "PMK-2021-18",
+ "source": "bpk",
+ "bpk_id": 162653,
+ "url": "https://peraturan.bpk.go.id/Details/162653/pmk-no-18pmk032021",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "18",
+ "number_raw": "18/PMK.03/2021",
+ "year": 2021,
+ "title": "Peraturan Menteri Keuangan Nomor 18/PMK.03/2021 Tahun 2021 tentang Pelaksanaan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja di Bidang Pajak Penghasilan, Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, serta Ketentuan Umum dan Tata Cara Perpajakan",
+ "about": "Pelaksanaan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja di Bidang Pajak Penghasilan, Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, serta Ketentuan Umum dan Tata Cara Perpajakan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "Alias",
+ "date_enacted": "2021-02-17",
+ "date_promulgated": "2021-02-17",
+ "date_effective": "2021-02-17",
+ "gazette": "BN.2021/NO. 153, https:jdih.kemenkeu.go.id : 158 Hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PMK-2025-17",
+   "target_bpk_id": 315058,
+   "label": "PMK No. 17 Tahun 2025",
+   "about": "Penyidikan Tindak Pidana Di Bidang Perpajakan"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PMK-2022-177",
+   "target_bpk_id": 232898,
+   "label": "PMK No. 177/PMK.03/2022",
+   "about": "Tata Cara Pemeriksaan Bukti Permulaan Tindak Pidana di Bidang Perpajakan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2018-65",
+   "target_bpk_id": 112485,
+   "label": "PMK No. 65/PMK.03/2018",
+   "about": "Perubahan Kedua Atas Peraturan Menteri Keuangan Nomor 226/PMK.03/2013 Tentang Tata Cara Penghitungan dan Pemberian Imbalan Bunga"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2015-186",
+   "target_bpk_id": 121781,
+   "label": "PMK No. 186/PMK.03/2015",
+   "about": "Perubahan Atas Peraturan Menteri Keuangan Nomor 226/PMK.03/2013 Tentang Tata Cara Penghitungan Dan Pemberian Imbalan Bunga"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2014-31",
+   "target_bpk_id": 147939,
+   "label": "PMK No. 31/PMK.03/2014",
+   "about": "Saat Penghitungan dan Tata Cara Pembayaran Kembali Pajak Masukan yang Telah Dikreditkan dan Telah Diberikan Pengembalian Bagi Pengusaha Kena Pajak yang Mengalami Keadaan Gagal Berproduksi."
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2013-226",
+   "target_bpk_id": 150621,
+   "label": "PMK No. 226/PMK.03/2013",
+   "about": "Tata Cara Penghitungan dan Pemberian Imbalan Bunga"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2013-151",
+   "target_bpk_id": 150148,
+   "label": "PMK No. 151/PMK.03/2013",
+   "about": "Tata Cara Pembuatan dan Tata Cara Pembetulan atau Penggantian Faktur Pajak"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PMK-2018-9",
+   "target_bpk_id": 111956,
+   "label": "PMK No. 9/PMK.03/2018",
+   "about": "Perubahan Atas Peraturan Menteri Keuangan Nomor 243/PMK.03/2014 Tentang Surat Pemberitahuan (Spt)"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PMK-2016-55",
+   "target_bpk_id": 144974,
+   "label": "PMK No. 55/PMK.03/2016",
+   "about": "Tata Cara Permintaan Penghentian Penyidikan Tindak Pidana di Bidang Perpajakan untuk Kepentingan Penerimaan Negara"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PMK-2015-184",
+   "target_bpk_id": 121777,
+   "label": "PMK No. 184/PMK.03/2015",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 17/PMK.03/2013 tentang Tata Cara Pemeriksaan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PMK-2015-183",
+   "target_bpk_id": 121772,
+   "label": "PMK No. 183/PMK.03/2015",
+   "about": "Perubahan Atas Peraturan Menteri Keuangan Nomor 145/PMK.03/2012 Tentang Tata Cara Penerbitan Surat Ketetapan Pajak Dan Surat Tagihan Pajak"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PMK-2014-243",
+   "target_bpk_id": 122018,
+   "label": "PMK No. 243/PMK.03/2014",
+   "about": "Surat Pemberitahuan (SPT)"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PMK-2014-242",
+   "target_bpk_id": 121991,
+   "label": "PMK No. 242/PMK.03/2014",
+   "about": "Tata Cara Pembayaran Dan Penyetoran Pajak"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PMK-2014-239",
+   "target_bpk_id": 121987,
+   "label": "PMK No. 239/PMK.03/2014",
+   "about": "Tata Cara Pemeriksaan Bukti Permulaan Tindak Pidana Di Bidang Perpajakan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PMK-2013-17",
+   "target_bpk_id": 149608,
+   "label": "PMK No. 17/PMK.03/2013",
+   "about": "Tata Cara Pemeriksaan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PMK-2012-145",
+   "target_bpk_id": 126988,
+   "label": "PMK No. 145/PMK.03/2012",
+   "about": "Tata Cara Penerbitan Surat Ketetapan Pajak dan Surat Tagihan Pajak"
+  }
+ ],
+ "abstract": "Bahwa untuk melaksanakan ketentuan Pasal 9 ayat (3a), Pasal 9 ayat (4), Pasal 13 ayat (6), Pasal 14 ayat (6), Pasal 15 ayat (5), Pasal 17B ayat (1a), Pasal 27B ayat (8), dan Pasal 44B ayat (3) UndangUndang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja, perlu menetapkan Peraturan Menteri Keuangan tentang Pelaksanaan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja di Bidang Pajak Penghasilan, Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, serta Ketentuan Umum dan Tata Cara Perpajakan.\nPasal 17 ayat (3) UUD Tahun 1945, UU 6 Tahun 1983 (LN Tahun 1983 No. 49, TLN No. 3262) sebagaimana telah beberapa kali diubah terakhir dengan UU 11 Tahun 2020 (LN Tahun 2020 No. 245, TLN No. 6573), UU 7 Tahun 1983 (LN Tahun 1983 No. 50, TLN No. 3263) sebagaimana telah beberapa kali diubah terakhir dengan UU 11 Tahun 2020 (LN Tahun 2020 No. 245, TLN No. 6573), UU 8 Tahun 1983 (LN Tahun 1983 No. 51, TLN No. 3264) sebagaimana telah beberapa kali diubah terakhir dengan UU 11 Tahun 2020 (LN Tahun 2020 No. 245, TLN No. 6573), UU 39 Tahun 2008 (LN Tahun 2008 No. 166, TLN No. 4916), UU 11 Tahun 2020 (LN Tahun 2020 No. 245, TLN No. 6573), Perpres 57 Tahun 2020 (LN Tahun 2020 No. 98), Permenkeu RI 145/PMK.03/2012 (BN Tahun 2012 No. 902) sebagaimana telah diubah dengan Permenkeu RI 183/PMK.03/2015 (BN Tahun 2015 No. 1467), Permenkeu RI 17/PMK.03/2013 (BN Tahun 2013 No. 47) sebagaimana telah diubah dengan\nPermenkeu RI 184/PMK.03/2015 (BN Tahun 2015 No. 1468), Permenkeu RI 239/PMK.03/2014 (BN Tahun 2014 No. 1951), Permenkeu RI 242/PMK.03/2014 (BN Tahun 2014 No. 1973), Permenkeu RI 243/PMK.03/2014 (BN Tahun 2014 No. 1974) sebagaimana telah diubah dengan Permenkeu RI 9/PMK.03/2018 (BN Tahun 2018 No. 180), Permenkeu RI 55/PMK.03/2016 (BN Tahun 2016 No. 538), Permenkeu RI 217/PMK.01/2018 (BN Tahun 2018 No. 1862) sebagaimana telah beberapa kali diubah terakhir dengan Permenkeu RI229/PMK.01/2019 (BN Tahun 2019 No. 1745).\nOrang pribadi yang menjadi subjek pajak dalam negeri merupakan orang pribadi WNI maupun WNA yang bertempat tinggal di Indonesia, berada di Indonesia lebih dari 183 (seratus delapan puluh tiga) hari dalam jangka waktu 12 (dua belas) bulan, atau dalam suatu Tahun Pajak berada di Indonesia dan mempunyai niat untuk bertempat tinggal di Indonesia. Atas penghasilan, baik yang berasal dari Indonesia maupun dari luar Indonesia, dikenai PPh sesuai dengan ketentuan peraturan perundangundangan di bidang PPh. WNA dapat memilih untuk dikenai PPh hanya atas penghasilan yang diterima atau diperoleh di Indonesia atau memanfaatkan P3B antara Pemerintah Indonesia dan pemerintah negara mitra atau yurisdiksi mitra tempat WNA memperoleh penghasilan dari luar Indonesia. WNA yang memilih untuk dikenai PPh hanya atas penghasilan yang diterima atau diperoleh dari Indonesia harus mengajukan permohonan kepada Direktur Jenderal Pajak. Atas Dividen yang berasal dari dalam negeri yang diterima atau diperoleh Wajib Pajak sejak berlakunya Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja yang dikecualikan dari objek PPh yang telah dilakukan pemotongan PPh, dapat diajukan permohonan pengembalian atas kelebihan pembayaran pajak yang seharusnya tidak terutang yang dilaksanakan berdasarkan Peraturan Menteri Keuangan mengenai tata cara pengembalian atas kelebihan pembayaran pajak yang seharusnya tidak terutang. Jangka waktu tertentu bagi PKP Belum Melakukan Penyerahan dan telah melakukan pengkreditan Pajak Masukan atas perolehan barang modal sebelum tanggal 2 November 2020, ditetapkan sesuai dengan ketentuan dalam Peraturan Menteri ini. Permohonan pengangsuran atau penundaan pembayaran pajak yang belum diselesaikan sampai dengan Peraturan Menteri ini berlaku, diselesaikan berdasarkan ketentuan sebagaimana diatur dalam Peraturan Menteri Keuangan Nomor 242/PMK.03/2014 tentang Tata Cara Pembayaran dan Penyetoran Pajak. Pemeriksaan Bukti Pasal 114 Permulaan yang telah mendapat persetujuan perpanjangan jangka waktu Pemeriksaan Bukti Permulaan sebelum Peraturan Menteri ini berlaku, diselesaikan sesuai jangka waktu yang ditentukan dalam persetujuan perpanjangan dimaksud berdasarkan ketentuan sebagaimana diatur dalam Peraturan Menteri Keuangan Nomor 239/PMK.03/2014 tentang Tata Cara Pemeriksaan Bukti Permulaan Tindak Pidana di Bidang Perpajakan. Permohonan penghentian Penyidikan tindak pidana di bidang perpajakan yang belum\ndiselesaikan sampai dengan Peraturan Menteri ini berlaku, diselesaikan berdasarkan ketentuan sebagaimana diatur dalam Peraturan Menteri Keuangan Nomor 55/PMK.03/2016 tentang Tata Cara Permintaan Penghentian Penyidikan Tindak Pidana di Bidang Perpajakan untuk Kepentingan Penerimaan Negara.",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 17 Februari 2021.\nPada saat Peraturan Menteri ini mulai berlaku, Permenkeu RI 151/PMK.03/2013, Permenkeu RI 226/PMK.03/2013 sebagaimana telah beberapa kali diubah terakhir dengan Permenkeu RI 65/PMK.03/2018, dan Permenkeu RI 31/PMK.03/2014 , dicabut dan dinyatakan tidak berlaku\n-\n288 HLM, Lampiran halaman 158 – 288.",
+ "citations": [
+  "UU-2020-11",
+  "PMK-2014-242",
+  "PMK-2014-239",
+  "PMK-2016-55"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/155338/18_PMK.03_2021_1.pdf",
+  "https://peraturan.bpk.go.id/Download/155339/18_PMK.03_2021_2.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:09:27Z"
+}

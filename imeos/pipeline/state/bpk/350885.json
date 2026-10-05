@@ -1,0 +1,42 @@
+{
+ "id": "PERMENKUM-2025-34",
+ "source": "bpk",
+ "bpk_id": 350885,
+ "url": "https://peraturan.bpk.go.id/Details/350885/permenkum-no-34-tahun-2025",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "34",
+ "number_raw": "34",
+ "year": 2025,
+ "title": "Peraturan Menteri Hukum Nomor 34 Tahun 2025 tentang Paralegal dalam Pemberian Bantuan Hukum",
+ "about": "Paralegal dalam Pemberian Bantuan Hukum",
+ "issuer": "Kementerian Hukum",
+ "subject": "HAK ASASI MANUSIA - HUKUM ACARA DAN PERADILAN",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2025-10-02",
+ "date_promulgated": "2025-11-03",
+ "date_effective": "2025-11-03",
+ "gazette": "BN 2025 (901): 8 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 170944,
+   "label": "Permenkumham No. 3 Tahun 2021",
+   "about": "Paralegal Dalam Pemberian Bantuan Hukum"
+  }
+ ],
+ "abstract": "Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 3 Tahun 2021 tentang Paralegal dalam Pemberian Bantuan Hukum sudah tidak sesuai dengan perkembangan dan kebutuhan hukum masyarakat, sehingga perlu diganti.\nDasar hukum Permenkum ini adalah Pasal 17 ayat (3) UUD 1945; UU No. 39 Tahun 2008; UU No. 16 Tahun 2011; Perpres No. 155 Tahun 2024; dan Permenkum No. 1 Tahun 2024.\nPermenkum ini mengatur mengenai Paralegal dalam Pemberian Bantuan Hukum. Bantuan Hukum adalah jasa hukum yang diberikan oleh Pemberi Bantuan Hukum secara cuma-cuma kepada Penerima Bantuan Hukum. Sedangkan Paralegal adalah setiap orang yang memberikan bantuan hukum berdasarkan penugasan dari Pemberi Bantuan Hukum. Paralegal dalam pemberian Bantuan Hukum berhak mendapatkan: a. peningkatan kapasitas dalam pemberian Bantuan Hukum dari Pemberi Bantuan Hukum; dan b. jaminan perlindungan hukum, keamanan dan keselamatan.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 03 November 2025.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 3 Tahun 2021 tentang Paralegal dalam Pemberian Bantuan Hukum (Berita Negara Republik Indonesia Tahun 2021 Nomor 96), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 8 hlm.",
+ "citations": [
+  "PERMENKUMHAM-2021-3",
+  "UU-2008-39",
+  "UU-2011-16",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/414640/Permenkum%20Nomor%2034%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:18:53Z"
+}

@@ -12,7 +12,7 @@
  "about": "Nomor dan Nama Rekening Kas Umum Negara",
  "issuer": "Kementerian Keuangan",
  "subject": "PENGELOLAAN KEUANGAN NEGARA / DAERAH",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2012-02-23",
  "date_promulgated": "2012-02-23",
  "date_effective": "2012-02-23",
@@ -47,5 +47,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/142940/PMK%20Nomor%2031%20Tahun%202012.pdf"
  ],
- "fetched_at": "2026-09-14T06:32:59Z"
+ "fetched_at": "2026-10-05T05:07:25Z"
 }

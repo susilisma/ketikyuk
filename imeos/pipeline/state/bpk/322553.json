@@ -1,0 +1,47 @@
+{
+ "id": "PMK-2025-26",
+ "source": "bpk",
+ "bpk_id": 322553,
+ "url": "https://peraturan.bpk.go.id/Details/322553/pmk-no-26-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "26",
+ "number_raw": "26",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 26 Tahun 2025 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 148/PMK.02/2021 tentang Tata Cara Penyediaan, Pencairan, Penggunaan, dan Pertanggungjawaban Dana Awal dan Akumulasi Iuran Program Jaminan Kehilangan Pekerjaan",
+ "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 148/PMK.02/2021 tentang Tata Cara Penyediaan, Pencairan, Penggunaan, dan Pertanggungjawaban Dana Awal dan Akumulasi Iuran Program Jaminan Kehilangan Pekerjaan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PENGELOLAAN KEUANGAN NEGARA / DAERAH - KESEJAHTERAAN RAKYAT, KESEJAHTERAAN SOSIAL",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-04-14",
+ "date_promulgated": "2025-04-17",
+ "date_effective": "2025-04-17",
+ "gazette": "BN 2025 (264)/9 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PMK-2021-148",
+   "target_bpk_id": 185199,
+   "label": "PMK No. 148/PMK.02/2021",
+   "about": "Tata Cara Penyediaan, Pencairan, Penggunaan, dan Pertanggungjawaban Dana Awal dan Akumulasi Iuran Program Jaminan Kehilangan Pekerjaan"
+  }
+ ],
+ "abstract": "a. bahwa untuk meningkatkan efektivitas dan realisasi pelaksanaan program jaminan kehilangan pekerjaan, perlu dilakukan penyesuaian nilai besaran manfaat pelatihan kerja sesuai dengan perkembangan dan kebutuhan masyarakat;\nb. bahwa ketentuan mengenai iuran jaminan kehilangan pekerjaan yang diatur dalam Peraturan Pemerintah Nomor 37 Tahun 2021 tentang Penyelenggaraan Program Jaminan Kehilangan Pekerjaan sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 6 Tahun 2025 tentang Perubahan atas Peraturan Pemerintah Nomor 37 Tahun 2021 tentang Penyelenggaraan Program Jaminan Kehilangan Pekerjaan telah mengalami perubahan mendasar, sehingga perlu dilakukan penyesuaian;\nc. bahwa ketentuan dalam Peraturan Menteri Keuangan Nomor 148/PMK.02/2021 tentang Tata Cara Penyediaan, Pencairan, Penggunaan, dan Pertanggungjawaban Dana Awal dan Akumulasi Iuran Program Jaminan Kehilangan Pekerjaan sudah tidak sesuai lagi dengan perkembangan dan kebutuhan hukum sehingga perlu diubah;\nd. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Menteri Keuangan tentang Perubahan atas Peraturan Menteri Keuangan Nomor 148/PMK.02/2021 tentang Tata Cara Penyediaan, Pencairan, Penggunaan, dan Pertanggungjawaban Dana Awal dan Akumulasi Iuran Program Jaminan Kehilangan Pekerjaan;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 13 Tahun 2003 telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 24 Tahun 2011, Peraturan Pemerintah Nomor 37 Tahun 2021, Peraturan Presiden Republik Indonesia Nomor 158 Tahun 2024, Peraturan Menteri Keuangan Nomor 62 Tahun 2023 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024.\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 148/PMK.02/2021 tentang Tata Cara Penyediaan,\nPencairan, Penggunaan, dan Pertanggungjawaban Dana Awal dan Akumulasi Iuran Program Jaminan Kehilangan Pekerjaan yaitu tentang ketentuan umum, Pencairan dana Iuran Peserta, surat tagihan dana Iuran Peserta kepada KPA, rekonsiliasi atau perhitungan kembali dana Iuran\nPeserta yang telah dicairkan atau ditagihkan dan pelatihan kerja",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 17 April 2025.\nPeraturan ini mengubah PMK Nomor 148/PMK.02/2021 tentang Tata Cara Penyediaan, Pencairan, Penggunaan, dan Pertanggungjawaban Dana Awal dan Akumulasi Iuran Program Jaminan Kehilangan Pekerjaan",
+ "citations": [
+  "PP-2021-37",
+  "PP-2025-6",
+  "PMK-2021-148",
+  "UU-2003-13",
+  "UU-2023-6",
+  "UU-2008-39",
+  "UU-2011-24",
+  "PMK-2023-62",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/384354/PMK_26_Tahun_2025%20Tata%20Cara%20Iuran%20Program%20Jaminan%20Kehilangan%20Pekerjaaan.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:08:39Z"
+}

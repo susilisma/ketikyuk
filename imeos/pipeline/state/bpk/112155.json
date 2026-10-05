@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKES-2017-52",
+ "source": "bpk",
+ "bpk_id": 112155,
+ "url": "https://peraturan.bpk.go.id/Details/112155/permenkes-no-52-tahun-2017",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "52",
+ "number_raw": "52",
+ "year": 2017,
+ "title": "Peraturan Menteri Kesehatan Nomor 52 Tahun 2017 tentang Eliminasi Penularan Human Immunodeficiency Virus, Sifilis, dan Hepatitis B dari Ibu ke Anak",
+ "about": "Eliminasi Penularan Human Immunodeficiency Virus, Sifilis, dan Hepatitis B dari Ibu ke Anak",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - KELUARGA, PERLINDUNGAN ANAK, PEREMPUAN / WANITA",
+ "field": "Alias",
+ "date_enacted": "2017-11-13",
+ "date_promulgated": "2017-11-15",
+ "date_effective": "2017-11-15",
+ "gazette": "BN.2017/NO.1614, kemkes.go.id : 14 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PERMENKES-2026-3",
+   "target_bpk_id": 350854,
+   "label": "Permenkes No. 3 Tahun 2026",
+   "about": "Penanggulangan Penyakit"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 15 November 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/103103/Permenkes%20Nomor%2052%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:23:01Z"
+}

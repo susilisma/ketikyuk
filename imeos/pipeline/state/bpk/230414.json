@@ -1,0 +1,39 @@
+{
+ "id": "PERPRES-2022-126",
+ "source": "bpk",
+ "bpk_id": 230414,
+ "url": "https://peraturan.bpk.go.id/Details/230414/perpres-no-126-tahun-2022",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "126",
+ "number_raw": "126",
+ "year": 2022,
+ "title": "Peraturan Presiden (Perpres) Nomor 126 Tahun 2022 tentang Percepatan Pembangunan Pergaraman Nasional",
+ "about": "Percepatan Pembangunan Pergaraman Nasional",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERIKANAN DAN KELAUTAN",
+ "field": "Alias",
+ "date_enacted": "2022-10-27",
+ "date_promulgated": "2022-10-27",
+ "date_effective": "2022-10-27",
+ "gazette": "LN.2022/No.209, jdih.setneg.go.id: 8 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2025-17",
+   "target_bpk_id": 316706,
+   "label": "Perpres No. 17 Tahun 2025",
+   "about": "Percepatan Pembangunan Pergaraman Nasional"
+  }
+ ],
+ "abstract": "Perlindungan dan pemberdayaan petambak garam berdasarkan Undang-Undang Nomor 7 Tahun 2016 tentang Perlindungan dan Pemberdayaan Nelayan, Pembudi Daya Ikan, dan Petambak Garam perlu diarahkan untuk peningkatan usaha pergaraman di dalam negeri.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 dan UU Nomor 7 Tahun 2016.\nPerpres ini mengatur mengenai upaya percepatan pembangunan pergaraman nasional yang dilaksanakan pada SEGAR. SEGAR atau Sentra Ekonomi Garam Rakyat adalah kawasan usaha pergaraman yang dilakukan secara terintegrasi. SEGAR ditetapkan pada provinsi yang memiliki potensi pengembangan Usaha Pergaraman dengan kriteria: 1) tersedia lahan untuk produksi Garam; 2) tersedia prasarana dan sarana Usaha Pergaraman; 3) terdapat pangsa pasar Garam; dan 4) terdapat dukungan dari Pemerintah Pusat, Pemerintah Daerah, dan/atau pemangku kepentingan.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 27 Oktober 2022.\nPendanaan pelaksanaan rencana aksi percepatan pembangunan Pergaraman nasional dan rencana induk pergaraman daerah bersumber dari: APBN; APBD; dan/atau sumber lainnya yang sah dan tidak mengikat sesuai dengan ketentuan peraturan perundang-undangan.\nLampiran file: 48 hlm (Batang tubuh 8 hlm; Lampiran 40 hlm).",
+ "citations": [
+  "UU-2016-7"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/241575/Perpres%20Nomor%20126%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:03:09Z"
+}

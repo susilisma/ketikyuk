@@ -12,7 +12,7 @@
  "about": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2014 tentang Perubahan atas Undang-Undang Nomor 23 Tahun 2014 Tentang Pemerintahan Daerah Menjadi Undang-Undang",
  "issuer": "Pemerintah Pusat",
  "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH - PARTAI POLITIK DAN PEMILU",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2015-02-02",
  "date_promulgated": "2015-02-02",
  "date_effective": "2015-02-02",
@@ -71,5 +71,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/26778/UU%20Nomor%202%20Tahun%202015.pdf"
  ],
- "fetched_at": "2026-09-14T05:23:25Z"
+ "fetched_at": "2026-10-05T04:55:20Z"
 }

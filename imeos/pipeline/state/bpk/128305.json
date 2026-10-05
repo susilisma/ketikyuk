@@ -1,0 +1,37 @@
+{
+ "id": "PMK-2019-188",
+ "source": "bpk",
+ "bpk_id": 128305,
+ "url": "https://peraturan.bpk.go.id/Details/128305/pmk-no-188pmk052019",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "188",
+ "number_raw": "188/PMK.05/2019",
+ "year": 2019,
+ "title": "Peraturan Menteri Keuangan Nomor 188/PMK.05/2019 Tahun 2019 tentang Tarif Layanan Badan Layanan Umum Balai Pendidikan Dan Pelatihan Penerbangan Curug Padsa Kementerian Perhubungan",
+ "about": "Tarif Layanan Badan Layanan Umum Balai Pendidikan Dan Pelatihan Penerbangan Curug Padsa Kementerian Perhubungan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BADAN LAYANAN UMUM",
+ "field": "Alias",
+ "date_enacted": "2019-12-17",
+ "date_promulgated": "2019-12-17",
+ "date_effective": "2020-01-02",
+ "gazette": "BN. 1628 Tahun 2019, JDIH.KEMENKEU.GO.ID : 10 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-22",
+   "target_bpk_id": 316120,
+   "label": "PMK No. 22 Tahun 2025",
+   "about": "Tarif Layanan Badan Layanan Umum Bidang Pendidikan dan Pelatihan Sumber Daya Manusia Perhubungan Pada Kementerian Perhubungan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 02 Januari 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/119290/188~PMK.05~2019Per.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:09:05Z"
+}

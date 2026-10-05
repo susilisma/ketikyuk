@@ -1,0 +1,53 @@
+{
+ "id": "PERMENDAG-2021-3",
+ "source": "bpk",
+ "bpk_id": 166278,
+ "url": "https://peraturan.bpk.go.id/Details/166278/permendag-no-3-tahun-2021",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "3",
+ "number_raw": "3",
+ "year": 2021,
+ "title": "Peraturan Menteri Perdagangan Nomor 3 Tahun 2021 tentang Petunjuk Teknis Jabatan Fungsional Penguji Mutu Barang",
+ "about": "Petunjuk Teknis Jabatan Fungsional Penguji Mutu Barang",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA - JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "Alias",
+ "date_enacted": "2021-01-25",
+ "date_promulgated": "2021-01-28",
+ "date_effective": "2021-01-28",
+ "gazette": "BN.2021/No. 64; http://jdih.kemendag.go.id : 64 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2025-4",
+   "target_bpk_id": 320775,
+   "label": "Permendag No. 4 Tahun 2025",
+   "about": "Petunjuk Pelaksanaan dan Petunjuk Teknis Jabatan Fungsional di Bidang Perdagangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2016-55",
+   "target_bpk_id": 128884,
+   "label": "Permendag No. 55/M-DAG/PER/7/2016 Tahun 2016",
+   "about": "Uji Kompetensi Jabatan Fungsional Penguji Mutu Barang"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2015-15",
+   "target_bpk_id": 166338,
+   "label": "Permendag No. 15/M-DAG/PER/1/2015 Tahun 2015",
+   "about": "Ketentuan Pelaksanaan Peraturan Menteri Pendayagunaan Aparatur Negara Dan Reformasi Birokrasi Republik Indonesia Nomor 37 Tahun 2014"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 28 Januari 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/159193/Permendag%20Nomor%2003%20Tahun%202021_1.pdf",
+  "https://peraturan.bpk.go.id/Download/159194/Permendag%20Nomor%2003%20Tahun%202021_2_1.pdf",
+  "https://peraturan.bpk.go.id/Download/159195/Permendag%20Nomor%2003%20Tahun%202021_2_2.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:12:11Z"
+}

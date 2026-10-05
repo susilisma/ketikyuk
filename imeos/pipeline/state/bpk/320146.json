@@ -1,0 +1,41 @@
+{
+ "id": "PP-2025-21",
+ "source": "bpk",
+ "bpk_id": 320146,
+ "url": "https://peraturan.bpk.go.id/Details/320146/pp-no-21-tahun-2025",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "21",
+ "number_raw": "21",
+ "year": 2025,
+ "title": "Peraturan Pemerintah (PP) Nomor 21 Tahun 2025 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Kementerian Luar Negeri",
+ "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Kementerian Luar Negeri",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-05-06",
+ "date_promulgated": "2025-05-06",
+ "date_effective": "2025-07-07",
+ "gazette": "LN 2025 (70), TLN (7108) : 8 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PP-2016-49",
+   "target_bpk_id": 5770,
+   "label": "PP No. 49 Tahun 2016",
+   "about": "Jenis Dan Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Berlaku Pada Kementerian Luar Negeri"
+  }
+ ],
+ "abstract": "Untuk melakukan penyesuaian jenis dan tarif atas jenis Penerimaan Negara Bukan Pajak yang berlaku pada Kementerian Luar Negeri sebagaimana telah diatur dalam Peraturan Pemerintah Nomor 49 Tahun 2016 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan pajak yang Berlaku pada Kementerian Luar Negeri, perlu mengatur kembali jenis dan tarif atas jenis Penerimaan Negara Bukan Pajak yang berlaku pada Kementerian Luar Negeri.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD NRI Tahun 1945, UU No. 9 Tahun 2018, dan PP No. 69 Tahun 2020.\nPP ini mengatur mengenai Jenis Penerimaan Negara Bukan Pajak yang berlaku pada Kementerian Luar Negeri yang terdiri dari: penerimaan dalam negeri atas legalisasi dokumen, penerimaan luar negeri atas penerbitan dokumen, dan penerimaan luar negeri atas pengesahan tanda tangan atau legalisasi salinan dokumen. Tarif atas jenis Penerimaan Negara Bukan Pajak mengacu pada ketentuan peraturan perundang-undangan mengenai jenis dan tarif atas jenis Penerimaan Negara Bukan Pajak yang berlaku pada kementerian/lembaga bersangkutan. Peraturan ini menegaskan bahwa Seluruh Penerimaan Negara Bukan Pajak yang berlaku pada Kementerian Luar Negeri wajib disetor ke Kas Negara.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 07 Juli 2025.\nPada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 49 Tahun 2016 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Kementerian Luar Negeri (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 233, Tambahan Lembaran Negara Republik Indonesia Nomor 5944), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 8 hlm (batang tubuh hlm 1 sd 5 dan penjelasan hlm 6 sd 8)",
+ "citations": [
+  "PP-2016-49",
+  "UU-2018-9",
+  "PP-2020-69"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/381779/PP%20Nomor%2021%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T04:58:55Z"
+}

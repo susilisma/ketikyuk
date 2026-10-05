@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKUMHAM-2018-23",
+ "source": "bpk",
+ "bpk_id": 133163,
+ "url": "https://peraturan.bpk.go.id/Details/133163/permenkumham-no-23-tahun-2018",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "23",
+ "number_raw": "23",
+ "year": 2018,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 23 Tahun 2018 tentang Pengharmonisasian Rancangan Peraturan Menteri, Rancangan Peraturan Lembaga Pemerintah Nonkementerian, atau Rancangan Peraturan dari Lembaga Nonstruktural oleh Perancang Peraturan Perundang-Undangan",
+ "about": "Pengharmonisasian Rancangan Peraturan Menteri, Rancangan Peraturan Lembaga Pemerintah Nonkementerian, atau Rancangan Peraturan dari Lembaga Nonstruktural oleh Perancang Peraturan Perundang-Undangan",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA",
+ "field": "Alias",
+ "date_enacted": "2018-08-23",
+ "date_promulgated": "2018-08-23",
+ "date_effective": "2018-09-23",
+ "gazette": "BN.2018/NO.1134, peraturan.go.id : 10 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 357127,
+   "label": "Permenkum No. 7 Tahun 2026",
+   "about": "Tata Cara Pengharmonisasian, Pembulatan, dan Pemantapan Konsepsi Rancangan Undang-Undang, Rancangan Peraturan Pemerintah, Rancangan Peraturan Presiden, dan Rancangan Peraturan Menteri/Badan/Lembaga/Komisi"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 23 September 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/123951/Permenkumham%20Nomor%2023%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:17:30Z"
+}

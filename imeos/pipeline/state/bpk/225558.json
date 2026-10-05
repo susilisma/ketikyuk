@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKUMHAM-2022-9",
+ "source": "bpk",
+ "bpk_id": 225558,
+ "url": "https://peraturan.bpk.go.id/Details/225558/permenkumham-no-9-tahun-2022",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "9",
+ "number_raw": "9",
+ "year": 2022,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 9 Tahun 2022 tentang Pelaksanaan Peraturan Pemerintah Nomor 56 Tahun 2021 tentang Pengelolaan Royalti Hak Cipta Lagu dan/atau Musik",
+ "about": "Pelaksanaan Peraturan Pemerintah Nomor 56 Tahun 2021 tentang Pengelolaan Royalti Hak Cipta Lagu dan/atau Musik",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "HAK ATAS KEKAYAAN INTELEKTUAL",
+ "field": "Alias",
+ "date_enacted": "2022-05-14",
+ "date_promulgated": "2022-04-25",
+ "date_effective": "2022-04-25",
+ "gazette": "BN.2022/No.437, peraturan.go.id: 30 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 326273,
+   "label": "Permenkum No. 27 Tahun 2025",
+   "about": "Peraturan Pelaksanaan Peraturan Pemerintah Nomor 56 Tahun 2021 tentang Pengelolaan Royalti Hak Cipta Lagu dan/atau Musik"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 174159,
+   "label": "Permenkumham No. 20 Tahun 2021",
+   "about": "Peraturan Pelaksanaan Peraturan Pemerintah Nomor 56 Tahun 2021 tentang Pengelolaan Royalti Hak Cipta Lagu dan/atau Musik"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 25 April 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/220199/Nomor%209%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:19:14Z"
+}

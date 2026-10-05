@@ -1,0 +1,60 @@
+{
+ "id": "PERMENKOMINFO-2026-8",
+ "source": "bpk",
+ "bpk_id": 346039,
+ "url": "https://peraturan.bpk.go.id/Details/346039/permenkomdigi-no-8-tahun-2026",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Digital",
+ "number": "8",
+ "number_raw": "8",
+ "year": 2026,
+ "title": "Peraturan Menteri Komunikasi dan Digital Nomor 8 Tahun 2026 tentang Tabel Alokasi Spektrum Frekuensi Radio Indonesia",
+ "about": "Tabel Alokasi Spektrum Frekuensi Radio Indonesia",
+ "issuer": "Kementerian Komunikasi dan Digital",
+ "subject": "TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-02-20",
+ "date_promulgated": "2026-02-24",
+ "date_effective": "2026-02-24",
+ "gazette": "BN 2026 (126); 185 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 285074,
+   "label": "Permenkominfo No. 12 Tahun 2022",
+   "about": "Tabel Alokasi Spektrum Frekuensi Radio Indonesia"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 161754,
+   "label": "Permenkominfo No. 31 Tahun 2014",
+   "about": "Rencana Induk (Masterplan) Frekuensi Radio Penyelenggaraan Telekomunikasi Khusus untuk Keperluan Televisi Siaran Analog pada Pita Ultra High Frequency"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": null,
+   "target_bpk_id": 151081,
+   "label": "Permenkominfo No. 18 Tahun 2015",
+   "about": "Perencanaan Penggunaan Spektrum Frekuensi Radio pada Pita Frekuensi Radio 350 – 438 Mhz"
+  }
+ ],
+ "abstract": "bahwa Peraturan Menteri Komunikasi dan Informatika\nNomor 12 Tahun 2022 tentang Tabel Alokasi Spektrum\nFrekuensi Radio Indonesia sudah tidak sesuai dengan\nkebutuhan penggunaan spektrum frekuensi radio\nnasional, sehingga perlu diganti\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD NRI Tahun 1945; UU Nomor 36 Tahun 1999 sebagaimana telah diubah dengan UU Nomor 6 Tahun 2023; UU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024; PP Nomor 53 Tahun 2000; PP Nomor 46 Tahun 2021; Perpres Nomor 174 Tahun 2024; Permen Kominfo Nomor 7 Tahun 2021; Permen Komdigi Nomor 1 Tahun 2025.\nPeraturan ini mengatur mengenai Tabel Alokasi Spektrum Frekuensi Radio Indonesia yang terdiri atas:\na. tabel Alokasi Spektrum Frekuensi Radio;\nb. catatan kaki internasional;\nc. catatan kaki Indonesia;\nd. penjatahan kanal frekuensi radio Dinas Bergerak\nMaritim untuk radiotelefoni Stasiun Radio pantai di\nwilayah Indonesia; dan\ne. penjatahan kanal frekuensi radio Dinas Bergerak\nPenerbangan untuk Indonesia.",
+ "note": "Peraturan Menteri Komunikasi dan Digital ini mulai berlaku pada tanggal 24 Februari 2026.",
+ "citations": [
+  "PERMENKOMINFO-2022-12",
+  "UU-1999-36",
+  "UU-2023-6",
+  "UU-2008-39",
+  "UU-2024-61",
+  "PP-2000-53",
+  "PP-2021-46",
+  "PERPRES-2024-174"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/409394/Permenkomdigi-no-8-tahun-2026.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:15:48Z"
+}

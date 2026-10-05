@@ -1,0 +1,41 @@
+{
+ "id": "PERMENPERIN-2025-1",
+ "source": "bpk",
+ "bpk_id": 321014,
+ "url": "https://peraturan.bpk.go.id/Details/321014/permenperin-no-1-tahun-2025",
+ "form": "PERMENPERIN",
+ "form_long": "Peraturan Menteri Perindustrian",
+ "number": "1",
+ "number_raw": "1",
+ "year": 2025,
+ "title": "Peraturan Menteri Perindustrian Nomor 1 Tahun 2025 tentang Organisasi dan Tata Kerja Kementerian Perindustrian",
+ "about": "Organisasi dan Tata Kerja Kementerian Perindustrian",
+ "issuer": "Kementerian Perindustrian",
+ "subject": "STRUKTUR ORGANISASI - PERINDUSTRIAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-01-16",
+ "date_promulgated": "2025-01-17",
+ "date_effective": "2025-01-17",
+ "gazette": "BN.2025 (34)/103 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENPERIN-2023-8",
+   "target_bpk_id": 254548,
+   "label": "Permenperin No. 8 Tahun 2023",
+   "about": "Organisasi dan Tata Kerja Kementerian Perindustrian"
+  }
+ ],
+ "abstract": "a. Untuk mewujudkan penguatan tata kelola organisasi Kementerian\nPerindustrian untuk mendukung peningkatan ekonomi nasional, perlu\nmelakukan penataan kembali organisasi dan tata kerja Kementerian\nPerindustrian, maka perlu menetapkan Peraturan Menteri Perindustrian\ntentang Organisasi dan Tata Kerja Kementerian Perindustrian.\nb. bahwa penataan kembali organisasi dan tata kerja Kementerian Perindustrian sebagaimana dimkasud dalam huruf a telah mendapat persetujuan tertulis dari Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b serta untuk melaksanakan ketentuan Pasal 50 Perpres 167 Tahun 2024 tentang Kementerian Perindustrian, perlu menetapkan Peraturan Menteri Perindustrian tentang Organisasi dan Tata Kerja Kementerian Perindustrian;\nPasal 17 ayat (3) UUD NRI 1945, UU No. 39 Tahun 2008, Perpres No. 140 Tahun 2024, Perpres No. 167 Tahun 2024.\nPeraturan ini mengatur tentang ketentuan umum, kedudukan, tugas dan fungsi, susunan organisasi, Sekretariat Jenderal, Direktorat Jenderal Industri Argo, Direktorat Jenderal Industri Kimia, Farmasi dan Tekstil, Direktorat Jenderal Industri Logam, Mesin, Alat Transportasi dan Elektronika, Direktorat Jenderal Industri Kecil, Menengah dan Aneka, Inspektorat Jenderal, Badan Standarisasi dan Kebijakan Jasa Industri, Badan Pengembangan Sumber Daya Manusia Industri, Staf Ahli, Pusat Data dan Informasi, Pusat Peningkatan Penggunaan Produk Dalam Negeri, Pusat Industri Halal, Jabatan Fungsional dan Jabatan Pelaksana, Unit Pelaksana Teknis, Tata Kerja, Jabatan, Pengangkatan dan Pemberhentian, Pengelolaan Sumber Daya dan Pendanaan, penataan organisasi, ketentuan lain-lain, ketentuan peralihan dan ketentuan penutup.",
+ "note": "Peraturan Menteri Perindustrian ini mulai berlaku pada tanggal 17 Januari 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan Menteri Perindustrian Nomor 8 Tahun 2023 tentang Organisasi dan Tata Kerja Kementerian Perindustrian",
+ "citations": [
+  "UU-2008-39",
+  "PERPRES-2024-140",
+  "PERPRES-2024-167"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/382752/Permenperin%20No.%201%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:13:39Z"
+}

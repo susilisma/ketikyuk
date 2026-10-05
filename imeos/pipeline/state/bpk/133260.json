@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKUMHAM-2016-36",
+ "source": "bpk",
+ "bpk_id": 133260,
+ "url": "https://peraturan.bpk.go.id/Details/133260/permenkumham-no-36-tahun-2016",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "36",
+ "number_raw": "36",
+ "year": 2016,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 36 Tahun 2016 tentang Tata Cara Menyampaikan Pernyataan Untuk Menjadi Warga Negara Indonesia",
+ "about": "Tata Cara Menyampaikan Pernyataan Untuk Menjadi Warga Negara Indonesia",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "KEWARGANEGARAAN DAN IMIGRASI",
+ "field": "Alias",
+ "date_enacted": "2016-10-28",
+ "date_promulgated": "2016-11-05",
+ "date_effective": "2016-11-05",
+ "gazette": "BN.2016/No.1655, peraturan.go.id: 7 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 357191,
+   "label": "Permenkum No. 15 Tahun 2026",
+   "about": "Layanan Bidang Kewarganegaraan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 05 November 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/124047/Permenkumham%20Nomor%2036%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:17:58Z"
+}

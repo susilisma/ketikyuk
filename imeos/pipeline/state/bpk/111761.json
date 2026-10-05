@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKES-2018-4",
+ "source": "bpk",
+ "bpk_id": 111761,
+ "url": "https://peraturan.bpk.go.id/Details/111761/permenkes-no-4-tahun-2018",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "4",
+ "number_raw": "4",
+ "year": 2018,
+ "title": "Peraturan Menteri Kesehatan Nomor 4 Tahun 2018 tentang Kewajiban Rumah Sakit dan Kewajiban Pasien",
+ "about": "Kewajiban Rumah Sakit dan Kewajiban Pasien",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - PERLINDUNGAN KONSUMEN",
+ "field": "Alias",
+ "date_enacted": "2018-02-12",
+ "date_promulgated": "2018-03-28",
+ "date_effective": "2018-03-28",
+ "gazette": "BN.2018/NO.416, kemkes.go.id : 35 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-6",
+   "target_bpk_id": 350851,
+   "label": "Permenkes No. 6 Tahun 2026",
+   "about": "Rumah Sakit"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2014-69",
+   "target_bpk_id": 129905,
+   "label": "Permenkes No. 69 Tahun 2014",
+   "about": "Kewajiban Rumah Sakit dan Kewajiban Pasien"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 28 Maret 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/102714/Permenkes%20Nomor%204%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:21:56Z"
+}

@@ -1,0 +1,199 @@
+{
+ "id": "PMK-2025-22",
+ "source": "bpk",
+ "bpk_id": 316120,
+ "url": "https://peraturan.bpk.go.id/Details/316120/pmk-no-22-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "22",
+ "number_raw": "22",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 22 Tahun 2025 tentang Tarif Layanan Badan Layanan Umum Bidang Pendidikan dan Pelatihan Sumber Daya Manusia Perhubungan Pada Kementerian Perhubungan",
+ "about": "Tarif Layanan Badan Layanan Umum Bidang Pendidikan dan Pelatihan Sumber Daya Manusia Perhubungan Pada Kementerian Perhubungan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BADAN LAYANAN UMUM - PENDIDIKAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-03-10",
+ "date_promulgated": "2025-03-17",
+ "date_effective": "2025-04-01",
+ "gazette": "BN.2025 (198/23 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2023-5",
+   "target_bpk_id": 243467,
+   "label": "PMK No. 5/PMK.05/2023",
+   "about": "Tarif Layanan Badan Layanan Umum Balai Pendidikan dan Pelatihan Transportasi Laut Jakarta"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2022-167",
+   "target_bpk_id": 231157,
+   "label": "PMK No. 167/PMK.05/2022",
+   "about": "Tarif Layanan Badan Layanan Umum Politeknik Keselamatan Transportasi Jalan Tegal pada Kementerian Perhubungan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2022-124",
+   "target_bpk_id": 221416,
+   "label": "PMK No. 124/PMK.05/2022",
+   "about": "Tarif Layanan Badan Layanan Umum Politeknik Perkeretaapian Indonesia Madiun pada Kementerian Perhubungan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2021-161",
+   "target_bpk_id": 187674,
+   "label": "PMK No. 161/PMK.05/2021",
+   "about": "Tarif Layanan Badan Layanan Umum Politeknik Pelayaran Malahayati Aceh pada Kementerian Perhubungan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2021-13",
+   "target_bpk_id": 160666,
+   "label": "PMK No. 13/PMK.05/2021",
+   "about": "Tarif Layanan Badan Layanan Umum Politeknik Pelayaran Banten pada Kementerian Perhubungan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2021-12",
+   "target_bpk_id": 160665,
+   "label": "PMK No. 12/PMK.05/2021",
+   "about": "Tarif Layanan Badan Layanan Umum Politeknik Pelayaran Barombong pada Kementerian Perhubungan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2020-94",
+   "target_bpk_id": 143641,
+   "label": "PMK No. 94/PMK.05/2020",
+   "about": "Tarif Layanan Badan Layanan Umum Politeknik Pelayaran Sorong pada Kementerian Perhubungan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2020-3",
+   "target_bpk_id": 136712,
+   "label": "PMK No. 3/PMK.05/2020",
+   "about": "Tarif Layanan Badan Layanan Umum Sekolah Tinggi Ilmu Pelayaran Pada Kementerian Perhubungan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2020-210",
+   "target_bpk_id": 156703,
+   "label": "PMK No. 210/PMK.05/2020",
+   "about": "Tarif Layanan Badan Layanan Umum Politeknik Transportasi Darat Bali pada Kementerian Perhubungan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2019-7",
+   "target_bpk_id": 127994,
+   "label": "PMK No. 7/PMK.05/2019",
+   "about": "Tarif Layanan Badan Layanan Umum Politeknik Penerbangan Surabaya Pada Kementerian Perhubungan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2019-192",
+   "target_bpk_id": 128308,
+   "label": "PMK No. 192/PMK.05/2019",
+   "about": "Tarif Layanan Badan Layanan Umum Politeknik Transportasi Sungai, Danau, Dan Penyeberangan Palembang Pada Kementerian Perhubungan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2019-191",
+   "target_bpk_id": 128307,
+   "label": "PMK No. 191/PMK.05/2019",
+   "about": "Tarif Layanan Badan Layanan Umum Balai Pendidikan Dan Pelatihan Penerbangan Palembang Pada Kementerian Perhubungan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2019-190",
+   "target_bpk_id": 128306,
+   "label": "PMK No. 190/PMK.05/2019",
+   "about": "Tarif Layanan Umum Politeknik Penerbangan Jayapura Pada Kementerian Perhubungan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2019-189",
+   "target_bpk_id": 128304,
+   "label": "PMK No. 189/PMK.05/2019",
+   "about": "Tarif Layanan Badan Layanan Umum Politeknik Pelayaran Surabaya Pada Kementerian Perhubungan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2019-188",
+   "target_bpk_id": 128305,
+   "label": "PMK No. 188/PMK.05/2019",
+   "about": "Tarif Layanan Badan Layanan Umum Balai Pendidikan Dan Pelatihan Penerbangan Curug Padsa Kementerian Perhubungan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2019-145",
+   "target_bpk_id": 128190,
+   "label": "PMK No. 145/PMK.05/2019",
+   "about": "Tarif Layanan Badan Layanan Umum Balai Pendidikan Dan Pelatihan Penerbangan Banyuwangi Pada Kementerian Perhubungan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2018-51",
+   "target_bpk_id": 112391,
+   "label": "PMK No. 51/PMK.05/2018",
+   "about": "Tarif Layanan Badan Layanan Umum Sekolah Tinggi Penerbangan Indonesia Curug Pada Kementerian Perhubungan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2018-44",
+   "target_bpk_id": 112210,
+   "label": "PMK No. 44/PMK.05/2018",
+   "about": "Tarif Layanan Badan Layanan Umum Politeknik Ilmu Pelayaran Makassar Pada Kementerian Perhubungan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2018-175",
+   "target_bpk_id": 113526,
+   "label": "PMK No. 175/PMK.05/2018",
+   "about": "Tarif Layanan Badan Layanan Umum Politeknik Ilmu Pelayaran Semarang Pada Kementerian Perhubungan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2018-165",
+   "target_bpk_id": 113500,
+   "label": "PMK No. 165/PMK.05/2018",
+   "about": "Tarif Layanan Badan Layanan Umum Balai Besar Pendidikan Penyegaran Dan Peningkatan Ilmu Pelayaran Pada Kementerian Perhubungan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2017-152",
+   "target_bpk_id": 112854,
+   "label": "PMK No. 152/PMK.05/2017",
+   "about": "Tarif Layanan Badan Layanan Umum Akademi Teknik Dan Keselamatan Penerbangan Medan Pada Kementerian Perhubungan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2017-151",
+   "target_bpk_id": 112853,
+   "label": "PMK No. 151/PMK.05/2017",
+   "about": "Tarif Layanan Badan Layanan Umum Akademi Teknik Dan Keselamatan Penerbangan Makassar Pada Kementerian Perhubungan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2017-136",
+   "target_bpk_id": 161067,
+   "label": "PMK No. 136/PMK.05/2017",
+   "about": "Tarif Layanan Badan Layanan Umum Sekolah Tinggi Transportasi Darat Pada Kementerian Perhubungan"
+  }
+ ],
+ "abstract": "a. bahwa untuk meningkatkan kualitas pelayanan kepada masyarakat dan memberikan fleksibilitas pengelolaan keuangan berdasarkan prinsip ekonomi dan produktivitas, serta penerapan praktik bisnis yang sehat, perlu mengatur tarif layanan atas barang atau jasa yang diberikan oleh Badan Layanan Umum Bidang Pendidikan dan Pelatihan Sumber Daya Manusia Perhubungan pada Kementerian Perhubungan;\nb. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a dan sesuai dengan ketentuan\nPasal 9 ayat (8) Peraturan Pemerintah Nomor 23 Tahun\n2005 tentang Pengelolaan Keuangan Badan Layanan Umum sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 74 Tahun 2012 tentang Perubahan atas Peraturan Pemerintah Nomor 23 Tahun 2005 tentang Pengelolaan Keuangan Badan Layanan Umum, perlu menetapkan Peraturan Menteri Keuangan tentang Tarif Layanan Badan Layanan Umum Bidang Pendidikan dan Pelatihan Sumber Daya Manusia Perhubungan pada Kementerian Perhubungan;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 1 Tahun 2004, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 23 Tahun 2005, Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Menteri Keuangan Nomor 129/PMK.05/2020 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengatur tentang pengertian, tarif layanan, tarif layanan akademik, Tarif layanan penunjang akademik, Tarif penggunaan lahan, gedung, bangunan, ruangan, sarana olahraga, sarana wisata edukasi, penginapan, dan sarana kesenian, Tarif penggunaan sarana transportasi, Tarif rumah sakit, poliklinik, dan apotek, Tarif laboratorium, simulator, dan bengkel, Tarif seminar, konsultasi, konsultansi, dan lokakarya, Tarif penggunaan keahlian sumber daya manusia, Tarif teknologi informasi, komunikasi, dan pangkalan data, Tarif kekayaan intelektual, Tarif penjualan produk lainnya, kontrak kerja, Tarif layanan atas barang dan/atau jasa di bidang pendidikan dan pelatihan dan batasan tarif terendah.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 01 April 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas:\na. Peraturan Menteri Keuangan Nomor 136/PMK.05/2017 tentang Tarif Layanan Badan Layanan Umum Sekolah Tinggi Transportasi Darat pada Kementerian Perhubungan.\nb. Peraturan Menteri Keuangan Nomor 151/PMK.05/2017 tentang Tarif Layanan Badan Layanan Umum Akademi\nTeknik dan Keselamatan Penerbangan Makassar pada Kementerian Perhubungan.\nc. Peraturan Menteri Keuangan Nomor 152/PMK.05/2017\ntentang Tarif Layanan Badan Layanan Umum Akademi Teknik dan Keselamatan Penerbangan Medan pada Kementerian Perhubungan.\nd. Peraturan Menteri Keuangan Nomor 44/PMK.05/2018\ntentang Tarif Layanan Badan Layanan Umum Politeknik Ilmu Pelayaran Makassar pada Kementerian Perhubungan\ne. Peraturan Menteri Keuangan Nomor 51/PMK.05/2018\ntentang Tarif Layanan Badan Layanan Umum Sekolah\nTinggi Penerbangan Indonesia Curug pada Kementerian Perhubungan.\nf. Peraturan Menteri Keuangan Nomor 165/PMK.05/2018 tentang Tarif Layanan Badan Layanan Umum Balai Besar Pendidikan Penyegaran dan Peningkatan Ilmu Pelayaran pada Kementerian Perhubungan\ng. Peraturan Menteri Keuangan Nomor 175/PMK.05/2018 tentang Tarif Layanan Badan Layanan Umum Politeknik Ilmu Pelayaran Semarang pada Kementerian Perhubungan\nh. Peraturan Menteri Keuangan Nomor 7/PMK.05/2019 tentang Tarif Layanan Badan Layanan Umum Politeknik Penerbangan Surabaya pada Kementerian Perhubungan\ni. Peraturan Menteri Keuangan Nomor 145/PMK.05/2019 tentang Tarif Layanan Badan Layanan Umum Balai\nPendidikan dan Pelatihan Penerbang Banyuwangi pada Kementerian Perhubungan\nj. Peraturan Menteri Keuangan Nomor 188/PMK.05/2019\ntentang Tarif Layanan Badan Layanan Umum Balai Pendidikan dan Pelatihan Penerbangan Curug pada Kementerian Perhubungan\nk. Peraturan Menteri Keuangan Nomor 189/PMK.05/2019\ntentang Tarif Layanan Badan Layanan Umum Politeknik Pelayaran Surabaya pada Kementerian Perhubungan\nl. Peraturan Menteri Keuangan Nomor 190/PMK.05/2019\ntentang Tarif Layanan Badan Layanan Umum Politeknik Penerbangan Jayapura pada Kementerian Perhubungan\nm. Peraturan Menteri Keuangan Nomor 191/PMK.05/2019 tentang Tarif Layanan Badan Layanan Umum Balai Pendidikan dan Pelatihan Penerbangan Palembang pada Kementerian Perhubungan\nn. Peraturan Menteri Keuangan Nomor 192/PMK.05/2019 tentang Tarif Layanan Badan Layanan Umum Politeknik Transportasi Sungai, Danau, dan Penyeberangan Palembang pada Kementerian Perhubungan\no. Peraturan Menteri Keuangan Nomor 3/PMK.05/2020\ntentang Tarif Layanan Badan Layanan Umum Sekolah Tinggi Ilmu Pelayaran pada Kementerian Perhubungan\np. Peraturan Menteri Keuangan Nomor 94/PMK.05/2020\ntentang Tarif Layanan Badan Layanan Umum\nPoliteknik Pelayaran Sorong pada Kementerian Perhubungan\nq. Peraturan Menteri Keuangan Nomor 210/PMK.05/2020 tentang Tarif Layanan Badan Layanan Umum Politeknik Transportasi Darat Bali pada Kementerian Perhubungan\nr. Peraturan Menteri Keuangan Nomor 12/PMK.05/2021 tentang Tarif Layanan Badan Layanan Umum Politeknik Pelayaran Barombong pada Kementerian Perhubungan\ns. Peraturan Menteri Keuangan Nomor 13/PMK.05/2021 tentang Tarif Layanan Badan Layanan Umum Politeknik Pelayaran Banten pada Kementerian Perhubungan\nt. Peraturan Menteri Keuangan Nomor 161/PMK.05/2021 tentang Tarif Layanan Badan Layanan Umum\nPoliteknik Pelayaran Malahayati Aceh pada Kementerian Perhubungan\nu. Peraturan Menteri Keuangan Nomor 124/PMK.05/2022\ntentang Tarif Layanan Badan Layanan Umum Politeknik Perkeretaapian Indonesia Madiun pada Kementerian Perhubungan\nv. Peraturan Menteri Keuangan Nomor 167/PMK.05/2022\ntentang Tarif Layanan Badan Layanan Umum Politeknik Keselamatan Transportasi Jalan Tegal pada Kementerian Perhubungan\nw. Peraturan Menteri Keuangan Nomor 5/PMK.05/2023\ntentang Tarif Layanan Badan Layanan Umum Balai Pendidikan dan Pelatihan Transportasi Laut Jakarta",
+ "citations": [
+  "PP-2005-23",
+  "PP-2012-74",
+  "UU-2004-1",
+  "UU-2008-39",
+  "PERPRES-2024-158",
+  "PMK-2020-129",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/377344/22%20th%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:08:47Z"
+}

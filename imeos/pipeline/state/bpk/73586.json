@@ -1,0 +1,79 @@
+{
+ "id": "PERPRES-2018-16",
+ "source": "bpk",
+ "bpk_id": 73586,
+ "url": "https://peraturan.bpk.go.id/Details/73586/perpres-no-16-tahun-2018",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "16",
+ "number_raw": "16",
+ "year": 2018,
+ "title": "Peraturan Presiden (Perpres) Nomor 16 Tahun 2018 tentang Pengadaan Barang/Jasa Pemerintah",
+ "about": "Pengadaan Barang/Jasa Pemerintah",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PENGADAAN BARANG / JASA",
+ "field": "Alias",
+ "date_enacted": "2018-03-16",
+ "date_promulgated": "2018-03-22",
+ "date_effective": "2018-03-22",
+ "gazette": "LN.2018/NO.33, LL SETKAB : 90 HLM.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2025-46",
+   "target_bpk_id": 318647,
+   "label": "Perpres No. 46 Tahun 2025",
+   "about": "Perubahan Kedua atas Peraturan Presiden Nomor 16 Tahun 2018 tentang Pengadaan Barang/Jasa Pemerintah"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2021-12",
+   "target_bpk_id": 161828,
+   "label": "PERPRES No. 12 Tahun 2021",
+   "about": "Perubahan atas Peraturan Presiden Nomor 16 Tahun 2018 tentang Pengadaan Barang/Jasa Pemerintah"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2015-4",
+   "target_bpk_id": 41722,
+   "label": "PERPRES No. 4 Tahun 2015",
+   "about": "Perubahan Keempat Atas Peraturan Presiden Nomor 54 Tahun 2010 tentang Pengadaan Barang/Jasa Pemerintah"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2014-172",
+   "target_bpk_id": 41690,
+   "label": "PERPRES No. 172 Tahun 2014",
+   "about": "Perubahan Ketiga atas Peraturan Presiden Nomor 54 Tahun 2010 tentang Pengadaan Barang/Jasa Pemerintah"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2012-70",
+   "target_bpk_id": 41314,
+   "label": "PERPRES No. 70 Tahun 2012",
+   "about": "Perubahan Kedua atas Peraturan Presiden Nomor 54 Tahun 2010 tentang Pengadaan Barang/jasa Pemerintah"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2011-35",
+   "target_bpk_id": 41159,
+   "label": "PERPRES No. 35 Tahun 2011",
+   "about": "Perubahan atas Peraturan Presiden Nomor 54 Tahun 2010 tentang Pengadaan Barang/Jasa Pemerintah"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2010-54",
+   "target_bpk_id": 41063,
+   "label": "PERPRES No. 54 Tahun 2010",
+   "about": "Pengadaan Barang/Jasa Pemerintah"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 22 Maret 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/64076/Perpres%20Nomor%2016%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:02:53Z"
+}

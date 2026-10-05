@@ -1,0 +1,41 @@
+{
+ "id": "PERBPOM-2025-23",
+ "source": "bpk",
+ "bpk_id": 328077,
+ "url": "https://peraturan.bpk.go.id/Details/328077/peraturan-bpom-no-23-tahun-2025",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "23",
+ "number_raw": "23",
+ "year": 2025,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 23 Tahun 2025 tentang Perubahan Kelima atas Peraturan Kepala Badan Pengawas Obat dan Makanan Nomor 24 Tahun 2017 tentang Kriteria dan Tata Laksana Registrasi Obat",
+ "about": "Perubahan Kelima atas Peraturan Kepala Badan Pengawas Obat dan Makanan Nomor 24 Tahun 2017 tentang Kriteria dan Tata Laksana Registrasi Obat",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "KESEHATAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-08-01",
+ "date_promulgated": "2025-08-12",
+ "date_effective": "2025-08-12",
+ "gazette": "BN 2025 (592); 18 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 220387,
+   "label": "Perka BPOM No. 24 Tahun 2017",
+   "about": "Kriteria dan Tata Laksana Registrasi Obat"
+  }
+ ],
+ "abstract": "bahwa berdasarkan ketentuan Pasal 3 ayat (1) huruf d\nPeraturan Presiden Nomor 80 Tahun 2017 tentang Badan\nPengawas Obat dan Makanan, Badan Pengawas Obat dan\nMakanan memiliki fungsi pelaksanaan tugas pengawasan\nsebelum beredar dan pengawasan selama beredar\nDasar hukum peraturan ini adalah PP Nomor 28 Tahun 2025; Perpres Nomor 80 Tahun 2017; Permenkes Nomor 1010/Menkes/Per/XI/2008; Perka BPOM Nomor 24 Tahun 2017 sebagaimana telah beberapa kali diubah terakhir dengan Peraturan BPOM Nomor 15 Tahun 2023; Peraturan BPOM Nomor 21 Tahun 2020 sebagaimana telah diubah dengan Peraturan BPOM Nomor 13 Tahun 2022\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Kepala Badan Pengawas\nObat dan Makanan Nomor 24 Tahun 2017 tentang Kriteria dan\nTata Laksana Registrasi Obat (Berita Negara Republik\nIndonesia Tahun 2017 Nomor 1692) sebagaimana telah\nbeberapa kali diubah dengan Peraturan Badan Pengawas Obat\ndan Makanan:\na. Nomor 15 Tahun 2019 tentang Perubahan atas Peraturan\nKepala Badan Pengawas Obat dan Makanan Nomor 24\nTahun 2017 tentang Kriteria dan Tata Laksana Registrasi\nObat (Berita Negara Republik Indonesia Tahun 2019\nNomor 779);\nb. Nomor 27 Tahun 2020 tentang Perubahan Kedua atas\nPeraturan Kepala Badan Pengawas Obat dan Makanan\nNomor 24 Tahun 2017 tentang Kriteria dan Tata Laksana\nRegistrasi Obat (Berita Negara Republik Indonesia Tahun\n2020 Nomor 1123);\nc. Nomor 13 Tahun 2021 tentang Perubahan Ketiga atas\nPeraturan Kepala Badan Pengawas Obat dan Makanan\nNomor 24 Tahun 2017 tentang Kriteria dan Tata Laksana\nRegistrasi Obat (Berita Negara Republik Indonesia Tahun\n2021 Nomor 461); dan d. Nomor 15 Tahun 2023 tentang Perubahan Keempat atas\nPeraturan Kepala Badan Pengawas Obat dan Makanan\nNomor 24 Tahun 2017 tentang Kriteria dan Tata Laksana\nRegistrasi Obat (Berita Negara Republik Indonesia Tahun\n2023 Nomor 559)",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 12 Agustus 2025.",
+ "citations": [
+  "PERPRES-2017-80",
+  "PP-2025-28",
+  "PERMENKES-2008-1010"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/389914/peraturan-bpom-no-23-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:28:40Z"
+}

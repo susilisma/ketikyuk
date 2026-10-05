@@ -1,0 +1,37 @@
+{
+ "id": "PERBPOM-2023-2",
+ "source": "bpk",
+ "bpk_id": 245402,
+ "url": "https://peraturan.bpk.go.id/Details/245402/peraturan-bpom-no-2-tahun-2023",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "2",
+ "number_raw": "2",
+ "year": 2023,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 2 Tahun 2023 tentang Pedoman Pengkajian Keamanan dan/atau Mutu Obat dan Bahan Obat terhadap Cemaran Nitrosamin",
+ "about": "Pedoman Pengkajian Keamanan dan/atau Mutu Obat dan Bahan Obat terhadap Cemaran Nitrosamin",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "KESEHATAN - STANDAR / PEDOMAN",
+ "field": "Alias",
+ "date_enacted": "2023-01-10",
+ "date_promulgated": "2023-01-10",
+ "date_effective": "2023-01-10",
+ "gazette": "BN.2023/No.50, jdih.pom.go.id: 4 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 319866,
+   "label": "Peraturan BPOM No. 9 Tahun 2025",
+   "about": "Pedoman Kajian Risiko Keamanan dan/atau Mutu Obat dan Bahan Obat"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 10 Januari 2023.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/301399/P%20BPOM%20No.%202%20Tahun%202023.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:29:14Z"
+}

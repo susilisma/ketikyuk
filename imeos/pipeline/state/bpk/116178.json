@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKES-2015-37",
+ "source": "bpk",
+ "bpk_id": 116178,
+ "url": "https://peraturan.bpk.go.id/Details/116178/permenkes-no-37-tahun-2015",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "37",
+ "number_raw": "37",
+ "year": 2015,
+ "title": "Peraturan Menteri Kesehatan Nomor 37 Tahun 2015 tentang Pendayagunaan Tenaga Kesehatan Ke Luar Negeri",
+ "about": "Pendayagunaan Tenaga Kesehatan Ke Luar Negeri",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - KETENAGAKERJAAN",
+ "field": "Alias",
+ "date_enacted": "2015-04-30",
+ "date_promulgated": "2015-05-25",
+ "date_effective": "2015-05-25",
+ "gazette": "BN.2015/NO. 740, kemenkes.go.id : 19 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2025-13",
+   "target_bpk_id": 335214,
+   "label": "Permenkes No. 13 Tahun 2025",
+   "about": "Pengelolaan Sumber Daya Manusia Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 25 Mei 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/107090/Permenkes%20Nomor%2037%20Tahun%202015.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:24:07Z"
+}

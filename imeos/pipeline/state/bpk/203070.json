@@ -1,0 +1,142 @@
+{
+ "id": "PERMENKOMINFO-2021-5",
+ "source": "bpk",
+ "bpk_id": 203070,
+ "url": "https://peraturan.bpk.go.id/Details/203070/permenkominfo-no-5-tahun-2021",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Informatika",
+ "number": "5",
+ "number_raw": "5",
+ "year": 2021,
+ "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 5 Tahun 2021 tentang Penyelenggaraan Telekomunikasi",
+ "about": "Penyelenggaraan Telekomunikasi",
+ "issuer": "Kementerian Komunikasi dan Informatika",
+ "subject": "TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET - CIPTA KERJA",
+ "field": "Alias",
+ "date_enacted": "2021-03-31",
+ "date_promulgated": "2021-04-01",
+ "date_effective": "2021-04-01",
+ "gazette": "BN.2021/No.303, peraturan.go.id: 154 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": null,
+   "target_bpk_id": 345091,
+   "label": "Permenkomdigi No. 7 Tahun 2026",
+   "about": "Registrasi Pelanggan Jasa Telekomunikasi melalui Jaringan Bergerak Seluler"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 150388,
+   "label": "Permenkominfo No. 21 Tahun 2017",
+   "about": "Perubahan Kedua atas Peraturan Menteri Komunikasi dan Informatika Nomor 12 Tahun 2016 tentang Registrasi Pelanggan Jasa Telekomunikasi"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 150118,
+   "label": "Permenkominfo No. 14 Tahun 2017",
+   "about": "Perubahan atas Peraturan Menteri Komunikasi dan Informatika Nomor 12 Tahun 2016 Tentang Registrasi Pelanggan Jasa Telekomunikasi"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 150541,
+   "label": "Permenkominfo No. 19 Tahun 2016",
+   "about": "Perubahan Atas Peraturan Menteri Komunikasi Dan Informatika Nomor 17 Tahun 2016 Tentang Petunjuk Pelaksanaan Tarif Atas Penerimaan Negara Bukan Pajak Dari Pungutan Biaya Hak Penyelenggaraan Telekomunikasi Dan Kontribusi Kewajiban Pelayanan Universal/Universal Service Obligation"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 150539,
+   "label": "Permenkominfo No. 17 Tahun 2016",
+   "about": "Petunjuk Pelaksanaan Tarif atas Penerimaan Negara Bukan Pajak dari Pungutan Biaya Hak Penyelenggaraan Telekomunikasi dan Kontribusi Kewajiban Pelayanan Universal/Universal Service Obligation"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 150534,
+   "label": "Permenkominfo No. 12 Tahun 2016",
+   "about": "Registrasi Pelanggan Jasa Telekomunikasi"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 161727,
+   "label": "Permenkominfo No. 11 Tahun 2014",
+   "about": "Tata Cara Pengenaan Sanksi Administratif Berupa Denda terhadap Penyelenggara Telekomunikasi"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 159691,
+   "label": "Permenkominfo No. 9/PER/M.KOMINFO/4/2008 Tahun 2008",
+   "about": "Tata Cara Penetapan Tarif Jasa Telekomunikasi yang Disalurkan Melalui Jaringan Bergerak Selular"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 159901,
+   "label": "Permenkominfo No. 3/PER/M.KOMINFO/1/2007 Tahun 2007",
+   "about": "Sewa jaringan"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 160502,
+   "label": "Permenkominfo No. 8/PER/M.KOMINFO/2/2006 Tahun 2006",
+   "about": "Interkoneksi"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 160703,
+   "label": "Permenkominfo No. 16/PER/M.KOMINFO/9/2005 Tahun 2005",
+   "about": "Penyediaan Sarana Transmisi Telekomunikasi Internasional \r\nMelalui Sistem Komunikasi Kabel Laut"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": null,
+   "target_bpk_id": 203105,
+   "label": "Permenkominfo No. 7 Tahun 2019",
+   "about": "Perubahan atas Peraturan Menteri Komunikasi dan Informatika Nomor 7 Tahun 2018 tentang Pelayanan Perizinan Berusaha Terintegrasi Secara Elektronik Bidang Komunikasi dan Informatika"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": null,
+   "target_bpk_id": 149646,
+   "label": "Permenkominfo No. 7 Tahun 2018",
+   "about": "Pelayanan Perizinan Berusaha Terintegrasi Secara Elektronik Bidang Komunikasi Dan Informatika"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": null,
+   "target_bpk_id": 150682,
+   "label": "Permenkominfo No. 7 Tahun 2015",
+   "about": "Perubahan Kedua Atas Peraturan Menteri Komunikasi Dan Informatika Nomor : 01/Per/M.Kominfo/01/2010 Tentang Penyelenggaraan Jaringan Telekomunikasi"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": null,
+   "target_bpk_id": 151479,
+   "label": "Permenkominfo No. 38 Tahun 2014",
+   "about": "Perubahan atas Peraturan Menteri Komunikasi dan Informatika Nomor 1/PER/M.KOMINFO/1/2010 Tentang Penyelenggaraan Jaringan Telekomunikasi"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": null,
+   "target_bpk_id": 158049,
+   "label": "Permenkominfo No. 1/PER/M.KOMINFO/1/2010 Tahun 2010",
+   "about": "Penyelenggaraan Jaringan Telekomunikasi"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Komunikasi dan Informatika ini mulai berlaku pada tanggal 01 April 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/197038/Nomor%205%20Tahun%202021_compressed.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:15:55Z"
+}

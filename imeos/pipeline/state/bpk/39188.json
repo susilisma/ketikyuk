@@ -12,7 +12,7 @@
  "about": "Pembentukan Peraturan Perundang-Undangan",
  "issuer": "Pemerintah Pusat",
  "subject": "ADMINISTRASI DAN TATA USAHA NEGARA",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2011-08-12",
  "date_promulgated": "2011-08-12",
  "date_effective": "2011-08-12",
@@ -57,5 +57,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/28610/UU%2012%20Tahun%202011.pdf"
  ],
- "fetched_at": "2026-09-14T05:23:27Z"
+ "fetched_at": "2026-10-05T04:55:23Z"
 }

@@ -12,7 +12,7 @@
  "about": "Tata Naskah Dinas di Kementerian Ketenagakerjaan",
  "issuer": "Kementerian Ketenagakerjaan",
  "subject": "ADMINISTRASI DAN TATA USAHA NEGARA",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2019-03-25",
  "date_promulgated": "2019-03-27",
  "date_effective": "2019-03-27",
@@ -40,5 +40,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/156182/permen_3_2019_fix.pdf"
  ],
- "fetched_at": "2026-09-14T06:40:56Z"
+ "fetched_at": "2026-10-05T05:14:34Z"
 }

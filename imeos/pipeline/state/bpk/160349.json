@@ -1,0 +1,37 @@
+{
+ "id": "PERMENDAG-2020-77",
+ "source": "bpk",
+ "bpk_id": 160349,
+ "url": "https://peraturan.bpk.go.id/Details/160349/permendag-no-77-tahun-2020",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "77",
+ "number_raw": "77",
+ "year": 2020,
+ "title": "Peraturan Menteri Perdagangan Nomor 77 Tahun 2020 tentang Petunjuk Teknis Jabatan Fungsional Pemeriksa Perdagangan Berjangka Komoditi",
+ "about": "Petunjuk Teknis Jabatan Fungsional Pemeriksa Perdagangan Berjangka Komoditi",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA - JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "Alias",
+ "date_enacted": "2020-09-30",
+ "date_promulgated": "2020-10-05",
+ "date_effective": "2020-10-05",
+ "gazette": "BN.2020/No.1151, http://jdih.kemendag.go.id : 68 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2025-4",
+   "target_bpk_id": 320775,
+   "label": "Permendag No. 4 Tahun 2025",
+   "about": "Petunjuk Pelaksanaan dan Petunjuk Teknis Jabatan Fungsional di Bidang Perdagangan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 05 Oktober 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/152938/Permendag%20Nomor%2077%20Tahun%202020.PDF"
+ ],
+ "fetched_at": "2026-10-05T05:12:17Z"
+}

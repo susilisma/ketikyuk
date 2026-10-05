@@ -12,7 +12,7 @@
  "about": "Penyelenggaraan Kehutanan",
  "issuer": "Pemerintah Pusat",
  "subject": "KEHUTANAN DAN PERKEBUNAN - PENANAMAN MODAL DAN INVESTASI - PERIZINAN, PELAYANAN PUBLIK - CIPTA KERJA",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2021-02-02",
  "date_promulgated": "2021-02-02",
  "date_effective": "2021-02-02",
@@ -127,5 +127,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/154528/PP%20Nomor%2023%20Tahun%202021.pdf"
  ],
- "fetched_at": "2026-09-14T05:28:26Z"
+ "fetched_at": "2026-10-05T04:57:16Z"
 }

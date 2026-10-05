@@ -1,0 +1,43 @@
+{
+ "id": "PERMENKUM-2025-6",
+ "source": "bpk",
+ "bpk_id": 314775,
+ "url": "https://peraturan.bpk.go.id/Details/314775/permenkum-no-6-tahun-2025",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "6",
+ "number_raw": "6",
+ "year": 2025,
+ "title": "Peraturan Menteri Hukum Nomor 6 Tahun 2025 tentang Tata Cara Penegasan Status Kewarganegaraan Republik Indonesia bagi Warga Negara Indonesia di Luar Wilayah Negara Kesatuan Republik Indonesia",
+ "about": "Tata Cara Penegasan Status Kewarganegaraan Republik Indonesia bagi Warga Negara Indonesia di Luar Wilayah Negara Kesatuan Republik Indonesia",
+ "issuer": "Kementerian Hukum",
+ "subject": "KEWARGANEGARAAN DAN IMIGRASI",
+ "field": "HUKUM INTERNASIONAL",
+ "date_enacted": "2025-02-14",
+ "date_promulgated": "2025-02-21",
+ "date_effective": "2025-02-21",
+ "gazette": "BN 2025 (117) : 8 hlm.; peraturan.go.id",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 357191,
+   "label": "Permenkum No. 15 Tahun 2026",
+   "about": "Layanan Bidang Kewarganegaraan"
+  }
+ ],
+ "abstract": "Untuk memberikan perlindungan dan kepastian hukum terhadap warga negara Indonesia yang tinggal di luar wilayah negara Republik Indonesia yang tidak memiliki atau memiliki sebagian dokumen kewarganegaraan, perlu diatur mengenai mekanisme pemberian penegasan status kewarganegaraan Republik Indonesia di luar wilayah Negara Kesatuan Republik Indonesia.\nDasar hukum Permenkum ini adalah Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 12 Tahun 2006; UU Nomor 39 Tahun 2008; PP Nomor 2 Tahun 2007; Perpres Nomor 140 Tahun 2024; Perpres Nomor 155 Tahun 2024; dan Permenkum Nomor 1 Tahun 2024.\nPermenkum ini mengatur mengenai Tata Cara Penegasan Status Kewarganegaraan Republik Indonesia bagi Warga Negara Indonesia di Luar Wilayah Negara Kesatuan Republik Indonesia dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Penegasan status kewarganegaraan Republik Indonesia diberikan berdasarkan permohonan secara tertulis dalam bahasa Indonesia.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 21 Februari 2025.\nLampiran file: 16 hlm. (batang tubuh hlm 1 s.d. 8 dan lampiran hlm 9 s.d. 16)",
+ "citations": [
+  "UU-2006-12",
+  "UU-2008-39",
+  "PP-2007-2",
+  "PERPRES-2024-140",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/375771/Permenkum%20Nomor%206%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:17:52Z"
+}

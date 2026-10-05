@@ -1,0 +1,62 @@
+{
+ "id": "PP-2021-29",
+ "source": "bpk",
+ "bpk_id": 161870,
+ "url": "https://peraturan.bpk.go.id/Details/161870/pp-no-29-tahun-2021",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "29",
+ "number_raw": "29",
+ "year": 2021,
+ "title": "Peraturan Pemerintah (PP) Nomor 29 Tahun 2021 tentang Penyelenggaraan Bidang Perdagangan",
+ "about": "Penyelenggaraan Bidang Perdagangan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN - PENANAMAN MODAL DAN INVESTASI - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN - PERIZINAN, PELAYANAN PUBLIK - CIPTA KERJA",
+ "field": "Alias",
+ "date_enacted": "2021-02-02",
+ "date_promulgated": "2021-02-02",
+ "date_effective": "2021-02-02",
+ "gazette": "LN.2021/No.39, TLN No.6641, jdih.setkab.go.id : 102 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2026-3",
+   "target_bpk_id": 343972,
+   "label": "PP No. 3 Tahun 2026",
+   "about": "Perubahan atas Peraturan Pemerintah Nomor 29 Tahun 2021 tentang Penyelenggaraan Bidang Perdagangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2018-63",
+   "target_bpk_id": 90062,
+   "label": "PERPRES No. 63 Tahun 2018",
+   "about": "Penetapan dan Pendaftaran Barang Terkait Dengan Keamanan, Keselamatan, Kesehatan dan Lingkungan Hidup"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2007-112",
+   "target_bpk_id": 42157,
+   "label": "PERPRES No. 112 Tahun 2007",
+   "about": "Penataan dan Pembinaan Pasar Tradisional, Pusat Perbelanjaan dan Toko Modern"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PP-2019-33",
+   "target_bpk_id": 106343,
+   "label": "PP No. 33 Tahun 2019",
+   "about": "Pengenaan Sanksi Administratif kepada Pemilik Gudang yang Tidak Melakukan Pendaftaran Gudang"
+  }
+ ],
+ "abstract": "untuk melaksanakan ketentuan Pasal 46, Pasal 47, dan Pasal 185 huruf b Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja, perlu menetapkan Peraturan Pemerintah tentang Penyelenggaraan Bidang Perdagangan.\nDasar hukum PP ini adalah Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 2 Tahun 1981; UU Nomor 7 Tahun 2014; dan UU Nomor 11 Tahun 2020.\nPP ini mengatur mengenai: 1) kebijakan dan pengendalian Ekspor dan Impor; 2) penggunaan atau kelengkapan label berbahasa Indonesia; 3) Distribusi Barang; 4) sarana Perdagangan; 5) standardisasi; 6) pengembangan Ekspor; 7) metrologi legal; dan 8) pengawasan kegiatan Perdagangan dan pengawasan terhadap Barang yang ditetapkan sebagai Barang dalam pengawasan. Beberapa pengaturan baru dalam PP ini antara lain penggunaan neraca komoditas dalam penerbitan persetujuan Ekspor dan persetujuan Impor yang menggantikan rekomendasi dari kementerian/lembaga pemerintah nonkementerian terkait yang selama ini dijadikan pertimbangan. Terdapat pula perbaikan Service Level Agreement (janji layanan) dan fiktif positif yang menyatakan bahwa permohonan Perizinan Berusaha yang telah lengkap, namun Perizinan Berusaha belum diterbitkan dalam jangka waktu yang ditetapkan sesuai dengan ketentuan peraturan perundang-undangan, dilakukan penerbitan Perizinan Berusaha secara otomatis melalui sistem yang terintegrasi.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 02 Februari 2021.\nPP ini mencabut Pasal 2 PP Nomor 33 Tahun 2019 tentang Pengenaan Sanksi Administratif Kepada Pemilik Gudang yang Tidak Melakukan Pendaftaran Gudang; Perpres Nomor 63 Tahun 2018 tentang Penetapan dan Pendaftaran Barang Terkait dengan Keamanan, Keselamatan, Kesehatan, dan Lingkungan Hidup; dan Perpres Nomor 112 Tahun 2007 tentang Penataan dan Pembinaan Pasar Tradisional, Pusat\nPerbelanjaan dan Toko Modern.\nPenjelasan 22 hlm.",
+ "citations": [
+  "UU-2020-11",
+  "UU-1981-2",
+  "UU-2014-7"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/154547/PP%20Nomor%2029%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-10-05T04:57:42Z"
+}

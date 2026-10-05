@@ -12,7 +12,7 @@
  "about": "Peraturan Pelaksanaan Undang-undang Nomor 6 Tahun 2014 tentang Desa",
  "issuer": "Pemerintah Pusat",
  "subject": "DESA",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2014-05-30",
  "date_promulgated": "2014-06-03",
  "date_effective": "2014-06-03",
@@ -68,5 +68,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/30406/PP%20Nomor%2043%20Tahun%202014.pdf"
  ],
- "fetched_at": "2026-09-14T05:28:06Z"
+ "fetched_at": "2026-10-05T04:56:53Z"
 }

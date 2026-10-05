@@ -1,0 +1,51 @@
+{
+ "id": "PMK-2020-195",
+ "source": "bpk",
+ "bpk_id": 155888,
+ "url": "https://peraturan.bpk.go.id/Details/155888/pmk-no-195pmk082020",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "195",
+ "number_raw": "195/PMK.08/2020",
+ "year": 2020,
+ "title": "Peraturan Menteri Keuangan Nomor 195/PMK.08/2020 Tahun 2020 tentang Lelang Surat Berharga Syariah Negara di Pasar Perdana Domestik",
+ "about": "Lelang Surat Berharga Syariah Negara di Pasar Perdana Domestik",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PENANAMAN MODAL DAN INVESTASI - PENGELOLAAN KEUANGAN NEGARA / DAERAH",
+ "field": "Alias",
+ "date_enacted": "2020-12-10",
+ "date_promulgated": "2020-12-11",
+ "date_effective": "2020-12-11",
+ "gazette": "BN.2020/NO.1467, https:jdih.kemenkeu.go.id : 24 Hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2026-65",
+   "target_bpk_id": 357338,
+   "label": "PMK No. 65 Tahun 2026",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 195/PMK.08/2020 tentang Lelang Surat Berharga Syariah Negara di Pasar Perdana Domestik"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2017-20",
+   "target_bpk_id": 112603,
+   "label": "PMK No. 20/PMK.08/2017",
+   "about": "Perubahan Atas Peraturan Menteri Keuangan Nomor 5/PMK.08/2012 Tentang Penerbitan Dan Penjualan Surat Berharga Syariah Negara Di Pasar Perdana Dalam Negeri Dengan Cara Lelang"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2012-5",
+   "target_bpk_id": 150655,
+   "label": "PMK No. 05/PMK.08/2012",
+   "about": "Penerbitan dan Penjualan Surat Berharga Syariah Negara di Pasar Perdana dalam Negeri dengan Cara Lelang"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 11 Desember 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/148278/195_PMK.08_2020.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:05:32Z"
+}

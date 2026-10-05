@@ -1,0 +1,44 @@
+{
+ "id": "PP-2019-33",
+ "source": "bpk",
+ "bpk_id": 106343,
+ "url": "https://peraturan.bpk.go.id/Details/106343/pp-no-33-tahun-2019",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "33",
+ "number_raw": "33",
+ "year": 2019,
+ "title": "Peraturan Pemerintah (PP) Nomor 33 Tahun 2019 tentang Pengenaan Sanksi Administratif kepada Pemilik Gudang yang Tidak Melakukan Pendaftaran Gudang",
+ "about": "Pengenaan Sanksi Administratif kepada Pemilik Gudang yang Tidak Melakukan Pendaftaran Gudang",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "Alias",
+ "date_enacted": "2019-05-06",
+ "date_promulgated": "2019-05-06",
+ "date_effective": null,
+ "gazette": "LN.2019/NO.90, TLN NO.6346, LL SETKAB : 6 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2026-3",
+   "target_bpk_id": 343972,
+   "label": "PP No. 3 Tahun 2026",
+   "about": "Perubahan atas Peraturan Pemerintah Nomor 29 Tahun 2021 tentang Penyelenggaraan Bidang Perdagangan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2021-29",
+   "target_bpk_id": 161870,
+   "label": "PP No. 29 Tahun 2021",
+   "about": "Penyelenggaraan Bidang Perdagangan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal .",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/97307/PP%20Nomor%2033%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-10-05T04:57:36Z"
+}

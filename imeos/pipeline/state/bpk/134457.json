@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKUMHAM-2010-MHH02AH0101",
+ "source": "bpk",
+ "bpk_id": 134457,
+ "url": "https://peraturan.bpk.go.id/Details/134457/permenkumham-no-mhh-02ah0101-tahun-2010",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "MHH02AH0101",
+ "number_raw": "M.HH-02.AH.01.01",
+ "year": 2010,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor M.HH-02.AH.01.01 Tahun 2010 tentang Tata Cara Pengumuman Perseroan Terbatas Dalam Berita Negara dan Tambahan Berita Negara Republik Indonesia",
+ "about": "Tata Cara Pengumuman Perseroan Terbatas Dalam Berita Negara dan Tambahan Berita Negara Republik Indonesia",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN - PERIZINAN, PELAYANAN PUBLIK",
+ "field": "Alias",
+ "date_enacted": "2010-07-09",
+ "date_promulgated": "2010-07-09",
+ "date_effective": "2009-06-03",
+ "gazette": "BN.2010/No.336, peraturan.go.id: 7 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 357188,
+   "label": "Permenkum No. 14 Tahun 2026",
+   "about": "Tata Cara Pengumuman Perseroan Terbatas dalam Berita Negara Republik Indonesia dan Tambahan Berita Negara Republik Indonesia dan Pengumuman Yayasan dalam Tambahan Berita Negara Republik Indonesia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 03 Juni 2009.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/125244/bn336-2010.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:17:50Z"
+}

@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2022-167",
+ "source": "bpk",
+ "bpk_id": 231157,
+ "url": "https://peraturan.bpk.go.id/Details/231157/pmk-no-167pmk052022",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "167",
+ "number_raw": "167/PMK.05/2022",
+ "year": 2022,
+ "title": "Peraturan Menteri Keuangan Nomor 167/PMK.05/2022 Tahun 2022 tentang Tarif Layanan Badan Layanan Umum Politeknik Keselamatan Transportasi Jalan Tegal pada Kementerian Perhubungan",
+ "about": "Tarif Layanan Badan Layanan Umum Politeknik Keselamatan Transportasi Jalan Tegal pada Kementerian Perhubungan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BADAN LAYANAN UMUM",
+ "field": "Alias",
+ "date_enacted": "2022-11-08",
+ "date_promulgated": "2022-11-14",
+ "date_effective": "2022-11-29",
+ "gazette": "BN.2022/NO. 1138; https:jdih.kemenkeu.go.id : 7 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-22",
+   "target_bpk_id": 316120,
+   "label": "PMK No. 22 Tahun 2025",
+   "about": "Tarif Layanan Badan Layanan Umum Bidang Pendidikan dan Pelatihan Sumber Daya Manusia Perhubungan Pada Kementerian Perhubungan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2018-74",
+   "target_bpk_id": 113109,
+   "label": "PMK No. 74/PMK.05/2018",
+   "about": "Tarif Layanan Badan Layanan Umum Politeknik Keselamatan Transportasi Jalan Tegal Pada Kementerian Perhubungan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 29 November 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/259656/167_PMK.05_2022.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:08:49Z"
+}

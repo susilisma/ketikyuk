@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKES-2022-14",
+ "source": "bpk",
+ "bpk_id": 218302,
+ "url": "https://peraturan.bpk.go.id/Details/218302/permenkes-no-14-tahun-2022",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "14",
+ "number_raw": "14",
+ "year": 2022,
+ "title": "Peraturan Menteri Kesehatan Nomor 14 Tahun 2022 tentang Program Adaptasi Dokter Spesialis Warga Negara Indonesia Lulusan Luar Negeri di Fasilitas Pelayanan Kesehatan",
+ "about": "Program Adaptasi Dokter Spesialis Warga Negara Indonesia Lulusan Luar Negeri di Fasilitas Pelayanan Kesehatan",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "Alias",
+ "date_enacted": "2022-05-31",
+ "date_promulgated": "2022-06-02",
+ "date_effective": "2022-06-02",
+ "gazette": "BN.2022/No.541, peraturan.go.id: 21 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2025-13",
+   "target_bpk_id": 335214,
+   "label": "Permenkes No. 13 Tahun 2025",
+   "about": "Pengelolaan Sumber Daya Manusia Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 02 Juni 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/212695/Permenkes%20Nomor%2014%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:23:41Z"
+}

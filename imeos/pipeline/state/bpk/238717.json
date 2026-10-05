@@ -12,7 +12,7 @@
  "about": "Pengelolaan Dana Alokasi Khusus Nonfisik",
  "issuer": "Kementerian Keuangan",
  "subject": "PENGELOLAAN KEUANGAN NEGARA / DAERAH",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2022-12-21",
  "date_promulgated": "2022-12-23",
  "date_effective": "2023-01-01",
@@ -40,5 +40,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/293457/204_PMK.07_2022.pdf"
  ],
- "fetched_at": "2026-09-14T06:31:33Z"
+ "fetched_at": "2026-10-05T05:05:55Z"
 }

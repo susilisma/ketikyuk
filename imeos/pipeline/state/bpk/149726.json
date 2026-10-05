@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKOMINFO-2018-12",
+ "source": "bpk",
+ "bpk_id": 149726,
+ "url": "https://peraturan.bpk.go.id/Details/149726/permenkominfo-no-12-tahun-2018",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Informatika",
+ "number": "12",
+ "number_raw": "12",
+ "year": 2018,
+ "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 12 Tahun 2018 tentang Penyelenggaraan Telekomunikasi Khusus Untuk Keperluan Instansi Pemerintah atau Badan Hukum",
+ "about": "Penyelenggaraan Telekomunikasi Khusus Untuk Keperluan Instansi Pemerintah atau Badan Hukum",
+ "issuer": "Kementerian Komunikasi dan Informatika",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA - TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET",
+ "field": "Alias",
+ "date_enacted": "2018-09-17",
+ "date_promulgated": "2018-09-24",
+ "date_effective": "2018-09-24",
+ "gazette": "BN.2018/NO.1332, KOMINFO.GO.ID : 20 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 321103,
+   "label": "Permenkomdigi No. 14 Tahun 2025",
+   "about": "Telekomunikasi Khusus untuk Keperluan Sendiri"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 150527,
+   "label": "Permenkominfo No. 6 Tahun 2016",
+   "about": "Penyelenggaraan Telekomunikasi Khusus untuk Keperluan Instansi Pemerintah atau Badan Hukum"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Komunikasi dan Informatika ini mulai berlaku pada tanggal 24 September 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/141806/Permen%20Kominfo%20Nomor%2012%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:16:29Z"
+}

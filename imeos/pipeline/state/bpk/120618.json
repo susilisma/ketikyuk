@@ -1,0 +1,37 @@
+{
+ "id": "PERPRES-2019-59",
+ "source": "bpk",
+ "bpk_id": 120618,
+ "url": "https://peraturan.bpk.go.id/Details/120618/perpres-no-59-tahun-2019",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "59",
+ "number_raw": "59",
+ "year": 2019,
+ "title": "Peraturan Presiden (Perpres) Nomor 59 Tahun 2019 tentang Pengendalian Alih Fungsi Lahan Sawah",
+ "about": "Pengendalian Alih Fungsi Lahan Sawah",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA - PANGAN, PERTANIAN DAN PETERNAKAN",
+ "field": "Alias",
+ "date_enacted": "2019-09-06",
+ "date_promulgated": "2019-09-12",
+ "date_effective": "2019-09-12",
+ "gazette": "LN.2019/NO.163, SIPUU.SETKAB.GO.ID, LL : 15 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2026-4",
+   "target_bpk_id": 347928,
+   "label": "Perpres No. 4 Tahun 2026",
+   "about": "Pengendalian Alih Fungsi Lahan Sawah"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 12 September 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/111340/Perpres%20Nomor%2059%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:00:42Z"
+}

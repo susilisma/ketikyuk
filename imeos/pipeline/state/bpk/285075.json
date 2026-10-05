@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKOMINFO-2022-13",
+ "source": "bpk",
+ "bpk_id": 285075,
+ "url": "https://peraturan.bpk.go.id/Details/285075/permenkominfo-no-13-tahun-2022",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Informatika",
+ "number": "13",
+ "number_raw": "13",
+ "year": 2022,
+ "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 13 Tahun 2022 tentang Perubahan atas Peraturan Menteri Komunikasi dan Informatika Nomor 6 Tahun 2022 tentang Organisasi dan Tata Kerja Monumen Pers Nasional",
+ "about": "Perubahan atas Peraturan Menteri Komunikasi dan Informatika Nomor 6 Tahun 2022 tentang Organisasi dan Tata Kerja Monumen Pers Nasional",
+ "issuer": "Kementerian Komunikasi dan Informatika",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2022-12-06",
+ "date_promulgated": "2022-12-16",
+ "date_effective": "2022-12-16",
+ "gazette": "BN 2022 (1282); 5 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 344103,
+   "label": "Permenkomdigi No. 2 Tahun 2026",
+   "about": "Organisasi dan Tata Kerja Monumen Pers Nasional"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 228288,
+   "label": "Permenkominfo No. 6 Tahun 2022",
+   "about": "Organisasi dan Tata Kerja Monumen Pers Nasional"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Komunikasi dan Informatika ini mulai berlaku pada tanggal 16 Desember 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/344164/PermenKominfo_Nomor_13_Tahun_2022.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:16:07Z"
+}

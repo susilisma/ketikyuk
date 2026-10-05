@@ -1,0 +1,46 @@
+{
+ "id": "PERPRES-2025-2",
+ "source": "bpk",
+ "bpk_id": 314633,
+ "url": "https://peraturan.bpk.go.id/Details/314633/perpres-no-2-tahun-2025",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "2",
+ "number_raw": "2",
+ "year": 2025,
+ "title": "Peraturan Presiden (Perpres) Nomor 2 Tahun 2025 tentang Perubahan Kedua atas Peraturan Presiden Nomor 192 Tahun 2014 tentang Badan Pengawasan Keuangan dan Pembangunan",
+ "about": "Perubahan Kedua atas Peraturan Presiden Nomor 192 Tahun 2014 tentang Badan Pengawasan Keuangan dan Pembangunan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA - PENGAWASAN / AUDIT INTERNAL",
+ "field": "HUKUM TATA NEGARA",
+ "date_enacted": "2025-01-20",
+ "date_promulgated": "2025-01-20",
+ "date_effective": "2025-01-20",
+ "gazette": "LN 2025 (5) : 13 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2023-20",
+   "target_bpk_id": 244663,
+   "label": "PERPRES No. 20 Tahun 2023",
+   "about": "Perubahan atas Peraturan Presiden Nomor 192 Tahun 2014 tentang Badan Pengawasan Keuangan dan Pembangunan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2014-192",
+   "target_bpk_id": 41712,
+   "label": "PERPRES No. 192 Tahun 2014",
+   "about": "Badan Pengawasan Keuangan dan Pembangunan"
+  }
+ ],
+ "abstract": "Sebagian tugas dan fungsi Badan Pengawasan Keuangan dan Pembangunan sudah tidak sesuai dengan kebijakan dan/atau regulasi serta perubahan dinamika organisasi yang berkembang pada lingkup instansi pemerintah, sehingga perlu diubah dan/atau ditata kembali.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD NRI Tahun 1945 dan Perpres Nomor 192 Tahun 2014.\nPerpres ini mengubah beberapa ketentuan dalam Perpres Nomor 192 Tahun 2014. BPKP terdiri dari a) Kepala, b) Wakil Kepala, c) Sekretariat Utama, d) Deputi Bidang Pengawasan Instansi Pemerintah Bidang Perekonomian, Infrastruktur, dan Pembangunan Kewilayahan; e) Deputi Bidang Pengawasan Instansi Pemerintah Bidang Politik, Keamanan, Hukum, Pembangunan Manusia, dan Kebudayaan; f) Deputi Bidang Pengawasan Instansi Pemerintah Bidang Pemberdayaan Masyarakat dan Pangan; g) Deputi Bidang Pengawasan Penyelenggaraan Keuangan Daerah; h) Deputi Bidang Akuntan Negara; dan i) Deputi Bidang Investigasi.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 20 Januari 2025.\nPerpres ini mengubah Perpres Nomor 192 Tahun 2014.\nLampiran file: 13 hlm.",
+ "citations": [
+  "PERPRES-2014-192"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/375618/Perpres%20Nomor%202%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:03:30Z"
+}

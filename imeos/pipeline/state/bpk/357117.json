@@ -1,0 +1,50 @@
+{
+ "id": "PERMENKUM-2026-5",
+ "source": "bpk",
+ "bpk_id": 357117,
+ "url": "https://peraturan.bpk.go.id/Details/357117/permenkum-no-5-tahun-2026-pendaftaran-merek",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "5",
+ "number_raw": "5",
+ "year": 2026,
+ "title": "Peraturan Menteri Hukum Nomor 5 Tahun 2026 tentang Pendaftaran Merek",
+ "about": "Pendaftaran Merek",
+ "issuer": "Kementerian Hukum",
+ "subject": "HAK ATAS KEKAYAAN INTELEKTUAL",
+ "field": "HUKUM DAGANG",
+ "date_enacted": "2026-01-13",
+ "date_promulgated": "2026-02-23",
+ "date_effective": "2026-02-23",
+ "gazette": "BN 2026 (122): 30 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 170959,
+   "label": "Permenkumham No. 12 Tahun 2021",
+   "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 67 Tahun 2016 Tentang Pendaftaran Merek"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133289,
+   "label": "Permenkumham No. 67 Tahun 2016",
+   "about": "Pendaftaran Merek"
+  }
+ ],
+ "abstract": "Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 67 Tahun 2016 tentang Pendaftaran Merek sebagaimana telah diubah dengan Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 12 Tahun 2021 tentang Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 67 Tahun 2016 tentang Pendaftaran Merek sudah tidak sesuai dengan perkembangan dan kebutuhan hukum, sehingga perlu diganti.\nDasar hukum Peraturan ini adalah Pasal 17 ayat (3) UUD 1945; UU No. 39 Tahun 2008; UU No. 20 Tahun 2016; Perpres No. 155 Tahun 2024; Permenkum No. 1 Tahun 2024; dan Permenkum No. 2 Tahun 2024.\nPeraturan ini mengatur mengenai Pendaftaran Merek. Merek adalah tanda yang dapat ditampilkan secara grafis berupa gambar, logo, nama, kata, huruf, angka, susunan warna, dalam bentuk 2 (dua) dimensi dan/atau 3 (tiga) dimensi, suara, hologram, atau kombinasi dari 2 (dua) atau lebih unsur tersebut untuk membedakan barang dan/atau jasa yang diproduksi oleh orang atau badan hukum dalam kegiatan perdagangan barang dan/atau jasa. Pemohon atau Kuasanya mengajukan Permohonan kepada Menteri dengan mengisi formulir dalam bahasa Indonesia dengan dikenai biaya sesuai dengan ketentuan peraturan perundang-undangan di bidang penerimaan negara bukan pajak yang berlaku pada Kementerian Hukum.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 23 Februari 2026.\nPada saat Peraturan Menteri ini mulai berlaku: a. Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 67 Tahun 2016 tentang Pendaftaran Merek (Berita Negara Republik Indonesia Tahun 2016 Nomor 2134); dan b. Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 12 Tahun 2021 tentang Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 67 Tahun 2016 tentang Pendaftaran Merek (Berita Negara Republik Indonesia Tahun 2021 Nomor 105), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 30 hlm.",
+ "citations": [
+  "PERMENKUMHAM-2016-67",
+  "PERMENKUMHAM-2021-12",
+  "UU-2008-39",
+  "UU-2016-20",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/421138/Permenkum%20No%205%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:17:21Z"
+}

@@ -1,0 +1,40 @@
+{
+ "id": "PERBPOM-2025-31",
+ "source": "bpk",
+ "bpk_id": 343797,
+ "url": "https://peraturan.bpk.go.id/Details/343797/peraturan-bpom-no-31-tahun-2025",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "31",
+ "number_raw": "31",
+ "year": 2025,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 31 Tahun 2025 tentang Pedoman Penyelenggaraan Uji Kompetensi Jabatan Fungsional Pengawas Farmasi dan Makanan",
+ "about": "Pedoman Penyelenggaraan Uji Kompetensi Jabatan Fungsional Pengawas Farmasi dan Makanan",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "STANDAR / PEDOMAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-12-09",
+ "date_promulgated": "2025-12-16",
+ "date_effective": "2025-12-16",
+ "gazette": "BN 2025 (1061); 9 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 220310,
+   "label": "Perka BPOM No. 16 Tahun 2017",
+   "about": "Pedoman Pelaksanaan Uji Kompetensi Teknis Jabatan Fungsional Pengawas Farmasi dan Makanan di Lingkungan Badan Pengawas Obat dan Makanan"
+  }
+ ],
+ "abstract": "bahwa ketentuan mengenai uji kompetensi Jabatan Pengawas Farmasi dan Makanan sebagaimana telah diatur dalam Peraturan Kepala Badan Pengawas Obat dan Makanan Nomor 16 Tahun 2017 tentang Pedoman Pelaksanaan Uji Kompetensi Teknis Jabatan Fungsional Pengawas Farmasi dan Makanan di Lingkungan Badan Pengawas Obat dan Makanan sudah tidak sesuai dengan perkembangan hukum dan kebutuhan organisasi, sehingga perlu diganti\nDasar hukum peraturan ini adalah UU Nomor 20 Tahun 2023;\nPerpres Nomor 80 Tahun 2017;\nPerBPOM Nomor 21 Tahun 2020 sebagaimana telah diubah dengan PerBPOM Nomor 13 Tahun 2022;\nPerBPOM Nomor 23 Tahun 2020;\nPerBPOM Nomor 19 Tahun 2023 sebagaimana telah diubah dengan PerBPOM Nomor 3 Tahun 2025;\nPermenPANRB Nomor 13 Tahun 2024.\nDasar hukum peraturan ini adalah penyelenggaraan uji kompetensi Jabatan Fungsional Pengawas Farmasi dan Makanan (JF PFM) yang terdiri atas:\na. Uji Kompetensi JF PFM untuk promosi; dan\nb. Uji Kompetensi JF PFM untuk perpindahan dari jabatan lain; komponen uji kompetensi; peserta uji kompetensi; hasil uji kompetensi",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 16 Desember 2025.\nPada saat Peraturan Badan ini mulai berlaku, Peraturan Kepala Badan Pengawas Obat dan Makanan Nomor 16 Tahun 2017 tentang Pedoman Pelaksanaan Uji Kompetensi Teknis Jabatan Fungsional Pengawas Farmasi dan Makanan di Lingkungan Badan Pengawas Obat dan Makanan (Berita Negara Republik Indonesia Tahun 2017 Nomor 1362), dicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "UU-2023-20",
+  "PERPRES-2017-80"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/407035/peraturan-bpom-no-31-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:28:22Z"
+}

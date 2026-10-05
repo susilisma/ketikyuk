@@ -1,0 +1,41 @@
+{
+ "id": "PERMENKUM-2025-17",
+ "source": "bpk",
+ "bpk_id": 326206,
+ "url": "https://peraturan.bpk.go.id/Details/326206/permenkum-no-17-tahun-2025",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "17",
+ "number_raw": "17",
+ "year": 2025,
+ "title": "Peraturan Menteri Hukum Nomor 17 Tahun 2025 tentang Formasi Jabatan Notaris dan Penentuan Kategori Daerah",
+ "about": "Formasi Jabatan Notaris dan Penentuan Kategori Daerah",
+ "issuer": "Kementerian Hukum",
+ "subject": "HUKUM PIDANA, PERDATA, DAN DAGANG - JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "HUKUM PERDATA",
+ "date_enacted": "2025-05-15",
+ "date_promulgated": "2025-05-28",
+ "date_effective": "2025-08-28",
+ "gazette": "BN 2025 (370): 7 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 174158,
+   "label": "Permenkumham No. 19 Tahun 2021",
+   "about": "Formasi Jabatan Notaris dan Penentuan Kategori Daerah"
+  }
+ ],
+ "abstract": "Dengan bertambahnya jumlah penduduk, meningkatnya pertumbuhan ekonomi, adanya pemekaran wilayah kabupaten/kota di Indonesia, dan untuk memperluas penyebaran pelayanan jasa hukum oleh notaris di seluruh Indonesia serta meningkatkan pemahaman dan kesadaran masyarakat terhadap pelayanan jasa hukum di bidang kenotariatan, perlu dilakukan penataan kembali formasi jabatan notaris dan penentuan kategori daerah.\nDasar hukum Permenkum ini adalah Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU No 30 Tahun 2004; UU No. 39 Tahun 2008; Perpres No. 155 Tahun 2024; dan Permenkum No. 1 Tahun 2024.\nPermenkum ini mengatur mengenai ormasi Jabatan Notaris dan Penentuan Kategori Daerah. Menteri menentukan Formasi Jabatan Notaris dengan mempertimbangkan usul dari organisasi Notaris dan ditetapkan setiap 3 (tiga) tahun.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 28 Agustus 2025.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 19 Tahun 2021 tentang Formasi Jabatan Notaris dan Penentuan Kategori Daerah (Berita Negara Republik Indonesia Tahun 2021 Nomor 246), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 7 hlm.",
+ "citations": [
+  "UU-2004-30",
+  "UU-2008-39",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/388014/Permenkum%20Nomor%2017%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:19:39Z"
+}

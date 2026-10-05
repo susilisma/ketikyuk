@@ -1,0 +1,51 @@
+{
+ "id": "PERMENKUM-2025-28",
+ "source": "bpk",
+ "bpk_id": 326274,
+ "url": "https://peraturan.bpk.go.id/Details/326274/permenkum-no-28-tahun-2025",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "28",
+ "number_raw": "28",
+ "year": 2025,
+ "title": "Peraturan Menteri Hukum Nomor 28 Tahun 2025 tentang Tata Cara Pembentukan Peraturan Menteri Hukum",
+ "about": "Tata Cara Pembentukan Peraturan Menteri Hukum",
+ "issuer": "Kementerian Hukum",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-08-20",
+ "date_promulgated": "2025-08-25",
+ "date_effective": "2025-08-25",
+ "gazette": "BN 2025 (625): 10 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133208,
+   "label": "Permenkumham No. 22 Tahun 2017",
+   "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 30 Tahun 2015 tentang Tata Cara Pembentukan Peraturan Menteri di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133310,
+   "label": "Permenkumham No. 30 Tahun 2015",
+   "about": "Tata Cara Pembentukan Peraturan Menteri di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "Dalam rangka meningkatkan tertib administrasi dan menciptakan keseragaman dalam pembentukan Peraturan Menteri yang dilaksanakan dengan cara dan metode yang pasti, baku, dan standar yang mengikat seluruh unit eselon I di lingkungan Kementerian Hukum, Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 30 Tahun 2015 tentang Tata Cara Pembentukan Peraturan Menteri di Lingkungan Kementerian Hukum dan Hak Asasi Manusia sebagaimana telah diubah dengan Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 22 Tahun 2017 tentang Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 30 Tahun 2015 tentang Tata Cara Pembentukan Peraturan Menteri di Lingkungan Kementerian Hukum dan Hak Asasi Manusia sudah tidak sesuai dengan kebutuhan hukum dan perkembangan organisasi, sehingga perlu diganti.\nDasar hukum Permenkum ini adalah Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU No. 39 Tahun 2008; UU No. 12 Tahun 2011; Perpres No. 87 Tahun 2014; Perpres No. 87 Tahun 2014; Perpres No. 155 Tahun 2024; dan Permenkum No. 1 Tahun 2024.\nPermenkum ini mengatur mengenai Tata Cara Pembentukan Peraturan Menteri Hukum. Perencanaan penyusunan Peraturan Menteri di lingkungan Kementerian Hukum dilakukan dalam suatu Program Penyusunan Peraturan Menteri.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 25 Agustus 2025.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 30 Tahun 2015 tentang Tata Cara Pembentukan Peraturan Menteri di Lingkungan Kementerian Hukum dan Hak Asasi Manusia (Berita Negara Republik Indonesia Tahun 2015 Nomor 1474) sebagaimana telah diubah dengan Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 22 Tahun 2017 tentang Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 30 Tahun 2015 tentang Tata Cara Pembentukan Peraturan Menteri di Lingkungan Kementerian Hukum dan Hak Asasi Manusia (Berita Negara Republik Indonesia Tahun 2017 Nomor 1713), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 10 hlm.",
+ "citations": [
+  "PERMENKUMHAM-2015-30",
+  "PERMENKUMHAM-2017-22",
+  "UU-2008-39",
+  "UU-2011-12",
+  "PERPRES-2014-87",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/388083/Permenkum%20Nomor%2028%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:19:09Z"
+}

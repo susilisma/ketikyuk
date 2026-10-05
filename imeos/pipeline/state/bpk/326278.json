@@ -1,0 +1,40 @@
+{
+ "id": "PERBPOM-2025-20",
+ "source": "bpk",
+ "bpk_id": 326278,
+ "url": "https://peraturan.bpk.go.id/Details/326278/peraturan-bpom-no-20-tahun-2025",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "20",
+ "number_raw": "20",
+ "year": 2025,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 20 Tahun 2025 tentang Standar Cara Distribusi Obat yang Baik",
+ "about": "Standar Cara Distribusi Obat yang Baik",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "STANDAR / PEDOMAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-06-24",
+ "date_promulgated": "2025-07-03",
+ "date_effective": "2025-07-03",
+ "gazette": "BN 2025 (472); 96 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 182036,
+   "label": "Peraturan BPOM No. 9 Tahun 2019",
+   "about": "Pedoman Teknis Cara Distribusi Obat yang Baik"
+  }
+ ],
+ "abstract": "bahwa Peraturan Badan Pengawas Obat dan Makanan\nNomor 9 Tahun 2019 tentang Pedoman Teknis Cara\nDistribusi Obat yang Baik sebagaimana telah diubah\ndengan Peraturan Badan Pengawas Obat dan\nMakanan Nomor 6 Tahun 2020 tentang Perubahan\natas Peraturan Badan Pengawas Obat dan Makanan\nNomor 9 Tahun 2019 tentang Pedoman Teknis Cara\nDistribusi Obat yang Baik sudah tidak sesuai dengan\nkebutuhan hukum serta perkembangan teknologi di\nbidang distribusi obat, sehingga perlu diganti\nDasar hukum peraturan ini adalah PP Nomor 28 Tahun 2024; Perpres Noor 80 Tahun 2017; Peraturan BPOM Nomor 21 Tahun 2020 sebagaimana telah diubah dengan Peraturan BPOM Nomor 13 Tahun 2022; Peraturan BPOM Nomor 19 TAhun 2023 sebagaimana telah diubah dengan Peraturan BPOM Nomor 3 Tahun 2025\nPeraturan ini mengatur mengenai penerapan standar Cara Distribusi Obat yang Baik; sanksi administratif bagi Pedagang Besar Farmasi (PBF), PBF Cabang, Fasilitas Pengelolaan Kefarmasian,\nPenyelenggara Sistem Elektronik (PSE)/ Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE), dan/atau Industri Farmasi yang melanggar ketentuan",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 03 Juli 2025.",
+ "citations": [
+  "PERBPOM-2019-9",
+  "PP-2024-28"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/388087/peraturan-bpom-no-20-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:28:49Z"
+}

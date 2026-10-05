@@ -1,0 +1,42 @@
+{
+ "id": "PERMENKUM-2025-25",
+ "source": "bpk",
+ "bpk_id": 332340,
+ "url": "https://peraturan.bpk.go.id/Details/332340/permenkum-no-25-tahun-2025",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "25",
+ "number_raw": "25",
+ "year": 2025,
+ "title": "Peraturan Menteri Hukum Nomor 25 Tahun 2025 tentang Penyelenggaraan Layanan Jasa Hukum Persekutuan Perdata, Persekutuan Firma, dan Persekutuan Komanditer",
+ "about": "Penyelenggaraan Layanan Jasa Hukum Persekutuan Perdata, Persekutuan Firma, dan Persekutuan Komanditer",
+ "issuer": "Kementerian Hukum",
+ "subject": "HUKUM PIDANA, PERDATA, DAN DAGANG",
+ "field": "HUKUM DAGANG",
+ "date_enacted": "2025-06-24",
+ "date_promulgated": "2025-10-13",
+ "date_effective": "2025-10-13",
+ "gazette": "BN Tahun 2025 No. 812",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133158,
+   "label": "Permenkumham No. 17 Tahun 2018",
+   "about": "Pendaftaran Persekutuan Komanditer, Persekutuan Firma, dan Persekutuan Perdata"
+  }
+ ],
+ "abstract": "Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 17 Tahun 2018 tentang Pendaftaran Persekutuan Komanditer, Persekutuan Firma, dan Persekutuan Perdata belum sesuai dengan perkembangan hukum saat ini, sehingga perlu diganti.\nDasar hukum Permenkum ini adalah Pasal 17 ayat (3) UUD NRI Tahun 1945; UU No. 39 Tahun 2008; PP No. 28 Tahun 2025; Perpres No. 155 Tahun 2024; dan Permenkum No. 1 Tahun 2024.\nPermenkum ini mengatur mengenai Penyelenggaraan Layanan Jasa Hukum Persekutuan Perdata, Persekutuan Firma, dan Persekutuan Komanditer. Layanan jasa hukum dikenakan biaya sesuai dengan ketentuan peraturan perundang-undangan di bidang penerimaan negara bukan pajak yang berlaku pada Kementerian Hukum.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 13 Oktober 2025.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 17 Tahun Tahun 2018 tentang Pendaftaran Persekutuan Komanditer, Persekutuan Firma, dan Persekutuan Perdata (Berita Negara Republik Indonesia Tahun 2018 Nomor 1011), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 15 hlm.",
+ "citations": [
+  "PERMENKUMHAM-2018-17",
+  "UU-2008-39",
+  "PP-2025-28",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/394395/permenkum-no-25-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:19:19Z"
+}

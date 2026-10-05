@@ -1,0 +1,43 @@
+{
+ "id": "PERMENKUM-2025-19",
+ "source": "bpk",
+ "bpk_id": 326250,
+ "url": "https://peraturan.bpk.go.id/Details/326250/permenkum-no-19-tahun-2025",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "19",
+ "number_raw": "19",
+ "year": 2025,
+ "title": "Peraturan Menteri Hukum Nomor 19 Tahun 2025 tentang Sistem Kerja Aparatur Sipil Negara di Lingkungan Kementerian Hukum",
+ "about": "Sistem Kerja Aparatur Sipil Negara di Lingkungan Kementerian Hukum",
+ "issuer": "Kementerian Hukum",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-05-21",
+ "date_promulgated": "2025-05-27",
+ "date_effective": "2025-05-27",
+ "gazette": "BN 2025 (364): 10 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 277457,
+   "label": "Permenkumham No. 1 Tahun 2024",
+   "about": "Sistem Kerja Aparatur Sipil Negara di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "Untuk menindaklanjuti perubahan organisasi perlu dilakukan penyesuaian terhadap sistem kerja Aparatur Sipil Negara di lingkungan Kementerian Hukum guna mewujudkan birokrasi yang dinamis, efektif, dan profesional.\nDasar hukum Permenkum ini adalah Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU No. 39 Tahun 2008; UU No. 20 Tahun 2023; PP No. 11 Tahun 2017; PP No. 49 Tahun 2018; Perpres No. 155 Tahun 2024; Permen PANRB No. 6 Tahun 2022; Permen PANRB No. 7 Tahun 2022; Permenkum No. 1 Tahun 2024; dan Permenkum No. 2 Tahun 2024.\nPermenkum ini mengatur mengenai Sistem Kerja Aparatur Sipil Negara di Lingkungan Kementerian Hukum. Sistem Kerja digunakan sebagai instrumen bagi Pegawai Aparatur Sipil Negara dalam melaksanakan tugas dan fungsi Unit Organisasi pada Kementerian.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 27 Mei 2025.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 1 Tahun 2024 tentang Sistem Kerja Aparatur Sipil Negara di Lingkungan Kementerian Hukum dan Hak Asasi Manusia (Berita Negara Republik Indonesia Tahun 2024 Nomor 34), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 33 hlm (batang tubuh hlm 1 sd 10 dan lampiran hlm 11 sd 33)",
+ "citations": [
+  "UU-2008-39",
+  "UU-2023-20",
+  "PP-2017-11",
+  "PP-2018-49",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/388058/Permenkum%20Nomor%2019%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:19:33Z"
+}

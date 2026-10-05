@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKUMHAM-2018-38",
+ "source": "bpk",
+ "bpk_id": 133178,
+ "url": "https://peraturan.bpk.go.id/Details/133178/permenkumham-no-38-tahun-2018",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "38",
+ "number_raw": "38",
+ "year": 2018,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 38 Tahun 2018 tentang Permohonan Paten",
+ "about": "Permohonan Paten",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "HAK ATAS KEKAYAAN INTELEKTUAL",
+ "field": "Alias",
+ "date_enacted": "2018-12-19",
+ "date_promulgated": "2018-12-28",
+ "date_effective": "2018-12-28",
+ "gazette": "BN.2018/NO.1764, peraturan.go.id: 59 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 357118,
+   "label": "Permenkum No. 6 Tahun 2026",
+   "about": "Permohonan Paten"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 170960,
+   "label": "Permenkumham No. 13 Tahun 2021",
+   "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 38 Tahun 2018 Tentang Permohonan Paten"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 28 Desember 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/123966/Permenkumham%20Nomor%2038%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:17:27Z"
+}

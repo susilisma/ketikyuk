@@ -1,0 +1,39 @@
+{
+ "id": "PERBPOM-2025-2",
+ "source": "bpk",
+ "bpk_id": 313080,
+ "url": "https://peraturan.bpk.go.id/Details/313080/peraturan-bpom-no-2-tahun-2025",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "2",
+ "number_raw": "2",
+ "year": 2025,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 2 Tahun 2025 tentang Pedoman Sertifikasi Pelulusan Batch/Lot Vaksin",
+ "about": "Pedoman Sertifikasi Pelulusan Batch/Lot Vaksin",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "STANDAR / PEDOMAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-01-09",
+ "date_promulgated": "2025-01-20",
+ "date_effective": "2025-01-20",
+ "gazette": "BN 2025 (38); 31 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 245400,
+   "label": "Peraturan BPOM No. 1 Tahun 2023",
+   "about": "Pedoman Sertifikasi Pelulusan Bets/Lot Vaksin"
+  }
+ ],
+ "abstract": "bahwa pengaturan sertifikasi pelulusan Batch/lot Vaksin\nsebagaimana telah diatur dalam Peraturan Badan\nPengawas Obat dan Makanan Nomor 1 Tahun 2023\ntentang Pedoman Sertifikasi Pelulusan Bets/Lot Vaksin\nsudah tidak sesuai dengan kebutuhan hukum, sehingga\nperlu diganti\nDasar hukum peraturan ini adalah Perpres Nomor 80 Tahun 2017; Peraturan BPOM Nomor 21 Tahun 2020 sebagaimana telah diubah dengan Peraturan BPOM Nomor 13 Tahun 2022; Peraturan BPOM Nomor 23 Tahun 2020\nPeraturan ini mengatur mengenai pengaturan sertifikasi pelulusan Batch/lot Vaksin yang diproduksi dan/atau diedarkan di wilayah Indonesia wajib memiliki Izin Edar/EUA; permohonan penerbitan Sertifikat Pelulusan Batch/Lot Vaksin",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 20 Januari 2025.",
+ "citations": [
+  "PERPRES-2017-80"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/373928/peraturan-bpom-no-2-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:29:27Z"
+}

@@ -1,0 +1,43 @@
+{
+ "id": "PP-2025-18",
+ "source": "bpk",
+ "bpk_id": 320043,
+ "url": "https://peraturan.bpk.go.id/Details/320043/pp-no-18-tahun-2025",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "18",
+ "number_raw": "18",
+ "year": 2025,
+ "title": "Peraturan Pemerintah (PP) Nomor 18 Tahun 2025 tentang Perubahan atas Peraturan Pemerintah Nomor 15 Tahun 2022 tentang Perlakuan Perpajakan dan/atau Penerimaan Negara Bukan Pajak di Bidang Usaha Pertambangan Batubara",
+ "about": "Perubahan atas Peraturan Pemerintah Nomor 15 Tahun 2022 tentang Perlakuan Perpajakan dan/atau Penerimaan Negara Bukan Pajak di Bidang Usaha Pertambangan Batubara",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-04-11",
+ "date_promulgated": "2025-04-11",
+ "date_effective": "2025-04-26",
+ "gazette": "LN 2025 (42) : 19 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PP-2022-15",
+   "target_bpk_id": 206051,
+   "label": "PP No. 15 Tahun 2022",
+   "about": "Perlakuan Perpajakan dan/atau Penerimaan Negara Bukan Pajak di Bidang Usaha Pertambangan Batubara"
+  }
+ ],
+ "abstract": "Untuk memberikan kepastian hukum dan kepastian berusaha bagi pemegang izin usaha pertambangan khusus sebagai sebagai kelanjutan operasi kontrak/perjanjian, dalem melaksanakan kewajiban perpajakan dan/atau penerimaan negara bukan pajak dengan tetap mempertimbangkan peningkatan penerimaan negara sebagaimana diatur dalam 169A Undang-Undang Nomor 2 Tahun 2025 tentang perubahan Keempat atas Undang-Undang Nomor 4 Tahun 2009 tentang pertambangan Mineral dan Batubara, perlu menyesuaikan kembali besaran penerimaan negara bukan pajak di bidang usaha pertambangan batubara bagi pemegang izin usaha pertambangan khusus sebagai\nkelanjutan operasi kontrak/perjanjian.\nDasar hukum PP ini adalah Pasal 5 Ayat (2) UUD NRI Tahun 1945; UU No. 7 Tahun 1983; UU No. 4 Tahun 2009; UU No. 9 Tahun 2018; dan PP No. 15 Tahun 2022.\nPP ini mengubah dan/atau menambah beberapa ketentuan dalam PP Nomor 15 Tahun 2022. Peraturan ini merupakan perwujudan pertanggungjawaban Pemerintah Pusat atas penggunaan mineral dan Batubara yang ada di wilayah hukum Negara Kesatuan Republik Indonesia melalui pengelolaan dan pemanfaatan mineral dan Batubara secara optimal, efektif, dan efisien sehingga dapat mendorong dan mendukung perkembangan serta pembangunan industri nasional berbasis sumber daya mineral dan/atau energi batubara. Pengelolaan dan pemanfaatan mineral dan Batubara harus memberikan nilai tambah secara nyata bagi perekonomian nasional dalam usaha mencapai kemakmuran dan kesejahteraan rakyat secara berkeadilan.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 26 April 2025.\nPP ini mengubah PP Nomor 15 Tahun 2022.\nLampiran file: 19 hlm (batang tubuh hlm 1 sd 13 dan penjelasan hlm 14 sd 19)",
+ "citations": [
+  "UU-2025-2",
+  "UU-2009-4",
+  "UU-1983-7",
+  "UU-2018-9",
+  "PP-2022-15"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/381674/PP%20Nomor%2018%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T04:59:02Z"
+}

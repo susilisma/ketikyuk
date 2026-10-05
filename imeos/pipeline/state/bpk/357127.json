@@ -1,0 +1,56 @@
+{
+ "id": "PERMENKUM-2026-7",
+ "source": "bpk",
+ "bpk_id": 357127,
+ "url": "https://peraturan.bpk.go.id/Details/357127/permenkum-no-7-tahun-2026-tata-cara-pengharmonisasian-pembulatan-dan-pemantapan",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "7",
+ "number_raw": "7",
+ "year": 2026,
+ "title": "Peraturan Menteri Hukum Nomor 7 Tahun 2026 tentang Tata Cara Pengharmonisasian, Pembulatan, dan Pemantapan Konsepsi Rancangan Undang-Undang, Rancangan Peraturan Pemerintah, Rancangan Peraturan Presiden, dan Rancangan Peraturan Menteri/Badan/Lembaga/Komisi",
+ "about": "Tata Cara Pengharmonisasian, Pembulatan, dan Pemantapan Konsepsi Rancangan Undang-Undang, Rancangan Peraturan Pemerintah, Rancangan Peraturan Presiden, dan Rancangan Peraturan Menteri/Badan/Lembaga/Komisi",
+ "issuer": "Kementerian Hukum",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-01-15",
+ "date_promulgated": "2026-01-21",
+ "date_effective": "2026-01-21",
+ "gazette": "BN 2026 (47): 27 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133163,
+   "label": "Permenkumham No. 23 Tahun 2018",
+   "about": "Pengharmonisasian Rancangan Peraturan Menteri, Rancangan Peraturan Lembaga Pemerintah Nonkementerian, atau Rancangan Peraturan dari Lembaga Nonstruktural oleh Perancang Peraturan Perundang-Undangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133263,
+   "label": "Permenkumham No. 40 Tahun 2016",
+   "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 20 Tahun 2015 tentang Tata Cara dan Prosedur Pengharmonisasian, Pembulatan, dan Pemantapan Konsepsi Rancangan Peraturan Perundang-Undangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133305,
+   "label": "Permenkumham No. 20 Tahun 2015",
+   "about": "Tata Cara dan Prosedur Pengharmonisasian, Pembulatan, dan Pemantapan Konsepsi Rancangan Peraturan Perundang-Undangan"
+  }
+ ],
+ "abstract": "Pengharmonisasian, pembulatan, dan pemantapan konsepsi Rancangan Undang-Undang, Rancangan Peraturan Pemerintah, Rancangan Peraturan Presiden, dan Rancangan Peraturan Menteri/Badan/Lembaga/Komisi perlu dilaksanakan secara efektif dan efisien serta tertib administrasi.\nDasar hukum Peraturan ini adalah Pasal 17 ayat (3) UUD 1945; UU No. 39 Tahun 2008; UU No. 12 Tahun 2011; Perpres No. 87 Tahun 2014; Perpres No. 155 Tahun 2024; dan Permenkum No. 1 Tahun 2024.\nPeraturan ini mengatur mengenai Tata Cara Pengharmonisasian, Pembulatan, dan Pemantapan Konsepsi Rancangan Undang-Undang, Rancangan Peraturan Pemerintah, Rancangan Peraturan Presiden, dan Rancangan Peraturan Menteri/Badan/Lembaga/Komisi yang dilaksanakan oleh Menteri melalui Direktur Jenderal. Pengharmonisasian dilakukan melalui tahapan: a. permohonan Pengharmonisasian; b. pemeriksaan administratif; c. rapat Pengharmonisasian; d. paraf persetujuan; dan e. penyampaian hasil Pengharmonisasian.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 21 Januari 2026.\nPada saat Peraturan Menteri ini mulai berlaku: a. Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 20 Tahun 2015 tentang Tata Cara dan Prosedur Pengharmonisasian, Pembulatan, dan Pemantapan Konsepsi Rancangan Peraturan Perundang-undangan (Berita Negara Republik Indonesia Tahun 2015 Nomor 1257) sebagaimana telah diubah dengan Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 40 Tahun 2016 tentang Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 20 Tahun 2015 tentang Tata Cara dan Prosedur Pengharmonisasian, Pembulatan, dan Pemantapan Konsepsi Rancangan Peraturan Perundang-undangan (Berita Negara Republik Indonesia Tahun 2016 Nomor 1715); dan b. Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 23 Tahun 2018 tentang Pengharmonisasian Rancangan Peraturan Menteri, Rancangan Peraturan Lembaga Pemerintah Nonkementerian, atau Rancangan Peraturan dari Lembaga Nonstruktural oleh Perancang Peraturan Perundang-Undangan (Berita Negara Republik Indonesia Tahun 2018 Nomor 1134), dicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "UU-2008-39",
+  "UU-2011-12",
+  "PERPRES-2014-87",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/421148/Permenkum%20No%207%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:17:29Z"
+}

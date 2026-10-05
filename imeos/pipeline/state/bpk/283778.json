@@ -1,0 +1,53 @@
+{
+ "id": "PMK-2023-145",
+ "source": "bpk",
+ "bpk_id": 283778,
+ "url": "https://peraturan.bpk.go.id/Details/283778/pmk-no-145-tahun-2023",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "145",
+ "number_raw": "145",
+ "year": 2023,
+ "title": "Peraturan Menteri Keuangan Nomor 145 Tahun 2023 tentang Pengelolaan Dana Desa",
+ "about": "Pengelolaan Dana Desa",
+ "issuer": "Kementerian Keuangan",
+ "subject": "DESA - DANA DESA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2023-12-27",
+ "date_promulgated": "2023-12-28",
+ "date_effective": "2024-01-01",
+ "gazette": "BN.2023 (1051)/56 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2026-7",
+   "target_bpk_id": 344446,
+   "label": "PMK No. 7 Tahun 2026",
+   "about": "Pengelolaan Dana Desa Tahun Anggaran 2026"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2022-201",
+   "target_bpk_id": 234554,
+   "label": "PMK No. 201/PMK.07/2022",
+   "about": "Pengelolaan Dana Desa"
+  }
+ ],
+ "abstract": "a. bahwa berdasarkan kententuan Pasal 106 Undang• Undang Nomor 1 Tahun 2022 tentang Hubungan Keuangan antara Pemerintah Pusat dan Pemerintah Daerah, dana desa merupakan salah satu dari jenis transfer ke daerah yang diperuntukkan bagi desa dengan tujuan untuk mendukung pendanaan penyelenggaraan pemerintahan, pelaksanaan pembangunan, pemberdayaan masyarakat, dan kemasyarakatan;\nb. bahwa berdasarkan ketentuan Pasal 116 Peraturan Pemerintah Nomor 45 Tahun 2013 ten tang Tata Cara Pelaksanaan Anggaran Pendapatan dan Belanja Negara sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 50 Tahun 2018 tentang Perubahan atas Peraturan Pemerintah Nomor 45 Tahun 2013 tentang Tata Cara Pelaksanaan Anggaran Pendapatan dan Belanja Negara, ketentuan lebih lanjut mengenai\ntata cara pelaksanaan anggaran transfer ke daerah\nc. diatur dengan Peraturan\nbahwa berdasarkan Menteri Keuangan;\npertimbangan sebagaimana\ndimaksud dalam huruf a dan huruf b, perlu\nmenetapkan Peraturan Menteri Keuangan tentang\nPengelolaan Dana Desa;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008,Undang-Undang Nomor 1 Tahun 2022, Peraturan Pemerintah Nomor 45 Tahun 2013, Peraturan Pemerintah Nomor 37 Tahun 2023, Peraturan Presiden Nomor 57 Tahun 2020, Peraturan Menteri Keuangan Nomor 118/PMK.01/2021 dan Peraturan Menteri Keuangan Nomor 62 Tahun 2023\nPeraturan ini mengatur tentang ketentuan umum, pejabat perbendaharaan negara pengelolaan dana desa, penganggaran, pengalokasian, penyaluran, penatanusahaan pertanggungjawaban dan pelaporan, pengggunaan, pemantauan dan evaluasi, pengehntian dan/atau penundaan penyaluran dana desa, ketentuan lain-lain dan ketentuan penutup",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 01 Januari 2024.\nPeraturan Menteri Keuangan Nomor 201/PMK.07 /2022 tentang Pengelolaan Dana Desa dicabut dan dinyatakan tidak berlaku",
+ "citations": [
+  "PP-2013-45",
+  "PP-2018-50",
+  "UU-2008-39",
+  "UU-2022-1",
+  "PP-2023-37",
+  "PERPRES-2020-57",
+  "PMK-2021-118",
+  "PMK-2023-62"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/342821/2023pmkeuangan145.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:05:13Z"
+}

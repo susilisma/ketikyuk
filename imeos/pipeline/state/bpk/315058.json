@@ -1,0 +1,52 @@
+{
+ "id": "PMK-2025-17",
+ "source": "bpk",
+ "bpk_id": 315058,
+ "url": "https://peraturan.bpk.go.id/Details/315058/pmk-no-17-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "17",
+ "number_raw": "17",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 17 Tahun 2025 tentang Penyidikan Tindak Pidana Di Bidang Perpajakan",
+ "about": "Penyidikan Tindak Pidana Di Bidang Perpajakan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN - TINDAK PIDANA",
+ "field": "HUKUM PIDANA",
+ "date_enacted": "2025-02-19",
+ "date_promulgated": "2025-02-25",
+ "date_effective": "2025-02-25",
+ "gazette": "BN.2025 (121)/50 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2016-55",
+   "target_bpk_id": 144974,
+   "label": "PMK No. 55/PMK.03/2016",
+   "about": "Tata Cara Permintaan Penghentian Penyidikan Tindak Pidana di Bidang Perpajakan untuk Kepentingan Penerimaan Negara"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "PMK-2021-18",
+   "target_bpk_id": 162653,
+   "label": "PMK No. 18/PMK.03/2021",
+   "about": "Pelaksanaan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja di Bidang Pajak Penghasilan, Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, serta Ketentuan Umum dan Tata Cara Perpajakan"
+  }
+ ],
+ "abstract": "a. bahwa untuk memberikan kepastian hukum terhadap pelaksanaan penyidikan tindak pidana di bidang perpajakan, memberikan keadilan dan perlindungan hak asasi manusia bagi wajib pajak, dan di sisi lain tetap memberikan perlindungan bagi negara dalam memperoleh hak atas pendapatan negara, perlu\nmengatur ketentuan mengenai pelaksanaan penyidikan tindak pidana di bidang perpajakan dan pelunasan atas perkara yang telah dilimpahkan ke pengadilan serta mengatur kembali ketentuan penghentian penyidikan tindak pidana di bidang perpajakan;\nb. bahwa ketentuan dalam Peraturan Menteri Keuangan\nNomor 55/PMK.03/2016 tentang Tata Cara Permintaan\nPenghentian Penyidikan Tindak Pidana di Bidang Perpajakan untuk Kepentingan Penerimaan Negara belum menampung ketentuan sebagaimana dimaksud dalam huruf a sehingga perlu diganti;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b serta untuk melaksanakan ketentuan Pasal 44E ayat (2) huruf i Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang- Undang Republik Indonesia Nomor 2 Tahun 2022 tentang Cipta Kerja Menjadi Undang-Undang dan ketentuan Pasal 64 Peraturan Pemerintah Nomor 50\nTahun 2022 tentang Tata Cara Pelaksanaan Hak dan\nPemenuhan Kewajiban Perpajakan, perlu menetapkan Peraturan Menteri Keuangan tentang Penyidikan Tindak Pidana di Bidang Perpajakan;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 6 Tahun 1983, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 50 Tahun 2022, Peraturan Presiden Nomor 158 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengatur tentang ketentuan umum, ruang lingkup, dasar penyidikan, kegiatan penyidikan, penghentian penyidikan untuk kepentingan penerimaan negara, permintaan informasi kerugian pada pendapatan negara, penanganan penyidikan di luar yurisdiksi Indonesia atau lintas batas negara, penyampaian dokumen, ketentuan peralihan dan ketentuan penutup",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 25 Februari 2025.\nPeraturan ini mnecabut dan menyatakan tidak berlaku atas :\na. Peraturan Menteri Keuangan Nomor 55/PMK.03/2016 tentang Tata Cara Permintaan Penghentian Penyidikan\nTindak Pidana di Bidang Perpajakan untuk Kepentingan Penerimaan Negara.\nb. Pasal 108 Peraturan Menteri Keuangan Nomor\n18/PMK.03/2021 tentang Pelaksanaan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja di Bidang Pajak Penghasilan, Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, serta Ketentuan Umum dan Tata Cara Perpajakan",
+ "citations": [
+  "PMK-2016-55",
+  "UU-1983-6",
+  "UU-2023-6",
+  "PP-2022-50",
+  "UU-2008-39",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/376087/17%20th%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:09:24Z"
+}

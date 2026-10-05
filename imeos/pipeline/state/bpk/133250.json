@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKUMHAM-2016-26",
+ "source": "bpk",
+ "bpk_id": 133250,
+ "url": "https://peraturan.bpk.go.id/Details/133250/permenkumham-no-26-tahun-2016",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "26",
+ "number_raw": "26",
+ "year": 2016,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 26 Tahun 2016 tentang Kartu Perjalanan Pebisnis Asia Pacific Economic Cooperation",
+ "about": "Kartu Perjalanan Pebisnis Asia Pacific Economic Cooperation",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "KEWARGANEGARAAN DAN IMIGRASI - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN - HUBUNGAN INTERNASIONAL / KERJA SAMA INTERNASIONAL",
+ "field": "Alias",
+ "date_enacted": "2016-06-30",
+ "date_promulgated": "2016-07-19",
+ "date_effective": "2016-07-19",
+ "gazette": "BN.2016/No.1054, peraturan.go.id : 10 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 316858,
+   "label": "Permen Imipas No. 4 Tahun 2025",
+   "about": "Kartu Perjalanan Pebisnis Asia Pacific Economic Cooperation"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 19 Juli 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/124037/Permenkumham%20Nomor%2026%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:21:09Z"
+}

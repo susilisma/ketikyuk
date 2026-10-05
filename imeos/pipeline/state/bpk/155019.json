@@ -12,7 +12,7 @@
  "about": "Tata Cara Penetapan Tarif atas Jenis Penerimaan Negara Bukan Pajak",
  "issuer": "Pemerintah Pusat",
  "subject": "PNBP / PENERIMAAN NEGARA BUKAN PAJAK - STANDAR / PEDOMAN",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2020-12-07",
  "date_promulgated": "2020-12-07",
  "date_effective": "2020-12-07",
@@ -35,5 +35,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/147382/PP%20Nomor%2069%20Tahun%202020.pdf"
  ],
- "fetched_at": "2026-09-14T05:28:58Z"
+ "fetched_at": "2026-10-05T04:58:18Z"
 }

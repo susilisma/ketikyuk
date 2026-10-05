@@ -1,0 +1,79 @@
+{
+ "id": "PMK-2017-228",
+ "source": "bpk",
+ "bpk_id": 112987,
+ "url": "https://peraturan.bpk.go.id/Details/112987/pmk-no-228pmk032017",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "228",
+ "number_raw": "228/PMK.03/2017",
+ "year": 2017,
+ "title": "Peraturan Menteri Keuangan Nomor 228/PMK.03/2017 Tahun 2017 tentang Rincian Jenis Data Dan Informasi Serta Tata Cara Penyampaian Data Dan Informasi Yang Berkaitan Dengan Perpajakan",
+ "about": "Rincian Jenis Data Dan Informasi Serta Tata Cara Penyampaian Data Dan Informasi Yang Berkaitan Dengan Perpajakan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET - PERPAJAKAN",
+ "field": "Alias",
+ "date_enacted": "2017-12-29",
+ "date_promulgated": "2017-12-29",
+ "date_effective": "2017-12-29",
+ "gazette": "BN.2017/NO.1977, jdih.kemenkeu.go.id : 8 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2026-8",
+   "target_bpk_id": 345959,
+   "label": "PMK No. 8 Tahun 2026",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 228/PMK.03/2017 tentang Rincian Jenis dan Data Informasi Serta Tata Cara Penyampaian Data dan Informasi yang Berkaitan dengan Perpajakan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2016-39",
+   "target_bpk_id": 144883,
+   "label": "PMK No. 39/PMK.03/2016",
+   "about": "Perubahan Kelima atas Peraturan Menteri Keuangan Nomor 16/PMK.03/2013 tentang Rincian Jenis Data dan Informasi Serta Tata Cara Penyampaian Data dan Informasi yang Berkaitan dengan Perpajakan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2014-191",
+   "target_bpk_id": 144929,
+   "label": "PMK No. 191/PMK.03/2014",
+   "about": "Perubahan Keempat atas Peraturan Menteri Keuangan Nomor 16/PMK.03/2013 tentang Rincian Jenis Data dan Informasi Serta Tata Cara Penyampaian Data dan Informasi yang Berkaitan dengan Perpajakan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2013-95",
+   "target_bpk_id": 144924,
+   "label": "PMK No. 95/PMK.03/2013",
+   "about": "Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 16/PMK.03/2013 tentang Rincian Jenis Data dan Informasi Serta Tata Cara Penyampaian Data dan Informasi yang Berkaitan dengan Perpajakan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2013-79",
+   "target_bpk_id": 144920,
+   "label": "PMK No. 79/PMK.03/2013",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 16/PMK.03/2013 tentang Rincian Jenis Data dan Informasi Serta Tata Cara Penyampaian Data dan Informasi yang Berkaitan dengan Perpajakan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2013-16",
+   "target_bpk_id": 144911,
+   "label": "PMK No. 16/PMK.03/2013",
+   "about": "Rincian Jenis Data dan Informasi Serta Tata Cara Penyampaian Data dan Informasi yang Berkaitan dengan Perpajakan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2013-132",
+   "target_bpk_id": 144928,
+   "label": "PMK No. 132/PMK.03/2013",
+   "about": "Perubahan Ketiga atas Peraturan Menteri Keuangan Nomor 16/PMK.03/2013 tentang Rincian Jenis Data dan Informasi Serta Tata Cara Penyampaian Data dan Informasi yang Berkaitan dengan Perpajakan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 29 Desember 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/103936/PMK%20Nomor%20228%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:05:11Z"
+}

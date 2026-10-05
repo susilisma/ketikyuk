@@ -1,0 +1,44 @@
+{
+ "id": "PERPRES-2011-15",
+ "source": "bpk",
+ "bpk_id": 41149,
+ "url": "https://peraturan.bpk.go.id/Details/41149/perpres-no-15-tahun-2011",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "15",
+ "number_raw": "15",
+ "year": 2011,
+ "title": "Peraturan Presiden (Perpres) Nomor 15 Tahun 2011 tentang Perubahan atas Peraturan Presiden Nomor 77 Tahun 2005 tentang Penetapan Pupuk Bersubsidi Sebagai Barang dalam Pengawasan",
+ "about": "Perubahan atas Peraturan Presiden Nomor 77 Tahun 2005 tentang Penetapan Pupuk Bersubsidi Sebagai Barang dalam Pengawasan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PANGAN, PERTANIAN DAN PETERNAKAN - BANTUAN, SUMBANGAN, BENCANA / KEBENCANAAN, DAN PENANGGULANGAN BENCANA",
+ "field": "Alias",
+ "date_enacted": "2011-03-02",
+ "date_promulgated": null,
+ "date_effective": "2011-03-02",
+ "gazette": "LL : 3 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2025-6",
+   "target_bpk_id": 313407,
+   "label": "Perpres No. 6 Tahun 2025",
+   "about": "Tata Kelola Pupuk Bersubsidi"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2005-77",
+   "target_bpk_id": 42603,
+   "label": "PERPRES No. 77 Tahun 2005",
+   "about": "Penetapan Pupuk Bersubsidi Sebagai Barang dalam Pengawasan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 02 Maret 2011.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/69346/Perpres_no_15_2011.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:03:24Z"
+}

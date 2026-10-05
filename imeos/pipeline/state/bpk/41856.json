@@ -12,7 +12,7 @@
  "about": "Percepatan Penyelenggaraan Prasarana dan Sarana Kereta Cepat antara Jakarta dan Bandung",
  "issuer": "Pemerintah Pusat",
  "subject": "TRANSPORTASI DARAT / LAUT / UDARA",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2015-10-06",
  "date_promulgated": "2015-10-06",
  "date_effective": "2016-10-06",
@@ -40,5 +40,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/34791/Perpres%20Nomor%20107%20Tahun%202015.pdf"
  ],
- "fetched_at": "2026-09-14T05:31:27Z"
+ "fetched_at": "2026-10-05T04:59:52Z"
 }

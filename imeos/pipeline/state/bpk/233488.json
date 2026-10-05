@@ -12,7 +12,7 @@
  "about": "Penyesuaian Pengaturan di Bidang Pajak Penghasilan",
  "issuer": "Pemerintah Pusat",
  "subject": "PERPAJAKAN",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2022-12-20",
  "date_promulgated": "2022-12-20",
  "date_effective": "2022-12-20",
@@ -84,5 +84,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/284096/PP%20Nomor%2055%20Tahun%202022.pdf"
  ],
- "fetched_at": "2026-09-14T05:27:52Z"
+ "fetched_at": "2026-10-05T04:56:40Z"
 }

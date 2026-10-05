@@ -12,7 +12,7 @@
  "about": "Jenis Dan Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Berlaku Pada Kementerian Riset Dan Teknologi",
  "issuer": "Pemerintah Pusat",
  "subject": "ILMU PENGETAHUAN DAN TEKNOLOGI - PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2014-02-14",
  "date_promulgated": "2014-02-14",
  "date_effective": "2014-03-15",
@@ -40,5 +40,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/30007/PP%20Nomor%2013%20Tahun%202014.pdf"
  ],
- "fetched_at": "2026-09-14T05:28:18Z"
+ "fetched_at": "2026-10-05T04:57:07Z"
 }

@@ -12,7 +12,7 @@
  "about": "Pedoman Pembayaran Dana Iuran Peserta Program Jaminan Kehilangan Pekerjaan oleh Pemerintah",
  "issuer": "Kementerian Ketenagakerjaan",
  "subject": "ASURANSI - KETENAGAKERJAAN - STANDAR / PEDOMAN",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2022-11-24",
  "date_promulgated": "2022-12-02",
  "date_effective": "2022-12-02",
@@ -33,5 +33,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/301546/Permenaker%2020%20Tahun%202022.pdf"
  ],
- "fetched_at": "2026-09-14T06:41:11Z"
+ "fetched_at": "2026-10-05T05:15:16Z"
 }

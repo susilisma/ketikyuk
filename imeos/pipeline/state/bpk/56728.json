@@ -1,0 +1,51 @@
+{
+ "id": "KEPPRES-2002-64",
+ "source": "bpk",
+ "bpk_id": 56728,
+ "url": "https://peraturan.bpk.go.id/Details/56728/keppres-no-64-tahun-2002",
+ "form": "KEPPRES",
+ "form_long": "Keputusan Presiden (Keppres)",
+ "number": "64",
+ "number_raw": "64",
+ "year": 2002,
+ "title": "Keputusan Presiden (Keppres) Nomor 64 Tahun 2002 tentang Uang Kehormatan Bagi Hakim Ad Hoc",
+ "about": "Uang Kehormatan Bagi Hakim Ad Hoc",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2002-08-31",
+ "date_promulgated": null,
+ "date_effective": "2002-08-31",
+ "gazette": "",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2026-5",
+   "target_bpk_id": 347929,
+   "label": "Perpres No. 5 Tahun 2026",
+   "about": "Hak Keuangan dan Fasilitas Hakim Ad Hoc"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PERPRES-2023-42",
+   "target_bpk_id": 252136,
+   "label": "PERPRES No. 42 Tahun 2023",
+   "about": "Perubahan atas Peraturan Presiden Nomor 5 Tahun 2013 tentang Hak Keuangan dan Fasilitas Hakim Ad Hoc"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2010-85",
+   "target_bpk_id": 41103,
+   "label": "PERPRES No. 85 Tahun 2010",
+   "about": "Perubahan atas Keputusan Presiden Nomor 64 Tahun 2002 tentang Uang Kehormatan bagi Hakim Ad Hoc"
+  }
+ ],
+ "abstract": "",
+ "note": "Keputusan Presiden (Keppres) ini mulai berlaku pada tanggal 31 Agustus 2002.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/46217/KEPPRES%20No.64%20TH%202002.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:00:39Z"
+}

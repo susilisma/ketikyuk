@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKUMHAM-2017-20",
+ "source": "bpk",
+ "bpk_id": 133201,
+ "url": "https://peraturan.bpk.go.id/Details/133201/permenkumham-no-20-tahun-2017",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "20",
+ "number_raw": "20",
+ "year": 2017,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 20 Tahun 2017 tentang Kode Etik dan Kode Perilaku Pegawai Kementerian Hukum dan Hak Asasi Manusia",
+ "about": "Kode Etik dan Kode Perilaku Pegawai Kementerian Hukum dan Hak Asasi Manusia",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA - KODE ETIK",
+ "field": "Alias",
+ "date_enacted": "2017-10-27",
+ "date_promulgated": "2017-10-27",
+ "date_effective": "2017-10-27",
+ "gazette": "BN.2019/NO.1507, peraturan.go.id : 17 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 350884,
+   "label": "Permenkum No. 31 Tahun 2025",
+   "about": "Kode Etik dan Kode Perilaku Pegawai"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 27 Oktober 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/123989/Permenkumham%20Nomor%2020%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:19:02Z"
+}

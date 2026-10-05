@@ -12,7 +12,7 @@
  "about": "Jenis Dan Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Berasal Dari Pelayanan Kesehatan Di Lingkungan Kementerian Pertahanan",
  "issuer": "Pemerintah Pusat",
  "subject": "KESEHATAN - PNBP / PENERIMAAN NEGARA BUKAN PAJAK - PERTAHANAN DAN KEAMANAN, MILITER",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2014-03-05",
  "date_promulgated": "2014-03-05",
  "date_effective": "2014-03-05",
@@ -33,5 +33,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/30026/PP%20Nomor%2017%20Tahun%202014.pdf"
  ],
- "fetched_at": "2026-09-14T05:27:57Z"
+ "fetched_at": "2026-10-05T04:56:44Z"
 }

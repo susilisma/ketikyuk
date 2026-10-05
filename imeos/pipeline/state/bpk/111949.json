@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKES-2018-34",
+ "source": "bpk",
+ "bpk_id": 111949,
+ "url": "https://peraturan.bpk.go.id/Details/111949/permenkes-no-34-tahun-2018",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "34",
+ "number_raw": "34",
+ "year": 2018,
+ "title": "Peraturan Menteri Kesehatan Nomor 34 Tahun 2018 tentang Izin Dan Penyelenggaraan Praktik Akupunktur Terapis",
+ "about": "Izin Dan Penyelenggaraan Praktik Akupunktur Terapis",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - PERIZINAN, PELAYANAN PUBLIK - JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "Alias",
+ "date_enacted": "2018-07-30",
+ "date_promulgated": "2018-08-02",
+ "date_effective": "2018-08-02",
+ "gazette": "BN.2018/NO.1024, kemkes.go.id : 14 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2025-13",
+   "target_bpk_id": 335214,
+   "label": "Permenkes No. 13 Tahun 2025",
+   "about": "Pengelolaan Sumber Daya Manusia Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 02 Agustus 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/102902/Permenkes%20Nomor%2034%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:23:48Z"
+}

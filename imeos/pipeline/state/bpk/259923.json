@@ -1,0 +1,43 @@
+{
+ "id": "PERMENDAG-2023-9",
+ "source": "bpk",
+ "bpk_id": 259923,
+ "url": "https://peraturan.bpk.go.id/Details/259923/permendag-no-9-tahun-2023",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "9",
+ "number_raw": "9",
+ "year": 2023,
+ "title": "Peraturan Menteri Perdagangan Nomor 9 Tahun 2023 tentang Petunjuk Penggunaan Pakaian Seragam Pegawai Di Lingkungan Kementrian Perdagangan",
+ "about": "Petunjuk Penggunaan Pakaian Seragam Pegawai Di Lingkungan Kementrian Perdagangan",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "Alias",
+ "date_enacted": "2023-02-13",
+ "date_promulgated": "2023-02-21",
+ "date_effective": "2023-02-21",
+ "gazette": "BN.2023 (169)/11 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2025-13",
+   "target_bpk_id": 320925,
+   "label": "Permendag No. 13 Tahun 2025",
+   "about": "Pencabutan Peraturan Menteri Perdagangan Nomor 09 Tahun 2023 tentang\r\nPetunjuk Penggunaan Pakaian Seragam Pegawai di Lingkungan Kementerian Perdagangan"
+  }
+ ],
+ "abstract": "a. bahwa untuk menumbuhkan jiwa karsa, etos kerja, dan menjalin rasa kesatuan serta meningkatkan pelayanan masyarakat yang bersih dan tertib, perlu menggunakan pakaian seragam pegawai dalam pelaksanaan tugas sehari-hari di lingkungan Kementerian Perdagangan;\nb. bahwa Peraturan Menteri Perdagangan Nomor 04/M- DAG/PER/2/2017 tentang Petunjuk Penggunaan Pakaian Seragam Pegawai di Lingkungan Kementerian Perdagangan sudah tidak sesuai dengan perkembangan dan kebutuhan organisasi saat ini, sehingga perlu diganti;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Menteri Perdagangan tentang Petunjuk Penggunaan Pakaian Seragam Pegawai di Lingkungan Kementerian Perdagangan;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 5 Tahun 2014, Peraturan Pemerintah Nomor 94 Tahun 2021, Peraturan Presiden Nomor 11 Tahun 2022 dan Peraturan Menteri Perdagangan Nomor 29 Tahun 2022\nPeraturan Menteri ini mengatur tentang ketentuan umum, kewajiban, jenis seragam, pembinaan dan pengawasan, sanksi dan ketentuan peralihan",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 21 Februari 2023.\nPeraturan Menteri Perdagangan Nomor 04/M-DAG/PER/2/2017 tentang Petunjuk Penggunaan Pakaian Seragam Pegawai di Lingkungan Kementerian Perdagangan dicabut dan dinyatakan tidak berlaku",
+ "citations": [
+  "UU-2008-39",
+  "UU-2014-5",
+  "PP-2021-94",
+  "PERPRES-2022-11",
+  "PERMENDAG-2022-29"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/316923/no-09-tahun-2023.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:11:50Z"
+}

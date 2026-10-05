@@ -12,7 +12,7 @@
  "about": "Penjualan Sura Utang Negara Ritel Di Pasar Perdana Domestik",
  "issuer": "Kementerian Keuangan",
  "subject": "PIUTANG, UTANG, DAN HIBAH NEGARA / DAERAH",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2020-03-30",
  "date_promulgated": "2020-03-31",
  "date_effective": "2020-03-31",
@@ -42,5 +42,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/127807/27_PMK.08_2020.pdf"
  ],
- "fetched_at": "2026-09-14T06:32:16Z"
+ "fetched_at": "2026-10-05T05:06:44Z"
 }

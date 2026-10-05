@@ -1,0 +1,51 @@
+{
+ "id": "PERMENKUMHAM-2022-21",
+ "source": "bpk",
+ "bpk_id": 280240,
+ "url": "https://peraturan.bpk.go.id/Details/280240/permenkumham-no-21-tahun-2022",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "21",
+ "number_raw": "21",
+ "year": 2022,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 21 Tahun 2022 tentang Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 9 Tahun 2021 tentang Jabatan dan Kelas Jabatan di Lingkungan Kementerian Hukum dan Hak Asasi Manusia",
+ "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 9 Tahun 2021 tentang Jabatan dan Kelas Jabatan di Lingkungan Kementerian Hukum dan Hak Asasi Manusia",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2022-10-19",
+ "date_promulgated": "2022-10-25",
+ "date_effective": "2022-10-25",
+ "gazette": "BN 2022 (1083) : 5 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": null,
+   "target_bpk_id": 352485,
+   "label": "Permen Imipas No. 3 Tahun 2026",
+   "about": "Jabatan dan Kelas Jabatan di Lingkungan Kementerian Imigrasi dan Pemasyarakatan"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": null,
+   "target_bpk_id": 350886,
+   "label": "Permenkum No. 38 Tahun 2025",
+   "about": "Jabatan dan Kelas Jabatan di Lingkungan Kementerian Hukum"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 170954,
+   "label": "Permenkumham No. 9 Tahun 2021",
+   "about": "Jabatan dan Kelas Jabatan di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 25 Oktober 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/339004/Nomor%2021%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:18:46Z"
+}

@@ -1,0 +1,44 @@
+{
+ "id": "PERMENDAG-2019-69",
+ "source": "bpk",
+ "bpk_id": 132618,
+ "url": "https://peraturan.bpk.go.id/Details/132618/permendag-no-69-tahun-2019",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "69",
+ "number_raw": "69",
+ "year": 2019,
+ "title": "Peraturan Menteri Perdagangan Nomor 69 Tahun 2019 tentang Ketentuan Penunjukan Pelaksana Tugas Dan Pelaksana Harian Di Lingkungan Kementerian Perdagangan",
+ "about": "Ketentuan Penunjukan Pelaksana Tugas Dan Pelaksana Harian Di Lingkungan Kementerian Perdagangan",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "Alias",
+ "date_enacted": "2019-09-02",
+ "date_promulgated": "2019-09-03",
+ "date_effective": "2019-09-03",
+ "gazette": "BN 2019/NO 995; KEMENDAG.GO.ID : 10 HLM.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENDAG-2025-5",
+   "target_bpk_id": 320812,
+   "label": "Permendag No. 5 Tahun 2025",
+   "about": "Perubahan atas Peraturan Menteri Perdagangan Nomor 69 Tahun 2019 tentang Ketentuan Penunjukan Pelaksana Tugas dan Pelaksana Harian di Lingkungan Kementerian Perdagangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2017-56",
+   "target_bpk_id": 132620,
+   "label": "Permendag No. 56/M-DAG/PER/8/2017 Tahun 2017",
+   "about": "Ketentuan Penunjukan Pelaksana Tugas Dan Pelaksana Harian Pejabat Struktural Di Lingkungan Kementerian Perdagangan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 03 September 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/123403/Permendag%20No.%2069%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:12:07Z"
+}

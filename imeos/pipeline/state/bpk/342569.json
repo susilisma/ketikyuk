@@ -1,0 +1,41 @@
+{
+ "id": "PERATURANBI-2025-10",
+ "source": "bpk",
+ "bpk_id": 342569,
+ "url": "https://peraturan.bpk.go.id/Details/342569/peraturan-bi-no-10-tahun-2025",
+ "form": "PERATURANBI",
+ "form_long": "Peraturan Bank Indonesia",
+ "number": "10",
+ "number_raw": "10",
+ "year": 2025,
+ "title": "Peraturan Bank Indonesia Nomor 10 Tahun 2025 tentang Pengaturan Industri Sistem Pembayaran",
+ "about": "Pengaturan Industri Sistem Pembayaran",
+ "issuer": "Bank Indonesia",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-12-24",
+ "date_promulgated": "2025-12-24",
+ "date_effective": "2026-03-31",
+ "gazette": "BN.2025 (56)/116 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 219277,
+   "label": "Peraturan BI No. 22/23/PBI/2020",
+   "about": "Sistem Pembayaran"
+  }
+ ],
+ "abstract": "a. bahwa memelihara stabilitas sistem pembayaran dalam rangka mendukung pertumbuhan ekonomi yang berkelanjutan merupakan salah satu tujuan Bank Indonesia;\nb. bahwa untuk memelihara stabilitas sistem pembayaran sebagaimana dimaksud dalam huruf a, Bank Indonesia merumuskan Blueprint Sistem Pembayaran Indonesia guna mendukung integrasi ekonomi keuangan digital dalam struktur industri sistem pembayaran yang konsolidatif dan berdaya tahan;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf b, Bank Indonesia mengambil langkah untuk memperkuat struktur industri sistem pembayaran melalui peningkatan kemampuan industri dan infrastruktur sistem pembayaran dalam pengelolaan risiko;\nd. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Bank Indonesia tentang Pengaturan Industri Sistem Pembayaran;\nUndang-Undang Nomor 23 Tahun 1999, Undang-Undang Nomor 3 Tahun 2011 dan Undang-Undang Nomor 4 Tahun 2023\nPeraturan ini mengatur tentang ketentuan umum, prinsip dasar, kerangka kerja pengaturan industri sistem pembayaran, aktivitas, produk, skema harga (pricing) dan inovasi teknologi sistem pembayaran, struktur industri sistem pembayaran, infrastruktur sistem pembayaran dan infrastruktur data sistem pembayaran, tata kelola dan manajemen risiko, praktik pasar (market practice), perilaku pelaku industri sistem pembayaran (market conduct) dan pelindungan konsumen Bank Indonesia, data dan/atau informasi sistem pembayaran, pengawasan, pengakhiran, koordinasi dan kerja sama, ketentuan lain-lain, ketentuan peralihan dan ketentuan penutup.",
+ "note": "Peraturan Bank Indonesia ini mulai berlaku pada tanggal 31 Maret 2026.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan Bank Indonesia ini mulai berlaku, Peraturan Bank Indonesia Nomor 22/23/PBI/2020 tentang Sistem Pembayaran",
+ "citations": [
+  "UU-1999-23",
+  "UU-2011-3",
+  "UU-2023-4"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/405722/Lamp_Batang_Tubuh_2025PBI010.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:30:57Z"
+}

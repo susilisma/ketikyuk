@@ -1,0 +1,45 @@
+{
+ "id": "PERMENDAG-2025-5",
+ "source": "bpk",
+ "bpk_id": 320812,
+ "url": "https://peraturan.bpk.go.id/Details/320812/permendag-no-5-tahun-2025",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "5",
+ "number_raw": "5",
+ "year": 2025,
+ "title": "Peraturan Menteri Perdagangan Nomor 5 Tahun 2025 tentang Perubahan atas Peraturan Menteri Perdagangan Nomor 69 Tahun 2019 tentang Ketentuan Penunjukan Pelaksana Tugas dan Pelaksana Harian di Lingkungan Kementerian Perdagangan",
+ "about": "Perubahan atas Peraturan Menteri Perdagangan Nomor 69 Tahun 2019 tentang Ketentuan Penunjukan Pelaksana Tugas dan Pelaksana Harian di Lingkungan Kementerian Perdagangan",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA - PELIMPAHAN KEWENANGAN / PENUGASAN PEJABAT NEGARA / PENUGASAN BUMN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-01-17",
+ "date_promulgated": "2025-01-20",
+ "date_effective": "2025-01-20",
+ "gazette": "BN 2025 (43) : 8 hlm.; jdih.kemendag.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERMENDAG-2019-69",
+   "target_bpk_id": 132618,
+   "label": "Permendag No. 69 Tahun 2019",
+   "about": "Ketentuan Penunjukan Pelaksana Tugas Dan Pelaksana Harian Di Lingkungan Kementerian Perdagangan"
+  }
+ ],
+ "abstract": "a. bahwa untuk menunjang kelancaran pelaksanaan tugas dan keberlangsungan tanggung jawab dalam\npenyelenggaraan pemerintahan di lingkungan Kementerian Perdagangan, perlu melakukan perubahan pengaturan penunjukan pelaksana tugas dan pelaksana harian di lingkungan Kementerian Perdagangan;\nb. bahwa beberapa ketentuan dalam Peraturan Menteri Perdagangan Nomor 69 Tahun 2019 tentang Ketentuan\nPenunjukan Pelaksana Tugas dan Pelaksana Harian di Lingkungan Kementerian Perdagangan sudah tidak\nsesuai dengan kebutuhan organisasi dan perkembangan hukum, sehingga perlu diubah;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu menetapkan\nPeraturan Menteri Perdagangan tentang Perubahan atas Peraturan Menteri Perdagangan Nomor 69 Tahun 2019\ntentang Ketentuan Penunjukan Pelaksana Tugas dan Pelaksana Harian di Lingkungan Kementerian\nPerdagangan;\nPasal 17 ayat (3) UUD NRI Tahun 1945, UU No. 39 Tahun 2008, UU No. 30 Tahun 2014, UU No. 20 Tahun 2023, PP No. 11 Tahun 2017, Perpres No. 168 Tahun 2024, Permendag No. 69 Tahun 2019, Permen PAN BR No. 22 Tahun 2021, dan Permendag No. 29 Tahun 2022.\nPeraturan ini mengubah beberapa ketentuan dalam Permendag Nomor 69 Tahun 2019 tentang ketentuan umum, Keadaan berhalangan dalam suatu jabatan struktural, penunjukan Plh dan Plt, kewenangan Plh dan Plt dan tunjangan kinerja.",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 20 Januari 2025.\nPeraturan ini mengubah Permendag No. 69 Tahun 2019.",
+ "citations": [
+  "PERMENDAG-2019-69",
+  "UU-2008-39",
+  "UU-2014-30",
+  "UU-2023-20",
+  "PP-2017-11",
+  "PERPRES-2024-168",
+  "PERMENDAG-2022-29"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/382548/Permendag%20No.%205%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:12:06Z"
+}

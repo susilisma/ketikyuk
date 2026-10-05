@@ -1,0 +1,40 @@
+{
+ "id": "PERMENKUM-2026-2",
+ "source": "bpk",
+ "bpk_id": 357109,
+ "url": "https://peraturan.bpk.go.id/Details/357109/permenkum-no-2-tahun-2026-organisasi-dan-tata-kerja-balai-pelatihan-hukum",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "2",
+ "number_raw": "2",
+ "year": 2026,
+ "title": "Peraturan Menteri Hukum Nomor 2 Tahun 2026 tentang Organisasi dan Tata Kerja Balai Pelatihan Hukum",
+ "about": "Organisasi dan Tata Kerja Balai Pelatihan Hukum",
+ "issuer": "Kementerian Hukum",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-01-13",
+ "date_promulgated": "2026-01-19",
+ "date_effective": "2026-01-19",
+ "gazette": "BN 2026 (39): 9 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133147,
+   "label": "Permenkumham No. 4 Tahun 2018",
+   "about": "Organisasi dan Tata Kerja Balai Pendidikan Dan Pelatihan Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "Untuk mewujudkan organisasi dan tata kerja yang efektif dan efisien guna meningkatkan kinerja pelaksanaan tugas dan fungsi Balai Pelatihan Hukum, perlu melakukan penataan organisasi dan tata kerja unit pelaksana teknis Balai Pelatihan Hukum.\nDasar hukum Peraturan ini adalah Pasal 17 ayat (3) UUD 1945; UU No. 39 Tahun 2008; Perpres No. 155 Tahun 2024; Permenkum No. 1 Tahun 2024; dan Permenkum No. 2 Tahun 2024.\nPeraturan ini mengatur mengenai rganisasi dan Tata Kerja Balai Pelatihan Hukum. Balai Pelatihan Hukum merupakan UPT yang berada di bawah dan bertanggung jawab kepada Kepala Badan yang dipimpin oleh Kepala. Balai Pelatihan Hukum mempunyai tugas melaksanakan pelatihan di bidang hukum.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 19 Januari 2026.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 4 Tahun 2018 tentang Organisasi dan Tata Kerja Balai Pendidikan dan Pelatihan Hukum dan Hak Asasi Manusia (Berita Negara Republik Indonesia Tahun 2018 Nomor 283), dicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "UU-2008-39",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/421130/Permenkum%20No%202%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:17:13Z"
+}

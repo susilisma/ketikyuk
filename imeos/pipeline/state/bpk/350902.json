@@ -1,0 +1,41 @@
+{
+ "id": "PERMENKUM-2025-50",
+ "source": "bpk",
+ "bpk_id": 350902,
+ "url": "https://peraturan.bpk.go.id/Details/350902/permenkum-no-50-tahun-2025",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "50",
+ "number_raw": "50",
+ "year": 2025,
+ "title": "Peraturan Menteri Hukum Nomor 50 Tahun 2025 tentang Layanan Apostille",
+ "about": "Layanan Apostille",
+ "issuer": "Kementerian Hukum",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA - PERIZINAN, PELAYANAN PUBLIK",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2025-12-11",
+ "date_promulgated": "2025-12-17",
+ "date_effective": "2025-12-17",
+ "gazette": "BN 2025 (1077): 7 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 203715,
+   "label": "Permenkumham No. 6 Tahun 2022",
+   "about": "Layanan Legalisasi Apostille pada Dokumen Publik"
+  }
+ ],
+ "abstract": "Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 6 Tahun 2022 tentang Layanan Legalisasi Apostille pada Dokumen Publik Asing sudah tidak sesuai lagi dengan perkembangan hukum dan kebutuhan masyarakat, sehingga perlu diganti.\nDasar hukum Permenkum ini adalah Pasal 17 ayat (3) UUD 1945; UU No. 39 Tahun 2008; Perpres No. 155 Tahun 2024; dan Permenkum No. 1 Tahun 2024.\nPermenkum ini mengatur mengenai Layanan Apostille, yang merupakan tindakan untuk mengesahkan kesesuaian tanda tangan Pejabat, pengesahan cap, dan/atau segel resmi dalam dokumen yang dimohonkan berdasarkan verifikasi. Menteri menyelenggarakan layanan Apostille yang dilakukan terhadap Dokumen yang diterbitkan di wilayah Indonesia dan akan dipergunakan di wilayah negara lain yang menjadi negara peserta Konvensi.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 17 Desember 2025.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 6 Tahun 2022 tentang Layanan Legalisasi Apostille pada Dokumen Publik (Berita Negara Republik Indonesia Tahun 2022 Nomor 98), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 10 hlm.",
+ "citations": [
+  "PERMENKUMHAM-2022-6",
+  "UU-2008-39",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/414657/Permenkum%20Nomor%2050%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:18:17Z"
+}

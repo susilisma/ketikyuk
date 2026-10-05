@@ -1,0 +1,37 @@
+{
+ "id": "PMK-2018-207",
+ "source": "bpk",
+ "bpk_id": 113744,
+ "url": "https://peraturan.bpk.go.id/Details/113744/pmk-no-207pmk072018",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "207",
+ "number_raw": "207/PMK.07/2018",
+ "year": 2018,
+ "title": "Peraturan Menteri Keuangan Nomor 207/PMK.07/2018 Tahun 2018 tentang Pedoman Penagihan Dan Pemeriksaan Pajak Daerah",
+ "about": "Pedoman Penagihan Dan Pemeriksaan Pajak Daerah",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "Alias",
+ "date_enacted": "2018-12-31",
+ "date_promulgated": "2018-12-31",
+ "date_effective": "2018-12-31",
+ "gazette": "BN.2018/NO.1852, jdih.kemenkeu.go.id : 68 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-7",
+   "target_bpk_id": 313256,
+   "label": "PMK No. 7 Tahun 2025",
+   "about": "Pedoman Pemeriksaan dan Penagihan Pajak Daerah"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 31 Desember 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/104692/PMK%20Nomor%20207%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:09:39Z"
+}

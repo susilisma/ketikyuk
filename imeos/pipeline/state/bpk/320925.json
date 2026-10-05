@@ -1,0 +1,44 @@
+{
+ "id": "PERMENDAG-2025-13",
+ "source": "bpk",
+ "bpk_id": 320925,
+ "url": "https://peraturan.bpk.go.id/Details/320925/permendag-no-13-tahun-2025",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "13",
+ "number_raw": "13",
+ "year": 2025,
+ "title": "Peraturan Menteri Perdagangan Nomor 13 Tahun 2025 tentang Pencabutan Peraturan Menteri Perdagangan Nomor 09 Tahun 2023 tentang",
+ "about": "Pencabutan Peraturan Menteri Perdagangan Nomor 09 Tahun 2023 tentang",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-05-05",
+ "date_promulgated": "2025-05-14",
+ "date_effective": "2025-05-14",
+ "gazette": "BN 2025 (322) : 3 hlm.; jdih.kemendag.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2023-9",
+   "target_bpk_id": 259923,
+   "label": "Permendag No. 9 Tahun 2023",
+   "about": "Petunjuk Penggunaan Pakaian Seragam Pegawai Di Lingkungan Kementrian Perdagangan"
+  }
+ ],
+ "abstract": "a. bahwa seragam pegawai di lingkungan Kementerian Perdagangan yang ditetapkan dengan Peraturan Menteri Perdagangan Nomor 09 Tahun 2023 tentang Petunjuk Penggunaan Pakaian Seragam Pegawai di Lingkungan Kementerian Perdagangan sudah tidak sesuai dengan perkembangan dan kebutuhan organisasi;\nb. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, perlu menetapkan Peraturan Menteri Perdagangan tentang Pencabutan Peraturan Menteri Perdagangan Nomor 09 Tahun 2023 tentang Petunjuk Penggunaan Pakaian Seragam Pegawai di Lingkungan Kementerian Perdagangan;\nPasal 17 ayat (3) UUD NRI Tahun 1945, UU No. 39 Tahun 2008, UU No. 20 Tahun 2023, PP No. 94 Tahun 2021, Perpres No. 168 Tahun 2024, dan Permendag No. 6 Tahun 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Permendag No. 9 Tahun 2023 tentang Petunjuk Penggunaan Pakaian Seragam Pegawai di Lingkungan Kementrian Perdagangan.",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 14 Mei 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Permendag No. 9 Tahun 2023 tentang Petunjuk Penggunaan Pakaian Seragam Pegawai di Lingkungan Kementrian Perdagangan.",
+ "citations": [
+  "PERMENDAG-2023-9",
+  "UU-2008-39",
+  "UU-2023-20",
+  "PP-2021-94",
+  "PERPRES-2024-168",
+  "PERMENDAG-2025-6"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/382665/Permendag%20No.%2013%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:11:49Z"
+}

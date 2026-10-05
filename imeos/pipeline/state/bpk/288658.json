@@ -1,0 +1,57 @@
+{
+ "id": "PERMENKUMHAM-2024-12",
+ "source": "bpk",
+ "bpk_id": 288658,
+ "url": "https://peraturan.bpk.go.id/Details/288658/permenkumham-no-12-tahun-2024",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "12",
+ "number_raw": "12",
+ "year": 2024,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 12 Tahun 2024 tentang Perubahan Kedua atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 24 Tahun 2022 tentang Pakaian Dinas Aparatur Sipil Negara di Lingkungan Kementerian Hukum dan Hak Asasi Manusia",
+ "about": "Perubahan Kedua atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 24 Tahun 2022 tentang Pakaian Dinas Aparatur Sipil Negara di Lingkungan Kementerian Hukum dan Hak Asasi Manusia",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-05-02",
+ "date_promulgated": "2024-05-03",
+ "date_effective": "2024-05-03",
+ "gazette": "BN 2024 (237) : 4 hlm.; peraturan.go.id",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 350883,
+   "label": "Permenkum No. 12 Tahun 2025",
+   "about": "Pakaian Dinas Aparatur Sipil Negara di Lingkungan Kementerian Hukum"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 247320,
+   "label": "Permenkumham No. 9 Tahun 2023",
+   "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 24 Tahun 2022 tentang Pakaian Dinas Aparatur Sipil Negara di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 280244,
+   "label": "Permenkumham No. 24 Tahun 2022",
+   "about": "Pakaian Dinas Aparatur Sipil Negara di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "Untuk meningkatkan ketertiban dan kedisiplinan serta mewujudkan keseragaman dalam penggunaan pakaian dinas dan atribut bagi pegawai di lingkungan Kementerian Hukum dan Hak Asasi Manusia, perlu mengubah Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 24 Tahun 2022 tentang Pakaian Dinas Aparatur Sipil Negara di Lingkungan Kementerian Hukum dan Hak Asasi Manusia sebagaimana telah diubah dengan Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 9 Tahun 2023 tentang Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 24 Tahun 2022 tentang Pakaian Dinas Aparatur Sipil Negara di Lingkungan Kementerian Hukum dan Hak Asasi Manusia karena sudah tidak sesuai dengan kebutuhan organisasi saat ini.\nDasar hukum Permenkumham ini adalah Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945; UU Nomor 39 Tahun 2008; UU Nomor 20 Tahun 2023; Perpres Nomor 18 Tahun 2023; Permenkumham Nomor 30 Tahun 2018; Permenkumham Nomor 28 Tahun 2023; dan Permenkumham Nomor 24 Tahun 2022.\nPermenkumham ini mengubah ketentuan dalam Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 24 Tahun 2022.",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 03 Mei 2024.\nPermenkumham ini mengubah Permenkumham Nomor 24 Tahun 2022.\nLampiran file: 327 hlm (batang tubuh hlm 1 sd 4, penjelasan hlm 5 sd 327)",
+ "citations": [
+  "PERMENKUMHAM-2022-24",
+  "PERMENKUMHAM-2023-9",
+  "UU-2008-39",
+  "UU-2023-20",
+  "PERPRES-2023-18"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/347906/Permenkumham%20Nomor%2012%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:19:53Z"
+}

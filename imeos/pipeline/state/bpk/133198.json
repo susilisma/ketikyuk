@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKUMHAM-2017-17",
+ "source": "bpk",
+ "bpk_id": 133198,
+ "url": "https://peraturan.bpk.go.id/Details/133198/permenkumham-no-17-tahun-2017",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "17",
+ "number_raw": "17",
+ "year": 2017,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 17 Tahun 2017 tentang Tata Cara Permohonan Perbaikan Data Badan Hukum Perseroan Terbatas, Yayasan, dan Perkumpulan",
+ "about": "Tata Cara Permohonan Perbaikan Data Badan Hukum Perseroan Terbatas, Yayasan, dan Perkumpulan",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA - PERIZINAN, PELAYANAN PUBLIK",
+ "field": "Alias",
+ "date_enacted": "2017-10-11",
+ "date_promulgated": "2017-11-03",
+ "date_effective": "2017-11-03",
+ "gazette": "BN.2017/NO.1537, peraturan.go.id : 12 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 332337,
+   "label": "Permenkum No. 32 Tahun 2025",
+   "about": "Tata Cara Permohonan Perbaikan Data Badan Hukum Perseroan Terbatas, Yayasan, dan Perkumpulan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 03 November 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/123986/Permenkumham%20Nomor%2017%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:18:59Z"
+}

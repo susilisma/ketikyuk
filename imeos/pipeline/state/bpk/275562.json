@@ -1,0 +1,45 @@
+{
+ "id": "PERMENKES-2023-30",
+ "source": "bpk",
+ "bpk_id": 275562,
+ "url": "https://peraturan.bpk.go.id/Details/275562/permenkes-no-30-tahun-2023",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "30",
+ "number_raw": "30",
+ "year": 2023,
+ "title": "Peraturan Menteri Kesehatan Nomor 30 Tahun 2023 tentang Perubahan Penggolongan Narkotika",
+ "about": "Perubahan Penggolongan Narkotika",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "NARKOTIKA",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2023-08-16",
+ "date_promulgated": "2023-08-22",
+ "date_effective": "2023-08-22",
+ "gazette": "BN 2023 (643): 3 hlm: jdih.kemkes.go.id",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2025-7",
+   "target_bpk_id": 322670,
+   "label": "Permenkes No. 7 Tahun 2025",
+   "about": "Perubahan Penggolongan Narkotika"
+  }
+ ],
+ "abstract": "Terdapat zat psikoaktif baru yang berpotensi penyalahgunaan dan membahayakan kesehatan masyarakat yang belum termasuk dalam golongan narkotika sebagaimana diatur dalam Lampiran I Undang-Undang Nomor 35 Tahun 2009 tentang\nNarkotika dan Peraturan Menteri Kesehatan Nomor 36 Tahun 2022 tentang Perubahan Penggolongan Narkotika.\nDasar hukum peraturan ini adalah UUD RI Tahun 1945 Pasal 17 ayat (3); UU Nomor 39 Tahun 2008; UU Nomor 35 Tahun 2009; UU Nomor 17 Tahun 2023; PP Nomor 40 Tahun 2013; Perpres Nomor 18 Tahun 2021; dan Permenkes Nomor 5 Tahun 2022.\nPeraturan Menteri Kesehatan tentang perubahan penggolongan narkotika dengan daftar narkotika golongan I, golongan II, dan golongan III.",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 22 Agustus 2023.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Kesehatan Nomor 36 Tahun 2022 tentang Perubahan Penggolongan Narkotika (Berita Negara Republik Indonesia Tahun 2022 Nomor 1200), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 18 hlm. (batang tubuh hlm 1 sd 3; lampiran 4 sd 18)",
+ "citations": [
+  "UU-2009-35",
+  "PERMENKES-2022-36",
+  "UU-2008-39",
+  "UU-2023-17",
+  "PP-2013-40",
+  "PERPRES-2021-18",
+  "PERMENKES-2022-5"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/334056/Permenkes%20Nomor%2030%20Tahun%202023.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:24:26Z"
+}

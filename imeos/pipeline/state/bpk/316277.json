@@ -1,0 +1,41 @@
+{
+ "id": "PERBPOM-2025-7",
+ "source": "bpk",
+ "bpk_id": 316277,
+ "url": "https://peraturan.bpk.go.id/Details/316277/peraturan-bpom-no-7-tahun-2025",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "7",
+ "number_raw": "7",
+ "year": 2025,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 7 Tahun 2025 tentang Perubahan atas Peraturan Badan Pengawas Obat dan Makanan Nomor 7 Tahun 2024 tentang Standar Cara Pembuatan Obat yang Baik",
+ "about": "Perubahan atas Peraturan Badan Pengawas Obat dan Makanan Nomor 7 Tahun 2024 tentang Standar Cara Pembuatan Obat yang Baik",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "KESEHATAN - STANDAR / PEDOMAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-03-04",
+ "date_promulgated": "2025-03-20",
+ "date_effective": "2025-03-20",
+ "gazette": "BN 2025 (208); 84 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 286412,
+   "label": "Peraturan BPOM No. 7 Tahun 2024",
+   "about": "Standar Cara Pembuatan Obat yang Baik"
+  }
+ ],
+ "abstract": "bahwa pengaturan mengenai cara pembuatan obat yang\nbaik sebagaimana telah diatur dalam Peraturan Badan\nPengawas Obat dan Makanan Nomor 7 Tahun 2024\ntentang Standar Cara Pembuatan Obat yang Baik, perlu\ndisesuaikan dengan kebutuhan hukum serta\nperkembangan ilmu pengetahuan dan teknologi di bidang\npembuatan obat dan bahan obat, sehingga perlu diubah\nDasar hukum peraturan ini adalah PP Nomor 5 Tahun 2021; Perpres Nomor 80 Tahun 2017; Peraturan BPOM Nomor 21 Tahun 2020 sebagaimana telah diubah dengan Peraturan BPOM Nomor 13 Tahun 2022; Peraturan BPOM Nomor 19 Tahun 2023 sebagaimana telah diubah dengan Oeraturan BPOM Nomor 3 Tahun 2025; Peraturan BPOM Nomor 7 Tahun 2024\nPeraturan ni mengubah Ketentuan mengenai Pendahuluan, Umum, Riwayat Perubahan, dan Aneks 1 Pembuatan Produk Steril dalam Lampiran Peraturan Badan Pengawas Obat dan Makanan Nomor 7 Tahun 2024 tentang Standar Cara Pembuatan Obat\nyang Baik",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 20 Maret 2025.",
+ "citations": [
+  "PP-2021-5",
+  "PERPRES-2017-80",
+  "PERBPOM-2024-7"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/377526/peraturan-bpom-no-7-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:29:18Z"
+}

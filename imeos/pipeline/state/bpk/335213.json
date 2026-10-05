@@ -1,0 +1,65 @@
+{
+ "id": "PERMENKES-2025-11",
+ "source": "bpk",
+ "bpk_id": 335213,
+ "url": "https://peraturan.bpk.go.id/Details/335213/permenkes-no-11-tahun-2025",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "11",
+ "number_raw": "11",
+ "year": 2025,
+ "title": "Peraturan Menteri Kesehatan Nomor 11 Tahun 2025 tentang Standar Kegiatan Usaha dan Standar Produk/Jasa pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Subsektor Kesehatan",
+ "about": "Standar Kegiatan Usaha dan Standar Produk/Jasa pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Subsektor Kesehatan",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - STANDAR / PEDOMAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-10-03",
+ "date_promulgated": "2025-10-03",
+ "date_effective": "2025-10-03",
+ "gazette": "BN 2025 (749); 540hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2024-17",
+   "target_bpk_id": 308446,
+   "label": "Permenkes No. 17 Tahun 2024",
+   "about": "Perubahan Kedua atas Peraturan Menteri Kesehatan Nomor 14 Tahun 2021\r\ntentang Standar Kegiatan Usaha dan Produk pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2022-8",
+   "target_bpk_id": 218295,
+   "label": "Permenkes No. 8 Tahun 2022",
+   "about": "Perubahan atas Peraturan Menteri Kesehatan Nomor 14 Tahun 2021 tentang Standar Kegiatan Usaha dan Produk pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2021-14",
+   "target_bpk_id": 203315,
+   "label": "Permenkes No. 14 Tahun 2021",
+   "about": "Standar Kegiatan Usaha dan Produk pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2018-26",
+   "target_bpk_id": 111928,
+   "label": "Permenkes No. 26 Tahun 2018",
+   "about": "Pelayanan Perizinan Berusaha Terintegrasi Secara Elektronik Sektor Kesehatan"
+  }
+ ],
+ "abstract": "bahwa untuk melaksanakan ketentuan Pasal 5 ayat (7), Pasal\n296, dan Pasal 457 Peraturan Pemerintah Nomor 28 Tahun\n2025 tentang Penyelenggaraan Perizinan Berusaha Berbasis\nRisiko\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD NRI Tahun 1945;\nUU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024; UU Nomor 6 Tahun 2023; PP Nomor 28 Tahun 2025; Perpres Nomor 161 Tahun 2024;\nPermenkes Nomor 21 Tahun 2024.\nPeraturan ini mengatur mengenai kebijakan penyelenggaraan PBBR subsektor kesehatan yang menjadi pedoman\nbagi Pemerintah Pusat, Pemerintah Daerah, dan Pelaku\nUsaha serta masyarakat umum lainnya; Pengelompokan PB dan PB UMKU Subsektor Kesehatan; Pelaksanaan PB dan PB UMKU Subsektor Kesehatan; pengawasan dan sanksi pelanggaran ketentuan; Pencabutan PB dan/atau PB UMKU; Pengajuan Keberatan atas Pengenaan Sanksi; dan pendanaan",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 03 Oktober 2025.",
+ "citations": [
+  "PP-2025-28",
+  "UU-2008-39",
+  "UU-2024-61",
+  "UU-2023-6",
+  "PERPRES-2024-161",
+  "PERMENKES-2024-21"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/397784/permenkes-no-11-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:24:13Z"
+}

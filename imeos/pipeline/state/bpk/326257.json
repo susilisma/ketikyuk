@@ -1,0 +1,41 @@
+{
+ "id": "PERMENKUM-2025-20",
+ "source": "bpk",
+ "bpk_id": 326257,
+ "url": "https://peraturan.bpk.go.id/Details/326257/permenkum-no-20-tahun-2025",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "20",
+ "number_raw": "20",
+ "year": 2025,
+ "title": "Peraturan Menteri Hukum Nomor 20 Tahun 2025 tentang Pedoman Besaran Imbalan Jasa bagi Kurator dan Pengurus",
+ "about": "Pedoman Besaran Imbalan Jasa bagi Kurator dan Pengurus",
+ "issuer": "Kementerian Hukum",
+ "subject": "HUKUM PIDANA, PERDATA, DAN DAGANG - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "HUKUM PERDATA",
+ "date_enacted": "2025-05-21",
+ "date_promulgated": "2025-05-27",
+ "date_effective": "2025-05-27",
+ "gazette": "BN 2025 (365): 7 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 174157,
+   "label": "Permenkumham No. 18 Tahun 2021",
+   "about": "Pedoman Imbalan Jasa bagi Kurator dan Pengurus"
+  }
+ ],
+ "abstract": "Untuk mendukung perbaikan iklim berusaha dan meningkatkan layanan di bidang kurator dan pengurus, perlu penataan kembali mengenai pedoman besaran imbalan jasa bagi kurator dan pengurus.\nDasar hukum Permenkum ini adalah Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU No. 37 Tahun 2004; UU No. 39 Tahun 2008; Perpres No. 155 Tahun 2024; Permenkum No. 1 Tahun 2024; dan Permenkumham No. 7 Tahun 2021.\nPermenkumham ini megatur mengenai Pedoman Besaran Imbalan Jasa bagi Kurator dan Pengurus. Besaran Imbalan Jasa bagi Kurator diberikan dengan ketentuan: a. Kepailitan yang berakhir dengan perdamaian maka besaran Imbalan Jasa dihitung dari persentase nilai utang yang harus dibayar oleh Debitor; b. Kepailitan yang berakhir dengan pemberesan maka besaran Imbalan Jasa dihitung dari persentase nilai hasil pemberesan harta pailit di luar utang; atau c. permohonan pernyataan pailit yang ditolak di tingkat kasasi atau peninjauan kembali maka besaran Imbalan Jasa dibebankan kepada pemohon pernyataan pailit atau pemohon dan Debitor yang besarannya ditetapkan oleh majelis Hakim.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 27 Mei 2025.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 18 Tahun 2021 tentang Pedoman Imbalan Jasa bagi Kurator dan Pengurus (Berita Negara Republik Indonesia Tahun 2021 Nomor 245), dicabut dan dinyatakan tidak berlaku.\nImbalan Jasa bagi Kurator dan Kurator sementara pada balai harta peninggalan yang telah ditetapkan oleh Hakim disetorkan ke kas negara sebagai penerimaan negara bukan pajak yang berlaku pada kementerian yang menyelenggarakan urusan pemerintahan di bidang hukum sesuai dengan ketentuan peraturan perundang-undangan.\nLampiran file: 11 hlm (batang tubuh hlm 1 sd 7 dan lampiran hlm 8 sd 11)",
+ "citations": [
+  "UU-2004-37",
+  "UU-2008-39",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/388065/Permenkum%20Nomor%2020%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:19:30Z"
+}

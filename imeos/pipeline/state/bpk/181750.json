@@ -1,0 +1,37 @@
+{
+ "id": "PERBPOM-2021-10",
+ "source": "bpk",
+ "bpk_id": 181750,
+ "url": "https://peraturan.bpk.go.id/Details/181750/peraturan-bpom-no-10-tahun-2021",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "10",
+ "number_raw": "10",
+ "year": 2021,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 10 Tahun 2021 tentang Standar Kegiatan Usaha dan Produk pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Obat dan Makanan",
+ "about": "Standar Kegiatan Usaha dan Produk pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Obat dan Makanan",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "KESEHATAN - PERIZINAN, PELAYANAN PUBLIK",
+ "field": "Alias",
+ "date_enacted": "2021-04-01",
+ "date_promulgated": "2021-04-01",
+ "date_effective": "2021-04-01",
+ "gazette": "BN.2021/No. 292, peraturan.go.id : 4 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 334134,
+   "label": "Peraturan BPOM No. 27 Tahun 2025",
+   "about": "Standar Kegiatan Usaha dan Produk pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Subsektor Obat dan Makanan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 01 April 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/175150/Peraturan%20BPOM%20Nomor%2010%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:28:32Z"
+}

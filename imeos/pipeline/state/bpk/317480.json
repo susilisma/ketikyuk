@@ -1,0 +1,47 @@
+{
+ "id": "POJK-2025-5",
+ "source": "bpk",
+ "bpk_id": 317480,
+ "url": "https://peraturan.bpk.go.id/Details/317480/peraturan-ojk-no-5-tahun-2025",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "5",
+ "number_raw": "5",
+ "year": 2025,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 5 Tahun 2025 tentang Profesi Penunjang Di Sektor Jasa Keuangan",
+ "about": "Profesi Penunjang Di Sektor Jasa Keuangan",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-02-26",
+ "date_promulgated": "2025-03-03",
+ "date_effective": "2025-03-03",
+ "gazette": "BN.2025 (10/55 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 129573,
+   "label": "Peraturan OJK No. 68/POJK.04/2017 Tahun 2017",
+   "about": "Penilai yang Melakukan Kegiatan di Pasar Modal"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 129578,
+   "label": "Peraturan OJK No. 66/POJK.04/2017 Tahun 2017",
+   "about": "Konsultan Hukum yang Melakukan Kegiatan di Pasar Modal"
+  }
+ ],
+ "abstract": "bahwa untuk melaksanakan ketentuan Pasal 259 ayat (6) dan ayat (7) Undang-Undang Nomor 4 Tahun 2023 tentang Pengembangan dan Penguatan Sektor Keuangan, perlu menetapkan Peraturan Otoritas Jasa Keuangan tentang Profesi Penunjang di Sektor Jasa Keuangan;\nUndang-Undang Nomor 21 Tahun 2011 dan Undang-Undang Nomor 4 Tahun 2023\nPeraturan ini mengatur tentang ketentuan umum, penggunaan jasa profesi penunjang, pengelolaan administrasi profesi penunjang sektor jasa keuangan, kewajiban, penghentian pemberian jasa, media, ketentuan lain-lain, ketentuan peralihan dan ketentuan penutup",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 03 Maret 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas:\na. Peraturan Otoritas Jasa Keuangan Nomor\n38/POJK.05/2015 tentang Pendaftaran dan\nPengawasan Konsultan Aktuaria, Akuntan Publik, dan\nPenilai yang Melakukan Kegiatan di Industri Keuangan Non-Bank\nb. Peraturan Otoritas Jasa Keuangan Nomor\n66/POJK.04/2017 tentang Konsultan Hukum yang\nMelakukan Kegiatan di Pasar Modal\nc. Peraturan Otoritas Jasa Keuangan Nomor\n67/POJK.04/2017 tentang Notaris yang Melakukan\nKegiatan di Pasar Modal\nd. Peraturan Otoritas Jasa Keuangan Nomor\n68/POJK.04/2017 tentang Penilai yang Melakukan Kegiatan di Pasar Modal",
+ "citations": [
+  "UU-2023-4",
+  "UU-2011-21"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/378838/peraturan-ojk-no-5-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:30:28Z"
+}

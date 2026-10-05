@@ -1,0 +1,42 @@
+{
+ "id": "PP-2021-37",
+ "source": "bpk",
+ "bpk_id": 161919,
+ "url": "https://peraturan.bpk.go.id/Details/161919/pp-no-37-tahun-2021",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "37",
+ "number_raw": "37",
+ "year": 2021,
+ "title": "Peraturan Pemerintah (PP) Nomor 37 Tahun 2021 tentang Penyelenggaraan Program Jaminan Kehilangan Pekerjaan",
+ "about": "Penyelenggaraan Program Jaminan Kehilangan Pekerjaan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "ASURANSI - KETENAGAKERJAAN - BANTUAN, SUMBANGAN, BENCANA / KEBENCANAAN, DAN PENANGGULANGAN BENCANA - CIPTA KERJA",
+ "field": "Alias",
+ "date_enacted": "2021-02-02",
+ "date_promulgated": "2021-02-02",
+ "date_effective": "2021-02-02",
+ "gazette": "LN.2021/No.47, TLN No.6649, peraturan.go.id : 25 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2025-6",
+   "target_bpk_id": 314623,
+   "label": "PP No. 6 Tahun 2025",
+   "about": "Perubahan atas Peraturan Pemerintah Nomor 37 Tahun 2021 tentang Penyelenggaraan Program Jaminan Kehilangan Pekerjaan"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 82 dan Pasal 185 huruf b UU Nomor 11 Tahun 2020 tentang Cipta Kerja, perlu menetapkan Peraturan Pemerintah tentang Penyelenggaraan Program Jaminan Kehilangan Pekerjaan.\nDasar hukum PP ini adalah Pasal 5 ayat (2) Undang-undang Dasar Negara Republik Indonesia; UU Nomor 13 Tahun 2003; UU Nomor 40 Tahun 2004; UU Nomor 24 Tahun 2011; dan UU Nomor 11 Tahun 2020.\nPP ini mengatur mengenai kepesertaan, iuran, manfaat, penyelenggaraan program Jaminan Kehilangan Pekerjaan (JKP) yang terintegrasi dalam suatu sistem yang efektif, sumber pendanaan, dan sanksi administratif. JKP adalah jaminan sosial yang diberikan kepada Pekerja/Buruh yang mengalami pemutusan hubungan kerja berupa manfaat uang tunai, akses informasi pasar kerja, dan pelatihan kerja. Pengusaha wajib mengikutsertakan Pekerja/Buruh sebagai peserta dalam program JKP. Program JKP tersebut diselenggarakan untuk mempertahankan derajat kehidupan yang layak pada saat Pekerja/Buruh kehilangan pekerjaan. JKP diselenggarakan oleh BPJS Ketenagakerjaan dan pemerintah pusat.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 02 Februari 2021.\nPenjelasan 9 hlm.",
+ "citations": [
+  "UU-2020-11",
+  "UU-2003-13",
+  "UU-2004-40",
+  "UU-2011-24"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/244293/PP%20Nomor%2037%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-10-05T04:59:18Z"
+}

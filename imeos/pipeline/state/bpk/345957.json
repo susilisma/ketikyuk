@@ -1,0 +1,37 @@
+{
+ "id": "PERBPOM-2019-13",
+ "source": "bpk",
+ "bpk_id": 345957,
+ "url": "https://peraturan.bpk.go.id/Details/345957/peraturan-bpom-no-13-tahun-2019",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "13",
+ "number_raw": "13",
+ "year": 2019,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 13 Tahun 2019 tentang Batas Maksimal Cemaran Mikroba dalam Pangan Olahan",
+ "about": "Batas Maksimal Cemaran Mikroba dalam Pangan Olahan",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "PANGAN, PERTANIAN DAN PETERNAKAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2019-07-05",
+ "date_promulgated": "2019-07-09",
+ "date_effective": "2019-07-09",
+ "gazette": "BN 2019 (751); 51 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 345738,
+   "label": "Perka BPOM No. 3 Tahun 2026",
+   "about": "Perubahan atas Peraturan Badan Pengawas Obat dan \r\nMakanan Nomor 13 Tahun 2019 tentang Batas Maksimal \r\nCemaran Mikroba dalam Pangan Olahan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 09 Juli 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/409311/Peraturan%20BPOM%20No%2013%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:29:34Z"
+}

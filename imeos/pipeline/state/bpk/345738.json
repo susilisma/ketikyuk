@@ -1,0 +1,43 @@
+{
+ "id": "PERKABPOM-2026-3",
+ "source": "bpk",
+ "bpk_id": 345738,
+ "url": "https://peraturan.bpk.go.id/Details/345738/perka-bpom-no-3-tahun-2026",
+ "form": "PERKABPOM",
+ "form_long": "Peraturan Kepala Badan Pengawas Obat dan Makanan",
+ "number": "3",
+ "number_raw": "3",
+ "year": 2026,
+ "title": "Peraturan Kepala Badan Pengawas Obat dan Makanan Nomor 3 Tahun 2026 tentang Perubahan atas Peraturan Badan Pengawas Obat dan",
+ "about": "Perubahan atas Peraturan Badan Pengawas Obat dan",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "STATUTA ORGANISASI / LEMBAGA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-02-18",
+ "date_promulgated": "2026-02-26",
+ "date_effective": "2026-02-26",
+ "gazette": "BN 2026 (132) : 56 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 345957,
+   "label": "Peraturan BPOM No. 13 Tahun 2019",
+   "about": "Batas Maksimal Cemaran Mikroba dalam Pangan Olahan"
+  }
+ ],
+ "abstract": "bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a, huruf b, dan huruf c, perlu menetapkan\nPeraturan Badan Pengawas Obat dan Makanan tentang\nPerubahan atas Peraturan Badan Pengawas Obat dan\nMakanan Nomor 13 Tahun 2019 tentang Batas Maksimal\nCemaran Mikroba dalam Pangan Olahan\nDasar hukum peraturan ini adalah UU Nomor 18 Tahun 2012; PP Nomor 86 Tahun 2019 sebagaimah diubah dengan PP Nomor 1 Tahun 2026; Perpres Nomor 80 Tahun 2017; PerBPOM Nomor 13 Tahun 2019; PerBPOM Nomor 21 Tahun 2020 sebagaimana diubah dengan PerBPOM Nomor 13 Tahun 2022; PerBPOM Nomor 19 Tahun 2023 sebagaimana beberapa kali diubah\nterakhir dengan PerBPOM Nomor 1 Tahun 2026\nPeraturan ini mengatur mengenai Perubahan Peraturan Badan Pengawas Obat dan Makanan Nomor 13 Tahun 2019; Perizinan berusaha",
+ "note": "Peraturan Kepala Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 26 Februari 2026.",
+ "citations": [
+  "UU-2012-18",
+  "PP-2019-86",
+  "PP-2026-1",
+  "PERPRES-2017-80",
+  "PERBPOM-2019-13"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/409085/peraturan-bpom-no-3-tahun-2026.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:29:33Z"
+}

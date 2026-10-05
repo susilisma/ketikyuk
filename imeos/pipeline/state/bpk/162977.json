@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKES-2020-6",
+ "source": "bpk",
+ "bpk_id": 162977,
+ "url": "https://peraturan.bpk.go.id/Details/162977/permenkes-no-6-tahun-2020",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "6",
+ "number_raw": "6",
+ "year": 2020,
+ "title": "Peraturan Menteri Kesehatan Nomor 6 Tahun 2020 tentang Konsultan Manajemen Kesehatan Warga Negara Asing",
+ "about": "Konsultan Manajemen Kesehatan Warga Negara Asing",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "Alias",
+ "date_enacted": "2020-02-04",
+ "date_promulgated": "2020-06-02",
+ "date_effective": "2020-06-02",
+ "gazette": "BN 2020/ NO 547 ; PERATURAN.GO.ID : 17 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2025-13",
+   "target_bpk_id": 335214,
+   "label": "Permenkes No. 13 Tahun 2025",
+   "about": "Pengelolaan Sumber Daya Manusia Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 02 Juni 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/155669/Permenkes%206%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:23:43Z"
+}

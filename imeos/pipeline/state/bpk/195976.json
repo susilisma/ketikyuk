@@ -1,0 +1,65 @@
+{
+ "id": "PERMENAKER-2021-5",
+ "source": "bpk",
+ "bpk_id": 195976,
+ "url": "https://peraturan.bpk.go.id/Details/195976/permenaker-no-5-tahun-2021",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "5",
+ "number_raw": "5",
+ "year": 2021,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 5 Tahun 2021 tentang Tata Cara Penyelenggaraan Program Jaminan Kecelakaan Kerja, Jaminan Kematian, dan Jaminan Hari Tua",
+ "about": "Tata Cara Penyelenggaraan Program Jaminan Kecelakaan Kerja, Jaminan Kematian, dan Jaminan Hari Tua",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "ASURANSI - KETENAGAKERJAAN",
+ "field": "Alias",
+ "date_enacted": "2021-03-31",
+ "date_promulgated": "2021-04-01",
+ "date_effective": "2021-04-01",
+ "gazette": "BN.2021/No.247, jdih.kemnaker.go.id : 86 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENAKER-2025-1",
+   "target_bpk_id": 314658,
+   "label": "Permenaker No. 1 Tahun 2025",
+   "about": "Perubahan atas Peraturan Menteri Ketenagakerjaan Nomor 5 Tahun 2021 tentang Tata Cara Penyelenggaraan Program Jaminan Kecelakaan Kerja, Jaminan Kematian, dan Jaminan Hari Tua"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENAKER-2017-21",
+   "target_bpk_id": 146276,
+   "label": "Permenaker No. 21 Tahun 2017",
+   "about": "Perubahan atas Peraturan Menteri Ketenagakerjaan Nomor 1 Tahun 2016 tentang Tata Cara Peyelenggaraan Program Jaminan Kecelakaan Kerja, Jaminan Kematian, dan Jaminan Haria Tua bagi Peserta Bukan Penerima Upah"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENAKER-2016-1",
+   "target_bpk_id": 146096,
+   "label": "Permenaker No. 1 Tahun 2016",
+   "about": "Tata Cara Penyelenggaraan Program Jaminan Kecelakaan Kerja, Jaminan Kematian, dan Jaminan Hari Tua bagi Peserta Bukan Penerima Upah"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENAKER-2015-44",
+   "target_bpk_id": 146043,
+   "label": "Permenaker No. 44 Tahun 2015",
+   "about": "Penyelenggaraan Program Jaminan Kecelakaan Kerja dan Jaminan Kematian bagi Pekerja Harian Lepas, Borongan, dan Perjanjian Kerja Waktu Tertentu pada Sektor Usaha Jasa Konstruksi"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENAKER-2015-26",
+   "target_bpk_id": 146004,
+   "label": "Permenaker No. 26 Tahun 2015",
+   "about": "Tata Cara Penyelenggaraan Program Jaminan Kecelakaan Kerja, Jaminan Kematian, dan Jaminan Hari Tua bagi Peserta Penerima Upah"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 01 April 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/257489/Permenaker%20Nomor%205%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:15:28Z"
+}

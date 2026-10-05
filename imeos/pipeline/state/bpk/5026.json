@@ -12,7 +12,7 @@
  "about": "Usaha Budidaya Tanaman",
  "issuer": "Pemerintah Pusat",
  "subject": "KEHUTANAN DAN PERKEBUNAN - PANGAN, PERTANIAN DAN PETERNAKAN",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2010-01-28",
  "date_promulgated": "2010-01-28",
  "date_effective": "2010-01-28",
@@ -33,5 +33,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/35875/PP%2018%20Tahun%202010.pdf"
  ],
- "fetched_at": "2026-09-14T05:28:28Z"
+ "fetched_at": "2026-10-05T04:57:19Z"
 }

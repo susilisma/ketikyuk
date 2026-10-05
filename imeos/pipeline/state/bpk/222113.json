@@ -1,0 +1,37 @@
+{
+ "id": "PP-2022-28",
+ "source": "bpk",
+ "bpk_id": 222113,
+ "url": "https://peraturan.bpk.go.id/Details/222113/pp-no-28-tahun-2022",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "28",
+ "number_raw": "28",
+ "year": 2022,
+ "title": "Peraturan Pemerintah (PP) Nomor 28 Tahun 2022 tentang Pengurusan Piutang Negara oleh Panitia Urusan Piutang Negara",
+ "about": "Pengurusan Piutang Negara oleh Panitia Urusan Piutang Negara",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PENGELOLAAN KEUANGAN NEGARA / DAERAH - PIUTANG, UTANG, DAN HIBAH NEGARA / DAERAH",
+ "field": "Alias",
+ "date_enacted": "2022-08-31",
+ "date_promulgated": "2022-08-31",
+ "date_effective": "2022-08-31",
+ "gazette": "LN.2022/No.171, TLN No.6814, jdih.setneg.go.id: 41 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2026-4",
+   "target_bpk_id": 348701,
+   "label": "PP No. 4 Tahun 2026",
+   "about": "Perubahan atas Peraturan Pemerintah Nomor 28 Tahun 2022 tentang Pengurusan Piutang Negara oleh Panitia Urusan Piutang Negara"
+  }
+ ],
+ "abstract": "Untuk memperkuat tugas dan wewenang pengurusan piutang negara oleh panitia urusan piutang negara, perlu mengatur pengurusan piutang negara oleh panitia urusan piutang negara.\nDasar hukum PP ini adalah Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 dan UU Nomor 49 Prp Tahun 1960.\nPP ini mengatur mengenai pengelolaan Piutang Negara yang meliputi piutang pemerintah pusat/pemerintah daerah. Piutang Negara adalah jumlah uang yang wajib dibayar kepada negara berdasarkan suatu peraturan, perjanjian atau sebab apapun. Piutang Negara yang diatur dalam PP ini tidak termasuk: 1) Piutang Negara yang penyelesaiannya diatur tersendiri dalam peraturan\nperundang-undangan; dan 2) Piutang Negara yang tidak dapat diserahkan pengurusannya kepada PUPN. Piutang Negara mempunyai hak mendahului terkait pembayaran untuk tagihan meliputi: pokok utang, bunga; denda; ongkos/biaya lain; dan biaya administrasi pengurusan Piutang Negara.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 31 Agustus 2022.\nPada saat PP ini mulai berlaku, semua Peraturan Perundang-undangan yang merupakan peraturan pelaksanaan dari UU Nomor 49 Prp. Tahun 1960 tentang Panitia Urusan Piutang Negara, dinyatakan masih tetap berlaku sepanjang tidak bertentangan dengan ketentuan dalam PP ini.\nLampiran: 56 hlm.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/216669/PP%20Nomor%2028%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-10-05T04:57:33Z"
+}

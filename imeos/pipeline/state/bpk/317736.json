@@ -1,0 +1,42 @@
+{
+ "id": "PERMENKUM-2025-13",
+ "source": "bpk",
+ "bpk_id": 317736,
+ "url": "https://peraturan.bpk.go.id/Details/317736/permenkum-no-13-tahun-2025",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "13",
+ "number_raw": "13",
+ "year": 2025,
+ "title": "Peraturan Menteri Hukum Nomor 13 Tahun 2025 tentang Pengesahan Koperasi",
+ "about": "Pengesahan Koperasi",
+ "issuer": "Kementerian Hukum",
+ "subject": "KOPERASI, UMKM",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-04-23",
+ "date_promulgated": "2025-04-23",
+ "date_effective": "2025-04-23",
+ "gazette": "BN 2025 (276) : 13 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 135713,
+   "label": "Permenkumham No. 14 Tahun 2019",
+   "about": "Pengesahan Koperasi"
+  }
+ ],
+ "abstract": "Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 14 Tahun 2019 tentang Pengesahan Koperasi belum mengakomodir kebutuhan hukum mengenai perubahan nomenklatur Kementerian Hukum dan kebutuhan masyarakat mengenai pengesahan pendirian dan perubahan anggaran dasar Koperasi Desa/Kelurahan Merah Putih serta jenis koperasi lain yang ditetapkan oleh peraturan perundang-undangan atau program pemerintah, sehingga perlu diganti.\nDasar hukum Permenkum ini adalah Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU No. 25 Tahun 1992; UU No. 39 Tahun 2008; Perpres No. 155 Tahun 2024; dan Permenkum No. 1 Tahun 2024.\nPermenkum ini mengatur mengenai pengesahan koperasi. Pengesahan Koperasi meliputi: a. pengesahan Akta Pendirian Koperasi; b. perubahan Anggaran Dasar Koperasi; dan c. pembubaran Koperasi. Menteri mengoordinasikan penyelenggaraan administrasi pengesahan Koperasi bersama dengan menteri yang menyelenggarakan urusan pemerintahan di bidang Koperasi.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 23 April 2025.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 14 Tahun 2019 tentang Pengesahan Koperasi (Berita Negara Republik Indonesia Tahun 2019 Nomor 715), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 13 hlm.",
+ "citations": [
+  "PERMENKUMHAM-2019-14",
+  "UU-1992-25",
+  "UU-2008-39",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/379125/Permenkum%20Nomor%2013%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:19:49Z"
+}

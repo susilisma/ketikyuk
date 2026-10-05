@@ -1,0 +1,40 @@
+{
+ "id": "PERBPOM-2025-19",
+ "source": "bpk",
+ "bpk_id": 326087,
+ "url": "https://peraturan.bpk.go.id/Details/326087/peraturan-bpom-no-19-tahun-2025",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "19",
+ "number_raw": "19",
+ "year": 2025,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 19 Tahun 2025 tentang Perubahan atas Peraturan Badan Pengawas Obat dan",
+ "about": "Perubahan atas Peraturan Badan Pengawas Obat dan",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "KESEHATAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-06-24",
+ "date_promulgated": "2025-07-03",
+ "date_effective": "2025-07-03",
+ "gazette": "BN 2025 (471); 42 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 291497,
+   "label": "Peraturan BPOM No. 9 Tahun 2024",
+   "about": "Pedoman Tindak Lanjut Hasil\r\nPengawasan Obat, Bahan Obat, Narkotika, Psikotropika,\r\nPrekursor, dan Zat Adiktif"
+  }
+ ],
+ "abstract": "ahwa pengaturan mengenai tindak lanjut pengawasan\nobat, bahan obat, narkotika, psikotropika, prekursor, dan\nzat adiktif sebagaimana telah diatur dalam Peraturan\nBadan Pengawas Obat dan Makanan Nomor 9 Tahun\n2024 tentang Pedoman Tindak Lanjut Hasil Pengawasan\nObat, Bahan Obat, Narkotika, Psikotropika, Prekursor,\ndan Zat Adiktif perlu disesuaikan dengan kebutuhan\nhukum serta perkembangan ilmu pengetahuan dan\nteknologi, sehingga perlu diubah\nDasar hukum peraturan ini adalah PP Nomor 5 Tahun 2021; Perpres Nomor 80 Tahun 2017; Peraturan BPOM Nomor 21 Tahun 2020 sebagaimana telah diubah dengan Peraturan BPOM Nomor 13 Tahun 2022; Peraturan BPOM Nomor 19 Tahun 2023 sebagaimana telah diubah dengan Peraturan BPOM Nomor 3 Tahun 2025; Peraturan BPOM Noor 9 Tahun 2024\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Badan Pengawas Obat\ndan Makanan Nomor 9 Tahun 2024 tentang Pedoman Tindak\nLanjut Hasil Pengawasan Obat, Bahan Obat, Narkotika,\nPsikotropika, Prekursor, dan Zat Adiktif",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 03 Juli 2025.",
+ "citations": [
+  "PP-2021-5",
+  "PERPRES-2017-80"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/387879/peraturan-bpom-no-19-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:28:52Z"
+}

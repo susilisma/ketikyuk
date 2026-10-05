@@ -12,7 +12,7 @@
  "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Badan Tenaga Nuklir Nasional",
  "issuer": "Pemerintah Pusat",
  "subject": "PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2019-02-22",
  "date_promulgated": "2019-02-26",
  "date_effective": "2019-03-28",
@@ -40,5 +40,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/93322/PP%20Nomor%208%20Tahun%202019.pdf"
  ],
- "fetched_at": "2026-09-14T05:28:15Z"
+ "fetched_at": "2026-10-05T04:57:04Z"
 }

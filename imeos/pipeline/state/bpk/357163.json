@@ -1,0 +1,58 @@
+{
+ "id": "PERMENKUM-2026-12",
+ "source": "bpk",
+ "bpk_id": 357163,
+ "url": "https://peraturan.bpk.go.id/Details/357163/permenkum-no-12-tahun-2026-manajemen-karier-pegawai-negeri-sipil-kementerian-huk",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "12",
+ "number_raw": "12",
+ "year": 2026,
+ "title": "Peraturan Menteri Hukum Nomor 12 Tahun 2026 tentang Manajemen Karier Pegawai Negeri Sipil Kementerian Hukum",
+ "about": "Manajemen Karier Pegawai Negeri Sipil Kementerian Hukum",
+ "issuer": "Kementerian Hukum",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-03-06",
+ "date_promulgated": "2026-08-31",
+ "date_effective": "2026-08-31",
+ "gazette": "BN 2026 (602): 262 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 170962,
+   "label": "Permenkumham No. 8 Tahun 2021",
+   "about": "Manajemen Karier Pegawai Negeri Sipil Kementerian Hukum dan Hak Asasi Manusia"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133165,
+   "label": "Permenkumham No. 25 Tahun 2018",
+   "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 1 Tahun 2014 tentang Penunjukan Pelaksana Harian dan Pelaksana Tugas di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133328,
+   "label": "Permenkumham No. 1 Tahun 2014",
+   "about": "Penunjukan Pelaksana Harian dan Pelaksana Tugas di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "Untuk meningkatkan kualitas dan objektivitas pengembangan karier, pengembangan kompetensi, pola karier, dan penerapan manajemen talenta serta memberikan kejelasan dan kepastian karier, perlu ditetapkan ketentuan manajemen karier Pegawai Negeri Sipil Kementerian Hukum.\nDasar hukum Peraturan ini adalah Pasal 17 ayat (3) UUD 1945; UU No. 39 Tahun 2008; UU No. 20 Tahun 2023; PP No. 11 Tahun 2017; PP No. 30 Tahun 2019; PP No. 94 Tahun 2021; Perpres No. 155 Tahun 2024; Permenkum No. 1 Tahun 2024; dan Permenkum No. 2 Tahun 2024.\nPeraturan ini mengatur mengenai Manajemen Karier Pegawai Negeri Sipil Kementerian Hukum. Sasaran penyelenggaraan Manajemen Karier PNS Kementerian yaitu: a. tersusunnya dan tersedianya kebijakan Pengembangan Karier, Pola Karier, Pengembangan Kompetensi, Penilaian Kinerja, penilaian Kompetensi dan Manajemen Talenta di lingkungan Kementerian; dan b. meningkatkan Kinerja Kementerian. Manajemen Karier PNS didasarkan pada prinsip Sistem Merit dengan mempertimbangkan integritas dan moralitas.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 31 Agustus 2026.\nPada saat Peraturan Menteri ini mulai berlaku: a. Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor M.HH-01.DL.07.01 Tahun 2009 tentang Pedoman Tugas Belajar dan Ijin Belajar bagi Pegawai di Lingkungan Departemen Hukum dan Hak Asasi Manusia Republik Indonesia (Berita Negara Republik Indonesia Nomor 168 Tahun 2009); b. Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor M.HH-01.UM.07.03 Tahun 2009 tentang Pedoman Administrasi Perjalanan Ke Luar Negeri bagi Pejabat dan/atau Pegawai di Lingkungan Departemen Hukum dan Hak Asasi Manusia Republik Indonesia (Berita Negara Republik Indonesia Nomor 170 Tahun 2009); c. Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 1 Tahun 2014 tentang Penunjukan Pelaksana Harian dan Pelaksana Tugas di Lingkungan Kementerian Hukum dan Hak Asasi Manusia (Berita Negara Republik Indonesia Nomor 123 Tahun 2014); d. Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 25 Tahun 2018 tentang Perubahan atas Peraturan Menteri Hukum Dan Hak Asasi Manusia Nomor 1 Tahun 2014 tentang Penunjukan Pelaksana Harian dan Pelaksana Tugas di Lingkungan Kementerian Hukum dan Hak Asasi Manusia (Berita Negara Republik Indonesia Nomor 1219 Tahun 2018); e. Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 8 Tahun 2021 tentang Manajemen Karier Pegawai Negeri Sipil Kementerian Hukum dan Hak Asasi Manusia (Berita Negara Republik Indonesia Nomor 101 Tahun 2021); dan f. Keputusan Menteri Kehakiman Nomor M.2843-KP.04.11 Tahun 1997 tentang Pendelegasian Wewenang Mengenai Penolakan/Pemberian Izin Perkawinan dan Perceraian serta Pemberian Surat Keterangan untuk Melakukan Perceraian bagi Pegawai Negeri Sipil dalam Lingkungan Departemen Kehakiman; dicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "UU-2008-39",
+  "UU-2023-20",
+  "PP-2017-11",
+  "PP-2019-30",
+  "PP-2021-94",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/421187/Permenkum%20No%2012%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:17:41Z"
+}

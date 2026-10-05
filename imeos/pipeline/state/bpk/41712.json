@@ -1,0 +1,93 @@
+{
+ "id": "PERPRES-2014-192",
+ "source": "bpk",
+ "bpk_id": 41712,
+ "url": "https://peraturan.bpk.go.id/Details/41712/perpres-no-192-tahun-2014",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "192",
+ "number_raw": "192",
+ "year": 2014,
+ "title": "Peraturan Presiden (Perpres) Nomor 192 Tahun 2014 tentang Badan Pengawasan Keuangan dan Pembangunan",
+ "about": "Badan Pengawasan Keuangan dan Pembangunan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "Alias",
+ "date_enacted": "2014-12-31",
+ "date_promulgated": "2014-12-31",
+ "date_effective": "2014-12-31",
+ "gazette": "LN.2014/NO.400, LL SETKAB : 29 HLM.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2025-2",
+   "target_bpk_id": 314633,
+   "label": "Perpres No. 2 Tahun 2025",
+   "about": "Perubahan Kedua atas Peraturan Presiden Nomor 192 Tahun 2014 tentang Badan Pengawasan Keuangan dan Pembangunan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2023-20",
+   "target_bpk_id": 244663,
+   "label": "PERPRES No. 20 Tahun 2023",
+   "about": "Perubahan atas Peraturan Presiden Nomor 192 Tahun 2014 tentang Badan Pengawasan Keuangan dan Pembangunan"
+  },
+  {
+   "type": "Mengubah sebagian",
+   "target": "PERPRES-2013-4",
+   "target_bpk_id": 41374,
+   "label": "PERPRES No. 4 Tahun 2013",
+   "about": "Perubahan Kedelapan atas Keputusan Presiden Nomor 110 Tahun 2001 tentang Unit Organisasi dan Tugas Eselon I Lembaga Pemerintah Non Kementerian"
+  },
+  {
+   "type": "Mengubah sebagian",
+   "target": "PERPRES-2013-3",
+   "target_bpk_id": 41373,
+   "label": "PERPRES No. 3 Tahun 2013",
+   "about": "Perubahan Ketujuh atas Keputusan Presiden Nomor 103 Tahun 2001 tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, dan Tata Kerja Lembaga Pemerintah Non Kementerian"
+  },
+  {
+   "type": "Mengubah sebagian",
+   "target": "PERPRES-2005-52",
+   "target_bpk_id": 42581,
+   "label": "PERPRES No. 52 Tahun 2005",
+   "about": "Perubahan Ketujuh atas Keputusan Presiden Nomor 110 Tahun 2001 Tentang Unit Organisasi dan Tugas Eselon I Lembaga Pemerintah Non Departemen"
+  },
+  {
+   "type": "Mengubah sebagian",
+   "target": null,
+   "target_bpk_id": 55563,
+   "label": "Keppres No. 9 Tahun 2004",
+   "about": "Perubahan Atas Keputusan Presiden Nomor 103 Tahun 2001 Tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, Dan Tata Kerja Lembaga Pemerintah Non Departemen Sebagaimana Telah Beberapa Kali Diubah Terakhir Dengan Keputusan Presiden Nomor 30 Tahun 2003"
+  },
+  {
+   "type": "Mengubah sebagian",
+   "target": null,
+   "target_bpk_id": 55565,
+   "label": "Keppres No. 11 Tahun 2004",
+   "about": "Perubahan Atas Keputusan Presiden Nomor 110 Tahun 2001 Tentang Unit Organisasi Dan Tugas Eselon I Lembaga Pemerintah Non Departemen Sebagaimana Telah Beberapa Kali Diubah Terakhir Dengan Keputusan Presiden Nomor 62 Tahun 2003"
+  },
+  {
+   "type": "Mengubah sebagian",
+   "target": null,
+   "target_bpk_id": 56314,
+   "label": "Keppres No. 62 Tahun 2003",
+   "about": "Perubahan Atas Keputusan Presiden Nomor 110 Tahun 2001 Tentang Unit Organisasi Dan Tugas Eselon I Lembaga Pemerintah Non Departemen Sebagaimana Telah Beberapa Kali Diubah Terakhir Dengan Keputusan Presiden Nomor 32 Tahun 2003"
+  },
+  {
+   "type": "Mengubah sebagian",
+   "target": null,
+   "target_bpk_id": 56123,
+   "label": "Keppres No. 32 Tahun 2003",
+   "about": "Keputusan Presiden Nomor 110 Tahun 2001 Tentang Unit Organisasi Dan Tugas Eselon I Lembaga Pemerintah Non Departemen Sebagaimana Telah Beberapa Kali Diubah Terakhir Dengan Keputusan Presiden Nomor 48 Tahun 2002"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 31 Desember 2014.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/67599/Perpres%20Nomor%20192%20Tahun%202014.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:03:33Z"
+}

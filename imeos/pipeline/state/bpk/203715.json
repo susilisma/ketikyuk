@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKUMHAM-2022-6",
+ "source": "bpk",
+ "bpk_id": 203715,
+ "url": "https://peraturan.bpk.go.id/Details/203715/permenkumham-no-6-tahun-2022",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "6",
+ "number_raw": "6",
+ "year": 2022,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 6 Tahun 2022 tentang Layanan Legalisasi Apostille pada Dokumen Publik",
+ "about": "Layanan Legalisasi Apostille pada Dokumen Publik",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "PERIZINAN, PELAYANAN PUBLIK",
+ "field": "Alias",
+ "date_enacted": "2022-01-21",
+ "date_promulgated": "2022-01-26",
+ "date_effective": "2022-06-04",
+ "gazette": "BN.2022/No.98, peraturan.go.id: 10 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 350902,
+   "label": "Permenkum No. 50 Tahun 2025",
+   "about": "Layanan Apostille"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 04 Juni 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/197691/Nomor%206%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:18:18Z"
+}

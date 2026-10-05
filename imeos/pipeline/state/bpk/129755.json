@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKES-2019-5",
+ "source": "bpk",
+ "bpk_id": 129755,
+ "url": "https://peraturan.bpk.go.id/Details/129755/permenkes-no-5-tahun-2019",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "5",
+ "number_raw": "5",
+ "year": 2019,
+ "title": "Peraturan Menteri Kesehatan Nomor 5 Tahun 2019 tentang Perencanaan dan Pengadaan Obat Berdasarkan Katalog Elektronik",
+ "about": "Perencanaan dan Pengadaan Obat Berdasarkan Katalog Elektronik",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - PENGADAAN BARANG / JASA",
+ "field": "Alias",
+ "date_enacted": "2019-01-17",
+ "date_promulgated": "2019-01-31",
+ "date_effective": "2019-01-31",
+ "gazette": "BN.2019/NO.70, PERATURAN.GO.ID : 9 HLM.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2017-33",
+   "target_bpk_id": 112095,
+   "label": "Permenkes No. 33 Tahun 2017",
+   "about": "Monitoring Dan Evaluasi Terhadap Perencanaan, Pengadaan Berdasarkan Katalog Elektronik Dan Pemakaian Obat"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2014-63",
+   "target_bpk_id": 129756,
+   "label": "Permenkes No. 63 Tahun 2014",
+   "about": "Pengadaan Obat Berdasarkan Katalog Elektronik (E-Catalogue)"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 31 Januari 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/120657/Permenkes%20Nomor%205%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:22:10Z"
+}

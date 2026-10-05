@@ -1,0 +1,48 @@
+{
+ "id": "PERPRES-2025-46",
+ "source": "bpk",
+ "bpk_id": 318647,
+ "url": "https://peraturan.bpk.go.id/Details/318647/perpres-no-46-tahun-2025",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "46",
+ "number_raw": "46",
+ "year": 2025,
+ "title": "Peraturan Presiden (Perpres) Nomor 46 Tahun 2025 tentang Perubahan Kedua atas Peraturan Presiden Nomor 16 Tahun 2018 tentang Pengadaan Barang/Jasa Pemerintah",
+ "about": "Perubahan Kedua atas Peraturan Presiden Nomor 16 Tahun 2018 tentang Pengadaan Barang/Jasa Pemerintah",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PENGADAAN BARANG / JASA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-04-30",
+ "date_promulgated": "2025-04-30",
+ "date_effective": "2025-04-30",
+ "gazette": "LN 2025 (67) : 80 hlm.; jdih.lkpp.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2021-12",
+   "target_bpk_id": 161828,
+   "label": "PERPRES No. 12 Tahun 2021",
+   "about": "Perubahan atas Peraturan Presiden Nomor 16 Tahun 2018 tentang Pengadaan Barang/Jasa Pemerintah"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2018-16",
+   "target_bpk_id": 73586,
+   "label": "PERPRES No. 16 Tahun 2018",
+   "about": "Pengadaan Barang/Jasa Pemerintah"
+  }
+ ],
+ "abstract": "Untuk meningkatkan penggunaan produk dalam negeri dalam Pengadaan Barang/Jasa Pemerintah, mempercepat pelaksanaan Pengadaan Barang/Jasa Pemerintah guna optimalisasi kemanfaatan anggaran belanja pemerintah, dan mengatur Pengadaan Barang/Jasa desa, perlu menetapkan Peraturan Presiden tentang Perubahan Kedua atas Peraturan Presiden Nomor 16 Tahun 2018 tentang Pengadaan Barang/Jasa Pemerintah.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU No. 1 Tahun 2004; UU No. 30 Tahun 2014; dan Perpres No. 16 Tahun 2018.\nPerpres ini mengatur mengenai perubahan beberapa ketentuan dalam Perpres Nomor 16 Tahun 2018. Pengadaan Barang/Jasa Pemerintah adalah kegiatan Pengadaan Barang/Jasa oleh Kementerian/Lembaga/Perangkat Daerah/Institusi Lainnya/Pemerintah Desa yang dibiayai oleh APBN/APBD/APB Desa yang prosesnya sejak identifikasi kebutuhan sampai dengan serah terima hasil pekerjaan.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 30 April 2025.\nPerpres ini mengubah Perpres Nomor 16 Tahun 2018.\nLampiran file: 80 hlm.",
+ "citations": [
+  "PERPRES-2018-16",
+  "UU-2004-1",
+  "UU-2014-30"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/380134/Peraturan%20Presiden%20Nomor%2046%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:02:50Z"
+}

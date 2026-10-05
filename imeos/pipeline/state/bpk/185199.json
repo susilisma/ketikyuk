@@ -1,0 +1,37 @@
+{
+ "id": "PMK-2021-148",
+ "source": "bpk",
+ "bpk_id": 185199,
+ "url": "https://peraturan.bpk.go.id/Details/185199/pmk-no-148pmk022021",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "148",
+ "number_raw": "148/PMK.02/2021",
+ "year": 2021,
+ "title": "Peraturan Menteri Keuangan Nomor 148/PMK.02/2021 Tahun 2021 tentang Tata Cara Penyediaan, Pencairan, Penggunaan, dan Pertanggungjawaban Dana Awal dan Akumulasi Iuran Program Jaminan Kehilangan Pekerjaan",
+ "about": "Tata Cara Penyediaan, Pencairan, Penggunaan, dan Pertanggungjawaban Dana Awal dan Akumulasi Iuran Program Jaminan Kehilangan Pekerjaan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "KETENAGAKERJAAN - CIPTA KERJA",
+ "field": "Alias",
+ "date_enacted": "2021-10-25",
+ "date_promulgated": "2021-10-26",
+ "date_effective": "2021-10-26",
+ "gazette": "BN.2021/NO. 1196; https:jdih.kemenkeu.go.id : 21 Hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2025-26",
+   "target_bpk_id": 322553,
+   "label": "PMK No. 26 Tahun 2025",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 148/PMK.02/2021 tentang Tata Cara Penyediaan, Pencairan, Penggunaan, dan Pertanggungjawaban Dana Awal dan Akumulasi Iuran Program Jaminan Kehilangan Pekerjaan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 26 Oktober 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/178657/148_PMK.02_2021.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:08:40Z"
+}

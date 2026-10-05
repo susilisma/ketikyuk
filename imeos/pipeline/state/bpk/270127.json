@@ -1,0 +1,49 @@
+{
+ "id": "PERPRES-2023-74",
+ "source": "bpk",
+ "bpk_id": 270127,
+ "url": "https://peraturan.bpk.go.id/Details/270127/perpres-no-74-tahun-2023",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "74",
+ "number_raw": "74",
+ "year": 2023,
+ "title": "Peraturan Presiden (Perpres) Nomor 74 Tahun 2023 tentang Tunjangan Kinerja Pegawai di Lingkungan Kementerian Koordinator Bidang Kemaritiman dan Investasi",
+ "about": "Tunjangan Kinerja Pegawai di Lingkungan Kementerian Koordinator Bidang Kemaritiman dan Investasi",
+ "issuer": "Pemerintah Pusat",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2023-11-08",
+ "date_promulgated": "2023-11-08",
+ "date_effective": "2023-11-08",
+ "gazette": "LN 2023 (145) : 7 hlm., jdih.setneg.go.id",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2025-25",
+   "target_bpk_id": 338513,
+   "label": "Perpres No. 25 Tahun 2025",
+   "about": "Tunjangan Kinerja Pegawai di Lingkungan Kementerian Koordinator Bidang Infrastruktur dan Pembangunan Kewilayahan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERPRES-2020-7",
+   "target_bpk_id": 131365,
+   "label": "PERPRES No. 7 Tahun 2020",
+   "about": "Tunjangan Kinerja Pegawai di Lingkungan Kementerian Koordinator Bidang Kemaritiman dan Investasi"
+  }
+ ],
+ "abstract": "Peraturan Presiden Nomor 7 Tahun 2020 tentang Tunjangan Kinerja Pegawai di Lingkungan Kementerian Koordinator Bidang Kemaritiman dan Investasi sudah tidak sesuai dengan perkembangan capaian hasil pelaksanaan reformasi birokrasi sehingga perlu diganti\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1045; UU Nomor 20 Tahun 2023; PP Nomor 11 Tahun 2017; dan Perpres Nomor 92 Tahun 2019.\nPerpres ini mengatur tentang Tunjangan Kinerja Pegawai di Lingkungan Kementerian Koordinator Bidang Kemaritiman dan Investasi dengan menetapkan batasan istilah yang digunakan dalam pengaturannya. Pegawai di Lingkungan Kementerian Koordinator Bidang Kemaritiman dan Investasi, selain diberikan penghasilan sesuai dengan ketentuan peraturan perundang-undangan, diberikan tunjangan kinerja setiap bulan. Pegawai di Lingkungan Kementerian Koordinator Bidang Kemaritiman dan Investasi yang menerima tunjangan kinerja wajib mempertahankan dan terus meningkatkan pelaksanaan reformasi birokrasi sesuai dengan ketentuan peraturan perundang-undangan.",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 08 November 2023.\nPada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 7 Tahun 2020 tentang Tunjangan Kinerja Pegawai di Lingkungan Kementerian Koordinator Bidang Kemaritiman dan Investasi (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 15), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 8 hlm.",
+ "citations": [
+  "PERPRES-2020-7",
+  "UU-2023-20",
+  "PP-2017-11",
+  "PERPRES-2019-92"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/327992/Perpres%20Nomor%2074%20Tahun%202023.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:03:02Z"
+}

@@ -17,8 +17,15 @@
  "date_promulgated": "2025-10-15",
  "date_effective": "2025-10-15",
  "gazette": "BN 2025 (820); 9 hlm",
- "status_bpk": "Berlaku",
+ "status_bpk": "Tidak Berlaku",
  "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENAKER-2026-13",
+   "target_bpk_id": 357427,
+   "label": "Permenaker No. 13 Tahun 2026",
+   "about": "Pedoman Penyaluran Bantuan Pemerintah di Lingkungan Kementerian Ketenagakerjaan Tahun Anggaran 2027"
+  },
   {
    "type": "Mencabut",
    "target": "PERMENAKER-2024-13",
@@ -40,5 +47,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/394176/permenaker-no-10-tahun-2025.pdf"
  ],
- "fetched_at": "2026-09-14T06:41:05Z"
+ "fetched_at": "2026-10-05T05:14:56Z"
 }

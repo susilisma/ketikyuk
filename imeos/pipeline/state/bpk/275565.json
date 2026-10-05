@@ -1,0 +1,43 @@
+{
+ "id": "PERMENKES-2023-33",
+ "source": "bpk",
+ "bpk_id": 275565,
+ "url": "https://peraturan.bpk.go.id/Details/275565/permenkes-no-33-tahun-2023",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "33",
+ "number_raw": "33",
+ "year": 2023,
+ "title": "Peraturan Menteri Kesehatan Nomor 33 Tahun 2023 tentang Rumah Sakit Kapal",
+ "about": "Rumah Sakit Kapal",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2023-09-01",
+ "date_promulgated": "2023-09-01",
+ "date_effective": "2023-09-01",
+ "gazette": "BN 2023 (699): 12 hlm: jdih.kemkes.go.id",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-6",
+   "target_bpk_id": 350851,
+   "label": "Permenkes No. 6 Tahun 2026",
+   "about": "Rumah Sakit"
+  }
+ ],
+ "abstract": "Untuk memberikan pelayanan kesehatan serta meningkatkan aksesibilitas dan mutu pelayanan kesehatan pada daerah terpencil, sangat terpencil, tertinggal, perbatasan, dan kepulauan serta daerah dengan keterbatasan kemampuan pelayanan rumah sakit, dibutuhkan fasilitas pelayanan kesehatan bergerak melalui rumah sakit kapal.\nDasar hukum peraturan ini adalah UUD RI Tahun 1945 Pasal 17 ayat (3); UU Nomor 39 Tahun 2008; UU Nomor 17 Tahun 2008; UU Nomor 17 Tahun 2023; Perpres Nomor 18 Tahun 2021; dan Permenkes Nomor 5 Tahun 2022.\nRumah Sakit Kapal adalah rumah sakit yang menggunakan Kapal untuk menyelenggarakan pelayanan kesehatan perseorangan dalam jangka waktu tertentu dan dapat berpindah dari satu lokasi ke lokasi lain. Akreditasi adalah pengakuan terhadap mutu pelayanan Rumah Sakit Kapal, setelah dilakukan penilaian bahwa Rumah Sakit Kapal telah memenuhi standar Akreditasi.",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 01 September 2023.\nLampiran file: 30 hlm. (batang tubuh hlm 1 sd 12; lampiran hlm 13 sd 30)",
+ "citations": [
+  "UU-2008-39",
+  "UU-2008-17",
+  "UU-2023-17",
+  "PERPRES-2021-18",
+  "PERMENKES-2022-5"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/334060/Permenkes%20Nomor%2033%20Tahun%202023.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:21:50Z"
+}

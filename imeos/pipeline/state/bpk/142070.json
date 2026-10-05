@@ -12,7 +12,7 @@
  "about": "Bantuan Atau Sumbangan, Serta Harta Hibahan Yang Dikecualikan Sebagai Objek Pajak Penghasilan",
  "issuer": "Kementerian Keuangan",
  "subject": "BANTUAN, SUMBANGAN, BENCANA / KEBENCANAAN, DAN PENANGGULANGAN BENCANA",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2020-07-20",
  "date_promulgated": "2020-07-21",
  "date_effective": "2020-07-21",
@@ -37,5 +37,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/133486/90_PMK.03_2020.pdf"
  ],
- "fetched_at": "2026-09-14T06:31:44Z"
+ "fetched_at": "2026-10-05T05:06:08Z"
 }

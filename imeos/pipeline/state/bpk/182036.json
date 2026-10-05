@@ -1,0 +1,44 @@
+{
+ "id": "PERBPOM-2019-9",
+ "source": "bpk",
+ "bpk_id": 182036,
+ "url": "https://peraturan.bpk.go.id/Details/182036/peraturan-bpom-no-9-tahun-2019",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "9",
+ "number_raw": "9",
+ "year": 2019,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 9 Tahun 2019 tentang Pedoman Teknis Cara Distribusi Obat yang Baik",
+ "about": "Pedoman Teknis Cara Distribusi Obat yang Baik",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "STANDAR / PEDOMAN",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2019-05-20",
+ "date_promulgated": "2019-05-22",
+ "date_effective": "2019-05-22",
+ "gazette": "BN.2019/No. 590, jdih.pom.go.id : 7 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 326278,
+   "label": "Peraturan BPOM No. 20 Tahun 2025",
+   "about": "Standar Cara Distribusi Obat yang Baik"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 181771,
+   "label": "Peraturan BPOM No. 6 Tahun 2020",
+   "about": "Perubahan atas Peraturan Badan Pengawas Obat dan Makanan Nomor 9 Tahun 2019 tentang Pedoman Teknis Cara Distribusi Obat yang Baik"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 22 Mei 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/175439/Peraturan%20Kepala%20BPOM%20Nomor%209%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:28:51Z"
+}

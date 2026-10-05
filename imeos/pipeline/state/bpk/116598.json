@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKES-2015-88",
+ "source": "bpk",
+ "bpk_id": 116598,
+ "url": "https://peraturan.bpk.go.id/Details/116598/permenkes-no-88-tahun-2015",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "88",
+ "number_raw": "88",
+ "year": 2015,
+ "title": "Peraturan Menteri Kesehatan Nomor 88 Tahun 2015 tentang Pedoman Pengawasan, Sistem Pelaporan, dan Sistem Informasi Dalam Penyelenggaraan Pembinaan dan Pengawasan Rumah Sakit oleh Badan Pengawas Rumah Sakit",
+ "about": "Pedoman Pengawasan, Sistem Pelaporan, dan Sistem Informasi Dalam Penyelenggaraan Pembinaan dan Pengawasan Rumah Sakit oleh Badan Pengawas Rumah Sakit",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA - KESEHATAN - PERIZINAN, PELAYANAN PUBLIK - STANDAR / PEDOMAN",
+ "field": "Alias",
+ "date_enacted": "2015-12-29",
+ "date_promulgated": "2016-01-06",
+ "date_effective": "2016-01-06",
+ "gazette": "BN.2016/NO. 10, kemkes.go.id : 5 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-6",
+   "target_bpk_id": 350851,
+   "label": "Permenkes No. 6 Tahun 2026",
+   "about": "Rumah Sakit"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 06 Januari 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/107523/Permenkes%20Nomor%2088%20Tahun%202015.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:21:58Z"
+}

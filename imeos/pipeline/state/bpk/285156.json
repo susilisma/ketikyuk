@@ -1,0 +1,57 @@
+{
+ "id": "PERMENKUMHAM-2024-11",
+ "source": "bpk",
+ "bpk_id": 285156,
+ "url": "https://peraturan.bpk.go.id/Details/285156/permenkumham-no-11-tahun-2024",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "11",
+ "number_raw": "11",
+ "year": 2024,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 11 Tahun 2024 tentang Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 22 Tahun 2023 tentang Visa dan Izin Tinggal",
+ "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 22 Tahun 2023 tentang Visa dan Izin Tinggal",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "KEWARGANEGARAAN DAN IMIGRASI",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2024-04-01",
+ "date_promulgated": "2024-04-03",
+ "date_effective": "2024-05-03",
+ "gazette": "BN 2024 (186) : 49 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": null,
+   "target_bpk_id": 316856,
+   "label": "Permen Imipas No. 3 Tahun 2025",
+   "about": "Visa, Izin Tinggal, Fasilitas dan Kemudahan, serta Pengawasan Keimigrasian bagi Diaspora"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133295,
+   "label": "Permenkumham No. 11 Tahun 2015",
+   "about": "Bentuk Dan Format Visa Kunjungan Dan Visa Tinggal Terbatas"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 272044,
+   "label": "Permenkumham No. 22 Tahun 2023",
+   "about": "Visa dan Izin Tinggal"
+  }
+ ],
+ "abstract": "Untuk meningkatkan kualitas pelayanan publik di bidang visa dan izin tinggal dan memberikan kepastian hukum dalam pemberian visa dan izin tinggal, serta untuk melaksanakan penyesuaian kebijakan Golden Visa, perlu mengubah Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 22 Tahun 2023 tentang Visa dan Izin Tinggal.\nDasar hukum Permenkumham ini adalah Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia; UU Nomor 39 Tahun 2008; UU Nomor 6 Tahun 2011; PP Nomor 31 Tahun 2013; Perpres Nomor 18 Tahun 2023; Permenkumham Nomor 19 Tahun 2018; Permenkumham Nomor 22 Tahun 2023; dan Permenkumham Nomor 28 Tahun 2023.\nBeberapa ketentuan dalam Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 22 Tahun 2023 tentang Visa dan Izin Tinggal (Berita Negara Republik Indonesia Tahun 2023 Nomor 651), diubah sebagai diatur dalam Permenkumham ini. Selain itu terdapat penambahan beberapa pasal baru dalam Permenkumham tentang Visa dan Izin Tinggal. Visa kunjungan diterbitkan dalam bentuk stiker atau elektronik. Visa kunjungan beberapa kali perjalanan dapat diberikan kepada Orang Asing untuk melakukan kegiatan: a. wisata; b. keluarga; c. meneruskan perjalanan ke negara lain; d. bisnis; e. mengikuti rapat; f. melakukan pembelian barang; g. menjalani pengobatan; h. tugas pemerintahan; i. prainvestasi; j. melakukan pembuatan film; k. melakukan audit, kendali mutu produksi, atau inspeksi pada cabang perusahaan di Indonesia; l. seni dan budaya; atau m. olahraga yang tidak bersifat komersial.",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 03 Mei 2024.\nPermenkumham ini mengubah Permenkumham Nomor 22 Tahun 2023 dan mencabut Permenkumham Nomor 11 Tahun 2015.\nLampiran file: 49 hlm.",
+ "citations": [
+  "PERMENKUMHAM-2023-22",
+  "UU-2008-39",
+  "UU-2011-6",
+  "PP-2013-31",
+  "PERPRES-2023-18"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/344251/Permenkumham%20Nomor%2011%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:21:11Z"
+}

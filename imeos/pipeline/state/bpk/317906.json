@@ -1,0 +1,41 @@
+{
+ "id": "PERATURANBI-2025-5",
+ "source": "bpk",
+ "bpk_id": 317906,
+ "url": "https://peraturan.bpk.go.id/Details/317906/peraturan-bi-no-5-tahun-2025",
+ "form": "PERATURANBI",
+ "form_long": "Peraturan Bank Indonesia",
+ "number": "5",
+ "number_raw": "5",
+ "year": 2025,
+ "title": "Peraturan Bank Indonesia Nomor 5 Tahun 2025 tentang Kebijakan Moneter",
+ "about": "Kebijakan Moneter",
+ "issuer": "Bank Indonesia",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-03-27",
+ "date_promulgated": "2025-03-27",
+ "date_effective": "2025-03-27",
+ "gazette": "BN.2025 (14/28 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 135523,
+   "label": "Peraturan BI No. 17/8/PBI/2015 Tahun 2015",
+   "about": "Pengaturan dan Pengawasan Moneter"
+  }
+ ],
+ "abstract": "a. bahwa untuk mencapai salah satu tujuan Bank\nIndonesia yaitu mencapai stabilitas nilai rupiah dalam\nrangka mendukung pertumbuhan ekonomi yang\nberkelanjutan, Bank Indonesia menetapkan dan\nmelaksanakan kebijakan moneter secara\nberkelanjutan, konsisten, dan transparan melalui\nupaya mencapai inflasi yang rendah dan stabil, nilai\ntukar yang stabil, serta cadangan devisa negara yang\ncukup;\nb. bahwa dengan semakin kompleksnya tantangan yang\ndihadapi oleh Bank Indonesia, termasuk akibat\nperubahan lingkungan strategis baik internal maupun\neksternal, diperlukan penguatan kerangka kerja\nkebijakan moneter Bank Indonesia sebagai bagian dari\nbauran kebijakan Bank Indonesia;\nc. bahwa untuk mendukung pencapaian tujuan Bank\nIndonesia sebagaimana dimaksud dalam huruf a serta\nuntuk penguatan kerangka kerja kebijakan moneter\nsebagaimana dimaksud dalam huruf b, Peraturan Bank\nIndonesia Nomor 17/8/PBI/2015 tentang Pengaturan\ndan Pengawasan Moneter perlu diganti;\nd. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a, huruf b, dan huruf c, perlu\nmenetapkan Peraturan Bank Indonesia tentang\nKebijakan Moneter;\nUndang-Undang Nomor 23 Tahun 1999, Undang-Undang Nomor 24 Tahun 1999 dan Peraturan Bank Indonesia Nomor 4 Tahun 2024\nPeraturan ini mengatur tentang ketentuan umum, prinsip dasar kebijakan moneter, kerangka kerja kebijakan moneter, perumusan kebijakan moneter, pelaksanaan kebijakan moneter, pelaporan dan pengawasan, koordinasi dan sinergi, akuntabilitas dan transparasi dan ketentuan penutup.",
+ "note": "Peraturan Bank Indonesia ini mulai berlaku pada tanggal 27 Maret 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan Bank Indonesia Nomor 17/8/PBI/2015 tentang Pengaturan dan Pengawasan Moneter",
+ "citations": [
+  "UU-1999-23",
+  "UU-1999-24",
+  "PBI-2024-4"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/379317/peraturan-bi-no-5-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:31:06Z"
+}

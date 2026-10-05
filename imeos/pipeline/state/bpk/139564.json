@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKES-2017-45",
+ "source": "bpk",
+ "bpk_id": 139564,
+ "url": "https://peraturan.bpk.go.id/Details/139564/permenkes-no-45-tahun-2017",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "45",
+ "number_raw": "45",
+ "year": 2017,
+ "title": "Peraturan Menteri Kesehatan Nomor 45 Tahun 2017 tentang Izin dan Penyelenggaraan Praktik Psikolog Klinis",
+ "about": "Izin dan Penyelenggaraan Praktik Psikolog Klinis",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "Alias",
+ "date_enacted": "2017-10-04",
+ "date_promulgated": "2017-10-26",
+ "date_effective": "2017-10-26",
+ "gazette": "BN.2017/No.1493, peraturan.go.id : 16 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2025-13",
+   "target_bpk_id": 335214,
+   "label": "Permenkes No. 13 Tahun 2025",
+   "about": "Pengelolaan Sumber Daya Manusia Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 26 Oktober 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/130883/Permenkes%20Nomor%2045%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:23:52Z"
+}

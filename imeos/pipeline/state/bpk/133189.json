@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKUMHAM-2017-9",
+ "source": "bpk",
+ "bpk_id": 133189,
+ "url": "https://peraturan.bpk.go.id/Details/133189/permenkumham-no-9-tahun-2017",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "9",
+ "number_raw": "9",
+ "year": 2017,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 9 Tahun 2017 tentang Penerapan Prinsip Mengenali Pengguna Jasa Bagi Notaris",
+ "about": "Penerapan Prinsip Mengenali Pengguna Jasa Bagi Notaris",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "Alias",
+ "date_enacted": "2017-05-05",
+ "date_promulgated": "2017-08-04",
+ "date_effective": "2017-08-04",
+ "gazette": "BN.2017/NO.1087, peraturan.go.id: 26 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 357145,
+   "label": "Permenkum No. 10 Tahun 2026",
+   "about": "Penerapan Prinsip Mengenali Pengguna Jasa bagi Notaris"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 04 Agustus 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/123978/Permenkumham%20Nomor%209%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:17:38Z"
+}

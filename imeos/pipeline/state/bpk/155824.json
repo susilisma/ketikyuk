@@ -12,7 +12,7 @@
  "about": "Tata Cara Pengesahan Laporan Pengelolaan Program dan Laporan Keuangan Tahunan Badan Penyelenggara Jaminan Sosial",
  "issuer": "Kementerian Keuangan",
  "subject": "PENGELOLAAN KEUANGAN NEGARA / DAERAH",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2020-11-25",
  "date_promulgated": "2020-11-26",
  "date_effective": "2020-11-26",
@@ -33,5 +33,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/148213/186_PMK.02_2020.pdf"
  ],
- "fetched_at": "2026-09-14T06:33:32Z"
+ "fetched_at": "2026-10-05T05:07:58Z"
 }

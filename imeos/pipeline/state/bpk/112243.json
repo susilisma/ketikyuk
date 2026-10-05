@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKES-2017-62",
+ "source": "bpk",
+ "bpk_id": 112243,
+ "url": "https://peraturan.bpk.go.id/Details/112243/permenkes-no-62-tahun-2017",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "62",
+ "number_raw": "62",
+ "year": 2017,
+ "title": "Peraturan Menteri Kesehatan Nomor 62 Tahun 2017 tentang Izin Edar Alat Kesehatan, Alat Kesehatan Diagnostik In Vitro dan Perbekalan Kesehatan Rumah Tangga",
+ "about": "Izin Edar Alat Kesehatan, Alat Kesehatan Diagnostik In Vitro dan Perbekalan Kesehatan Rumah Tangga",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - PENGADAAN BARANG / JASA - PERIZINAN, PELAYANAN PUBLIK",
+ "field": "Alias",
+ "date_enacted": "2017-12-29",
+ "date_promulgated": "2018-01-12",
+ "date_effective": "2018-01-12",
+ "gazette": "BN.2018/NO.82, kemkes.go.id : 42 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-5",
+   "target_bpk_id": 350852,
+   "label": "Permenkes No. 5 Tahun 2026",
+   "about": "Perbekalan Kesehatan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENKES-2018-26",
+   "target_bpk_id": 111928,
+   "label": "Permenkes No. 26 Tahun 2018",
+   "about": "Pelayanan Perizinan Berusaha Terintegrasi Secara Elektronik Sektor Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 12 Januari 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/103187/Permenkes%20Nomor%2062%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:22:14Z"
+}

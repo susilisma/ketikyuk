@@ -1,0 +1,42 @@
+{
+ "id": "PMK-2020-94",
+ "source": "bpk",
+ "bpk_id": 143641,
+ "url": "https://peraturan.bpk.go.id/Details/143641/pmk-no-94pmk052020",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "94",
+ "number_raw": "94/PMK.05/2020",
+ "year": 2020,
+ "title": "Peraturan Menteri Keuangan Nomor 94/PMK.05/2020 Tahun 2020 tentang Tarif Layanan Badan Layanan Umum Politeknik Pelayaran Sorong pada Kementerian Perhubungan",
+ "about": "Tarif Layanan Badan Layanan Umum Politeknik Pelayaran Sorong pada Kementerian Perhubungan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BADAN LAYANAN UMUM",
+ "field": "Alias",
+ "date_enacted": "2020-07-22",
+ "date_promulgated": "2020-07-22",
+ "date_effective": "2020-08-06",
+ "gazette": "BN.2020/NO.821, https:jdih.kemenkeu.go.id : 8 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-22",
+   "target_bpk_id": 316120,
+   "label": "PMK No. 22 Tahun 2025",
+   "about": "Tarif Layanan Badan Layanan Umum Bidang Pendidikan dan Pelatihan Sumber Daya Manusia Perhubungan Pada Kementerian Perhubungan"
+  }
+ ],
+ "abstract": "- bahwa untuk melaksanakan ketentuan Pasal 9 Peraturan Pemerintah Nomor 23 Tahun 2005\ntentang Pengelolaan Keuangan Badan Layanan Umum sebagaimana telah diubah dengan\nPeraturan Pemerintah Nomor 74 Tahun 2012, dan sesuai dengan Surat Menteri Perhubungan\nNomor KU 103/5/21 PHB 2019 tanggal 30 April 2019 hal Usulan Penetapan Tarif Layanan Satker\nBadan Layanan Umum Politeknik Pelayaran Sorong yang telah dibahas dan dikaji oleh Tim Penilai,\nperlu menetapkan Peraturan Menteri Keuangan tentang Tarif Layanan Badan Layanan Umum\nPoliteknik Pelayaran Sorong pada Kementerian Perhubungan;\nPasal 17 ayat (3) UUD RI Tahun 1945; UU No. 1 Tahun 2004 (LN Tahun 2004 No. 5, TLN No. 4355);\nUU No. 39 Tahun 2008 (LN Tahun 2008 No. 166, TLN No. 4916); PP No. 23 Tahun 2005 (LN Tahun\n2005 No. 48, TLN No. 4502) sebagaimana telah diubah dengan PP No. 74 Tahun 2012 (LN Tahun\n2012 No. 171, TLN No. 5340); Perpres RI No. 57 Tahun 2020 (LN Tahun 2020 No. 98); Permenkeu\nRI No. 100/PMK.05/2016 (BN Tahun 2016 No. 915); Permenkeu RI No. 217/PMK.01/2018\n(BN Tahun 2018 No. 1862) sebagaimana telah beberapa kali diubah terakhir dengan Permenkeu\nRI No. 229/PMK.01/2019 (BN Tahun 2019 No. 1745);\nKetentuan mengenai Tarif layanan Badan Layanan Umum Politeknik Pelayaran Sorong pada\nKementerian Perhubungan yang merupakan imbalan atas jasa layanan yang diberikan oleh Badan\nLayanan Umum Politeknik Pelayaran Sorong pada Kementerian Perhubungan kepada pengguna\njasa, yang terdiri atas tarif layanan akademik dan tarif layanan penunjang akademik.\nBadan Layanan Umum Politeknik Pelayaran Sorong pada Kementerian Perhubungan dapat\nmelakukan kerja sama operasional dan/atau kerja sama manajemen dengan pihak lain untuk\nmeningkatkan layanan jasa di bidang pendidikan, penelitian, dan pengabdian kepada masyarakat",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 06 Agustus 2020.\nPerjanjian/kerja sama antara Badan Layanan Umum Politeknik Pelayaran Sorong pada\nKementerian Perhubungan dengan pihak pengguna jasa sebelum berlakunya Peraturan Menteri\nini, dinyatakan tetap berlaku sampai dengan berakhirnya perjanjian/kerja sama\nLampiran halaman 9 – 14",
+ "citations": [
+  "PP-2005-23",
+  "PP-2012-74",
+  "UU-2004-1",
+  "UU-2008-39"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/135167/94_PMK.05_2020Per.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:08:56Z"
+}

@@ -12,7 +12,7 @@
  "about": "Kantor Staf Presiden",
  "issuer": "Pemerintah Pusat",
  "subject": "PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI / KOMITE / BADAN / DEWAN / STAF KHUSUS / TIM / PANITIA - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2019-12-18",
  "date_promulgated": "2019-12-18",
  "date_effective": "2019-12-18",
@@ -47,5 +47,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/118679/Perpres%20Nomor%2083%20Tahun%202019.pdf"
  ],
- "fetched_at": "2026-09-14T05:31:43Z"
+ "fetched_at": "2026-10-05T05:00:09Z"
 }

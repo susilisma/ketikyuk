@@ -12,7 +12,7 @@
  "about": "Badan Pengarah Percepatan Pembangunan Otonomi Khusus Papua",
  "issuer": "Pemerintah Pusat",
  "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2022-10-21",
  "date_promulgated": "2022-10-21",
  "date_effective": "2022-10-21",
@@ -38,5 +38,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/229804/Perpres%20Nomor%20121%20Tahun%202022.pdf"
  ],
- "fetched_at": "2026-09-14T05:32:34Z"
+ "fetched_at": "2026-10-05T05:01:30Z"
 }

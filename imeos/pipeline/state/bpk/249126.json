@@ -1,0 +1,46 @@
+{
+ "id": "PERMENKES-2023-11",
+ "source": "bpk",
+ "bpk_id": 249126,
+ "url": "https://peraturan.bpk.go.id/Details/249126/permenkes-no-11-tahun-2023",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "11",
+ "number_raw": "11",
+ "year": 2023,
+ "title": "Peraturan Menteri Kesehatan Nomor 11 Tahun 2023 tentang Organisasi dan Tata Kerja Unit Pelaksana Teknis Bidang Pelatihan Kesehatan Di Lingkungan Kementrian Kesehatan",
+ "about": "Organisasi dan Tata Kerja Unit Pelaksana Teknis Bidang Pelatihan Kesehatan Di Lingkungan Kementrian Kesehatan",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "Alias",
+ "date_enacted": "2023-02-20",
+ "date_promulgated": "2023-03-03",
+ "date_effective": "2023-03-03",
+ "gazette": "BN.2023 (210)/ 12 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2025-9",
+   "target_bpk_id": 326059,
+   "label": "Permenkes No. 9 Tahun 2025",
+   "about": "Organisasi dan Tata Kerja Unit\r\nPelaksana Teknis Bidang Pelatihan Kesehatan"
+  }
+ ],
+ "abstract": "a. bahwa untuk mendukung penerapan transformasi kesehatan bidang sumber daya manusia kesehatan, perlu dilakukan penataan organisasi dan tata kerja unit pelaksana teknis bidang pelatihan kesehatan di lingkungan Kementrian Kesehatan;\nb. bahwa Peraturan Menteri Kesehatan Nomor 50 Tahun 2020 tentang Organisasi dan Tata Kerja Unit Pelaksana Teknis Bidang Pelatihan Kesehatan di Lingkungan Kementrian kesehatan sebagaimana telah diubah dengan Peraturan Menteri Kesehatan Nomor 29 Tahun 2021 tentang Perubahan atas Peraturan Menteri Kesehatan Nomor 50 Tahun 2020 tentang Organisasi dan Tata Kerja Unit Pelaksana Teknis Bidang Pelatihan Kesehatan di Lingkungan Kementrian Kesehatan sudah tidak sesuai dengan kebutuhan organisasi dan perkembangan hukum sehingga perlu dilakukan penyesuaian;\nc. bahwa penataan organanisasi dan tata kerja unit pelaskana teknis bidang pelatihan kesehatan di lingkungan Kementrian Kesehatan telah mendapatkan persetujuan Menteri Pendayagunaan Aparatur Negara dan reformasi Birokrasi melalui surat Nomor B/915/M.KT.01/2022 tanggal 29 Agustus 2022;\nd. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b dan huruf c, serta untuk melaksanakan ketentuan Pasal 267 Peraturan Menteri Kesehatan Nomor 5 Tahun 2022 tentang Organisasi dan Tata Kerja Kementrian Kesehatan, perlu menetapkan Peraturan Menteri Kesehatan tentang Organisasi dan Tata Kerja Unit Pelaksana Teknis Bidang Pelatihan Kesehatan di Lingkungan Kementrian Kesehatan;\nPasal 17 ayat (3) UUD 1945, UU Nomor 39 Tahun 2008, UU Nomor 36 Tahun 2009, PP Nomor 11 Tahun 2017, Perpres Nomor 18 Tahun 2021, Permenkes Nomor 37 Tahun 2018 dan Permenkes Nomor 5 Tahun 2022\nPeraturan Menteri ini mengatur tentang ketentuan umum, kedudukan dan klasifikasi, tugas dan fungsi, susunan organisasi, instalasi, kelompok jabatan fungsional, tata kerja, jabatan, pengangkatan dan pemberhentian, ketentuan lain-lain, ketentuan peralihan dan ketentuan penutup",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 03 Maret 2023.",
+ "citations": [
+  "PERMENKES-2020-50",
+  "PERMENKES-2021-29",
+  "PERMENKES-2022-5",
+  "UU-2008-39",
+  "UU-2009-36",
+  "PP-2017-11",
+  "PERPRES-2021-18",
+  "PERMENKES-2018-37"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/305519/Permenkes%20%20no%2011-tahun%202023.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:24:23Z"
+}

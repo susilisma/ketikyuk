@@ -1,0 +1,42 @@
+{
+ "id": "PP-2022-15",
+ "source": "bpk",
+ "bpk_id": 206051,
+ "url": "https://peraturan.bpk.go.id/Details/206051/pp-no-15-tahun-2022",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "15",
+ "number_raw": "15",
+ "year": 2022,
+ "title": "Peraturan Pemerintah (PP) Nomor 15 Tahun 2022 tentang Perlakuan Perpajakan dan/atau Penerimaan Negara Bukan Pajak di Bidang Usaha Pertambangan Batubara",
+ "about": "Perlakuan Perpajakan dan/atau Penerimaan Negara Bukan Pajak di Bidang Usaha Pertambangan Batubara",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PERTAMBANGAN MIGAS, MINERAL DAN ENERGI - PNBP / PENERIMAAN NEGARA BUKAN PAJAK - PERPAJAKAN",
+ "field": "Alias",
+ "date_enacted": "2022-04-11",
+ "date_promulgated": "2022-04-11",
+ "date_effective": "2022-04-18",
+ "gazette": "LN.2022/No.90, TLN No.6786, jdih.setneg.go.id: 29 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2025-18",
+   "target_bpk_id": 320043,
+   "label": "PP No. 18 Tahun 2025",
+   "about": "Perubahan atas Peraturan Pemerintah Nomor 15 Tahun 2022 tentang Perlakuan Perpajakan dan/atau Penerimaan Negara Bukan Pajak di Bidang Usaha Pertambangan Batubara"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 31D UU Nomor 7 Tahun 1983 tentang Pajak Penghasilan sebagaimana telah beberapa kali diubah terakhir dengan UU Nomor 7 Tahun 2021 tentang Harmonisasi Peraturan Perpajakan, serta Pasal 4 ayat (3), Pasal 7 ayat (3), dan Pasal 10 ayat (2) UU Nomor 9 Tahun 2018 tentang Penerimaan Negara Bukan Pajak, perlu menetapkan PP tentang Perlakuan Perpajakan dan/atau Penerimaan Negara Bukan Pajak di Bidang Usaha Pertambangan Batubara.\nDasar hukum PP ini adalah Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945; UU Nomor 7 Tahun 1983; UU Nomor 9 Tahun 2018; dan UU Nomor 4 Tahun 2009.\nPP ini mengatur mengenai ketentuan umum; perlakuan Pajak Penghasilan, kewajiban pemotongan dan/atau pemungutan Pajak Penghasilan; perlakuan perpajakan dan/atau Penerimaan Negara Bukan Pajak bagi pemegang IUP, IUPK, dan PKP2B; perlakuan perpajakan dan/atau Penerimaan Negara Bukan Pajak bagi Pemegang IUPK Sebagai Kelanjutan Operasi Kontrak/Perjanjian; hak dan kewajiban perpajakan dan/ atau Penerimaan Negara Bukan Pajak bagi pemegang IUP, IUPK, IUPK sebagai Kelanjutan Operasi Kontrak/Perjanjian, atau PKP2B; ketentuan peralihan; dan ketentuan penutup.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 18 April 2022.\nPenjelasan 16 hlm.",
+ "citations": [
+  "UU-1983-7",
+  "UU-2021-7",
+  "UU-2018-9",
+  "UU-2009-4"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/200076/PP%20Nomor%2015%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-10-05T04:59:03Z"
+}

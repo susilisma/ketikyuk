@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKES-2019-7",
+ "source": "bpk",
+ "bpk_id": 111721,
+ "url": "https://peraturan.bpk.go.id/Details/111721/permenkes-no-7-tahun-2019",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "7",
+ "number_raw": "7",
+ "year": 2019,
+ "title": "Peraturan Menteri Kesehatan Nomor 7 Tahun 2019 tentang Kesehatan Lingkungan Rumah Sakit",
+ "about": "Kesehatan Lingkungan Rumah Sakit",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - LINGKUNGAN HIDUP",
+ "field": "Alias",
+ "date_enacted": "2019-02-19",
+ "date_promulgated": "2019-03-18",
+ "date_effective": "2019-03-18",
+ "gazette": "BN.2019/NO.296, kemkes.go.id : 9 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PERMENKES-2026-3",
+   "target_bpk_id": 350854,
+   "label": "Permenkes No. 3 Tahun 2026",
+   "about": "Penanggulangan Penyakit"
+  },
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PERMENKES-2023-2",
+   "target_bpk_id": 245563,
+   "label": "Permenkes No. 2 Tahun 2023",
+   "about": "Peraturan Pelaksanaan Peraturan Pemerintah Nomor 66 Tahun 2014 tentang Kesehatan Lingkungan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 18 Maret 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/102673/Permenkes%20Nomor%207%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:22:56Z"
+}

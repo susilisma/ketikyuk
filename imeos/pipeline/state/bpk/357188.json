@@ -1,0 +1,49 @@
+{
+ "id": "PERMENKUM-2026-14",
+ "source": "bpk",
+ "bpk_id": 357188,
+ "url": "https://peraturan.bpk.go.id/Details/357188/permenkum-no-14-tahun-2026-tata-cara-pengumuman-perseroan-terbatas-dalam-berita",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "14",
+ "number_raw": "14",
+ "year": 2026,
+ "title": "Peraturan Menteri Hukum Nomor 14 Tahun 2026 tentang Tata Cara Pengumuman Perseroan Terbatas dalam Berita Negara Republik Indonesia dan Tambahan Berita Negara Republik Indonesia dan Pengumuman Yayasan dalam Tambahan Berita Negara Republik Indonesia",
+ "about": "Tata Cara Pengumuman Perseroan Terbatas dalam Berita Negara Republik Indonesia dan Tambahan Berita Negara Republik Indonesia dan Pengumuman Yayasan dalam Tambahan Berita Negara Republik Indonesia",
+ "issuer": "Kementerian Hukum",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-08-13",
+ "date_promulgated": "2026-08-20",
+ "date_effective": "2026-08-20",
+ "gazette": "BN 2026 (583): 9 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 134456,
+   "label": "Permenkumham No. M.HH-02.AH.02.01 Tahun 2010",
+   "about": "Tata Cara Pengumuman  Yayasan Dalam Tambahan Berita Negara Republik Indonesia"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 134457,
+   "label": "Permenkumham No. M.HH-02.AH.01.01 Tahun 2010",
+   "about": "Tata Cara Pengumuman Perseroan Terbatas Dalam Berita Negara dan Tambahan Berita Negara Republik Indonesia"
+  }
+ ],
+ "abstract": "Untuk memberikan pelayanan pengumuman Perseroan Terbatas dan Yayasan yang efektif, terintegrasi, transparan, dan akuntabel, perlu dilakukan penataan kembali kewenangan dan tata cara pengumuman Perseroan Terbatas dan Yayasan.\nDasar hukum Peraturan ini adalah Pasal 17 ayat (3) UUD 1945; UU No. 16 Tahun 2001; UU No. 40 Tahun 2007; UU No. 39 Tahun 2008; Perpres No. 155 Tahun 2024; Permenkumham No. 2 Tahun 2016; Permenkum No. 1 Tahun 2024; dan Permenkum No. 49 Tahun 2025.\nPeraturan ini mengatur mengenai Tata Cara Pengumuman Perseroan Terbatas dalam Berita Negara Republik Indonesia dan Tambahan Berita Negara Republik Indonesia dan Pengumuman Yayasan dalam Tambahan Berita Negara Republik Indonesia. Pengumuman Perseroan dalam Berita Negara Republik Indonesia dan Tambahan Berita Negara Republik Indonesia dan Pengumuman Yayasan dalam Tambahan Berita Negara Republik Indonesia dilaksanakan oleh Menteri yang dimandatkan kepada Direktur Jenderal Peraturan Perundang-undangan.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 20 Agustus 2026.\nPada saat Peraturan Menteri ini mulai berlaku: a. Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor M.HH-02.AH.01.01 Tahun 2010 tentang Tata Cara Pengumuman Perseroan Terbatas dalam Berita Negara Republik Indonesia dan Tambahan Berita Negara Republik Indonesia (Berita Negara Republik Indonesia Tahun 2010 Nomor 336); dan b. Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor M.HH-02.AH.02.01 Tahun 2010 tentang Tata Cara Pengumuman Yayasan dalam Tambahan Berita Negara Republik Indonesia (Berita Negara Republik Indonesia Tahun 2010 Nomor 335), dicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "UU-2001-16",
+  "UU-2007-40",
+  "UU-2008-39",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/421214/Permenkum%20No%2014%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:17:47Z"
+}

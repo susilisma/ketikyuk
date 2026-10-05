@@ -1,0 +1,54 @@
+{
+ "id": "PERMENKES-2023-12",
+ "source": "bpk",
+ "bpk_id": 249360,
+ "url": "https://peraturan.bpk.go.id/Details/249360/permenkes-no-12-tahun-2023",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "12",
+ "number_raw": "12",
+ "year": 2023,
+ "title": "Peraturan Menteri Kesehatan Nomor 12 Tahun 2023 tentang Perubahan Atas Peraturan Menteri Kesehatan Nomor 71 Tahun 2020 tentang Organisasi dan Tata Kerja Politeknik Kesehatan di Lingkungan Kementrian Kesehatan",
+ "about": "Perubahan Atas Peraturan Menteri Kesehatan Nomor 71 Tahun 2020 tentang Organisasi dan Tata Kerja Politeknik Kesehatan di Lingkungan Kementrian Kesehatan",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "Alias",
+ "date_enacted": "2023-02-20",
+ "date_promulgated": "2023-03-03",
+ "date_effective": "2023-03-03",
+ "gazette": "BN.2023 (211)/7 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENKES-2026-13",
+   "target_bpk_id": 350839,
+   "label": "Permenkes No. 13 Tahun 2026",
+   "about": "Perubahan Kedua atas Peraturan Menteri Kesehatan Nomor 71 Tahun 2020 tentang Organisasi dan Tata Kerja Politeknik Kesehatan di Lingkungan Kementerian Kesehatan"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENKES-2020-71",
+   "target_bpk_id": 163016,
+   "label": "Permenkes No. 71 Tahun 2020",
+   "about": "Organisasi dan Tata Kerja Politeknik Kesehatan Di Lingkungan Kementerian Kesehatan"
+  }
+ ],
+ "abstract": "a. bahwa dengan telah ditetapkannya Peraturan Menteri Kesehatan Nomor 5 Tahun 2022 tentang Organisasi dan Tata Kerja Kementerian Kesehatan terdapat perubahan nomenklatur unit organisasi jabatan pimpinan tinggi madya di lingkungan Kementerian Kesehatan;\nb. bahwa untuk menindaklanjuti perubahan nomenklatur sebagaimana dimaksud dalam huruf a, perlu dilakukan perubahan terhadap beberapa materi muatan dalam Peraturan Menteri Kesehatan Nomor 71 Tahun 2020 tentang Organisasi dan Tata Kerja Politeknik Kesehatan di Lingkungan Kementerian Kesehatan;\nc. bahwa penataan organisasi dan tata kerja politeknik kesehatan di lingkungan Kementerian Kesehatan telah mendapatkan persetujuan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi melalui surat Nomor B/915/M.KT.01/2022 tanggal 29 Agustus 2022;\nd.bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Menteri Kesehatan tentang Perubahan atas Peraturan Menteri Kesehatan Nomor 71\nTahun 2020 tentang Organisasi dan Tata Kerja Politeknik Kesehatan di Lingkungan Kementerian Kesehatan;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 20 Tahun 2003, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 36 Tahun 2009, Peraturan Pemerintah Nomor 23 Tahun 2005, Peraturan Pemerintah Nomor 4 Tahun 2014,Peraturan Presiden Nomor 18 Tahun 2021, Peraturan Menteri Kesehatan Nomor 36 Tahun 2018 dan Peraturan Menteri Kesehatan Nomor 5 Tahun 2022\nPeraturan Menteri ini mengubah beberapa ketentuan dalam Peraturan Menteri Kesehatan Nomor 71 Tahun 2020 tentang Organisasi dan Tata Kerja Politeknik Kesehatan di Lingkungan Kementerian Kesehatan yaitu tentang ketentuan umum, penanggung jawab dna pembina Poltekkes Kemenkes, pelaksana akademis, program studi, unit, jabatan fungsional dan statuta",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 03 Maret 2023.\nPeraturan Menteri Kesehatan Nomor 71 Tahun 2020 tentang Organisasi dan Tata Kerja Politeknik Kesehatan di Lingkungan Kementerian Kesehatan",
+ "citations": [
+  "PERMENKES-2022-5",
+  "PERMENKES-2020-71",
+  "UU-2003-20",
+  "UU-2008-39",
+  "UU-2009-36",
+  "PP-2005-23",
+  "PP-2014-4",
+  "PERPRES-2021-18",
+  "PERMENKES-2018-36"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/305756/Permenkes%20no12%20tahun%202023.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:21:29Z"
+}

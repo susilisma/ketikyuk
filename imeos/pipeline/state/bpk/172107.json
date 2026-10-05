@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKES-2013-9",
+ "source": "bpk",
+ "bpk_id": 172107,
+ "url": "https://peraturan.bpk.go.id/Details/172107/permenkes-no-9-tahun-2013",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "9",
+ "number_raw": "9",
+ "year": 2013,
+ "title": "Peraturan Menteri Kesehatan Nomor 9 Tahun 2013 tentang Penugasan Khusus Tenaga Kesehatan",
+ "about": "Penugasan Khusus Tenaga Kesehatan",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KEPEGAWAIAN, APARATUR NEGARA - KESEHATAN",
+ "field": "Alias",
+ "date_enacted": "2013-01-14",
+ "date_promulgated": "2013-01-28",
+ "date_effective": "2013-01-01",
+ "gazette": "BN.2013/No.165, kemkes.go.id : 14 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2025-13",
+   "target_bpk_id": 335214,
+   "label": "Permenkes No. 13 Tahun 2025",
+   "about": "Pengelolaan Sumber Daya Manusia Kesehatan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENKES-2015-80",
+   "target_bpk_id": 172106,
+   "label": "Permenkes No. 80 Tahun 2015",
+   "about": "Perubahan atas Peraturan Menteri Kesehatan Nomor 9 Tahun 2013 tentang Penugasan Khusus Tenaga Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 01 Januari 2013.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/165276/Permenkes%20Nomor%209%20Tahun%202013.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:24:10Z"
+}

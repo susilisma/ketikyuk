@@ -1,0 +1,37 @@
+{
+ "id": "PERKABPOM-2017-22",
+ "source": "bpk",
+ "bpk_id": 220385,
+ "url": "https://peraturan.bpk.go.id/Details/220385/perka-bpom-no-22-tahun-2017",
+ "form": "PERKABPOM",
+ "form_long": "Peraturan Kepala Badan Pengawas Obat dan Makanan",
+ "number": "22",
+ "number_raw": "22",
+ "year": 2017,
+ "title": "Peraturan Kepala Badan Pengawas Obat dan Makanan Nomor 22 Tahun 2017 tentang Penarikan Pangan dari Peredaran",
+ "about": "Penarikan Pangan dari Peredaran",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "PANGAN, PERTANIAN DAN PETERNAKAN",
+ "field": "Alias",
+ "date_enacted": "2017-11-23",
+ "date_promulgated": "2017-11-28",
+ "date_effective": "2017-11-28",
+ "gazette": "BN.2017/No.1711, jdih.pom.go.id: 9 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 326376,
+   "label": "Peraturan BPOM No. 22 Tahun 2025",
+   "about": "Penarikan dan Pemusnahan Pangan Olahan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Kepala Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 28 November 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/214812/Peraturan%20Kepala%20BPOM%20Nomor%2022%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:28:43Z"
+}

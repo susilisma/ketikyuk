@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKES-2014-17",
+ "source": "bpk",
+ "bpk_id": 117345,
+ "url": "https://peraturan.bpk.go.id/Details/117345/permenkes-no-17-tahun-2014",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "17",
+ "number_raw": "17",
+ "year": 2014,
+ "title": "Peraturan Menteri Kesehatan Nomor 17 Tahun 2014 tentang Keanggotaan, Pengangkatan dan Pemberhentian Anggota Badan Pengawas Rumah Sakit Indonesia",
+ "about": "Keanggotaan, Pengangkatan dan Pemberhentian Anggota Badan Pengawas Rumah Sakit Indonesia",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA - KESEHATAN - SISTEM PENGENDALIAN INTERN",
+ "field": "Alias",
+ "date_enacted": "2014-04-11",
+ "date_promulgated": "2014-04-30",
+ "date_effective": "2014-04-30",
+ "gazette": "BN.2014 /NO. 585, kemkes.go.id : 6 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-6",
+   "target_bpk_id": 350851,
+   "label": "Permenkes No. 6 Tahun 2026",
+   "about": "Rumah Sakit"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 30 April 2014.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/108139/Permenkes%20Nomor%2017%20Tahun%20%202014.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:22:03Z"
+}

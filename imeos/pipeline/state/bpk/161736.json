@@ -1,0 +1,51 @@
+{
+ "id": "PERMENKOMINFO-2014-21",
+ "source": "bpk",
+ "bpk_id": 161736,
+ "url": "https://peraturan.bpk.go.id/Details/161736/permenkominfo-no-21-tahun-2014",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Informatika",
+ "number": "21",
+ "number_raw": "21",
+ "year": 2014,
+ "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 21 Tahun 2014 tentang Penggunaan Spektrum Frekuensi Radio untuk Dinas Satelit dan Orbit Satelit",
+ "about": "Penggunaan Spektrum Frekuensi Radio untuk Dinas Satelit dan Orbit Satelit",
+ "issuer": "Kementerian Komunikasi dan Informatika",
+ "subject": "TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET",
+ "field": "Alias",
+ "date_enacted": "2014-07-16",
+ "date_promulgated": "2014-07-21",
+ "date_effective": "2014-07-21",
+ "gazette": "BN.2014/No.1013, peraturan.go.id : 32 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 316815,
+   "label": "Permenkomdigi No. 3 Tahun 2025",
+   "about": "Penggunaan Spektrum Frekuensi Radio untuk Dinas Satelit dan Orbit Satelit"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 160516,
+   "label": "Permenkominfo No. 37/P/M.KOMINFO/12/2006 Tahun 2006",
+   "about": "Perubahan atas Peraturan Menteri Komunikasi dan Informatika Nomor: 13/P/M.KOMINFO/8/2005 tentang Penyelenggaraan Telekomunikasi yang Menggunakan Satelit"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 160698,
+   "label": "Permenkominfo No. 13/P/M.KOMINFO/8/2005 Tahun 2005",
+   "about": "Penyelenggaraan Telekomunikasi yang Menggunakan Satelit"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Komunikasi dan Informatika ini mulai berlaku pada tanggal 21 Juli 2014.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/154401/Kemen%20Kominfo%20Nomor%2021%20Tahun%202014.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:16:58Z"
+}

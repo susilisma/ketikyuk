@@ -1,0 +1,37 @@
+{
+ "id": "PERPRES-2016-87",
+ "source": "bpk",
+ "bpk_id": 40991,
+ "url": "https://peraturan.bpk.go.id/Details/40991/perpres-no-87-tahun-2016",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "87",
+ "number_raw": "87",
+ "year": 2016,
+ "title": "Peraturan Presiden (Perpres) Nomor 87 Tahun 2016 tentang Satuan Tugas Sapu Bersih Pungutan Liar",
+ "about": "Satuan Tugas Sapu Bersih Pungutan Liar",
+ "issuer": "Pemerintah Pusat",
+ "subject": "TINDAK PIDANA KORUPSI, PENCEGAHAN KORUPSI - DASAR PEMBENTUKAN KEMENTERIAN / LEMBAGA / BADAN / ORGANISASI",
+ "field": "Alias",
+ "date_enacted": "2016-10-20",
+ "date_promulgated": "2016-10-21",
+ "date_effective": "2016-10-21",
+ "gazette": "LN No. 202/2016",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERPRES-2025-49",
+   "target_bpk_id": 320204,
+   "label": "Perpres No. 49 Tahun 2025",
+   "about": "Pencabutan Peraturan Presiden Nomor 87 Tahun 2016 tentang Satuan Tugas Sapu Bersih Pungutan Liar"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Presiden (PERPRES) ini mulai berlaku pada tanggal 21 Oktober 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/261840/Perpres%20Nomor%2087%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:02:47Z"
+}

@@ -12,7 +12,7 @@
  "about": "Perlindungan Saksi dan Korban",
  "issuer": "Pemerintah Pusat",
  "subject": "HAK ASASI MANUSIA - HUKUM PIDANA, PERDATA, DAN DAGANG",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2006-08-11",
  "date_promulgated": "2006-08-11",
  "date_effective": "2006-08-11",
@@ -49,5 +49,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/29813/UU%20Nomor%2013%20Tahun%202006.pdf"
  ],
- "fetched_at": "2026-09-14T05:23:17Z"
+ "fetched_at": "2026-10-05T04:55:11Z"
 }

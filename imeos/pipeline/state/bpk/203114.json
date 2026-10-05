@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKOMINFO-2021-3",
+ "source": "bpk",
+ "bpk_id": 203114,
+ "url": "https://peraturan.bpk.go.id/Details/203114/permenkominfo-no-3-tahun-2021",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Informatika",
+ "number": "3",
+ "number_raw": "3",
+ "year": 2021,
+ "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 3 Tahun 2021 tentang Standar Kegiatan Usaha dan Standar Produk pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Pos, Telekomunikasi, dan Sistem dan Transaksi Elektronik",
+ "about": "Standar Kegiatan Usaha dan Standar Produk pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Pos, Telekomunikasi, dan Sistem dan Transaksi Elektronik",
+ "issuer": "Kementerian Komunikasi dan Informatika",
+ "subject": "TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET - CIPTA KERJA",
+ "field": "Alias",
+ "date_enacted": "2021-04-01",
+ "date_promulgated": "2021-04-01",
+ "date_effective": "2021-04-01",
+ "gazette": "BN.2021/No.265, peraturan.go.id: 4 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 334803,
+   "label": "Permenkomdigi No. 15 Tahun 2025",
+   "about": "Standar Kegiatan Usaha dan Standar Produk/Jasa pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Pos, Telekomunikasi, dan Penyiaran serta Sektor Penyelenggaraan Sistem dan Transaksi Elektronik"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Komunikasi dan Informatika ini mulai berlaku pada tanggal 01 April 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/197083/Nomor%203%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:16:27Z"
+}

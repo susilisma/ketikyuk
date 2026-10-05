@@ -1,0 +1,50 @@
+{
+ "id": "PERMENKES-2023-25",
+ "source": "bpk",
+ "bpk_id": 275542,
+ "url": "https://peraturan.bpk.go.id/Details/275542/permenkes-no-25-tahun-2023",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "25",
+ "number_raw": "25",
+ "year": 2023,
+ "title": "Peraturan Menteri Kesehatan Nomor 25 Tahun 2023 tentang Organisasi dan Tata Kerja Unit Pelaksana Teknis Bidang Laboratorium Kesehatan Masyarakat",
+ "about": "Organisasi dan Tata Kerja Unit Pelaksana Teknis Bidang Laboratorium Kesehatan Masyarakat",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2023-08-16",
+ "date_promulgated": "2023-08-18",
+ "date_effective": "2023-08-18",
+ "gazette": "BN 2023 (634): 11 hlm.; jdih.kemkes.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENKES-2026-7",
+   "target_bpk_id": 350850,
+   "label": "Permenkes No. 7 Tahun 2026",
+   "about": "Perubahan Kedua atas Peraturan Menteri Kesehatan Nomor 25 Tahun 2023 tentang Organisasi dan Tata Kerja Unit Pelaksana Teknis Bidang Laboratorium Kesehatan Masyarakat"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENKES-2025-8",
+   "target_bpk_id": 325853,
+   "label": "Permenkes No. 8 Tahun 2025",
+   "about": "Perubahan atas Peraturan Menteri Kesehatan Nomor 25 Tahun 2023 tentang Organisasi dan tata Kerja Unit Pelaksana Teknis Bidang Laboratorium Kesehatan Masyarakat"
+  }
+ ],
+ "abstract": "Untuk pembentukan unit pelaksana teknis yang melakukan pengelolaan laboratorium kesehatan masyarakat perlu dilakukan perubahan terhadap beberapa unit pelaksana teknis di lingkungan Kementerian Kesehatan.\nDasar hukum peraturan ini adalah UUD RI Tahun 1945 Pasal 17 ayat (3); UU Nomor 17 Tahun 2023; Perpres Nomor 18 Tahun 2021; Permenkes Nomor 5 Tahun 2022; Peraturan Menteri Pendayagunaan Aparatur Sipil Negara dan Reformasi Birokrasi Nomor 2 Tahun 2023; dan Permenkes Nomor 24 Tahun 2023.\nUPT Bidang Labkesmas secara administratif dikoordinasikan dan dibina oleh Sekretaris Direktorat Jenderal dan secara teknis fungsional dibina oleh direktur yang mempunyai tugas dan fungsi di bidang tata kelola kesehatan masyarakat.",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 18 Agustus 2023.\nPada saat Peraturan Menteri ini mulai berlaku: Peraturan Menteri Kesehatan Nomor 51 Tahun 2020 tentang Organisasi dan Tata Kerja Unit Pelaksana Teknis di Lingkungan Badan Penelitian dan Pengembangan Kesehatan (Berita Negara Republik Indonesia Tahun 2020 Nomor 1519) selain mengatur mengenai Balai Besar Penelitian dan Pengembangan Vektor dan Reservoir Penyakit di Salatiga; Peraturan Menteri Kesehatan Nomor 52 Tahun 2020 tentang Organisasi dan Tata Kerja Balai Besar Laboratorium Kesehatan di Lingkungan Kementerian Kesehatan (Berita Negara Republik Indonesia Tahun 2020\nNomor 1520); dan Peraturan Menteri Kesehatan Nomor 78 Tahun 2020 tentang Organisasi dan Tata Kerja Unit Pelaksana Teknis Bidang Teknik Kesehatan Lingkungan dan Pengendalian Penyakit (Berita Negara Republik Indonesia Tahun 2020\nNomor 1545), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 13 hlm. (batang tubuh hlm 1 sd 11; lampiran 12 sd 13)",
+ "citations": [
+  "UU-2023-17",
+  "PERPRES-2021-18",
+  "PERMENKES-2022-5",
+  "PERATURANMENTERI-2023-2",
+  "PERMENKES-2023-24"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/334039/Permenkes%20Nomor%2025%20Tahun%202023.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:21:47Z"
+}

@@ -1,0 +1,44 @@
+{
+ "id": "PERMENAKER-2023-2",
+ "source": "bpk",
+ "bpk_id": 245529,
+ "url": "https://peraturan.bpk.go.id/Details/245529/permenaker-no-2-tahun-2023",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "2",
+ "number_raw": "2",
+ "year": 2023,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 2 Tahun 2023 tentang Tata Cara Pengenaan Sanksi Administratif dalam Pelaksanaan Penempatan dan Pelindungan Pekerja Migran Indonesia",
+ "about": "Tata Cara Pengenaan Sanksi Administratif dalam Pelaksanaan Penempatan dan Pelindungan Pekerja Migran Indonesia",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "KETENAGAKERJAAN - STANDAR / PEDOMAN",
+ "field": "Alias",
+ "date_enacted": "2023-01-06",
+ "date_promulgated": "2023-01-10",
+ "date_effective": "2023-01-10",
+ "gazette": "BN.2023/No.41, jdih.kemnaker.go.id: 14 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENAKER-2026-2",
+   "target_bpk_id": 344084,
+   "label": "Permenaker No. 2 Tahun 2026",
+   "about": "Pencabutan Peraturan Menteri Ketenagakerjaan Bidang Penempatan dan Pelindungan Pekerja Migran Indonesia"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENAKER-2020-7",
+   "target_bpk_id": 145069,
+   "label": "Permenaker No. 7 Tahun 2020",
+   "about": "Tata Cara Pengenaan Sanksi Administratif dalam Pelaksanaan Penempatan dan Pelindungan Pekerja Migran Indonesia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 10 Januari 2023.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/301549/Permenaker%202%20Tahun%202023.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:14:39Z"
+}

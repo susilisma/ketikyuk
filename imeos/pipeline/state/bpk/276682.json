@@ -1,0 +1,50 @@
+{
+ "id": "PERMENKUMHAM-2024-3",
+ "source": "bpk",
+ "bpk_id": 276682,
+ "url": "https://peraturan.bpk.go.id/Details/276682/permenkumham-no-3-tahun-2024",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "3",
+ "number_raw": "3",
+ "year": 2024,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 3 Tahun 2024 tentang Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 47 Tahun 2016 tentang Tata Cara Penyampaian Permohonan Kewarganegaraan Republik Indonesia Secara Elektronik",
+ "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 47 Tahun 2016 tentang Tata Cara Penyampaian Permohonan Kewarganegaraan Republik Indonesia Secara Elektronik",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "KEWARGANEGARAAN DAN IMIGRASI - TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET - SISTEM PEMERINTAHAN BERBASIS ELEKTRONIK (SPBE)",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-01-09",
+ "date_promulgated": "2024-01-15",
+ "date_effective": "2024-01-15",
+ "gazette": "BN 2024 (28) : 18 hlm.; peraturan.go.id",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 357191,
+   "label": "Permenkum No. 15 Tahun 2026",
+   "about": "Layanan Bidang Kewarganegaraan"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 133270,
+   "label": "Permenkumham No. 47 Tahun 2016",
+   "about": "Tata Cara Penyampaian Permohonan Kewarganegaraan Republik Indonesia Secara Elektronik"
+  }
+ ],
+ "abstract": "Untuk menciptakan kepastian hukum dan meningkatkan pelayanan di bidang kewarganegaraan bagi Warga Negara Indonesia yang efektif, efisien, dan sesuai dengan perkembangan teknologi saat ini, perlu mengubah Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 47 Tahun 2016 tentang Tata Cara Penyampaian Permohonan Kewarganegaraan Republik Indonesia Secara Elektronik.\nDasar hukum Permenkumham ini adalah Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 12 Tahun 2006; UU Nomor 39 Tahun 2008; PP Nomor 2 Tahun 2007; Perpres Nomor 18 Tahun 2023; Permenkumham Nomor 47 Tahun 2016; dan Permenkumham Nomor 28 Tahun 2023.\nPermenkumham ini mengubah beberapa ketentuan dalam Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 47 Tahun 2016 tentang Tata Cara Penyampaian Permohonan Kewarganegaraan Republik Indonesia Secara Elektronik (Berita Negara Republik Indonesia Tahun 2016 Nomor 1938). Ruang lingkup permohonan Kewarganegaraan terdiri atas: a) Pernyataan Memilih Kewarganegaraan Republik Indonesia bagi anak berkewarganegaraan ganda; b) pernyataan tetap sebagai warga negara Indonesia; c) laporan kehilangan Kewarganegaraan Republik Indonesia dengan sendirinya; d) kehilangan Kewarganegaraan Republik Indonesia atas permohonan sendiri kepada Presiden; e) surat keterangan kehilangan Kewarganegaraan Republik Indonesia; f) memperoleh kembali Kewarganegaraan Republik Indonesia; dan g) memperoleh Kewarganegaraan Republik Indonesia bagi anak angkat.",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 15 Januari 2024.\nPermenkumham ini mengubah Permenkumham Nomor 3 Tahun 2024.\nLampiran file: 18 hlm.",
+ "citations": [
+  "PERMENKUMHAM-2016-47",
+  "UU-2006-12",
+  "UU-2008-39",
+  "PP-2007-2",
+  "PERPRES-2023-18"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/335207/Permenkumham%20Nomor%203%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:17:53Z"
+}

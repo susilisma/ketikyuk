@@ -1,0 +1,46 @@
+{
+ "id": "PERMENKES-2025-15",
+ "source": "bpk",
+ "bpk_id": 343789,
+ "url": "https://peraturan.bpk.go.id/Details/343789/permenkes-no-15-tahun-2025",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "15",
+ "number_raw": "15",
+ "year": 2025,
+ "title": "Peraturan Menteri Kesehatan Nomor 15 Tahun 2025 tentang Perubahan Penggolongan Narkotika",
+ "about": "Perubahan Penggolongan Narkotika",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "NARKOTIKA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-11-21",
+ "date_promulgated": "2025-11-28",
+ "date_effective": "2025-11-28",
+ "gazette": "BN 2025 (989); 19 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2025-7",
+   "target_bpk_id": 322670,
+   "label": "Permenkes No. 7 Tahun 2025",
+   "about": "Perubahan Penggolongan Narkotika"
+  }
+ ],
+ "abstract": "bahwa terdapat zat psikoaktif baru yang berpotensi disalahgunakan dan membahayakan kesehatan masyarakat yang belum termasuk dalam golongan narkotika sebagaimana diatur dalam Lampiran I Undang-Undang Nomor 35 Tahun 2009 tentang Narkotika dan Peraturan Menteri Kesehatan Nomor 7 Tahun 2025 tentang Perubahan Penggolongan Narkotika, sehingga perlu diganti\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD NRI Tahun 1945;\nUU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024;\nUU Nomor 35 Tahun 2009 sebagaimana telah diubah dengan UU Nomor 6 Tahun 2023;\nPP Nomor 40 Tahun 2013;\nPerpres Nomor 161 Tahun 2024;\nPermenkes Nomor 21 Tahun 2024.\nPeraturan ini mengatur mengenai perubahan penggolongan Narkotika Golongan I, Narkotika Golongan II, dan Narkotika Golongan III yang dilakukan berdasarkan adanya zat psikoaktif baru yang berpotensi disalahgunakan dan/atau mengakibatkan ketergantungan, serta belum termasuk dalam golongan Narkotika",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 28 November 2025.",
+ "citations": [
+  "UU-2009-35",
+  "PERMENKES-2025-7",
+  "UU-2008-39",
+  "UU-2024-61",
+  "UU-2023-6",
+  "PP-2013-40",
+  "PERPRES-2024-161",
+  "PERMENKES-2024-21"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/407027/permenkes-no-15-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:23:30Z"
+}

@@ -1,0 +1,40 @@
+{
+ "id": "PERATURANBI-2026-2",
+ "source": "bpk",
+ "bpk_id": 347280,
+ "url": "https://peraturan.bpk.go.id/Details/347280/peraturan-bi-no-2-tahun-2026",
+ "form": "PERATURANBI",
+ "form_long": "Peraturan Bank Indonesia",
+ "number": "2",
+ "number_raw": "2",
+ "year": 2026,
+ "title": "Peraturan Bank Indonesia Nomor 2 Tahun 2026 tentang Perubahan Kelima atas Peraturan Bank Indonesia Nomor 20/4/PBI/2018 tentang Rasio Intermediasi Makroprudensial dan Penyangga Likuiditas Makroprudensial Bagi Bank Umum Konvensional, Bank Umum Syariah dan Unit Syariah",
+ "about": "Perubahan Kelima atas Peraturan Bank Indonesia Nomor 20/4/PBI/2018 tentang Rasio Intermediasi Makroprudensial dan Penyangga Likuiditas Makroprudensial Bagi Bank Umum Konvensional, Bank Umum Syariah dan Unit Syariah",
+ "issuer": "Bank Indonesia",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-01-30",
+ "date_promulgated": "2026-01-30",
+ "date_effective": "2026-02-02",
+ "gazette": "BN.2026 (2/10 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 135872,
+   "label": "Peraturan BI No. 20/4/PBI/2018 Tahun 2018",
+   "about": "Rasio Intermediasi Makroprudensial Dan Penyangga Likuiditas Makroprudensial Bagi Bank Umum Konvensional, Bank Umum Syariah, Dan Unit Usaha Syariah"
+  }
+ ],
+ "abstract": "a. bahwa untuk mendorong fungsi intermediasi perbankan\nyang seimbang dan berkualitas serta untuk mendukung\nketahanan likuiditas perbankan, Bank Indonesia\nmelakukan evaluasi secara berkala terhadap implementasi\nkebijakan rasio intermediasi makroprudensial dan\npenyangga likuiditas makroprudensial bagi bank umum\nkonvensional, bank umum syariah, dan unit usaha\nsyariah guna memastikan efektivitas implementasi\nkebijakan;\nb. bahwa berdasarkan hasil evaluasi sebagaimana dimaksud\ndalam huruf a, Bank Indonesia perlu melakukan\npenyesuaian pengaturan terkait acuan yang digunakan\nsebagai dasar perhitungan sanksi kewajiban membayar\nyang terkait dengan pemenuhan giro rasio intermediasi\nmakroprudensial syariah dan penyangga likuiditas\nmakroprudensial syariah;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a dan huruf b, perlu dilakukan penyesuaian\nterhadap beberapa ketentuan dalam Peraturan Bank\nIndonesia Nomor 20/4/PBI/2018 tentang Rasio\nIntermediasi Makroprudensial dan Penyangga Likuiditas\nMakroprudensial bagi Bank Umum Konvensional, Bank\nUmum Syariah, dan Unit Usaha Syariah sebagaimana\ntelah beberapa kali diubah terakhir dengan Peraturan\nBank Indonesia Nomor 24/16/PBI/2022 tentang\nPerubahan Keempat atas Peraturan Bank Indonesia\nNomor 20/4/PBI/2018 tentang Rasio Intermediasi\nMakroprudensial dan Penyangga Likuiditas\nMakroprudensial bagi Bank Umum Konvensional, Bank\nUmum Syariah, dan Unit Usaha Syariah, sehingga perlu\ndiubah;\nd. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a, huruf b, dan huruf c, perlu menetapkan\nPeraturan Bank Indonesia tentang Perubahan Kelima atas\nPeraturan Bank Indonesia Nomor 20/4/PBI/2018 tentang\nRasio Intermediasi Makroprudensial dan Penyangga\nLikuiditas Makroprudensial bagi Bank Umum\nKonvensional, Bank Umum Syariah, dan Unit Usaha\nSyariah;\nUndang-Undang Nomor 23 Tahun 1999 dan Peraturan Bank Indonesia Nomor 20/4/PBI/2018\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Bank Indonesia Nomor\n20/4/PBI/2018 tentang Rasio Intermediasi Makroprudensial\ndan Penyangga Likuiditas Makroprudensial bagi Bank Umum\nKonvensional, Bank Umum Syariah, dan Unit Usaha Syariah yaitu tentang ketentuan umum, Rasio Intermediasi Makroprudensial Syariah, sanksi dan pelaporan",
+ "note": "Peraturan Bank Indonesia ini mulai berlaku pada tanggal 02 Februari 2026.\nPeraturan Bank Indonesia Nomor\n20/4/PBI/2018 tentang Rasio Intermediasi Makroprudensial\ndan Penyangga Likuiditas Makroprudensial bagi Bank Umum\nKonvensional, Bank Umum Syariah, dan Unit Usaha Syariah",
+ "citations": [
+  "PBI-2018-20",
+  "UU-1999-23"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/410753/2%20tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:30:50Z"
+}

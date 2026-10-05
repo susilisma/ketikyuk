@@ -12,7 +12,7 @@
  "about": "Barang Yang Dilarang Untuk Diekspor",
  "issuer": "Kementerian Perdagangan",
  "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2023-07-10",
  "date_promulgated": "2023-07-10",
  "date_effective": "2023-07-17",
@@ -58,5 +58,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/317135/no-22-tahun-2023.pdf"
  ],
- "fetched_at": "2026-09-14T06:37:51Z"
+ "fetched_at": "2026-10-05T05:11:59Z"
 }

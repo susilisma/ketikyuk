@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKOMINFO-2022-12",
+ "source": "bpk",
+ "bpk_id": 285074,
+ "url": "https://peraturan.bpk.go.id/Details/285074/permenkominfo-no-12-tahun-2022",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Informatika",
+ "number": "12",
+ "number_raw": "12",
+ "year": 2022,
+ "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 12 Tahun 2022 tentang Tabel Alokasi Spektrum Frekuensi Radio Indonesia",
+ "about": "Tabel Alokasi Spektrum Frekuensi Radio Indonesia",
+ "issuer": "Kementerian Komunikasi dan Informatika",
+ "subject": "TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2022-10-11",
+ "date_promulgated": "2022-10-27",
+ "date_effective": "2022-10-27",
+ "gazette": "BN 2022 (1092); 167 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 346039,
+   "label": "Permenkomdigi No. 8 Tahun 2026",
+   "about": "Tabel Alokasi Spektrum Frekuensi Radio Indonesia"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 149730,
+   "label": "Permenkominfo No. 13 Tahun 2018",
+   "about": "Tabel Alokasi Spektrum Frekuensi Radio Indonesia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Komunikasi dan Informatika ini mulai berlaku pada tanggal 27 Oktober 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/344163/PermenKominfo_Nomor_12_Tahun_2022.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:15:50Z"
+}

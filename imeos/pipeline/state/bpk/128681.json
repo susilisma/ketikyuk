@@ -12,7 +12,7 @@
  "about": "Penetapan Harga Patokan Ekspor Atas Produk Pertambangan Yang Dikenakan Bea Keluar",
  "issuer": "Kementerian Perdagangan",
  "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN - PERTAMBANGAN MIGAS, MINERAL DAN ENERGI",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2017-05-29",
  "date_promulgated": null,
  "date_effective": "2017-06-01",
@@ -47,5 +47,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/263303/Permendag%20No.%2036%20Tahun%202017.pdf"
  ],
- "fetched_at": "2026-09-14T06:37:14Z"
+ "fetched_at": "2026-10-05T05:11:32Z"
 }

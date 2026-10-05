@@ -1,0 +1,37 @@
+{
+ "id": "PMK-2018-163",
+ "source": "bpk",
+ "bpk_id": 113478,
+ "url": "https://peraturan.bpk.go.id/Details/113478/pmk-no-163pmk052018",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "163",
+ "number_raw": "163/PMK.05/2018",
+ "year": 2018,
+ "title": "Peraturan Menteri Keuangan Nomor 163/PMK.05/2018 Tahun 2018 tentang Tarif Layanan Badan Layanan Umum Unit Penyelenggara Bandar Udara Mutiara Sis Al-Jufri Palu Pada Kementerian Perhubungan",
+ "about": "Tarif Layanan Badan Layanan Umum Unit Penyelenggara Bandar Udara Mutiara Sis Al-Jufri Palu Pada Kementerian Perhubungan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BADAN LAYANAN UMUM",
+ "field": "Alias",
+ "date_enacted": "2018-12-18",
+ "date_promulgated": "2018-12-18",
+ "date_effective": "2019-01-17",
+ "gazette": "BN.2018/NO.1672, JDIH.KEMENKEU.GO.ID : 8 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-31",
+   "target_bpk_id": 319315,
+   "label": "PMK No. 31 Tahun 2025",
+   "about": "Tarif Layanan Badan Layanan Umum Unit Penyelenggara Bandar Udara Pada Kementerian Perhubungan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 17 Januari 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/104434/PMK%20Nomor%20163%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:08:28Z"
+}

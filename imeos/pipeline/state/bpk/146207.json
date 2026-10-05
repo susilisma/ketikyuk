@@ -12,7 +12,7 @@
  "about": "Keselamatan dan Kesehatan Kerja Pesawat Tenaga dan Produksi",
  "issuer": "Kementerian Ketenagakerjaan",
  "subject": "KESEHATAN - KETENAGAKERJAAN - TRANSPORTASI DARAT / LAUT / UDARA",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2016-12-27",
  "date_promulgated": "2016-12-27",
  "date_effective": "2016-12-27",
@@ -33,5 +33,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/138027/Kemnaker%20No.%2038%20Tahun%202016.pdf"
  ],
- "fetched_at": "2026-09-14T06:40:38Z"
+ "fetched_at": "2026-10-05T05:14:14Z"
 }

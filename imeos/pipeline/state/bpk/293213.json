@@ -1,0 +1,50 @@
+{
+ "id": "PMK-2024-44",
+ "source": "bpk",
+ "bpk_id": 293213,
+ "url": "https://peraturan.bpk.go.id/Details/293213/pmk-no-44-tahun-2024",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "44",
+ "number_raw": "44",
+ "year": 2024,
+ "title": "Peraturan Menteri Keuangan Nomor 44 Tahun 2024 tentang Strategi Dan Pelaksanaan Pengelolaan Kelebihan Dan Kekurangan Kas Pemerintah Pusat",
+ "about": "Strategi Dan Pelaksanaan Pengelolaan Kelebihan Dan Kekurangan Kas Pemerintah Pusat",
+ "issuer": "Kementerian Keuangan",
+ "subject": "KEBIJAKAN AKUNTANSI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-06-15",
+ "date_promulgated": "2024-06-15",
+ "date_effective": "2024-07-05",
+ "gazette": "BN.2024 (372)/17 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2026-67",
+   "target_bpk_id": 357351,
+   "label": "PMK No. 67 Tahun 2026",
+   "about": "Strategi dan Pelaksanaan Pengelolaan Kelebihan dan Kekurangan Kas Pemerintah Pusat"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2014-3",
+   "target_bpk_id": 121647,
+   "label": "PMK No. 3/PMK.05/2014",
+   "about": "Penempatan Uang Negara Pada Bank Umum"
+  }
+ ],
+ "abstract": "a. bahwa untuk melaksanakan pengelolaan kelebihan dan kekurangan kas pemerintah pusat yang lebih efektif, optimal, dan adaptif terhadap perkembangan praktik pengelolaan kas, Menteri Keuangan sesuai dengan kewenangannya selaku bendahara umum negara menetapkan strategi dan pelaksanaan pengelolaan kelebihan dan kekurangan kas;\nb. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a, serta berdasarkan ketentuan Pasal 34 dan untuk melaksanakan Pasal 36 Peraturan Pemerintah Nomor 39 Tahun 2007 tentang Pengelolaan Uang Negara/Daerah, perlu menetapkan Peraturan Menteri Keuangan tentang Strategi dan Pelaksanaan Pengelolaan Kelebihan dan Kekurangan Kas Pemerintah Pusat;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 1 Tahun 2004, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 39 Tahun 2007,\nPeraturan Presiden Nomor 57 Tahun 2020 dan Peraturan Menteri Keuangan Nomor 118/PMK.01/2021\nPeraturan ini mengatur tentang ketentuan umum, pengelolaan kelebihan dan kekurangan kas, strategi pengelolaan kelebihan dan kekurangan kas, instrumen pengelolaan kelebihan dan kekurangan kas, selisih lebih atau selisih kurang pengelolaan kelebihan dan kekurangan kas, kemitraan, pelaksanaan, penetapan dan penyelesaian transaksi kepada mitra kerja lembaga jasa keuangan, manajemen risiko dan pengendalian internal, akuntansi dan pelaporan keuangan, ketentuan peralihan dan ketentuan penutup.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 05 Juli 2024.\nPeraturan Menteri Keuangan Nomor 03/PMK.05/2010 tentang Pengelolaan Kelebihan/Kekurangan Kas Pemerintah sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 115/PMK.05/2016 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 03/PMK.05/2010 tentang Pengelolaan Kelebihan/ Kekurangan Kas Pemerintah dan Peraturan Menteri Keuangan Nomor 3/PMK.05/2014 tentang Penempatan Uang Negara pada Bank Umum sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 53/PMK.05/2017 tentang Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 3/PMK.05/2014 tentang Penempatan Uang Negara pada Bank Umum dicabut dan dinyatakan tidak berlaku",
+ "citations": [
+  "PP-2007-39",
+  "UU-2004-1",
+  "UU-2008-39",
+  "PERPRES-2020-57",
+  "PMK-2021-118"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/352527/2024pmkeuangan044.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:05:30Z"
+}

@@ -12,7 +12,7 @@
  "about": "Perusahaan Perantara Perdagangan Properti",
  "issuer": "Kementerian Perdagangan",
  "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2017-07-31",
  "date_promulgated": "2017-08-03",
  "date_effective": "2017-08-03",
@@ -40,5 +40,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/119631/Permendag%20No.%2051%20Tahun%202017.PDF"
  ],
- "fetched_at": "2026-09-14T06:36:58Z"
+ "fetched_at": "2026-10-05T05:11:16Z"
 }

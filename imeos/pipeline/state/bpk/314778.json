@@ -17,8 +17,15 @@
  "date_promulgated": "2025-02-26",
  "date_effective": "2025-02-26",
  "gazette": "BN 2025 (130) : 18 hlm.; peraturan.go.id",
- "status_bpk": "Berlaku",
+ "status_bpk": "Tidak Berlaku",
  "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 357111,
+   "label": "Permenkum No. 3 Tahun 2026",
+   "about": "Organisasi dan Tata Kerja Politeknik Pengayoman Indonesia"
+  },
   {
    "type": "Mencabut",
    "target": null,
@@ -39,5 +46,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/375774/Permenkum%20Nomor%209%20Tahun%202025.pdf"
  ],
- "fetched_at": "2026-09-14T06:42:36Z"
+ "fetched_at": "2026-10-05T05:17:16Z"
 }

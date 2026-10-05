@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKUMHAM-2021-36",
+ "source": "bpk",
+ "bpk_id": 203700,
+ "url": "https://peraturan.bpk.go.id/Details/203700/permenkumham-no-36-tahun-2021",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "36",
+ "number_raw": "36",
+ "year": 2021,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 36 Tahun 2021 tentang Penjamin Keimigrasian",
+ "about": "Penjamin Keimigrasian",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "KEWARGANEGARAAN DAN IMIGRASI - CIPTA KERJA",
+ "field": "Alias",
+ "date_enacted": "2021-09-17",
+ "date_promulgated": "2021-09-20",
+ "date_effective": "2022-03-20",
+ "gazette": "BN.2021/No.1064, peraturan.go.id: 24 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 316860,
+   "label": "Permen Imipas No. 5 Tahun 2025",
+   "about": "Pencabutan Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 36 Tahun 2021 tentang Penjamin Keimigrasian"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 20 Maret 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/197676/36%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:21:07Z"
+}

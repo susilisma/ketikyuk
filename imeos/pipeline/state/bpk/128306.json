@@ -1,0 +1,37 @@
+{
+ "id": "PMK-2019-190",
+ "source": "bpk",
+ "bpk_id": 128306,
+ "url": "https://peraturan.bpk.go.id/Details/128306/pmk-no-190pmk052019",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "190",
+ "number_raw": "190/PMK.05/2019",
+ "year": 2019,
+ "title": "Peraturan Menteri Keuangan Nomor 190/PMK.05/2019 Tahun 2019 tentang Tarif Layanan Umum Politeknik Penerbangan Jayapura Pada Kementerian Perhubungan",
+ "about": "Tarif Layanan Umum Politeknik Penerbangan Jayapura Pada Kementerian Perhubungan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERIZINAN, PELAYANAN PUBLIK",
+ "field": "Alias",
+ "date_enacted": "2019-12-17",
+ "date_promulgated": "2019-12-17",
+ "date_effective": "2020-01-02",
+ "gazette": "BN. 1630 Tahun 2019, JDIH.KEMENKEU.GO.ID : 16 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-22",
+   "target_bpk_id": 316120,
+   "label": "PMK No. 22 Tahun 2025",
+   "about": "Tarif Layanan Badan Layanan Umum Bidang Pendidikan dan Pelatihan Sumber Daya Manusia Perhubungan Pada Kementerian Perhubungan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 02 Januari 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/119291/190~PMK.05~2019Per.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:09:03Z"
+}

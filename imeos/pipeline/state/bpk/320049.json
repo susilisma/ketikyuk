@@ -1,0 +1,41 @@
+{
+ "id": "PP-2025-19",
+ "source": "bpk",
+ "bpk_id": 320049,
+ "url": "https://peraturan.bpk.go.id/Details/320049/pp-no-19-tahun-2025",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "19",
+ "number_raw": "19",
+ "year": 2025,
+ "title": "Peraturan Pemerintah (PP) Nomor 19 Tahun 2025 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Kementerian Energi dan Sumber Daya Mineral",
+ "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Kementerian Energi dan Sumber Daya Mineral",
+ "issuer": "Pemerintah Pusat",
+ "subject": "PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-04-11",
+ "date_promulgated": "2025-04-11",
+ "date_effective": "2025-04-26",
+ "gazette": "LN 2025 (43), TLN (7107) : 56 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PP-2022-26",
+   "target_bpk_id": 220075,
+   "label": "PP No. 26 Tahun 2022",
+   "about": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Kementerian Energi dan Sumber Daya Manusia"
+  }
+ ],
+ "abstract": "Untuk melakukan penyesuaian jenis dan tarif atas jenis penerimaan negara bukan pajak yang berlaku pada Kementerian Energi dan Sumber Daya Mineral sebagaimana telah diatur dalam Peraturan Pemerintah Nomor 26 Tahun 2022 tentang Jenis dan Tarif atas Jenis penerimaan Negara Bukan Pajak yang Berlaku pada Kementerian Energi dan Sumber Daya Mineral, perlu mengatur kembali Peraturan\nPemerintah tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Kementerian Energi dan Sumber Daya Mineral.\nDasar hukum PP ini adalah Pasal 5 ayat (2) UUD NRI Tahun 1945, UU No. 9 Tahun 2018, dan PP No. 69 Tahun 2020.\nPP ini mengatur mengenai Jenis dan Tarif Penerimaan Negara Bukan Pajak guna mengoptimalkan Penerimaan Negara Bukan Pajak guna memperkuat ketahanan fiskal dan mendukung pembangunan nasional yang berkelanjutan dan berkeadilan, meningkatkan pelaksanaan tugas dan fungsi Kementerian Energi dan Sumber Daya Mineral, memberikan kepastian hukum dan pelindungan masyarakat. Jenis Penerimaan Negara Bukan Pajak yang berlaku pada Kementerian Energi dan Sumber Daya Mineral berasal dari penerimaan: 1) pemanfaatan sumber daya alam; 2) pelayanan bidang energi dan sumber daya mineral; 3) penggunaan sarana dan prasarana sesuai dengan tugas dan fungsi; 4) denda dan 5) penempatan jaminan bidang energi dan sumber daya mineral.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 26 April 2025.\nPada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 26 Tahun 2022 tentangJenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Kementerian Energi dan Sumber Daya Mineral (Lembaran Negara Republik Indonesia Tahun2O22 Nomor 167, Tambahan lembaran Negara Republik Indonesia Nomor 6813), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 56 hlm (batang tubuh hlm 1 sd 9 dan penjelasan hlm 10 sd 56)",
+ "citations": [
+  "PP-2022-26",
+  "UU-2018-9",
+  "PP-2020-69"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/381682/PP%20Nomor%2019%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T04:59:00Z"
+}

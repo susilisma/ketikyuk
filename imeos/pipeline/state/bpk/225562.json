@@ -1,0 +1,51 @@
+{
+ "id": "PERMENKUMHAM-2022-11",
+ "source": "bpk",
+ "bpk_id": 225562,
+ "url": "https://peraturan.bpk.go.id/Details/225562/permenkumham-no-11-tahun-2022",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "11",
+ "number_raw": "11",
+ "year": 2022,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 11 Tahun 2022 tentang Pembangunan dan Evaluasi Zona Integritas Menuju Wilayah Bebas dari Korupsi dan Wilayah Birokrasi Bersih dan Melayani di Lingkungan Kementerian Hukum dan Asasi Manusia",
+ "about": "Pembangunan dan Evaluasi Zona Integritas Menuju Wilayah Bebas dari Korupsi dan Wilayah Birokrasi Bersih dan Melayani di Lingkungan Kementerian Hukum dan Asasi Manusia",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA - PERIZINAN, PELAYANAN PUBLIK - REFORMASI BIROKRASI",
+ "field": "Alias",
+ "date_enacted": "2022-05-31",
+ "date_promulgated": "2022-06-09",
+ "date_effective": "2022-06-09",
+ "gazette": "BN.2022/No.567, peraturan.go.id: 6 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 326086,
+   "label": "Permenkum No. 14 Tahun 2025",
+   "about": "Pembangunan dan Evaluasi Zona Integritas Menuju Wilayah Bebas dari Korupsi dan Wilayah Birokrasi Bersih dan Melayani di Lingkungan Kementerian Hukum"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 173998,
+   "label": "Permenkumham No. 6 Tahun 2020",
+   "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 29 Tahun 2019 tentang Pembangunan Zona Integritas Menuju Wilayah Bebas dari Korupsi dan Wilayah Birokrasi Bersih dan Melayani di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 135704,
+   "label": "Permenkumham No. 29 Tahun 2019",
+   "about": "Pembangunan Zona Integritas Menuju Wilayah Bebas dari Korupsi dan Wilayah Birokrasi Bersih dan Melayani di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 09 Juni 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/220203/Nomor%2011%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:19:48Z"
+}

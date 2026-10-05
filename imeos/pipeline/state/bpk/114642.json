@@ -1,0 +1,72 @@
+{
+ "id": "PERMENKES-2016-79",
+ "source": "bpk",
+ "bpk_id": 114642,
+ "url": "https://peraturan.bpk.go.id/Details/114642/permenkes-no-79-tahun-2016",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "79",
+ "number_raw": "79",
+ "year": 2016,
+ "title": "Peraturan Menteri Kesehatan Nomor 79 Tahun 2016 tentang Pedoman Umum Penyaluran Bantuan Pemerintah Di Lingkungan Kementerian Kesehatan",
+ "about": "Pedoman Umum Penyaluran Bantuan Pemerintah Di Lingkungan Kementerian Kesehatan",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - BANTUAN, SUMBANGAN, BENCANA / KEBENCANAAN, DAN PENANGGULANGAN BENCANA - STANDAR / PEDOMAN",
+ "field": "Alias",
+ "date_enacted": "2016-12-27",
+ "date_promulgated": "2017-01-18",
+ "date_effective": "2017-01-18",
+ "gazette": "BN.2017/NO. 133, kemkes.go.id : 11 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENKES-2025-5",
+   "target_bpk_id": 322074,
+   "label": "Permenkes No. 5 Tahun 2025",
+   "about": "Perubahan Keenam atas Peraturan Menteri Kesehatan\r\nNomor 79 Tahun 2016 tentang Pedoman Umum\r\nPenyaluran Bantuan Pemerintah di Lingkungan\r\nKementerian Kesehatan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENKES-2022-21",
+   "target_bpk_id": 245541,
+   "label": "Permenkes No. 21 Tahun 2022",
+   "about": "Perubahan Kelima atas Peraturan Menteri Kesehatan Nomor 79 Tahun 2016 tentang Pedoman Umum Penyaluran Bantuan Pemerintah di Lingkungan Kementerian Kesehatan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENKES-2021-24",
+   "target_bpk_id": 203309,
+   "label": "Permenkes No. 24 Tahun 2021",
+   "about": "Perubahan Keempat atas Peraturan Menteri Kesehatan Nomor 79 Tahun 2016 tentang Pedoman Umum Penyaluran Bantuan Pemerintah di Lingkungan Kementerian Kesehatan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENKES-2020-27",
+   "target_bpk_id": 163009,
+   "label": "Permenkes No. 27 Tahun 2020",
+   "about": "Perubahan Ketiga Atas Peraturan Menteri Kesehatan Nomor 79 Tahun 2016 Tentang Pedoman Umum Penyaluran Bantuan Pemerintah Di Lingkungan Kementerian Kesehatan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENKES-2020-20",
+   "target_bpk_id": 152563,
+   "label": "Permenkes No. 20 Tahun 2020",
+   "about": "Perubahan Kedua atas Peraturan Menteri Kesehatan Nomor 79 Tahun 2016 tentang Pedoman Umum Penyaluran Bantuan Pemerintah di Lingkungan Kementerian Kesehatan"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENKES-2018-17",
+   "target_bpk_id": 111921,
+   "label": "Permenkes No. 17 Tahun 2018",
+   "about": "Perubahan atas Peraturan Menteri Kesehatan Nomor 79 Tahun 2016 Tentang Pedoman Umum Penyaluran Bantuan Pemerintah di Lingkungan Kementerian Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 18 Januari 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/105590/Permenkes%20Nomor%2079%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:24:29Z"
+}

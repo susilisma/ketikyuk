@@ -1,0 +1,212 @@
+{
+ "id": "PERMENKES-2026-5",
+ "source": "bpk",
+ "bpk_id": 350852,
+ "url": "https://peraturan.bpk.go.id/Details/350852/permenkes-no-5-tahun-2026",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "5",
+ "number_raw": "5",
+ "year": 2026,
+ "title": "Peraturan Menteri Kesehatan Nomor 5 Tahun 2026 tentang Perbekalan Kesehatan",
+ "about": "Perbekalan Kesehatan",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2026-04-17",
+ "date_promulgated": "2026-05-04",
+ "date_effective": "2026-05-04",
+ "gazette": "JDIH Kementerian Kesehatan",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2023-4",
+   "target_bpk_id": 245564,
+   "label": "Permenkes No. 4 Tahun 2023",
+   "about": "Penyelenggaraan Fraksionasi Plasma"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2020-7",
+   "target_bpk_id": 143145,
+   "label": "Permenkes No. 7 Tahun 2020",
+   "about": "Perubahan atas Peraturan Menteri Kesehatan Nomor 51 Tahun 2014 tentang Pemasukan Alat Kesehatan Melalui Mekanisme Jalur Khusus (Special Access Scheme)"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2019-5",
+   "target_bpk_id": 129755,
+   "label": "Permenkes No. 5 Tahun 2019",
+   "about": "Perencanaan dan Pengadaan Obat Berdasarkan Katalog Elektronik"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2018-22",
+   "target_bpk_id": 111925,
+   "label": "Permenkes No. 22 Tahun 2018",
+   "about": "Petunjuk Teknis Restriksi Penggunaan Obat Trastuzumab Untuk Kanker Payudara Metastasik Pada Pelayanan Jaminan Kesehatan Nasional"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2018-22",
+   "target_bpk_id": 111925,
+   "label": "Permenkes No. 22 Tahun 2018",
+   "about": "Petunjuk Teknis Restriksi Penggunaan Obat Trastuzumab Untuk Kanker Payudara Metastasik Pada Pelayanan Jaminan Kesehatan Nasional"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2017-62",
+   "target_bpk_id": 112243,
+   "label": "Permenkes No. 62 Tahun 2017",
+   "about": "Izin Edar Alat Kesehatan, Alat Kesehatan Diagnostik In Vitro dan Perbekalan Kesehatan Rumah Tangga"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2017-60",
+   "target_bpk_id": 112239,
+   "label": "Permenkes No. 60 Tahun 2017",
+   "about": "Pengawasan Tata Niaga Impor  Alat Kesehatan, Alat Kesehatan Diagnostik In Vitro, dan Perbekalan Kesehatan Rumah Tangga"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2017-30",
+   "target_bpk_id": 112085,
+   "label": "Permenkes No. 30 Tahun 2017",
+   "about": "Perubahan Kedua atas Peraturan Menteri Kesehatan Nomor 1148/Menkes/Per/VI/2011 tentang Pedagang Besar Farmasi"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2017-17",
+   "target_bpk_id": 111983,
+   "label": "Permenkes No. 17 Tahun 2017",
+   "about": "Rencana Aksi Pengembangan Industri Farmasi Dan Alat Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2016-75",
+   "target_bpk_id": 114631,
+   "label": "Permenkes No. 75 Tahun 2016",
+   "about": "Penyelenggaraan Uji Mutu Obat pada Instalasi Farmasi Pemerintah"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2016-14",
+   "target_bpk_id": 113014,
+   "label": "Permenkes No. 14 Tahun 2016",
+   "about": "Rekomendasi Untuk Mendapatkan Persetujuan Impor Barang Komplementer, Barang Untuk Keperluan Tes Pasar, Dan Pelayanan Purna Jual"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2015-98",
+   "target_bpk_id": 116671,
+   "label": "Permenkes No. 98 Tahun 2015",
+   "about": "Pemberian Informasi Harga Eceran Tertinggi Obat"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2015-54",
+   "target_bpk_id": 116264,
+   "label": "Permenkes No. 54 Tahun 2015",
+   "about": "Pengujian dan Kalibrasi Alat Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2014-70",
+   "target_bpk_id": 129901,
+   "label": "Permenkes No. 70 Tahun 2014",
+   "about": "Perusahaan Rumah Tangga Alat Kesehatan dan Perbekalan Kesehatan Rumah Tangga"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2014-51",
+   "target_bpk_id": 143148,
+   "label": "Permenkes No. 51 Tahun 2014",
+   "about": "Pemasukan Alat Kesehatan Melalui Mekanisme Jalur Khusus (Special Access Scheme)"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2014-34",
+   "target_bpk_id": 117570,
+   "label": "Permenkes No. 34 Tahun 2014",
+   "about": "Perubahan atas Peraturan Menteri Kesehatan Nomor 1148/Menkes/Per/VI/2011 Tentang  Pedagang Besar Farmasi"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2013-63",
+   "target_bpk_id": 129898,
+   "label": "Permenkes No. 63 Tahun 2013",
+   "about": "Perubahan atas Peraturan Menteri Kesehatan Nomor 1175/MENKES/PER/VIII/2010 tentang Izin Produksi Kosmetika"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2012-6",
+   "target_bpk_id": 129888,
+   "label": "Permenkes No. 6 Tahun 2012",
+   "about": "Industri dan Usaha Obat Tradisional"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2011-1148",
+   "target_bpk_id": 129886,
+   "label": "Permenkes No. 1148/MENKES/PER/VI/2011 Tahun 2011",
+   "about": "Pedagang Besar Farmasi"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2010-1799",
+   "target_bpk_id": 129885,
+   "label": "Permenkes No. 1799/MENKES/PER/XII/2010 Tahun 2010",
+   "about": "Industri Farmasi"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2010-1191",
+   "target_bpk_id": 129882,
+   "label": "Permenkes No. 1191/MENKES/PER/VIII/2010 Tahun 2010",
+   "about": "Penyaluran Alat Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2010-1189",
+   "target_bpk_id": 129880,
+   "label": "Permenkes No. 1189/MENKES/PER/VIII/2010 Tahun 2010",
+   "about": "Produksi Alat Kesehatan dan Perbekalan Kesehatan Rumah Tangga"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "PERMENKES-2018-54",
+   "target_bpk_id": 111957,
+   "label": "Permenkes No. 54 Tahun 2018",
+   "about": "Penyusunan Dan Penerapan Formularium Nasional Dalam Penyelenggaraan Program Jaminan Kesehatan"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "PERMENKES-2017-63",
+   "target_bpk_id": 112244,
+   "label": "Permenkes No. 63 Tahun 2017",
+   "about": "Cara Uji Klinik Alat Kesehatan yang Baik"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "PERMENKES-2014-4",
+   "target_bpk_id": 116710,
+   "label": "Permenkes No. 4 Tahun 2014",
+   "about": "Cara Distribusi Alat Kesehatan yang Baik"
+  }
+ ],
+ "abstract": "bahwa untuk melaksanakan ketentuan Pasal 320 ayat (5),\nPasal 324, Pasal 407 ayat (7), Pasal 410 ayat (2), Pasal 411\nayat (2), Pasal 412 ayat (5), Pasal 416 ayat (4), Pasal 417 ayat\n(4), Pasal 419 ayat (1), Pasal 425 ayat (1), Pasal 915, Pasal\n921 ayat (4), Pasal 924 ayat (5), Pasal 928 ayat (4), Pasal 937 ayat (3), dan Pasal 943 ayat (5) Peraturan Pemerintah Nomor 28 Tahun 2024 tentang Peraturan Pelaksanaan Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan, perlu menetapkan Peraturan Menteri Kesehatan tentang Perbekalan Kesehatan\n1. Pasal 17 ayat (3) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945;\n2. Undang-Undang Nomor 39 Tahun 2008 tentang\nKementerian Negara (Lembaran Negara Republik\nIndonesia Tahun 2008 Nomor 166, Tambahan\nLembaran Negara Republik Indonesia Nomor 4916)\nsebagaimana telah diubah dengan Undang-Undang\nNomor 61 Tahun 2024 tentang Perubahan atas Undang-\nUndang Nomor 39 Tahun 2008 tentang Kementerian\nNegara (Lembaran Negara Republik Indonesia Tahun\n2024 Nomor 225, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 6994);\n3. Undang-Undang Nomor 17 Tahun 2023 tentang\nKesehatan (Lembaran Negara Republik Indonesia Tahun\n2023 Nomor 105, Tambahan Lembaran Negara Republik\nIndonesia Nomor 6887);\n4. Peraturan Pemerintah Nomor 28 Tahun 2024 tentang\nPeraturan Pelaksanaan Undang-Undang Nomor 17 Tahun\n2023 tentang Kesehatan (Lembaran Negara Republik\nIndonesia Tahun 2024 Nomor 135, Tambahan Lembaran\nNegara Republik Indonesia Nomor 6952);\n5. Peraturan Presiden Nomor 161 Tahun 2024 tentang\nKementerian Kesehatan (Lembaran Negara Republik\nIndonesia Tahun 2024 Nomor 357);\n6.Peraturan Menteri Kesehatan Nomor 21 Tahun 2024tentang Organisasi dan Tata Kerja Kementerian Kesehatan(Berita Negara Republik Indonesia Tahun 2024 Nomor1048) sebagaimana telah diubah dengan PeraturanMenteri Kesehatan Nomor 17 Tahun 2025 tentangPerubahan atas Peraturan Menteri Kesehatan Nomor 21Tahun 2024 tentang Organisasi dan Tata KerjaKementerian Kesehatan (Berita Negara Republik IndonesiaTahun 2025 Nomor 1128).\nPeraturan ini mengatur tentang Ketentuan umum, perencanaan, produksi, penyediaan, peredaran, pengendalian, pembinaan dan pengawasan, dan sanksi terkait perbekalan kesehatan",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 04 Mei 2026.\n52",
+ "citations": [
+  "PP-2024-28",
+  "UU-2023-17",
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2024-161",
+  "PERMENKES-2024-21"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/414598/Permenkes%205%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:22:07Z"
+}

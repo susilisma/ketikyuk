@@ -1,0 +1,39 @@
+{
+ "id": "PERBPOM-2025-9",
+ "source": "bpk",
+ "bpk_id": 319866,
+ "url": "https://peraturan.bpk.go.id/Details/319866/peraturan-bpom-no-9-tahun-2025",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "9",
+ "number_raw": "9",
+ "year": 2025,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 9 Tahun 2025 tentang Pedoman Kajian Risiko Keamanan dan/atau Mutu Obat dan Bahan Obat",
+ "about": "Pedoman Kajian Risiko Keamanan dan/atau Mutu Obat dan Bahan Obat",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "KESEHATAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-04-23",
+ "date_promulgated": "2025-05-02",
+ "date_effective": "2025-05-02",
+ "gazette": "BN 2025 (297); 70 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 245402,
+   "label": "Peraturan BPOM No. 2 Tahun 2023",
+   "about": "Pedoman Pengkajian Keamanan dan/atau Mutu Obat dan Bahan Obat terhadap Cemaran Nitrosamin"
+  }
+ ],
+ "abstract": "bahwa berdasarkan ketentuan Pasal 3 ayat (1) huruf d\nPeraturan Presiden Nomor 80 Tahun 2017 tentang\nBadan Pengawas Obat dan Makanan, Badan Pengawas\nObat dan Makanan menyelenggarakan fungsi\npelaksanaan pengawasan sebelum beredar dan\npengawasan selama beredar\nDasar hukum peraturan ini adalah Perpres Nomor 80 Tahun 2017; Peraturan BPOM Nomor 21 Tahun 2020 sebagaimana telah diubah dengan Peraturan BPOM Nomor 13 Tahun 2022; Peraturan BPOM Nomor 19 Tahun 2023 sebagaimana telah diubah dengan Peraturan BPOM Nomor 3 Tahun 2025\nPeraturan ini mengatur mengenai Pengkajian risiko keamanan dan/atau mutu Obat dan Bahan Obat meliputi:\na. Bahan Aktif Obat; dan\nb. Eksipien.",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 02 Mei 2025.",
+ "citations": [
+  "PERPRES-2017-80"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/381474/peraturan-bpom-no-9-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:29:13Z"
+}

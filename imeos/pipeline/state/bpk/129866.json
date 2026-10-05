@@ -1,0 +1,37 @@
+{
+ "id": "POJK-2014-23",
+ "source": "bpk",
+ "bpk_id": 129866,
+ "url": "https://peraturan.bpk.go.id/Details/129866/peraturan-ojk-no-23pojk042014-tahun-2014",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "23",
+ "number_raw": "23/POJK.04/2014",
+ "year": 2014,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 23/POJK.04/2014 Tahun 2014 tentang Pedoman Penerbitan dan Pelaporan Efek Beragun Aset Berbentuk Surat Partisipasi dalam Rangka Pembiayaan Sekunder Perumahan",
+ "about": "Pedoman Penerbitan dan Pelaporan Efek Beragun Aset Berbentuk Surat Partisipasi dalam Rangka Pembiayaan Sekunder Perumahan",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "PASAR MODAL DAN PERDAGANGAN BERJANGKA KOMODITI",
+ "field": "Alias",
+ "date_enacted": "2014-11-19",
+ "date_promulgated": "2014-11-19",
+ "date_effective": "2014-11-19",
+ "gazette": "LN.2014/NO.358, TLN NO.5632, Jdih.ojk.go.id: 68 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 357474,
+   "label": "Peraturan OJK No. 12 Tahun 2026",
+   "about": "Penerbitan dan Pelaporan Efek Berbentuk Surat Partisipasi dalam Rangka Pembiayaan Sekunder Perumahan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 19 November 2014.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/120737/pojk%2023-2014.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:30:13Z"
+}

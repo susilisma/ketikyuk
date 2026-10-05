@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKES-2016-20",
+ "source": "bpk",
+ "bpk_id": 113054,
+ "url": "https://peraturan.bpk.go.id/Details/113054/permenkes-no-20-tahun-2016",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "20",
+ "number_raw": "20",
+ "year": 2016,
+ "title": "Peraturan Menteri Kesehatan Nomor 20 Tahun 2016 tentang Izin Dan Penyelenggaraan Praktik Terapis Gigi Dan Mulut",
+ "about": "Izin Dan Penyelenggaraan Praktik Terapis Gigi Dan Mulut",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - PERIZINAN, PELAYANAN PUBLIK",
+ "field": "Alias",
+ "date_enacted": "2016-04-20",
+ "date_promulgated": "2016-06-16",
+ "date_effective": "2016-06-16",
+ "gazette": "BN.2016/NO. 889, kemenkes.go.id : 18 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2025-13",
+   "target_bpk_id": 335214,
+   "label": "Permenkes No. 13 Tahun 2025",
+   "about": "Pengelolaan Sumber Daya Manusia Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2012-58",
+   "target_bpk_id": 153872,
+   "label": "Permenkes No. 58 Tahun 2012",
+   "about": "Penyelenggaraan Pekerjaan Perawat Gigi"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 16 Juni 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/104003/Permenkes%20Nomor%2020%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:24:00Z"
+}

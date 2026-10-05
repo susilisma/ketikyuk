@@ -2,7 +2,7 @@
  "id": "PERMENDAG-2024-3",
  "source": "bpk",
  "bpk_id": 280622,
- "url": "https://peraturan.bpk.go.id/Details/280622/x",
+ "url": "https://peraturan.bpk.go.id/Details/280622/permendag-no-3-tahun-2024",
  "form": "PERMENDAG",
  "form_long": "Peraturan Menteri Perdagangan",
  "number": "3",
@@ -55,5 +55,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/339446/Permendag%20Nomor%203%20Tahun%202024.pdf"
  ],
- "fetched_at": "2026-09-14T06:26:48Z"
+ "fetched_at": "2026-10-05T05:11:44Z"
 }

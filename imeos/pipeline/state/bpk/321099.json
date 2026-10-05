@@ -1,0 +1,43 @@
+{
+ "id": "PERMENKOMINFO-2025-13",
+ "source": "bpk",
+ "bpk_id": 321099,
+ "url": "https://peraturan.bpk.go.id/Details/321099/permenkomdigi-no-13-tahun-2025",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Digital",
+ "number": "13",
+ "number_raw": "13",
+ "year": 2025,
+ "title": "Peraturan Menteri Komunikasi dan Digital Nomor 13 Tahun 2025 tentang Penggunaan Spektrum Frekuensi Radio pada Pita Frekuensi Radio 1,4",
+ "about": "Penggunaan Spektrum Frekuensi Radio pada Pita Frekuensi Radio 1,4",
+ "issuer": "Kementerian Komunikasi dan Digital",
+ "subject": "TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-05-20",
+ "date_promulgated": "2025-05-23",
+ "date_effective": "2025-05-23",
+ "gazette": "BN 2025 (357)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 158673,
+   "label": "Permenkominfo No. 7/PER/M.KOMINFO/1/2009 Tahun 2009",
+   "about": "Penataan Pita Frekuensi Radio untuk Keperluan Layanan Pita Lebar Nirkabel (Wireless Broadband)"
+  }
+ ],
+ "abstract": "bahwa untuk mendukung akselerasi peningkatan\nkonektivitas akses internet berbasis jaringan pitalebar\ntetap (fixed broadband) dibutuhkan penyediaan spektrum\nfrekuensi radio untuk layanan akses nirkabel pitalebar\n(broadband wireless access) pada pita frekuensi radio 1,4\nGHz dengan mengimplementasikan sistem telekomunikasi\nbergerak internasional (international mobile\ntelecommunications) sesuai dengan ketentuan Peraturan\nMenteri Komunikasi dan Digital yang mengatur mengenai\ntabel alokasi spektrum frekuensi radio Indonesia\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD 1945; UU Nomor 36 Tahun 1999 sebagaimana telah diubah dengan UU Nomor 6 Tahun 2023; UU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024; Perpres Nomor 174 Tahun 2024; Permenkominfo Nomor 12 Tahun 2022; Permenkomdigi Nomor 1 Tahun 2025\nPeraturan ini mengatur mengenai Penggunaan Pita Frekuensi Radio 1,4 GHz meliputi Penetapan Hak Penggunaan Pita Frekuensi Radio, Ketentuan Penggunaan Pita Frekuensi Radio, serta pengawasan dan pengendalian terhadap penggunaan Pita Frekuensi Radio\n1,4 GHz",
+ "note": "Peraturan Menteri Komunikasi dan Digital ini mulai berlaku pada tanggal 23 Mei 2025.",
+ "citations": [
+  "UU-1999-36",
+  "UU-2023-6",
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2024-174"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/382840/permenkomdigi-no-13-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:16:30Z"
+}

@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKES-2022-22",
+ "source": "bpk",
+ "bpk_id": 245542,
+ "url": "https://peraturan.bpk.go.id/Details/245542/permenkes-no-22-tahun-2022",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "22",
+ "number_raw": "22",
+ "year": 2022,
+ "title": "Peraturan Menteri Kesehatan Nomor 22 Tahun 2022 tentang Penanggulangan Malaria",
+ "about": "Penanggulangan Malaria",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN",
+ "field": "Alias",
+ "date_enacted": "2022-08-23",
+ "date_promulgated": "2022-09-26",
+ "date_effective": "2022-09-26",
+ "gazette": "BN.2022/No.978, peraturan.go.id: 24 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-3",
+   "target_bpk_id": 350854,
+   "label": "Permenkes No. 3 Tahun 2026",
+   "about": "Penanggulangan Penyakit"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2013-5",
+   "target_bpk_id": 172131,
+   "label": "Permenkes No. 5 Tahun 2013",
+   "about": "Pedoman Tata Laksana Malaria"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 26 September 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/301562/Permenkes%20Nomor%2022%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:22:44Z"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKUMHAM-2017-4",
+ "source": "bpk",
+ "bpk_id": 135887,
+ "url": "https://peraturan.bpk.go.id/Details/135887/permenkumham-no-4-tahun-2017",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "4",
+ "number_raw": "4",
+ "year": 2017,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 4 Tahun 2017 tentang Tata Cara Pengawasan Keimigrasian",
+ "about": "Tata Cara Pengawasan Keimigrasian",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "KEWARGANEGARAAN DAN IMIGRASI",
+ "field": "Alias",
+ "date_enacted": "2017-04-13",
+ "date_promulgated": "2017-04-28",
+ "date_effective": "2017-04-28",
+ "gazette": "BN.2017/NO.641, peraturan.go.id: 33 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 316854,
+   "label": "Permen Imipas No. 2 Tahun 2025",
+   "about": "Pengawasan Keimigrasian dan Tindakan Administratif Keimigrasian"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 28 April 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/126750/Permenkumham%20Nomor%204%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:21:15Z"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKUMHAM-2018-5",
+ "source": "bpk",
+ "bpk_id": 135841,
+ "url": "https://peraturan.bpk.go.id/Details/135841/permenkumham-no-5-tahun-2018",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "5",
+ "number_raw": "5",
+ "year": 2018,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 5 Tahun 2018 tentang Penerapan Manajemen Risiko di Lingkungan Kementerian Hukum dan Hak Asasi Manusia",
+ "about": "Penerapan Manajemen Risiko di Lingkungan Kementerian Hukum dan Hak Asasi Manusia",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "HAK ASASI MANUSIA - KEPEGAWAIAN, APARATUR NEGARA",
+ "field": "Alias",
+ "date_enacted": "2018-02-27",
+ "date_promulgated": "2018-03-21",
+ "date_effective": "2018-03-21",
+ "gazette": "BN.2018/NO.399, PERATURAN.GO.ID: 10 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 326093,
+   "label": "Permenkum No. 15 Tahun 2025",
+   "about": "Penerapan Manajemen Risiko di Lingkungan Kementerian Hukum"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 21 Maret 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/126700/Permenkumham%20Nomor%205%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:19:45Z"
+}

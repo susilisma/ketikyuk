@@ -12,7 +12,7 @@
  "about": "Penyelenggaraan Ibadah Haji dan Umrah",
  "issuer": "Pemerintah Pusat",
  "subject": "KEAGAMAAN, IBADAH, DAN PENYELENGGARAAN HAJI",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2019-04-26",
  "date_promulgated": "2019-04-29",
  "date_effective": "2019-04-29",
@@ -68,5 +68,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/97310/UU%20Nomor%208%20Tahun%202019.pdf"
  ],
- "fetched_at": "2026-09-14T05:23:45Z"
+ "fetched_at": "2026-10-05T04:55:45Z"
 }

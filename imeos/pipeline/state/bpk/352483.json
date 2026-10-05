@@ -1,0 +1,42 @@
+{
+ "id": "PERMENIMIPAS-2026-1",
+ "source": "bpk",
+ "bpk_id": 352483,
+ "url": "https://peraturan.bpk.go.id/Details/352483/permen-imipas-no-1-tahun-2026",
+ "form": "PERMENIMIPAS",
+ "form_long": "Peraturan Menteri Imigrasi dan Pemasyarakatan",
+ "number": "1",
+ "number_raw": "1",
+ "year": 2026,
+ "title": "Peraturan Menteri Imigrasi dan Pemasyarakatan Nomor 1 Tahun 2026 tentang Perubahan atas Peraturan Menteri Imigrasi dan Pemasyarakatan Nomor 13 Tahun 2025 tentang Pelaksanaan Pencegahan dan Penangkalan",
+ "about": "Perubahan atas Peraturan Menteri Imigrasi dan Pemasyarakatan Nomor 13 Tahun 2025 tentang Pelaksanaan Pencegahan dan Penangkalan",
+ "issuer": "Kementerian Imigrasi dan Pemasyarakatan",
+ "subject": "KEWARGANEGARAAN DAN IMIGRASI",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2026-04-16",
+ "date_promulgated": "2026-04-24",
+ "date_effective": "2026-04-24",
+ "gazette": "BN 2026 (266): 4 hlm.; jdih.kemenimipas.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 352470,
+   "label": "Permen Imipas No. 13 Tahun 2025",
+   "about": "Pelaksanaan Pencegahan dan Penangkalan"
+  }
+ ],
+ "abstract": "Peraturan Menteri Imigrasi dan Pemasyarakatan tentang Pelaksanaan Pencegahan dan Penangkalan memerlukan penyesuaian nomenklatur kementerian dengan adanya perubahan organisasi dan tata kerja, sehingga perlu diubah.\nDasar hukum Permen Imipas ini adalah Pasal 17 ayat (3) UUD 1945; UU No. 39 Tahun 2008; UU No. 6 Tahun 2011; Perpres No. 157 Tahun 2024; Permenkumham No. 19 Tahun 2018; Permen Imipas No. 1 Tahun 2024; Permen Imipas No. 2 Tahun 2024; dan Permen Imipas No. 13 Tahun 2025.\nPermen Imipas ini mengubah beberapa ketentuan dalam Peraturan Menteri Imigrasi dan Pemasyarakatan Nomor 13 Tahun 2025 tentang Pelaksanaan Pencegahan dan Penangkalan (Berita Negara Republik Indonesia Tahun 2025 Nomor 1060).",
+ "note": "Peraturan Menteri Imigrasi dan Pemasyarakatan ini mulai berlaku pada tanggal 24 April 2026.\nPermen Imipas ini mengubah Permen Imipas Nomor 13 Tahun 2025",
+ "citations": [
+  "UU-2008-39",
+  "UU-2011-6",
+  "PERPRES-2024-157",
+  "PERMENIMIPAS-2025-13"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/416308/Permen_Nomor1_Tahun2026.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:20:44Z"
+}

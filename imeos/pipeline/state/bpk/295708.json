@@ -1,0 +1,49 @@
+{
+ "id": "PERPRES-2024-80",
+ "source": "bpk",
+ "bpk_id": 295708,
+ "url": "https://peraturan.bpk.go.id/Details/295708/perpres-no-80-tahun-2024",
+ "form": "PERPRES",
+ "form_long": "Peraturan Presiden (Perpres)",
+ "number": "80",
+ "number_raw": "80",
+ "year": 2024,
+ "title": "Peraturan Presiden (Perpres) Nomor 80 Tahun 2024 tentang Perubahan atas Peraturan Presiden Nomor 16 Tahun 2016 tentang Tata Cara Pelantikan Gubernur dan Wakil Gubernur, Bupati dan Wakil Bupati, serta Walikota dan Wakil Walikota",
+ "about": "Perubahan atas Peraturan Presiden Nomor 16 Tahun 2016 tentang Tata Cara Pelantikan Gubernur dan Wakil Gubernur, Bupati dan Wakil Bupati, serta Walikota dan Wakil Walikota",
+ "issuer": "Pemerintah Pusat",
+ "subject": "OTONOMI DAERAH DAN PEMERINTAH DAERAH - PROTOKOLER",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-08-14",
+ "date_promulgated": "2024-08-14",
+ "date_effective": "2024-08-14",
+ "gazette": "LN 2024 (170) : 4 hlm.; jdih.setneg.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PERPRES-2025-13",
+   "target_bpk_id": 313865,
+   "label": "Perpres No. 13 Tahun 2025",
+   "about": "Perubahan Kedua atas Peraturan Presiden Nomor 16 Tahun 2016 tentang Tata Cara Pelantikan Gubernur dan Wakil Gubernur, Bupati dan Wakil Bupati, serta Walikota dan Wakil Walikota"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERPRES-2016-16",
+   "target_bpk_id": 39763,
+   "label": "PERPRES No. 16 Tahun 2016",
+   "about": "Tata Cara Pelantikan Gubernur dan Wakil Gubernur, Bupati dan Wakil Bupati, serta Walikota dan Wakil Walikota"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 165 Undang-Undang Nomor 10 Tahun 2016 tentang Perubahan Kedua atas Undang-Undang Nomor 1 Tahun 2015 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2014 tentang Pemilihan Gubernur, Bupati, dan Walikota menjadi Undang-Undang dan untuk menindaklanjuti Putusan Mahkamah Agung Nomor 23 P/HUM/2024 tanggal 29 Mei 2024 mengenai batas minimal usia kepala daerah dan wakil kepala daerah yang dihitung sejak tanggal pelantikan, perlu menetapkan Peraturan Presiden tentang Perubahan atas Peraturan Presiden Nomor 16 Tahun 2016 tentang Tata Cara Pelantikan Gubernur dan Wakil Gubernur, Bupati dan Wakil Bupati, serta Walikota dan Wakil Walikota.\nDasar hukum Perpres ini adalah Pasal 4 ayat (1) UUD 1945; UU Nomor 1 Tahun 2015; dan Perpres Nomor 16 Tahun 2016.\nPerpres ini menambah beberapa ketentuan dalam Perpres Nomor 16 Tahun 2016. Diantara Pasal 2 dan Pasal 3 disisipkan satu pasal, yakni Pasal 2A. Diantara Pasal 22 dan Pasal 23 disisipkan satu pasal, yakni Pasal 22A. Kedua pasal tersebut mengatur mengenai jadwal pelantikan kepala daerah. Dan diantara Pasal 23 dan Pasal 24 disisipkan satu pasal, yakni Pasal 23A yang mengatur mengenai ketentuan dalam Peraturan Presiden ini berlaku juga bagi daerah yang bersifat khusus atau istimewa yang diatur dengan Undang-Undang, sepanjang tidak diatur lain dalam Undang-Undang tersendiri.",
+ "note": "Peraturan Presiden (Perpres) ini mulai berlaku pada tanggal 14 Agustus 2024.\nPerpres ini mengubah Perpres Nomor 16 Tahun 2016.",
+ "citations": [
+  "UU-2016-10",
+  "UU-2015-1",
+  "PERPPU-2014-1",
+  "PERPRES-2016-16"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/355094/Perpres%20Nomor%2080%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:03:18Z"
+}

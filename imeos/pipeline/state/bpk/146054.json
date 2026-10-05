@@ -12,7 +12,7 @@
  "about": "Tarif Layanan Badan Layanan Umum Balai Besar Laboratorium Kesehatan Palembang pada Kementerian Kesehatan",
  "issuer": "Kementerian Keuangan",
  "subject": "BADAN LAYANAN UMUM",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2014-08-28",
  "date_promulgated": "2014-08-28",
  "date_effective": "2014-09-12",
@@ -40,5 +40,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/137869/PMK%20Nomor%20180%20Tahun%202014.pdf"
  ],
- "fetched_at": "2026-09-14T06:33:42Z"
+ "fetched_at": "2026-10-05T05:08:08Z"
 }

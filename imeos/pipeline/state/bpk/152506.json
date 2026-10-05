@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKES-2020-3",
+ "source": "bpk",
+ "bpk_id": 152506,
+ "url": "https://peraturan.bpk.go.id/Details/152506/permenkes-no-3-tahun-2020",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "3",
+ "number_raw": "3",
+ "year": 2020,
+ "title": "Peraturan Menteri Kesehatan Nomor 3 Tahun 2020 tentang Klasifikasi dan Perizinan Rumah Sakit",
+ "about": "Klasifikasi dan Perizinan Rumah Sakit",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - PERIZINAN, PELAYANAN PUBLIK",
+ "field": "Alias",
+ "date_enacted": "2020-01-14",
+ "date_promulgated": "2020-01-16",
+ "date_effective": "2020-01-16",
+ "gazette": "BN.2020/No.21, jdih.kemkes.go.id: 35 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-6",
+   "target_bpk_id": 350851,
+   "label": "Permenkes No. 6 Tahun 2026",
+   "about": "Rumah Sakit"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2019-30",
+   "target_bpk_id": 138624,
+   "label": "Permenkes No. 30 Tahun 2019",
+   "about": "Klasifikasi dan Perizinan Rumah Sakit"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 16 Januari 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/144763/Permenkes%20Nomor%203%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:21:53Z"
+}

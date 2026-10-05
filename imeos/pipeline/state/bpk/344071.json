@@ -1,0 +1,51 @@
+{
+ "id": "PERMENKES-2025-18",
+ "source": "bpk",
+ "bpk_id": 344071,
+ "url": "https://peraturan.bpk.go.id/Details/344071/permenkes-no-18-tahun-2025",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "18",
+ "number_raw": "18",
+ "year": 2025,
+ "title": "Peraturan Menteri Kesehatan Nomor 18 Tahun 2025 tentang Perubahan atas Peraturan Menteri Kesehatan Nomor 18 Tahun 2024 tentang Petunjuk Teknis Pengelolaan Dana Bantuan Operasional Kesehatan",
+ "about": "Perubahan atas Peraturan Menteri Kesehatan Nomor 18 Tahun 2024 tentang Petunjuk Teknis Pengelolaan Dana Bantuan Operasional Kesehatan",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - STANDAR / PEDOMAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-12-24",
+ "date_promulgated": "2025-12-29",
+ "date_effective": "2025-12-29",
+ "gazette": "BN 2025 (1123); 14 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERMENKES-2024-18",
+   "target_bpk_id": 312835,
+   "label": "Permenkes No. 18 Tahun 2024",
+   "about": "Petunjuk Teknis Pengelolaan Dana Bantuan Operasional Kesehatan"
+  }
+ ],
+ "abstract": "bahwa untuk mengakomodasi pemberian tunjangan khusus melalui mekanisme dana bantuan operasional kesehatan serta untuk meningkatkan optimalisasi dan akuntabilitas penyaluran dana bantuan operasional kesehatan, perlu melakukan penyesuaian beberapa ketentuan dalam Peraturan Menteri Kesehatan Nomor 18 Tahun 2024 tentang Petunjuk Teknis Pengelolaan Dana Bantuan Operasional Kesehatan\nDasar hukum peraturan ini adalah UUD NRI Tahun 1945 Pasal 17 ayat (3);\nUU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024;\nUU Nomor 1 Tahun 2022;\nUU Nomor 17 Tahun 2023;\nPP Nomor 12 Tahun 2019;\nPP Nomor 37 Tahun 2023;\nPP Nomor 28 Tahun 2024;\nPerpres Nomor 161 Tahun 2024;\nPerpres Nomor 81 Tahun 2025;\nPMK Nomor 204 Tahun 2022;\nPermendagri Nomor 12 Tahun 2023;\nPermenkes Nomor 21 Tahun 2024;\nPermenkes Nomor 10 Tahun 2025.\nPeraturan ini mengubah beberaa ketentuan dalam Peraturan Menteri Kesehatan Nomor 18 Tahun 2024 tentang Petunjuk Teknis Pengelolaan Dana Bantuan Operasional Kesehatan",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 29 Desember 2025.",
+ "citations": [
+  "PERMENKES-2024-18",
+  "UU-2008-39",
+  "UU-2024-61",
+  "UU-2022-1",
+  "UU-2023-17",
+  "PP-2019-12",
+  "PP-2023-37",
+  "PP-2024-28",
+  "PERPRES-2024-161",
+  "PERPRES-2025-81",
+  "PMK-2022-204",
+  "PERMENKES-2024-21",
+  "PERMENKES-2025-10"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/407315/permenkes-no-18-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:23:22Z"
+}

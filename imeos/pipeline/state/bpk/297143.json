@@ -1,0 +1,54 @@
+{
+ "id": "PERBPOM-2024-14",
+ "source": "bpk",
+ "bpk_id": 297143,
+ "url": "https://peraturan.bpk.go.id/Details/297143/peraturan-bpom-no-14-tahun-2024",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "14",
+ "number_raw": "14",
+ "year": 2024,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 14 Tahun 2024 tentang Pengawasan Obat dan Makanan yang Diedarkan secara",
+ "about": "Pengawasan Obat dan Makanan yang Diedarkan secara",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "PENGAWASAN / AUDIT INTERNAL",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-07-19",
+ "date_promulgated": "2024-08-05",
+ "date_effective": "2024-08-05",
+ "gazette": "BN 2024 (449); 18 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 335228,
+   "label": "Peraturan BPOM No. 30 Tahun 2025",
+   "about": "Perubahan atas Peraturan Badan Pengawas Obat dan\r\nMakanan Nomor 14 Tahun 2024 tentang Pengawasan\r\nObat dan Makanan yang Diedarkan Secara Daring"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 181773,
+   "label": "Peraturan BPOM No. 8 Tahun 2020",
+   "about": "Pengawasan Obat dan Makanan yang Diedarkan secara Daring"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 181796,
+   "label": "Peraturan BPOM No. 32 Tahun 2020",
+   "about": "Perubahan atas Peraturan Badan Pengawas Obat dan Makanan Nomor 8 Tahun 2020 tentang Pengawasan Obat dan Makanan yang Diedarkan secara Daring"
+  }
+ ],
+ "abstract": "bahwa masyarakat perlu dilindungi dari peredaran obat\ndan makanan secara daring yang tidak memenuhi standar\ndan/atau persyaratan keamanan, khasiat/manfaat, dan\nmutu, serta gizi\nDasar hukum peraturan ini adalah PP Nomor 71 Tahun 2019; Perpres Nomor 80 Tahun 2017; Peraturan BPOM Nomor 21 Tahun 2020 sebagaimana telah diubah dengan Peraturan BPOM Nomor 13 Tahun 2022; Peraturan BPOM Nomor 19 Tahun 2023\nPeraturan ini mengatur mengenai peredaran obat dan makanan secara daring yang meliputi a. Obat;\nb. Bahan Obat;\nc. Obat Bahan Alam;\nd. Obat Kuasi;\ne. Suplemen Kesehatan;\nf. Kosmetik; dan\ng. Pangan Olahan.",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 05 Agustus 2024.\nPasal 29\nPada saat Peraturan Badan ini mulai berlaku:\na. Peraturan Badan Pengawas Obat dan Makanan Nomor 8\nTahun 2020 tentang Pengawasan Obat dan Makanan yang\nDiedarkan secara Daring (Berita Negara Republik\nIndonesia Tahun 2020 Nomor 336); dan\nb. Peraturan Badan Pengawas Obat dan Makanan Nomor 32\nTahun 2020 tentang Perubahan atas Peraturan Badan\nPengawas Obat dan Makanan Nomor 8 Tahun 2020\ntentang Pengawasan Obat dan Makanan yang Diedarkan\nsecara Daring (Berita Negara Republik Indonesia Tahun\n2020 Nomor 1664),\ndicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "PP-2019-71",
+  "PERPRES-2017-80"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/356632/Peraturan_BPOM_14_Tahun_2024.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:28:26Z"
+}

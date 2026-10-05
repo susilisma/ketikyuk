@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKOMINFO-2026-5",
+ "source": "bpk",
+ "bpk_id": 344574,
+ "url": "https://peraturan.bpk.go.id/Details/344574/permenkomdigi-no-5-tahun-2026",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Digital",
+ "number": "5",
+ "number_raw": "5",
+ "year": 2026,
+ "title": "Peraturan Menteri Komunikasi dan Digital Nomor 5 Tahun 2026 tentang Organisasi dan Tata Kerja Sekretariat Komisi Penyiaran Indonesia Pusat",
+ "about": "Organisasi dan Tata Kerja Sekretariat Komisi Penyiaran Indonesia Pusat",
+ "issuer": "Kementerian Komunikasi dan Digital",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-01-13",
+ "date_promulgated": "2026-01-19",
+ "date_effective": "2026-01-19",
+ "gazette": "BN 2026 (31); 11 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 228293,
+   "label": "Permenkominfo No. 7 Tahun 2022",
+   "about": "Organisasi dan Tata Kerja Sekretariat Komisi Penyiaran Indonesia Pusat"
+  }
+ ],
+ "abstract": "bahwa Peraturan Menteri Komunikasi dan Informatika\nNomor 7 Tahun 2022 tentang Organisasi dan Tata Kerja\nSekretariat Komisi Penyiaran Indonesia Pusat sudah\ntidak sesuai dengan perkembangan hukum dan\nkebutuhan organisasi, sehingga perlu diganti\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD NRI Tahun 1945; UU Nomor 32 Tahun 2002 sebagaimana telah diubah dengan UU Nomor 6 Tahun 2023; UU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024; Perpres Nomor 174 Tahun 2024; Permen Komdigi Nomor 1 Tahun 2025.\nPeraturan ini mengatur mengenai kedudukan, tugas, dan fungsi Sekretariat KPI Pusat; susunan organisasi yang terdiri atas:\na. Bagian Umum;\nb. Bagian Pengembangan Sistem Siaran;\nc. Bagian Fasilitasi Pengawasan Isi Siaran; dan\nd. jabatan fungsional dan jabatan pelaksana; jabatan fungsional dan jabatan pelaksana; tata kerja; lokasi; jabatan, pengangkatan, dan pemberhentian; penataan organisasi",
+ "note": "Peraturan Menteri Komunikasi dan Digital ini mulai berlaku pada tanggal 19 Januari 2026.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Komunikasi dan Informatika Nomor 7 Tahun 2022 tentang Organisasi dan Tata Kerja Sekretariat Komisi Penyiaran Indonesia Pusat (Berita Negara Republik Indonesia Tahun 2022 Nomor 637), dicabut dan dinyatakan tidak berlaku",
+ "citations": [
+  "PERMENKOMINFO-2022-7",
+  "UU-2002-32",
+  "UU-2023-6",
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2024-174"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/407839/Permenkomdigi-no-5-tahun-2026.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:15:58Z"
+}

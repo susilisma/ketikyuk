@@ -1,0 +1,41 @@
+{
+ "id": "PERMENKUM-2025-51",
+ "source": "bpk",
+ "bpk_id": 350904,
+ "url": "https://peraturan.bpk.go.id/Details/350904/permenkum-no-51-tahun-2025",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "51",
+ "number_raw": "51",
+ "year": 2025,
+ "title": "Peraturan Menteri Hukum Nomor 51 Tahun 2025 tentang Tata Kelola Kebijakan Publik di Bidang Hukum",
+ "about": "Tata Kelola Kebijakan Publik di Bidang Hukum",
+ "issuer": "Kementerian Hukum",
+ "subject": "KEBIJAKAN PEMERINTAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-12-17",
+ "date_promulgated": "2025-12-18",
+ "date_effective": "2025-12-18",
+ "gazette": "BN 2025 (1092): 10 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 195885,
+   "label": "Permenkumham No. 3  Tahun 2022",
+   "about": "Tata Kelola Kebijakan Publik Di Lingkungan Kementerian Hukum Dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 3 Tahun 2022 tentang Tata Kelola Kebijakan Publik di Lingkungan Kementerian Hukum dan Hak Asasi Manusia sudah tidak sesuai dengan kebutuhan hukum dan perkembangan organisasi, sehingga perlu diganti.\nDasar hukum Permenkum ini adalah Pasal 17 ayat (3) UUD 1945; UU No. 39 Tahun 2008; Perpres No. 155 Tahun 2024; dan Permenkum No. 1 Tahun 2024.\nPermenkum ini mengatur mengenai Tata Kelola Kebijakan Publik di Bidang Hukum. Kebijakan Publik adalah keputusan dan tindakan yang dibuat oleh Menteri atau pimpinan tinggi madya pada unit utama di lingkungan Kementerian dalam rangka mengatasi permasalahan tertentu, melakukan kegiatan tertentu, atau mencapai tujuan tertentu yang bersifat strategis dan berdampak luas di bidang hukum. Kebijakan Publik dibentuk untuk: a. menjalankan perintah Peraturan Perundang-undangan yang lebih tinggi; b. melaksanakan tindak lanjut dari putusan Mahkamah Konstitusi dan Mahkamah Agung; c. melaksanakan kewenangan Menteri; dan/atau d. memenuhi kebutuhan organisasi.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 18 Desember 2025.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 3 Tahun 2022 tentang Tata Kelola Kebijakan Publik di Lingkungan Kementerian Hukum dan Hak Asasi Manusia Republik Indonesia (Berita Negara Republik Indonesia Tahun 2022 Nomor 15), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 17 hlm.",
+ "citations": [
+  "PERMENKUMHAM-2022-3",
+  "UU-2008-39",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/414659/Permenkum%20Nomor%2051%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:18:14Z"
+}

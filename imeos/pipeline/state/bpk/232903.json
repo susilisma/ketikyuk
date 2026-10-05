@@ -12,7 +12,7 @@
  "about": "Pengelolaan Penerimaan Negara Bukan Pajak dari Kekayaan Negara Dipisahkan oleh Bendahara Umum Negara",
  "issuer": "Kementerian Keuangan",
  "subject": "PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2022-12-02",
  "date_promulgated": "2022-12-05",
  "date_effective": "2022-12-05",
@@ -40,5 +40,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/279645/179_PMK.02_2022.pdf"
  ],
- "fetched_at": "2026-09-14T06:31:42Z"
+ "fetched_at": "2026-10-05T05:06:05Z"
 }

@@ -1,0 +1,43 @@
+{
+ "id": "PERMENIMIPAS-2026-7",
+ "source": "bpk",
+ "bpk_id": 352495,
+ "url": "https://peraturan.bpk.go.id/Details/352495/permen-imipas-no-7-tahun-2026",
+ "form": "PERMENIMIPAS",
+ "form_long": "Peraturan Menteri Imigrasi dan Pemasyarakatan",
+ "number": "7",
+ "number_raw": "7",
+ "year": 2026,
+ "title": "Peraturan Menteri Imigrasi dan Pemasyarakatan Nomor 7 Tahun 2026 tentang Intelijen Keimigrasian",
+ "about": "Intelijen Keimigrasian",
+ "issuer": "Kementerian Imigrasi dan Pemasyarakatan",
+ "subject": "KEWARGANEGARAAN DAN IMIGRASI",
+ "field": "HUKUM UMUM",
+ "date_enacted": "2026-05-08",
+ "date_promulgated": "2026-05-13",
+ "date_effective": "2026-05-13",
+ "gazette": "BN 2026 (312): 14 hlm.; jdih.kemenimipas.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 203717,
+   "label": "Permenkumham No. 8 Tahun 2022",
+   "about": "Intelijen Keimigrasian"
+  }
+ ],
+ "abstract": "Ketentuan mengenai prosedur teknis pelaksanaan fungsi Intelijen Keimigrasian sebagaimana diatur dalam Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 6 Tahun 2022 tentang Intelijen Keimigrasian sudah tidak sesuai dengan perkembangan kebutuhan organisasi dan dinamika hukum, sehingga perlu diganti.\nDasar hukum Permen Imipas ini adalah Pasal 17 ayat (3) UUD 1945; UU No. 39 Tahun 2008; UU No. 6 Tahun 2011; PP No. 31 tahun 2013; Perpres No. 157 Tahun 2024; Permenkumham No. 19 Tahun 2018; Permen Imipas No. 1 Tahun 2024; dan Permen Imipas No. 2 Tahun 2024.\nPermen Imipas ini mengatur mengenai Intelijen Keimigrasian, yang merupakan kegiatan penyelidikan Keimigrasian dan pengamanan Keimigrasian dalam rangka penyajian informasi melalui analisis guna menetapkan perkiraan keadaan Keimigrasian yang dihadapi atau yang akan dihadapi. Fungsi Intelijen Keimigrasian dilaksanakan melalui kegiatan Intelijen Keimigrasian di seluruh bidang Keimigrasian.",
+ "note": "Peraturan Menteri Imigrasi dan Pemasyarakatan ini mulai berlaku pada tanggal 13 Mei 2026.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan\nMenteri Hukum dan Hak Asasi Manusia Nomor 8 Tahun 2022 tentang Intelijen Keimigrasian (Berita Negara Republik Indonesia Tahun 2022 Nomor 165), dicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "PERMENKUMHAM-2022-6",
+  "UU-2008-39",
+  "UU-2011-6",
+  "PP-2013-31",
+  "PERPRES-2024-157"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/416320/Permen_Nomor7_Tahun2026.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:20:35Z"
+}

@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2025-6",
+ "source": "bpk",
+ "bpk_id": 313255,
+ "url": "https://peraturan.bpk.go.id/Details/313255/pmk-no-6-tahun-2025",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "6",
+ "number_raw": "6",
+ "year": 2025,
+ "title": "Peraturan Menteri Keuangan Nomor 6 Tahun 2025 tentang Organisasi dan Tata Kerja Badan Pengelola Dana Perkebunan",
+ "about": "Organisasi dan Tata Kerja Badan Pengelola Dana Perkebunan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "HUKUM TATA NEGARA",
+ "date_enacted": "2025-01-17",
+ "date_promulgated": "2025-01-17",
+ "date_effective": "2025-01-17",
+ "gazette": "BN 2025 (35); 15 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2015-113",
+   "target_bpk_id": 115570,
+   "label": "PMK No. 113/PMK.01/2015",
+   "about": "Organisasi Dan Tata Kerja Badan Pengelola Dana Perkebunan Kelapa Sawit"
+  }
+ ],
+ "abstract": "a. bahwa untuk mewujudkan organisasi dan tata kerja yang efektif dan efisien guna meningkatkan kinerja pelaksanaan tugas dan fungsi Badan\nPengelola Dana Perkebunan, perlu melakukan penataan organisasi dan tata kerja Badan Pengelola Dana Perkebunan;\nb. bahwa penataan organisasi dan tata kerja Badan\nPengelola Dana Perkebunan telah mendapatkan persetujuan tertulis dari Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b serta untuk melaksanakan ketentuan Pasal 32 Peraturan Presiden Nomor 132 Tahun 2024 tentang Pengelolaan Dana Perkebunan, perlu menetapkan Peraturan Menteri Keuangan tentang Organisasi dan Tata Kerja Badan Pengelola Dana Perkebunan;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 23 Tahun 2005, Peraturan Pemerintah Nomor 24 Tahun 2015, Peraturan Presiden Nomor 132 Tahun 2024, Peraturan Presiden Nomor 158 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 124 Tahun\n2024\nPeraturan ini mengatur tentang ketentuan umum, kedudukan, tugas dan fungsi, susunan organisasi, direktorat keuangan, manajemen risiko dan umum, direktorat perencanaan, penghimpunan dan pengembangan dana, direktorat penyaluran dana sektor hulu, direktorat penyaluran dana sektor hilir, direktorat hukum dan kerja sama, satuan pemeriksaan intern, tata kerja, sumber daya manusia, ketentuan peralihan dan ketentuan penutup.",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 17 Januari 2025.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan Menteri Keuangan Nomor\n113/PMK.01/2015 tentang Organisasi dan Tata Kerja\nBadan Pengelola Dana Perkebunan Kelapa Sawit",
+ "citations": [
+  "PERPRES-2024-132",
+  "UU-2008-39",
+  "PP-2005-23",
+  "PP-2015-24",
+  "PERPRES-2024-158",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/374132/2025pmkeuangan006.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:09:40Z"
+}

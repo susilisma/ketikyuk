@@ -12,7 +12,7 @@
  "about": "Pengadaan Barang/Jasa Pemerintah untuk Percepatan Pembangunan Kesejahteraan di Provinsi Papua dan Provinsi Papua Barat",
  "issuer": "Pemerintah Pusat",
  "subject": "KONSTRUKSI, SIPIL, ARSITEK, BANGUNAN, DAN INFRASTRUKTUR - PROGRAM, RENCANA PEMBANGUNAN DAN RENCANA KERJA",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2019-03-22",
  "date_promulgated": "2019-03-28",
  "date_effective": "2019-03-28",
@@ -40,5 +40,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/96973/Perpres%20Nomor%2017%20Tahun%202019.pdf"
  ],
- "fetched_at": "2026-09-14T05:32:28Z"
+ "fetched_at": "2026-10-05T05:01:22Z"
 }

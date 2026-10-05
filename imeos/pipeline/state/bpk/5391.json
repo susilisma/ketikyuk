@@ -12,7 +12,7 @@
  "about": "Jenis Dan Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Berlaku Di Lingkungan Kementrian Pertahanan",
  "issuer": "Pemerintah Pusat",
  "subject": "PNBP / PENERIMAAN NEGARA BUKAN PAJAK",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2013-08-06",
  "date_promulgated": "2013-08-06",
  "date_effective": "2013-08-06",
@@ -33,5 +33,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/33638/PP%20Nomor%2057%20Tahun%202013.pdf"
  ],
- "fetched_at": "2026-09-14T05:27:59Z"
+ "fetched_at": "2026-10-05T04:56:46Z"
 }

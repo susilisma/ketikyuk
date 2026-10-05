@@ -1,0 +1,50 @@
+{
+ "id": "PERMENKUM-2026-6",
+ "source": "bpk",
+ "bpk_id": 357118,
+ "url": "https://peraturan.bpk.go.id/Details/357118/permenkum-no-6-tahun-2026-permohonan-paten",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "6",
+ "number_raw": "6",
+ "year": 2026,
+ "title": "Peraturan Menteri Hukum Nomor 6 Tahun 2026 tentang Permohonan Paten",
+ "about": "Permohonan Paten",
+ "issuer": "Kementerian Hukum",
+ "subject": "HAK ATAS KEKAYAAN INTELEKTUAL",
+ "field": "HUKUM DAGANG",
+ "date_enacted": "2026-01-13",
+ "date_promulgated": "2026-02-23",
+ "date_effective": "2026-02-23",
+ "gazette": "BN 2026 (123): 50 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 170960,
+   "label": "Permenkumham No. 13 Tahun 2021",
+   "about": "Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 38 Tahun 2018 Tentang Permohonan Paten"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133178,
+   "label": "Permenkumham No. 38 Tahun 2018",
+   "about": "Permohonan Paten"
+  }
+ ],
+ "abstract": "Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 38 Tahun 2018 tentang Permohonan Paten sebagaimana telah diubah dengan Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 13 Tahun 2021 tentang Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 38 Tahun 2018 tentang Permohonan Paten sudah tidak sesuai dengan perkembangan dan kebutuhan hukum, sehingga perlu diganti.\nDasar hukum Peraturan ini adalah Pasal 17 ayat (3) UUD 1945; UU No. 39 Tahun 2008; UU No. 13 Tahun 2016; Perpres No. 155 Tahun 2024; Permenkum No. 1 Tahun 2024; dan Permenkum No. 2 Tahun 2024.\nPeraturan ini mengatur mengenai Permohonan Paten. Paten adalah hak eksklusif yang diberikan oleh negara kepada inventor atas Invensinya di bidang teknologi untuk jangka waktu tertentu melaksanakan sendiri invensi tersebut atau memberikan persetujuan kepada pihak lain untuk melaksanakannya. Paten diberikan berdasarkan Permohonan. Permohonan dimaksud diajukan oleh Pemohon atau Kuasanya kepada Menteri secara tertulis dalam bahasa Indonesia. Permohonan dimaksud dikenai biaya sesuai dengan ketentuan peraturan perundang-undangan di bidang penerimaan negara bukan pajak yang berlaku pada Kementerian Hukum.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 23 Februari 2026.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 38 Tahun 2018 tentang Permohonan Paten (Berita Negara Republik Indonesia Tahun 2018 Nomor 1764) sebagaimana telah diubah dengan Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 13 Tahun 2021 tentang Perubahan atas Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 38 Tahun 2018 tentang Permohonan Paten (Berita Negara Republik Indonesia Tahun 2021 Nomor 106), dicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "PERMENKUMHAM-2018-38",
+  "PERMENKUMHAM-2021-13",
+  "UU-2008-39",
+  "UU-2016-13",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/421139/Permenkum%20No%206%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:17:25Z"
+}

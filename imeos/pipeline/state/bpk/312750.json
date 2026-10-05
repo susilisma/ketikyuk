@@ -17,8 +17,15 @@
  "date_promulgated": "2024-12-30",
  "date_effective": "2024-12-30",
  "gazette": "BN 2024 (1038); 67 hlm",
- "status_bpk": "Berlaku",
+ "status_bpk": "Tidak Berlaku",
  "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENAKER-2026-14",
+   "target_bpk_id": 357430,
+   "label": "Permenaker No. 14 Tahun 2026",
+   "about": "Organisasi dan Tata Kerja Kementerian Ketenagakerjaan"
+  },
   {
    "type": "Mencabut",
    "target": "PERMENAKER-2021-1",
@@ -38,5 +45,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/373545/permenaker-no-20-tahun-2024.pdf"
  ],
- "fetched_at": "2026-09-14T06:41:17Z"
+ "fetched_at": "2026-10-05T05:14:59Z"
 }

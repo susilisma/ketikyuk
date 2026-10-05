@@ -1,0 +1,42 @@
+{
+ "id": "PMK-2024-15",
+ "source": "bpk",
+ "bpk_id": 283869,
+ "url": "https://peraturan.bpk.go.id/Details/283869/pmk-no-15-tahun-2024",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "15",
+ "number_raw": "15",
+ "year": 2024,
+ "title": "Peraturan Menteri Keuangan Nomor 15 Tahun 2024 tentang Petunjuk Teknis Pelaksanaan Tunjangan Hari Raya dan Gaji Ketiga Belas Kepada Aparatur Negara, Pensiunan, Penerima Pensiun, Dan Penerima Tunjangan Tahun 2024 Yang Bersumber dari Anggaran Pendapatan dan Belanja Negara",
+ "about": "Petunjuk Teknis Pelaksanaan Tunjangan Hari Raya dan Gaji Ketiga Belas Kepada Aparatur Negara, Pensiunan, Penerima Pensiun, Dan Penerima Tunjangan Tahun 2024 Yang Bersumber dari Anggaran Pendapatan dan Belanja Negara",
+ "issuer": "Kementerian Keuangan",
+ "subject": "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-03-20",
+ "date_promulgated": "2024-03-21",
+ "date_effective": "2024-03-21",
+ "gazette": "BN 2024 (166) : 22 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-23",
+   "target_bpk_id": 316130,
+   "label": "PMK No. 23 Tahun 2025",
+   "about": "Petunjuk Teknis Pelaksanaan Pemberian Tunjangan Hari Raya dan Gaji Ketiga Belas Kepada Aparatur Negar, Pensiunan, Penerima Pensiun, dan Penerima Tunjangan Tahun 2025 Yang Bersumber Dari Anggaran Pendapatan dan Belanja Negara"
+  }
+ ],
+ "abstract": "bahwa untuk melaksanakan ketentuan Pasal 17 ayat (1) Peraturan Pemerintah Nomor 14 Tahun 2024 tentang Pemberian Tunjangan Hari Raya dan Gaji Ketiga Belas kepada Aparatur Negara, Pendiunan, Penerima Pensiun dan Penerima Tunjangan Tahun 2024, perlu menetapkan Peraturan Menteri Keuangan tentang Petunjuk Teknis Pelaksanaan Pemberian Tunjangan Hari Raya dan Gaji Ketiga Belas kepada Aparatur Negara, Pensiunan, Penerima Pensiunan dan Penerima Tunjangan Tahun 2024 yang bersumber dari Anggaran Pendapatan dan Belanja Negara;\nPasal 17 ayat (3) UUD 1945, UU Nomor 39 Tahun 2008, PP Nomor 14 Tahun 2024, Perpres Nomor 57 Tahun 2020 dan Peraturan Menteri Keuangan Nomor 118/PMK.01/2021\nPeraturan ini mengatur tentang ketentuan umum, pemberian tunjangan hari raya dan gaji ketiga belas, tata cara pembayaran tunjangan hari raya dan gaji ketiga belas, pengendalian internal dan ketentuan penutup",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 21 Maret 2024.",
+ "citations": [
+  "PP-2024-14",
+  "UU-2008-39",
+  "PERPRES-2020-57",
+  "PMK-2021-118"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/342913/permenkeu-no-15-tahun-2024.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:08:45Z"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKES-2022-31",
+ "source": "bpk",
+ "bpk_id": 245551,
+ "url": "https://peraturan.bpk.go.id/Details/245551/permenkes-no-31-tahun-2022",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "31",
+ "number_raw": "31",
+ "year": 2022,
+ "title": "Peraturan Menteri Kesehatan Nomor 31 Tahun 2022 tentang Peraturan Pelaksanaan Peraturan Pemerintah Nomor 93 Tahun 2015 tentang Rumah Sakit Pendidikan",
+ "about": "Peraturan Pelaksanaan Peraturan Pemerintah Nomor 93 Tahun 2015 tentang Rumah Sakit Pendidikan",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - PENDIDIKAN",
+ "field": "Alias",
+ "date_enacted": "2022-10-20",
+ "date_promulgated": "2022-10-26",
+ "date_effective": "2022-10-26",
+ "gazette": "BN.2022/No.1088, peraturan.go.id: 18 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2026-6",
+   "target_bpk_id": 350851,
+   "label": "Permenkes No. 6 Tahun 2026",
+   "about": "Rumah Sakit"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 26 Oktober 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/301571/Permenkes%20Nomor%2031%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:21:52Z"
+}

@@ -1,0 +1,40 @@
+{
+ "id": "PERMENIMIPAS-2025-8",
+ "source": "bpk",
+ "bpk_id": 319987,
+ "url": "https://peraturan.bpk.go.id/Details/319987/permen-imipas-no-8-tahun-2025",
+ "form": "PERMENIMIPAS",
+ "form_long": "Peraturan Menteri Imigrasi dan Pemasyarakatan",
+ "number": "8",
+ "number_raw": "8",
+ "year": 2025,
+ "title": "Peraturan Menteri Imigrasi dan Pemasyarakatan Nomor 8 Tahun 2025 tentang Tata Cara Penyelenggaraan Kerja Sama di Lingkungan Kementerian Imigrasi dan Pemasyarakatan",
+ "about": "Tata Cara Penyelenggaraan Kerja Sama di Lingkungan Kementerian Imigrasi dan Pemasyarakatan",
+ "issuer": "Kementerian Imigrasi dan Pemasyarakatan",
+ "subject": "PROGRAM, RENCANA PEMBANGUNAN DAN RENCANA KERJA - KERJA SAMA PEMERINTAH DENGAN BADAN USAHA / KPBU",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-05-22",
+ "date_promulgated": "2025-05-26",
+ "date_effective": "2025-05-26",
+ "gazette": "BN 2025 (362) : 16 hlm.; peraturan.go.id",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 247342,
+   "label": "Permenkumham No. 14 Tahun 2023",
+   "about": "Penataan Kerja Sama di Lingkungan Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "Untuk mewujudkan tertib administrasi dan keseragaman penyelenggaraan kerja sama di lingkungan Kementerian Imigrasi dan Pemasyarakatan yang dilakukan secara terintegrasi, terkoordinasi, dan berkesinambungan, diperlukan pedoman dalam penyelenggaraan kerja sama di lingkungan Kementerian Imigrasi dan Pemasyarakatan.\nDasar hukum Permen Imipas ini adalah Pasal 17 ayat (3) UUD NRI Tahun 1945, UU No. 39 Tahun 2008, Perpres No. 157 Tahun 2024, Permenimipas No. 1 Tahun 2024, Permenimipas No. 2 Tahun 2024, dan Permenimipas No. 4 Tahun 2024.\nDalam Permen Imipas ini mengatur tentang tata cara kerja sama atau kegiatan yang dilakukan oleh Kementerian Imigrasi dan Pemasyarakatan dengan satu atau lebih mitra kerja sama berdasarkan kesepakatan bersama untuk saling memberi manfaat dalam mendukung pelaksanaan tugas dan fungsi Kementerian Imigrasi dan Pemasyarakatan dengan berkoordinasi dengan Kepala Biro Hukum dan Kerja Sama Kepala Biro Hukum dan Kerja Sama yang mempunyai tugas melaksanakan koordinasi dan fasilitasi penyelenggaraan di bidang hukum dan kerja sama di lingkungan Kementerian. Kerja sama tersebut terbagi menjadi dua jenis yaitu, Kerja sama dalam negeri dan kerja sama luar negeri.",
+ "note": "Peraturan Menteri Imigrasi dan Pemasyarakatan ini mulai berlaku pada tanggal 26 Mei 2025.\nPada saat Peraturan Menteri ini mulai berlaku, ketentuan\nmengenai Kerja Sama di bidang imigrasi dan pemasyarakatan\nsebagaimana diatur dalam Peraturan Menteri Hukum dan Hak\nAsasi Manusia Nomor 14 Tahun 2023 tentang Penataan Kerja\nSama di Lingkungan Kementerian Hukum dan Hak Asasi Manusia (Berita Negara Republik Indonesia Tahun 2023 Nomor 253), dinyatakan tidak berlaku.\nLampiran file: 16 hlm (batang tubuh hlm 1 sd 15 dan lampiran hlm 16)",
+ "citations": [
+  "UU-2008-39",
+  "PERPRES-2024-157"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/382164/Permen%20Imipas%208%20Tahun%202025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:21:00Z"
+}

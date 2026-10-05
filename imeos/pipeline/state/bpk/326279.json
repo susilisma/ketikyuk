@@ -1,0 +1,57 @@
+{
+ "id": "PERBPOM-2025-21",
+ "source": "bpk",
+ "bpk_id": 326279,
+ "url": "https://peraturan.bpk.go.id/Details/326279/peraturan-bpom-no-21-tahun-2025",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "21",
+ "number_raw": "21",
+ "year": 2025,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 21 Tahun 2025 tentang Pencabutan",
+ "about": "Pencabutan",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "Jenis",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-06-26",
+ "date_promulgated": "2025-07-03",
+ "date_effective": "2025-07-03",
+ "gazette": "BN 2025 (473); 4 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 303188,
+   "label": "Peraturan BPOM No. 13 Tahun 2024",
+   "about": "Perubahan Kedua atas Peraturan Badan Pengawas Obat\r\ndan Makanan Nomor 29 Tahun 2022 tentang Jabatan dan\r\nKelas Jabatan di Lingkungan Badan Pengawas Obat dan\r\nMakanan"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 263028,
+   "label": "Peraturan BPOM No. 5 Tahun 2023",
+   "about": "Perubahan Atas Peraturan Badan Pengawas Obat dan Makanan Nomor 29 Tahun 2022 tentang Jabatan dan Kelas Jabatan di Lingkungan Badan Pengawas Obat dan Makanan"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 303198,
+   "label": "Peraturan BPOM No. 29 Tahun 2022",
+   "about": "Jabatan dan Kelas\r\nJabatan di Lingkungan Badan Pengawas Obat dan\r\nMakanan"
+  }
+ ],
+ "abstract": "bahwa jabatan dan kelas jabatan di lingkungan Badan\nPengawas Obat dan Makanan sebagaimana telah\nditetapkan dalam\nPeraturan Badan Pengawas Obat dan\nMakanan Nomor 29 Tahun 2022 tentang Jabatan dan\nKelas Jabatan di Lingkungan Badan Pengawas Obat\ndan Makanan\nsebagaimana telah beberapa kali diubah\nterakhir dengan\nPeraturan Badan Pengawas Obat dan\nMakanan Nomor 13 Tahun 2024 tentang Perubahan\nKedua atas Peraturan Badan Pengawas Obat dan\nMakanan Nomor 29 Tahun 2022 tentang Jabatan dan\nKelas Jabatan di Lingkungan Badan Pengawas Obat\ndan Makanan sudah tidak sesuai dengan kebutuhan\norganisasi, sehingga perlu diganti\nDasar hukum peraturan ini adalah Perpres Nomor 80 Tahun 2017; Perpres Nomor 138 Tahun 2018; Peraturan BPOM Nomor 21 Tahun 2020 sebagaimana telah diubah dengan Peraturan BPOM Nomor 13 Tahun 2022; Peraturan BPOM Nomor 23 Tahun 2020; Peraturan BPOM Nomor 19 Tahun 2023 sebagaimana telah diubah dengan Peraturan BPOM Nomor 3 TAhun 2025; PEraturan BPOM Noor 13 TAhun 2025\nPeraturan ini mencabut Peraturan Badan ini mulai berlaku, Peraturan\nBadan Pengawas Obat dan Makanan Nomor 29 Tahun 2022\ntentang Jabatan dan Kelas Jabatan di Lingkungan Badan\nPengawas Obat dan Makanan (Berita Negara Republik\nIndonesia Tahun 2022 Nomor 1179) sebagaimana telah\nbeberapa kali diubah dengan:\na.\nPeraturan Badan Pengawas Obat dan Makanan Nomor\n5 Tahun 2023 tentang Perubahan atas Peraturan\nBadan Pengawas Obat dan Makanan Nomor 29 Tahun\n2022 tentang Jabatan dan Kelas Jabatan di Lingkungan\nBadan Pengawas Obat dan Makanan (Berita Negara\nRepublik Indonesia Tahun 2023 Nomor 205); dan\nb.\nPeraturan Badan Pengawas Obat dan Makanan Nomor\n13 Tahun 2024 tentang Perubahan Kedua atas\nPeraturan Badan Pengawas Obat dan Makanan Nomor\n29 Tahun 2022 tentang Jabatan dan Kelas Jabatan di\nLingkungan Badan Pengawas Obat dan Makanan\n(Berita Negara Republik Indonesia Tahun 2024 Nomor\n409)",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 03 Juli 2025.",
+ "citations": [
+  "PERPRES-2017-80",
+  "PERPRES-2018-138",
+  "PERBPOM-2023-5",
+  "PERBPOM-2024-13",
+  "PERBPOM-2022-29"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/388088/peraturan-bpom-no-21-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:28:44Z"
+}

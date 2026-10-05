@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2019-7",
+ "source": "bpk",
+ "bpk_id": 127994,
+ "url": "https://peraturan.bpk.go.id/Details/127994/pmk-no-7pmk052019",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "7",
+ "number_raw": "7/PMK.05/2019",
+ "year": 2019,
+ "title": "Peraturan Menteri Keuangan Nomor 7/PMK.05/2019 Tahun 2019 tentang Tarif Layanan Badan Layanan Umum Politeknik Penerbangan Surabaya Pada Kementerian Perhubungan",
+ "about": "Tarif Layanan Badan Layanan Umum Politeknik Penerbangan Surabaya Pada Kementerian Perhubungan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BADAN LAYANAN UMUM",
+ "field": "Alias",
+ "date_enacted": "2019-01-30",
+ "date_promulgated": "2019-01-31",
+ "date_effective": "2019-02-15",
+ "gazette": "LN. 71/2019, JDIH.KEMENKEU.GO.ID : 23 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2025-22",
+   "target_bpk_id": 316120,
+   "label": "PMK No. 22 Tahun 2025",
+   "about": "Tarif Layanan Badan Layanan Umum Bidang Pendidikan dan Pelatihan Sumber Daya Manusia Perhubungan Pada Kementerian Perhubungan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2014-210",
+   "target_bpk_id": 149511,
+   "label": "PMK No. 210/PMK.05/2014",
+   "about": "Tarif Layanan Badan Layanan Umum Akademi Teknik dan Keselamatan Penerbangan Surabaya pada Kementerian Perhubungan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 15 Februari 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/118991/7~PMK.05~2019Per.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:08:59Z"
+}

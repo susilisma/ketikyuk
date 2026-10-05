@@ -1,0 +1,45 @@
+{
+ "id": "PERMENKOMINFO-2025-14",
+ "source": "bpk",
+ "bpk_id": 321103,
+ "url": "https://peraturan.bpk.go.id/Details/321103/permenkomdigi-no-14-tahun-2025",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Digital",
+ "number": "14",
+ "number_raw": "14",
+ "year": 2025,
+ "title": "Peraturan Menteri Komunikasi dan Digital Nomor 14 Tahun 2025 tentang Telekomunikasi Khusus untuk Keperluan Sendiri",
+ "about": "Telekomunikasi Khusus untuk Keperluan Sendiri",
+ "issuer": "Kementerian Komunikasi dan Digital",
+ "subject": "TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2025-05-23",
+ "date_promulgated": "2025-06-04",
+ "date_effective": "2025-06-04",
+ "gazette": "BN 2025 (390); 19 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 149726,
+   "label": "Permenkominfo No. 12 Tahun 2018",
+   "about": "Penyelenggaraan Telekomunikasi Khusus Untuk Keperluan Instansi Pemerintah atau Badan Hukum"
+  }
+ ],
+ "abstract": "bahwa ketentuan penyelenggaraan telekomunikasi\nkhusus yang diatur dalam Peraturan Menteri Komunikasi\ndan Informatika Nomor 12 Tahun 2018 tentang\nPenyelenggaraan Telekomunikasi Khusus untuk\nkeperluan Instansi Pemerintah atau Badan Hukum sudah\ntidak sesuai dengan perkembangan penyelenggaraan\ntelekomunikasi khusus, sehingga perlu diganti\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD 1945; UU Nomor 36 Tahun 1999 sebagaimana telah diubah dengan UU Nomor 6 Tahun 2023; UU Nomor 39 Tahun 2008 sebagaimana telah diubah dengan UU Nomor 61 Tahun 2024; PP Nomor 52 Tahun 2000; PP Nomor 46 Tahun 2021; Perpres Nomor 174 Tahun 2024; Permenkomdigi Nomor 1 Tahun 2025\nPeraturan ini mengatur mengenai Penyelenggaraan Telekomunikasi Khusus untuk Keperluan Perseorangan,Penyelenggaraan Telekomunikasi Khusus untuk Keperluan Instansi Pemerintah, Penyelenggaraan Telekomunikasi Khusus untuk Keperluan Dinas Khusus, Penyelenggaraan Telekomunikasi Khusus untuk Keperluan Badan Hukum, media transmisi penyelenggaraan telekomunikasi khusus untuk keperluan sendiri, izin\nPenyelenggaraan Telekomunikasi Khusus untuk keperluan sendiri, Izin Penyelenggaraan Telekomunikasi Khusus\nuntuk Keperluan Perseorangan, Izin Penyelenggaraan Telekomunikasi Khusus\nuntuk Keperluan Instansi Pemerintah, Izin Penyelenggaraan Telekomunikasi Khusus\nuntuk Keperluan Dinas Khusus, Izin Penyelenggaraan Telekomunikasi Khusus untuk Keperluan Badan Hukum; Perubahan, Pengembalian, dan pencabutan Izin; kewajiban dan larangan penyelenggaraan elekomunikasi Khusus\nuntuk Keperluan sendiri",
+ "note": "Peraturan Menteri Komunikasi dan Digital ini mulai berlaku pada tanggal 04 Juni 2025.",
+ "citations": [
+  "UU-1999-36",
+  "UU-2023-6",
+  "UU-2008-39",
+  "UU-2024-61",
+  "PP-2000-52",
+  "PP-2021-46",
+  "PERPRES-2024-174"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/382844/permenkomdigi-no-14-tahun-2025.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:16:28Z"
+}

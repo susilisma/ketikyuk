@@ -1,0 +1,47 @@
+{
+ "id": "PERBPOM-2024-9",
+ "source": "bpk",
+ "bpk_id": 291497,
+ "url": "https://peraturan.bpk.go.id/Details/291497/peraturan-bpom-no-9-tahun-2024",
+ "form": "PERBPOM",
+ "form_long": "Peraturan Badan Pengawas Obat dan Makanan",
+ "number": "9",
+ "number_raw": "9",
+ "year": 2024,
+ "title": "Peraturan Badan Pengawas Obat dan Makanan Nomor 9 Tahun 2024 tentang Pedoman Tindak Lanjut Hasil",
+ "about": "Pedoman Tindak Lanjut Hasil",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "STANDAR / PEDOMAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-05-27",
+ "date_promulgated": "2024-06-07",
+ "date_effective": "2024-06-07",
+ "gazette": "BN 2024 (308); 43 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 326087,
+   "label": "Peraturan BPOM No. 19 Tahun 2025",
+   "about": "Perubahan atas Peraturan Badan Pengawas Obat dan\r\nMakanan Nomor 9 Tahun 2024 tentang Pedoman Tindak\r\nLanjut Hasil Pengawasan Obat, Bahan Obat, Narkotika,\r\nPsikotropika, Prekursor, dan Zat Adiktif"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 181783,
+   "label": "Peraturan BPOM No. 19 Tahun 2020",
+   "about": "Pedoman Tindak Lanjut Pengawasan Obat dan Bahan Obat"
+  }
+ ],
+ "abstract": "bahwa pengawasan secara komprehensif terhadap obat,\nbahan obat, narkotika, psikotropika, dan prekursor\ndilaksanakan untuk mencegah terjadinya penyimpangan\npada saat pemasukan, pembuatan, dan peredaran\nsehingga dapat dipastikan telah memenuhi standar\ndan/atau persyaratan keamanan, khasiat, dan mutu\nPP Nomor 5 Tahun 2021; Perpres Nomor 80 Tahun 2017; Peraturan BPOM Nomor 21 Tahun 2020 sebagaimana telah diubah dengan Peraturan BPOM Nomor 13 Tahun 2022; Peraturan BPOM Nomor 19 Tahun 2023\nPeraturan ini mengatur Pedoman tindak lanjut pengawasan Obat, Bahan Obat\nNarkotika, Psikotropika, Prekursor, dan Zat Adiktif wajib\nmenjadi acuan bagi Petugas dalam melaksanakan tugas\npengawasan.",
+ "note": "Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 07 Juni 2024.\nPada saat Peraturan Badan ini mulai berlaku, Peraturan Badan\nPengawas Obat dan Makanan Nomor 19 Tahun 2020 tentang\nPedoman Tindak Lanjut Pengawasan Obat dan Bahan Obat\n(Berita Negara Republik Indonesia Tahun 2020 Nomor 813),\ndicabut dan dinyatakan tidak berlaku.",
+ "citations": [
+  "PP-2021-5",
+  "PERPRES-2017-80"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/350789/peraturan-bpom-no-9-tahun-2024.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:28:53Z"
+}

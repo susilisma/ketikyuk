@@ -1,0 +1,42 @@
+{
+ "id": "PERMENKOMINFO-2026-10",
+ "source": "bpk",
+ "bpk_id": 353714,
+ "url": "https://peraturan.bpk.go.id/Details/353714/permenkomdigi-no-10-tahun-2026",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Digital",
+ "number": "10",
+ "number_raw": "10",
+ "year": 2026,
+ "title": "Peraturan Menteri Komunikasi dan Digital Nomor 10 Tahun 2026 tentang Kriteria Klasifikasi Unit Pelaksana Teknis Bidang Monitor Spektrum Frekuensi Radio dan Infrastruktur Digital",
+ "about": "Kriteria Klasifikasi Unit Pelaksana Teknis Bidang Monitor Spektrum Frekuensi Radio dan Infrastruktur Digital",
+ "issuer": "Kementerian Komunikasi dan Digital",
+ "subject": "TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-07-30",
+ "date_promulgated": "2026-08-06",
+ "date_effective": "2026-08-06",
+ "gazette": "BN 2026 (549); 15 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 150369,
+   "label": "Permenkominfo No. 16 Tahun 2017",
+   "about": "Kriteria Klasifikasi Unit Peleksana Teknis Bidang Monitor Spektrum Frekuensi Radio"
+  }
+ ],
+ "abstract": "bahwa Peraturan Menteri Komunikasi dan Informatika\nNomor 16 Tahun 2017 tentang Kriteria Klasifikasi Unit\nPelaksana Teknis Bidang Monitor Spektrum Frekuensi\nRadio sudah tidak sesuai dengan tugas dan fungsi,\nserta perkembangan hukum dan kebutuhan organisasi,\nsehingga perlu diganti\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD NRI Tahun 1945; UU No. 39 Tahun 2008 sebagaimana telah diubah dengan UU No. 61 Tahun 2024; Perpres No. 174 Tahun 2024; PermenPANRB No. 2 Tahun 2023; Permenkomdigi No. 1 Tahun 2025.\nPeraturan ini mengatur mengenai variabel kriteria klasifikasi UPT Bidang Monitor Spektrum Frekuensi\nRadio dan Infrastruktur Digital; penilaian kriteria klasifikasi; penetapan klasifikasi",
+ "note": "Peraturan Menteri Komunikasi dan Digital ini mulai berlaku pada tanggal 06 Agustus 2026.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan\nMenteri Komunikasi dan Informatika Nomor 16 Tahun 2017\ntentang Kriteria Klasifikasi Unit Pelaksana Teknis Bidang\nMonitor Spektrum Frekuensi Radio (Berita Negara Republik\nIndonesia Tahun 2017 Nomor 1274), dicabut dan\ndinyatakan tidak berlaku.",
+ "citations": [
+  "PERMENKOMINFO-2017-16",
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2024-174"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/417617/permenkomdigi-no-10-tahun-2026.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:15:45Z"
+}

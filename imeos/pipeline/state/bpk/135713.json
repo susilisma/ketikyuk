@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKUMHAM-2019-14",
+ "source": "bpk",
+ "bpk_id": 135713,
+ "url": "https://peraturan.bpk.go.id/Details/135713/permenkumham-no-14-tahun-2019",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "14",
+ "number_raw": "14",
+ "year": 2019,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 14 Tahun 2019 tentang Pengesahan Koperasi",
+ "about": "Pengesahan Koperasi",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN - PERIZINAN, PELAYANAN PUBLIK - PEREKONOMIAN",
+ "field": "Alias",
+ "date_enacted": "2019-06-21",
+ "date_promulgated": "2019-06-28",
+ "date_effective": "2019-12-28",
+ "gazette": "BN.2019/NO.715,PERATURAN.GO.ID : 17 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 317736,
+   "label": "Permenkum No. 13 Tahun 2025",
+   "about": "Pengesahan Koperasi"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 28 Desember 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/126574/Permenkumham%20Nomor%2014%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:19:50Z"
+}

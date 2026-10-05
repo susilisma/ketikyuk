@@ -1,0 +1,65 @@
+{
+ "id": "PERMENKES-2022-37",
+ "source": "bpk",
+ "bpk_id": 245557,
+ "url": "https://peraturan.bpk.go.id/Details/245557/permenkes-no-37-tahun-2022",
+ "form": "PERMENKES",
+ "form_long": "Peraturan Menteri Kesehatan",
+ "number": "37",
+ "number_raw": "37",
+ "year": 2022,
+ "title": "Peraturan Menteri Kesehatan Nomor 37 Tahun 2022 tentang Bantuan Biaya Pendidikan Kedokteran dan Fellowship",
+ "about": "Bantuan Biaya Pendidikan Kedokteran dan Fellowship",
+ "issuer": "Kementerian Kesehatan",
+ "subject": "KESEHATAN - PENDIDIKAN - BANTUAN, SUMBANGAN, BENCANA / KEBENCANAAN, DAN PENANGGULANGAN BENCANA - JABATAN / PROFESI / KEAHLIAN / SERTIFIKASI",
+ "field": "Alias",
+ "date_enacted": "2022-12-12",
+ "date_promulgated": "2022-12-12",
+ "date_effective": "2022-12-12",
+ "gazette": "BN.2022/No.1246, peraturan.go.id: 25 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENKES-2025-13",
+   "target_bpk_id": 335214,
+   "label": "Permenkes No. 13 Tahun 2025",
+   "about": "Pengelolaan Sumber Daya Manusia Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2018-35",
+   "target_bpk_id": 111953,
+   "label": "Permenkes No. 35 Tahun 2018",
+   "about": "Program Bantuan Biaya Fellowship Bagi Dokter Spesialis"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2018-14",
+   "target_bpk_id": 139652,
+   "label": "Permenkes No. 14 Tahun 2018",
+   "about": "Program Bantuan Pendidikan Dokter Spesialis-Subspesialis dan Dokter Gigi Spesialis-Subspesialis"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENKES-2018-11",
+   "target_bpk_id": 139649,
+   "label": "Permenkes No. 11 Tahun 2018",
+   "about": "Bantuan Biaya Pendidikan Program Dokter Layanan Primer"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "PERMENKES-2018-13",
+   "target_bpk_id": 111830,
+   "label": "Permenkes No. 13 Tahun 2018",
+   "about": "Penyelenggaraan Pemberian Beasiswa Bagi Tenaga Kesehatan Pasca Penugasan Khusus Tenaga Kesehatan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Kesehatan ini mulai berlaku pada tanggal 12 Desember 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/301577/Permenkes%20Nomor%2037%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-10-05T05:23:39Z"
+}

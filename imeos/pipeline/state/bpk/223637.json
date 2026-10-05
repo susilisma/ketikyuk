@@ -1,0 +1,44 @@
+{
+ "id": "PERMENDAG-2022-29",
+ "source": "bpk",
+ "bpk_id": 223637,
+ "url": "https://peraturan.bpk.go.id/Details/223637/permendag-no-29-tahun-2022",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "29",
+ "number_raw": "29",
+ "year": 2022,
+ "title": "Peraturan Menteri Perdagangan Nomor 29 Tahun 2022 tentang Organisasi dan Tata Kerja Kementerian Perdagangan",
+ "about": "Organisasi dan Tata Kerja Kementerian Perdagangan",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "Alias",
+ "date_enacted": "2022-05-18",
+ "date_promulgated": "2022-05-19",
+ "date_effective": "2022-05-19",
+ "gazette": "BN.2022/No.492, http://jdih.kemendag.go.id/: 125 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2025-6",
+   "target_bpk_id": 320828,
+   "label": "Permendag No. 6 Tahun 2025",
+   "about": "Organisasi dan Tata Kerja Kementerian Perdagangan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2020-80",
+   "target_bpk_id": 160355,
+   "label": "Permendag No. 80 Tahun 2020",
+   "about": "Organisasi dan Tata Kerja Kementerian Perdagangan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 19 Mei 2022.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/218205/PERMENDAG%20NOMOR%2029%20TAHUN%202022.PDF"
+ ],
+ "fetched_at": "2026-10-05T05:12:05Z"
+}
