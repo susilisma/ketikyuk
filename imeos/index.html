@@ -5,14 +5,17 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Indonesia Market Entry OS</title>
 <meta name="description" content="Indonesia Market Entry OS — market access, PMA set-up, BPOM/SNI/halal, import licensing, tax, employment, KITAS, timeline, budget, and a regulatory intelligence library with law diffs. 中文 · English · Bahasa Indonesia.">
-<link rel="stylesheet" href="/imeos/assets/os.css">
+<link rel="stylesheet" href="/imeos/assets/os.css?v=20261005">
 <style>
 .tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px}
 .tile{display:block;background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:20px;box-shadow:var(--shadow);color:inherit;transition:.15s transform}
 .tile:hover{transform:translateY(-2px);text-decoration:none}
 .tile h3{margin:6px 0 6px}.tile p{font-size:13.5px;color:var(--ink2);margin:0 0 8px}
 .tile .k{font-size:11px;letter-spacing:.12em;color:var(--red);font-weight:700}
-.alert{display:grid;grid-template-columns:96px 1fr auto;gap:12px;padding:10px 0;border-bottom:1px solid var(--line2);align-items:start;font-size:13.5px}
+.tile.wide{grid-column:1/-1}
+.alert{display:grid;grid-template-columns:92px 150px 1fr auto;gap:12px;padding:9px 0;border-bottom:1px solid var(--line2);align-items:center;font-size:13.5px}
+.alert .t{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:var(--ink2)}
+@media(max-width:640px){.alert{grid-template-columns:1fr auto}.alert .d{display:none}.alert .t{grid-column:1/-1;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}}
 .alert:last-child{border-bottom:0}
 .flow{display:flex;flex-wrap:wrap;gap:6px;align-items:center;font-size:12.5px;color:var(--ink2)}
 .flow span{background:#fff;border:1px solid var(--line);border-radius:6px;padding:3px 8px}
@@ -33,7 +36,7 @@
     <a class="tile" href="/imeos/regintel/"><div class="k" data-t="t3.k"></div><h3>Indonesia Regulatory Intelligence</h3><p data-t="t3.p"></p><span class="chip dark" id="regcount">…</span></a>
     <a class="tile" href="/imeos/hs/"><div class="k" data-t="t4.k"></div><h3 data-t="t4.h"></h3><p data-t="t4.p"></p><span class="chip dark" data-t="t4.c"></span></a>
     <a class="tile" href="/imeos/tools/"><div class="k" data-t="t5.k"></div><h3 data-t="t5.h"></h3><p data-t="t5.p"></p><span class="chip dark" data-t="t5.c"></span></a>
-    <a class="tile" href="/imeos/regintel/?tab=alerts"><div class="k" data-t="t6.k"></div><h3 data-t="t6.h"></h3><div id="alerts" class="mute">…</div></a>
+    <a class="tile wide" href="/imeos/regintel/?tab=alerts"><div class="k" data-t="t6.k"></div><h3 data-t="t6.h"></h3><div id="alerts" class="mute">…</div></a>
   </div>
   <div class="card" style="margin-top:24px">
     <h2 data-t="how.h"></h2>
@@ -41,7 +44,7 @@
   </div>
   <p class="disclaimer" data-t="h.disc"></p>
 </main>
-<script src="/imeos/assets/i18n.js"></script>
+<script src="/imeos/assets/i18n.js?v=20261005"></script>
 <script>
 addI18N({
   "h.eyebrow": ["Indonesia Market Entry OS · 中国企业印尼落地操作系统", "Indonesia Market Entry OS · for companies entering Indonesia", "Indonesia Market Entry OS · sistem masuk pasar Indonesia"],
@@ -60,11 +63,11 @@ addI18N({
   "k.new": ["新增", "New", "Baru"], "k.amendment": ["修订", "Amended", "Perubahan"], "k.revocation": ["废止", "Revoked", "Pencabutan"],
 });
 </script>
-<script src="/imeos/assets/common.js"></script>
+<script src="/imeos/assets/common.js?v=20261005"></script>
 <script>
 const f = L(I18N.flow); $("#flow").innerHTML = f.slice(0, 5).map((x) => `<span>${x}</span>`).join("<i>→</i>") + "<i>⇒</i>" + f.slice(5).map((x) => `<span>${x}</span>`).join("");
 fetch("/imeos/data/regintel/meta.json").then((r) => r.json()).then((m) => { $("#regcount").textContent = T("regs", { n: m.total, d: m.diffs }); }).catch(() => { $("#regcount").textContent = T("open"); });
-fetch("/imeos/data/regintel/alerts.json").then((r) => r.json()).then((a) => { $("#alerts").innerHTML = a.slice(0, 5).map((x) => `<div class="alert"><span class="mono mute">${x.date}</span><span><b>${esc(x.id)}</b> ${esc(x.title.replace(/^.*?tentang /i, ""))}</span><span class="chip ${x.status === "revoked" ? "bad" : x.kind === "amendment" ? "warn" : "info"}">${T("k." + x.kind)}</span></div>`).join("") || `<span class="mute">${T("none")}</span>`; }).catch(() => { $("#alerts").textContent = T("nodata"); });
+fetch("/imeos/data/regintel/alerts.json").then((r) => r.json()).then((a) => { $("#alerts").innerHTML = a.slice(0, 6).map((x) => `<div class="alert"><span class="mono mute d">${x.date}</span><b class="mono">${esc(x.id)}</b><span class="t">${esc(x.title.replace(/^.*?tentang /i, ""))}</span><span class="chip ${x.status === "revoked" ? "bad" : x.kind === "amendment" ? "warn" : "info"}">${T("k." + x.kind)}</span></div>`).join("") || `<span class="mute">${T("none")}</span>`; }).catch(() => { $("#alerts").textContent = T("nodata"); });
 </script>
 </body>
 </html>

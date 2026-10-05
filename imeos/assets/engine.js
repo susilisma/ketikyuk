@@ -10,10 +10,10 @@ addI18N({
   "e.site": ["场地、土地与环境", "Site, land & environment", "Lokasi, tanah & lingkungan"],
   "e.foreignAccess": ["外资准入：{s}", "Foreign access: {s}", "Akses asing: {s}"],
   "e.kbliSuggest": ["建议 KBLI：", "Suggested KBLI: ", "KBLI yang disarankan: "],
-  "e.kbliRisk": ["KBLI 风险等级以 OSS 系统实时判定为准", "KBLI risk levels are determined live by OSS", "Tingkat risiko KBLI ditentukan OSS secara langsung"],
+  "e.kbliRisk": ["OSS 已改用 KBLI 2025（Perka BPS 7/2025），旧码需转换；风险等级以 OSS 实时判定为准", "OSS now uses KBLI 2025 (BPS Reg 7/2025) — old codes need converting; risk levels are set live by OSS", "OSS kini memakai KBLI 2025 (Perka BPS 7/2025) — kode lama perlu dikonversi; tingkat risiko ditentukan OSS secara langsung"],
   "e.threshOk": ["投资额门槛：满足", "Investment threshold: met", "Ambang investasi: terpenuhi"],
   "e.threshNo": ["投资额门槛：未满足", "Investment threshold: not met", "Ambang investasi: belum terpenuhi"],
-  "e.threshBody": ["计划投资 Rp{n} 亿；要求每个 5 位 KBLI、每个地点 > Rp100 亿（不含土地建筑），实缴资本 ≥ Rp100 亿。", "Planned investment Rp{n}bn; required > Rp10bn per 5-digit KBLI per location (excl. land & buildings), paid-up capital ≥ Rp10bn.", "Rencana investasi Rp{n} miliar; wajib > Rp10 miliar per KBLI 5 digit per lokasi (di luar tanah & bangunan), modal disetor ≥ Rp10 miliar."],
+  "e.threshBody": ["计划投资 Rp{z} 亿；要求每个 5 位 KBLI、每个地点 > Rp100 亿（不含土地建筑），实缴资本 ≥ Rp25 亿（BKPM 5/2025）。", "Planned investment Rp{n}bn; required > Rp10bn per 5-digit KBLI per location (excl. land & buildings), paid-up capital ≥ Rp2.5bn (BKPM 5/2025).", "Rencana investasi Rp{n} miliar; wajib > Rp10 miliar per KBLI 5 digit per lokasi (di luar tanah & bangunan), modal disetor ≥ Rp2,5 miliar (BKPM 5/2025)."],
   "e.threshFix": ["选项：减少 KBLI 数量、集中在一个地点、先以代表处或分销商模式启动，或提高投资计划（投资额为承诺，按 LKPM 逐步落实）。", "Options: fewer KBLIs, one location, start with a rep office or distributor, or raise the plan (the figure is a commitment realised via LKPM).", "Opsi: kurangi KBLI, satu lokasi, mulai dengan kantor perwakilan/distributor, atau naikkan rencana (angka adalah komitmen yang direalisasikan lewat LKPM)."],
   "e.mode": ["进入模式：{m}", "Entry mode: {m}", "Mode masuk: {m}"],
   "e.pros": ["优势：", "Advantages: ", "Keunggulan: "], "e.cons": ["限制：", "Limits: ", "Keterbatasan: "],
@@ -21,7 +21,7 @@ addI18N({
   "e.retailBody": ["线下零售（KBLI 47xxx）多数保留给本地企业；外资仅可经营大型业态（超市 ≥1,200 m²、百货 ≥400 m²）。建议 PMA 持批发 KBLI，通过本地零售商/特许经营/平台完成零售。", "Offline retail (KBLI 47xxx) is mostly reserved for locals; foreigners may only run large formats (supermarkets ≥1,200 m², department stores ≥400 m²). Hold wholesale KBLIs in the PMA and retail through local retailers, franchising or marketplaces.", "Ritel luring (KBLI 47xxx) sebagian besar untuk lokal; asing hanya format besar (supermarket ≥1.200 m², department store ≥400 m²). PMA memegang KBLI perdagangan besar dan ritel lewat peritel lokal, waralaba, atau marketplace."],
   "e.ecom": ["电商与平台", "E-commerce & platforms", "E-commerce & platform"],
   "e.ecomBody1": ["电商 PMA（KBLI 47919x/63122）需投资 > Rp1,000 亿；否则以批发 PMA 身份作为平台商家入驻。", "An e-commerce PMA (KBLI 47919x/63122) needs > Rp100bn; otherwise sell on marketplaces as a wholesale PMA.", "PMA e-commerce (KBLI 47919x/63122) perlu > Rp100 miliar; jika tidak, berjualan di marketplace sebagai PMA perdagangan besar."],
-  "e.ecomBody2": ["面向印尼用户的网站/APP 须 PSE 注册；社交媒体不得直接完成交易（Permendag 31/2023）。", "Sites/apps for Indonesian users need PSE registration; no direct transactions on social media (Permendag 31/2023).", "Situs/aplikasi untuk pengguna Indonesia wajib PSE; tidak boleh transaksi langsung di media sosial (Permendag 31/2023)."],
+  "e.ecomBody2": ["面向印尼用户的网站/APP 须 PSE 注册；社交媒体不得直接完成交易（Permendag 19/2026）。", "Sites/apps for Indonesian users need PSE registration; no in-app transactions on social media (Permendag 19/2026).", "Situs/aplikasi untuk pengguna Indonesia wajib PSE; media sosial tidak boleh memproses transaksi (Permendag 19/2026)."],
   "e.steps": ["设立步骤", "Set-up steps", "Langkah pendirian"],
   "e.ossOut": ["OSS 风险分级与许可产出", "OSS risk levels & licence outputs", "Tingkat risiko OSS & keluaran izin"],
   "e.ossNib": ["NIB 同时作为进口识别号（API-U 贸易型 / API-P 生产型，二选一）、海关注册号和 SPPL 环境承诺。", "The NIB doubles as importer ID (API-U trading / API-P producer, one only), customs registration and SPPL undertaking.", "NIB sekaligus API (API-U dagang / API-P produsen, pilih satu), registrasi kepabeanan, dan SPPL."],
@@ -53,22 +53,22 @@ addI18N({
   "e.tpBody": ["母公司收取的管理费/特许权使用费须有真实性证明，否则不得扣除且补征 PPh 26。", "Management fees/royalties charged by the parent need substance evidence or they are non-deductible with PPh 26 assessed.", "Biaya manajemen/royalti dari induk wajib dibuktikan substansinya, jika tidak, tidak dapat dibiayakan dan dikenai PPh 26."],
   "e.filing": ["申报节奏", "Filing calendar", "Kalender pelaporan"],
   "e.incent": ["可争取的税收优惠", "Available tax incentives", "Insentif pajak yang dapat diupayakan"],
-  "e.incentV": ["Tax Holiday 2025 年后续期情况需核实", "Confirm the tax-holiday extension after 2025", "Konfirmasi perpanjangan tax holiday setelah 2025"],
+  "e.incentV": ["Tax Holiday 2026 年新方案 PMK 尚未发布", "The 2026 tax-holiday PMK is not yet issued", "PMK tax holiday 2026 belum terbit; konfirmasi setelah 2025"],
   "e.tobTax": ["烟草制品三层税负", "Three-layer tobacco tax burden", "Tiga lapis pungutan hasil tembakau"],
   "e.tobTaxBody": ["定价倒算：HJE ≥ 最低零售价；消费税 + 9.9%×HJE 增值税 + 10%×消费税烟草税。用“计算器 → HPTL 消费税”测算。", "Price backwards: HJE ≥ minimum; excise + VAT 9.9%×HJE + cigarette tax 10%×excise. Use Calculators → HPTL excise.", "Hitung mundur: HJE ≥ minimum; cukai + PPN 9,9%×HJE + Pajak Rokok 10%×cukai. Gunakan Kalkulator → Cukai HPTL."],
-  "e.minWage": ["最低工资参考：{r} {v}/月（2025）", "Minimum wage reference: {r} {v}/month (2025)", "Acuan upah minimum: {r} {v}/bulan (2025)"],
+  "e.minWage": ["最低工资：{r} {v}/月（2026）", "Minimum wage: {r} {v}/month (2026)", "Upah minimum: {r} {v}/bulan (2026)"],
   "e.laborCost": ["按 {n} 名员工、平均工资 1.5 倍最低工资估算，年人力成本（含雇主 BPJS、THR）约 {v}", "For {n} staff at 1.5× minimum wage, annual labour cost (incl. employer BPJS, THR) ≈ {v}", "Untuk {n} pekerja dengan 1,5× upah minimum, biaya tenaga kerja tahunan (termasuk BPJS pemberi kerja, THR) ≈ {v}"],
-  "e.umpV": ["2026 年最低工资以省长决定为准", "2026 minimum wages per governor decrees", "Upah minimum 2026 sesuai keputusan gubernur"],
+  "e.umpV": ["2027 年最低工资将于 2026 年 11 月公布", "2027 minimum wages are announced in November 2026", "Upah minimum 2027 diumumkan November 2026"],
   "e.contracts": ["合同与工时", "Contracts & working hours", "Kontrak & waktu kerja"],
   "e.bpjs": ["社保 BPJS（雇主负担约工资的 10–12%）", "BPJS (employer share ≈ 10–12% of wages)", "BPJS (beban pemberi kerja ≈ 10–12% upah)"],
   "e.bpjsTk": ["劳动保障：JKK {j}（按风险等级）+ JKM 0.30% + JHT 3.7% + JP 2%（基数上限 {c}）", "Employment: JKK {j} (by risk class) + JKM 0.30% + JHT 3.7% + JP 2% (cap {c})", "Ketenagakerjaan: JKK {j} (per kelas risiko) + JKM 0,30% + JHT 3,7% + JP 2% (batas {c})"],
   "e.bpjsKes": ["健康保障：雇主 4% + 员工 1%，基数上限 {c}", "Health: employer 4% + employee 1%, cap {c}", "Kesehatan: pemberi kerja 4% + pekerja 1%, batas {c}"],
-  "e.jpV": ["JP 基数上限每年调整", "The JP cap is adjusted yearly", "Batas JP disesuaikan tiap tahun"],
+  "e.jpV": ["JP 基数上限每年 3 月调整", "The JP cap is adjusted every March", "Batas JP disesuaikan setiap Maret"],
   "e.sever": ["解雇成本", "Termination cost", "Biaya PHK"], "e.oblig": ["用工合规义务", "Employment compliance", "Kepatuhan ketenagakerjaan"],
   "e.noStaff": ["暂无本地雇员", "No local employees yet", "Belum ada pekerja lokal"],
   "e.noStaffBody": ["分销商员工不得受你方直接指挥，否则有劳动关系与 PE 风险。", "Do not direct the distributor's staff, or employment and PE risks arise.", "Jangan mengarahkan pekerja distributor secara langsung, agar tidak timbul risiko hubungan kerja dan BUT."],
   "e.expats": ["外籍人员 {n} 名：办理路径", "{n} expatriates: process", "{n} TKA: alur"], "e.expatStep": ["{a}：{b}（约 {w1}–{w2} 周）", "{a}: {b} (~{w1}–{w2} weeks)", "{a}: {b} (±{w1}–{w2} minggu)"],
-  "e.notes": ["注意事项", "Notes", "Catatan"], "e.tkaV": ["劳工部新 TKA 条例可能替换 Permenaker 8/2021", "A new Manpower TKA regulation may replace Permenaker 8/2021", "Permenaker TKA baru dapat menggantikan Permenaker 8/2021"],
+  "e.notes": ["注意事项", "Notes", "Catatan"], "e.tkaV": ["新《劳动保护法》草案含外籍劳工条款，通过后可能调整", "The new labour protection bill covers foreign workers and may change these rules", "RUU Pelindungan Ketenagakerjaan mengatur TKA dan dapat mengubah aturan ini"],
   "e.fees": ["费用", "Fees", "Biaya"], "e.kitasFee": ["工作 KITAS 每人约 {a}–{b}，另 DKP-TKA USD {d}/人/年", "Work KITAS ≈ {a}–{b} per person, plus DKP-TKA USD {d} per person per year", "KITAS kerja ≈ {a}–{b} per orang, ditambah DKP-TKA USD {d}/orang/tahun"],
   "e.expatTax": ["外籍人员薪酬缴 PPh 21（税务居民）并加入 BPJS（居留 ≥ 6 个月）。", "Expat pay is subject to PPh 21 (residents) and BPJS (stay ≥ 6 months).", "Gaji TKA dikenai PPh 21 (SPDN) dan BPJS (tinggal ≥ 6 bulan)."],
   "e.noExpat": ["无常驻外籍人员", "No resident expatriates", "Tanpa TKA menetap"],
@@ -132,18 +132,18 @@ window.ENGINE = (() => {
     access.push({ title: T("e.foreignAccess", { s: L(S.zh) }), body: [L(S.foreign.note), T("e.kbliSuggest") + S.kbli.map(([c, n, r]) => `${c} ${L(n)} (${L(K().ossRisk[r]?.zh) || r})`).join("; ")], refs: ["PERPRES-2021-10", "PERPRES-2021-49"], v: T("e.kbliRisk") });
     if (input.mode === "pma") {
       const ok = input.investment >= 10;
-      access.push({ title: ok ? T("e.threshOk") : T("e.threshNo"), body: [T("e.threshBody", { n: num(input.investment) }), ...(ok ? [] : [T("e.threshFix")]), ...Ls(K().pma.notes.slice(1, 3))], refs: ["PERBKPM-2021-4"], tag: ok ? "ok" : "bad" });
+      access.push({ title: ok ? T("e.threshOk") : T("e.threshNo"), body: [T("e.threshBody", { n: num(input.investment), z: num(input.investment * 10) }), ...(ok ? [] : [T("e.threshFix")]), ...Ls(K().pma.notes.slice(1, 3))], refs: ["PERBKPM-2025-5"], tag: ok ? "ok" : "bad" });
     }
-    access.push({ title: T("e.mode", { m: L(mode.zh) }), body: [T("e.pros") + Ls(mode.pros).join("; "), T("e.cons") + Ls(mode.cons).join("; ")], refs: input.mode === "pma" ? ["UU-2007-25", "UU-2007-40"] : input.mode === "ecom" ? ["PERMENDAG-2020-50"] : [] });
+    access.push({ title: T("e.mode", { m: L(mode.zh) }), body: [T("e.pros") + Ls(mode.pros).join("; "), T("e.cons") + Ls(mode.cons).join("; ")], refs: input.mode === "pma" ? ["UU-2007-25", "UU-2007-40"] : input.mode === "ecom" ? ["PERMENDAG-2026-19"] : [] });
     if (acts.includes("retail")) access.push({ title: T("e.retail"), body: [T("e.retailBody")], refs: ["PERPRES-2021-10"], tag: "warn" });
-    if (acts.includes("ecommerce")) access.push({ title: T("e.ecom"), body: [T("e.ecomBody1"), T("e.ecomBody2")], refs: ["PERMENDAG-2020-50", "PERMENKOMINFO-2020-5"] });
+    if (acts.includes("ecommerce")) access.push({ title: T("e.ecom"), body: [T("e.ecomBody1"), T("e.ecomBody2")], refs: ["PERMENDAG-2026-19", "PERMENKOMINFO-2020-5"] });
     push("access", access);
 
     const ent = [];
     ent.push({ title: T("e.steps"), body: Ls(mode.steps), refs: input.mode === "pma" ? ["UU-2007-40", "PP-2025-28"] : ["PP-2025-28"] });
     if (input.mode === "pma") {
       ent.push({ title: T("e.ossOut"), body: S.kbli.map(([c, n, r]) => `${c}: ${L(K().ossRisk[r]?.need) || "OSS"}`).concat([T("e.ossNib")]), refs: ["PP-2025-28"] });
-      ent.push({ title: T("e.ongoing"), body: Ls(K().pma.reporting), refs: ["PERBKPM-2021-5", "PERPRES-2018-13"] });
+      ent.push({ title: T("e.ongoing"), body: Ls(K().pma.reporting), refs: ["PERBKPM-2025-5", "PERPRES-2018-13"] });
       if (acts.includes("import") && acts.includes("manufacture")) ent.push({ title: T("e.apiClash"), body: [T("e.apiClashBody")], tag: "warn", refs: ["PERMENDAG-2025-16"] });
     }
     push("entity", ent);
@@ -167,19 +167,19 @@ window.ENGINE = (() => {
 
     const X = K().tax;
     const tax = [
-      { title: T("e.citVat"), body: [T("e.cit", { r: pct(X.cit, 0), s: L(X.citSmallReduction) }), T("e.vat", { s: L(X.vatNote) }), T("e.pkp")], refs: ["UU-2021-7", "PMK-2024-131"] },
+      { title: T("e.citVat"), body: [T("e.cit", { r: pct(X.cit, 0), s: L(X.citSmallReduction) }), T("e.vat", { s: L(X.vatNote) }), T("e.pkp")], refs: ["UU-2021-7", "PMK-2024-131", "PP-2026-20"] },
       { title: T("e.wht"), body: X.wht.map((w) => `${w[0]} | ${L(w[1])} | ${L(w[2])}`), refs: ["UU-2021-7"] },
       { title: T("e.tp"), body: [L(X.tp), T("e.tpBody")], refs: ["PMK-2023-172"] },
       { title: T("e.filing"), body: Ls(X.compliance), refs: [] },
     ];
-    if (input.mode === "pma" && input.investment >= 100) tax.push({ title: T("e.incent"), body: Ls(X.incentives), refs: ["PMK-2020-130"], v: T("e.incentV") });
-    if (S.excise) tax.push({ title: T("e.tobTax"), body: [L(K().excise.note), T("e.tobTaxBody")], refs: ["PMK-2024-96", "PMK-2022-63", "PMK-2023-143"] });
+    if (input.mode === "pma" && input.investment >= 100) tax.push({ title: T("e.incent"), body: Ls(X.incentives), refs: ["PMK-2020-130", "PMK-2024-136"], v: T("e.incentV") });
+    if (S.excise) tax.push({ title: T("e.tobTax"), body: [L(K().excise.note), T("e.tobTaxBody")], refs: ["PMK-2024-96", "PMK-2022-63", "PMK-2026-26"] });
     push("tax", tax);
 
     const Lb = K().labor, lab = [];
     if (input.staff > 0) {
-      const ump = Lb.ump2025.find((u) => u[0] === input.province) || Lb.ump2025[0];
-      lab.push({ title: T("e.minWage", { r: ump[0], v: idr(ump[1]) }), body: [L(Lb.minWage), L(Lb.umpNote), T("e.laborCost", { n: input.staff, v: idr(input.staff * ump[1] * 1.5 * 13.6, { short: true }) })], refs: ["PP-2021-36", "PP-2023-51"], v: T("e.umpV") });
+      const ump = Lb.ump.find((u) => u[0] === input.province) || Lb.ump[0];
+      lab.push({ title: T("e.minWage", { r: ump[0], v: idr(ump[1]) }), body: [L(Lb.minWage), L(Lb.umpNote), T("e.laborCost", { n: input.staff, v: idr(input.staff * ump[1] * 1.5 * 13.6, { short: true }) })], refs: ["PP-2021-36", "PP-2025-49"], v: T("e.umpV") });
       lab.push({ title: T("e.contracts"), body: Ls([Lb.pkwt, Lb.pkwtt, Lb.hours, Lb.thr]), refs: ["PP-2021-35", "PERMENAKER-2016-6"] });
       lab.push({ title: T("e.bpjs"), body: [T("e.bpjsTk", { j: K().bpjs.tk.jkk.map((j) => (j[1] * 100).toFixed(2) + "%").join("/"), c: idr(K().bpjs.tk.jpCap) }), T("e.bpjsKes", { c: idr(K().bpjs.kes.cap) }), L(K().bpjs.tk.jkp)], refs: [], v: T("e.jpV") });
       lab.push({ title: T("e.sever"), body: Ls(Lb.severance), refs: ["PP-2021-35"] });

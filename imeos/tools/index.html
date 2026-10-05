@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title data-t="p.title">Contracts & Templates · Indonesia Market Entry OS</title>
-<link rel="stylesheet" href="/imeos/assets/os.css">
+<link rel="stylesheet" href="/imeos/assets/os.css?v=20261005">
 <style>
 .two{display:grid;grid-template-columns:380px 1fr;gap:20px;align-items:start}
 @media (max-width:900px){.two{grid-template-columns:1fr}}
@@ -49,7 +49,7 @@
   <section class="pane" id="p-dd"><div class="card"><div class="row"><h2 style="margin:0" data-t="dd.h"></h2><span class="spacer"></span><button class="btn sm ghost" id="dd-export" data-t="dd.export"></button></div><div id="dd"></div></div></section>
   <p class="disclaimer" data-t="p.disc"></p>
 </main>
-<script src="/imeos/assets/i18n.js"></script>
+<script src="/imeos/assets/i18n.js?v=20261005"></script>
 <script>
 addI18N({
   "p.title": ["合同与模板 · Indonesia Market Entry OS", "Contracts & Templates · Indonesia Market Entry OS", "Kontrak & Templat · Indonesia Market Entry OS"],
@@ -65,7 +65,7 @@ addI18N({
   "k.stamp": ["Meterai Rp10.000 · 一式两份。", "Rp10,000 stamp duty · two originals.", "Meterai Rp10.000 · dibuat rangkap dua."], "k.pkwtFile": ["PKWT 须在签署后 3 个工作日内向劳工局线上备案（PP 35/2021 第 14 条）。", "A PKWT must be filed online with the manpower office within 3 working days of signing (PP 35/2021 Art. 14).", "PKWT wajib dicatatkan secara daring ke Disnaker dalam 3 hari kerja sejak ditandatangani (Pasal 14 PP 35/2021)."],
 });
 </script>
-<script src="/imeos/assets/common.js"></script><script src="/imeos/assets/kb.js"></script>
+<script src="/imeos/assets/common.js?v=20261005"></script><script src="/imeos/assets/kb.js?v=20261005"></script>
 <script>
 applyI18N();
 $$("#tabs button").forEach((b) => b.onclick = () => { $$("#tabs button").forEach((x) => x.classList.toggle("on", x === b)); $$(".pane").forEach((p) => p.classList.toggle("on", p.id === "p-" + b.dataset.p)); });

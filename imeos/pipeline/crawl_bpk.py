@@ -35,6 +35,10 @@ session = requests.Session()
 session.headers["User-Agent"] = UA
 
 
+class Blocked(RuntimeError):
+    """BPK's WAF answers 403 to datacenter IPs (e.g. GitHub Actions); retrying only burns time."""
+
+
 def get(url, **kw):
     for attempt in range(4):
         try:
@@ -44,6 +48,8 @@ def get(url, **kw):
                 return r
             if r.status_code == 404:
                 return None
+            if r.status_code == 403:
+                raise Blocked(f"403 from {url.split('?')[0]}")
         except requests.RequestException:
             pass
         time.sleep(5 * (attempt + 1))

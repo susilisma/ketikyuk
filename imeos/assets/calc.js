@@ -48,7 +48,7 @@ window.CALC = (() => {
     const hjeUsed = Math.max(hje || 0, type === "tertutup" ? minHje : minHje * perUnitVolume);
     const cukai = rate * perUnitVolume;
     const ppn = K().excise.ppnRate * hjeUsed;
-    const pajakRokok = K().excise.pajakRokok * cukai;
+    const pajakRokok = (K().excise.pajakRokokExempt || []).includes(type) ? 0 : K().excise.pajakRokok * cukai;
     const totalTax = cukai + ppn + pajakRokok;
     return { rate, minHje, hjeUsed, cukai, ppn, pajakRokok, totalTax, share: totalTax / hjeUsed, batch: { cukai: cukai * units, ppn: ppn * units, pajakRokok: pajakRokok * units, total: totalTax * units }, src: y.src, note: y.note };
   }

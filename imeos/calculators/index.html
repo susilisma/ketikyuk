@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title data-t="p.title">Calculators · Indonesia Market Entry OS</title>
-<link rel="stylesheet" href="/imeos/assets/os.css">
+<link rel="stylesheet" href="/imeos/assets/os.css?v=20261005">
 <style>
 .two{display:grid;grid-template-columns:360px 1fr;gap:20px;align-items:start}
 @media (max-width:900px){.two{grid-template-columns:1fr}}
@@ -75,16 +75,16 @@
     <div class="card" id="l-out"></div></div></section>
   <p class="disclaimer" data-t="p.disc"></p>
 </main>
-<script src="/imeos/assets/i18n.js"></script>
+<script src="/imeos/assets/i18n.js?v=20261005"></script>
 <script>
 addI18N({
   "p.title": ["计算器 · Indonesia Market Entry OS", "Calculators · Indonesia Market Entry OS", "Kalkulator · Indonesia Market Entry OS"], "p.h1": ["计算器", "Calculators", "Kalkulator"], "p.fx": ["汇率：", "FX rates:", "Kurs:"], "p.save": ["保存", "Save", "Simpan"],
   "tab.setup": ["PMA 设立成本", "PMA set-up cost", "Biaya pendirian PMA"], "tab.pay": ["工资 / PPh 21 / BPJS", "Payroll / PPh 21 / BPJS", "Gaji / PPh 21 / BPJS"], "tab.excise": ["HPTL 消费税", "HPTL excise", "Cukai HPTL"], "tab.landed": ["进口到岸成本", "Import landed cost", "Biaya impor"],
   "calc": ["计算", "Calculate", "Hitung"], "yes": ["是", "Yes", "Ya"],
-  "s.mode": ["进入模式", "Entry mode", "Mode masuk"], "s.rep": ["代表处", "Rep office", "Kantor perwakilan"], "s.dist": ["分销商模式", "Distributor model", "Model distributor"], "s.sector": ["行业", "Industry", "Industri"], "s.inv": ["投资额（亿 IDR）", "Investment (Rp bn)", "Investasi (miliar Rp)"], "s.acts": ["活动", "Activities", "Kegiatan"], "s.import": ["进口", "Import", "Impor"], "s.manu": ["生产", "Manufacturing", "Produksi"], "s.ecom": ["电商", "E-commerce", "E-commerce"], "s.staff": ["本地员工", "Local staff", "Pekerja lokal"], "s.expats": ["外籍人员", "Expats", "TKA"], "s.env": ["环境文件", "Environmental document", "Dokumen lingkungan"], "s.certs": ["产品认证项", "Product certifications", "Sertifikasi produk"],
+  "s.mode": ["进入模式", "Entry mode", "Mode masuk"], "s.rep": ["代表处", "Rep office", "Kantor perwakilan"], "s.dist": ["分销商模式", "Distributor model", "Model distributor"], "s.sector": ["行业", "Industry", "Industri"], "s.inv": ["投资额（十亿 IDR，即 Rp miliar）", "Investment (Rp bn)", "Investasi (miliar Rp)"], "s.acts": ["活动", "Activities", "Kegiatan"], "s.import": ["进口", "Import", "Impor"], "s.manu": ["生产", "Manufacturing", "Produksi"], "s.ecom": ["电商", "E-commerce", "E-commerce"], "s.staff": ["本地员工", "Local staff", "Pekerja lokal"], "s.expats": ["外籍人员", "Expats", "TKA"], "s.env": ["环境文件", "Environmental document", "Dokumen lingkungan"], "s.certs": ["产品认证项", "Product certifications", "Sertifikasi produk"],
   "s.est": ["费用估算", "Cost estimate", "Estimasi biaya"], "r.item": ["项目", "Item", "Pos"], "r.type": ["类型", "Type", "Jenis"], "r.lo": ["低", "Low", "Rendah"], "r.hi": ["高", "High", "Tinggi"], "r.setup": ["一次性", "One-off", "Sekali"], "r.annual": ["每年", "Annual", "Tahunan"], "r.perExpat": ["每人", "Per person", "Per orang"], "s.oneOff": ["一次性合计", "One-off total", "Total sekali"], "s.annual": ["年度固定", "Annual fixed", "Tetap tahunan"],
-  "s.capital": ["PMA 另需实缴资本 ≥ Rp100 亿（≈ ¥{c}），属公司自有资金。", "A PMA also needs paid-up capital ≥ Rp10bn (≈ ¥{c}) — company funds, not a cost.", "PMA juga perlu modal disetor ≥ Rp10 miliar (≈ ¥{c}) — dana perusahaan, bukan biaya."],
-  "w.gross": ["月工资总额（基本工资 + 固定津贴，IDR）", "Monthly gross (base + fixed allowances, IDR)", "Upah bulanan (pokok + tunjangan tetap, IDR)"], "w.ump": ["参考最低工资", "Minimum wage reference", "Acuan upah minimum"], "w.umpHelp": ["2025 年数值，2026 年请核对省长决定", "2025 figures; check 2026 governor decrees", "Angka 2025; periksa keputusan gubernur 2026"],
+  "s.capital": ["PMA 另需实缴资本 ≥ Rp25 亿（≈ ¥{c}，BKPM 5/2025），属公司自有资金。", "A PMA also needs paid-up capital ≥ Rp2.5bn (≈ ¥{c}, BKPM 5/2025) — company funds, not a cost.", "PMA juga perlu modal disetor ≥ Rp2,5 miliar (≈ ¥{c}, BKPM 5/2025) — dana perusahaan, bukan biaya."],
+  "w.gross": ["月工资总额（基本工资 + 固定津贴，IDR）", "Monthly gross (base + fixed allowances, IDR)", "Upah bulanan (pokok + tunjangan tetap, IDR)"], "w.ump": ["参考最低工资", "Minimum wage reference", "Acuan upah minimum"], "w.umpHelp": ["2026 年数值（PP 49/2025），2027 年 11 月公布", "2026 figures (PP 49/2025); 2027 due in November", "Angka 2026 (PP 49/2025); 2027 diumumkan November"],
   "w.marital": ["婚姻", "Marital status", "Status perkawinan"], "w.single": ["未婚", "Single", "Belum menikah"], "w.married": ["已婚", "Married", "Menikah"], "w.dep": ["受抚养人（≤3）", "Dependants (≤3)", "Tanggungan (≤3)"], "w.jkk": ["JKK 风险等级", "JKK risk class", "Kelas risiko JKK"], "w.thr": ["THR（月数/年）", "THR (months/year)", "THR (bulan/tahun)"], "w.npwp": ["有 NPWP", "Has NPWP", "Punya NPWP"], "w.noNpwp": ["否（+20%）", "No (+20%)", "Tidak (+20%)"], "w.res": ["税务身份", "Tax status", "Status pajak"], "w.resident": ["税务居民", "Resident", "SPDN"], "w.nonres": ["非居民（PPh 26 20%）", "Non-resident (PPh 26 20%)", "SPLN (PPh 26 20%)"], "w.n": ["员工人数（汇总）", "Headcount (total)", "Jumlah pekerja (total)"],
   "w.per": ["每名员工 · 月度", "Per employee · monthly", "Per pekerja · bulanan"], "w.empCost": ["雇主成本", "Employer cost", "Biaya pemberi kerja"], "w.wage": ["工资", "Wage", "Upah"], "w.jkkL": ["JKK 工伤", "JKK accident", "JKK"], "w.jkm": ["JKM 身故", "JKM death", "JKM"], "w.jht": ["JHT 养老储蓄 3.7%", "JHT old-age 3.7%", "JHT 3,7%"], "w.jp": ["JP 养老金 2%", "JP pension 2%", "JP 2%"], "w.kes": ["BPJS 健康 4%", "BPJS Health 4%", "BPJS Kesehatan 4%"], "w.thrM": ["THR 摊提", "THR accrual", "Akrual THR"], "w.empTotal": ["雇主月成本", "Employer monthly cost", "Biaya bulanan pemberi kerja"],
   "w.deduct": ["员工扣款与到手", "Employee deductions & net pay", "Potongan & gaji bersih"], "w.pph": ["PPh 21（月均）", "PPh 21 (monthly avg.)", "PPh 21 (rata-rata bulanan)"], "w.net": ["到手工资", "Net pay", "Gaji bersih"],
@@ -98,7 +98,7 @@ addI18N({
   "p.disc": ["费用区间为 2025–2026 年雅加达/西爪哇市场经验值；税率与缴费基数以现行法规为准。", "Cost ranges are 2025–2026 Jakarta/West Java market benchmarks; rates and caps per current regulations.", "Kisaran biaya adalah tolok ukur pasar Jakarta/Jawa Barat 2025–2026; tarif dan batas sesuai peraturan berlaku."],
 });
 </script>
-<script src="/imeos/assets/common.js"></script><script src="/imeos/assets/kb.js"></script><script src="/imeos/assets/calc.js"></script>
+<script src="/imeos/assets/common.js?v=20261005"></script><script src="/imeos/assets/kb.js?v=20261005"></script><script src="/imeos/assets/calc.js?v=20261005"></script>
 <script>
 applyI18N();
 const F = fx(); $("#fxusd").value = F.usd; $("#fxcny").value = F.cny;
@@ -112,11 +112,11 @@ $("#s-sector").onchange = () => { const s = KB.sectors.find((x) => x.id === $("#
 $("#s-go").onclick = () => {
   const input = { mode: $("#s-mode").value, sector: $("#s-sector").value, investment: +$("#s-inv").value, activities: $$("#s-acts input:checked").map((i) => i.value), staff: +$("#s-staff").value, expats: +$("#s-exp").value };
   const B = CALC.setupBudget(input, $$("#s-certs input:checked").map((i) => i.value), $("#s-env").value);
-  $("#s-out").innerHTML = `<h3>${T("s.est")}</h3><div class="tbl-wrap"><table><thead><tr><th>${T("r.item")}</th><th>${T("r.type")}</th><th class="num">${T("r.lo")}</th><th class="num">${T("r.hi")}</th></tr></thead><tbody>${B.rows.map((r) => `<tr><td>${esc(L(r.zh))}${r.mult > 1 ? " × " + r.mult : ""}</td><td>${T("r." + r.phase)}</td><td class="num">${idr(r.lo)}</td><td class="num">${idr(r.hi)}</td></tr>`).join("")}</tbody><tfoot><tr><td colspan="2">${T("s.oneOff")}</td><td class="num">${idr(B.oneOff.lo)}<br><small>¥${num(toCNY(B.oneOff.lo))} / $${num(toUSD(B.oneOff.lo))}</small></td><td class="num">${idr(B.oneOff.hi)}<br><small>¥${num(toCNY(B.oneOff.hi))} / $${num(toUSD(B.oneOff.hi))}</small></td></tr><tr><td colspan="2">${T("s.annual")}</td><td class="num">${idr(B.annual.lo)}<br><small>¥${num(toCNY(B.annual.lo))}</small></td><td class="num">${idr(B.annual.hi)}<br><small>¥${num(toCNY(B.annual.hi))}</small></td></tr></tfoot></table></div>${input.mode === "pma" ? `<p class="note">${T("s.capital", { c: num(toCNY(10e9)) })}</p>` : ""}`;
+  $("#s-out").innerHTML = `<h3>${T("s.est")}</h3><div class="tbl-wrap"><table><thead><tr><th>${T("r.item")}</th><th>${T("r.type")}</th><th class="num">${T("r.lo")}</th><th class="num">${T("r.hi")}</th></tr></thead><tbody>${B.rows.map((r) => `<tr><td>${esc(L(r.zh))}${r.mult > 1 ? " × " + r.mult : ""}</td><td>${T("r." + r.phase)}</td><td class="num">${idr(r.lo)}</td><td class="num">${idr(r.hi)}</td></tr>`).join("")}</tbody><tfoot><tr><td colspan="2">${T("s.oneOff")}</td><td class="num">${idr(B.oneOff.lo)}<br><small>¥${num(toCNY(B.oneOff.lo))} / $${num(toUSD(B.oneOff.lo))}</small></td><td class="num">${idr(B.oneOff.hi)}<br><small>¥${num(toCNY(B.oneOff.hi))} / $${num(toUSD(B.oneOff.hi))}</small></td></tr><tr><td colspan="2">${T("s.annual")}</td><td class="num">${idr(B.annual.lo)}<br><small>¥${num(toCNY(B.annual.lo))}</small></td><td class="num">${idr(B.annual.hi)}<br><small>¥${num(toCNY(B.annual.hi))}</small></td></tr></tfoot></table></div>${input.mode === "pma" ? `<p class="note">${T("s.capital", { c: num(toCNY(2.5e9)) })}</p>` : ""}`;
 };
 $("#s-go").click();
 
-$("#w-ump").innerHTML = `<option value="">—</option>` + KB.labor.ump2025.map((u) => `<option value="${u[1]}">${esc(u[0])} ${idr(u[1])}</option>`).join("");
+$("#w-ump").innerHTML = `<option value="">—</option>` + KB.labor.ump.map((u) => `<option value="${u[1]}">${esc(u[0])} ${idr(u[1])}</option>`).join("");
 $("#w-ump").onchange = () => { if ($("#w-ump").value) $("#w-gross").value = $("#w-ump").value; };
 $("#w-jkk").innerHTML = KB.bpjs.tk.jkk.map((j, i) => `<option value="${i}">${esc(L(j[0]))} ${(j[1] * 100).toFixed(2)}%</option>`).join("");
 $("#w-go").onclick = () => {

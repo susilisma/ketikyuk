@@ -32,6 +32,7 @@ CURATED = HERE / "curated"
 TODAY = dt.date.today().isoformat()
 
 ISSUER_AGENCY = [
+    (r"otoritas jasa keuangan", "ojk"), (r"bank indonesia", "bi"),
     (r"keuangan", "kemenkeu"), (r"perdagangan", "kemendag"), (r"perindustrian", "kemenperin"),
     (r"investasi|penanaman modal", "bkpm"), (r"ketenagakerjaan|tenaga kerja", "kemnaker"),
     (r"kesehatan", "kemenkes"), (r"pengawas obat", "bpom"), (r"hukum", "kemenkumham"),
@@ -202,6 +203,19 @@ def build(max_text=40, min_relevance=55, summarize_docs=True):
               {"id": base, "as_of": prior_id, "articles": cur_articles})
         recs[base]["consolidated_as_of"] = prior_id
 
+    # Without the parsed-text cache (e.g. on CI) keep what earlier runs already published.
+    published_docs = {f.stem for f in (OUT / "docs").glob("*.json") if not f.stem.endswith(".consolidated")}
+    for f in (OUT / "diffs").glob("*.json"):
+        if f.stem not in diffs and f.stem in recs:
+            d = json.loads(f.read_text("utf8"))
+            diffs[f.stem] = d
+            recs[f.stem].setdefault("amends", d.get("base"))
+    for f in (OUT / "docs").glob("*.consolidated.json"):
+        base = f.name[:-len(".consolidated.json")]
+        if base in recs and not recs[base].get("consolidated_as_of"):
+            recs[base]["consolidated_as_of"] = json.loads(f.read_text("utf8")).get("as_of")
+    has_text = set(texts) | (published_docs & set(recs))
+
     for rid, t in texts.items():
         write(OUT / "docs" / f"{rid}.json", {
             "id": rid, "pages": t["pages"], "needs_ocr": t["needs_ocr"], "ocr_pages": t["ocr_pages"],
@@ -240,7 +254,7 @@ def build(max_text=40, min_relevance=55, summarize_docs=True):
             "ab": r["amended_by"], "rb": r["revoked_by"], "am": r.get("amends"),
             "rel": [[x["type"], x["target"], x["label"]] for x in r["relations"] if x.get("target")],
             "u": r["url"], "pdf": (r.get("pdf") or [None])[0],
-            "tx": r["id"] in texts, "df": r["id"] in diffs, "sm": r["id"] in summaries,
+            "tx": r["id"] in has_text, "df": r["id"] in diffs, "sm": r["id"] in summaries,
             "ca": r.get("consolidated_as_of"),
         })
     write(OUT / "index.json", index)
@@ -250,7 +264,8 @@ def build(max_text=40, min_relevance=55, summarize_docs=True):
     alerts = []
     for r in recs.values():
         d = r.get("date_promulgated") or r.get("date_enacted") or ""
-        if d < horizon or r["relevance"] < 50:
+        # dates after today are data-entry errors on BPK; they would otherwise pin themselves to the top
+        if d < horizon or d > TODAY or r["relevance"] < 50:
             continue
         a = {"id": r["id"], "date": d, "title": r["title"], "status": r["status"], "relevance": r["relevance"],
              "topics": r["topics"], "agency": r["agency"], "effective": r.get("date_effective"),
@@ -276,7 +291,7 @@ def build(max_text=40, min_relevance=55, summarize_docs=True):
         counts[r["status"]] += 1
     write(OUT / "meta.json", {
         "generated_at": dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat(),
-        "total": len(recs), "with_text": len(texts), "diffs": len(diffs), "summaries": len(summaries),
+        "total": len(recs), "with_text": len(has_text), "diffs": len(diffs), "summaries": len(summaries),
         "status_counts": counts, "agencies": AGENCIES,
         "topics": {k: v[0] for k, v in C.TOPICS.items()},
         "forms": sorted({r["form"] for r in recs.values()}),

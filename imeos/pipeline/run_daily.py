@@ -19,8 +19,13 @@ def main(all_jenis=False):
     year = dt.date.today().year
     jenis = list(crawl_bpk.BPK_JENIS) if all_jenis else DAILY_JENIS
     # list pages are cheap; details are only re-fetched when new or older than refresh-days
-    changes = crawl_bpk.crawl(jenis, [year, year - 1], refresh_days=14)
-    seeds.run()
+    try:
+        changes = crawl_bpk.crawl(jenis, [year, year - 1], refresh_days=14)
+        seeds.run()
+    except crawl_bpk.Blocked as e:
+        # Happens on GitHub-hosted runners; run this script from a residential connection instead.
+        print(f"BPK blocked this machine ({e}); skipping crawl, rebuilding from committed state")
+        changes = []
     log = HERE / "state" / "changes_log.jsonl"
     with log.open("a", encoding="utf8") as f:
         for ch in changes:
