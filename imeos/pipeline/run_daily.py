@@ -20,7 +20,7 @@ def main(all_jenis=False):
     jenis = list(crawl_bpk.BPK_JENIS) if all_jenis else DAILY_JENIS
     # list pages are cheap; details are only re-fetched when new or older than refresh-days
     try:
-        changes = crawl_bpk.crawl(jenis, [year, year - 1], refresh_days=14)
+        changes = crawl_bpk.crawl(jenis, [year, year - 1], refresh_days=30)
         seeds.run()
     except crawl_bpk.Blocked as e:
         # Happens on GitHub-hosted runners; run this script from a residential connection instead.

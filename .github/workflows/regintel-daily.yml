@@ -1,8 +1,8 @@
 name: RegIntel daily crawl
 
+# BPK blocks GitHub-hosted runners, so the daily run happens on the owner's PC
+# (imeos/pipeline/run_local.ps1 via Task Scheduler). Keep this for manual rebuilds.
 on:
-  schedule:
-    - cron: "15 23 * * *"   # 06:15 WIB
   workflow_dispatch:
     inputs:
       all:
