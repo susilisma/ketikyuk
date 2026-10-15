@@ -12,7 +12,7 @@
  "about": "Perizinan Usaha dan Kelembagaan Lembaga Penjamin",
  "issuer": "Otoritas Jasa Keuangan",
  "subject": "PERIZINAN, PELAYANAN PUBLIK",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2017-01-11",
  "date_promulgated": "2017-01-11",
  "date_effective": "2017-01-11",
@@ -33,5 +33,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/120634/SAL%20-%20POJK%20Perizinan%20dan%20Kelembagaan%20Lembaga%20Penjamin.pdf"
  ],
- "fetched_at": "2026-09-14T06:43:50Z"
+ "fetched_at": "2026-10-15T03:36:09Z"
 }

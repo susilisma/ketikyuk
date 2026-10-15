@@ -12,7 +12,7 @@
  "about": "Perubahan atas Peraturan Otoritas Jasa Keuangan No. 4/POJK.04/2014 tentang Tata Cara Penagihan Sanksi Administratif Berupa Denda di Sektor Jasa Keuangan",
  "issuer": "Otoritas Jasa Keuangan",
  "subject": "PEREKONOMIAN",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2015-04-30",
  "date_promulgated": "2015-05-05",
  "date_effective": "2015-05-05",
@@ -40,5 +40,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/119800/POJK%207-2015%20perubahan%20pojk%204-2014.pdf"
  ],
- "fetched_at": "2026-09-14T06:43:08Z"
+ "fetched_at": "2026-10-15T03:35:20Z"
 }

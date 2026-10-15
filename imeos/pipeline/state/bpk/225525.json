@@ -1,0 +1,37 @@
+{
+ "id": "PERKABPOM-2016-9",
+ "source": "bpk",
+ "bpk_id": 225525,
+ "url": "https://peraturan.bpk.go.id/Details/225525/perka-bpom-no-9-tahun-2016",
+ "form": "PERKABPOM",
+ "form_long": "Peraturan Kepala Badan Pengawas Obat dan Makanan",
+ "number": "9",
+ "number_raw": "9",
+ "year": 2016,
+ "title": "Peraturan Kepala Badan Pengawas Obat dan Makanan Nomor 9 Tahun 2016 tentang Acuan Label Gizi",
+ "about": "Acuan Label Gizi",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "KESEHATAN",
+ "field": "Alias",
+ "date_enacted": "2016-05-13",
+ "date_promulgated": "2016-05-24",
+ "date_effective": "2016-05-24",
+ "gazette": "BN.2016/No.792, jdih.pom.go.id: 7 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 357840,
+   "label": "Perka BPOM No. 10 Tahun 2026",
+   "about": "Informasi Nilai Gizi pada Label Pangan Olahan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Kepala Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 24 Mei 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/220166/Peraturan%20Kepala%20BPOM%20Nomor%209%20Tahun%202016.pdf"
+ ],
+ "fetched_at": "2026-10-15T03:32:34Z"
+}

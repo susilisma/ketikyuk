@@ -12,7 +12,7 @@
  "about": "Penyelenggaraan Usaha Lembaga Penjamin",
  "issuer": "Otoritas Jasa Keuangan",
  "subject": "PEREKONOMIAN",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2017-01-11",
  "date_promulgated": "2017-01-11",
  "date_effective": "2017-01-11",
@@ -33,5 +33,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/120635/SAL%20-%20POJK%20tentang%20Penyelenggaraan%20Usaha%20Lembaga%20Penjamin.pdf"
  ],
- "fetched_at": "2026-09-14T06:43:48Z"
+ "fetched_at": "2026-10-15T03:36:06Z"
 }

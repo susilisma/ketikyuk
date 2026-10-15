@@ -12,7 +12,7 @@
  "about": "Layanan Keuangan Tanpa Kantor Dalam Rangka Keuangan Inklusif",
  "issuer": "Otoritas Jasa Keuangan",
  "subject": "PERBANKAN, LEMBAGA KEUANGAN",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2022-01-05",
  "date_promulgated": "2022-01-06",
  "date_effective": "2022-01-06",
@@ -41,5 +41,5 @@
   "https://peraturan.bpk.go.id/Download/222115/Peraturan%20OJK%20No.%201%20Tahun%202022.pdf",
   "https://peraturan.bpk.go.id/Download/222116/Peraturan%20OJK%20No.%201%20Tahun%202022_Penjelasan.pdf"
  ],
- "fetched_at": "2026-09-14T06:43:27Z"
+ "fetched_at": "2026-10-15T03:35:42Z"
 }

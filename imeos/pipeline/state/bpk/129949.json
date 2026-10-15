@@ -12,7 +12,7 @@
  "about": "Tata Cara Penagihan Sanksi Administratif berupa Denda di Sektor Jasa Keuangan",
  "issuer": "Otoritas Jasa Keuangan",
  "subject": "PERBANKAN, LEMBAGA KEUANGAN",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2014-04-01",
  "date_promulgated": "2014-04-01",
  "date_effective": "2014-04-01",
@@ -40,5 +40,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/120820/POJK%204.%20Tata%20Cara%20Penagihan%20sanksi%20admnistrasi.pdf"
  ],
- "fetched_at": "2026-09-14T06:43:09Z"
+ "fetched_at": "2026-10-15T03:35:21Z"
 }

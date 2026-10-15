@@ -1,0 +1,47 @@
+{
+ "id": "PERKABPOM-2026-10",
+ "source": "bpk",
+ "bpk_id": 357840,
+ "url": "https://peraturan.bpk.go.id/Details/357840/perka-bpom-no-10-tahun-2026-informasi-nilai-gizi-pada-label-pangan-olahan",
+ "form": "PERKABPOM",
+ "form_long": "Peraturan Kepala Badan Pengawas Obat dan Makanan",
+ "number": "10",
+ "number_raw": "10",
+ "year": 2026,
+ "title": "Peraturan Kepala Badan Pengawas Obat dan Makanan Nomor 10 Tahun 2026 tentang Informasi Nilai Gizi pada Label Pangan Olahan",
+ "about": "Informasi Nilai Gizi pada Label Pangan Olahan",
+ "issuer": "Badan Pengawas Obat dan Makanan",
+ "subject": "GIZI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-06-09",
+ "date_promulgated": "2026-06-17",
+ "date_effective": "2026-06-17",
+ "gazette": "BN 2026 Nomor 394",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 225525,
+   "label": "Perka BPOM No. 9 Tahun 2016",
+   "about": "Acuan Label Gizi"
+  }
+ ],
+ "abstract": "masyarakat perlu dilindungi dari kosmetik yang tidak memenuhi standar dan/atau persyaratan keamanan, kemanfaatan, dan mutu yang berdampak pada risiko kesehatan.\nUntuk memberikan panduan dalam melakukan sertifikasi Cara Pembuatan Kosmetik yang Baik, perlu mengatur mengenai sertifikasi Cara Pembuatan Kosmetik yang Baik.\npengaturan mengenai sertifikasi Cara Pembuatan Kosmetik yang Baik sebagaimana telah diatur dalam Peraturan Badan Pengawas Obat dan Makanan Nomor 33 Tahun 2021 tentang Sertifikasi Cara Pembuatan Kosmetika yang Baik sudah tidak sesuai dengan kebutuhan hukum, sehingga perlu diganti.\nPeraturan Pemerintah Nomor 28 Tahun 2024 tentang Peraturan Pelaksanaan Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan.\nPeraturan Pemerintah Nomor 28 Tahun 2025 tentang Penyelenggaraan Perizinan Berusaha Berbasis Risiko.\nPeraturan Presiden Nomor 80 Tahun 2017 tentang Badan Pengawas Obat dan Makanan.\nPeraturan Badan Pengawas Obat dan Makanan Nomor 21 Tahun 2020 tentang Organisasi dan Tata Kerja Badan Pengawas Obat dan Makanan sebagaimana telah diubah dengan Peraturan Badan Pengawas Obat dan Makanan Nomor 13 Tahun 2022.\nPeraturan Badan Pengawas Obat dan Makanan Nomor 19 Tahun 2023 tentang Organisasi dan Tata Kerja Unit Pelaksana Teknis pada Badan Pengawas Obat dan Makanan sebagaimana telah beberapa kali diubah, terakhir dengan Peraturan Badan Pengawas Obat dan Makanan Nomor 1 Tahun 2026 tentang Perubahan Kedua atas Peraturan Badan Pengawas Obat dan Makanan Nomor 19 Tahun 2023 tentang Organisasi dan Tata Kerja Unit Pelaksana Teknis pada Badan Pengawas Obat dan Makanan.\nPeraturan Badan Pengawas Obat dan Makanan ini mengatur mengenai sertifikasi Cara Pembuatan Kosmetik yang Baik (CPKB), yang meliputi persyaratan dan tata cara penerbitan Sertifikat CPKB dan Sertifikat Pemenuhan Aspek CPKB, termasuk pendaftaran akun, pengajuan permohonan, evaluasi, pemeriksaan fasilitas, penerbitan sertifikat, masa berlaku, pembaruan, perubahan, dan pencabutan sertifikat.\nSelain itu, peraturan ini mengatur penggunaan fasilitas produksi kosmetik bersama dengan obat kuasi dan/atau perbekalan kesehatan rumah tangga (PKRT), termasuk persyaratan serta tata cara penerbitan, pembaruan, dan perubahan persetujuan. Peraturan ini juga mengatur pengawasan terhadap pemenuhan persyaratan CPKB, tindakan perbaikan dan pencegahan, serta ketentuan peralihan dan penutup.",
+ "note": "Peraturan Kepala Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 17 Juni 2026.\nPeraturan Kepala Badan Pengawas Obat dan Makanan Nomor 9 Tahun 2016 tentang Acuan Label Gizi (Berita Negara Republik Indonesia Tahun 2016 Nomor 792);\nPeraturan Badan Pengawas Obat dan Makanan Nomor 16 Tahun 2020 tentang Pencantuman Informasi Nilai Gizi untuk Pangan Olahan yang Diproduksi oleh Usaha Mikro dan Usaha Kecil (Berita Negara Republik Indonesia Tahun 2020 Nomor 786); dan\nPeraturan Badan Pengawas Obat dan Makanan Nomor 26 Tahun 2021 tentang Informasi Nilai Gizi pada Label Pangan Olahan (Berita Negara Republik Indonesia Tahun 2021 Nomor 1217),",
+ "citations": [
+  "PERBPOM-2021-33",
+  "PP-2024-28",
+  "UU-2023-17",
+  "PP-2025-28",
+  "PERPRES-2017-80",
+  "PERBPOM-2020-21",
+  "PERBPOM-2022-13",
+  "PERBPOM-2023-19",
+  "PERBPOM-2026-1"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/421924/Per%20BPOM%20Nomor%2010%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-10-15T03:32:33Z"
+}

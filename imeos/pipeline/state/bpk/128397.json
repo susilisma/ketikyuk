@@ -12,7 +12,7 @@
  "about": "Kesehatan Keuangan Perusahaan Asuransi dan Perusahaan Reasuransi dengan Prinsip Syariah",
  "issuer": "Otoritas Jasa Keuangan",
  "subject": "ASURANSI - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2016-12-23",
  "date_promulgated": "2016-12-28",
  "date_effective": "2017-07-01",
@@ -33,5 +33,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/134966/POJK%20Nomor%2072%20Tahun%202016.pdf"
  ],
- "fetched_at": "2026-09-14T06:43:20Z"
+ "fetched_at": "2026-10-15T03:35:34Z"
 }

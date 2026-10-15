@@ -12,7 +12,7 @@
  "about": "Pelaporan Bank Umum Melalui Sistem Pelaporan Otoritas Jasa Keuangan",
  "issuer": "Otoritas Jasa Keuangan",
  "subject": "PERBANKAN, LEMBAGA KEUANGAN",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2020-12-22",
  "date_promulgated": "2020-12-22",
  "date_effective": "2020-12-22",
@@ -41,5 +41,5 @@
   "https://peraturan.bpk.go.id/Download/221836/Peraturan%20OJK%20No.%2063%20Tahun%202020.pdf",
   "https://peraturan.bpk.go.id/Download/221837/Peraturan%20OJK%20No.%2063%20Tahun%202020_Penjelasan.pdf"
  ],
- "fetched_at": "2026-09-14T06:43:31Z"
+ "fetched_at": "2026-10-15T03:35:47Z"
 }
