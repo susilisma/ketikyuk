@@ -1,0 +1,46 @@
+{
+ "id": "PMK-2026-72",
+ "source": "bpk",
+ "bpk_id": 358622,
+ "url": "https://peraturan.bpk.go.id/Details/358622/pmk-no-72-tahun-2026-perubahan-atas-peraturan-menteri-keuangan-nomor-179pmk05201",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "72",
+ "number_raw": "72",
+ "year": 2026,
+ "title": "Peraturan Menteri Keuangan Nomor 72 Tahun 2026 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 179/PMK.05/2017 tentan Sistem Akuntansi dan Pelaporan Keuangan Pengelolaan Pemberian Pinjaman",
+ "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 179/PMK.05/2017 tentan Sistem Akuntansi dan Pelaporan Keuangan Pengelolaan Pemberian Pinjaman",
+ "issuer": "Kementerian Keuangan",
+ "subject": "KEBIJAKAN AKUNTANSI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-10-01",
+ "date_promulgated": "2026-10-08",
+ "date_effective": "2026-10-08",
+ "gazette": "BN.2026 (674)/57 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PMK-2017-179",
+   "target_bpk_id": 112917,
+   "label": "PMK No. 179/PMK.05/2017",
+   "about": "Sistem Akuntansi Dan Pelaporan Keuangan Pengelolaan Pemberian Pinjaman"
+  }
+ ],
+ "abstract": "a. bahwa untuk penerapan sistem akuntansi dan pelaporan\nkeuangan pengelolaan pemberian pinjaman, telah\nditetapkan Peraturan Menteri Keuangan Nomor\n179/PMK.05/2017 tentang Sistem Akuntansi dan\nPelaporan Keuangan Pengelolaan Pemberian Pinjaman;\nb. bahwa untuk menyelaraskan sistem akuntansi dan\npelaporan keuangan pengelolaan pemberian pinjaman\ndengan ketentuan mengenai penentuan kualitas piutang\ndan pembentukan penyisihan piutang tidak tertagih pada\nkementerian negara/lembaga dan bendahara umum\nnegara, perlu mengubah Lampiran Peraturan Menteri\nKeuangan Nomor 179/PMK.05/2017 tentang Sistem\nAkuntansi dan Pelaporan Keuangan Pengelolaan\nPemberian Pinjaman;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a dan huruf b, perlu menetapkan Peraturan\nMenteri Keuangan tentang Perubahan atas Peraturan\nMenteri Keuangan Nomor 179/PMK.05/2017 tentang\nSistem Akuntansi dan Pelaporan Keuangan Pengelolaan\nPemberian Pinjaman;\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 1 Tahun 2004, Undang-Undang Nomor 39 Tahun 2008, Peraturan Pemerintah Nomor 71 Tahun 2010, Peraturan Pemerintah Nomor 37 Tahun 2026, Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Menteri Keuangan Nomor 179/PMK.05/2017, Peraturan Menteri Keuangan Nomor 217/PMK.05/2022 dan Peraturan Menteri Keuangan Nomor 124 Tahun 2024\nPeraturan ini mengubah Ketentuan Bab I, Bab II, Bab III, Bab VI, dan Bab VII dalam\nLampiran Peraturan Menteri Keuangan Nomor\n179/PMK.05/2017 tentang Sistem Akuntansi dan Pelaporan\nKeuangan Pengelolaan Pemberian Pinjaman",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 08 Oktober 2026.\nPeraturan Menteri Keuangan Nomor\n179/PMK.05/2017 tentang Sistem Akuntansi dan Pelaporan\nKeuangan Pengelolaan Pemberian Pinjaman diubah sebagian",
+ "citations": [
+  "PMK-2017-179",
+  "UU-2004-1",
+  "UU-2008-39",
+  "PP-2010-71",
+  "PP-2026-37",
+  "PERPRES-2024-158",
+  "PMK-2022-217",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/423055/2026pmkeuangan072.pdf"
+ ],
+ "fetched_at": "2026-10-29T03:30:38Z"
+}

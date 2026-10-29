@@ -1,0 +1,37 @@
+{
+ "id": "PMK-2017-179",
+ "source": "bpk",
+ "bpk_id": 112917,
+ "url": "https://peraturan.bpk.go.id/Details/112917/pmk-no-179pmk052017",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "179",
+ "number_raw": "179/PMK.05/2017",
+ "year": 2017,
+ "title": "Peraturan Menteri Keuangan Nomor 179/PMK.05/2017 Tahun 2017 tentang Sistem Akuntansi Dan Pelaporan Keuangan Pengelolaan Pemberian Pinjaman",
+ "about": "Sistem Akuntansi Dan Pelaporan Keuangan Pengelolaan Pemberian Pinjaman",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PENGELOLAAN KEUANGAN NEGARA / DAERAH - KEBIJAKAN AKUNTANSI",
+ "field": "Alias",
+ "date_enacted": "2017-11-27",
+ "date_promulgated": "2017-11-27",
+ "date_effective": "2017-11-27",
+ "gazette": "BN.2017/NO.1704, jdih.kemenkeu.go.id : 14 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2026-72",
+   "target_bpk_id": 358622,
+   "label": "PMK No. 72 Tahun 2026",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 179/PMK.05/2017 tentan Sistem Akuntansi dan Pelaporan Keuangan Pengelolaan Pemberian Pinjaman"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 27 November 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/103875/PMK%20Nomor%20179%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-10-29T03:30:39Z"
+}

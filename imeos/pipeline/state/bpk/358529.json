@@ -1,0 +1,46 @@
+{
+ "id": "PMK-2026-69",
+ "source": "bpk",
+ "bpk_id": 358529,
+ "url": "https://peraturan.bpk.go.id/Details/358529/pmk-no-69-tahun-2026-perubahan-atas-peraturan-menteri-keuangan-nomor-60-tahun-20",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "69",
+ "number_raw": "69",
+ "year": 2026,
+ "title": "Peraturan Menteri Keuangan Nomor 69 Tahun 2026 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 60 Tahun 2026 tentang Penerapan Tarif Bea Masuk Dalam Rangka Persetujuan antara Republik Indonesia dan Jepang Mengenai Suatu Kemitraan Ekonomi (Agreement Between The Republic Of Indonesia and Japan For An Economic Partnership)",
+ "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 60 Tahun 2026 tentang Penerapan Tarif Bea Masuk Dalam Rangka Persetujuan antara Republik Indonesia dan Jepang Mengenai Suatu Kemitraan Ekonomi (Agreement Between The Republic Of Indonesia and Japan For An Economic Partnership)",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-09-28",
+ "date_promulgated": "2026-10-02",
+ "date_effective": "2026-10-02",
+ "gazette": "BN.2026 (690/25 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PMK-2026-60",
+   "target_bpk_id": 353747,
+   "label": "PMK No. 60 Tahun 2026",
+   "about": "Penetapan Tarif Bea Masuk Dalam Rangka Persetujuan Antara Republik Indonesia dan Jepang Mengenai Suatu Kemitraan Ekonomi (Agreement Betwen The Republic Of Indonesia and Japan For an Economic Partneship)"
+  }
+ ],
+ "abstract": "a. bahwa untuk melaksanakan Persetujuan antara Republik\nIndonesia dan Jepang mengenai suatu Kemitraan Ekonomi\n(Agreement between The Republic of Indonesia and Japan for\nan Economic Partnership), Pemerintah Republik Indonesia\ntelah menetapkan tarif bea masuk atas barang impor\ndalam Rangka Persetujuan antara Republik Indonesia dan\nJepang mengenai suatu Kemitraan Ekonomi dalam\nPeraturan Menteri Keuangan Nomor 60 Tahun 2026\ntentang Penetapan Tarif Bea Masuk dalam Rangka\nPersetujuan antara Republik Indonesia dan Jepang\nmengenai suatu Kemitraan Ekonomi (Agreement between\nThe Republic of Indonesia and Japan for an Economic\nPartnership);\nb. bahwa berdasarkan hasil evaluasi terhadap implementasi\nPersetujuan antara Republik Indonesia dan Jepang\nmengenai suatu Kemitraan Ekonomi (Agreement between\nThe Republic of Indonesia and Japan for an Economic\nPartnership) dalam Rangka fasilitasi importasi barang dari\nJepang, Peraturan Menteri Keuangan Nomor 60 Tahun\n2026 tentang Penetapan Tarif Bea Masuk dalam Rangka\nPersetujuan antara Republik Indonesia dan Jepang\nmengenai suatu Kemitraan Ekonomi (Agreement between\nThe Republic of Indonesia and Japan for an Economic\nPartnership) perlu diubah;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a dan huruf b, perlu menetapkan Peraturan\nMenteri Keuangan tentang Perubahan atas Peraturan\nMenteri Keuangan Nomor 60 Tahun 2026 tentang\nPenetapan Tarif Bea Masuk dalam Rangka Persetujuan\nantara Republik Indonesia dan Jepang mengenai suatu\nKemitraan Ekonomi (Agreement between The Republic of\nIndonesia and Japan for an Economic Partnership);\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945, Undang-Undang Nomor 10 Tahun 1995, Undang-Undang Nomor 39 Tahun 2008, Peraturan Presiden Nomor 36 Tahun 2008, Peraturan Presiden Nomor 158 Tahun 2024, Peraturan Presiden Nomor 32 Tahun 2026, Peraturan Menteri Keuangan Nomor 26/PMK.010/2022, Peraturan Menteri Keuangan Nomor 124 Tahun 2024 dan Peraturan Menteri Keuangan Nomor 60 Tahun 2026\nPeraturan ini mengubah lampiran huruf B dan huruf C Peraturan Menteri Keuangan Nomor 60 Tahun 2026 tentang Penetapan Tarif Bea Masuk\ndalam rangka Persetujuan antara Republik Indonesia dan\nJepang mengenai suatu Kemitraan Ekonomi (Agreement\nbetween The Republic of Indonesia and Japan for an Economic\nPartnership)",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 02 Oktober 2026.\nPeraturan Menteri Keuangan Nomor 60 Tahun 2026 tentang Penetapan Tarif Bea Masuk dalam rangka Persetujuan antara Republik Indonesia dan\nJepang mengenai suatu Kemitraan Ekonomi (Agreement\nbetween The Republic of Indonesia and Japan for an Economic\nPartnership) diubah sebagian",
+ "citations": [
+  "PMK-2026-60",
+  "UU-1995-10",
+  "UU-2008-39",
+  "PERPRES-2008-36",
+  "PERPRES-2024-158",
+  "PERPRES-2026-32",
+  "PMK-2022-26",
+  "PMK-2024-124"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/422905/2026pmkeuangan069.pdf"
+ ],
+ "fetched_at": "2026-10-29T03:30:43Z"
+}
