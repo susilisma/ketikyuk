@@ -1,0 +1,49 @@
+{
+ "id": "PERMENAKER-2026-15",
+ "source": "bpk",
+ "bpk_id": 359270,
+ "url": "https://peraturan.bpk.go.id/Details/359270/permenaker-no-15-tahun-2026-perubahan-atas-peraturan-menteri-ketenagakerjaan-nom",
+ "form": "PERMENAKER",
+ "form_long": "Peraturan Menteri Ketenagakerjaan",
+ "number": "15",
+ "number_raw": "15",
+ "year": 2026,
+ "title": "Peraturan Menteri Ketenagakerjaan Nomor 15 Tahun 2026 tentang Perubahan atas Peraturan Menteri Ketenagakerjaan Nomor 11 Tahun",
+ "about": "Perubahan atas Peraturan Menteri Ketenagakerjaan Nomor 11 Tahun",
+ "issuer": "Kementerian Ketenagakerjaan",
+ "subject": "KETENAGAKERJAAN - PENGAWASAN / AUDIT INTERNAL",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-10-08",
+ "date_promulgated": "2026-10-12",
+ "date_effective": "2026-10-12",
+ "gazette": "BN 2026 (681); 20 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": "PERMENAKER-2026-11",
+   "target_bpk_id": 351282,
+   "label": "Permenaker No. 11 Tahun 2026",
+   "about": "Tata Cara Pengawasan Ketenagakerjaan"
+  }
+ ],
+ "abstract": "bahwa untuk meningkatkan kepastian pelindungan\nterhadap pekerja/buruh dan untuk lebih\nmengoptimalkan pelaksanaan pengawasan\nketenagakerjaan, perlu dilakukan perubahan atas\nPeraturan Menteri Ketenagakerjaan Nomor 11 Tahun\n2026 tentang Tata Cara Pengawasan Ketenagakerjaan\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD NRI Tahun 1945; UU No. 3 Tahun 1951; UU No. 1 Tahun 1970; UU No. 13 Tahun 2003 sebagaimana telah beberapa kali diubah terakhir dengan UU No. 6 Tahun 2023; UU No. 21 Tahun 2003; UU No. 40 Tahun 2004 sebagaimana telah beberapa kali diubah terakhir dengan UU No. 6 Tahun 2023; UU No. 39 Tahun 2008 sebagaimana telah diubah dengan UU No. 61 Tahun 2024; Perpres No. 164 Tahun 2024; Permenaker No. 11 Tahun 2026; Permenaker No. 14 Tahun 2026.\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Menteri\nKetenagakerjaan Nomor 11 Tahun 2026 tentang Tata Cara\nPengawasan Ketenagakerjaan (Berita Negara Republik\nIndonesia Tahun 2026 Nomor 438)",
+ "note": "Peraturan Menteri Ketenagakerjaan ini mulai berlaku pada tanggal 12 Oktober 2026.",
+ "citations": [
+  "PERMENAKER-2026-11",
+  "UU-1951-3",
+  "UU-1970-1",
+  "UU-2003-13",
+  "UU-2023-6",
+  "UU-2003-21",
+  "UU-2004-40",
+  "UU-2008-39",
+  "UU-2024-61",
+  "PERPRES-2024-164",
+  "PERMENAKER-2026-14"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/424797/permenaker-no-15-tahun-2026.pdf"
+ ],
+ "fetched_at": "2026-10-31T02:57:40Z"
+}
