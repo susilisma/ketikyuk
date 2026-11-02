@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2020-130",
+ "source": "bpk",
+ "bpk_id": 148016,
+ "url": "https://peraturan.bpk.go.id/Details/148016/pmk-no-130pmk0102020",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "130",
+ "number_raw": "130/PMK.010/2020",
+ "year": 2020,
+ "title": "Peraturan Menteri Keuangan Nomor 130/PMK.010/2020 Tahun 2020 tentang Pemberian Fasilitas Pengurangan Pajak Penghasilan Badan",
+ "about": "Pemberian Fasilitas Pengurangan Pajak Penghasilan Badan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "Alias",
+ "date_enacted": "2020-09-18",
+ "date_promulgated": "2020-09-24",
+ "date_effective": "2020-10-09",
+ "gazette": "BN.2020/NO.1088, https:jdih.kemenkeu.go.id : 33 Hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2018-150",
+   "target_bpk_id": 113460,
+   "label": "PMK No. 150/PMK.010/2018",
+   "about": "Pemberian Fasilitas Pengurangan Pajak Penghasilan Badan"
+  }
+ ],
+ "abstract": "bahwa pengaturan pemberian fasilitas pengurangan Pajak Penghasilan merupakan upaya pemerintah untuk memberikan kepastian hukum dan membantu pengembangan usaha pada industri pionir dan untuk mendorong kemudahan berusaha bagi industri pionir perlu dilakukan penyesuaian terhadap mekanisme pemberian dan pengajuan fasilitas bagi industri pionir, serta untuk melaksanakan ketentuan Pasal 30 Peraturan Pemerintah Nomor 94 Tahun 2010 tentang Penghitungan Penghasilan Kena Pajak dan Pelunasan Pajak Penghasilan dalam Tahun Berjalan sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 45 Tahun 2019, perlu menetapkan Peraturan Menteri Keuangan tentang Pemberian Fasilitas Pengurangan Pajak Penghasilan Badan\nPasal 17 ayat (3) UUD RI Tahun 1945; UU No. 7 Tahun 1983 (LN Tahun 1983 No. 50, TLN No. 3263); sebagaimana telah diubah dengan UU No. 36 Tahun 2008 (LN Tahun 2008 No.133, TLN No. 4893); UU No. 25 Tahun 2007 (LN Tahun 2007 No. 67, TLN No. 4724); UU No. 39 Tahun 2008 (LN Tahun 2008 No. 166, TLN No. 4916); PP No. 94 Tahun 2010 (LN No. Tahun 2010 No. 161, TLN No. 5183) sebagaimana telah diubah dengan PP No. 45 Tahun 2019 (LN Tahun 2019 No. 119, TLN No. 6361); Perpres RI No. 57 Tahun 2020 (LN Tahun 2020 No. 98); Permenkeu RI No. 217/PMK.01/2018 (BN Tahun 2018 No. 1862) sebagaimana telah beberapa kali diubah terakhir dengan Permenkeu RI No. 229/PMK.01/2019 (BN Tahun 2019 No. 1745)\nDalam Peraturan Menteri Keuangan Republik Indonesia ini diatur:\nKetentuan mengenai pemberian fasilitas pengurangan Pajak Penghasilan Badan yang terdiri dari ketentuan subyek dan jenis fasilitas, kriteria dan prosedur pengajuan fasilitas, fasilitas bagi wajib pajak yang mendapatkan penugasan pemerintah, prosedur pemberian fasilitas pengurangan Pajak Penghasilan Badan, pemanfaatan fasilitas pengurangan Pajak Penghasilan Badan, pemeriksaan lapangan dalam rangka pemanfaatan fasilitas pengurangan Pajak Penghasilan Badan, keputusan pemanfaatan fasilitas pengurangan Pajak Penghasilan Badan, pelaporan realisasi penanaman modal dan realisasi produksi, pencabutan pengurangan Pajak Penghasilan Badan, kewajiban pembukuan, dan pemotongan dan pemungutan Pajak Penghasilan, evaluasi pelaksanaan pemberian pengurangan Pajak Penghasilan Badan, dan periode pemberian pengurangan Pajak Penghasilan Badan.\nDiatur pula ketentuan peralihan Wajib Pajak badan yang telah mendapatkan dan/atau memanfaatkan fasilitas pembebasan atau pengurangan Pajak Penghasilan badan sebelum berlakunya Peraturan Menteri ini",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 09 Oktober 2020.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 150/PMK.010/2018 tentang Pemberian Fasilitas Pengurangan Pajak Penghasilan Badan (Berita Negara Republik Indonesia Tahun 2018 Nomor 1553), dicabut dan dinyatakan tidak berlaku\n-\n44 HLM, Lampiran halaman 34 – 44.",
+ "citations": [
+  "PP-2010-94",
+  "PP-2019-45",
+  "UU-1983-7",
+  "UU-2008-36",
+  "UU-2007-25",
+  "UU-2008-39"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/139954/130_PMK.010_2020.pdf"
+ ],
+ "fetched_at": "2026-11-02T04:58:06Z"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "PMK-2016-213",
+ "source": "bpk",
+ "bpk_id": 146062,
+ "url": "https://peraturan.bpk.go.id/Details/146062/x",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "213",
+ "number_raw": "213/PMK.03/2016",
+ "year": 2016,
+ "title": "Peraturan Menteri Keuangan Nomor 213/PMK.03/2016 Tahun 2016 tentang Jenis Dokumen Dan/atau Informasi Tambahan yang Wajib Disimpan oleh Wajib Pajak yang Melakukan Transaksi dengan Para Pihak yang Mempunyai Hubungan Istimewa, dan Tata Cara Pengelolaannya",
+ "about": "Jenis Dokumen Dan/atau Informasi Tambahan yang Wajib Disimpan oleh Wajib Pajak yang Melakukan Transaksi dengan Para Pihak yang Mempunyai Hubungan Istimewa, dan Tata Cara Pengelolaannya",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "Alias",
+ "date_enacted": "2016-12-30",
+ "date_promulgated": "2016-12-30",
+ "date_effective": "2016-12-30",
+ "gazette": "BN.2016/NO.2120, https:jdih.kemenkeu.go.id : 13 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2023-172",
+   "target_bpk_id": 288349,
+   "label": "PMK No. 172 Tahun 2023",
+   "about": "Penerapan Prinsip Kewajaran Dan Kelaziman Usaha Dalam Transaksi Yang Dipengaruhi Hubungan Istimewa"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 30 Desember 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/137877/PMK%20213_PMK.03_2016.pdf"
+ ],
+ "fetched_at": "2026-11-02T04:58:46Z"
+}

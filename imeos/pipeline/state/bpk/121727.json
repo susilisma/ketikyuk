@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2015-174",
+ "source": "bpk",
+ "bpk_id": 121727,
+ "url": "https://peraturan.bpk.go.id/Details/121727/x",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "174",
+ "number_raw": "174/PMK.03/2015",
+ "year": 2015,
+ "title": "Peraturan Menteri Keuangan Nomor 174/PMK.03/2015 Tahun 2015 tentang Tata Cara Penghitungan Dan Pemungutan Pajak Pertambahan Nilai Atas Penyerahan Hasil Tembakau",
+ "about": "Tata Cara Penghitungan Dan Pemungutan Pajak Pertambahan Nilai Atas Penyerahan Hasil Tembakau",
+ "issuer": "Kementerian Keuangan",
+ "subject": "KEHUTANAN DAN PERKEBUNAN - PERPAJAKAN",
+ "field": "Alias",
+ "date_enacted": "2015-09-21",
+ "date_promulgated": "2015-09-21",
+ "date_effective": "2016-01-01",
+ "gazette": "BN.2015/NO.1407,jdih.kemenkeu.go.id : 6 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2022-63",
+   "target_bpk_id": 215514,
+   "label": "PMK No. 63/PMK.03/2022",
+   "about": "Pajak Pertambahan Nilai atas Penyerahan Hasil Tembakau"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2016-207",
+   "target_bpk_id": 146055,
+   "label": "PMK No. 207/PMK.010/2016",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 174/PMK.03/2015 Tentang Tata Cara Penghitungan dan Pemungutan Pajak Pertambahan Nilai atas Penyerahan Hasil Tembakau"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 01 Januari 2016.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/112501/174~PMK.03~2015Per.pdf"
+ ],
+ "fetched_at": "2026-11-02T04:58:41Z"
+}

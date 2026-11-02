@@ -1,0 +1,76 @@
+{
+ "id": "PP-2021-22",
+ "source": "bpk",
+ "bpk_id": 161852,
+ "url": "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "22",
+ "number_raw": "22",
+ "year": 2021,
+ "title": "Peraturan Pemerintah (PP) Nomor 22 Tahun 2021 tentang Penyelenggaraan Perlindungan dan Pengelolaan Lingkungan Hidup",
+ "about": "Penyelenggaraan Perlindungan dan Pengelolaan Lingkungan Hidup",
+ "issuer": "Pemerintah Pusat",
+ "subject": "LINGKUNGAN HIDUP - PERIZINAN, PELAYANAN PUBLIK - CIPTA KERJA",
+ "field": "Alias",
+ "date_enacted": "2021-02-02",
+ "date_promulgated": "2021-02-02",
+ "date_effective": "2021-02-02",
+ "gazette": "LN.2021/No.32, TLN No.6634, jdih.setkab.go.id : 374 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PP-2014-101",
+   "target_bpk_id": 5555,
+   "label": "PP No. 101 Tahun 2014",
+   "about": "Pengelolaan Limbah Bahan Berbahaya Dan Beracun"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2012-27",
+   "target_bpk_id": 5239,
+   "label": "PP No. 27 Tahun 2012",
+   "about": "Izin Lingkungan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-2001-82",
+   "target_bpk_id": 53103,
+   "label": "PP No. 82 Tahun 2001",
+   "about": "Pengelolaan Kualitas Air Dan Pengendalian Pencemaran Air"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-1999-41",
+   "target_bpk_id": 54332,
+   "label": "PP No. 41 Tahun 1999",
+   "about": "Pengendalian Pencemaran Udara"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-1999-19",
+   "target_bpk_id": 54252,
+   "label": "PP No. 19 Tahun 1999",
+   "about": "Pengendalian Pencemaran Dan/Atau Perusakan Laut"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "PP-2017-46",
+   "target_bpk_id": 64701,
+   "label": "PP No. 46 Tahun 2017",
+   "about": "Instrumen Ekonomi Lingkungan Hidup"
+  }
+ ],
+ "abstract": "Untuk melaksanakan ketentuan Pasal 22 dan Pasal 185 huruf b Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja, perlu menetapkan Peraturan Pemerintah tentang Penyelenggaraan Perlindungan dan Pengelolaan Lingkungan Hidup.\nDasar hukum PP ini adalah Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 32 Tahun 2009; dan UU Nomor 11 Tahun 2020.\nPP ini mengatur mengenai persetujuan lingkungan; perlindungan dan pengelolaan mutu air; perlindungan dan pengelolaan mutu udara; perlindungan dan pengelolaan mutu laut; pengendalian kerusakan lingkungan hidup; pengelolaan limbah B3 dan pengelolaan limbah nonB3; data penjamin untuk pemulihan fungsi lingkungan hidup; sistem informasi lingkungan hidup; pembinaan dan pengawasan; dan pengenaan sanksi administratif. Pengawasan dan penegakan hukum Lingkungan Hidup dilakukan untuk menjamin ketentuan yang telah ditetapkan dalam tahap perencanaan suatu Usaha dan/atau Kegiatan dilaksanakan sesuai dengan perencanaan dan akan mendapatkan konsekuensi apabila terjadi penyimpangan dalam pelaksanaan Usaha dan/atau Kegiatan terhadap kewajiban pada Persetujuan Lingkungan dalam Perizinan Berusaha atau Persetujuan Pemerintah. Penerapan terhadap penegakan hukum dilakukan dengan prinsip ultimum remedium dan melalui tahapan penerapan Sanksi Administratif.",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 02 Februari 2021.\nPP ini mencabut PP Nomor 19 Tahun 1999; PP Nomor 41 Tahun 1999; PP Nomor 82 Tahun 2001; PP Nomor 27 Tahun 2012; PP Nomor 101 Tahun 2014; dan ketentuan Pasal 21 sampai dengan Pasal 25 terkait dengan dana jaminan pemulihan Lingkungan Hidup dalam PP Nomor 46 Tahun 2017.\nPenjelasan 109 hlm.",
+ "citations": [
+  "UU-2020-11",
+  "UU-2009-32"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/154527/PP%20Nomor%2022%20Tahun%202021%20-%20Lampiran.7z",
+  "https://peraturan.bpk.go.id/Download/354244/Salinan%20PP%20Nomor%2022%20Tahun%202021.pdf"
+ ],
+ "fetched_at": "2026-11-02T04:58:19Z"
+}

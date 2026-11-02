@@ -1,0 +1,50 @@
+{
+ "id": "PMK-2020-22",
+ "source": "bpk",
+ "bpk_id": 136873,
+ "url": "https://peraturan.bpk.go.id/Details/136873/x",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "22",
+ "number_raw": "22/PMK.03/2020",
+ "year": 2020,
+ "title": "Peraturan Menteri Keuangan Nomor 22/PMK.03/2020 Tahun 2020 tentang Tata Cara Pelaksanaan Kesepakatan Harga Transfer (Advance Pricing Agreement)",
+ "about": "Tata Cara Pelaksanaan Kesepakatan Harga Transfer (Advance Pricing Agreement)",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "Alias",
+ "date_enacted": "2020-03-18",
+ "date_promulgated": "2020-03-18",
+ "date_effective": "2020-03-18",
+ "gazette": "BN. 2020/NO. 262, JDIH.KEMENKEU.GO.ID : 98 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2023-172",
+   "target_bpk_id": 288349,
+   "label": "PMK No. 172 Tahun 2023",
+   "about": "Penerapan Prinsip Kewajaran Dan Kelaziman Usaha Dalam Transaksi Yang Dipengaruhi Hubungan Istimewa"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2015-7",
+   "target_bpk_id": 122358,
+   "label": "PMK No. 7/PMK.03/2015",
+   "about": "Tata Cara Pembentukan Dan Pelaksanaan Kesepakatan Harga Transfer (Advance Pricing Agreement)"
+  }
+ ],
+ "abstract": "bahwa ketentuan mengenai tata cara pelaksanaan kesepakatan harga transfer sebagaimana diatur dalam Peraturan Menteri Keuangan Nomor 7/PMK.03/2015 tentang Tata Cara Pembentukan dan Pelaksanaan Kesepakatan Harga Transfer (Advance Pricing Agreement) belum sepenuhnya sesuai dengan standar minimum dalam Rencana Aksi Nomor 14 Proyek OECD/G20 Base Erosion and Profit Shifting (BEPS) dan untuk menyempurnakan ketentuan dimaksud agar lebih efektif dan memberikan kepastian hukum, serta untuk melaksanakan ketentuan Pasal 59 Peraturan Pemerintah Nomor 74 Tahun 2011 tentang Tata Cara dan Pemenuhan Kewajiban Perpajakan, perlu menetapkan Peraturan Menteri Keuangan tentang Tata Cara Pelaksanaan Kesepakatan Harga Transfer (Advance Pricing Agreement);\nDasar Hukum Peraturan ini adalah:\nPasal 17 ayat (3) UUD RI Tahun 1945; UU No. 7 Tahun 1983 (LN Tahun 1983 No. 50, TLN No. 3263) sebagaimana telah beberapa kali diubah, terakhir dengan UU No. 36 Tahun 2008 (LN Tahun 2008 No. 133, TLN No. 4893); UU No. 39 Tahun 2008 (LN Tahun 2008 No. 166, TLN No. 4916); Perpres RI No. 28 Tahun 2015 (LN Tahun 2015 No. 51); PP No. 74 Tahun 2011 (LN Tahun 2011 No. 162, TLN No. 5268);\nDalam Peraturan Menteri Keuangan Republik Indonesia ini diatur:\nKetentuan mengenai Kesepakatan Harga Transfer (Advance Pricing Agreement) yang selanjutnya disebut APA, merupakan perjanjian tertulis antara Direktur Jenderal Pajak dan Wajib Pajak, atau Direktur Jenderal Pajak dengan otoritas pajak pemerintah Mitra P3B yang melibatkan Wajib Pajak, untuk menyepakati kriteria-kriteria dalam penentuan harga transfer dan/atau menentukan harga wajar atau laba wajar dimuka.\nWajib Pajak dalam negeri dapat mengajukan permohonan APA kepada Direktur Jenderal Pajak atas Transaksi Afiliasi berdasarkan inisiatif Wajib Pajak atau pemberitahuan tertulis dari Direktur\nJenderal Pajak.\nDalam Peraturan Menteri ini diatur pula ketentuan mengenai tata cara pengajuan permohonan APA, tata cara penyelesaian permohonan APA, tata cara pelaksanaan APA, tata cara evaluasi APA, tata cara pembaruan APA, dan ketentuan lain terkait APA.",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 18 Maret 2020.\nPada saat Peraturan Menteri ini berlaku, Peraturan Menteri Keuangan Nomor 7/PMK.03/ 2015tentang Tata Cara Pembentukan dan Pelaksanaan Kesepakatan Harga Transfer (Advance Pricing Agreement), dicabut dan dinyatakan tidak berlaku.\n-\n98 HLM, Lampiran halaman 46-98.",
+ "citations": [
+  "PMK-2015-7",
+  "PP-2011-74",
+  "UU-1983-7",
+  "UU-2008-36",
+  "UU-2008-39"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/127782/22_PMK.03_2020.pdf"
+ ],
+ "fetched_at": "2026-11-02T04:58:44Z"
+}

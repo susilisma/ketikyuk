@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2015-32",
+ "source": "bpk",
+ "bpk_id": 146303,
+ "url": "https://peraturan.bpk.go.id/Details/146303/x",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "32",
+ "number_raw": "32/PMK.04/2015",
+ "year": 2015,
+ "title": "Peraturan Menteri Keuangan Nomor 32/PMK.04/2015 Tahun 2015 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 202/PMK.04/2008 tentang Tata Cara Pemberian, Pembekuan, dan Pencabutan Nomor Pokok Pengusaha Barang Kena Cukai untuk Pengusaha Pabrik, Pengusaha Tempat Penyimpanan, Importir, dan Pengusaha Tempat Penjualan Eceran Etil Alkohol",
+ "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 202/PMK.04/2008 tentang Tata Cara Pemberian, Pembekuan, dan Pencabutan Nomor Pokok Pengusaha Barang Kena Cukai untuk Pengusaha Pabrik, Pengusaha Tempat Penyimpanan, Importir, dan Pengusaha Tempat Penjualan Eceran Etil Alkohol",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN",
+ "field": "Alias",
+ "date_enacted": "2015-03-02",
+ "date_promulgated": "2015-03-02",
+ "date_effective": "2015-04-01",
+ "gazette": "BN.2015/NO.337, https:jdih.kemenkeu.go.id : 9 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2018-66",
+   "target_bpk_id": 112486,
+   "label": "PMK No. 66/PMK.04/2018",
+   "about": "Tata Cara Pemberian, Pembekuan, Dan Pencabutan Nomor Pokok Pengusaha Barang Kena Cukai"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PMK-2008-202",
+   "target_bpk_id": 146304,
+   "label": "PMK No. 202/PMK.04/2008",
+   "about": "Tata Cara Pemberian, Pembekuan, dan Pancabutan Nomor Pokok Pengusaha Barang Kena Cukai untuk Pengusaha Pabrik, Pengusaha Tempat Penyimpanan, Importir, dan Pengusaha Tempat Penjualan Eceran Etil Alkohol"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 01 April 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/138120/32_PMK.04_2015.PDF"
+ ],
+ "fetched_at": "2026-11-02T04:58:28Z"
+}

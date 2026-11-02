@@ -1,0 +1,44 @@
+{
+ "id": "PP-2001-82",
+ "source": "bpk",
+ "bpk_id": 53103,
+ "url": "https://peraturan.bpk.go.id/Details/53103/x",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "82",
+ "number_raw": "82",
+ "year": 2001,
+ "title": "Peraturan Pemerintah (PP) Nomor 82 Tahun 2001 tentang Pengelolaan Kualitas Air Dan Pengendalian Pencemaran Air",
+ "about": "Pengelolaan Kualitas Air Dan Pengendalian Pencemaran Air",
+ "issuer": "Pemerintah Pusat",
+ "subject": "LINGKUNGAN HIDUP",
+ "field": "Alias",
+ "date_enacted": "2001-12-14",
+ "date_promulgated": "2001-12-14",
+ "date_effective": "2001-12-14",
+ "gazette": "LN. 2001 No. 153, TLN No. 4161, LL SETNEG : 22 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2021-22",
+   "target_bpk_id": 161852,
+   "label": "PP No. 22 Tahun 2021",
+   "about": "Penyelenggaraan Perlindungan dan Pengelolaan Lingkungan Hidup"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-1990-20",
+   "target_bpk_id": 60494,
+   "label": "PP No. 20 Tahun 1990",
+   "about": "Pengendalian Pencemaran Air"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 14 Desember 2001.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/42481/PP%20NO%2082%20TH%202001.pdf"
+ ],
+ "fetched_at": "2026-11-02T04:58:51Z"
+}

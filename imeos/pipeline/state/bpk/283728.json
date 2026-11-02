@@ -1,0 +1,52 @@
+{
+ "id": "PMK-2023-143",
+ "source": "bpk",
+ "bpk_id": 283728,
+ "url": "https://peraturan.bpk.go.id/Details/283728/pmk-no-143-tahun-2023",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "143",
+ "number_raw": "143",
+ "year": 2023,
+ "title": "Peraturan Menteri Keuangan Nomor 143 Tahun 2023 tentang Tata Cara Pemungutan Pemotongan Dan Penyetoran Pajak Rokok",
+ "about": "Tata Cara Pemungutan Pemotongan Dan Penyetoran Pajak Rokok",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2023-12-15",
+ "date_promulgated": "2023-12-22",
+ "date_effective": "2023-12-22",
+ "gazette": "BN.2023 (1031)/54 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2018-128",
+   "target_bpk_id": 113225,
+   "label": "PMK No. 128/PMK.07/2018",
+   "about": "Tata Cara Pemotongan Pajak Rokok Sebagai Kontribusi Dukungan Program Jaminan Kesehatan"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 115489,
+   "label": "PMK No. 102/PMK .07/2015",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 115/PMK.07/2013 tentang Tata Cara Pemungutan dan Penyetoran Pajak Rokok"
+  }
+ ],
+ "abstract": "a. bahwa berdasarkan ketentuan Pasal 34 ayat (5) Undang• Undang Nomor 1 Tahun 2022 tentang Hubungan Keuangan antara Pemerintah Pusat dan Pemerintahan Daerah, ketentuan lebih lanjut mengenai tata cara pemungutan dan penyetoran pajak rokok diatur dengan Peraturan Menteri Keuangan;\nb. bahwa berdasarkan ketentuan Pasal 100 ayat (3) Peraturan\nPresiden Nomor 82 Tahun 2018 tentang Jaminan\nKesehatan sebagaimana telah beberapa kali diubah terakhir\ndengan Peraturan Presiden Nomor 64 Tahun 2020 tentang\nPerubahan Kedua atas Peraturan Presiden Nomor 82 Tahun\n2018 tentang Jaminan Kesehatan, ketentuan lebih lanjut mengenai kontribusi dan mekanisme pemotongan pajak rokok diatur dengan Peraturan Menteri Keuangan;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Menteri Keuangan tentang Tata Cara Pemungutan, Pemotongan, dan Penyetoran Pajak Rokok\nPasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 39 Tahun 2008, Undang-Undang Nomor 1 Tahun 2022,Peraturan Pemerintah Nomor 35 Tahun 2023, Peraturan Presiden Nomor 82 Tahun 2018, Peraturan Presiden Nomor 57 Tahun 2020 dan Peraturan Menteri Keuangan Nomor 118/PMK.01/2021\nPeraturan ini mengatur tentang ketentuan umum, tata cara pemungutan pajak rokok, penyetoran pajak rokok, penyaluran bagi hasil pajak rokok, pemootngan pajak rokok sebagai kontribusi dukungan program jaimnan kesehatan, pengembalian kelebihan pembayaran pajak rokok, pelaporan pemantauan dan rekonsiliasi, ketentuan lain-lain dan ketentuan penutup",
+ "note": "Peraturan Menteri Keuangan ini mulai berlaku pada tanggal 22 Desember 2023.\nPeraturan Menteri Keuangan Nomor 115/PMK.07 /2013 tentang Tata Cara Pemungutan dan Penyetoran Pajak Rokok dan Peraturan Menteri Keuangan Nomor 128/PMK.07 /2018 tentang Tata Cara Pemotongan Pajak Rokok sebagai Kontribusi Dukungan Program Jaminan Kesehatan dicabut dan dinyatakan tidak berlaku",
+ "citations": [
+  "PERPRES-2020-64",
+  "PERPRES-2018-82",
+  "UU-2008-39",
+  "UU-2022-1",
+  "PP-2023-35",
+  "PERPRES-2020-57",
+  "PMK-2021-118"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/342767/2023pmkeuangan143.pdf"
+ ],
+ "fetched_at": "2026-11-02T04:58:13Z"
+}

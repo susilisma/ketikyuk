@@ -1,0 +1,44 @@
+{
+ "id": "PERMENDAG-2019-79",
+ "source": "bpk",
+ "bpk_id": 128644,
+ "url": "https://peraturan.bpk.go.id/Details/128644/x",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "79",
+ "number_raw": "79",
+ "year": 2019,
+ "title": "Peraturan Menteri Perdagangan Nomor 79 Tahun 2019 tentang Perubahan Atas Peraturan Menteri Perdagangan Nomor 73/M-Dag/PER/9/2015 Tentang Kewajiban Pencantuman Label Dalam Bahasa Indonesia Pada Barang",
+ "about": "Perubahan Atas Peraturan Menteri Perdagangan Nomor 73/M-Dag/PER/9/2015 Tentang Kewajiban Pencantuman Label Dalam Bahasa Indonesia Pada Barang",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "Alias",
+ "date_enacted": "2019-10-18",
+ "date_promulgated": "2019-10-18",
+ "date_effective": "2020-04-18",
+ "gazette": "BN 2019/NO 1240; KEMENDAG.GO.ID : 4 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2021-25",
+   "target_bpk_id": 166549,
+   "label": "Permendag No. 25 Tahun 2021",
+   "about": "Penetapan Barang Yang Wajib Menggunakan Atau Melengkapi Label Berbahasa Indonesia"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PERMENDAG-2015-73",
+   "target_bpk_id": 128992,
+   "label": "Permendag No. 73/M-DAG/PER/9/2015 Tahun 2015",
+   "about": "Kewajiban Pencantuman Label dalam Bahasa Indonesia pada Barang"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 18 April 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/119579/Permendag%20No.%2079%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-11-02T04:58:25Z"
+}

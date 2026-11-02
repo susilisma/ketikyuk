@@ -1,0 +1,44 @@
+{
+ "id": "PP-2012-27",
+ "source": "bpk",
+ "bpk_id": 5239,
+ "url": "https://peraturan.bpk.go.id/Details/5239/x",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "27",
+ "number_raw": "27",
+ "year": 2012,
+ "title": "Peraturan Pemerintah (PP) Nomor 27 Tahun 2012 tentang Izin Lingkungan",
+ "about": "Izin Lingkungan",
+ "issuer": "Pemerintah Pusat",
+ "subject": "LINGKUNGAN HIDUP",
+ "field": "Alias",
+ "date_enacted": "2012-02-23",
+ "date_promulgated": "2012-02-23",
+ "date_effective": "2012-02-23",
+ "gazette": "LN. 2012 No.48, TLN No. 5285, LL SETNEG : 35 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2021-22",
+   "target_bpk_id": 161852,
+   "label": "PP No. 22 Tahun 2021",
+   "about": "Penyelenggaraan Perlindungan dan Pengelolaan Lingkungan Hidup"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-1999-27",
+   "target_bpk_id": 54280,
+   "label": "PP No. 27 Tahun 1999",
+   "about": "Analisis Mengenai Dampak Lingkungan Hidup"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 23 Februari 2012.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/34941/PP%20Nomor%2027%20Tahun%202012.pdf"
+ ],
+ "fetched_at": "2026-11-02T04:58:50Z"
+}

@@ -1,0 +1,38 @@
+{
+ "id": "PERBKPM-2021-5",
+ "source": "bpk",
+ "bpk_id": 169019,
+ "url": "https://peraturan.bpk.go.id/Details/169019/peraturan-bkpm-no-5-tahun-2021",
+ "form": "PERBKPM",
+ "form_long": "Peraturan Badan Koordinasi Penanaman Modal",
+ "number": "5",
+ "number_raw": "5",
+ "year": 2021,
+ "title": "Peraturan Badan Koordinasi Penanaman Modal Nomor 5 Tahun 2021 tentang Pedoman dan Tata Cara Pengawasan Perizinan Berusaha Berbasis Risiko",
+ "about": "Pedoman dan Tata Cara Pengawasan Perizinan Berusaha Berbasis Risiko",
+ "issuer": "Badan Koordinasi Penanaman Modal",
+ "subject": "PERIZINAN, PELAYANAN PUBLIK - STANDAR / PEDOMAN",
+ "field": "Alias",
+ "date_enacted": "2021-03-29",
+ "date_promulgated": "2021-04-01",
+ "date_effective": "2021-06-02",
+ "gazette": "BN 2021/ NO 273; https://jdih.bkpm.go.id/ : 82 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 169020,
+   "label": "Peraturan BKPM No. 6 Tahun 2020",
+   "about": "Pedoman dan Tata Cara Pengendalian Pelaksanaan Penanaman Modal"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Badan Koordinasi Penanaman Modal ini mulai berlaku pada tanggal 02 Juni 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/162098/5._2021_Salinan_Perbkpm_Pengawasan_.pdf",
+  "https://peraturan.bpk.go.id/Download/162099/5._2021_Salinan_Lampiran_Perban_Pengawasan_.pdf"
+ ],
+ "fetched_at": "2026-11-02T04:57:01Z"
+}

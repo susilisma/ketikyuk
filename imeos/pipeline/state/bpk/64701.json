@@ -1,0 +1,44 @@
+{
+ "id": "PP-2017-46",
+ "source": "bpk",
+ "bpk_id": 64701,
+ "url": "https://peraturan.bpk.go.id/Details/64701/x",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "46",
+ "number_raw": "46",
+ "year": 2017,
+ "title": "Peraturan Pemerintah (PP) Nomor 46 Tahun 2017 tentang Instrumen Ekonomi Lingkungan Hidup",
+ "about": "Instrumen Ekonomi Lingkungan Hidup",
+ "issuer": "Pemerintah Pusat",
+ "subject": "LINGKUNGAN HIDUP - PEREKONOMIAN",
+ "field": "Alias",
+ "date_enacted": "2017-11-10",
+ "date_promulgated": "2017-11-10",
+ "date_effective": "2017-11-10",
+ "gazette": "LN.2017/No. 228, TLN NO.6134, LL SETNEG : 38 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut sebagian dengan",
+   "target": "PP-2021-22",
+   "target_bpk_id": 161852,
+   "label": "PP No. 22 Tahun 2021",
+   "about": "Penyelenggaraan Perlindungan dan Pengelolaan Lingkungan Hidup"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PP-2021-22",
+   "target_bpk_id": 161852,
+   "label": "PP No. 22 Tahun 2021",
+   "about": "Penyelenggaraan Perlindungan dan Pengelolaan Lingkungan Hidup"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 10 November 2017.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/54917/PP%20Nomor%2046%20Tahun%202017.pdf"
+ ],
+ "fetched_at": "2026-11-02T04:58:56Z"
+}

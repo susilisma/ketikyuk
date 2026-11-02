@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2018-66",
+ "source": "bpk",
+ "bpk_id": 112486,
+ "url": "https://peraturan.bpk.go.id/Details/112486/pmk-no-66pmk042018",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "66",
+ "number_raw": "66/PMK.04/2018",
+ "year": 2018,
+ "title": "Peraturan Menteri Keuangan Nomor 66/PMK.04/2018 Tahun 2018 tentang Tata Cara Pemberian, Pembekuan, Dan Pencabutan Nomor Pokok Pengusaha Barang Kena Cukai",
+ "about": "Tata Cara Pemberian, Pembekuan, Dan Pencabutan Nomor Pokok Pengusaha Barang Kena Cukai",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN",
+ "field": "Alias",
+ "date_enacted": "2018-06-29",
+ "date_promulgated": "2018-07-05",
+ "date_effective": "2018-07-05",
+ "gazette": "BN. 2018/No. 854, UJDIH.Kemenkeu.go.id, 111 hal",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2015-32",
+   "target_bpk_id": 146303,
+   "label": "PMK No. 32/PMK.04/2015",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 202/PMK.04/2008 tentang Tata Cara Pemberian, Pembekuan, dan Pencabutan Nomor Pokok Pengusaha Barang Kena Cukai untuk Pengusaha Pabrik, Pengusaha Tempat Penyimpanan, Importir, dan Pengusaha Tempat Penjualan Eceran Etil Alkohol"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2008-202",
+   "target_bpk_id": 146304,
+   "label": "PMK No. 202/PMK.04/2008",
+   "about": "Tata Cara Pemberian, Pembekuan, dan Pancabutan Nomor Pokok Pengusaha Barang Kena Cukai untuk Pengusaha Pabrik, Pengusaha Tempat Penyimpanan, Importir, dan Pengusaha Tempat Penjualan Eceran Etil Alkohol"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 05 Juli 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/103427/PMK%20Nomor%2066%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-11-02T04:58:03Z"
+}

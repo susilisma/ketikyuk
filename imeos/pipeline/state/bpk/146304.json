@@ -1,0 +1,58 @@
+{
+ "id": "PMK-2008-202",
+ "source": "bpk",
+ "bpk_id": 146304,
+ "url": "https://peraturan.bpk.go.id/Details/146304/x",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "202",
+ "number_raw": "202/PMK.04/2008",
+ "year": 2008,
+ "title": "Peraturan Menteri Keuangan Nomor 202/PMK.04/2008 Tahun 2008 tentang Tata Cara Pemberian, Pembekuan, dan Pancabutan Nomor Pokok Pengusaha Barang Kena Cukai untuk Pengusaha Pabrik, Pengusaha Tempat Penyimpanan, Importir, dan Pengusaha Tempat Penjualan Eceran Etil Alkohol",
+ "about": "Tata Cara Pemberian, Pembekuan, dan Pancabutan Nomor Pokok Pengusaha Barang Kena Cukai untuk Pengusaha Pabrik, Pengusaha Tempat Penyimpanan, Importir, dan Pengusaha Tempat Penjualan Eceran Etil Alkohol",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN",
+ "field": "Alias",
+ "date_enacted": "2008-12-09",
+ "date_promulgated": null,
+ "date_effective": "2008-12-09",
+ "gazette": "https://peraturan.bcperak.net; 21 hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2018-66",
+   "target_bpk_id": 112486,
+   "label": "PMK No. 66/PMK.04/2018",
+   "about": "Tata Cara Pemberian, Pembekuan, Dan Pencabutan Nomor Pokok Pengusaha Barang Kena Cukai"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2015-32",
+   "target_bpk_id": 146303,
+   "label": "PMK No. 32/PMK.04/2015",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 202/PMK.04/2008 tentang Tata Cara Pemberian, Pembekuan, dan Pencabutan Nomor Pokok Pengusaha Barang Kena Cukai untuk Pengusaha Pabrik, Pengusaha Tempat Penyimpanan, Importir, dan Pengusaha Tempat Penjualan Eceran Etil Alkohol"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2007-48",
+   "target_bpk_id": 146305,
+   "label": "PMK No. 48/PMK.04/2007",
+   "about": "Nomor Pokok Pengusaha Barang Kena Cukai untuk Pengusaha Pabrik Etil Alkohol dan Pengusaha Tempat Penyimpanan"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 146308,
+   "label": "KMK No. 641/KMK.05/1997",
+   "about": "Pemberian Dan Pencabutan Nomor Pokok Pengusaha Tempat Penjualan Eceran Etil Alkohol Dan Minuman Mengandung Etil Alkohol"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 09 Desember 2008.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/245396/PMK%20Nomor%20202%20Tahun%202008.pdf"
+ ],
+ "fetched_at": "2026-11-02T04:58:29Z"
+}

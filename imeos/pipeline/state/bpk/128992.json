@@ -1,0 +1,58 @@
+{
+ "id": "PERMENDAG-2015-73",
+ "source": "bpk",
+ "bpk_id": 128992,
+ "url": "https://peraturan.bpk.go.id/Details/128992/x",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "73",
+ "number_raw": "73/M-DAG/PER/9/2015",
+ "year": 2015,
+ "title": "Peraturan Menteri Perdagangan Nomor 73/M-DAG/PER/9/2015 Tahun 2015 tentang Kewajiban Pencantuman Label dalam Bahasa Indonesia pada Barang",
+ "about": "Kewajiban Pencantuman Label dalam Bahasa Indonesia pada Barang",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PERLINDUNGAN KONSUMEN - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "Alias",
+ "date_enacted": "2015-09-28",
+ "date_promulgated": null,
+ "date_effective": "2015-10-01",
+ "gazette": "JDIH.KEMENDAG.GO.ID : 9 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2021-25",
+   "target_bpk_id": 166549,
+   "label": "Permendag No. 25 Tahun 2021",
+   "about": "Penetapan Barang Yang Wajib Menggunakan Atau Melengkapi Label Berbahasa Indonesia"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PERMENDAG-2019-79",
+   "target_bpk_id": 128644,
+   "label": "Permendag No. 79 Tahun 2019",
+   "about": "Perubahan Atas Peraturan Menteri Perdagangan Nomor 73/M-Dag/PER/9/2015 Tentang Kewajiban Pencantuman Label Dalam Bahasa Indonesia Pada Barang"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2014-10",
+   "target_bpk_id": 129059,
+   "label": "Permendag No. 10/M-DAG/PER/1/2014 Tahun 2014",
+   "about": "Perubahan atas Peraturan Menteri Perdagangan Nomor 67/M-DAG/PER/11/2013 tentang Kewajiban Pencantuman Label Dalam Bahasa Indonesia pada Barang"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2013-67",
+   "target_bpk_id": 129325,
+   "label": "Permendag No. 67/M-DAG/PER/11/2013 Tahun 2013",
+   "about": "Kewajiban Pencantuman Label Dalam Bahasa Indonesia pada Barang"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 01 Oktober 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/265092/Permendag%20No.%2073%20Tahun%202015.pdf"
+ ],
+ "fetched_at": "2026-11-02T04:58:27Z"
+}

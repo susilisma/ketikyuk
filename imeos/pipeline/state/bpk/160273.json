@@ -1,0 +1,37 @@
+{
+ "id": "PERMENDAG-2020-50",
+ "source": "bpk",
+ "bpk_id": 160273,
+ "url": "https://peraturan.bpk.go.id/Details/160273/permendag-no-50-tahun-2020",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "50",
+ "number_raw": "50",
+ "year": 2020,
+ "title": "Peraturan Menteri Perdagangan Nomor 50 Tahun 2020 tentang Ketentuan Perizinan Usaha, Periklanan, Pembinaan, dan Pengawasan Pelaku Usaha dalam Perdagangan Melalui Sistem Elektronik",
+ "about": "Ketentuan Perizinan Usaha, Periklanan, Pembinaan, dan Pengawasan Pelaku Usaha dalam Perdagangan Melalui Sistem Elektronik",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN - TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET - PERIZINAN, PELAYANAN PUBLIK",
+ "field": "Alias",
+ "date_enacted": "2020-05-13",
+ "date_promulgated": "2020-05-19",
+ "date_effective": "2020-11-19",
+ "gazette": "BN.2020/No.498, peraturan.go.id : 30 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PERMENDAG-2023-31",
+   "target_bpk_id": 265202,
+   "label": "Permendag No. 31 Tahun 2023",
+   "about": "Perizinan Berusaha, Periklanan, Pembinaan, dan Pengawasan Pelaku Usaha dalam Perdagangan melalui Sistem Elektronik"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 19 November 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/152863/Permendag%20Nomor%2050%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-11-02T04:57:52Z"
+}

@@ -1,0 +1,65 @@
+{
+ "id": "PMK-2018-17",
+ "source": "bpk",
+ "bpk_id": 111984,
+ "url": "https://peraturan.bpk.go.id/Details/111984/x",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "17",
+ "number_raw": "17/PMK.010/2018",
+ "year": 2018,
+ "title": "Peraturan Menteri Keuangan Nomor 17/PMK.010/2018 Tahun 2018 tentang Perubahan Kedua Atas Peraturan Menteri Keuangan Nomor 6/PMK.010/2017 Tentang Penetapan Sistem Klasifikasi Barang Dan Pembebanan Tarif Bea Masuk Atas Barang Impor",
+ "about": "Perubahan Kedua Atas Peraturan Menteri Keuangan Nomor 6/PMK.010/2017 Tentang Penetapan Sistem Klasifikasi Barang Dan Pembebanan Tarif Bea Masuk Atas Barang Impor",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN",
+ "field": "Alias",
+ "date_enacted": "2018-02-15",
+ "date_promulgated": "2018-02-15",
+ "date_effective": "2018-03-01",
+ "gazette": "BN.2018/NO.277, JDIH.KEMENKEU.GO.ID : 5 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2022-26",
+   "target_bpk_id": 215104,
+   "label": "PMK No. 26/PMK.010/2022",
+   "about": "Penetapan Sistem Klasifikasi Barang dan Pembebanan Tarif Bea Masuk atas Barang Impor"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2022-13",
+   "target_bpk_id": 214754,
+   "label": "PMK No. 13/PMK.010/2022",
+   "about": "Perubahaan Keempat Atas Peraturan Menteri Keuangan Nomor 6/PMK.010/2017 tentang Penetapan Sistem Klasifikasi Barang dan Pembebanan Tarif Bea Masuk atas Barang Impor"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2020-17",
+   "target_bpk_id": 136806,
+   "label": "PMK No. 17/PMK.010/2020",
+   "about": "Perubahan Ketiga Atas Peraturan Menteri Keuangan Nomor 6/PMK.010/2017 Tentang Penetapan Sistem Klasifikasi Barang Dan Pembebanan Tarif Bea Masuk Atas Barang Impor"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PMK-2017-6",
+   "target_bpk_id": 112584,
+   "label": "PMK No. 6/PMK.010/2017",
+   "about": "Penetapan Sistem Klasifikasi Barang Dan Pembebanan Tarif Bea Masuk Atas Barang Impor"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PMK-2017-213",
+   "target_bpk_id": 112970,
+   "label": "PMK No. 213/PMK.010/2017",
+   "about": "Perubahan Atas Peraturan Menteri Keuangan Nomor 6/PMK.010/2017 Tentang Penetapan Sistem Klasifikasi Barang Dan Pembebanan Tarif Bea Masuk Atas Barang Impor"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 01 Maret 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/102937/PMK%20Nomor%2017%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-11-02T04:58:36Z"
+}

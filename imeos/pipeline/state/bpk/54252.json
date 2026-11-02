@@ -1,0 +1,37 @@
+{
+ "id": "PP-1999-19",
+ "source": "bpk",
+ "bpk_id": 54252,
+ "url": "https://peraturan.bpk.go.id/Details/54252/x",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "19",
+ "number_raw": "19",
+ "year": 1999,
+ "title": "Peraturan Pemerintah (PP) Nomor 19 Tahun 1999 tentang Pengendalian Pencemaran Dan/Atau Perusakan Laut",
+ "about": "Pengendalian Pencemaran Dan/Atau Perusakan Laut",
+ "issuer": "Pemerintah Pusat",
+ "subject": "LINGKUNGAN HIDUP",
+ "field": "Alias",
+ "date_enacted": "1999-02-27",
+ "date_promulgated": "1999-02-27",
+ "date_effective": "1999-02-27",
+ "gazette": "LN. 1999 No. 32 , TLN No. 3816, LL SETNEG : 8 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2021-22",
+   "target_bpk_id": 161852,
+   "label": "PP No. 22 Tahun 2021",
+   "about": "Penyelenggaraan Perlindungan dan Pengelolaan Lingkungan Hidup"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 27 Februari 1999.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/43649/PP%20No.%2019%20th%201999.pdf"
+ ],
+ "fetched_at": "2026-11-02T04:58:54Z"
+}

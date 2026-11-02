@@ -1,0 +1,60 @@
+{
+ "id": "UU-2022-1",
+ "source": "bpk",
+ "bpk_id": 195696,
+ "url": "https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022",
+ "form": "UU",
+ "form_long": "Undang-undang (UU)",
+ "number": "1",
+ "number_raw": "1",
+ "year": 2022,
+ "title": "Undang-undang (UU) Nomor 1 Tahun 2022 tentang Hubungan Keuangan antara Pemerintah Pusat dan Pemerintahan Daerah",
+ "about": "Hubungan Keuangan antara Pemerintah Pusat dan Pemerintahan Daerah",
+ "issuer": "Pemerintah Pusat",
+ "subject": "APBD - APBN - OTONOMI DAERAH DAN PEMERINTAH DAERAH - PENGELOLAAN KEUANGAN NEGARA / DAERAH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2022-01-05",
+ "date_promulgated": "2022-01-05",
+ "date_effective": "2022-01-05",
+ "gazette": "LN.2022/No.4, TLN No.6757, jdih.setneg.go.id : 100 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "UU-2009-28",
+   "target_bpk_id": 38763,
+   "label": "UU No. 28 Tahun 2009",
+   "about": "Pajak Daerah dan Retribusi Daerah"
+  },
+  {
+   "type": "Mencabut",
+   "target": "UU-2004-33",
+   "target_bpk_id": 40770,
+   "label": "UU No. 33 Tahun 2004",
+   "about": "Perimbangan Keuangan antara Pemerintah Pusat dan Pemerintahan Daerah"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-2020-11",
+   "target_bpk_id": 149750,
+   "label": "UU No. 11 Tahun 2020",
+   "about": "Cipta Kerja"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": "UU-2014-23",
+   "target_bpk_id": 38685,
+   "label": "UU No. 23 Tahun 2014",
+   "about": "Pemerintahan Daerah"
+  }
+ ],
+ "abstract": "Untuk menciptakan alokasi sumber daya nasional yang efektif dan efisien, perlu diatur tata kelola hubungan keuangan antara pemerintah pusat dan pemerintahan daerah yang adil, selaras, dan akuntabel berdasarkan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.\nDasar hukum UU ini adalah Pasal 5 ayat (1), Pasal 18, Pasal 18A ayat (2), Pasal 18B, Pasal 20, dan Pasal 23A Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.\nUU ini mengatur mengenai lingkup hubungan keuangan antara pemerintah pusat dan pemerintah daerah yang meliputi: 1) pemberian sumber penerimaan daerah berupa pajak dan retribusi; 2) pengelolaan Transfer ke Daerah/TKD; 3) pengelolaan belanja daerah; 4) pemberian kewenangan untuk melakukan pembiayaan daerah; dan 5) pelaksanaan sinergi kebijakan fiskal nasional. Dalam rangka mengalokasikan sumber daya nasional secara lebih efisien, Pemerintah memberikan kewenangan kepada Daerah untuk memungut Pajak dan Retribusi dengan penguatan melalui restrukturisasi jenis Pajak, pemberian sumber-sumber perpajakan daerah yang baru, penyederhanaan jenis Retribusi, dan harmonisasi dengan UU Nomor 11 Tahun 2020 tentang Cipta Kerja. Selain itu, penyederhanaan retribusi dilakukan melalui rasionalisasi jumlah retribusi. Retribusi diklasifikasikan dalam 3 (tiga) jenis, yaitu Retribusi Jasa Umum, Retribusi Jasa Usaha, dan Retribusi Perizinan Tertentu. Dalam rangka mencapai tujuan untuk mengurangi ketimpangan fiskal dan kesenjangan pelayanan antar-daerah, pengelolaan TKD mengedepankan kinerja sehingga dapat memenuhi kebutuhan penyelenggaraan pemerintahan dan pelayanan di daerah, sekaligus mendorong tanggung jawab daerah dalam memberikan pelayanan yang lebih baik secara efisien dan disiplin.",
+ "note": "Undang-undang (UU) ini mulai berlaku pada tanggal 05 Januari 2022.\nPeraturan pelaksanaan dari Undang-Undang ini ditetapkan paling lama 2 (dua) tahun sejak Undang-Undang ini mulai berlaku.\nUU ini mencabut UU Nomor 33 Tahun 2004 dan UU Nomor 28 Tahun 2009. Selain itu, UU ini juga mencabut beberapa pasal dalam UU Nomor 23 Tahun 2014 sebagaimana telah diubah beberapa kali terakhir dengan UU Nomor 11 Tahun 2020, sehingga UU ini juga mengubah ketentuan dalam UU Nomor 11 Tahun 2020 tentang Cipta Kerja.\nPenjelasan 43 hlm.",
+ "citations": [
+  "UU-2020-11"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf"
+ ],
+ "fetched_at": "2026-11-02T04:58:24Z"
+}

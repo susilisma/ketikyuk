@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2019-49",
+ "source": "bpk",
+ "bpk_id": 128035,
+ "url": "https://peraturan.bpk.go.id/Details/128035/x",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "49",
+ "number_raw": "49/PMK.03/2019",
+ "year": 2019,
+ "title": "Peraturan Menteri Keuangan Nomor 49/PMK.03/2019 Tahun 2019 tentang Tata Cara Pelaksanaan Prosedur Persetujuan Bersama",
+ "about": "Tata Cara Pelaksanaan Prosedur Persetujuan Bersama",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "Alias",
+ "date_enacted": "2019-04-26",
+ "date_promulgated": "2019-04-26",
+ "date_effective": "2019-04-26",
+ "gazette": "PERATURAN.GO.ID : 44 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2023-172",
+   "target_bpk_id": 288349,
+   "label": "PMK No. 172 Tahun 2023",
+   "about": "Penerapan Prinsip Kewajaran Dan Kelaziman Usaha Dalam Transaksi Yang Dipengaruhi Hubungan Istimewa"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2014-240",
+   "target_bpk_id": 121988,
+   "label": "PMK No. 240/PMK.03/2014",
+   "about": "Tata Cara Pelaksanaan Prosedur Persetujuan Bersama (Mutual Agreement Procedure)"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 26 April 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/119032/49~PMK.03~2009Per.pdf"
+ ],
+ "fetched_at": "2026-11-02T04:58:45Z"
+}

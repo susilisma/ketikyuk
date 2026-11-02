@@ -1,0 +1,47 @@
+{
+ "id": "PMK-2022-63",
+ "source": "bpk",
+ "bpk_id": 215514,
+ "url": "https://peraturan.bpk.go.id/Details/215514/pmk-no-63pmk032022",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "63",
+ "number_raw": "63/PMK.03/2022",
+ "year": 2022,
+ "title": "Peraturan Menteri Keuangan Nomor 63/PMK.03/2022 Tahun 2022 tentang Pajak Pertambahan Nilai atas Penyerahan Hasil Tembakau",
+ "about": "Pajak Pertambahan Nilai atas Penyerahan Hasil Tembakau",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "Alias",
+ "date_enacted": "2022-03-30",
+ "date_promulgated": "2022-03-30",
+ "date_effective": "2022-04-01",
+ "gazette": "BN.2022/NO. 363; https:jdih.kemenkeu.go.id :10 Hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PMK-2016-207",
+   "target_bpk_id": 146055,
+   "label": "PMK No. 207/PMK.010/2016",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 174/PMK.03/2015 Tentang Tata Cara Penghitungan dan Pemungutan Pajak Pertambahan Nilai atas Penyerahan Hasil Tembakau"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2015-174",
+   "target_bpk_id": 121727,
+   "label": "PMK No. 174/PMK.03/2015",
+   "about": "Tata Cara Penghitungan Dan Pemungutan Pajak Pertambahan Nilai Atas Penyerahan Hasil Tembakau"
+  }
+ ],
+ "abstract": "Bahwa untuk meningkatkan kepastian hukum, mendorong peran serta masyarakat,\ndan memberikan kemudahan dan penyederhanaan administrasi perpajakan serta rasa\nkeadilan atas kegiatan membangun sendiri, perlu dilakukan penyesuaian terhadap\nPeraturan Menteri Keuangan Nomor 163/PMK.03/2012 dan untuk melaksanakan\nketentuan Pasal 16C dan Pasal 16G huruf i Undang-Undang Nomor 8 Tahun 1983, perlu\nmenetapkan Peraturan Menteri Keuangan tentang Pajak Pertambahan Nilai atas\nPenyerahan Hasil Tembakau.\nPasal 17 ayat (3) UUD Tahun 1945, UU 8 Tahun 1983 (LN Tahun 1983 No.51 TLN\nNo.3264) sebagaimana telah diubah terakhir dengan UU 42 Tahun 2009 (LN Tahun\n2009 No.150 TLN No.5069), UU 39 Tahun 2008 (LN Tahun 2008 No.166, TLN No.4916),\nPerpres RI 57 Tahun 2020 (LN Tahun 2020 No.98), Permenkeu RI 118/PMK.01/2021\n(BN Tahun 2021 No.1031).\nDalam Peraturan Menteri Keuangan Republik Indonesia ini diatur:\nAtas penyerahan Hasil Tembakau yang dibuat di dalam negen oleh Produsen atau Hasil\nTembakau yang dibuat di luar negen oleh Importir, dikenai Pajak Pertambahan Nilai.\nDalam hal Pajak Pertambahan Nilai atas Hasil Tembakau yang dibuat di luar negeri\ntelah dilunasi, atas impor Hasil Tembakau yang dibuat di luar negeri dimaksud tidak\ndikenai Pajak Pertambahan Nilai impor. Atas impor Hasil Tembakau yang memperoleh\nfasilitas cukai tidak dipungut atau pembebasan cukai, dikenai Pajak Pertambahan Nilai\nimpor sesuai dengan ketentuan peraturan perundang-undangan di bidang perpajakan.\nPajak Pertambahan Nilai yang dikenakan atas penyerahan Hasil Tembakau dihitung\ndengan cara mengalikan tarif Pajak Pertambahan Nilai dengan Nilai Lain sebagai Dasar\nPengenaan Pajak. Pajak Pertambahan Nilai atas penyerahan Hasil Tembakau dipungut\n1 (satu) kali oleh Produsen atau Importir. Atas penyerahan Hasil Tembakau yang telah\ndipungut Pajak Pertambahan Nilai oleh Produsen dan/ atau Importir dari Pengusaha\nPenyalur kepada Pengusaha Penyalur lainnya atau kepada konsumen akhir, Pengusaha\nPenyalur tidak memungut dan menyetor Pajak Pertambahan Nilai. Pajak Masukan atas\nperolehan Barang Kena Pajak dan/ atau Jasa Kena Pajak, impor Barang Kena Pajak,\nserta pemanfaatan Barang Kena Pajak tidak berwujud dan/atau pemanfaatan Jasa\nKena Pajak dari luar daerah pabean di dalam daerah pabean sehubungan dengan\npenyerahan Hasil Tembakau oleh Produsen dan/atau Importir dapat dikreditkan\nsepanJang memenuhi ketentuan pengkreditan Pajak Masukan sesuai dengan\nketentuan peraturan perundang-undangan di bidang perpajakan.",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 01 April 2022.\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor\n174 /PMK.03/2015 (Berita Negara Republik Indonesia Tahun 2015 Nomor 1407)\nsebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 207\n/PMK.010/2016 (Berita Negara Republik Indonesia Tahun 2016 Nomor 2056), dicabut\ndan dinyatakan tidak berlaku.\n12 HLM, Lampiran halaman 11-12.",
+ "citations": [
+  "PMK-2012-163",
+  "UU-1983-8"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/209796/63_PMK.03_2022.pdf"
+ ],
+ "fetched_at": "2026-11-02T04:58:11Z"
+}

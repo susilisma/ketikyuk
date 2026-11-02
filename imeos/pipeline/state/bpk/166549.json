@@ -1,0 +1,44 @@
+{
+ "id": "PERMENDAG-2021-25",
+ "source": "bpk",
+ "bpk_id": 166549,
+ "url": "https://peraturan.bpk.go.id/Details/166549/permendag-no-25-tahun-2021",
+ "form": "PERMENDAG",
+ "form_long": "Peraturan Menteri Perdagangan",
+ "number": "25",
+ "number_raw": "25",
+ "year": 2021,
+ "title": "Peraturan Menteri Perdagangan Nomor 25 Tahun 2021 tentang Penetapan Barang Yang Wajib Menggunakan Atau Melengkapi Label Berbahasa Indonesia",
+ "about": "Penetapan Barang Yang Wajib Menggunakan Atau Melengkapi Label Berbahasa Indonesia",
+ "issuer": "Kementerian Perdagangan",
+ "subject": "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN",
+ "field": "Alias",
+ "date_enacted": "2021-04-01",
+ "date_promulgated": "2021-04-01",
+ "date_effective": "2021-05-01",
+ "gazette": "BN.2021/No. 281; http://jdih.kemendag.go.id : 4 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2019-79",
+   "target_bpk_id": 128644,
+   "label": "Permendag No. 79 Tahun 2019",
+   "about": "Perubahan Atas Peraturan Menteri Perdagangan Nomor 73/M-Dag/PER/9/2015 Tentang Kewajiban Pencantuman Label Dalam Bahasa Indonesia Pada Barang"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PERMENDAG-2015-73",
+   "target_bpk_id": 128992,
+   "label": "Permendag No. 73/M-DAG/PER/9/2015 Tahun 2015",
+   "about": "Kewajiban Pencantuman Label dalam Bahasa Indonesia pada Barang"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Perdagangan ini mulai berlaku pada tanggal 01 Mei 2021.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/269197/Permendag%20Nomor%2025%20Tahun%202021%20(1).pdf"
+ ],
+ "fetched_at": "2026-11-02T04:57:55Z"
+}

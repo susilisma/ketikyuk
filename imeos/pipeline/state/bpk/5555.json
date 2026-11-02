@@ -1,0 +1,51 @@
+{
+ "id": "PP-2014-101",
+ "source": "bpk",
+ "bpk_id": 5555,
+ "url": "https://peraturan.bpk.go.id/Details/5555/x",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "101",
+ "number_raw": "101",
+ "year": 2014,
+ "title": "Peraturan Pemerintah (PP) Nomor 101 Tahun 2014 tentang Pengelolaan Limbah Bahan Berbahaya Dan Beracun",
+ "about": "Pengelolaan Limbah Bahan Berbahaya Dan Beracun",
+ "issuer": "Pemerintah Pusat",
+ "subject": "LINGKUNGAN HIDUP",
+ "field": "Alias",
+ "date_enacted": "2014-10-17",
+ "date_promulgated": "2014-10-17",
+ "date_effective": "2014-10-17",
+ "gazette": "LN. 2014 No. 333, TLN No. 5617, LL SETNEG : 187 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2021-22",
+   "target_bpk_id": 161852,
+   "label": "PP No. 22 Tahun 2021",
+   "about": "Penyelenggaraan Perlindungan dan Pengelolaan Lingkungan Hidup"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-1999-85",
+   "target_bpk_id": 54590,
+   "label": "PP No. 85 Tahun 1999",
+   "about": "Perubahan Atas Peraturan Pemerintah Nomor 18 Tahun 1999 Tentang Pengelolaan Limbah Bahan Berbahaya Dan Beracun"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PP-1999-18",
+   "target_bpk_id": 54248,
+   "label": "PP No. 18 Tahun 1999",
+   "about": "Pengelolaan Limbah Bahan Berbahaya Dan Beracun"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 17 Oktober 2014.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/29890/PP%20Nomor%20101%20Tahun%202014.pdf"
+ ],
+ "fetched_at": "2026-11-02T04:58:49Z"
+}

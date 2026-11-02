@@ -1,0 +1,60 @@
+{
+ "id": "PMK-2020-17",
+ "source": "bpk",
+ "bpk_id": 136806,
+ "url": "https://peraturan.bpk.go.id/Details/136806/x",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "17",
+ "number_raw": "17/PMK.010/2020",
+ "year": 2020,
+ "title": "Peraturan Menteri Keuangan Nomor 17/PMK.010/2020 Tahun 2020 tentang Perubahan Ketiga Atas Peraturan Menteri Keuangan Nomor 6/PMK.010/2017 Tentang Penetapan Sistem Klasifikasi Barang Dan Pembebanan Tarif Bea Masuk Atas Barang Impor",
+ "about": "Perubahan Ketiga Atas Peraturan Menteri Keuangan Nomor 6/PMK.010/2017 Tentang Penetapan Sistem Klasifikasi Barang Dan Pembebanan Tarif Bea Masuk Atas Barang Impor",
+ "issuer": "Kementerian Keuangan",
+ "subject": "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN",
+ "field": "Alias",
+ "date_enacted": "2020-03-10",
+ "date_promulgated": "2020-03-11",
+ "date_effective": "2020-03-25",
+ "gazette": "BN. 2020/NO. 238, JDIH.KEMENKEU.GO.ID : 11 HLM",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": "PMK-2022-13",
+   "target_bpk_id": 214754,
+   "label": "PMK No. 13/PMK.010/2022",
+   "about": "Perubahaan Keempat Atas Peraturan Menteri Keuangan Nomor 6/PMK.010/2017 tentang Penetapan Sistem Klasifikasi Barang dan Pembebanan Tarif Bea Masuk atas Barang Impor"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PMK-2018-17",
+   "target_bpk_id": 111984,
+   "label": "PMK No. 17/PMK.010/2018",
+   "about": "Perubahan Kedua Atas Peraturan Menteri Keuangan Nomor 6/PMK.010/2017 Tentang Penetapan Sistem Klasifikasi Barang Dan Pembebanan Tarif Bea Masuk Atas Barang Impor"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PMK-2017-6",
+   "target_bpk_id": 112584,
+   "label": "PMK No. 6/PMK.010/2017",
+   "about": "Penetapan Sistem Klasifikasi Barang Dan Pembebanan Tarif Bea Masuk Atas Barang Impor"
+  },
+  {
+   "type": "Mengubah",
+   "target": "PMK-2017-213",
+   "target_bpk_id": 112970,
+   "label": "PMK No. 213/PMK.010/2017",
+   "about": "Perubahan Atas Peraturan Menteri Keuangan Nomor 6/PMK.010/2017 Tentang Penetapan Sistem Klasifikasi Barang Dan Pembebanan Tarif Bea Masuk Atas Barang Impor"
+  }
+ ],
+ "abstract": "bahwa untuk menarik investasi dan mendukung pengembangan produksi kendaraan bermotor, serta meningkatkan daya saing industri petrokimia melalui harmonisasi tarif bea masuk hulu-hilir produk industri kimia, perlu melakukan perubahan terhadap ketentuan mengenai sistem klasifikasi barang dan pembebanan tarif bea masuk atas barang impor dengan menetapkan Peraturan Menteri Keuangan Tentang Perubahan Ketiga atas Peraturan Menteri Keuangan Nomor 6/PMK.010/2017 tentang Penetapan Sistem Klasifikasi Barang dan Pembebanan Tarif Bea Masuk atas Barang Impor.\nDasar Hukum Peraturan ini adalah:\nPasal 17 ayat (3) UUD 1945, UU 10 Tahun 1995 (LN Tahun 1995 No.75, TLN No.3612) sebagaimana telah diubah dengan UU 17 Tahun 2006 (LN Tahun 2006 No.93, TLN No.4661), UU 39 Tahun 2008 (LN Tahun 2008 No.166, TLN No.4916), Perpres RI Nomor 28 Tahun 2015 (LN Tahun 2015 No.51), Perpres RI Nomor 68 Tahun 2019 (LN Tahun 2019 No.203), Permenkeu RI Nomor 6/PMK.010/2017 (BN Tahun 2017 No.176) sebagaimana telah beberapa kali diubah terakhir dengan Permenkeu RI Nomor 17/PMK.010/2018 (BN Tahun 2018 No.277), Permenkeu RI Nomor 217/PMK.01/2018 (BN Tahun 2018 No.1862) sebagaimana telah beberapa kali diubah terakhir dengan Permenkeu RI Nomor 229/PMK.01/2019 (BN Tahun 2019 No.1745).\nDalam Peraturan Menteri Keuangan Republik Indonesia ini diatur:\nCatatan Bab 98 yang tercantum dalam Lampiran II Peraturan Menteri Keuangan Nomor 6/PMK.010/2017 tentang Penetapan Sistem Klasifikasi Barang dan Pembebanan Tarif Bea Masuk atas Barang Impor, diubah sehingga menjadi sebagaimana tercantum dalam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.\nPengenaan tarif bea masuk sebagaimana dimaksud dalam Pasal I angka 2 dan angka 3, berlaku atas impor barang yang dokumen pemberitahuan pabean impornya telah terdaftar pada Kantor Pabean terhitung sejak tanggal berlakunya Peraturan Menteri ini.",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 25 Maret 2020.\n-\n-\n11 HLM, Lampiran halaman 7 s.d. 11.",
+ "citations": [
+  "PMK-2017-6"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/127712/17_PMK.010_2020.pdf"
+ ],
+ "fetched_at": "2026-11-02T04:58:35Z"
+}

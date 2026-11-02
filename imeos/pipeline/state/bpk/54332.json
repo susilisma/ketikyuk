@@ -1,0 +1,37 @@
+{
+ "id": "PP-1999-41",
+ "source": "bpk",
+ "bpk_id": 54332,
+ "url": "https://peraturan.bpk.go.id/Details/54332/x",
+ "form": "PP",
+ "form_long": "Peraturan Pemerintah (PP)",
+ "number": "41",
+ "number_raw": "41",
+ "year": 1999,
+ "title": "Peraturan Pemerintah (PP) Nomor 41 Tahun 1999 tentang Pengendalian Pencemaran Udara",
+ "about": "Pengendalian Pencemaran Udara",
+ "issuer": "Pemerintah Pusat",
+ "subject": "LINGKUNGAN HIDUP",
+ "field": "Alias",
+ "date_enacted": "1999-05-26",
+ "date_promulgated": "1999-05-26",
+ "date_effective": "1999-05-26",
+ "gazette": "LN. 1999 No. 88 , LL SETNEG : 15 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PP-2021-22",
+   "target_bpk_id": 161852,
+   "label": "PP No. 22 Tahun 2021",
+   "about": "Penyelenggaraan Perlindungan dan Pengelolaan Lingkungan Hidup"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Pemerintah (PP) ini mulai berlaku pada tanggal 26 Mei 1999.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/43748/PP%20No.%2041%20th%201999.pdf"
+ ],
+ "fetched_at": "2026-11-02T04:58:53Z"
+}

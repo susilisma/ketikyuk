@@ -1,0 +1,44 @@
+{
+ "id": "PMK-2018-150",
+ "source": "bpk",
+ "bpk_id": 113460,
+ "url": "https://peraturan.bpk.go.id/Details/113460/x",
+ "form": "PMK",
+ "form_long": "Peraturan Menteri Keuangan",
+ "number": "150",
+ "number_raw": "150/PMK.010/2018",
+ "year": 2018,
+ "title": "Peraturan Menteri Keuangan Nomor 150/PMK.010/2018 Tahun 2018 tentang Pemberian Fasilitas Pengurangan Pajak Penghasilan Badan",
+ "about": "Pemberian Fasilitas Pengurangan Pajak Penghasilan Badan",
+ "issuer": "Kementerian Keuangan",
+ "subject": "PERPAJAKAN",
+ "field": "Alias",
+ "date_enacted": "2018-11-26",
+ "date_promulgated": "2018-11-27",
+ "date_effective": "2018-11-27",
+ "gazette": "BN.2018/NO.1553, JDIH.KEMENKEU.GO.ID : 22 HLM.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "PMK-2020-130",
+   "target_bpk_id": 148016,
+   "label": "PMK No. 130/PMK.010/2020",
+   "about": "Pemberian Fasilitas Pengurangan Pajak Penghasilan Badan"
+  },
+  {
+   "type": "Mencabut",
+   "target": "PMK-2018-35",
+   "target_bpk_id": 112118,
+   "label": "PMK No. 35/PMK.010/2018",
+   "about": "Pemberian Fasilitas Pengurangan Pajak Penghasilan Badan"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Keuangan (PMK) ini mulai berlaku pada tanggal 27 November 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/104416/PMK%20Nomor%20150%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-11-02T04:58:31Z"
+}

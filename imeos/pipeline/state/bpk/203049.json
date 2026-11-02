@@ -1,0 +1,51 @@
+{
+ "id": "PERMENKOMINFO-2020-5",
+ "source": "bpk",
+ "bpk_id": 203049,
+ "url": "https://peraturan.bpk.go.id/Details/203049/permenkominfo-no-5-tahun-2020",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Informatika",
+ "number": "5",
+ "number_raw": "5",
+ "year": 2020,
+ "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 5 Tahun 2020 tentang Penyelenggara Sistem Elektronik Lingkup Privat",
+ "about": "Penyelenggara Sistem Elektronik Lingkup Privat",
+ "issuer": "Kementerian Komunikasi dan Informatika",
+ "subject": "TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET",
+ "field": "Alias",
+ "date_enacted": "2020-11-16",
+ "date_promulgated": "2020-11-24",
+ "date_effective": "2020-11-24",
+ "gazette": "BN.2020/No.1376, peraturan.go.id : 40 hlm.",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 203121,
+   "label": "Permenkominfo No. 10 Tahun 2021",
+   "about": "Perubahan atas Peraturan Menteri Komunikasi dan Informatika Nomor 5 Tahun 2020 tentang Penyelenggara Sistem Elektronik Lingkup Privat"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 151474,
+   "label": "Permenkominfo No. 36 Tahun 2014",
+   "about": "Tata Cara Pendaftaran Penyelenggara Sistem Elektronik"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 161734,
+   "label": "Permenkominfo No. 19 Tahun 2014",
+   "about": "Penanganan Situs Internet Bermuatan Negatif"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Komunikasi dan Informatika ini mulai berlaku pada tanggal 24 November 2020.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/197017/Nomor%205%20Tahun%202020.pdf"
+ ],
+ "fetched_at": "2026-11-02T04:57:58Z"
+}
