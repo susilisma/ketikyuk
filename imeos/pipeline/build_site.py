@@ -135,16 +135,30 @@ def amendment_target(texts_rec, rec):
 
 
 def text_revocations(t):
-    """Regulations a text revokes in its closing provisions ("Pada saat ... mulai berlaku, X ... dicabut dan dinyatakan
-    tidak berlaku"). BPK metadata often lags on this, e.g. BKPM 5/2025 revoking BKPM 4/2021."""
+    """(whole, partial) regulations a text revokes in its closing provisions.
+
+    BPK metadata often lags, e.g. BKPM 5/2025 revoking BKPM 4/2021. Only the first citation of each
+    list item is the target (later ones are its amendments), and an item that opens with "Pasal 30",
+    "ketentuan mengenai ..." or similar revokes just that part, so the regulation stays in force.
+    """
     body = "\n".join(a["text"] for a in t.get("articles", []))
-    out = set()
+    whole, partial = set(), set()
     for m in re.finditer(r"dicabut\s+dan\s+dinyatakan\s+tidak\s+berlaku", body, re.I):
         seg = body[max(0, m.start() - 2500):m.start()]
         k = seg.rfind("Pada saat")
-        if k >= 0:
-            out.update(extract_citations(seg[k:]))
-    return out
+        if k < 0:
+            continue
+        seg = seg[k:]
+        head = re.search(r"mulai\s+berlaku\s*,?", seg, re.I)
+        seg = seg[head.end():] if head else seg
+        for item in re.split(r"(?:^|\s)[a-z]\.\s+", seg):
+            cites = extract_citations(item)
+            if not cites:
+                continue
+            start = re.search(r"(?:Undang|Peraturan|Keputusan)\S*\s+\S+\s+\S*\s*(?:Nomor|No\.)", item)
+            prefix = item[:start.start()] if start else item
+            (partial if re.search(r"Pasal|ketentuan|kebijakan|sebagian|mengenai|Lampiran|Bab\b", prefix, re.I) else whole).add(cites[0])
+    return whole, partial
 
 
 def write(path, data):
@@ -186,15 +200,21 @@ def build(max_text=40, min_relevance=55, summarize_docs=True):
 
     # ---- revocations stated in the text itself (same form only: a Permen cannot revoke a PP)
     for rid, t in texts.items():
-        for tgt in text_revocations(t):
+        whole, partial = text_revocations(t)
+        for tgt, is_whole in [(x, True) for x in whole] + [(x, False) for x in partial - whole]:
             r, g = recs[rid], recs.get(tgt)
             if not g or tgt == rid or g["form"] != r["form"] or rid in g["revoked_by"]:
                 continue
-            g["revoked_by"] = sorted(set(g["revoked_by"]) | {rid})
-            g["status"] = "revoked"
-            g["relations"].append({"type": "Dicabut dengan", "target": rid, "label": f"{r['form']} {r['number_raw']}/{r['year']}", "source": "text"})
+            if is_whole:
+                g["revoked_by"] = sorted(set(g["revoked_by"]) | {rid})
+                g["status"] = "revoked"
+            elif g["status"] in ("in_force", "amended"):
+                g["status"] = "partially_revoked"
+            g["relations"].append({"type": "Dicabut dengan" if is_whole else "Dicabut sebagian dengan", "target": rid,
+                                   "label": f"{r['form']} {r['number_raw']}/{r['year']}", "source": "text"})
             if not any(x.get("target") == tgt for x in r["relations"]):
-                r["relations"].append({"type": "Mencabut", "target": tgt, "label": f"{g['form']} {g['number_raw']}/{g['year']}", "source": "text"})
+                r["relations"].append({"type": "Mencabut" if is_whole else "Mencabut sebagian", "target": tgt,
+                                       "label": f"{g['form']} {g['number_raw']}/{g['year']}", "source": "text"})
 
     # ---- diffs along amendment chains
     chains = defaultdict(list)

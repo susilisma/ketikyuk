@@ -19,6 +19,9 @@ function Run($exe, [string[]]$argv) {
 }
 function Fail($msg) { Say "FAILED: $msg"; exit 1 }
 
+# Runs at 07:00 and again at logon, so skip if today's run already succeeded.
+if ((Test-Path $log) -and (Select-String -Path $log -Pattern "  (pushed|no changes)$" -Quiet)) { exit 0 }
+
 Set-Location $repo
 Say "pull"
 if ((Run "git" @("pull", "--rebase", "--quiet", "origin", "master")) -ne 0) { Fail "git pull" }
