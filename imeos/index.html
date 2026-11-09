@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Indonesia Market Entry OS</title>
 <meta name="description" content="Indonesia Market Entry OS — market access, PMA set-up, BPOM/SNI/halal, import licensing, tax, employment, KITAS, timeline, budget, and a regulatory intelligence library with law diffs. 中文 · English · Bahasa Indonesia.">
-<link rel="stylesheet" href="/imeos/assets/os.css?v=20261102">
+<link rel="stylesheet" href="/imeos/assets/os.css?v=20261109">
 <style>
 .tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px}
 .tile{display:block;background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:20px;box-shadow:var(--shadow);color:inherit;transition:.15s transform}
@@ -44,7 +44,7 @@
   </div>
   <p class="disclaimer" data-t="h.disc"></p>
 </main>
-<script src="/imeos/assets/i18n.js?v=20261102"></script>
+<script src="/imeos/assets/i18n.js?v=20261109"></script>
 <script>
 addI18N({
   "h.eyebrow": ["Indonesia Market Entry OS · 中国企业印尼落地操作系统", "Indonesia Market Entry OS · for companies entering Indonesia", "Indonesia Market Entry OS · sistem masuk pasar Indonesia"],
@@ -63,7 +63,7 @@ addI18N({
   "k.new": ["新增", "New", "Baru"], "k.amendment": ["修订", "Amended", "Perubahan"], "k.revocation": ["废止", "Revoked", "Pencabutan"],
 });
 </script>
-<script src="/imeos/assets/common.js?v=20261102"></script>
+<script src="/imeos/assets/common.js?v=20261109"></script>
 <script>
 const f = L(I18N.flow); $("#flow").innerHTML = f.slice(0, 5).map((x) => `<span>${x}</span>`).join("<i>→</i>") + "<i>⇒</i>" + f.slice(5).map((x) => `<span>${x}</span>`).join("");
 fetch("/imeos/data/regintel/meta.json").then((r) => r.json()).then((m) => { $("#regcount").textContent = T("regs", { n: m.total, d: m.diffs }); }).catch(() => { $("#regcount").textContent = T("open"); });

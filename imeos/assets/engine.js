@@ -68,7 +68,7 @@ addI18N({
   "e.noStaff": ["暂无本地雇员", "No local employees yet", "Belum ada pekerja lokal"],
   "e.noStaffBody": ["分销商员工不得受你方直接指挥，否则有劳动关系与 PE 风险。", "Do not direct the distributor's staff, or employment and PE risks arise.", "Jangan mengarahkan pekerja distributor secara langsung, agar tidak timbul risiko hubungan kerja dan BUT."],
   "e.expats": ["外籍人员 {n} 名：办理路径", "{n} expatriates: process", "{n} TKA: alur"], "e.expatStep": ["{a}：{b}（约 {w1}–{w2} 周）", "{a}: {b} (~{w1}–{w2} weeks)", "{a}: {b} (±{w1}–{w2} minggu)"],
-  "e.notes": ["注意事项", "Notes", "Catatan"], "e.tkaV": ["新《劳工保护法》已通过，外籍劳工条款待正式文本确认", "The new labour law has passed; confirm its foreign-worker rules in the final text", "UU ketenagakerjaan baru sudah disahkan; pastikan ketentuan TKA pada teks final"],
+  "e.notes": ["注意事项", "Notes", "Catatan"], "e.tkaV": ["新《劳工保护法》UU 27/2026 已生效，含外籍劳工专章，细则以法律文本和后续条例为准", "The new labour law UU 27/2026 is in force and has a foreign-worker chapter; check the text and implementing rules", "UU 27/2026 sudah berlaku dan memuat bab TKA; periksa teks UU dan peraturan pelaksananya"],
   "e.fees": ["费用", "Fees", "Biaya"], "e.kitasFee": ["工作 KITAS 每人约 {a}–{b}，另 DKP-TKA USD {d}/人/年", "Work KITAS ≈ {a}–{b} per person, plus DKP-TKA USD {d} per person per year", "KITAS kerja ≈ {a}–{b} per orang, ditambah DKP-TKA USD {d}/orang/tahun"],
   "e.expatTax": ["外籍人员薪酬缴 PPh 21（税务居民）并加入 BPJS（居留 ≥ 6 个月）。", "Expat pay is subject to PPh 21 (residents) and BPJS (stay ≥ 6 months).", "Gaji TKA dikenai PPh 21 (SPDN) dan BPJS (tinggal ≥ 6 bulan)."],
   "e.noExpat": ["无常驻外籍人员", "No resident expatriates", "Tanpa TKA menetap"],
@@ -183,7 +183,7 @@ window.ENGINE = (() => {
       lab.push({ title: T("e.contracts"), body: Ls([Lb.pkwt, Lb.pkwtt, Lb.hours, Lb.thr]), refs: ["PP-2021-35", "PERMENAKER-2016-6"] });
       lab.push({ title: T("e.bpjs"), body: [T("e.bpjsTk", { j: K().bpjs.tk.jkk.map((j) => (j[1] * 100).toFixed(2) + "%").join("/"), c: idr(K().bpjs.tk.jpCap) }), T("e.bpjsKes", { c: idr(K().bpjs.kes.cap) }), L(K().bpjs.tk.jkp)], refs: [], v: T("e.jpV") });
       lab.push({ title: T("e.sever"), body: Ls(Lb.severance), refs: ["PP-2021-35"] });
-      lab.push({ title: T("e.oblig"), body: Ls(Lb.obligations), refs: ["UU-2003-13", "UU-2023-6"] });
+      lab.push({ title: T("e.oblig"), body: Ls(Lb.obligations), refs: ["UU-2026-27", "UU-2003-13", "UU-2023-6"] });
     } else lab.push({ title: T("e.noStaff"), body: [T("e.noStaffBody")], refs: [] });
     push("labor", lab);
 
