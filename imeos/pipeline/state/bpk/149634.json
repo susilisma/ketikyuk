@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKOMINFO-2018-3",
+ "source": "bpk",
+ "bpk_id": 149634,
+ "url": "https://peraturan.bpk.go.id/Details/149634/permenkominfo-no-3-tahun-2018",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Informatika",
+ "number": "3",
+ "number_raw": "3",
+ "year": 2018,
+ "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 3 Tahun 2018 tentang Organisasi Dan Tata Kerja Badan Aksesibilitas Telekomunikasi dan Informasi",
+ "about": "Organisasi Dan Tata Kerja Badan Aksesibilitas Telekomunikasi dan Informasi",
+ "issuer": "Kementerian Komunikasi dan Informatika",
+ "subject": "PROGRAM, RENCANA PEMBANGUNAN DAN RENCANA KERJA - TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET - STRUKTUR ORGANISASI",
+ "field": "Alias",
+ "date_enacted": "2018-05-23",
+ "date_promulgated": "2018-06-05",
+ "date_effective": "2018-06-05",
+ "gazette": "BN.2018/NO.739; KOMINFO..GO.ID ;23 HLM",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 359608,
+   "label": "Permenkomdigi No. 13 Tahun 2026",
+   "about": "Organisasi dan Tata Kerja Badan Aksesibilitas Telekomunikasi dan Informasi"
+  },
+  {
+   "type": "Diubah dengan",
+   "target": null,
+   "target_bpk_id": 259754,
+   "label": "Permenkominfo No. 4 Tahun 2023",
+   "about": "Perubahan atas Peraturan Menteri Komunikasi dan Informatika Nomor 3 Tahun 2018 tentang Organisasi dan Tata Kerja Badan Aksesibilitas Telekomunikasi dan Informasi"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Komunikasi dan Informatika ini mulai berlaku pada tanggal 05 Juni 2018.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/141680/Permen%20Kominfo%20Nomor%203%20Tahun%202018.pdf"
+ ],
+ "fetched_at": "2026-11-09T04:33:21Z"
+}

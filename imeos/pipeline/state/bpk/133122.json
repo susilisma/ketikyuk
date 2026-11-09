@@ -1,0 +1,44 @@
+{
+ "id": "PERMENKUMHAM-2019-8",
+ "source": "bpk",
+ "bpk_id": 133122,
+ "url": "https://peraturan.bpk.go.id/Details/133122/permenkumham-no-8-tahun-2019",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "8",
+ "number_raw": "8",
+ "year": 2019,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 8 Tahun 2019 tentang Standar Pengelolaan Dokumen dan Informasi Hukum",
+ "about": "Standar Pengelolaan Dokumen dan Informasi Hukum",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "ARSIP - TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET - JARINGAN DOKUMENTASI DAN INFORMASI HUKUM / JDIH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2019-06-10",
+ "date_promulgated": "2019-06-25",
+ "date_effective": "2019-06-25",
+ "gazette": "BN.2019/NO.692, peraturan.go.id : 122 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 359720,
+   "label": "Permenkum No. 21 Tahun 2026",
+   "about": "Pembangunan Hukum Nasional"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 135715,
+   "label": "Permenkumham No. 2 Tahun 2013",
+   "about": "Standardisasi Pengelolaan Teknis Dokumentasi dan Informasi Hukum"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 25 Juni 2019.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/331492/Permenkumham%20Nomor%208%20Tahun%202019.pdf"
+ ],
+ "fetched_at": "2026-11-09T04:39:22Z"
+}

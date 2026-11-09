@@ -1,0 +1,53 @@
+{
+ "id": "PERMENKOMINFO-2026-13",
+ "source": "bpk",
+ "bpk_id": 359608,
+ "url": "https://peraturan.bpk.go.id/Details/359608/permenkomdigi-no-13-tahun-2026-organisasi-dan-tata-kerja-badan-aksesibilitas-tel",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Digital",
+ "number": "13",
+ "number_raw": "13",
+ "year": 2026,
+ "title": "Peraturan Menteri Komunikasi dan Digital Nomor 13 Tahun 2026 tentang Organisasi dan Tata Kerja Badan Aksesibilitas Telekomunikasi dan Informasi",
+ "about": "Organisasi dan Tata Kerja Badan Aksesibilitas Telekomunikasi dan Informasi",
+ "issuer": "Kementerian Komunikasi dan Digital",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-10-14",
+ "date_promulgated": "2026-10-15",
+ "date_effective": "2026-10-15",
+ "gazette": "BN 2026 (672); 20 hlm",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 259754,
+   "label": "Permenkominfo No. 4 Tahun 2023",
+   "about": "Perubahan atas Peraturan Menteri Komunikasi dan Informatika Nomor 3 Tahun 2018 tentang Organisasi dan Tata Kerja Badan Aksesibilitas Telekomunikasi dan Informasi"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 149634,
+   "label": "Permenkominfo No. 3 Tahun 2018",
+   "about": "Organisasi Dan Tata Kerja Badan Aksesibilitas Telekomunikasi dan Informasi"
+  }
+ ],
+ "abstract": "bahwa Peraturan Menteri Komunikasi dan Informatika\nNomor 3 Tahun 2018 tentang Organisasi dan Tata Kerja\nBadan Aksesibilitas Telekomunikasi dan Informasi\nsebagaimana telah diubah dengan Peraturan Menteri\nKomunikasi dan Informatika Nomor 4 Tahun 2023\ntentang Perubahan atas Peraturan Menteri Komunikasi\ndan Informatika Nomor 3 Tahun 2018 tentang\nOrganisasi dan Tata Kerja Badan Aksesibilitas\nTelekomunikasi dan Informasi sudah tidak sesuai\ndengan perkembangan hukum dan kebutuhan\norganisasi, sehingga perlu diganti\nDasar hukum peraturan ini adalah Pasal 17 ayat (3) UUD NRI Tahun 1945; UU No. 39 Tahun 2008 sebagaimana telah diubah dengan UU No. 61 Tahun 2024; PP No. 23 Tahun 2005 sebagaimana telah diubah dengan PP No. 74 Tahun 2012; Perpres No. 174 Tahun 2024; PMK No. 129/PMK.05/2020 sebagaimana telah beberapa kali diubah terakhir dengan PMK No. 76 Tahun 2025; Permenkomdigi No. 1 Tahun 2025.\nPeraturan ini mengatur mengenai kedudukan, tugas, dan fungsi Bakti; susunan organisasi Bakti yang terdiri atas terdiri atas:\na. Direktorat Keuangan;\nb. Direktorat Sumber Daya dan Umum;\nc. Direktorat Strategi Infrastruktur dan Teknologi\nInformasi;\nd. Direktorat Operasi Infrastruktur dan Teknologi\nInformasi;\ne. Direktorat Pemberdayaan Bisnis;\nf. Satuan Pemeriksaan Intern; dan\ng. jabatan fungsional dan jabatan pelaksana; tata kerja; lokasi dan wilayah kerja; jabatan, pengangkatan, dan pemberhentian; penataan organisasi",
+ "note": "Peraturan Menteri Komunikasi dan Digital ini mulai berlaku pada tanggal 15 Oktober 2026.\nPada saat Peraturan Menteri ini mulai berlaku, seluruh\nketentuan pelaksanaan dari Peraturan Menteri Komunikasi\ndan Informatika Nomor 3 Tahun 2018 tentang Organisasi\ndan Tata Kerja Badan Aksesibilitas Telekomunikasi dan\nInformasi (Berita Negara Republik Indonesia Tahun 2018\nNomor 739) sebagaimana telah diubah dengan Peraturan\nMenteri Komunikasi dan Informatika Nomor 4 Tahun 2023\ntentang Perubahan atas Peraturan Menteri Komunikasi dan\nInformatika Nomor 3 Tahun 2018 tentang Organisasi dan\nTata Kerja Badan Aksesibilitas Telekomunikasi dan\nInformasi (Berita Negara Republik Indonesia Tahun 2023\nNomor 164), dinyatakan masih tetap berlaku sepanjang\ntidak bertentangan dengan Peraturan Menteri ini.",
+ "citations": [
+  "PERMENKOMINFO-2018-3",
+  "UU-2008-39",
+  "UU-2024-61",
+  "PP-2005-23",
+  "PP-2012-74",
+  "PERPRES-2024-174",
+  "PMK-2020-129",
+  "PMK-2025-76"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/425148/Permenkomdigi-no-13-tahun-2026.pdf"
+ ],
+ "fetched_at": "2026-11-09T04:33:19Z"
+}

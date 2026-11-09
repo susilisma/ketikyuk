@@ -17,8 +17,15 @@
  "date_promulgated": "2025-11-25",
  "date_effective": "2026-01-01",
  "gazette": "BN 2025 (969): 5 hlm.; peraturan.go.id",
- "status_bpk": "Berlaku",
+ "status_bpk": "Tidak Berlaku",
  "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 359720,
+   "label": "Permenkum No. 21 Tahun 2026",
+   "about": "Pembangunan Hukum Nasional"
+  },
   {
    "type": "Mencabut",
    "target": null,
@@ -37,5 +44,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/414649/Permenkum%20Nomor%2044%20Tahun%202025.pdf"
  ],
- "fetched_at": "2026-10-05T05:18:28Z"
+ "fetched_at": "2026-11-09T04:39:20Z"
 }

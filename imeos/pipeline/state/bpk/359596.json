@@ -1,0 +1,41 @@
+{
+ "id": "PERATURANBI-2026-7",
+ "source": "bpk",
+ "bpk_id": 359596,
+ "url": "https://peraturan.bpk.go.id/Details/359596/peraturan-bi-no-7-tahun-2026-perubahan-kedua-atas-peraturan-bank-indonesia-nomor",
+ "form": "PERATURANBI",
+ "form_long": "Peraturan Bank Indonesia",
+ "number": "7",
+ "number_raw": "7",
+ "year": 2026,
+ "title": "Peraturan Bank Indonesia Nomor 7 Tahun 2026 tentang Perubahan Kedua atas Peraturan Bank Indonesia Nomor 23/13/PBI/2021 tentang Rasio Pembiayaan Inklusif Makroprudensial Bagi Bank Umum Konvensional, Bank Umum Syariah dan Unit Usaha Syariah",
+ "about": "Perubahan Kedua atas Peraturan Bank Indonesia Nomor 23/13/PBI/2021 tentang Rasio Pembiayaan Inklusif Makroprudensial Bagi Bank Umum Konvensional, Bank Umum Syariah dan Unit Usaha Syariah",
+ "issuer": "Bank Indonesia",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-09-29",
+ "date_promulgated": "2026-09-30",
+ "date_effective": "2026-10-01",
+ "gazette": "BN.2026 (29/16 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 219376,
+   "label": "Peraturan BI No. 23/13/PBI/2021",
+   "about": "Rasio Pembiayaan Inklusif Makroprudensial Bagi Bank Umum Konvensional, Bank Umum Syariah, Dan Unit Usaha Syariah"
+  }
+ ],
+ "abstract": "a. bahwa berdasarkan hasil evaluasi terhadap implementasi\nkebijakan rasio pembiayaan inklusif makroprudensial,\ndiperlukan peningkatan akses pembiayaan inklusif oleh\nperbankan melalui perluasan cakupan pembiayaan\ninklusif bagi bank dalam melakukan pemenuhan rasio\npembiayaan inklusif makroprudensial dan penguatan\nlainnya terkait implementasi kebijakan rasio pembiayaan\ninklusif makroprudensial;\nb. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a, perlu dilakukan penyesuaian terhadap\nbeberapa ketentuan dalam Peraturan Bank Indonesia\nNomor 23/13/PBI/2021 tentang Rasio Pembiayaan\nInklusif Makroprudensial bagi Bank Umum Konvensional,\nBank Umum Syariah, dan Unit Usaha Syariah\nsebagaimana telah diubah dengan Peraturan Bank\nIndonesia Nomor 24/3/PBI/2022 tentang Perubahan atas\nPeraturan Bank Indonesia Nomor 23/13/PBI/2021\ntentang Rasio Pembiayaan Inklusif Makroprudensial bagi\nBank Umum Konvensional, Bank Umum Syariah, dan Unit\nUsaha Syariah;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a dan huruf b, perlu menetapkan Peraturan\nBank Indonesia tentang Perubahan Kedua atas Peraturan\nBank Indonesia Nomor 23/13/PBI/2021 tentang Rasio\nPembiayaan Inklusif Makroprudensial bagi Bank Umum\nKonvensional, Bank Umum Syariah, dan Unit Usaha\nSyariah;\nUndang-Undang Nomor 23 Tahun 1999 dan Peraturan Bank Indonesia Nomor 23/13/PBI/2021\nPeraturan ini mengubah beberapa ketentuan dalam Peraturan Bank Indonesia Nomor\n23/13/PBI/2021 tentang Rasio Pembiayaan Inklusif\nMakroprudensial bagi Bank Umum Konvensional, Bank Umum\nSyariah, dan Unit Usaha Syariah sebagaimana telah\ndiubah dengan Peraturan Bank Indonesia Nomor\n24/3/PBI/2022 tentang Perubahan atas Peraturan Bank\nIndonesia Nomor 23/13/PBI/2021 tentang Rasio Pembiayaan\nInklusif Makroprudensial bagi Bank Umum Konvensional,\nBank Umum Syariah, dan Unit Usaha Syariah yaitu tentang ketentuan umum, pemenuhan RPIM, Pemberian Kredit atau Pembiayaan, Pembiayaan Inklusif dan ketentuan lain-lain",
+ "note": "Peraturan Bank Indonesia ini mulai berlaku pada tanggal 01 Oktober 2026.\nPeraturan ini mengubah beberapa Peraturan Bank Indonesia Nomor\n23/13/PBI/2021 tentang Rasio Pembiayaan Inklusif\nMakroprudensial bagi Bank Umum Konvensional, Bank Umum\nSyariah, dan Unit Usaha Syariah",
+ "citations": [
+  "PBI-2021-23",
+  "UU-1999-23",
+  "PBI-2022-24"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/425136/PBI%207%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-11-09T04:48:52Z"
+}

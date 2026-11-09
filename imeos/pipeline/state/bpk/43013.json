@@ -12,13 +12,20 @@
  "about": "Ketenagakerjaan",
  "issuer": "Pemerintah Pusat",
  "subject": "KETENAGAKERJAAN",
- "field": "",
+ "field": "Alias",
  "date_enacted": "2003-03-25",
  "date_promulgated": "2003-03-25",
  "date_effective": "2003-03-25",
  "gazette": "LN.2003/NO.39, TLN NO.4279, LL SETNEG :79 HLM",
- "status_bpk": "Berlaku",
+ "status_bpk": "Tidak Berlaku",
  "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": "UU-2026-27",
+   "target_bpk_id": 359755,
+   "label": "UU No. 27 Tahun 2026",
+   "about": "Pelindungan Ketenagakerjaan"
+  },
   {
    "type": "Diubah dengan",
    "target": "UU-2023-6",
@@ -103,5 +110,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/31128/UU%20Nomor%2013%20Tahun%202003.pdf"
  ],
- "fetched_at": "2026-09-14T05:31:02Z"
+ "fetched_at": "2026-11-09T04:13:23Z"
 }

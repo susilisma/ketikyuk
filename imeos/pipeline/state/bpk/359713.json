@@ -1,0 +1,69 @@
+{
+ "id": "PERMENKUM-2026-16",
+ "source": "bpk",
+ "bpk_id": 359713,
+ "url": "https://peraturan.bpk.go.id/Details/359713/permenkum-no-16-tahun-2026-organisasi-dan-tata-kerja-di-lingkungan-kementerian-h",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "16",
+ "number_raw": "16",
+ "year": 2026,
+ "title": "Peraturan Menteri Hukum Nomor 16 Tahun 2026 tentang Organisasi dan Tata Kerja di Lingkungan Kementerian Hukum",
+ "about": "Organisasi dan Tata Kerja di Lingkungan Kementerian Hukum",
+ "issuer": "Kementerian Hukum",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-10-15",
+ "date_promulgated": "2026-10-15",
+ "date_effective": "2026-10-15",
+ "gazette": "BN 2026 (691): 229 hlm.; https://jdih.kemenkum.go.id/",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 357109,
+   "label": "Permenkum No. 2 Tahun 2026",
+   "about": "Organisasi dan Tata Kerja Balai Pelatihan Hukum"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 314758,
+   "label": "Permenkum No. 2 Tahun 2024",
+   "about": "Organisasi dan Tata Kerja Kantor Wilayah Kementerian Hukum"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 314756,
+   "label": "Permenkum No. 1 Tahun 2024",
+   "about": "Organisasi dan Tata Kerja Kementerian Hukum"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 170951,
+   "label": "Permenkumham No. 7 Tahun 2021",
+   "about": "Organisasi dan Tata Kerja Balai Harta Peninggalan"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133340,
+   "label": "Permenkumham No. 20 Tahun 2014",
+   "about": "Tugas dan Fungsi Atase Hukum pada Perwakilan Republik Indonesia di Negara Malaysia"
+  }
+ ],
+ "abstract": "Untuk mewujudkan organisasi dan tata kerja yang efektif dan efisien guna meningkatkan kinerja pelaksanaan tugas dan fungsi Kementerian Hukum, perlu melakukan penataan organisasi dan tata kerja di lingkungan Kementerian Hukum.\nDasar hukum Peraturan ini adalah Pasal 17 ayat (3) UUD 1945; Staatsblad 1872 No. 166; Staatsblad 1916 No. 517; UU No. 37 Tahun 2004; UU No. 39 Tahun 2008; dan Perpres No. 155 Tahun 2024.\nPeraturan ini mengatur mengenai Organisasi dan Tata Kerja di Lingkungan Kementerian Hukum. Peraturan Menteri ini mengatur organisasi dan tata kerja: a. Kementerian; b. Kantor Wilayah; c. UPT; dan d. Atase Hukum. Kementerian berada di bawah dan bertanggung jawab kepada Presiden dan dipimpin oleh Menteri. Kementerian mempunyai tugas menyelenggarakan urusan pemerintahan di bidang hukum untuk membantu Presiden dalam menyelenggarakan pemerintahan negara.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 15 Oktober 2026.\nPada saat Peraturan Menteri ini mulai berlaku: a. Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 20 Tahun 2014 tentang Tugas dan Fungsi Atase Hukum pada Perwakilan Republik Indonesia di Negara Malaysia (Berita Negara Republik Indonesia Tahun 2014 Nomor 1186); b. Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 7 Tahun 2021 tentang Organisasi dan Tata Kerja Balai Harta Peninggalan (Berita Negara Republik Indonesia Tahun 2021 Nomor 100); c. Peraturan Menteri Hukum Nomor 1 Tahun 2024 tentang Organisasi dan Tata Kerja Kementerian Hukum (Berita Negara Republik Indonesia Tahun 2024 Nomor 832); d. Peraturan Menteri Hukum Nomor 2 Tahun 2024 tentang Organisasi dan Tata Kerja Kantor Wilayah Kementerian Hukum (Berita Negara Republik Indonesia Tahun 2024 Nomor 912); e. Peraturan Menteri Hukum Nomor 2 Tahun 2026 tentang Organisasi dan Tata Kerja Balai Pelatihan Hukum (Berita Negara Republik Indonesia Tahun 2026 Nomor 39), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 229 hlm (batang tubuh hlm 1 sd 163 dan lampiran hlm 164 sd 229)",
+ "citations": [
+  "UU-2004-37",
+  "UU-2008-39",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/425268/Permenkum%20Nomor%2016%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-11-09T04:39:11Z"
+}

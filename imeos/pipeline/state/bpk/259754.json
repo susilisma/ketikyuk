@@ -1,0 +1,54 @@
+{
+ "id": "PERMENKOMINFO-2023-4",
+ "source": "bpk",
+ "bpk_id": 259754,
+ "url": "https://peraturan.bpk.go.id/Details/259754/permenkominfo-no-4-tahun-2023",
+ "form": "PERMENKOMINFO",
+ "form_long": "Peraturan Menteri Komunikasi dan Informatika",
+ "number": "4",
+ "number_raw": "4",
+ "year": 2023,
+ "title": "Peraturan Menteri Komunikasi dan Informatika Nomor 4 Tahun 2023 tentang Perubahan atas Peraturan Menteri Komunikasi dan Informatika Nomor 3 Tahun 2018 tentang Organisasi dan Tata Kerja Badan Aksesibilitas Telekomunikasi dan Informasi",
+ "about": "Perubahan atas Peraturan Menteri Komunikasi dan Informatika Nomor 3 Tahun 2018 tentang Organisasi dan Tata Kerja Badan Aksesibilitas Telekomunikasi dan Informasi",
+ "issuer": "Kementerian Komunikasi dan Informatika",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "Alias",
+ "date_enacted": "2023-08-07",
+ "date_promulgated": "2023-08-09",
+ "date_effective": "2023-08-09",
+ "gazette": "BN 2023 (614): 5 hlm.; jdih.kominfo.go.id",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 359608,
+   "label": "Permenkomdigi No. 13 Tahun 2026",
+   "about": "Organisasi dan Tata Kerja Badan Aksesibilitas Telekomunikasi dan Informasi"
+  },
+  {
+   "type": "Mengubah",
+   "target": null,
+   "target_bpk_id": 149634,
+   "label": "Permenkominfo No. 3 Tahun 2018",
+   "about": "Organisasi Dan Tata Kerja Badan Aksesibilitas Telekomunikasi dan Informasi"
+  }
+ ],
+ "abstract": "Beberapa ketentuan dalam Peraturan Menteri Komunikasi dan Informatika Nomor 3 Tahun 2018 tentang Organisasi dan Tata Kerja Badan Aksesibilitas Telekomunikasi dan Informasi sudah tidak sesuai dengan perkembangan dan kebutuhan organisasi sehingga perlu dilakukan perubahan.\nDasar hukum Peraturan Menteri ini adalah Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 36 Tahun 1999; UU Nomor 39 Tahun 2008; PP Nomor 52 Tahun 2000; PP Nomor 23 Tahun 2005; Perpres Nomor 22 Tahun 2023; Permen PANRB Nomor 68 Tahun 2011; Permen Kominfo Nomor 3 Tahun 2018; Permen Kominfo Nomor 10 Tahun 2018; Peraturan Menteri Keuangan Nomor 129/PMK.05/2020; dan Peraturan Menteri Komunikasi dan Informatika Nomor 12 Tahun 2021.\nPeraturan menteri ini mengubah beberapa ketentuan dalam Peraturan Menteri Kominfo Nomor 3 Tahun 2018. Badan Aksesibilitas Telekomunikasi dan Informasi yang selanjutnya disebut Bakti merupakan unit organisasi noneselon di lingkungan Kementerian Komunikasi dan Informatika yang menerapkan Pola Pengelolaan Keuangan Badan Layanan Umum. Bakti berada di bawah dan bertanggung jawab kepada Menteri melalui Direktur Jenderal Penyelenggaraan Pos dan Informatika sebagai Pembina Teknis.",
+ "note": "Peraturan Menteri Komunikasi dan Informatika ini mulai berlaku pada tanggal 09 Agustus 2023.\nPeraturan menteri ini mengubah Peraturan Menteri Kominfo Nomor 3 Tahun 2018.\nLampiran file: 5 hlm.",
+ "citations": [
+  "PERMENKOMINFO-2018-3",
+  "UU-1999-36",
+  "UU-2008-39",
+  "PP-2000-52",
+  "PP-2005-23",
+  "PERPRES-2023-22",
+  "PMK-2020-129",
+  "PERMENKOMINFO-2021-12",
+  "PERATURANMENTERI-2018-3"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/316750/2023permen4.pdf"
+ ],
+ "fetched_at": "2026-11-09T04:33:20Z"
+}

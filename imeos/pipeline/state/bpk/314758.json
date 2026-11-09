@@ -1,0 +1,48 @@
+{
+ "id": "PERMENKUM-2024-2",
+ "source": "bpk",
+ "bpk_id": 314758,
+ "url": "https://peraturan.bpk.go.id/Details/314758/permenkum-no-2-tahun-2024",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "2",
+ "number_raw": "2",
+ "year": 2024,
+ "title": "Peraturan Menteri Hukum Nomor 2 Tahun 2024 tentang Organisasi dan Tata Kerja Kantor Wilayah Kementerian Hukum",
+ "about": "Organisasi dan Tata Kerja Kantor Wilayah Kementerian Hukum",
+ "issuer": "Kementerian Hukum",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-12-04",
+ "date_promulgated": "2024-12-04",
+ "date_effective": "2024-12-04",
+ "gazette": "BN 2024 (912) : 11 hlm.; peraturan.go.id",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 359713,
+   "label": "Permenkum No. 16 Tahun 2026",
+   "about": "Organisasi dan Tata Kerja di Lingkungan Kementerian Hukum"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": null,
+   "target_bpk_id": 133167,
+   "label": "Permenkumham No. 30 Tahun 2018",
+   "about": "Organisasi dan Tata Kerja Kantor Wilayah Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "Kantor Wilayah Kementerian Hukum melaksanakan sebagian tugas dan fungsi Kementerian Hukum di daerah. Organisasi dan tata kerja Kantor Wilayah Kementerian Hukum telah mendapat persetujuan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia. Berdasarkan pertimbangan dimaksud, perlu menetapkan Peraturan Menteri Hukum tentang Organisasi dan Tata Kerja Kantor Wilayah Kementerian Hukum.\nDasar hukum Permenkum ini adalah Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 39 Tahun 2008; Perpres Nomor 140 Tahun 2024; dan Perpres Nomor 155 Tahun 2024.\nPermenkum ini mengatur mengenai Organisasi dan Tata Kerja Kantor Wilayah Kementerian Hukum. Untuk menyelenggarakan sebagian tugas dan fungsi Kementerian Hukum di daerah, dibentuk Kantor Wilayah di provinsi. Kantor Wilayah berada di wilayah provinsi yang dipimpin oleh Kepala Kantor Wilayah. Kantor Wilayah mempunyai tugas melaksanakan sebagian tugas dan fungsi Kementerian Hukum dalam daerah provinsi berdasarkan kebijakan Menteri dan ketentuan peraturan perundang-undangan.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 04 Desember 2024.\nPada saat Peraturan Menteri ini mulai berlaku, ketentuan yang mengatur mengenai organisasi dan tata kerja di bidang hukum dalam Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 30 Tahun 2018 tentang Organisasi dan Tata Kerja Kantor Wilayah Kementerian Hukum dan Hak Asasi Manusia (Berita Negara Republik Indonesia Tahun 2018 Nomor 1441), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 14 hlm. (batang tubuh hlm 1 s.d. 11 dan lampiran hlm 12 s.d. 14)",
+ "citations": [
+  "UU-2008-39",
+  "PERPRES-2024-140",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/375753/Permenkum%20Nomor%202%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-11-09T04:39:14Z"
+}

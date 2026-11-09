@@ -20,6 +20,13 @@
  "status_bpk": "Berlaku",
  "relations": [
   {
+   "type": "Diubah dengan",
+   "target": "PMK-2026-69",
+   "target_bpk_id": 358529,
+   "label": "PMK No. 69 Tahun 2026",
+   "about": "Perubahan atas Peraturan Menteri Keuangan Nomor 60 Tahun 2026 tentang Penerapan Tarif Bea Masuk Dalam Rangka Persetujuan antara Republik Indonesia dan Jepang Mengenai Suatu Kemitraan Ekonomi (Agreement Between The Republic Of Indonesia and Japan For An Economic Partnership)"
+  },
+  {
    "type": "Mencabut",
    "target": "PMK-2022-50",
    "target_bpk_id": 215309,
@@ -43,5 +50,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/417650/2026pmkeuangan060.pdf"
  ],
- "fetched_at": "2026-10-05T05:03:56Z"
+ "fetched_at": "2026-11-09T04:22:55Z"
 }

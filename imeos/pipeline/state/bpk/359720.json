@@ -1,0 +1,54 @@
+{
+ "id": "PERMENKUM-2026-21",
+ "source": "bpk",
+ "bpk_id": 359720,
+ "url": "https://peraturan.bpk.go.id/Details/359720/permenkum-no-21-tahun-2026-pembangunan-hukum-nasional",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "21",
+ "number_raw": "21",
+ "year": 2026,
+ "title": "Peraturan Menteri Hukum Nomor 21 Tahun 2026 tentang Pembangunan Hukum Nasional",
+ "about": "Pembangunan Hukum Nasional",
+ "issuer": "Kementerian Hukum",
+ "subject": "ADMINISTRASI DAN TATA USAHA NEGARA - JARINGAN DOKUMENTASI DAN INFORMASI HUKUM / JDIH",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-10-15",
+ "date_promulgated": "2026-10-15",
+ "date_effective": "2026-10-15",
+ "gazette": "BN 2026 (691): 229 hlm.; https://jdih.kemenkum.go.id/",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 350894,
+   "label": "Permenkum No. 44 Tahun 2025",
+   "about": "Pengukuran Indeks Pembangunan Hukum dan Penilaian Indeks Reformasi Hukum"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 332118,
+   "label": "Permenkum No. 36 Tahun 2025",
+   "about": "Sistem Penyuluhan Hukum"
+  },
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 133122,
+   "label": "Permenkumham No. 8 Tahun 2019",
+   "about": "Standar Pengelolaan Dokumen dan Informasi Hukum"
+  }
+ ],
+ "abstract": "Penyelenggaraan pembangunan hukum nasional dalam pengukuran indeks pembangunan hukum dan penilaian indeks reformasi hukum, pengelolaan dokumen dan informasi hukum, serta penyelenggaraan penyuluhan hukum masih diatur dalam beberapa Peraturan Menteri Hukum, sehingga diperlukan penataan melalui pengintegrasian dan penyelarasan ketentuan agar tercipta pengaturan yang terpadu, sistematis, dan tidak tumpang tindih serta sesuai dengan perkembangan hukum dan kebutuhan masyarakat.\nDasar hukum Peraturan ini adalah Pasal 17 ayat (3) UUD 1945; UU No. 39 Tahun 2008; dan Perpres No. 33 Tahun 2012.\nPeraturan ini mengatur mengenai Pembangunan Hukum Nasional. Peraturan ini terdiri dari pengukuran IPH dan penilaian IRH; pengelolaan dokumen dan informasi hukum; penyelenggaraan penyuluhan hukum. Menteri menyelenggarakan pengukuran Indeks Pembangunan Hukum (IPH) dan penilaian Indeks Reformasi Hukum (IRH). IPH adalah alat untuk mengukur ketercapaian kinerja pembangunan hukum. Sedangkan IRH adalah alat untuk menilai pelaksanaan reformasi hukum pada Kementerian/Lembaga dan Pemerintah Daerah. Pengukuran IPH dilakukan dengan tahapan: a. perencanaan; b. pelaksanaan; dan c. evaluasi. Pengukuran IPH dilaksanakan oleh Kepala BPHN. Penilaian IRH dilakukan dengan tahapan: a. perencanaan; b. pelaksanaan; c. evaluasi; dan d. tindak lanjut. Hasil penilaian IRH dapat digunakan sebagai bahan dalam pengukuran IPH.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 15 Oktober 2026.\nPada saat Peraturan Menteri ini mulai berlaku: 1) Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 8 Tahun 2019 tentang Standar Pengelolaan Dokumen dan Informasi Hukum (Berita Negara Republik Indonesia Tahun 2019 Nomor 692); 2) Peraturan Menteri Hukum Nomor 36 Tahun 2025 tentang Sistem Penyuluhan Hukum (Berita Negara Republik Indonesia Tahun 2025 Nomor 863); dan 3) Peraturan Menteri Hukum Nomor 44 Tahun 2025 tentang Pengukuran Indeks Pembangunan Hukum dan Penilaian Indeks Reformasi Hukum (Berita Negara Republik Indonesia Tahun 2025 Nomor 969), dicabut dan dinyatakan tidak berlaku.\nPendanaan penyelenggaraan Penyuluhan Hukum bersumber dari: a. anggaran pendapatan dan belanja negara; b. anggaran pendapatan dan belanja daerah provinsi/kabupaten/kota; c. anggaran pendapatan dan belanja desa; dan/atau d. sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan peraturan perundang-undangan.",
+ "citations": [
+  "UU-2008-39",
+  "PERPRES-2012-33"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/425288/Permenkum%20Nomor%2021%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-11-09T04:39:19Z"
+}

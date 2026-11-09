@@ -17,8 +17,15 @@
  "date_promulgated": "2026-01-19",
  "date_effective": "2026-01-19",
  "gazette": "BN 2026 (39): 9 hlm.; peraturan.go.id",
- "status_bpk": "Berlaku",
+ "status_bpk": "Tidak Berlaku",
  "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 359713,
+   "label": "Permenkum No. 16 Tahun 2026",
+   "about": "Organisasi dan Tata Kerja di Lingkungan Kementerian Hukum"
+  },
   {
    "type": "Mencabut",
    "target": null,
@@ -36,5 +43,5 @@
  "pdf": [
   "https://peraturan.bpk.go.id/Download/421130/Permenkum%20No%202%20Tahun%202026.pdf"
  ],
- "fetched_at": "2026-10-05T05:17:13Z"
+ "fetched_at": "2026-11-09T04:39:12Z"
 }

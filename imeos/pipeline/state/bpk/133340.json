@@ -1,0 +1,37 @@
+{
+ "id": "PERMENKUMHAM-2014-20",
+ "source": "bpk",
+ "bpk_id": 133340,
+ "url": "https://peraturan.bpk.go.id/Details/133340/permenkumham-no-20-tahun-2014",
+ "form": "PERMENKUMHAM",
+ "form_long": "Peraturan Menteri Hukum dan HAM",
+ "number": "20",
+ "number_raw": "20",
+ "year": 2014,
+ "title": "Peraturan Menteri Hukum dan HAM Nomor 20 Tahun 2014 tentang Tugas dan Fungsi Atase Hukum pada Perwakilan Republik Indonesia di Negara Malaysia",
+ "about": "Tugas dan Fungsi Atase Hukum pada Perwakilan Republik Indonesia di Negara Malaysia",
+ "issuer": "Kementerian Hukum dan HAM",
+ "subject": "HUBUNGAN INTERNASIONAL / KERJA SAMA INTERNASIONAL",
+ "field": "Alias",
+ "date_enacted": "2014-08-22",
+ "date_promulgated": "2014-08-22",
+ "date_effective": "2014-08-22",
+ "gazette": "BN.2014/No.1186, peraturan.go.id : 7 Hlm",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 359713,
+   "label": "Permenkum No. 16 Tahun 2026",
+   "about": "Organisasi dan Tata Kerja di Lingkungan Kementerian Hukum"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Menteri Hukum dan HAM ini mulai berlaku pada tanggal 22 Agustus 2014.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/124127/Permenkumham%20Nomor%2020%20Tahun%202014.pdf"
+ ],
+ "fetched_at": "2026-11-09T04:39:17Z"
+}

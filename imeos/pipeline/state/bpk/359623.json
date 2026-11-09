@@ -1,0 +1,41 @@
+{
+ "id": "POJK-2026-7",
+ "source": "bpk",
+ "bpk_id": 359623,
+ "url": "https://peraturan.bpk.go.id/Details/359623/peraturan-ojk-no-7-tahun-2026-kewajiban-penyediaan-modal-minimum-dan-pemenuhan-m",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "7",
+ "number_raw": "7",
+ "year": 2026,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 7 Tahun 2026 tentang Kewajiban Penyediaan Modal Minimum dan Pemenuhan Modal Inti Minimum Bank Perekonomian Rakyat",
+ "about": "Kewajiban Penyediaan Modal Minimum dan Pemenuhan Modal Inti Minimum Bank Perekonomian Rakyat",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2026-06-04",
+ "date_promulgated": "2026-06-12",
+ "date_effective": "2026-06-30",
+ "gazette": "BN.2026 (14/27 hlm)",
+ "status_bpk": "Berlaku",
+ "relations": [
+  {
+   "type": "Mencabut",
+   "target": null,
+   "target_bpk_id": 128874,
+   "label": "Peraturan OJK No. 5/POJK.03/2015 Tahun 2015",
+   "about": "Kewajiban Penyediaan Modal Minimum dan Pemenuhan Modal Inti Minimum Bank Perkreditan Rakyat"
+  }
+ ],
+ "abstract": "a. bahwa untuk mewujudkan Bank Perekonomian Rakyat\nyang sehat, berdaya saing, dan berkontribusi dalam\npembangunan perekonomian nasional, diperlukan\npermodalan yang memadai;\nb. bahwa untuk meningkatkan kemampuan Bank\nPerekonomian Rakyat guna penguatan kelembagaan\ndan peningkatan kemampuan untuk menyerap risiko,\ndiperlukan peningkatan kualitas dan kuantitas\npermodalan sesuai dengan perkembangan\nperekonomian nasional;\nc. bahwa Peraturan Otoritas Jasa Keuangan Nomor\n5/POJK.03/2015 tentang Kewajiban Penyediaan Modal\nMinimum dan Pemenuhan Modal Inti Minimum Bank\nPerkreditan Rakyat sudah tidak sesuai dengan\nkebutuhan dan perkembangan Bank Perekonomian\nRakyat, sehingga perlu diganti;\nd. bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a, huruf b, dan huruf c, perlu\nmenetapkan Peraturan Otoritas Jasa Keuangan tentang\nKewajiban Penyediaan Modal Minimum dan\nPemenuhan Modal Inti Minimum Bank Perekonomian\nRakyat;\nUndang-Undang Nomor 7 Tahun 1992 dan Undang-Undang Nomor 21 Tahun 2011\nPeraturan ini mengatur tentang ketentuan umum, modal, modal inti minimum, ketentuan lain-lain dan ketentuan penutup.",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 30 Juni 2026.\nPeraturan ini mencabut dan menyatakan tidak berlaku atas Peraturan Otoritas Jasa Keuangan Nomor 5/POJK.03/2015 tentang Kewajiban Penyediaan Modal\nMinimum dan Pemenuhan Modal Inti Minimum Bank\nPerkreditan Rakyat",
+ "citations": [
+  "POJK-2015-5",
+  "UU-1992-7",
+  "UU-2011-21"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/425163/POJK%20Nomor%207%20Tahun%202026.pdf"
+ ],
+ "fetched_at": "2026-11-09T04:48:13Z"
+}

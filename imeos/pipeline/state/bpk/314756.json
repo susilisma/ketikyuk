@@ -1,0 +1,48 @@
+{
+ "id": "PERMENKUM-2024-1",
+ "source": "bpk",
+ "bpk_id": 314756,
+ "url": "https://peraturan.bpk.go.id/Details/314756/permenkum-no-1-tahun-2024",
+ "form": "PERMENKUM",
+ "form_long": "Peraturan Menteri Hukum",
+ "number": "1",
+ "number_raw": "1",
+ "year": 2024,
+ "title": "Peraturan Menteri Hukum Nomor 1 Tahun 2024 tentang Organisasi dan Tata Kerja Kementerian Hukum",
+ "about": "Organisasi dan Tata Kerja Kementerian Hukum",
+ "issuer": "Kementerian Hukum",
+ "subject": "STRUKTUR ORGANISASI",
+ "field": "HUKUM ADMINISTRASI NEGARA",
+ "date_enacted": "2024-11-12",
+ "date_promulgated": "2024-11-12",
+ "date_effective": "2024-11-12",
+ "gazette": "BN 2024 (832) : 145 hlm.; peraturan.go.id",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 359713,
+   "label": "Permenkum No. 16 Tahun 2026",
+   "about": "Organisasi dan Tata Kerja di Lingkungan Kementerian Hukum"
+  },
+  {
+   "type": "Mencabut sebagian",
+   "target": null,
+   "target_bpk_id": 272052,
+   "label": "Permenkumham No. 28 Tahun 2023",
+   "about": "Organisasi dan Tata Kerja Kementerian Hukum dan Hak Asasi Manusia"
+  }
+ ],
+ "abstract": "Untuk mewujudkan organisasi dan tata kerja yang efektif dan efisien guna meningkatkan kinerja pelaksanaan tugas dan fungsi Kementerian Hukum, perlu melakukan penataan organisasi dan tata kerja Kementerian Hukum.\nDasar hukum Permenkum ini adalah Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; UU Nomor 39 Tahun 2008; Perpres Nomor 140 Tahun 2024; dan Perpres Nomor 155 Tahun 2024.\nPermenkum ini mengatur mengenai organisasi dan tata kerja Kementerian Hukum. Kementerian Hukum yang selanjutnya disebut Kementerian adalah kementerian yang menyelenggarakan urusan pemerintahan di bidang hukum. Kementerian berada di bawah dan bertanggung jawab kepada Presiden yang dipimpim oleh Menteri. Kementerian mempunyai tugas menyelenggarakan urusan pemerintahan di bidang hukum untuk membantu Presiden dalam menyelenggarakan pemerintahan negara.",
+ "note": "Peraturan Menteri Hukum ini mulai berlaku pada tanggal 12 November 2024.\nPada saat Peraturan Menteri ini mulai berlaku, ketentuan yang mengatur unit organisasi Kementerian dalam Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 28 Tahun 2023 tentang Organisasi dan Tata Kerja Kementerian Hukum dan Hak Asasi Manusia Republik Indonesia (Berita Negara Republik Indonesia Tahun 2023 Nomor 900), dicabut dan dinyatakan tidak berlaku.\nLampiran file: 204 hlm. (batang tubuh hlm 1 s.d. 145 dan lampiran hlm 146 s.d. 204)",
+ "citations": [
+  "UU-2008-39",
+  "PERPRES-2024-140",
+  "PERPRES-2024-155"
+ ],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/375751/Permenkum%20Nomor%201%20Tahun%202024.pdf"
+ ],
+ "fetched_at": "2026-11-09T04:39:15Z"
+}

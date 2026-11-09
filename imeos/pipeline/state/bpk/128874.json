@@ -1,0 +1,37 @@
+{
+ "id": "POJK-2015-5",
+ "source": "bpk",
+ "bpk_id": 128874,
+ "url": "https://peraturan.bpk.go.id/Details/128874/peraturan-ojk-no-5pojk032015-tahun-2015",
+ "form": "POJK",
+ "form_long": "Peraturan Otoritas Jasa Keuangan",
+ "number": "5",
+ "number_raw": "5/POJK.03/2015",
+ "year": 2015,
+ "title": "Peraturan Otoritas Jasa Keuangan Nomor 5/POJK.03/2015 Tahun 2015 tentang Kewajiban Penyediaan Modal Minimum dan Pemenuhan Modal Inti Minimum Bank Perkreditan Rakyat",
+ "about": "Kewajiban Penyediaan Modal Minimum dan Pemenuhan Modal Inti Minimum Bank Perkreditan Rakyat",
+ "issuer": "Otoritas Jasa Keuangan",
+ "subject": "PERBANKAN, LEMBAGA KEUANGAN",
+ "field": "Alias",
+ "date_enacted": "2015-03-31",
+ "date_promulgated": "2015-04-01",
+ "date_effective": "2015-04-01",
+ "gazette": "LN.2015/NO.73, TLN NO.5686, Jdih.ojk.go.id: 22 hlm.",
+ "status_bpk": "Tidak Berlaku",
+ "relations": [
+  {
+   "type": "Dicabut dengan",
+   "target": null,
+   "target_bpk_id": 359623,
+   "label": "Peraturan OJK No. 7 Tahun 2026",
+   "about": "Kewajiban Penyediaan Modal Minimum dan Pemenuhan Modal Inti Minimum Bank Perekonomian Rakyat"
+  }
+ ],
+ "abstract": "",
+ "note": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal 01 April 2015.",
+ "citations": [],
+ "pdf": [
+  "https://peraturan.bpk.go.id/Download/119809/POJK%205.%20Kewajiban%20Penyediaan%20Modal%20Minimum%20Bank%20Perkreditan%20Rakyat.pdf"
+ ],
+ "fetched_at": "2026-11-09T04:48:14Z"
+}
