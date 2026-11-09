@@ -4,6 +4,13 @@
 # Native tools write warnings to stderr (pypdf, git), which Windows PowerShell 5.1 turns into
 # terminating errors under "Stop" -- so we keep "Continue" and check exit codes instead.
 $ErrorActionPreference = "Continue"
+# With Windows Terminal as the default console, the scheduled run still opens a window, and closing it
+# kills the job mid-crawl (^C, 0xC000013A). Re-launch once in a headless console that has no window.
+if (-not $env:REGINTEL_CHILD) {
+    $env:REGINTEL_CHILD = "1"
+    Start-Process conhost.exe -WindowStyle Hidden -ArgumentList @("--headless", "powershell.exe", "-NoProfile", "-ExecutionPolicy", "Bypass", "-File", "`"$PSCommandPath`"")
+    exit 0
+}
 $repo = (Resolve-Path "$PSScriptRoot\..\..").Path
 $logDir = Join-Path $PSScriptRoot "logs"
 New-Item -ItemType Directory -Force $logDir | Out-Null
@@ -22,9 +29,11 @@ function Fail($msg) { Say "FAILED: $msg"; exit 1 }
 # Runs at 07:00 and again at logon, so skip if today's run already succeeded.
 if ((Test-Path $log) -and (Select-String -Path $log -Pattern "  (pushed|no changes)$" -Quiet)) { exit 0 }
 
+Say "start (pid $PID)"
 Set-Location $repo
 Say "pull"
-if ((Run "git" @("pull", "--rebase", "--quiet", "origin", "master")) -ne 0) { Fail "git pull" }
+# --autostash: an interrupted run leaves crawl state uncommitted; keep it and carry on.
+if ((Run "git" @("pull", "--rebase", "--autostash", "--quiet", "origin", "master")) -ne 0) { Fail "git pull" }
 
 Say "crawl + build"
 Set-Location $PSScriptRoot
@@ -35,6 +44,6 @@ Run "git" @("add", "imeos/data/regintel", "imeos/pipeline/state") | Out-Null
 git diff --cached --quiet
 if ($LASTEXITCODE -eq 0) { Say "no changes"; exit 0 }
 if ((Run "git" @("commit", "--quiet", "-m", ("RegIntel data update " + (Get-Date -Format "yyyy-MM-dd") + " (local)"))) -ne 0) { Fail "git commit" }
-if ((Run "git" @("pull", "--rebase", "--quiet", "origin", "master")) -ne 0) { Fail "git pull before push" }
+if ((Run "git" @("pull", "--rebase", "--autostash", "--quiet", "origin", "master")) -ne 0) { Fail "git pull before push" }
 if ((Run "git" @("push", "--quiet", "origin", "master")) -ne 0) { Fail "git push" }
 Say "pushed"
